@@ -1,0 +1,7 @@
+node_modules/
+build/
+.vercel/
+*.blend1
+.DS_Store
+.env*
+.vercel

@@ -1,0 +1,21 @@
+{
+  "name": "open-landmarks-collection",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": "22.x"
+  },
+  "scripts": {
+    "build": "node tools/build.mjs",
+    "validate": "node tools/validate.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "dev": "npm run build && node tools/serve.mjs",
+    "snapshot": "npm run build && node tools/freeze.mjs"
+  },
+  "devDependencies": {
+    "esbuild": "0.28.2",
+    "gltf-validator": "2.0.0-dev.3.10",
+    "three": "0.186.0"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "id": "your-landmark",
+  "name": "Your landmark",
+  "anchor": [
+    0,
+    0
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 0,
+      "sha256": "REPLACE_WITH_FULL_SHA256"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 0,
+      "sha256": "REPLACE_WITH_FULL_SHA256"
+    }
+  },
+  "triangles": 0,
+  "boundsBlenderM": [
+    [
+      -10,
+      -10,
+      0
+    ],
+    [
+      10,
+      10,
+      30
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          0,
+          0
+        ],
+        [
+          0.001,
+          0
+        ],
+        [
+          0.001,
+          0.001
+        ],
+        [
+          0,
+          0.001
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    ]
+  },
+  "osm": {
+    "type": "way",
+    "id": 0,
+    "version": 0,
+    "timestamp": "YYYY-MM-DDTHH:mm:ssZ",
+    "url": "https://www.openstreetmap.org/way/REPLACE"
+  },
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains \u00a9 OpenStreetMap contributors, ODbL-1.0",
+  "references": [],
+  "aliases": [],
+  "authors": [
+    "Your name"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "Describe your workflow and any AI assistance",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

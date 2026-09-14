@@ -1,0 +1,204 @@
+{
+  "id": "arc-de-triomphe",
+  "name": "Arc de Triomphe",
+  "anchor": [
+    2.2950372754957606,
+    48.87377739317819
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 26068,
+      "sha256": "5f24023c2900c7fba23c437ed54998f9ce48b7d1f57ea0190f71fb6504951905"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 59668,
+      "sha256": "6a20bf7b3e94ae94141c04460c3091f4dabbbd5b7fac6c36bfc13b4aded07b1a"
+    }
+  },
+  "triangles": 854,
+  "boundsBlenderM": [
+    [
+      -23.76016616821289,
+      -29.079904556274414,
+      0
+    ],
+    [
+      24.12613296508789,
+      29.421850204467773,
+      50
+    ]
+  ],
+  "entranceLights": [
+    [
+      6.298,
+      0.04,
+      22.644
+    ],
+    [
+      21.68,
+      0.04,
+      -9.958
+    ],
+    [
+      -21.319,
+      0.04,
+      9.606
+    ],
+    [
+      -5.904,
+      0.04,
+      -22.993
+    ]
+  ],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          2.2950666,
+          48.8735201
+        ],
+        [
+          2.2950977,
+          48.8735655
+        ],
+        [
+          2.2951447,
+          48.8736319
+        ],
+        [
+          2.2952736,
+          48.8738203
+        ],
+        [
+          2.295321,
+          48.8738873
+        ],
+        [
+          2.2953512,
+          48.8739297
+        ],
+        [
+          2.295018,
+          48.8740363
+        ],
+        [
+          2.2949835,
+          48.87399
+        ],
+        [
+          2.2949356,
+          48.8739238
+        ],
+        [
+          2.2947987,
+          48.8737379
+        ],
+        [
+          2.2947506,
+          48.8736712
+        ],
+        [
+          2.2947196,
+          48.8736281
+        ],
+        [
+          2.2948743,
+          48.8735799
+        ],
+        [
+          2.2950666,
+          48.8735201
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": {
+    "tileset": "protomaps-20260911",
+    "featureIds": [
+      35184598502340,
+      35184598502341,
+      35184598502342,
+      35184598502343,
+      35184598502344,
+      35184598502345,
+      35184598502346,
+      35184598502347,
+      35184598502348,
+      35184598502349,
+      35184598502351,
+      35184598502352,
+      35184598502353,
+      35184598502354,
+      35184598608977,
+      35184598608978
+    ],
+    "toleranceM": 0.75,
+    "sourceZoom": 15
+  },
+  "osm": {
+    "type": "way",
+    "id": 226413508,
+    "version": 55,
+    "timestamp": "2025-08-30T17:59:38Z",
+    "url": "https://www.openstreetmap.org/way/226413508"
+  },
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0",
+  "references": [
+    {
+      "title": "File:Arc de Triomphe - Août 2026.jpg",
+      "author": "ZeusUpsistos",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Arc_de_Triomphe_-_Ao%C3%BBt_2026.jpg",
+      "sourceSha1": "f85808b1ebb5822293b297912cedf190f19d93f8",
+      "use": "visual-reference-only",
+      "view": "front, daylight"
+    },
+    {
+      "title": "File:Arc de Triomphe de l'Etoile, Paris, France (8757216556).jpg",
+      "author": "Luke,Ma from Taipei, Taiwan ROC",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Arc_de_Triomphe_de_l%27Etoile,_Paris,_France_(8757216556).jpg",
+      "sourceSha1": "7a3a73ac752a1aaad43bb5061a843c536cda72d7",
+      "use": "visual-reference-only",
+      "view": "front oblique, daylight"
+    },
+    {
+      "title": "File:Arco del Triunfo París 2025 04.jpg",
+      "author": "Shitvia",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Arco_del_Triunfo_Par%C3%ADs_2025_04.jpg",
+      "sourceSha1": "25a73c5e264f45a542660e47722fd9ab46946e56",
+      "use": "visual-reference-only",
+      "view": "front oblique, daylight"
+    }
+  ],
+  "aliases": [],
+  "authors": [
+    "Open Landmarks contributors"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted architectural interpretation and procedural recipe authoring; deterministic Python/Blender export. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

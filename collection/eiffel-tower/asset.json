@@ -1,0 +1,663 @@
+{
+  "id": "eiffel-tower",
+  "name": "Tour Eiffel",
+  "anchor": [
+    2.2944961557127317,
+    48.85826211154724
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 169556,
+      "sha256": "e133e0e92ccf34488582ef6f4fc4e9229ca08f4a1ee7273bf6a71d327c2948dd"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 169556,
+      "sha256": "e133e0e92ccf34488582ef6f4fc4e9229ca08f4a1ee7273bf6a71d327c2948dd"
+    }
+  },
+  "triangles": 6324,
+  "boundsBlenderM": [
+    [
+      -87.4597396850586,
+      -87.79178619384766,
+      0
+    ],
+    [
+      87.88709259033203,
+      87.55504608154297,
+      330
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          2.2942817,
+          48.8576248
+        ],
+        [
+          2.2942926,
+          48.8576181
+        ],
+        [
+          2.2944653,
+          48.8575069
+        ],
+        [
+          2.2945144,
+          48.8574753
+        ],
+        [
+          2.2947414,
+          48.8576291
+        ],
+        [
+          2.294725,
+          48.8576392
+        ],
+        [
+          2.2947426,
+          48.857651
+        ],
+        [
+          2.294706,
+          48.8576751
+        ],
+        [
+          2.294698,
+          48.8576696
+        ],
+        [
+          2.2946846,
+          48.8576782
+        ],
+        [
+          2.2946744,
+          48.8576865
+        ],
+        [
+          2.2946881,
+          48.8576957
+        ],
+        [
+          2.2946548,
+          48.857717
+        ],
+        [
+          2.2946554,
+          48.8577213
+        ],
+        [
+          2.2946713,
+          48.8577905
+        ],
+        [
+          2.2946982,
+          48.8578393
+        ],
+        [
+          2.2947088,
+          48.8578585
+        ],
+        [
+          2.2947529,
+          48.8579196
+        ],
+        [
+          2.2948133,
+          48.8579803
+        ],
+        [
+          2.2948836,
+          48.85803
+        ],
+        [
+          2.2949462,
+          48.8580637
+        ],
+        [
+          2.2950051,
+          48.8580923
+        ],
+        [
+          2.2950719,
+          48.85812
+        ],
+        [
+          2.2951347,
+          48.8581406
+        ],
+        [
+          2.2951996,
+          48.8581564
+        ],
+        [
+          2.2952689,
+          48.8581663
+        ],
+        [
+          2.295334,
+          48.8581699
+        ],
+        [
+          2.2953613,
+          48.8581518
+        ],
+        [
+          2.2953739,
+          48.8581604
+        ],
+        [
+          2.2953965,
+          48.8581497
+        ],
+        [
+          2.2954016,
+          48.8581464
+        ],
+        [
+          2.2953933,
+          48.8581409
+        ],
+        [
+          2.2954304,
+          48.8581172
+        ],
+        [
+          2.2954473,
+          48.8581285
+        ],
+        [
+          2.2954631,
+          48.8581182
+        ],
+        [
+          2.2956897,
+          48.8582718
+        ],
+        [
+          2.295653,
+          48.8582954
+        ],
+        [
+          2.2955837,
+          48.85834
+        ],
+        [
+          2.2954575,
+          48.8584212
+        ],
+        [
+          2.2954416,
+          48.858411
+        ],
+        [
+          2.2954238,
+          48.8584227
+        ],
+        [
+          2.2953878,
+          48.8583981
+        ],
+        [
+          2.2953925,
+          48.858395
+        ],
+        [
+          2.2953701,
+          48.8583857
+        ],
+        [
+          2.2953419,
+          48.8583779
+        ],
+        [
+          2.2953057,
+          48.8583737
+        ],
+        [
+          2.2952111,
+          48.8583776
+        ],
+        [
+          2.2951081,
+          48.858403
+        ],
+        [
+          2.2950157,
+          48.8584326
+        ],
+        [
+          2.2949284,
+          48.8584723
+        ],
+        [
+          2.2948889,
+          48.8584961
+        ],
+        [
+          2.2947988,
+          48.8585613
+        ],
+        [
+          2.2947558,
+          48.8586003
+        ],
+        [
+          2.2947144,
+          48.8586446
+        ],
+        [
+          2.294682,
+          48.8586886
+        ],
+        [
+          2.2946605,
+          48.8587289
+        ],
+        [
+          2.2946462,
+          48.8587747
+        ],
+        [
+          2.294644,
+          48.8587962
+        ],
+        [
+          2.2946462,
+          48.8588051
+        ],
+        [
+          2.2946486,
+          48.8588068
+        ],
+        [
+          2.2946958,
+          48.8588392
+        ],
+        [
+          2.294681,
+          48.858849
+        ],
+        [
+          2.2947169,
+          48.8588737
+        ],
+        [
+          2.2946988,
+          48.858885
+        ],
+        [
+          2.2947154,
+          48.8588961
+        ],
+        [
+          2.2944834,
+          48.8590453
+        ],
+        [
+          2.2943809,
+          48.8589771
+        ],
+        [
+          2.2943708,
+          48.8589703
+        ],
+        [
+          2.2942571,
+          48.8588932
+        ],
+        [
+          2.2942741,
+          48.8588824
+        ],
+        [
+          2.2942567,
+          48.8588708
+        ],
+        [
+          2.2942893,
+          48.8588493
+        ],
+        [
+          2.2942962,
+          48.8588539
+        ],
+        [
+          2.2942997,
+          48.8588504
+        ],
+        [
+          2.2942884,
+          48.8588426
+        ],
+        [
+          2.2943123,
+          48.8588276
+        ],
+        [
+          2.2943228,
+          48.858821
+        ],
+        [
+          2.2943284,
+          48.8588174
+        ],
+        [
+          2.2943315,
+          48.8588125
+        ],
+        [
+          2.2943333,
+          48.8588018
+        ],
+        [
+          2.2943166,
+          48.8587327
+        ],
+        [
+          2.294301,
+          48.8586978
+        ],
+        [
+          2.2942783,
+          48.8586648
+        ],
+        [
+          2.2942406,
+          48.8586191
+        ],
+        [
+          2.2942064,
+          48.858577
+        ],
+        [
+          2.2941734,
+          48.8585464
+        ],
+        [
+          2.2941015,
+          48.8584943
+        ],
+        [
+          2.2940384,
+          48.8584609
+        ],
+        [
+          2.2939792,
+          48.8584325
+        ],
+        [
+          2.293912,
+          48.8584052
+        ],
+        [
+          2.2938415,
+          48.8583828
+        ],
+        [
+          2.293784,
+          48.8583695
+        ],
+        [
+          2.2937145,
+          48.8583599
+        ],
+        [
+          2.2936514,
+          48.8583593
+        ],
+        [
+          2.2936122,
+          48.8583846
+        ],
+        [
+          2.293606,
+          48.8583807
+        ],
+        [
+          2.2935688,
+          48.8584044
+        ],
+        [
+          2.2935515,
+          48.8583929
+        ],
+        [
+          2.293536,
+          48.8584028
+        ],
+        [
+          2.2933119,
+          48.858248
+        ],
+        [
+          2.2935432,
+          48.8581003
+        ],
+        [
+          2.2935574,
+          48.8581099
+        ],
+        [
+          2.2935712,
+          48.8581004
+        ],
+        [
+          2.2936112,
+          48.8581232
+        ],
+        [
+          2.2936086,
+          48.8581249
+        ],
+        [
+          2.293611,
+          48.8581262
+        ],
+        [
+          2.2936415,
+          48.8581385
+        ],
+        [
+          2.293672,
+          48.8581477
+        ],
+        [
+          2.2937035,
+          48.8581504
+        ],
+        [
+          2.293734,
+          48.858149
+        ],
+        [
+          2.2937827,
+          48.8581439
+        ],
+        [
+          2.2938856,
+          48.8581182
+        ],
+        [
+          2.2939778,
+          48.8580882
+        ],
+        [
+          2.2940648,
+          48.8580483
+        ],
+        [
+          2.2941435,
+          48.8579991
+        ],
+        [
+          2.2941937,
+          48.8579588
+        ],
+        [
+          2.2942364,
+          48.8579197
+        ],
+        [
+          2.2942775,
+          48.8578753
+        ],
+        [
+          2.2943096,
+          48.8578312
+        ],
+        [
+          2.2943307,
+          48.8577908
+        ],
+        [
+          2.2943447,
+          48.857745
+        ],
+        [
+          2.2943478,
+          48.8577118
+        ],
+        [
+          2.2943394,
+          48.8576885
+        ],
+        [
+          2.2943306,
+          48.8576773
+        ],
+        [
+          2.2943205,
+          48.8576677
+        ],
+        [
+          2.2943158,
+          48.8576707
+        ],
+        [
+          2.2942802,
+          48.8576465
+        ],
+        [
+          2.2942977,
+          48.8576355
+        ],
+        [
+          2.2942817,
+          48.8576248
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": {
+    "tileset": "protomaps-20260911",
+    "featureIds": [
+      35184377102196,
+      35184441122959,
+      35184441122967,
+      35184441122997,
+      35184441123011,
+      35184441123012,
+      35184680110221,
+      35184680234071,
+      35184680234090,
+      35184680234091,
+      35184680776576,
+      35184680776577,
+      35184680776580,
+      35184680776584,
+      35184680776585,
+      35184680777996,
+      35184680777997,
+      35184680777998,
+      35184680777999,
+      35184707189860,
+      35184707189867,
+      35184707189870,
+      35185834686594,
+      35185834686595,
+      35185834686596,
+      35185834686597,
+      52776562248087,
+      52776562248090
+    ],
+    "toleranceM": 0.75,
+    "sourceZoom": 15
+  },
+  "osm": {
+    "type": "way",
+    "id": 5013364,
+    "version": 181,
+    "timestamp": "2026-05-12T07:57:52Z",
+    "url": "https://www.openstreetmap.org/way/5013364"
+  },
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0",
+  "references": [
+    {
+      "title": "File:Tour Eiffel Wikimedia Commons.jpg",
+      "author": "Benh LIEU SONG",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Tour_Eiffel_Wikimedia_Commons.jpg",
+      "sourceSha1": "ecddecabc256113d4b17589350de9284b135643c",
+      "use": "visual-reference-only",
+      "view": "front silhouette, daylight",
+      "licenseNote": "Source page distinguishes the public-domain architectural object from the photograph, which is CC BY-SA 3.0. Checked 2026-09-14."
+    },
+    {
+      "title": "File:56441-Paris (36201356970).jpg",
+      "author": "xiquinhosilva from Cacau",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:56441-Paris_(36201356970).jpg",
+      "sourceSha1": "39f1c1fb9e509bc4cc0727752e2e0a8f607ae6c4",
+      "use": "visual-reference-only",
+      "view": "full tower oblique, daylight"
+    },
+    {
+      "title": "File:La Tour Eiffel vue de la Tour Saint-Jacques, Paris août 2014 (2).jpg",
+      "author": "Yann Caradec from Paris, France",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques,_Paris_ao%C3%BBt_2014_(2).jpg",
+      "sourceSha1": "9865b08776f7e905634dd3a65afcb0719a1bfba1",
+      "use": "visual-reference-only",
+      "view": "distant context, daylight"
+    }
+  ],
+  "aliases": [],
+  "authors": [
+    "Open Landmarks contributors"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted architectural interpretation and procedural recipe authoring; deterministic Python/Blender export. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "OSM supplies centre, north alignment and 330 m overall height.",
+    "Deck elevations 57, 115 and 276 m and 125 m base width follow the official Eiffel Tower figures: https://www.toureiffel.paris/fr/le-monument/chiffres-cle .",
+    "Four curved lattice piers, arch spandrels and taper are original simplified interpretations of the reviewed daylight references.",
+    "Structural lattice members are widened for clearer map-scale readability.",
+    "Cross sections, railing rhythm, summit equipment and arch profiles are inferred; no nighttime sparkle installation."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}
