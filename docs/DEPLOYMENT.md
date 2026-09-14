@@ -7,7 +7,7 @@
 - GitHub integration connected; production branch: `main`.
 - Custom hostname: https://open-landmarks.benmaps.fr.
 - Public fallback: https://open-landmarks-xi.vercel.app.
-- Preview catalogue: `/api/v1/collections/paris/preview.json` (19 drafts, including the Louvre Pyramid).
+- Preview catalogue: `/api/v1/collections/paris/preview.json` (30 drafts, including the Louvre Pyramid and the Colonne de Juillet).
 - Approved catalogue: `/api/v1/collections/paris/latest.json` (0 approved).
 - Original scene generation and photograph caches are excluded. Public source scenes contain no local user paths, embedded scripts, image textures or linked libraries.
 
