@@ -15,6 +15,7 @@ Use Blender by hand, procedural tools, or AI assistance. None is mandatory. AI w
 - `boundsBlenderM` is an axis-aligned envelope in X east / Y north / Z up. Both LODs must fit inside it.
 - <=8,000 triangles, <=250,000 raw bytes per GLB, <=6 opaque materials and triangle primitives/draw calls. No textures, animations, skins or required decoder extensions. Export real normals.
 - Semantic materials: `stone`, `trim`, `roof`, `window`, `recess`, `metal`, `entrance`; use the subset needed. Prioritize silhouette, roof lines and major openings. Windows should remain opaque and can be emissive.
+- Remove hidden wall caps when a roof closes the volume. Coplanar wall/roof surfaces can create black patches even when material values and face normals are valid. Inspect a neutral oblique view and a second side or top view; roof regression tests compare exported surfaces in both LODs.
 - A lower LOD should reduce geometry where this preserves recognizable architecture. Do not conceal a higher download cost behind compressed-size marketing alone.
 
 ## Review and promotion
