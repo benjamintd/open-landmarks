@@ -41,3 +41,7 @@ Any content change invalidates the approval hash. A public metadata publication 
 ## Contributor grant
 
 By submitting content, offer your original artistic contributions under CC BY 4.0, your original code under MIT, and OSM-derived spatial data under ODbL 1.0. Identify third-party inputs and any limitations on rights you can grant. Provide editable sources and applicable source data. This does not require releasing your private generation tools or buying any AI product. Maintainers must resolve incompatible or uncertain rights before approval.
+
+Facade windows must use the approved light blue `window` material and pass whole-area
+wall-support validation in both LODs. Structural glazing uses `glass`. See the
+[material library and attachment contract](docs/MATERIALS.md).

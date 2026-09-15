@@ -13,16 +13,16 @@
   "lods": {
     "low": {
       "url": "low.glb",
-      "bytes": 207192,
-      "sha256": "492263ca770f1b0e4b140847540e9c1b6a9056e3fd0196936ab040a00315210a"
+      "bytes": 219896,
+      "sha256": "216263be671c37dd291bfadc26b38149ac491e136227de07c90d2a836ccc9179"
     },
     "detail": {
       "url": "detail.glb",
-      "bytes": 221796,
-      "sha256": "ad41e82ccfa9cac107d2fd0768ddfe79bf4ec1e5d81d8f5c811452b205553cd5"
+      "bytes": 219896,
+      "sha256": "216263be671c37dd291bfadc26b38149ac491e136227de07c90d2a836ccc9179"
     }
   },
-  "triangles": 5324,
+  "triangles": 5271,
   "boundsBlenderM": [
     [
       -48.246604919433594,
@@ -940,6 +940,7 @@
     "timestamp": "2025-07-21T15:20:50Z",
     "url": "https://www.openstreetmap.org/way/54667456"
   },
+  "additionalOsm": [],
   "rightsStatus": "review-required",
   "geometryStatus": "draft",
   "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0",
@@ -978,13 +979,13 @@
     "reviewer": null,
     "checks": {}
   },
-  "source": "source.blend.gz",
-  "spatialSource": "spatial-source.json",
-  "preview": "preview.webp",
   "modelingNotes": [
     "The saved OSM footprint and eleven mapped parts control the stepped massing, auditorium dome, side rotundas and fly tower.",
     "Part heights top out at 58 m; the outline tag of 70 m is not used to inflate these more detailed mapped volumes.",
     "Copper green, paired facade columns, cornice bands and gilded finials are simplified interpretations of the reviewed south facade photographs.",
     "Facade openings are shallow opaque recesses. Sculpture groups, medallions and roof ornament are represented by simple accents, not replicas."
-  ]
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
 }

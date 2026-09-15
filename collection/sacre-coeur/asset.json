@@ -13,13 +13,13 @@
   "lods": {
     "low": {
       "url": "low.glb",
-      "bytes": 207332,
-      "sha256": "e2e3c7ca84dae1b7a72444da50d46efebd1f55927da755aa64623cc85e826d3e"
+      "bytes": 207404,
+      "sha256": "9bb7081b366bcfe0fbeea3c8be2f104f45b49b377ebc308af52552b0b377299e"
     },
     "detail": {
       "url": "detail.glb",
-      "bytes": 211448,
-      "sha256": "cb0d948cbbe01ddd439e318ebaff7cf6974640745d55dbb3f66a10742b92d3b8"
+      "bytes": 211520,
+      "sha256": "38473768faae74dcb2784574eb16bdf930e0822862759c96853f7e03e5800cc7"
     }
   },
   "triangles": 5410,
@@ -982,6 +982,7 @@
     "timestamp": "2025-11-02T09:46:33Z",
     "url": "https://www.openstreetmap.org/way/23762981"
   },
+  "additionalOsm": [],
   "rightsStatus": "review-required",
   "geometryStatus": "draft",
   "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0",
@@ -1030,14 +1031,14 @@
     "reviewer": null,
     "checks": {}
   },
-  "source": "source.blend.gz",
-  "spatialSource": "spatial-source.json",
-  "preview": "preview.webp",
   "modelingNotes": [
     "All 44 mapped part plans and total heights are retained; the north campanile and south entrance remain geographically aligned.",
     "Four 46 m satellite domes lack roof:height in OSM; a 13 m dome above the mapped 33 m drums is inferred from reviewed exterior photographs.",
     "Pale roof material, drum openings, mouldings and small crosses are original simplified visual interpretations.",
     "OSM models the front porch with an enclosing 16 m base: the porch is opened below its mapped 9 m lintel using the mapped porch polygon.",
     "Domes are faceted latitude profiles; sculpture, equestrian figures and fine masonry are omitted."
-  ]
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
 }

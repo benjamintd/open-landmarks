@@ -2,7 +2,7 @@
 
 Lightweight, georeferenced 3D architecture with editable sources and an open spatial catalogue. This repository contains the collection, contribution tools, website and static data API. It has no dependency on a particular map theme, renderer, AI model or model-generation service.
 
-The initial Paris collection contains **thirty draft models**. Structural checks pass; visual, map-integration and rights reviews remain pending. The approved channel has no release until those reviews are completed; its pointer returns null release and catalogue fields. This is not an automatic photographs-to-models service.
+The initial Paris collection contains **forty draft models**. Structural checks pass; visual, map-integration and rights reviews remain pending. The approved channel has no release until those reviews are completed; its pointer returns null release and catalogue fields. This is not an automatic photographs-to-models service.
 
 ## Run locally
 
@@ -55,7 +55,7 @@ remove an old URL based only on whether a current pointer references it.
 
 Verify response MIME, CORS and cache headers against the deployed Vercel preview before directing consumers there. Local serving does not emulate the Vercel edge. Explicit `.glb.gz` URLs serve gzip *files*, not HTTP-encoded GLBs; consumers decompress once. See [Vercel compression](https://vercel.com/docs/how-vercel-cdn-works/compression) and [configuration](https://vercel.com/docs/project-configuration/vercel-json).
 
-For the thirty-model collection, source and release assets are small enough to ship as ordinary repository files. At larger scale, move immutable asset storage to object storage while retaining these URLs and the public source-data offer; the API schema can support an absolute asset origin in a future version. Do not silently change the v1 same-origin contract.
+For the forty-model collection, source and release assets are small enough to ship as ordinary repository files. At larger scale, move immutable asset storage to object storage while retaining these URLs and the public source-data offer; the API schema can support an absolute asset origin in a future version. Do not silently change the v1 same-origin contract.
 
 ## Contributing and licensing
 

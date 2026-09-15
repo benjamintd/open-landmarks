@@ -13,13 +13,13 @@
   "lods": {
     "low": {
       "url": "low.glb",
-      "bytes": 26068,
-      "sha256": "5f24023c2900c7fba23c437ed54998f9ce48b7d1f57ea0190f71fb6504951905"
+      "bytes": 20392,
+      "sha256": "4ed0712a5926b561b5584a6c8282b24111c55fe736585629f7c9c616ce0fcfdf"
     },
     "detail": {
       "url": "detail.glb",
-      "bytes": 59668,
-      "sha256": "6a20bf7b3e94ae94141c04460c3091f4dabbbd5b7fac6c36bfc13b4aded07b1a"
+      "bytes": 46380,
+      "sha256": "3809dcdbbbb7b8a0c96784bf72829bc9466268a04d7c265b656b059d0d8063fb"
     }
   },
   "triangles": 854,
@@ -150,6 +150,7 @@
     "timestamp": "2025-08-30T17:59:38Z",
     "url": "https://www.openstreetmap.org/way/226413508"
   },
+  "additionalOsm": [],
   "rightsStatus": "review-required",
   "geometryStatus": "draft",
   "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0",
@@ -198,6 +199,11 @@
     "reviewer": null,
     "checks": {}
   },
+  "modelingNotes": [
+    "Overall width/depth and alignment from OSM minimum rectangle; height from OSM or 50 m fallback.",
+    "Arch openings, cornices and simplified relief panels are inferred from exterior reference views; not survey measurements.",
+    "Entrance light accents are original map styling, not a reconstruction of the lighting installation."
+  ],
   "source": "source.blend.gz",
   "spatialSource": "spatial-source.json",
   "preview": "preview.webp"

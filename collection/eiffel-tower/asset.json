@@ -13,13 +13,13 @@
   "lods": {
     "low": {
       "url": "low.glb",
-      "bytes": 169556,
-      "sha256": "e133e0e92ccf34488582ef6f4fc4e9229ca08f4a1ee7273bf6a71d327c2948dd"
+      "bytes": 169572,
+      "sha256": "7d006aa13ebfe131b8921267716727693cffb34fd24a5ddd84d04443649f48e2"
     },
     "detail": {
       "url": "detail.glb",
-      "bytes": 169556,
-      "sha256": "e133e0e92ccf34488582ef6f4fc4e9229ca08f4a1ee7273bf6a71d327c2948dd"
+      "bytes": 169572,
+      "sha256": "7d006aa13ebfe131b8921267716727693cffb34fd24a5ddd84d04443649f48e2"
     }
   },
   "triangles": 6324,
@@ -601,6 +601,7 @@
     "timestamp": "2026-05-12T07:57:52Z",
     "url": "https://www.openstreetmap.org/way/5013364"
   },
+  "additionalOsm": [],
   "rightsStatus": "review-required",
   "geometryStatus": "draft",
   "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0",

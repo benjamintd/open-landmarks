@@ -13,13 +13,13 @@
   "lods": {
     "low": {
       "url": "low.glb",
-      "bytes": 39524,
-      "sha256": "effe223de05d237a3c071304d08cb781258c62e9f65c2f7dded141da17f8cf1d"
+      "bytes": 39836,
+      "sha256": "60e306c8ed727ce1fb8317072e66b635a5827ba0b370493ee568725b8af5abd0"
     },
     "detail": {
       "url": "detail.glb",
-      "bytes": 39764,
-      "sha256": "bd72c12a2df651f7576db18f449ae1e1e449e5f9ebf7ab5d013f786515775f73"
+      "bytes": 39836,
+      "sha256": "60e306c8ed727ce1fb8317072e66b635a5827ba0b370493ee568725b8af5abd0"
     }
   },
   "triangles": 798,

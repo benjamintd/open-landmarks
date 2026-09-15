@@ -115,3 +115,26 @@ test('public dependency set and deployed artifacts exclude the generation worksp
   assert(!paths.some(p => /\/(pipeline|recipes|bundles|sdk|runs|node_modules)\//.test(p)));
   assert(!paths.some(p => /\.(py|env|jpg)$/.test(p)));
 });
+
+test('submission gate rejects a detached window even with its updated byte hash',async()=>{
+  const original=rows.find(r=>r.asset.id==='notre-dame');
+  const temp=await mkdtemp(join(tmpdir(),'window-gate-'));
+  try {
+    const dir=pathToFileURL(join(temp,original.asset.id)+'/');await cp(original.dir,dir,{recursive:true});
+    const asset=structuredClone(original.asset),path=new URL('detail.glb',dir),raw=await readFile(path);
+    const size=raw.readUInt32LE(12),doc=JSON.parse(raw.subarray(20,20+size));
+    const prim=doc.meshes.flatMap(m=>m.primitives).find(p=>doc.materials[p.material].name==='window');
+    const a=doc.accessors[prim.attributes.POSITION],v=doc.bufferViews[a.bufferView];
+    for(let i=0;i<a.count;i++){
+      const at=28+size+(v.byteOffset??0)+(a.byteOffset??0)+i*(v.byteStride??12);
+      raw.writeFloatLE(raw.readFloatLE(at)+.5,at);
+    }
+    a.min[0]+=.5;a.max[0]+=.5;
+    const text=Buffer.from(JSON.stringify(doc)),jsonChunk=Buffer.alloc(Math.ceil(text.length/4)*4,32);text.copy(jsonChunk);
+    const header=Buffer.from(raw.subarray(0,20)),binary=raw.subarray(20+size);
+    header.writeUInt32LE(20+jsonChunk.length+binary.length,8);header.writeUInt32LE(jsonChunk.length,12);
+    const moved=Buffer.concat([header,jsonChunk,binary]);
+    await writeFile(path,moved);asset.lods.detail.sha256=sha(moved);asset.lods.detail.bytes=moved.length;
+    await assert.rejects(validateSubmission({asset,dir}),/window triangles have no supporting wall/);
+  }finally{await rm(temp,{recursive:true,force:true});}
+});

@@ -13,13 +13,13 @@
   "lods": {
     "low": {
       "url": "low.glb",
-      "bytes": 240532,
-      "sha256": "a51c8f10e460f522f98727036bd717224337bd42e5e577f71195ecb990012ef7"
+      "bytes": 240524,
+      "sha256": "f2944c46824131b1427cfbf28dfec50f5abe7ac386bd477dd492254344cf36c6"
     },
     "detail": {
       "url": "detail.glb",
-      "bytes": 248348,
-      "sha256": "db030abca29777b6e1348c9e673d1ac1a22d526bd733d1f319fe8a140de73116"
+      "bytes": 248340,
+      "sha256": "c198b563c0557f24390db77750d0cb193a3768856e2fdfefa232523e8ed9867f"
     }
   },
   "triangles": 6636,
@@ -481,6 +481,7 @@
     "timestamp": "2025-12-16T20:34:28Z",
     "url": "https://www.openstreetmap.org/way/16407465"
   },
+  "additionalOsm": [],
   "rightsStatus": "review-required",
   "geometryStatus": "draft",
   "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0",
@@ -529,6 +530,14 @@
     "reviewer": null,
     "checks": {}
   },
+  "modelingNotes": [
+    "OSM outline and 79 mapped building parts determine placement, including individual portico and drum columns.",
+    "Mapped min_height preserves the open colonnades; roof:orientation=across controls the pediment ridge.",
+    "Dome uses six latitude bands over the mapped base polygon. Roof slopes/hip profiles are simplified.",
+    "Decimal-comma roof heights such as 4,2 are interpreted as 4.2 m; raw tags remain unchanged.",
+    "Open front and side photographs support the main hierarchy; sculpture and masonry texture are omitted.",
+    "Boundary simplification is limited to 2 cm; the 25 cm foundation is inferred."
+  ],
   "source": "source.blend.gz",
   "spatialSource": "spatial-source.json",
   "preview": "preview.webp"

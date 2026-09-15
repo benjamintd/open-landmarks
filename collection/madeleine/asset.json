@@ -13,13 +13,13 @@
   "lods": {
     "low": {
       "url": "low.glb",
-      "bytes": 214184,
-      "sha256": "4a5e1b8bb98072a447ab91540271d3987af265f4ca4a6d257d49069a5a5d1ee8"
+      "bytes": 214260,
+      "sha256": "4f2425d8f61a62740e85bb2b35b0e9221cd9e26717273fe68d82775f53074631"
     },
     "detail": {
       "url": "detail.glb",
-      "bytes": 218072,
-      "sha256": "028ab6604efb08d34d323609383502bae20113206506318ff15b88114df01aeb"
+      "bytes": 218148,
+      "sha256": "7931e7281d89c67bcaf91fe3890b7e12e3d501ba59e1ebd638352c1250a08bfe"
     }
   },
   "triangles": 5066,
@@ -169,6 +169,7 @@
     "timestamp": "2026-05-01T14:07:18Z",
     "url": "https://www.openstreetmap.org/way/54180046"
   },
+  "additionalOsm": [],
   "rightsStatus": "review-required",
   "geometryStatus": "draft",
   "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0",
@@ -217,13 +218,13 @@
     "reviewer": null,
     "checks": {}
   },
-  "source": "source.blend.gz",
-  "spatialSource": "spatial-source.json",
-  "preview": "preview.webp",
   "modelingNotes": [
     "Footprint, 52 freestanding columns, plinth, roof and stair locations use the 63 saved OSM parts.",
     "OSM IGN Lidar HD heights are retained, including the decimal-comma 2.2 m terrace.",
     "Column capitals, cornice bands and dark doorway rhythm are inferred from reviewed daylight exterior photographs.",
     "Stair flights retain mapped slopes; sculpture, fluting and relief carving are omitted at map scale."
-  ]
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
 }

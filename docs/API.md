@@ -108,3 +108,11 @@ Published immutable URLs remain available. `npm run snapshot -- --release <name>
 Preserve material base colors and adapt lighting and emissive intensity to the scene. Suppress overlapping basemap extrusions only after the model loads. Optional basemapReplacement IDs apply only to the named dataset snapshot.
 
 Retain model attribution and source links, including © OpenStreetMap contributors. Component licenses and provenance are recorded per asset. Spatial source access must remain available independently of any consumer application.
+
+### Material library
+
+New catalogue descriptors include `materialLibrary: {schemaVersion, sha256, url}`.
+Resolve the immutable URL on the collection origin. It lists approved sRGB colors,
+roughness and metalness. Wall windows use light blue `window`; self-supporting
+glazing uses `glass`. The source GLBs have passed full-area window support checks
+in both LODs. See [the contract](MATERIALS.md).

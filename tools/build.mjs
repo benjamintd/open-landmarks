@@ -19,10 +19,14 @@ export async function emit(path, data) {
   if (previous && !previous.equals(raw)) throw Error(`Immutable release collision: ${path}`);
   await writeFile(target, raw);
 }
+const libraryBytes = await readFile(new URL('materials.json', root));
+const libraryHash = sha(libraryBytes);
+const materialLibrary = {schemaVersion:1, sha256:libraryHash, url:`/materials/${libraryHash}.json`};
+await emit(materialLibrary.url, libraryBytes);
 const assets = [];
 for (const row of rows) {
   const { asset, revision, bounds, bytes, reports } = row;
-  const publicationRevision = sha(JSON.stringify(asset) + revision);
+  const publicationRevision = sha(JSON.stringify(asset) + revision + JSON.stringify(reports) + libraryHash);
   const prefix = `/assets/${asset.id}/${publicationRevision}`;
   const publicAsset = { ...asset, revision, publicationRevision, bounds, approved: reviewed(asset, revision), metadata: `${prefix}/asset.json`, lods: {} };
   for (const lod of ['low','detail']) {
@@ -58,7 +62,7 @@ async function collection(channel, members) {
       note: 'No submission has completed rights, footprint, appearance and map-integration review.' });
     return null;
   }
-  const release = `${channel}-${sha(JSON.stringify(members)).slice(0, 20)}`;
+  const release = `${channel}-${sha(JSON.stringify({members,materialLibrary})).slice(0, 20)}`;
   const base = `/api/v1/collections/paris/${release}`, cells = new Map();
   for (const a of members) {
     const { references, assistance, osm, ...entry } = a;
@@ -70,7 +74,7 @@ async function collection(channel, members) {
   for (const [cell, items] of cells) await emit(`${base}/index/12/${cell}.json`, { schemaVersion: 1, collection: 'paris', release, assets: items });
   const catalogue = { schemaVersion: 1, collection: 'paris', release, channel, count: members.length,
     status: channel === 'preview' ? 'includes-unreviewed-drafts' : 'approved-only',
-    assetBase: '/', bounds: [2.224,48.815,2.422,48.903], maxHeightM: Math.max(0,...members.map(a => a.boundsBlenderM[1][2])),
+    assetBase: '/', materialLibrary, bounds: [Math.min(...members.map(a=>a.bounds[0])),Math.min(...members.map(a=>a.bounds[1])),Math.max(...members.map(a=>a.bounds[2])),Math.max(...members.map(a=>a.bounds[3]))], maxHeightM: Math.max(0,...members.map(a => a.boundsBlenderM[1][2])),
     attribution: 'Open Landmarks; © OpenStreetMap contributors', dataLicense: 'ODbL-1.0',
     index: { zoom: 12, template: `${base}/index/12/{x}/{y}.json`, occupied: [...cells.keys()].sort() },
     assets: `${base}/assets.json`, sourceDatabase: `${base}/spatial-database.json` };

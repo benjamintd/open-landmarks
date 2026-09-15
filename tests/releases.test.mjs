@@ -3,7 +3,7 @@ import assert from 'node:assert/strict';
 import { mkdtemp, mkdir, writeFile, cp, rm, readFile } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
 import { pathToFileURL } from 'node:url';
-import { recordRelease, verifyCurrentRelease, verifyRecords } from '../tools/release-records.mjs';
+import { recordRelease, verifyCurrentRelease, verifyRecords, immutablePath } from '../tools/release-records.mjs';
 test('deployment requires a named record with exact retained bytes and channel pointers',async t=>{
   const base=pathToFileURL((await mkdtemp(`${tmpdir()}/landmark-release-`))+'/');
   t.after(()=>rm(base,{recursive:true,force:true}));
@@ -24,4 +24,9 @@ test('deployment requires a named record with exact retained bytes and channel p
   await assert.rejects(recordRelease('first',base),/different bytes/);
   await put('releases/static/models/test/ab/low.glb','changed');
   await assert.rejects(verifyRecords(base),/changed/);
+});
+
+test('material library URLs are retained as immutable release content',()=>{
+  assert(immutablePath('materials/'+ 'a'.repeat(64)+'.json'));
+  assert(!immutablePath('materials/latest.json'));
 });

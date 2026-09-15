@@ -13,8 +13,8 @@
   "lods": {
     "low": {
       "url": "low.glb",
-      "bytes": 70072,
-      "sha256": "5541fb21a6782c56b757f07280eb31b8d255923a781d1c0b3ba6777cb21c4892"
+      "bytes": 70600,
+      "sha256": "38716714e7bfd83611ecb5170b155cd5948624fc462489e89a9f8e0c1d4c8102"
     },
     "detail": {
       "url": "detail.glb",

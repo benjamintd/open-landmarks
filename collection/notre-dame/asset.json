@@ -13,13 +13,13 @@
   "lods": {
     "low": {
       "url": "low.glb",
-      "bytes": 192976,
-      "sha256": "d6e314e579849d710f909e5ab2d296a219254479416d895a39bb93fccf53c834"
+      "bytes": 196356,
+      "sha256": "95b9bcc6dd37de5b13f2c60edcddb3c338170777483847ad1c0d0bf407a5fdfa"
     },
     "detail": {
       "url": "detail.glb",
-      "bytes": 200212,
-      "sha256": "9279842cb19677557db23202a351f2d2a0a852cea5c43964697b028d2648cf0b"
+      "bytes": 203592,
+      "sha256": "87a9c37eb5d41973c9f0ce921f3ab2404d9ff8310495f554c98dac2f2ffab9f6"
     }
   },
   "triangles": 4065,
@@ -1417,6 +1417,7 @@
     "timestamp": "2026-04-27T04:38:44Z",
     "url": "https://www.openstreetmap.org/way/201611261"
   },
+  "additionalOsm": [],
   "rightsStatus": "review-required",
   "geometryStatus": "draft",
   "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0",
@@ -1465,6 +1466,14 @@
     "reviewer": null,
     "checks": {}
   },
+  "modelingNotes": [
+    "Outline and all height-tagged parts are built directly in local OSM coordinates; no site bounding-box massing.",
+    "Roof ridges use each roof part, not the site including the sacristy. Roof shapes are simplified.",
+    "OSM heights retained: 69 m main tower walls, small tower roof structures up to 78 m, and 96 m spire.",
+    "Sacristy without height is covered by its mapped base and roof parts; no invented height.",
+    "Buttress wedges, facade openings and entrance accents remain schematic; part vertices may simplify by at most 1.5 cm.",
+    "Current OSM outline version 96 checked on 2026-09-14: identical coordinates to bundled version 93. Parts retain their snapshot date."
+  ],
   "source": "source.blend.gz",
   "spatialSource": "spatial-source.json",
   "preview": "preview.webp"

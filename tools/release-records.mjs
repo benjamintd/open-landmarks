@@ -2,7 +2,7 @@ import { readdir, readFile, mkdir, writeFile } from 'node:fs/promises';
 import { pathToFileURL } from 'node:url';
 import { root, sha } from './common.mjs';
 
-export const immutablePath = path => path.startsWith('models/') || path.startsWith('assets/') ||
+export const immutablePath = path => path.startsWith('models/') || path.startsWith('assets/') || /^materials\/[a-f0-9]{64}\.json$/.test(path) ||
   /^api\/v1\/collections\/paris\/(preview|approved)-[a-f0-9]+\//.test(path);
 export async function releaseFiles(directory, prefix = '') {
   const result = {};

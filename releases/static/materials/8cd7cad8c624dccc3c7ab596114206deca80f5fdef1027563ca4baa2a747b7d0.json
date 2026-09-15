@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "textures": [],
+  "materials": {
+    "stone": {
+      "color": "#e3e0d9",
+      "roughness": 0.85,
+      "metalness": 0
+    },
+    "trim": {
+      "color": "#f0ede6",
+      "roughness": 0.85,
+      "metalness": 0
+    },
+    "roof": {
+      "color": "#929fa5",
+      "roughness": 0.85,
+      "metalness": 0
+    },
+    "recess": {
+      "color": "#444c50",
+      "roughness": 0.85,
+      "metalness": 0
+    },
+    "metal": {
+      "color": "#99816b",
+      "roughness": 0.85,
+      "metalness": 0.25
+    },
+    "entrance": {
+      "color": "#fff0cd",
+      "roughness": 0.85,
+      "metalness": 0
+    },
+    "window": {
+      "color": "#a4c4d9",
+      "roughness": 0.65,
+      "metalness": 0
+    },
+    "glass": {
+      "color": "#a4c4d9",
+      "roughness": 0.24,
+      "metalness": 0.3
+    },
+    "copper": {
+      "color": "#80a28d",
+      "roughness": 0.85,
+      "metalness": 0.25
+    },
+    "patina": {
+      "color": "#6a947f",
+      "roughness": 0.85,
+      "metalness": 0.25
+    }
+  },
+  "wallSupportToleranceM": 0.06
+}

@@ -1,6 +1,8 @@
 import { readFile } from 'node:fs/promises';
 import { fileURLToPath } from 'node:url';
 import validator from 'gltf-validator';
+import { materialAudit } from './material-audit.mjs';
+import { glbTriangles, windowSupportAudit } from './window-audit.mjs';
 import { meshAudit } from './mesh-audit.mjs';
 import { submissions, slug, sha, footprintBounds, cellsForBounds } from './common.mjs';
 
@@ -32,13 +34,22 @@ export async function validateSubmission({ asset, dir }) {
     check(report.issues.numErrors === 0, `${lod} failed glTF validation: ${JSON.stringify(report.issues.messages)}`);
     const doc = JSON.parse(raw.subarray(20, 20 + raw.readUInt32LE(12)));
     check(!doc.images?.length && !doc.textures?.length && !doc.animations?.length && !doc.skins?.length, 'v1 accepts static, texture-free geometry');
+    check(doc.accessors.every(a=>!a.sparse), 'export dense accessors for geometry auditing');
+    check(doc.buffers?.length===1 && !doc.buffers[0].uri, 'embed one GLB buffer');
     check(!doc.extensionsRequired?.length, 'v1 accepts plain GLB; no mesh decoder required');
     check(doc.nodes?.every(n => !n.matrix && !n.rotation && !n.translation && !n.scale && !n.children?.length), 'apply transforms and flatten node hierarchy for v1');
+    const sceneNodes=doc.scenes?.[doc.scene??0]?.nodes??[];
+    const activeMeshes=sceneNodes.map(id=>doc.nodes[id]?.mesh).filter(id=>id!==undefined);
+    check(activeMeshes.length===doc.meshes.length && new Set(activeMeshes).size===doc.meshes.length, 'every mesh must appear exactly once in the default scene');
     check(doc.materials?.length <= 6, 'maximum six materials');
     check(doc.materials.every(m => !m.alphaMode || m.alphaMode === 'OPAQUE'), 'use opaque materials');
     const primitives = doc.meshes.flatMap(m => m.primitives);
     check(primitives.length <= 6 && primitives.every(p => p.mode === undefined || p.mode === 4), 'maximum six triangle draw calls');
     check(primitives.every(p => p.attributes.POSITION !== undefined && p.attributes.NORMAL !== undefined), 'positions and normals required');
+    const materials = materialAudit(doc);
+    check(!materials.length, materials.join('; '));
+    const windows = windowSupportAudit(glbTriangles(raw));
+    check(!windows.unsupported, `${lod}: ${windows.unsupported} window triangles have no supporting wall`);
     const mesh = meshAudit(raw);
     check(mesh.reduce((s,m) => s + m.triangles, 0) <= 8000, 'maximum 8,000 triangles');
     check(!mesh.some(m => m.degenerate || m.opposedNormals), 'degenerate triangles or inverted normals');
@@ -49,7 +60,7 @@ export async function validateSubmission({ asset, dir }) {
     check(min.every((v,i) => v >= expectedMin[i] - .1) && max.every((v,i) => v <= expectedMax[i] + .1), 'mesh exceeds declared bounds');
     check(min[1] >= -.1 && min[1] <= .1, 'model must touch ground at Y=0');
     reports[lod] = { sha256: sha(raw), bytes: raw.length, triangles: mesh.reduce((s,m) => s + m.triangles, 0),
-      errors: report.issues.numErrors, warnings: report.issues.numWarnings, mesh };
+      errors: report.issues.numErrors, warnings: report.issues.numWarnings, windows, mesh };
   }
   for (const name of [asset.source, asset.spatialSource, asset.preview]) bytes[name] = await readFile(new URL(name, dir));
   const spatial = JSON.parse(bytes[asset.spatialSource]);
