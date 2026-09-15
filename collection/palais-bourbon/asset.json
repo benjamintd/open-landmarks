@@ -14,12 +14,12 @@
     "low": {
       "url": "low.glb",
       "bytes": 216600,
-      "sha256": "7cf34c8f410011b107638fc7390753f9dca489cb7e8c45a27bbb6fc7e78a466a"
+      "sha256": "3ab9c2ff10f4280233596ea710d816d06846ba9dea2f95f35262e782b7326cdf"
     },
     "detail": {
       "url": "detail.glb",
       "bytes": 217084,
-      "sha256": "546eb64ca47132681776f17f42276008a51299c0892ea506c4f8f1294e1c07af"
+      "sha256": "da52e9e39d01da03dac37146ccfd1b532c40244cb051c9520899a90b58dff774"
     }
   },
   "triangles": 5008,
@@ -1097,5 +1097,10 @@
   ],
   "source": "source.blend.gz",
   "spatialSource": "spatial-source.json",
-  "preview": "preview.webp"
+  "preview": "preview.webp",
+  "previewDirection": [
+    1.4,
+    1.35,
+    -2.9
+  ]
 }

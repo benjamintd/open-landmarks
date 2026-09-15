@@ -1,0 +1,55 @@
+{
+  "presets": {
+    "day": {
+      "windowColor": "#a4c4d9",
+      "windowEmission": 0.12,
+      "entranceEmission": 0,
+      "glowOpacity": 0,
+      "landmarkLight": {
+        "sky": "#fffaf3",
+        "ground": "#ddd8cc",
+        "ambient": 1.2,
+        "power": 1.7
+      },
+      "environment": {
+        "sky": "#dcecff",
+        "horizon": "#ffffff",
+        "ground": "#ada99f",
+        "intensity": 0.8
+      }
+    },
+    "dawn": {
+      "windowColor": "#bad9e9",
+      "windowEmission": 0.65,
+      "entranceEmission": 1,
+      "glowOpacity": 0.24,
+      "landmarkLight": {
+        "ground": "#bcb1a6",
+        "ambient": 0.8,
+        "power": 1.3
+      },
+      "environment": {
+        "sky": "#d1d9ef",
+        "horizon": "#ffe1c2",
+        "ground": "#837b76",
+        "intensity": 0.6
+      }
+    },
+    "night": {
+      "windowColor": "#b5d4ea",
+      "windowEmission": 0.85,
+      "entranceEmission": 2.4,
+      "glowOpacity": 0.45,
+      "landmarkLight": {
+        "ground": "#96a6c1",
+        "ambient": 0.6
+      },
+      "environment": {
+        "sky": "#657795",
+        "horizon": "#9bacc7",
+        "ground": "#414b5c",
+        "intensity": 0.3
+      }
+    }
+  }
+}

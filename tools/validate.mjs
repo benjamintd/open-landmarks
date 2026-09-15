@@ -22,6 +22,7 @@ export async function validateSubmission({ asset, dir }) {
   check(['review-required','approved'].includes(asset.rightsStatus) && ['draft','approved'].includes(asset.geometryStatus), 'unknown review status');
   check(asset.source === 'source.blend.gz' && asset.spatialSource === 'spatial-source.json' && asset.preview === 'preview.webp', 'use the standard source filenames');
   const bounds = footprintBounds(asset.replacementFootprint); cellsForBounds(bounds);
+  if(asset.previewDirection!==undefined)check(Array.isArray(asset.previewDirection)&&asset.previewDirection.length===3&&asset.previewDirection.every(Number.isFinite)&&asset.previewDirection[1]>0,'invalid preview direction (glTF east/up/south axes)');
   const b = asset.boundsBlenderM;
   check(b?.length === 2 && b.every(v => v.length === 3 && v.every(Number.isFinite)) && b[0].every((v,i) => v <= b[1][i]), 'invalid 3D bounds');
   const reports = {}, bytes = {};

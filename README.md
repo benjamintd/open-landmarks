@@ -59,6 +59,20 @@ For the fifty-model collection, source and release assets are small enough to sh
 
 ## Contributing and licensing
 
+### Consistent 3D lighting
+
+The interactive preview and thumbnail tool share `rendering/` and `lighting.json`;
+Clair imports these same modules. A small procedural sky/ground environment supplies
+reflections, with neutral tone mapping to preserve pale roof details. Architectural
+glass is non-metallic and opaque. The generated lighting texture belongs to the
+renderer; models remain texture-free and require no environment downloads.
+
+Run `node tools/render-previews.mjs [landmark-slug ...]`, open the printed local URL,
+and click **Render thumbnails** to regenerate screenshots from the public GLBs.
+The optional `?benchmark=1` mode compares rendering with and without reflections;
+its synchronous timing is diagnostic only and never runs in the production viewer.
+`previewDirection`, when supplied in asset metadata, uses GLB east/up/south axes.
+
 See [CONTRIBUTING.md](CONTRIBUTING.md), [LICENSES.md](LICENSES.md) and the per-model metadata. Original code is MIT; original artistic contributions are scoped CC BY 4.0; OSM-derived spatial data and index are ODbL 1.0. Reference photos retain their own licenses and are not included in this repository.
 
 Modeling tools can remain private. Contributions can be authored manually, procedurally or with AI; the public artifact and its provenance must be reviewable without the original generation service.
