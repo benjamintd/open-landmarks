@@ -11,7 +11,9 @@
     "validate": "node tools/validate.mjs",
     "test": "node --test tests/*.test.mjs",
     "dev": "npm run build && node tools/serve.mjs",
-    "snapshot": "npm run build && node tools/freeze.mjs"
+    "snapshot": "npm run build && node tools/freeze.mjs",
+    "build:release": "npm run build && npm run verify:release",
+    "verify:release": "node tools/release-records.mjs"
   },
   "devDependencies": {
     "esbuild": "0.28.2",

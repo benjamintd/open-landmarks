@@ -27,9 +27,31 @@ Open http://localhost:5180. `npm run build` validates submissions and writes a c
 
 ## Vercel
 
-This directory is the root of `benjamintd/open-landmarks`. Vercel project `benjamin-td/open-landmarks` is connected to GitHub: pushes to `main` automatically deploy to production, and other branches receive previews. The included `vercel.json` uses `npm ci`, `npm run build` and output `build/`. No secrets or runtime functions are required. `open-landmarks.benmaps.fr` is the configured custom domain; the site and API use same-origin paths and work on preview domains too.
+This directory is the root of `benjamintd/open-landmarks`. Vercel project `benjamin-td/open-landmarks` is connected to GitHub: pushes to `main` automatically deploy to production, and other branches receive previews. The included `vercel.json` uses `npm ci`, `npm run build:release` and output `build/`. No secrets or runtime functions are required. `open-landmarks.benmaps.fr` is the configured custom domain; the site and API use same-origin paths and work on preview domains too.
 
-Before **each deployment**, run `npm run snapshot`, commit the resulting `releases/static/` additions, and verify that the public build passes. Snapshotting preserves content-addressed models, metadata and collection releases; mutable pointers and site files are rebuilt. The build refuses to overwrite an archived URL with different bytes. The initial site is deployed to Vercel project `benjamin-td/open-landmarks`; the custom hostname is `open-landmarks.benmaps.fr`.
+Prepare a named release before deploying changed collection data:
+
+```sh
+npm run snapshot -- --release paris-2026-09-15
+npm test
+npm run build:release
+```
+
+Choose a new name for each changed snapshot. Commit `releases/static/` additions
+and `releases/records/<name>.json` together. The record pins both channel pointers
+and SHA-256 hashes for every retained immutable file. Repeating an identical
+snapshot is safe; reusing its name for different bytes fails.
+
+Ordinary `npm run build` and `npm run dev` never retain snapshots. Vercel and CI
+require the built data to match a named record. Website-only changes can reuse
+an existing record when their collection data is unchanged. A release record
+states intent to publish; GitHub/Vercel deployment history records whether and
+where that commit was deployed.
+
+Archives predating release records remain preserved with unknown publication
+provenance. The initial `cleanup-2026-09-15` record inventories those retained
+bytes without asserting that every historical collection was deployed. Never
+remove an old URL based only on whether a current pointer references it.
 
 Verify response MIME, CORS and cache headers against the deployed Vercel preview before directing consumers there. Local serving does not emulate the Vercel edge. Explicit `.glb.gz` URLs serve gzip *files*, not HTTP-encoded GLBs; consumers decompress once. See [Vercel compression](https://vercel.com/docs/how-vercel-cdn-works/compression) and [configuration](https://vercel.com/docs/project-configuration/vercel-json).
 

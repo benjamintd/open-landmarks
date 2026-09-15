@@ -99,7 +99,7 @@ These resources support GET and HEAD and cache for one year. Follow paths from t
 
 Unknown resources return 404. Error bodies have no defined JSON schema. Conditional requests may return 304 Not Modified. JSON uses ordinary negotiated HTTP compression; explicit .gz files require client decompression. V1 has no server-side search or query filters.
 
-Published immutable URLs remain available. `npm run snapshot` retains them in `releases/static/`; builds reject collisions. HTML and entry JS revalidate. No old-release deletion lifecycle is implemented.
+Published immutable URLs remain available. `npm run snapshot -- --release <name>` retains them in `releases/static/` and records their hashes in `releases/records/`; builds reject collisions. Deployments require the current channel pointers and retained bytes to match a named record. HTML and entry JS revalidate. No old-release deletion lifecycle is implemented.
 
 ## Placement and attribution
 

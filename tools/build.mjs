@@ -4,7 +4,9 @@ import { build } from 'esbuild';
 import { root, sha, cellsForBounds, reviewed } from './common.mjs';
 import { validateAll } from './validate.mjs';
 import { renderSite } from './site.mjs';
+import { verifyRecords } from './release-records.mjs';
 
+await verifyRecords();
 const rows = await validateAll();
 const out = new URL('build/', root);
 await rm(out, { recursive: true, force: true });
