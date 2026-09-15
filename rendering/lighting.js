@@ -39,6 +39,8 @@ export function lightScene(scene, { windowLighting = {}, entranceGlow = true, pr
   scene.add(ambient, sun);
   return (name) => {
     if (!PRESETS[name]) throw Error("Unknown light preset");
+    // Landmark fill is calibrated with the shared sky environment: keeping the
+    // old fill on top of its diffuse light washes pale stone out to white.
     const p = { ...PRESETS[name], ...(profile === "landmark" ? LIGHTING.presets[name].landmarkLight : {}) };
     const glass = { ...LIGHTING.presets[name], windowColor: MATERIALS.window.color, ...(windowLighting?.[name] || {}) };
     ambient.color.set(p.sky);

@@ -8,8 +8,8 @@
       "landmarkLight": {
         "sky": "#fffaf3",
         "ground": "#ddd8cc",
-        "ambient": 1.2,
-        "power": 1.7
+        "ambient": 0.5,
+        "power": 1.3
       },
       "environment": {
         "sky": "#dcecff",
