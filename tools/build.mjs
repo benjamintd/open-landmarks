@@ -46,7 +46,16 @@ for (const row of rows) {
   await emit(publicAsset.metadata, publicAsset); assets.push(publicAsset);
 }
 
+const pointerPath = channel => `/api/v1/collections/paris/${channel === 'approved' ? 'latest' : 'preview'}.json`;
 async function collection(channel, members) {
+  // An empty channel has no release to pin. Publishing a well-formed catalogue of
+  // nothing reads as "released, and empty"; consumers must see "not yet released".
+  if (!members.length) {
+    await emit(pointerPath(channel), { schemaVersion: 1, collection: 'paris', channel,
+      release: null, count: 0, catalogue: null, status: 'no-release',
+      note: 'No submission has completed rights, footprint, appearance and map-integration review.' });
+    return null;
+  }
   const release = `${channel}-${sha(JSON.stringify(members)).slice(0, 20)}`;
   const base = `/api/v1/collections/paris/${release}`, cells = new Map();
   for (const a of members) {
@@ -67,11 +76,12 @@ async function collection(channel, members) {
   await emit(`${base}/assets.json`, { schemaVersion: 1, release, assets: members });
   await emit(`${base}/spatial-database.json`, { license: 'ODbL-1.0', attribution: '© OpenStreetMap contributors',
     assets: rows.filter(r => members.some(a => a.id === r.asset.id)).map(r => JSON.parse(r.bytes[r.asset.spatialSource])) });
-  await emit(`/api/v1/collections/paris/${channel === 'approved' ? 'latest' : 'preview'}.json`, {
+  await emit(pointerPath(channel), {
     schemaVersion: 1, collection: 'paris', channel, release, count: members.length, catalogue: `${base}/catalogue.json` });
   return catalogue;
 }
 const preview = await collection('preview', assets);
+if (!preview) throw Error('The preview channel must contain every validated submission');
 await collection('approved', assets.filter(a => a.approved));
 await emit('/api/v1/collections.json', { schemaVersion: 1, collections: [{ id: 'paris', name: 'Paris',
   latest: '/api/v1/collections/paris/latest.json', preview: '/api/v1/collections/paris/preview.json' }] });

@@ -2,7 +2,7 @@
 
 Lightweight, georeferenced 3D architecture with editable sources and an open spatial catalogue. This repository contains the collection, contribution tools, website and static data API. It has no dependency on a particular map theme, renderer, AI model or model-generation service.
 
-The initial Paris collection contains **thirty draft models**. Structural checks pass; visual, map-integration and rights reviews remain pending. The approved catalogue is empty until those reviews are completed. This is not an automatic photographs-to-models service.
+The initial Paris collection contains **thirty draft models**. Structural checks pass; visual, map-integration and rights reviews remain pending. The approved channel has no release until those reviews are completed; its pointer returns null release and catalogue fields. This is not an automatic photographs-to-models service.
 
 ## Run locally
 

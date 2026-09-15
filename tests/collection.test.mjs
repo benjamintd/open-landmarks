@@ -49,6 +49,17 @@ test('source edit changes content revision and invalidates an existing review', 
     assert.notEqual(changed.revision,rows[0].revision);
   } finally { await rm(temp,{recursive:true,force:true}); }
 });
+test('an unpublished approved channel has no release or catalogue to fetch', async () => {
+  assert.equal(rows.filter(r => reviewed(r.asset,r.revision)).length,0);
+  const pointer = await get('/api/v1/collections/paris/latest.json');
+  assert.equal(pointer.status,'no-release');
+  assert.equal(pointer.release,null);
+  assert.equal(pointer.catalogue,null);
+  assert.equal(pointer.count,0);
+  const docs = await readFile(new URL('docs/index.html',output),'utf8');
+  assert(docs.includes('release: null'));
+  assert(docs.includes('catalogue: null'));
+});
 test('approved pointer excludes drafts; preview has valid tiles, hashes and compressed bytes', async () => {
   const approved = await get('/api/v1/collections/paris/latest.json');
   const preview = await get('/api/v1/collections/paris/preview.json');

@@ -24,7 +24,7 @@ Resolves a channel to its current release. Pin the returned catalogue path for r
 
 **Path parameters:** `collection` is currently `paris`; `channel` is `latest` (approved models) or `preview` (includes drafts).
 
-**200 OK · application/json:** `{schemaVersion, collection, channel, release, count, catalogue}`. The response channel is `approved` for latest.json and `preview` for preview.json. `catalogue` is the pinned catalogue path. Empty releases return 200 with `count: 0`; consumers must not silently switch to preview.
+**200 OK · application/json:** `{schemaVersion, collection, channel, release, count, catalogue}`. The response channel is `approved` for latest.json and `preview` for preview.json. `catalogue` is the pinned catalogue path. A channel with no published models returns 200 with `status: "no-release"`, `release: null`, `catalogue: null` and `count: 0`. There is no catalogue to fetch in that case; consumers must not silently switch to preview. Previously published immutable catalogues remain available at their original URLs.
 
 **Cache:** 60 seconds, revalidate.
 

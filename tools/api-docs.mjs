@@ -45,9 +45,9 @@ ${endpoint({ id: 'collections', title: 'List collections', path: '/api/v1/collec
 ${endpoint({ id: 'release', title: 'Get a release', path: '/api/v1/collections/{collection}/{channel}.json',
   description: 'Resolves a channel to its current release. Save the returned catalogue path to pin that release.',
   parameters: `${collectionParam} ${code('channel')} — ${code('latest')} for approved models, or ${code('preview')} to include drafts.`,
-  response: `A release pointer. An empty collection returns 200 with ${code('count: 0')}. Paris currently has ${assets.filter(asset => asset.approved).length} approved models and ${assets.length} models in preview.`,
+  response: `A release pointer. A channel with nothing published returns 200 with ${code('release: null')}, ${code('catalogue: null')} and ${code('count: 0')} — treat that as "not yet released" rather than an empty release. Paris currently has ${assets.filter(asset => asset.approved).length} approved models and ${assets.length} models in preview.`,
   cache: '60 seconds · revalidate', example: `${base}/preview.json`, sample: pointer,
-  rows: [['schemaVersion', 'integer', 'Response schema version.'], ['collection', 'string', 'Collection ID.'], ['channel', 'string', `${code('approved')} for latest.json; ${code('preview')} for preview.json.`], ['release', 'string', 'Immutable release ID.'], ['count', 'integer', 'Number of models in this release.'], ['catalogue', 'string', 'Path to the pinned catalogue.']] })}
+  rows: [['schemaVersion', 'integer', 'Response schema version.'], ['collection', 'string', 'Collection ID.'], ['channel', 'string', `${code('approved')} for latest.json; ${code('preview')} for preview.json.`], ['release', 'string | null', 'Immutable release ID, or null when nothing is published.'], ['count', 'integer', 'Number of models in this release.'], ['catalogue', 'string | null', 'Path to the pinned catalogue, or null when nothing is published.']] })}
 
 ${endpoint({ id: 'catalogue', title: 'Get a catalogue', path: '/api/v1/collections/{collection}/{release}/catalogue.json',
   description: 'Returns spatial index information and links to the full collection data.', parameters: releaseParam,
