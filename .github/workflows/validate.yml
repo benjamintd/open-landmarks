@@ -1,5 +1,7 @@
-name: Validate collection
-on: [push, pull_request]
+name: Validate landmarks
+on:
+  push:
+  pull_request:
 permissions:
   contents: read
 jobs:
@@ -9,10 +11,23 @@ jobs:
       - uses: actions/checkout@v4
         with:
           persist-credentials: false
+          fetch-depth: 0
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
           cache: npm
+      - run: node tools/check-retention.mjs
       - run: npm ci
+      - uses: actions/cache/restore@v4
+        with:
+          path: .cache/validation
+          key: validation-${{ runner.os }}-${{ github.sha }}
+          restore-keys: validation-${{ runner.os }}-
       - run: npm test
-      - run: npm run verify:release
+      - name: Check production uses a complete recorded publication
+        run: npm run build:release
+      - uses: actions/cache/save@v4
+        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+        with:
+          path: .cache/validation
+          key: validation-${{ runner.os }}-${{ github.sha }}

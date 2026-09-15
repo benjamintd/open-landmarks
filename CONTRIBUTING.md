@@ -7,7 +7,7 @@ Use Blender by hand, procedural tools, or AI assistance. None is mandatory. AI w
 3. Provide `spatial-source.json` with the OSM footprint and parts actually used, IDs, versions and timestamp. Existing submissions show the local metres format and anchor. Declare any manual corrections and measurements rather than quietly replacing source geometry. The complete derived spatial data must remain available.
 4. Provide `preview.webp`, ideally <=40 kB, with a neutral studio view. Record reference source pages, authors, licenses and use. No copied commercial-map geometry or screenshots. Avoid photo textures in v1.
 5. Fill both GLB byte counts and full SHA-256 hashes. On macOS/Linux: `wc -c detail.glb` and `shasum -a 256 detail.glb`.
-6. Run `npm ci`, `npm run validate`, `npm test` and `npm run build`. Fix structural errors. Submit changes for review when the public repository is available.
+6. Run `npm ci`, `npm run validate`, `npm test` and `npm run build`. Fix structural errors. Submit a pull request containing the source files and metadata. Do not include generated `releases/` changes; publication is prepared separately.
 
 ## Model contract
 
@@ -37,7 +37,17 @@ Keep `rightsStatus: review-required`, `geometryStatus: draft` and `review.status
 
 Attach observations/evidence in `review.notes` or additional review files. The reviewer must check source rights, footprint/part fit, height and orientation, architectural recognizability, normals and overlaps from multiple angles, day/night lightness, basemap replacement and tall-building culling. Automated duplicate-face/non-manifold counts are signals, not automatic rejection: thin opaque window panels may intentionally be open. Structural validation does not establish architectural or legal correctness.
 
-Any content change invalidates the approval hash. A public metadata publication has a separate hash that also changes when its review changes. `latest.json` includes only approved exact revisions; `preview.json` includes drafts. After review, run `npm run snapshot`, commit the release additions and deploy. Never rewrite archived URLs.
+Any content change invalidates the approval hash. A public metadata publication has a separate hash that also changes when its review changes. `/api/v1/latest.json` includes approved exact revisions; `/api/v1/preview.json`
+includes current drafts. A replacement draft leaves the last approved model in
+place until the replacement is approved. Removing its submission does not withdraw
+an approved model: add `{ "id": "landmark-id", "reason": "Reason for withdrawal" }`
+to `publication-policy.json` under `withdrawn` to remove it from new publications.
+
+The scheduled/manual publication workflow prepares a batch PR after review. Its
+merge advances production. Ordinary contribution PRs need no snapshot and do not
+advance the production dataset. Vercel Preview shows candidate data. Never rewrite
+retained global publication files. All landmarks belong to one global catalogue;
+no city or collection registration is needed.
 
 ## Contributor grant
 

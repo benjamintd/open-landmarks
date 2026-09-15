@@ -1,12 +1,16 @@
 # Open Landmarks
 
-Lightweight, georeferenced 3D architecture with editable sources and an open spatial catalogue. This repository contains the collection, contribution tools, website and static data API. It has no dependency on a particular map theme, renderer, AI model or model-generation service.
+Lightweight, georeferenced 3D landmarks with editable sources and an open spatial
+catalogue. There is one global dataset. Landmarks have stable IDs and locations;
+Paris is the starting coverage, not a collection identifier or release boundary.
 
-The initial Paris collection contains **fifty draft models**. Structural checks pass; visual, map-integration and rights reviews remain pending. The approved channel has no release until those reviews are completed; its pointer returns null release and catalogue fields. This is not an automatic photographs-to-models service.
+The first fifty models are drafts. Structural validation does not approve rights,
+appearance or map integration. The approved channel is unpublished until exact
+revisions pass those reviews.
 
-## Run locally
+## Develop and contribute
 
-Node.js 22:
+Use Node.js 22:
 
 ```sh
 npm ci
@@ -14,65 +18,89 @@ npm test
 npm run dev
 ```
 
-Open http://localhost:5180. `npm run build` validates submissions and writes a complete static site/API to `build/`. No Python, Blender, AI credentials or adjacent repositories are needed to build the website or index.
+`npm run build` builds a candidate from current submissions. It uses a disposable,
+input-hashed validation cache; `npm run validate:full` bypasses that cache. No
+Blender, Python, AI credentials or adjacent repositories are needed for the site.
 
-## Repository layout
+Contributors edit `collection/<stable-id>/`: metadata, two GLBs, compressed Blender
+source, spatial source and preview. This directory name is a storage convention;
+submissions have no collection membership. Do not add generated release files to
+ordinary contribution PRs. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
-- `collection/<id>/`: model metadata, both GLB LODs, compressed editable Blender source, OSM spatial source, preview image.
-- `site/`: small site client, stylesheet and optional 3D preview. The preview renderer loads only on request; no map or model is loaded on the gallery page.
-- `tools/`: public index/site builder, contribution validator and local server.
-- `templates/`: submission template.
-- `releases/static/`: retained immutable release files. Keep this history so previously published URLs remain available.
-- `docs/API.md`: the renderer-neutral consumer contract.
+## Publish independently of website changes
 
-## Vercel
-
-This directory is the root of `benjamintd/open-landmarks`. Vercel project `benjamin-td/open-landmarks` is connected to GitHub: pushes to `main` automatically deploy to production, and other branches receive previews. The included `vercel.json` uses `npm ci`, `npm run build:release` and output `build/`. No secrets or runtime functions are required. `open-landmarks.benmaps.fr` is the configured custom domain; the site and API use same-origin paths and work on preview domains too.
-
-Prepare a named release before deploying changed collection data:
+All data stays in GitHub. Vercel serves the generated static files through its CDN.
+Production uses **the recorded publication**, not unpublished working submissions:
 
 ```sh
-npm run snapshot -- --release paris-2026-09-15
-npm test
 npm run build:release
 ```
 
-Choose a new name for each changed snapshot. Commit `releases/static/` additions
-and `releases/records/<name>.json` together. The record pins both channel pointers
-and SHA-256 hashes for every retained immutable file. Repeating an identical
-snapshot is safe; reusing its name for different bytes fails.
+Vercel's Git integration runs `npm run build:vercel`: production uses that recorded
+publication, while Preview deployments build the candidate for review. Website
+changes can deploy while data contributions wait for the next batch.
 
-Ordinary `npm run build` and `npm run dev` never retain snapshots. Vercel and CI
-require the built data to match a named record. Website-only changes can reuse
-an existing record when their collection data is unchanged. A release record
-states intent to publish; GitHub/Vercel deployment history records whether and
-where that commit was deployed.
+The **Prepare dataset publication** GitHub workflow runs daily and on demand. It
+validates, freezes only new immutable files, checks the archive, and opens or
+refreshes a publication PR. Merging that PR advances the dataset through the
+existing Vercel integration. See [deployment setup](docs/DEPLOYMENT.md) for GitHub
+permissions and bot-triggered checks.
 
-Archives predating release records remain preserved with unknown publication
-provenance. The initial `cleanup-2026-09-15` record inventories those retained
-bytes without asserting that every historical collection was deployed. Never
-remove an old URL based only on whether a current pointer references it.
+To prepare the same changes locally:
 
-Verify response MIME, CORS and cache headers against the deployed Vercel preview before directing consumers there. Local serving does not emulate the Vercel edge. Explicit `.glb.gz` URLs serve gzip *files*, not HTTP-encoded GLBs; consumers decompress once. See [Vercel compression](https://vercel.com/docs/how-vercel-cdn-works/compression) and [configuration](https://vercel.com/docs/project-configuration/vercel-json).
+```sh
+npm run snapshot -- --auto
+npm run verify:release
+npm run audit:archive
+npm run build:release
+```
 
-For the fifty-model collection, source and release assets are small enough to ship as ordinary repository files. At larger scale, move immutable asset storage to object storage while retaining these URLs and the public source-data offer; the API schema can support an absolute asset origin in a future version. Do not silently change the v1 same-origin contract.
+An explicit `--release <unique-name>` is also supported. Commit the generated
+`releases/` additions and `releases/current.json` together. Identical automatic
+snapshots are no-ops; existing names and published paths cannot change bytes.
 
-## Contributing and licensing
+## Data layout
 
-### Consistent 3D lighting
+- `collection/`: current editable submissions, including drafts.
+- `releases/static/`: retained immutable published files, including all old URLs.
+- `releases/records/`: publication records. Version 2 records contain channel roots,
+  a hash-pinned parent, and **only newly introduced files**.
+- `releases/current.json`: hash-pinned publication selected for production.
+- `publication-policy.json`: explicit withdrawals with a reason.
+- `.cache/`: ignored validation results and candidate build inventory.
+- `site/`, `tools/`, `templates/`: website, validation/publishing tools and template.
 
-The interactive preview and thumbnail tool share `rendering/` and `lighting.json`;
-Clair imports these same modules. A small procedural sky/ground environment supplies
-reflections, with neutral tone mapping to preserve pale roof details. Architectural
-glass is non-metallic and opaque. The generated lighting texture belongs to the
-renderer; models remain texture-free and require no environment downloads.
+Source, preview and spatial files use their own content hashes under `/objects/`.
+GLBs retain their existing content-hashed `/models/` paths. Metadata and reviews
+reference these files; a review change does not copy the source or preview.
+Approved revisions survive replacement drafts until a new revision is approved
+or an explicit withdrawal is published.
 
-Run `node tools/render-previews.mjs [landmark-slug ...]`, open the printed local URL,
-and click **Render thumbnails** to regenerate screenshots from the public GLBs.
-The optional `?benchmark=1` mode compares rendering with and without reflections;
-its synchronous timing is diagnostic only and never runs in the production viewer.
-`previewDirection`, when supplied in asset metadata, uses GLB east/up/south axes.
+## Public API
 
-See [CONTRIBUTING.md](CONTRIBUTING.md), [LICENSES.md](LICENSES.md) and the per-model metadata. Original code is MIT; original artistic contributions are scoped CC BY 4.0; OSM-derived spatial data and index are ODbL 1.0. Reference photos retain their own licenses and are not included in this repository.
+Start at `/api/v1/latest.json` (approved) or `/api/v1/preview.json` (includes drafts),
+then pin the returned `/api/v1/releases/<release>/catalogue.json` path. Discover by
+XYZ cells and follow returned download URLs. No collection parameter is required.
+Paris-specific routes were removed during the global migration. See [API.md](docs/API.md).
 
-Modeling tools can remain private. Contributions can be authored manually, procedurally or with AI; the public artifact and its provenance must be reviewable without the original generation service.
+Immutable resources cache for one year. Pointers revalidate after 60 seconds.
+Explicit `.glb.gz` and `.blend.gz` URLs are gzip files: decompress once. Verify MIME,
+CORS and caching on a Vercel preview when changing routing; local serving does not
+emulate the edge.
+
+## Limits of this stage
+
+Static Vercel deployments still copy the retained archive so old URLs work. Current
+submissions and historical revisions still live in Git. Full catalogues and spatial
+indexes are generated per publication batch. Compact records remove repeated
+archive inventories; they do not make unlimited Git history or full exports free.
+Normal website builds check current metadata and object availability without
+validating models or hashing the historical binaries. The weekly audit verifies
+all retained bytes. See [PACKAGING.md](docs/PACKAGING.md) for the storage contract
+and future database/export migration.
+
+## Licensing
+
+Original code is MIT; original artistic contributions are scoped CC BY 4.0;
+OSM-derived spatial data and index are ODbL 1.0. Reference photos retain their own
+licenses and are not included. See [LICENSES.md](LICENSES.md) and per-model metadata.

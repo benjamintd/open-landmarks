@@ -2,43 +2,143 @@
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "framework": null,
   "installCommand": "npm ci",
-  "buildCommand": "npm run build:release",
+  "buildCommand": "npm run build:vercel",
   "outputDirectory": "build",
   "headers": [
-    { "source": "/(.*)", "headers": [
-      { "key": "X-Content-Type-Options", "value": "nosniff" },
-      { "key": "Referrer-Policy", "value": "strict-origin-when-cross-origin" },
-      { "key": "Cache-Control", "value": "public, max-age=0, must-revalidate" }
-    ] },
-    { "source": "/api/(.*)", "headers": [
-      { "key": "Access-Control-Allow-Origin", "value": "*" },
-      { "key": "Content-Type", "value": "application/json; charset=utf-8" },
-      { "key": "Cache-Control", "value": "public, max-age=60, must-revalidate" }
-    ] },
-    { "source": "/api/v1/collections/paris/:release(approved-[a-f0-9]+|preview-[a-f0-9]+)/:path*", "headers": [
-      { "key": "Cache-Control", "value": "public, max-age=31536000, immutable" }
-    ] },
-    { "source": "/models/(.*)", "headers": [
-      { "key": "Access-Control-Allow-Origin", "value": "*" },
-      { "key": "Cache-Control", "value": "public, max-age=31536000, immutable" }
-    ] },
-    { "source": "/models/:id/:hash/:lod.glb", "headers": [
-      { "key": "Content-Type", "value": "model/gltf-binary" }
-    ] },
-    { "source": "/models/:id/:hash/:lod.glb.gz", "headers": [
-      { "key": "Content-Type", "value": "application/gzip" }
-    ] },
-    { "source": "/assets/(.*)", "headers": [
-      { "key": "Access-Control-Allow-Origin", "value": "*" },
-      { "key": "Cache-Control", "value": "public, max-age=31536000, immutable" }
-    ] },
-    { "source": "/assets/:id/:revision/source.blend.gz", "headers": [
-      { "key": "Content-Type", "value": "application/gzip" }
-    ] },
-    { "source": "/materials/(.*)", "headers": [
-      { "key": "Access-Control-Allow-Origin", "value": "*" },
-      { "key": "Content-Type", "value": "application/json; charset=utf-8" },
-      { "key": "Cache-Control", "value": "public, max-age=31536000, immutable" }
-    ] }
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
+        },
+        {
+          "key": "Referrer-Policy",
+          "value": "strict-origin-when-cross-origin"
+        },
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=0, must-revalidate"
+        }
+      ]
+    },
+    {
+      "source": "/api/(.*)",
+      "headers": [
+        {
+          "key": "Access-Control-Allow-Origin",
+          "value": "*"
+        },
+        {
+          "key": "Content-Type",
+          "value": "application/json; charset=utf-8"
+        },
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=60, must-revalidate"
+        }
+      ]
+    },
+    {
+      "source": "/api/v1/releases/:path*",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, immutable"
+        }
+      ]
+    },
+    {
+      "source": "/models/(.*)",
+      "headers": [
+        {
+          "key": "Access-Control-Allow-Origin",
+          "value": "*"
+        },
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, immutable"
+        }
+      ]
+    },
+    {
+      "source": "/models/:id/:hash/:lod.glb",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "model/gltf-binary"
+        }
+      ]
+    },
+    {
+      "source": "/models/:id/:hash/:lod.glb.gz",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "application/gzip"
+        }
+      ]
+    },
+    {
+      "source": "/assets/(.*)",
+      "headers": [
+        {
+          "key": "Access-Control-Allow-Origin",
+          "value": "*"
+        },
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, immutable"
+        }
+      ]
+    },
+    {
+      "source": "/assets/:id/:revision/source.blend.gz",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "application/gzip"
+        }
+      ]
+    },
+    {
+      "source": "/materials/(.*)",
+      "headers": [
+        {
+          "key": "Access-Control-Allow-Origin",
+          "value": "*"
+        },
+        {
+          "key": "Content-Type",
+          "value": "application/json; charset=utf-8"
+        },
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, immutable"
+        }
+      ]
+    },
+    {
+      "source": "/objects/:path*",
+      "headers": [
+        {
+          "key": "Access-Control-Allow-Origin",
+          "value": "*"
+        },
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, immutable"
+        }
+      ]
+    },
+    {
+      "source": "/objects/:hash/source.blend.gz",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "application/gzip"
+        }
+      ]
+    }
   ]
 }

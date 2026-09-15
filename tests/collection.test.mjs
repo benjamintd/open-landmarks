@@ -51,7 +51,7 @@ test('source edit changes content revision and invalidates an existing review', 
 });
 test('an unpublished approved channel has no release or catalogue to fetch', async () => {
   assert.equal(rows.filter(r => reviewed(r.asset,r.revision)).length,0);
-  const pointer = await get('/api/v1/collections/paris/latest.json');
+  const pointer = await get('/api/v1/latest.json');
   assert.equal(pointer.status,'no-release');
   assert.equal(pointer.release,null);
   assert.equal(pointer.catalogue,null);
@@ -61,8 +61,8 @@ test('an unpublished approved channel has no release or catalogue to fetch', asy
   assert(docs.includes('catalogue: null'));
 });
 test('approved pointer excludes drafts; preview has valid tiles, hashes and compressed bytes', async () => {
-  const approved = await get('/api/v1/collections/paris/latest.json');
-  const preview = await get('/api/v1/collections/paris/preview.json');
+  const approved = await get('/api/v1/latest.json');
+  const preview = await get('/api/v1/preview.json');
   assert.equal(approved.count,rows.filter(r => reviewed(r.asset,r.revision)).length);
   assert.equal(preview.count,rows.length);
   const c = await get(preview.catalogue), manifest = await get(c.assets), discovered = new Set();

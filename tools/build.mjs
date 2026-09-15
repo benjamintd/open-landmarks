@@ -1,105 +1,71 @@
 import { mkdir, writeFile, readFile, rm, cp } from 'node:fs/promises';
-import { gzipSync, gunzipSync } from 'node:zlib';
 import { build } from 'esbuild';
-import { root, sha, cellsForBounds, reviewed } from './common.mjs';
-import { validateAll } from './validate.mjs';
+import { root, sha, json } from './common.mjs';
 import { renderSite } from './site.mjs';
-import { verifyRecords } from './release-records.mjs';
+import { currentPublication, immutablePath, verifyCurrentRelease } from './release-records.mjs';
 
-await verifyRecords();
-const rows = await validateAll();
-const out = new URL('build/', root);
+const published = process.argv.includes('--published');
+const out = new URL('build/', root), activeFiles = {};
 await rm(out, { recursive: true, force: true });
+// Static Vercel deployments must include the old paths to retain their URLs.
+// This copies history; it does not parse or validate historical models.
 await cp(new URL('releases/static/', root), out, { recursive: true }).catch(error => { if (error.code !== 'ENOENT') throw error; });
+const read = path => readFile(new URL(path.replace(/^\//, ''), out));
 export async function emit(path, data) {
-  const target = new URL(path.replace(/^\//, ''), out);
+  const relative = path.replace(/^\//, ''), target = new URL(relative, out);
   await mkdir(new URL('./', target), { recursive: true });
   const raw = Buffer.from(typeof data === 'string' || Buffer.isBuffer(data) ? data : JSON.stringify(data));
-  const previous = await readFile(target).catch(error => { if (error.code !== 'ENOENT') throw error; });
-  if (previous && !previous.equals(raw)) throw Error(`Immutable release collision: ${path}`);
+  if (immutablePath(relative)) {
+    const previous = await readFile(target).catch(error => { if (error.code !== 'ENOENT') throw error; });
+    if (previous && !previous.equals(raw)) throw Error(`Immutable release collision: ${path}`);
+    activeFiles[relative] = sha(raw);
+  }
   await writeFile(target, raw);
 }
-const libraryBytes = await readFile(new URL('materials.json', root));
-const libraryHash = sha(libraryBytes);
-const materialLibrary = {schemaVersion:1, sha256:libraryHash, url:`/materials/${libraryHash}.json`};
-await emit(materialLibrary.url, libraryBytes);
-const assets = [];
-for (const row of rows) {
-  const { asset, revision, bounds, bytes, reports } = row;
-  const publicationRevision = sha(JSON.stringify(asset) + revision + JSON.stringify(reports) + libraryHash);
-  const prefix = `/assets/${asset.id}/${publicationRevision}`;
-  const publicAsset = { ...asset, revision, publicationRevision, bounds, approved: reviewed(asset, revision), metadata: `${prefix}/asset.json`, lods: {} };
-  for (const lod of ['low','detail']) {
-    const raw = bytes[`${lod}.glb`];
-    const url = `/models/${asset.id}/${sha(raw)}/${lod}.glb`;
-    // zlib versions can produce different gzip bytes. A frozen representation is canonical.
-    const compressed = await readFile(new URL(url.slice(1) + '.gz', out)).catch(error => {
-      if (error.code !== 'ENOENT') throw error;
-      return gzipSync(raw, { level: 9 });
-    });
-    if (!gunzipSync(compressed).equals(raw)) throw Error(`Archived gzip does not match its model: ${url}`);
-    await emit(url, raw); await emit(url + '.gz', compressed);
-    publicAsset.lods[lod] = { url, bytes: raw.length, sha256: sha(raw), triangles: reports[lod].triangles,
-      gzip: { url: url + '.gz', bytes: compressed.length, sha256: sha(compressed), encoding: 'gzip-file' } };
+const current = await currentPublication();
+let assets, preview, channels;
+if (published) {
+  await verifyCurrentRelease(root, { candidate: false });
+  channels = current.channels;
+  preview = JSON.parse(await read(channels.preview.catalogue));
+  assets = JSON.parse(await read(preview.assets)).assets;
+} else {
+  // Production website builds never import geometry validators or submissions.
+  const { validateAll } = await import('./validate.mjs');
+  const { publishAsset, publishCatalogue, selectApproved } = await import('./publish-data.mjs');
+  const rows = await validateAll();
+  const libraryBytes = await readFile(new URL('materials.json', root));
+  const materialLibrary = { schemaVersion: 1, sha256: sha(libraryBytes), url: `/materials/${sha(libraryBytes)}.json` };
+  const policy = await json(new URL('publication-policy.json', root));
+  if (!Array.isArray(policy.withdrawn) || policy.withdrawn.some(w => !w.id || !w.reason)) throw Error('Withdrawals require an ID and reason');
+  const withdrawn = policy.withdrawn.map(w => w.id);
+  assets = [];
+  for (const row of rows) if (!withdrawn.includes(row.asset.id)) assets.push(await publishAsset(row, libraryBytes, emit, read));
+  let previous = [];
+  if (current?.channels.latest.catalogue) {
+    const descriptor = JSON.parse(await read(current.channels.latest.catalogue));
+    previous = JSON.parse(await read(descriptor.assets)).assets;
   }
-  for (const [key, name] of [['source',asset.source],['spatialSource',asset.spatialSource],['preview',asset.preview]]) {
-    publicAsset[key] = { url: `${prefix}/${name}`, bytes: bytes[name].length, sha256: sha(bytes[name]) };
-    await emit(publicAsset[key].url, bytes[name]);
-  }
-  publicAsset.validation = `${prefix}/validation.json`;
-  await emit(publicAsset.validation, { revision, structural: 'passed', lods: reports,
-    note: 'Duplicate faces and non-manifold edges are review signals, not certification. This report does not approve appearance, rights or footprint alignment.' });
-  await emit(publicAsset.metadata, publicAsset); assets.push(publicAsset);
+  const draft = await publishCatalogue('preview', assets, materialLibrary, emit, read);
+  if (!draft.catalogue) throw Error('The preview catalogue needs at least one landmark');
+  const approved = await publishCatalogue('approved', selectApproved(assets, previous, withdrawn), materialLibrary, emit, read);
+  preview = draft.catalogue;
+  channels = { latest: approved.pointer, preview: draft.pointer };
+  await mkdir(new URL('.cache/', root), { recursive: true });
+  await writeFile(new URL('.cache/publication.json', root), JSON.stringify({ channels,
+    files: Object.fromEntries(Object.entries(activeFiles).sort(([a], [b]) => a.localeCompare(b))) }));
+  console.log(`Validated ${rows.length} landmarks (${rows.filter(row => row.cacheHit).length} cached).`);
 }
-
-const pointerPath = channel => `/api/v1/collections/paris/${channel === 'approved' ? 'latest' : 'preview'}.json`;
-async function collection(channel, members) {
-  // An empty channel has no release to pin. Publishing a well-formed catalogue of
-  // nothing reads as "released, and empty"; consumers must see "not yet released".
-  if (!members.length) {
-    await emit(pointerPath(channel), { schemaVersion: 1, collection: 'paris', channel,
-      release: null, count: 0, catalogue: null, status: 'no-release',
-      note: 'No submission has completed rights, footprint, appearance and map-integration review.' });
-    return null;
-  }
-  const release = `${channel}-${sha(JSON.stringify({members,materialLibrary})).slice(0, 20)}`;
-  const base = `/api/v1/collections/paris/${release}`, cells = new Map();
-  for (const a of members) {
-    const { references, assistance, osm, ...entry } = a;
-    for (const cell of cellsForBounds(a.bounds, 12)) {
-      if (!cells.has(cell)) cells.set(cell, []);
-      cells.get(cell).push(entry);
-    }
-  }
-  for (const [cell, items] of cells) await emit(`${base}/index/12/${cell}.json`, { schemaVersion: 1, collection: 'paris', release, assets: items });
-  const catalogue = { schemaVersion: 1, collection: 'paris', release, channel, count: members.length,
-    status: channel === 'preview' ? 'includes-unreviewed-drafts' : 'approved-only',
-    assetBase: '/', materialLibrary, bounds: [Math.min(...members.map(a=>a.bounds[0])),Math.min(...members.map(a=>a.bounds[1])),Math.max(...members.map(a=>a.bounds[2])),Math.max(...members.map(a=>a.bounds[3]))], maxHeightM: Math.max(0,...members.map(a => a.boundsBlenderM[1][2])),
-    attribution: 'Open Landmarks; © OpenStreetMap contributors', dataLicense: 'ODbL-1.0',
-    index: { zoom: 12, template: `${base}/index/12/{x}/{y}.json`, occupied: [...cells.keys()].sort() },
-    assets: `${base}/assets.json`, sourceDatabase: `${base}/spatial-database.json` };
-  await emit(`${base}/catalogue.json`, catalogue);
-  await emit(`${base}/assets.json`, { schemaVersion: 1, release, assets: members });
-  await emit(`${base}/spatial-database.json`, { license: 'ODbL-1.0', attribution: '© OpenStreetMap contributors',
-    assets: rows.filter(r => members.some(a => a.id === r.asset.id)).map(r => JSON.parse(r.bytes[r.asset.spatialSource])) });
-  await emit(pointerPath(channel), {
-    schemaVersion: 1, collection: 'paris', channel, release, count: members.length, catalogue: `${base}/catalogue.json` });
-  return catalogue;
+for (const [channel, pointer] of Object.entries(channels)) {
+  await emit(`/api/v1/${channel}.json`, pointer);
 }
-const preview = await collection('preview', assets);
-if (!preview) throw Error('The preview channel must contain every validated submission');
-await collection('approved', assets.filter(a => a.approved));
-await emit('/api/v1/collections.json', { schemaVersion: 1, collections: [{ id: 'paris', name: 'Paris',
-  latest: '/api/v1/collections/paris/latest.json', preview: '/api/v1/collections/paris/preview.json' }] });
 await build({ entryPoints: [new URL('site/client.js', root).pathname], bundle: true, splitting: true,
   format: 'esm', target: 'es2022', minify: true, entryNames: 'client', chunkNames: 'chunk-[hash]',
   outdir: new URL('site/', out).pathname, legalComments: 'eof' });
-await emit('/site/style.css', await readFile(new URL('site/style.css', root)));
-await emit('/site/brand.svg', await readFile(new URL('site/brand.svg', root)));
-await emit('/site/fonts/commissioner.woff2', await readFile(new URL('site/fonts/commissioner.woff2', root)));
+for (const path of ['site/style.css', 'site/brand.svg', 'site/fonts/commissioner.woff2']) await emit('/' + path, await readFile(new URL(path, root)));
 await emit('/licenses/Commissioner-OFL.txt', await readFile(new URL('site/fonts/OFL.txt', root)));
-await emit('/licenses/THREE.txt', await readFile(new URL('../node_modules/three/LICENSE', root)).catch(() => readFile(new URL('node_modules/three/LICENSE', root))));
+await emit('/licenses/THREE.txt', await readFile(new URL('node_modules/three/LICENSE', root)));
 await emit('/licenses/MIT.txt', await readFile(new URL('LICENSE', root)));
 await emit('/licenses/COMPONENTS.md', await readFile(new URL('LICENSES.md', root)));
 await renderSite(assets, preview, emit);
-console.log(`Built ${assets.length} models, ${assets.filter(a => a.approved).length} approved; ${preview.index.occupied.length} preview XYZ cells. Output: build/`);
+console.log(`Built ${published ? 'published' : 'candidate'} website: ${assets.length} landmarks, ${channels.latest.count} approved. Output: build/`);

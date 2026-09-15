@@ -12,8 +12,11 @@
     "test": "node --test tests/*.test.mjs",
     "dev": "npm run build && node tools/serve.mjs",
     "snapshot": "npm run build && node tools/freeze.mjs",
-    "build:release": "npm run build && npm run verify:release",
-    "verify:release": "node tools/release-records.mjs"
+    "build:release": "node tools/build.mjs --published",
+    "verify:release": "node tools/release-records.mjs",
+    "build:vercel": "node tools/vercel-build.mjs",
+    "audit:archive": "node tools/release-records.mjs --audit",
+    "validate:full": "node tools/validate.mjs --no-cache"
   },
   "devDependencies": {
     "esbuild": "0.28.2",

@@ -4,7 +4,8 @@ import validator from 'gltf-validator';
 import { materialAudit } from './material-audit.mjs';
 import { glbTriangles, windowSupportAudit } from './window-audit.mjs';
 import { meshAudit } from './mesh-audit.mjs';
-import { submissions, slug, sha, footprintBounds, cellsForBounds } from './common.mjs';
+import { root, submissions, slug, sha, footprintBounds, cellsForBounds } from './common.mjs';
+import { cachedValidation, validatorFingerprint } from './validation-cache.mjs';
 
 const requireThat = (condition, message) => { if (!condition) throw Error(message); };
 export async function validateSubmission({ asset, dir }) {
@@ -71,9 +72,16 @@ export async function validateSubmission({ asset, dir }) {
   const revision = sha(JSON.stringify(content) + Object.keys(bytes).sort().map(k => `${k}:${sha(bytes[k])}`).join('|'));
   return { asset, dir, bytes, reports, bounds, revision };
 }
-export async function validateAll() { return Promise.all((await submissions()).map(validateSubmission)); }
+export async function validateAll({ cache = true } = {}) {
+  const entries = await submissions();
+  const options = cache ? { directory: new URL('.cache/validation/', root), fingerprint: await validatorFingerprint() } : null;
+  // Bound memory and expensive geometry work; retain deterministic ID ordering.
+  const rows = [];
+  for (const entry of entries) rows.push(cache ? await cachedValidation(entry, validateSubmission, options) : await validateSubmission(entry));
+  return rows;
+}
 if (process.argv[1] === fileURLToPath(import.meta.url)) {
-  const rows = await validateAll();
+  const rows = await validateAll({ cache: !process.argv.includes('--no-cache') });
   console.table(rows.map(r => ({ id: r.asset.id, revision: r.revision, triangles: r.reports.detail.triangles, status: r.asset.review.status })));
   console.log('Structural validation passed. Footprint fit, visual quality, map integration and rights still require review.');
 }

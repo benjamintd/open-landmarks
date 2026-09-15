@@ -1,0 +1,40 @@
+name: Prepare dataset publication
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 6 * * *'
+permissions:
+  contents: write
+  pull-requests: write
+concurrency:
+  group: dataset-publication
+  cancel-in-progress: false
+jobs:
+  publication:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+          # An optional GitHub App/PAT allows bot PRs to trigger required checks.
+          token: ${{ secrets.PUBLICATION_TOKEN || github.token }}
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+      - run: npm ci
+      - uses: actions/cache/restore@v4
+        with:
+          path: .cache/validation
+          key: validation-${{ runner.os }}-${{ github.sha }}
+          restore-keys: validation-${{ runner.os }}-
+      - run: npm test
+      - run: npm run snapshot -- --auto
+      - run: npm run verify:release
+      - run: npm run audit:archive
+      - run: npm run build:release
+      - name: Open or refresh publication PR
+        env:
+          GH_TOKEN: ${{ secrets.PUBLICATION_TOKEN || github.token }}
+        run: node tools/publication-pr.mjs
