@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 2,
+  "release": "publication-219e5b10e5e03d1fa86c",
+  "parent": {
+    "release": "publication-1209b68fa45a63c37fd1",
+    "sha256": "8ec3320243e750be5058f12ac50871656cc27ca05d59c21ea72abd7d32838c80"
+  },
+  "channels": {
+    "latest": {
+      "schemaVersion": 1,
+      "channel": "approved",
+      "release": null,
+      "count": 0,
+      "catalogue": null,
+      "status": "no-release"
+    },
+    "preview": {
+      "schemaVersion": 1,
+      "channel": "preview",
+      "release": "preview-c1eaaa07df4b752efbe0",
+      "count": 50,
+      "catalogue": "/api/v1/releases/preview-c1eaaa07df4b752efbe0/catalogue.json"
+    }
+  },
+  "files": {
+    "api/v1/releases/preview-c1eaaa07df4b752efbe0/assets.json": "377caee428604f3c2a1f7b366f33efe392d0675cd3bfadee5162fc683c76b6cf",
+    "api/v1/releases/preview-c1eaaa07df4b752efbe0/catalogue.json": "e91f5fcce668030ec6fa71225363fa5b52fe9741889d8284520be9591f994605",
+    "api/v1/releases/preview-c1eaaa07df4b752efbe0/index/12/2073/1408.json": "fd64d23e874ae56741e5050dd2f2275754ce04e064eae2f57866a744cf9f132f",
+    "api/v1/releases/preview-c1eaaa07df4b752efbe0/index/12/2073/1409.json": "3f7c603953e7c8552d1fdbd5402674842da8989c8ccefeb622b49bcac599f18e",
+    "api/v1/releases/preview-c1eaaa07df4b752efbe0/index/12/2074/1408.json": "272ed1025ddfdddfe25d6a522c7f2a0b82948219a7bd6391662b029d4ef82bfa",
+    "api/v1/releases/preview-c1eaaa07df4b752efbe0/index/12/2074/1409.json": "4a2671605a03ab419e9ce32792fc2e39cc304e51e540b101bb6acdd9530e9d20",
+    "api/v1/releases/preview-c1eaaa07df4b752efbe0/index/12/2075/1408.json": "bf03dd1ec56de247cbe7684f9a77ab3a8d358d3b3f21f57175a83b4be9bbc0c8",
+    "api/v1/releases/preview-c1eaaa07df4b752efbe0/spatial-database.json": "e7589b5aa41e6bc42b5d996ff4f6ccb08c7ec7c52537f0d41b25c6c92adff72a",
+    "assets/cnit/2294a0c9f8fae5841b1599c796313dfd2e7c8d0da188b5bab208399f64ed417b/asset.json": "026c3902e24fed56a89a42220464fa5f8e19e1c63f12697e96272988b8323a45",
+    "assets/cnit/2294a0c9f8fae5841b1599c796313dfd2e7c8d0da188b5bab208399f64ed417b/validation.json": "f8fda490006a538a4bd142aaf2ab792e422bde070bd77be47c5691b9ffa4c793",
+    "models/cnit/73cfb03ea2b814a5232e2b280ea4339d43d9a4694dee347182a0ff12e240000f/detail.glb": "73cfb03ea2b814a5232e2b280ea4339d43d9a4694dee347182a0ff12e240000f",
+    "models/cnit/73cfb03ea2b814a5232e2b280ea4339d43d9a4694dee347182a0ff12e240000f/detail.glb.gz": "07352ce21a8a303e3fc4f5f209a6568060f8c093e6cadbd876ff229d37cfa12d",
+    "models/cnit/73cfb03ea2b814a5232e2b280ea4339d43d9a4694dee347182a0ff12e240000f/low.glb": "73cfb03ea2b814a5232e2b280ea4339d43d9a4694dee347182a0ff12e240000f",
+    "models/cnit/73cfb03ea2b814a5232e2b280ea4339d43d9a4694dee347182a0ff12e240000f/low.glb.gz": "07352ce21a8a303e3fc4f5f209a6568060f8c093e6cadbd876ff229d37cfa12d",
+    "objects/23295c893770ab884f7150c3a3d851555dd27ef13950b2b5498fce1742f5b4b0/preview.webp": "23295c893770ab884f7150c3a3d851555dd27ef13950b2b5498fce1742f5b4b0",
+    "objects/43bc5bb537581658c0ddab908d0f5a2ad723f723b388e4b38cf6ecf772db7890/spatial-source.json": "43bc5bb537581658c0ddab908d0f5a2ad723f723b388e4b38cf6ecf772db7890",
+    "objects/5990772fc9b9ba98668a22b46d26f2c6691c6d54cd3fa10d7f86ce7068bd91c4/source.blend.gz": "5990772fc9b9ba98668a22b46d26f2c6691c6d54cd3fa10d7f86ce7068bd91c4"
+  }
+}

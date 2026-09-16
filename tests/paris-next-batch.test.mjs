@@ -58,7 +58,7 @@ function rayHit(origin,direction,triangle,maxDistance) {
 for(const lod of ['detail','low']) {
   test(`${lod}: new Paris landmarks retain their defining height hierarchy`,async()=>{
     for(const [slug,height] of Object.entries({
-      'tour-montparnasse':210,'maison-de-la-radio':68,cnit:50,
+      'tour-montparnasse':210,'maison-de-la-radio':68,
       'cite-des-sciences':40,'theatre-marigny':15,'palais-galliera':13,
       'saint-germain-des-pres':60,'saint-pierre-de-montmartre':26,
     })) {
@@ -139,5 +139,19 @@ for(const lod of ['detail','low']) {
     const tops=pairs.map(p=>p[1]);
     assert(Math.max(...tops)-Math.min(...tops)>30,'curved three-point shell flattened');
     assert(mesh.some(t=>t.material==='glass'),'curtain glazing missing');
+  });
+
+  test(`${lod}: CNIT uses its measured IGN roof height above the plaza datum`,async()=>{
+    const spatial=await source('cnit'),mesh=await triangles('cnit',lod);
+    const top=Math.max(...mesh.flatMap(t=>t.points.map(p=>p[1])));
+    // March 2023 roof returns put the shell near 38.5 m above this plaza.
+    // The former 50 m OSM tag described a different height assumption.
+    assert(top>38 && top<39,`CNIT measured shell height changed: ${top} m`);
+    assert.equal(spatial.lidar.verticalCRS,'IGN69');
+    assert(Math.abs(spatial.lidar.groundElevationM-62.3205)<.001);
+    assert.equal(spatial.lidar.tiles.length,2);
+    assert(spatial.lidar.tiles.every(t=>t.acquisitionStart.startsWith('2023-03-02')));
+    assert.match(spatial.lidar.attribution,/IGN/);
+    assert.match(spatial.lidar.license,/licence-ouverte/);
   });
 }

@@ -7,6 +7,7 @@ These licenses apply to distinct components and are cumulative where applicable.
 | Original site and packaging/validation code | MIT, see LICENSE |
 | Original artistic model contributions | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode), only to the extent the contributor holds the rights |
 | OSM-derived spatial geometry, placement records and catalogue/index | [ODbL 1.0](https://opendatacommons.org/licenses/odbl/1-0/), © OpenStreetMap contributors |
+| IGN LiDAR HD measurements used for CNIT | [Licence Ouverte 2.0](https://www.etalab.gouv.fr/licence-ouverte-open-licence/), IGN; acquired March 2–3, 2023, edition June 6, 2025. Tile URLs, coordinate systems, processing and inferred details are recorded in CNIT's spatial source. |
 | Reference photographs | Their individual licenses in `collection/*/asset.json`; photographs are linked, not redistributed or embedded as textures |
 | Three.js used by the optional site preview | MIT; its full notice is copied to `build/licenses/THREE.txt` |
 | Commissioner typeface | SIL Open Font License 1.1; see `site/fonts/OFL.txt`, also served at `/licenses/Commissioner-OFL.txt` |
