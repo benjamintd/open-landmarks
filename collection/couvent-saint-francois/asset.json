@@ -1,0 +1,207 @@
+{
+  "id": "couvent-saint-francois",
+  "name": "Couvent Saint-François",
+  "anchor": [
+    2.3302592568926292,
+    48.82622430994334
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 65740,
+      "sha256": "1ebaf581789fd224b0bcccfb9afe99ac75a6cefc803df5a5b801f91935be82ee"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 65908,
+      "sha256": "9714615bfedffd830379eb0c1b5b7a85b042fc774fdc4d003e28fc89beaef738"
+    }
+  },
+  "triangles": 1183,
+  "boundsBlenderM": [
+    [
+      -31.658000946044922,
+      -29.459999084472656,
+      0
+    ],
+    [
+      24.61026954650879,
+      23.819000244140625,
+      20
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          2.3303247,
+          48.8259905
+        ],
+        [
+          2.3303729,
+          48.8259594
+        ],
+        [
+          2.3304619,
+          48.8260204
+        ],
+        [
+          2.3305238,
+          48.8260628
+        ],
+        [
+          2.330554,
+          48.8260835
+        ],
+        [
+          2.3305941,
+          48.826111
+        ],
+        [
+          2.3305937,
+          48.826151
+        ],
+        [
+          2.3302649,
+          48.8263618
+        ],
+        [
+          2.3301453,
+          48.8264385
+        ],
+        [
+          2.3300934,
+          48.8264031
+        ],
+        [
+          2.330049,
+          48.8263729
+        ],
+        [
+          2.3300143,
+          48.8263492
+        ],
+        [
+          2.3299947,
+          48.8263359
+        ],
+        [
+          2.3299561,
+          48.8263097
+        ],
+        [
+          2.3299143,
+          48.8262814
+        ],
+        [
+          2.3298997,
+          48.8262716
+        ],
+        [
+          2.3298882,
+          48.8262637
+        ],
+        [
+          2.3298281,
+          48.8262225
+        ],
+        [
+          2.3298519,
+          48.8262074
+        ],
+        [
+          2.3298731,
+          48.8261931
+        ],
+        [
+          2.3298875,
+          48.8262027
+        ],
+        [
+          2.3299313,
+          48.8261744
+        ],
+        [
+          2.329959,
+          48.8261935
+        ],
+        [
+          2.3299792,
+          48.8262074
+        ],
+        [
+          2.3300875,
+          48.826282
+        ],
+        [
+          2.3303984,
+          48.8260842
+        ],
+        [
+          2.3303648,
+          48.8260614
+        ],
+        [
+          2.3303978,
+          48.8260398
+        ],
+        [
+          2.3303247,
+          48.8259905
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 37642474,
+    "version": 17,
+    "timestamp": "2020-05-08T20:06:30Z",
+    "url": "https://www.openstreetmap.org/way/37642474"
+  },
+  "additionalOsm": [],
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0",
+  "references": [
+    {
+      "title": "File:Couvent des Franciscains 2.JPG",
+      "author": "LPLT",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Couvent_des_Franciscains_2.JPG",
+      "sourceSha1": "bf2eb2f42da0bb0026e119f7e626b4a7251b5963",
+      "use": "visual-reference-only",
+      "view": "Street oblique confirms long neo-Gothic chapel, tall lancets and narrow corner tower; rear range not visible and uses mapped heights."
+    }
+  ],
+  "aliases": [],
+  "authors": [
+    "Open Landmarks contributors"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted architectural interpretation and procedural recipe authoring; deterministic Python/Blender export. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "OSM locates the 17 m long chapel, 20 m corner tower, low 4.5 m range and 15 m rear range. Tagged 4 m roof rises remain unchanged.",
+    "The unheighted entrance range follows the adjoining 17 m gabled body with 4 m rise. Untagged roof rises use 1 m at the tower and 3 m at the 15 m rear range; the small uncovered plan uses 4.5 m. These are explicit visual inferences from the inspected Couvent des Franciscains street view.",
+    "Tall paired lancets, a narrow corner tower and horizontal bands retain the neo-Gothic massing. Brick color is normalized to the approved stone palette; tracery, crenellation and individual dormer ornament are omitted."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

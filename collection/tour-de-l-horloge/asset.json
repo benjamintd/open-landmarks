@@ -1,0 +1,139 @@
+{
+  "id": "tour-de-l-horloge",
+  "name": "Tour de l'Horloge",
+  "anchor": [
+    2.372907779340472,
+    48.8446888083338
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 57316,
+      "sha256": "f4a968f28fbf77cd40fe57dcabfc658bf584b5cda7dd147133be4c39c9d4be49"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 57484,
+      "sha256": "951717e4e986c582b71e4730d873c8cbb6baee29c3e623c37d40f95b5e4cf8e7"
+    }
+  },
+  "triangles": 988,
+  "boundsBlenderM": [
+    [
+      -6.831999778747559,
+      -6.807000160217285,
+      0
+    ],
+    [
+      6.828000068664551,
+      6.872000217437744,
+      67
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          2.3729046,
+          48.8447506
+        ],
+        [
+          2.372943,
+          48.8447295
+        ],
+        [
+          2.3729477,
+          48.8447268
+        ],
+        [
+          2.3729505,
+          48.8447252
+        ],
+        [
+          2.3730008,
+          48.8446976
+        ],
+        [
+          2.3729559,
+          48.8446622
+        ],
+        [
+          2.3729118,
+          48.8446276
+        ],
+        [
+          2.372883,
+          48.8446423
+        ],
+        [
+          2.3728628,
+          48.8446534
+        ],
+        [
+          2.3728147,
+          48.8446798
+        ],
+        [
+          2.3728597,
+          48.8447152
+        ],
+        [
+          2.3729046,
+          48.8447506
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 115948339,
+    "version": 14,
+    "timestamp": "2025-04-29T09:51:47Z",
+    "url": "https://www.openstreetmap.org/way/115948339"
+  },
+  "additionalOsm": [],
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0",
+  "references": [
+    {
+      "title": "File:Tour Horloge Gare Lyon Paris 26.jpg",
+      "author": "Chabe01",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Tour_Horloge_Gare_Lyon_Paris_26.jpg",
+      "sourceSha1": "a980746cff0a033d8c39bbc405514097180ecac9",
+      "use": "visual-reference-only",
+      "view": "Close daytime exterior confirms stone shaft, projecting four-sided clock stage, convex mansard crown and small lantern. Not the Palais de Justice clock tower."
+    }
+  ],
+  "aliases": [],
+  "authors": [
+    "Open Landmarks contributors"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted architectural interpretation and procedural recipe authoring; deterministic Python/Blender export. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "The clock tower is modeled independently of Gare de Lyon. OSM supplies the 35–50 m clock stage, 63 m main roof and 67 m lantern. The main roof part starts at ground in the source; the outline fills the remaining lower shaft to 35 m.",
+    "The inspected close view shows four large circular dials, a heavy cornice, curved mansard crown and small lantern. A shared faceted dome profile approximates the convex main crown within its mapped plan; 3.2 m clock radius, 42.5 m clock centers and cornice thickness are visual inferences.",
+    "The 35 m lower-shaft fill is an explicit interpretation of the floating clock-stage minimum height and the observed continuous shaft. Dial marks use existing clock primitives; sculptures and fine roof ornament are omitted."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}
