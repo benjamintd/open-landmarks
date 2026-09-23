@@ -13,16 +13,16 @@
   "lods": {
     "low": {
       "url": "low.glb",
-      "bytes": 124880,
-      "sha256": "dc52928cddbeaffee7999b1549680db2e595131a9a57ec6519b1487cc304ca5c"
+      "bytes": 172648,
+      "sha256": "8200dda6ee43b67e5756a6bb9a8a303e11e7d0a2fceaaa243d573a26b69ff9e1"
     },
     "detail": {
       "url": "detail.glb",
-      "bytes": 125024,
-      "sha256": "8dc4edcd3b39d70a821b859b7753b8277bcf12f6c2cab7b4f604718a3d035710"
+      "bytes": 173464,
+      "sha256": "9c94e4832d00e0c5672d6844931dadf3c90fac06486bb16218a836ddc9b02c4e"
     }
   },
-  "triangles": 2612,
+  "triangles": 3584,
   "boundsBlenderM": [
     [
       -27.211700439453125,
@@ -363,7 +363,7 @@
   "modelingNotes": [
     "The principal polygon and 15 m total roof height come from OSM. Its untagged roof rise is interpreted as 4 m from the inspected front and oblique Commons images; the shallow polygonal roof uses an 18 m inset.",
     "Two-storey rear annex and uncovered service footprint use an explicitly inferred 7 m eave/8 m roof. The central lantern radius 2.8 m and 17.2 m crown are visual estimates relative to the mapped auditorium; its height is not surveyed.",
-    "Upper window band, corner pilasters and strong horizontal cornices retain the characteristic circus silhouette. Relief friezes, horses, lettering and ornamental colors are omitted; the shared restrained palette is used."
+    "Upper window band, corner pilasters, strong cornices and a simplified ring of roundels retain the characteristic circus silhouette. The roundels suggest its sculpted frieze rather than reproduce the horses or lettering."
   ],
   "source": "source.blend.gz",
   "spatialSource": "spatial-source.json",

@@ -25,7 +25,7 @@ function subtractTriangle(polygon,triangle) {
   return outside;
 }
 export function windowSupportAudit(triangles, tolerance=materialLibrary.wallSupportToleranceM) {
-  const support=new Set(['stone','trim','roof','metal','recess','copper','patina']);
+  const support=new Set(materialLibrary.windowSupportMaterials);
   const walls=triangles.filter(t=>support.has(t.material)).map(t=>{
     const n=cross(sub(t.points[1],t.points[0]),sub(t.points[2],t.points[0]));const len=Math.hypot(...n);
     return {...t,n:n.map(v=>v/len)};

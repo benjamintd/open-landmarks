@@ -4,7 +4,7 @@ Lightweight, georeferenced 3D landmarks with editable sources and an open spatia
 catalogue. There is one global dataset. Landmarks have stable IDs and locations;
 Paris is the starting coverage, not a collection identifier or release boundary.
 
-The first fifty models are drafts. Structural validation does not approve rights,
+The current seventy models are drafts. Structural validation does not approve rights,
 appearance or map integration. The approved channel is unpublished until exact
 revisions pass those reviews.
 

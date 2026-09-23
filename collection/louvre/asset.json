@@ -13,16 +13,16 @@
   "lods": {
     "low": {
       "url": "low.glb",
-      "bytes": 147420,
-      "sha256": "46612f1c0774013f57723aaea1642851a44861d67bee6938cdc4aa8cf11c95d1"
+      "bytes": 202840,
+      "sha256": "1f8014553915d72d4cb3f1fd9e616dc283521f9b1a340aa63b4cee3cb484b1a4"
     },
     "detail": {
       "url": "detail.glb",
-      "bytes": 147516,
-      "sha256": "eeb8246d81cbbf055b944e242ad699de78f7b7483211398d3e44b76fd7d35514"
+      "bytes": 202936,
+      "sha256": "fc31862ec71eabd89a910aaff3e454b45b849a435550ed7b67a9e9e5aac53ece"
     }
   },
-  "triangles": 2826,
+  "triangles": 3786,
   "boundsBlenderM": [
     [
       -405.4555358886719,
@@ -9379,7 +9379,7 @@
     "The saved palace outline, six courtyard voids and mapped pavilion plans control this model; the separate glass Pyramid is outside this palace asset.",
     "OSM lacks part heights here. Main eaves 22 m, roof rise 5 m and terminal pavilion heights 38 m are inferred from the reviewed exterior references.",
     "Outline simplification is 1.2 m to remove small facade notches within the map-scale mesh budget; the original source geometry is distributed unchanged.",
-    "Mansards are simplified setback slopes. Relief sculpture, individual chimneys and small dormers are omitted."
+    "Mansards and a sparse row of fitted dormers suggest the Louvre roofscape. Their rhythm is inferred; relief sculpture and individual chimneys are omitted."
   ],
   "source": "source.blend.gz",
   "spatialSource": "spatial-source.json",

@@ -13,16 +13,16 @@
   "lods": {
     "low": {
       "url": "low.glb",
-      "bytes": 222360,
-      "sha256": "f55010a9dc20eb09a0b0eb3aa4f377de5aa80be002c52ec0430778b6703734fd"
+      "bytes": 240676,
+      "sha256": "b076fdc13280fbbabb9349e60af2e602bedd81d3453817509ead88c9e0782d60"
     },
     "detail": {
       "url": "detail.glb",
-      "bytes": 223260,
-      "sha256": "85e0b4469384ddc70f64899e1e46ed30651886794c55b721602bb0dc6221921e"
+      "bytes": 240676,
+      "sha256": "080dd43e5e3d94a2a1c071aae567bf56565b087690b5a847252f3e08fab0a65e"
     }
   },
-  "triangles": 5396,
+  "triangles": 5733,
   "boundsBlenderM": [
     [
       -45.80406951904297,
@@ -1243,9 +1243,14 @@
   "modelingNotes": [
     "The saved footprint and three roof-part outlines control the plan. OSM contains no heights: nave eave 22 m, ridge 29 m and chapel dome top 30 m are provisional visual inferences, requiring height review.",
     "Cross/apse gables are approximated with the shared mapped gable primitive. The lower outline envelope is inferred at 12 m; no courtyard is filled.",
-    "The two-storey classical facade is suggested by arched light blue panels and narrow cornices. Columns, sculptures and the portal pediment need a future detail review."
+    "The reviewed Rue Saint-Honoré facade shows paired classical columns and three entrance doors. Six engaged lower columns and dark inset portals now follow the mapped southwest frontage; their spacing is inferred. Sculpture and the upper portal pediment remain simplified."
   ],
   "source": "source.blend.gz",
   "spatialSource": "spatial-source.json",
-  "preview": "preview.webp"
+  "preview": "preview.webp",
+  "previewDirection": [
+    -0.5,
+    0.35,
+    0.85
+  ]
 }

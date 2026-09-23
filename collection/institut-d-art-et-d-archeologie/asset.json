@@ -1,0 +1,127 @@
+{
+  "id": "institut-d-art-et-d-archeologie",
+  "name": "Institut d'Art et d'Archéologie",
+  "anchor": [
+    2.3360528371969225,
+    48.84224128582219
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 51516,
+      "sha256": "b11d2a1ebd6da8b0b75f6595469f4056f48b3ddecbc59839e58abf745633851d"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 51516,
+      "sha256": "b11d2a1ebd6da8b0b75f6595469f4056f48b3ddecbc59839e58abf745633851d"
+    }
+  },
+  "triangles": 1009,
+  "boundsBlenderM": [
+    [
+      -17.06884002685547,
+      -25.776111602783203,
+      0
+    ],
+    [
+      17.129364013671875,
+      25.72370147705078,
+      20
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          2.3358499,
+          48.8424726
+        ],
+        [
+          2.3358352,
+          48.8422695
+        ],
+        [
+          2.3358338,
+          48.8422493
+        ],
+        [
+          2.3358207,
+          48.8420214
+        ],
+        [
+          2.3360724,
+          48.8420145
+        ],
+        [
+          2.336256,
+          48.8420095
+        ],
+        [
+          2.3362862,
+          48.8424613
+        ],
+        [
+          2.3360459,
+          48.8424675
+        ],
+        [
+          2.3358499,
+          48.8424726
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 63826747,
+    "version": 10,
+    "timestamp": "2023-08-19T22:21:31Z",
+    "url": "https://www.openstreetmap.org/way/63826747"
+  },
+  "additionalOsm": [],
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0",
+  "references": [
+    {
+      "title": "File:Institut d'art et d'archéologie, Paris 25 July 2015.jpg",
+      "author": "Daniel X. O'Neil from USA",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Institut_d%27art_et_d%27arch%C3%A9ologie,_Paris_25_July_2015.jpg",
+      "sourceSha1": "dcf8ecea8df8cf666299c4dd9a4d9772f0e0b6f3",
+      "use": "visual-reference-only",
+      "view": "Red terracotta, two-tier pointed arcades, upper round openings and strongly serrated roofline."
+    }
+  ],
+  "aliases": [],
+  "authors": [
+    "Open Landmarks contributors"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted architectural interpretation and procedural recipe authoring; deterministic Python/Blender export. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "The eight-sided OSM plan and 20 m height establish the body. No separate parts fix the arcade or parapet elevations.",
+    "The selected exterior photograph shows red terracotta, tall pointed arcades, circular upper apertures and an irregular crenellated skyline. The approved terracotta swatch is used expressly for this building.",
+    "Arcade rhythm and roof teeth are inferred at map scale. Colored ceramic patterning and carved relief are omitted."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

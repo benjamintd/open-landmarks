@@ -13,13 +13,13 @@
   "lods": {
     "low": {
       "url": "low.glb",
-      "bytes": 65740,
-      "sha256": "1ebaf581789fd224b0bcccfb9afe99ac75a6cefc803df5a5b801f91935be82ee"
+      "bytes": 65736,
+      "sha256": "d9955479ad81d08acc8565f32574b00f7edcc51f87c6c639cc28d1a0d79734de"
     },
     "detail": {
       "url": "detail.glb",
-      "bytes": 65908,
-      "sha256": "9714615bfedffd830379eb0c1b5b7a85b042fc774fdc4d003e28fc89beaef738"
+      "bytes": 65904,
+      "sha256": "f0a9eb1dc532f5b1ff752172e70087b79ac7dd0abc8b0eb2285979a5410d7863"
     }
   },
   "triangles": 1183,
@@ -199,7 +199,7 @@
   "modelingNotes": [
     "OSM locates the 17 m long chapel, 20 m corner tower, low 4.5 m range and 15 m rear range. Tagged 4 m roof rises remain unchanged.",
     "The unheighted entrance range follows the adjoining 17 m gabled body with 4 m rise. Untagged roof rises use 1 m at the tower and 3 m at the 15 m rear range; the small uncovered plan uses 4.5 m. These are explicit visual inferences from the inspected Couvent des Franciscains street view.",
-    "Tall paired lancets, a narrow corner tower and horizontal bands retain the neo-Gothic massing. Brick color is normalized to the approved stone palette; tracery, crenellation and individual dormer ornament are omitted."
+    "Tall paired lancets, a narrow corner tower and horizontal bands retain the neo-Gothic massing. The brick wall material retains the chapel’s distinctive contrast within the approved Clair palette; tracery and individual dormer ornament are omitted."
   ],
   "source": "source.blend.gz",
   "spatialSource": "spatial-source.json",

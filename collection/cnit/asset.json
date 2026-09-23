@@ -13,13 +13,13 @@
   "lods": {
     "low": {
       "url": "low.glb",
-      "bytes": 141100,
-      "sha256": "73cfb03ea2b814a5232e2b280ea4339d43d9a4694dee347182a0ff12e240000f"
+      "bytes": 141028,
+      "sha256": "eaa3c4426b2ddb057c549c707dd9c7b3ac11073b653f0dd99cbe05e5d9576215"
     },
     "detail": {
       "url": "detail.glb",
-      "bytes": 141100,
-      "sha256": "73cfb03ea2b814a5232e2b280ea4339d43d9a4694dee347182a0ff12e240000f"
+      "bytes": 141028,
+      "sha256": "eaa3c4426b2ddb057c549c707dd9c7b3ac11073b653f0dd99cbe05e5d9576215"
     }
   },
   "triangles": 4736,
@@ -381,13 +381,14 @@
     "status": "pending",
     "reviewer": null,
     "checks": {},
-    "notes": "User accepted the visual candidate for publication on 2026-09-16. Structural and LiDAR agreement checks pass. This is a draft publication, not a claim of completed rights or map/device review."
+    "notes": "User accepted the visual candidate for publication on 2026-09-16. Structural and LiDAR agreement checks pass. This is a draft publication, not a claim of completed rights or map/device review. Palette was updated for Clair on 2026-09-23; this color revision awaits renewed visual review."
   },
   "modelingNotes": [
     "IGN March 2023 returns and Roofer 1.0.0 LoD2.2 reconstruction provide semantic roof patches and the initial roof-height envelope. Missing perimeter strips are restored against the source footprint supplied to Roofer, simplified by 0.15 m. Original Roofer geometry is retained separately in baseline/.",
     "Astra replaces the planar Roofer roof approximation with a locally fitted quadratic shell using only classified roof returns within 3 m of Roofer roof surfaces. Reserved 10 m cells are excluded from the curve fit; Roofer used the full cloud, so this is held-out refinement validation, not an independent end-to-end survey.",
     "The 1991 inspected photograph supports a thin white shell and gridded structural glazing. Shell thickness 0.65 m, glazing setback 2 m and simplified frame spacing are visual inferences, not LiDAR measurements; modern doors, lettering and interiors are not reconstructed.",
-    "Z=0 is the robust 62.3205 m IGN69 surrounding plaza datum. Below-plaza geometry is clipped to map ground, not a claim that the varying road/plaza terrain or hidden foundations are flat. Heights are not rescaled to the old OSM 50 m tag."
+    "Z=0 is the robust 62.3205 m IGN69 surrounding plaza datum. Below-plaza geometry is clipped to map ground, not a claim that the varying road/plaza terrain or hidden foundations are flat. Heights are not rescaled to the old OSM 50 m tag.",
+    "Measured IGN roof and mapped plan are unchanged; only approved Clair material factors were updated."
   ],
   "source": "source.blend.gz",
   "spatialSource": "spatial-source.json",

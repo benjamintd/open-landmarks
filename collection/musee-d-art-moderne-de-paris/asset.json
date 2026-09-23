@@ -1,0 +1,400 @@
+{
+  "id": "musee-d-art-moderne-de-paris",
+  "name": "Musée d'Art Moderne de Paris",
+  "anchor": [
+    2.2978492589905914,
+    48.86433001750477
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 65368,
+      "sha256": "4ed137f28acbf63101740233469c69b3ab7ecd492e38bdbb47ec6c4ae5272e1c"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 65368,
+      "sha256": "4ed137f28acbf63101740233469c69b3ab7ecd492e38bdbb47ec6c4ae5272e1c"
+    }
+  },
+  "triangles": 1389,
+  "boundsBlenderM": [
+    [
+      -54.32747268676758,
+      -47.55410385131836,
+      0
+    ],
+    [
+      46.07243347167969,
+      42.067718505859375,
+      14
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          2.2972674,
+          48.8646579
+        ],
+        [
+          2.2972521,
+          48.8646455
+        ],
+        [
+          2.2972417,
+          48.8646395
+        ],
+        [
+          2.2972119,
+          48.8646279
+        ],
+        [
+          2.2972071,
+          48.8646263
+        ],
+        [
+          2.297182,
+          48.8646181
+        ],
+        [
+          2.2971862,
+          48.8646116
+        ],
+        [
+          2.2971558,
+          48.8646024
+        ],
+        [
+          2.2971438,
+          48.8646079
+        ],
+        [
+          2.2971335,
+          48.8646045
+        ],
+        [
+          2.2971594,
+          48.8645709
+        ],
+        [
+          2.2971088,
+          48.864557
+        ],
+        [
+          2.2971128,
+          48.8645489
+        ],
+        [
+          2.2971147,
+          48.8645453
+        ],
+        [
+          2.2971704,
+          48.8645561
+        ],
+        [
+          2.2971885,
+          48.8645219
+        ],
+        [
+          2.2972489,
+          48.8645343
+        ],
+        [
+          2.2972617,
+          48.864509
+        ],
+        [
+          2.2972478,
+          48.8645062
+        ],
+        [
+          2.297252,
+          48.8644972
+        ],
+        [
+          2.2972665,
+          48.8644998
+        ],
+        [
+          2.2972782,
+          48.8644754
+        ],
+        [
+          2.2972648,
+          48.8644719
+        ],
+        [
+          2.2972691,
+          48.864463
+        ],
+        [
+          2.297283,
+          48.8644658
+        ],
+        [
+          2.2972953,
+          48.8644405
+        ],
+        [
+          2.2972813,
+          48.8644371
+        ],
+        [
+          2.2972872,
+          48.8644278
+        ],
+        [
+          2.2973016,
+          48.8644304
+        ],
+        [
+          2.2973123,
+          48.864406
+        ],
+        [
+          2.2972989,
+          48.8644031
+        ],
+        [
+          2.2973037,
+          48.8643933
+        ],
+        [
+          2.2973182,
+          48.8643968
+        ],
+        [
+          2.2973304,
+          48.8643718
+        ],
+        [
+          2.2973165,
+          48.8643689
+        ],
+        [
+          2.2973202,
+          48.8643596
+        ],
+        [
+          2.2973357,
+          48.8643622
+        ],
+        [
+          2.2973469,
+          48.8643372
+        ],
+        [
+          2.2973335,
+          48.864334
+        ],
+        [
+          2.2973378,
+          48.8643242
+        ],
+        [
+          2.2973528,
+          48.8643273
+        ],
+        [
+          2.2973656,
+          48.8643024
+        ],
+        [
+          2.2973501,
+          48.8642989
+        ],
+        [
+          2.2973549,
+          48.8642902
+        ],
+        [
+          2.2973703,
+          48.8642931
+        ],
+        [
+          2.2973874,
+          48.8642595
+        ],
+        [
+          2.2975113,
+          48.8642869
+        ],
+        [
+          2.2976535,
+          48.8640025
+        ],
+        [
+          2.2976761,
+          48.8639748
+        ],
+        [
+          2.297707,
+          48.8639505
+        ],
+        [
+          2.2977248,
+          48.8639398
+        ],
+        [
+          2.2977555,
+          48.8639257
+        ],
+        [
+          2.2977862,
+          48.8639154
+        ],
+        [
+          2.2978085,
+          48.86391
+        ],
+        [
+          2.2978319,
+          48.8639061
+        ],
+        [
+          2.2978552,
+          48.8639034
+        ],
+        [
+          2.2978796,
+          48.8639024
+        ],
+        [
+          2.2979272,
+          48.8639051
+        ],
+        [
+          2.2979504,
+          48.8639084
+        ],
+        [
+          2.2980214,
+          48.8639236
+        ],
+        [
+          2.2983061,
+          48.8639848
+        ],
+        [
+          2.2982922,
+          48.8640138
+        ],
+        [
+          2.2984352,
+          48.864045
+        ],
+        [
+          2.2984386,
+          48.8640623
+        ],
+        [
+          2.2984486,
+          48.8640843
+        ],
+        [
+          2.2984659,
+          48.8641049
+        ],
+        [
+          2.2984772,
+          48.8641142
+        ],
+        [
+          2.2984061,
+          48.8641976
+        ],
+        [
+          2.2984458,
+          48.8642118
+        ],
+        [
+          2.2981329,
+          48.8645839
+        ],
+        [
+          2.2980283,
+          48.8647083
+        ],
+        [
+          2.2979615,
+          48.8647048
+        ],
+        [
+          2.297961,
+          48.8647073
+        ],
+        [
+          2.2973026,
+          48.8646735
+        ],
+        [
+          2.2972837,
+          48.8646725
+        ],
+        [
+          2.2972674,
+          48.8646579
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 79219308,
+    "version": 45,
+    "timestamp": "2025-07-02T12:53:12Z",
+    "url": "https://www.openstreetmap.org/way/79219308"
+  },
+  "additionalOsm": [],
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0",
+  "references": [
+    {
+      "title": "File:Paris - Palais des Musées d'Art Moderne (26804309224).jpg",
+      "author": "Fred Romero from Paris, France",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Paris_-_Palais_des_Mus%C3%A9es_d%27Art_Moderne_(26804309224).jpg",
+      "sourceSha1": "555f46466e92a662547c7b157d91fba401893c98",
+      "use": "visual-reference-only",
+      "view": "The facade behind the foreground statue confirms the pale 1937 colonnade; this cropped view does not establish the whole roof and was supplemented by the museum architecture account."
+    }
+  ],
+  "aliases": [],
+  "authors": [
+    "Open Landmarks contributors"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted architectural interpretation and procedural recipe authoring; deterministic Python/Blender export. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "The OSM outline and 14 m height locate the east museum wing. Twelve mapped roof plans lack heights, so the roof is kept low rather than giving them invented tall volumes.",
+    "The museum describes two plain, perpendicular wings linked by an honor portico and Seine-facing terraces. This recipe emphasizes the long pale elevations, stepped parapet and open column rhythm visible in the exterior reference.",
+    "Column intervals and roofline offsets are schematic. Sculpture, inscriptions and the adjoining Palais de Tokyo west wing are outside this asset."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp",
+  "previewDirection": [
+    -0.85,
+    0.35,
+    0.53
+  ]
+}

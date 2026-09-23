@@ -13,16 +13,16 @@
   "lods": {
     "low": {
       "url": "low.glb",
-      "bytes": 116976,
-      "sha256": "c4db4196a16d26a10cbd4c2f2063bbad693711ebac09c8eaf41d65620c3cdedd"
+      "bytes": 134480,
+      "sha256": "31b6721b729c2cf1c57fc26b60eee8f665708a978ac1f03dcefae63c4ae307d3"
     },
     "detail": {
       "url": "detail.glb",
-      "bytes": 116976,
-      "sha256": "2b4bf75b9ce7cfcaa0d72eb7a1d54a99e43d9190a2576c16fca4cc8e9930f977"
+      "bytes": 134480,
+      "sha256": "5901eeb42cfb602d00f0d8dd12f83bc6559edc4ff5359d08a26f71296f23bfa9"
     }
   },
-  "triangles": 2233,
+  "triangles": 2553,
   "boundsBlenderM": [
     [
       -65.42497253417969,
@@ -3444,7 +3444,7 @@
   "modelingNotes": [
     "The saved outline and all three courtyard voids control the plan. OSM provides 40 m overall height but no part heights.",
     "Main eaves 21 m, six taller pavilion roofs and the west-facing clock belfry are inferred from reviewed facade photographs and mapped pavilion plans.",
-    "Windows, cornices and roof finials are schematic. Sculptures and individual dormers are omitted; the central tower reaches 40 m."
+    "The main roof now carries a sparse rhythm of fitted dormers between the raised pavilions. Their spacing, windows, cornices and roof finials are schematic; sculpture is omitted and the central tower reaches 40 m."
   ],
   "source": "source.blend.gz",
   "spatialSource": "spatial-source.json",
