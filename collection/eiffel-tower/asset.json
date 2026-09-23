@@ -14,12 +14,12 @@
     "low": {
       "url": "low.glb",
       "bytes": 211904,
-      "sha256": "59d4ad4c0b5df41ed714d982cb93aae11db4053d7dc70cac432a94546572fcfc"
+      "sha256": "47693cd9cab02e1ff725c5dce9b0f9e9dec96961e1825bf9387035ff8cd99e60"
     },
     "detail": {
       "url": "detail.glb",
       "bytes": 211904,
-      "sha256": "59d4ad4c0b5df41ed714d982cb93aae11db4053d7dc70cac432a94546572fcfc"
+      "sha256": "47693cd9cab02e1ff725c5dce9b0f9e9dec96961e1825bf9387035ff8cd99e60"
     }
   },
   "triangles": 7860,
@@ -655,6 +655,7 @@
     "OSM supplies centre, north alignment and 330 m overall height.",
     "Deck elevations 57, 115 and 276 m and 125 m base width follow the official Eiffel Tower figures: https://www.toureiffel.paris/fr/le-monument/chiffres-cle .",
     "Four curved lattice piers, arch spandrels and taper are original simplified interpretations of the reviewed daylight references.",
+    "Pier and shaft taper was visually checked against the 2023 IGN LiDAR HD building returns; the scan is not used as a fitted surface.",
     "Primary chords stay readable at map scale; denser, thinner secondary lacing and glazed observation pavilions preserve the open ironwork.",
     "A restrained dark-to-light iron gradient follows the Tower operator’s documented three-tone painting principle, not an exact claim about its present coating: https://www.toureiffel.paris/en/the-monument/painting-eiffel-tower .",
     "Cross sections, railing rhythm, summit equipment and arch profiles are inferred; no nighttime sparkle installation."

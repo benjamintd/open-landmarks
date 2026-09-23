@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 2,
+  "release": "publication-f1f0ecde3717620ee09c",
+  "parent": {
+    "release": "publication-98340abf812512541cde",
+    "sha256": "fcabadc57559540a078afc46fcae42ff35fc639bbef73815842424149f1054a1"
+  },
+  "channels": {
+    "latest": {
+      "schemaVersion": 1,
+      "channel": "approved",
+      "release": null,
+      "count": 0,
+      "catalogue": null,
+      "status": "no-release"
+    },
+    "preview": {
+      "schemaVersion": 1,
+      "channel": "preview",
+      "release": "preview-5e3cf4b7b6a32ee64d5a",
+      "count": 70,
+      "catalogue": "/api/v1/releases/preview-5e3cf4b7b6a32ee64d5a/catalogue.json"
+    }
+  },
+  "files": {
+    "api/v1/releases/preview-5e3cf4b7b6a32ee64d5a/assets.json": "a94b855b42b1b2c03953bf7a6f54873ef2577bf08840f4ae8ca66fe1c255e321",
+    "api/v1/releases/preview-5e3cf4b7b6a32ee64d5a/catalogue.json": "5d0da19fe3b3c4a3f91b2fb0cfe96acba2ab79c402876e1d01702513b05d5ffa",
+    "api/v1/releases/preview-5e3cf4b7b6a32ee64d5a/index/12/2073/1408.json": "ce1ecd48e238e55f9e08b4a8a762efa88ccaa71bcd163d7fd60324890f683b38",
+    "api/v1/releases/preview-5e3cf4b7b6a32ee64d5a/index/12/2073/1409.json": "f17d3da726a3590a500204808ee8fb9d2459b3255897434872cfc55e71b92c32",
+    "api/v1/releases/preview-5e3cf4b7b6a32ee64d5a/index/12/2074/1408.json": "b291072c9a051acaf3a86e25ba51cc91f94c66941b07fb8a497c4c5a8d3828d9",
+    "api/v1/releases/preview-5e3cf4b7b6a32ee64d5a/index/12/2074/1409.json": "fdcd6f5074f0000c58ec42b457fbcc89b46fc673864f1d75a2960d05bf43d779",
+    "api/v1/releases/preview-5e3cf4b7b6a32ee64d5a/index/12/2075/1408.json": "cf17b274f608824a0ec0437ed73d624c018a270f9b9c7f9931a5b51abe96dff9",
+    "api/v1/releases/preview-5e3cf4b7b6a32ee64d5a/index/12/2075/1409.json": "2e5f5adbab4be1a5776b8da393c8ddffd5ac0440b014623cbcaf0961d6b4a416",
+    "api/v1/releases/preview-5e3cf4b7b6a32ee64d5a/spatial-database.json": "0aee9eef4dce6055851700a02e3aa5e9b95c3aa0a05dc32d6bf758c12d66acc9",
+    "assets/eiffel-tower/b0b9ab075ec8c6fc7099690ba0796f45058c7ee609a82a375a6b326e06852881/asset.json": "011b1be1836a647fee1cadd27caf519e77d56c5f977528a305d64b675942d151",
+    "assets/eiffel-tower/b0b9ab075ec8c6fc7099690ba0796f45058c7ee609a82a375a6b326e06852881/validation.json": "e99aaa2ce07ead48c983da0ac02b5b3e0a4b52f1164707617bda5547f9f3e9e9",
+    "assets/saint-sulpice/d5228364ca502aba3235aafa3619dcf8b97b18f93ef7a2e6267258761e54f7d2/asset.json": "325a7bde64c1f8024682f15b5b87a283dec75cd306c1351fef266445789eadc4",
+    "assets/saint-sulpice/d5228364ca502aba3235aafa3619dcf8b97b18f93ef7a2e6267258761e54f7d2/validation.json": "9532d9077866ec2738537959b861547d21908a4e19046e4dc0b830f212750925",
+    "models/eiffel-tower/47693cd9cab02e1ff725c5dce9b0f9e9dec96961e1825bf9387035ff8cd99e60/detail.glb": "47693cd9cab02e1ff725c5dce9b0f9e9dec96961e1825bf9387035ff8cd99e60",
+    "models/eiffel-tower/47693cd9cab02e1ff725c5dce9b0f9e9dec96961e1825bf9387035ff8cd99e60/detail.glb.gz": "5377045c5c870471cae7a269331804635710af74342d87477a3a8f490c8e4c13",
+    "models/eiffel-tower/47693cd9cab02e1ff725c5dce9b0f9e9dec96961e1825bf9387035ff8cd99e60/low.glb": "47693cd9cab02e1ff725c5dce9b0f9e9dec96961e1825bf9387035ff8cd99e60",
+    "models/eiffel-tower/47693cd9cab02e1ff725c5dce9b0f9e9dec96961e1825bf9387035ff8cd99e60/low.glb.gz": "5377045c5c870471cae7a269331804635710af74342d87477a3a8f490c8e4c13",
+    "models/saint-sulpice/d822c181c617c6dd04629101ba3c19755b6cc63994559be3692f1272a091fe07/detail.glb": "d822c181c617c6dd04629101ba3c19755b6cc63994559be3692f1272a091fe07",
+    "models/saint-sulpice/d822c181c617c6dd04629101ba3c19755b6cc63994559be3692f1272a091fe07/detail.glb.gz": "1a5e6d212f7f3d7d9952e392c06c0c2ae2ccda9d435f6650731c405363aa088b",
+    "models/saint-sulpice/d822c181c617c6dd04629101ba3c19755b6cc63994559be3692f1272a091fe07/low.glb": "d822c181c617c6dd04629101ba3c19755b6cc63994559be3692f1272a091fe07",
+    "models/saint-sulpice/d822c181c617c6dd04629101ba3c19755b6cc63994559be3692f1272a091fe07/low.glb.gz": "1a5e6d212f7f3d7d9952e392c06c0c2ae2ccda9d435f6650731c405363aa088b",
+    "objects/3723f6141f743d5909391817ed3d646a218bfb998808d8c6014ff1e936c4a6a2/source.blend.gz": "3723f6141f743d5909391817ed3d646a218bfb998808d8c6014ff1e936c4a6a2",
+    "objects/7fb9219fcbe6829c1a78242419208b517174fc50e1ee220c095d6392f34f4551/preview.webp": "7fb9219fcbe6829c1a78242419208b517174fc50e1ee220c095d6392f34f4551",
+    "objects/8e3ffb296e5c47913715ff76ba6a9bf05ed51aee9843c285654c2a3b6fb70d0e/source.blend.gz": "8e3ffb296e5c47913715ff76ba6a9bf05ed51aee9843c285654c2a3b6fb70d0e",
+    "objects/ed2ec2623c401564d838b5f3a38d1862bd2f4a09b27063cc9ede8eededf08f79/preview.webp": "ed2ec2623c401564d838b5f3a38d1862bd2f4a09b27063cc9ede8eededf08f79"
+  }
+}

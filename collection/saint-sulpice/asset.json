@@ -13,16 +13,16 @@
   "lods": {
     "low": {
       "url": "low.glb",
-      "bytes": 241212,
-      "sha256": "1bc510671c4e7f64747b3cd4317551456f3025e6c08ccb8ee9f3f6b9e92f52a1"
+      "bytes": 247716,
+      "sha256": "d822c181c617c6dd04629101ba3c19755b6cc63994559be3692f1272a091fe07"
     },
     "detail": {
       "url": "detail.glb",
-      "bytes": 241212,
-      "sha256": "1bc510671c4e7f64747b3cd4317551456f3025e6c08ccb8ee9f3f6b9e92f52a1"
+      "bytes": 247716,
+      "sha256": "d822c181c617c6dd04629101ba3c19755b6cc63994559be3692f1272a091fe07"
     }
   },
-  "triangles": 5767,
+  "triangles": 5915,
   "boundsBlenderM": [
     [
       -61.120418548583984,
@@ -599,6 +599,7 @@
   "modelingNotes": [
     "All major volumes follow the 93 mapped OSM parts, including the 42 m nave/transverse roofs, 70.3 m north tower and 66.4 m south tower. Many source heights cite IGN Lidar HD; source values are preserved.",
     "Mapped columns and elevated horizontal gallery slabs retain actual open spaces across the monumental west facade. The two upper round belfries use real arched voids; stage bottoms, arch dimensions and wall thickness are explicit photo-guided inferences.",
+    "Stone transition drums carry the circular belfries through their sloped mapped roofs, so neither upper stage reads as a detached cap.",
     "Light-blue glazed panels are limited to broad walls and lower tower stages. Tiny buttresses, columns and upper open belfries are not covered with decorative windows. Cornices and arch profiles are simplified; sculpture, inscriptions and individual balusters are omitted.",
     "Original mapped copper/lead/zinc/slate roofs are normalized to the approved grey roof palette. The inspected August 2026 facade and roof photographs guide the hierarchy without photographic textures."
   ],
