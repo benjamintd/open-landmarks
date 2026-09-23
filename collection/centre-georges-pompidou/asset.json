@@ -13,16 +13,16 @@
   "lods": {
     "low": {
       "url": "low.glb",
-      "bytes": 97452,
-      "sha256": "62aa1297c037d68acdce47d1307776ca2867e805fe7b2695557178fb9a7cf6f3"
+      "bytes": 168104,
+      "sha256": "d9b6165b8ce1e0fea5883820329fcdec65bf20b12bcb117fe65ad022708a05e0"
     },
     "detail": {
       "url": "detail.glb",
-      "bytes": 97452,
-      "sha256": "62aa1297c037d68acdce47d1307776ca2867e805fe7b2695557178fb9a7cf6f3"
+      "bytes": 168104,
+      "sha256": "d9b6165b8ce1e0fea5883820329fcdec65bf20b12bcb117fe65ad022708a05e0"
     }
   },
-  "triangles": 1733,
+  "triangles": 3101,
   "boundsBlenderM": [
     [
       -57.413917541503906,
@@ -163,7 +163,7 @@
   "modelingNotes": [
     "The OSM outline and 42 m height set the glazed rectangular volume. No building parts are mapped.",
     "The Centre Pompidou architectural guide identifies the white external frame, west-side diagonal escalator and blue air, green water and red circulation services. Members and pipe spacing are schematic map-scale interpretations.",
-    "The west escalator is an open red diagonal against the facade, not an enclosed functioning machine. Its repeated landings, the open structural grid and east service risers carry the recognizable silhouette without photo textures."
+    "The west escalator is a broad, glazed diagonal circulation tube with red rails and repeated landings. It remains a schematic exterior, not a functioning machine. Blue, green and yellow service runs carry the colour code along the east elevation."
   ],
   "source": "source.blend.gz",
   "spatialSource": "spatial-source.json",

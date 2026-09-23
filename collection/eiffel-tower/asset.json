@@ -13,16 +13,16 @@
   "lods": {
     "low": {
       "url": "low.glb",
-      "bytes": 169556,
-      "sha256": "93414b8c3d2fde59964ad2ea88a624b2aa505d24c0ffc0342a1b5d4f3486515a"
+      "bytes": 211904,
+      "sha256": "59d4ad4c0b5df41ed714d982cb93aae11db4053d7dc70cac432a94546572fcfc"
     },
     "detail": {
       "url": "detail.glb",
-      "bytes": 169556,
-      "sha256": "93414b8c3d2fde59964ad2ea88a624b2aa505d24c0ffc0342a1b5d4f3486515a"
+      "bytes": 211904,
+      "sha256": "59d4ad4c0b5df41ed714d982cb93aae11db4053d7dc70cac432a94546572fcfc"
     }
   },
-  "triangles": 6324,
+  "triangles": 7860,
   "boundsBlenderM": [
     [
       -87.4597396850586,
@@ -655,7 +655,8 @@
     "OSM supplies centre, north alignment and 330 m overall height.",
     "Deck elevations 57, 115 and 276 m and 125 m base width follow the official Eiffel Tower figures: https://www.toureiffel.paris/fr/le-monument/chiffres-cle .",
     "Four curved lattice piers, arch spandrels and taper are original simplified interpretations of the reviewed daylight references.",
-    "Structural lattice members are widened for clearer map-scale readability.",
+    "Primary chords stay readable at map scale; denser, thinner secondary lacing and glazed observation pavilions preserve the open ironwork.",
+    "A restrained dark-to-light iron gradient follows the Tower operator’s documented three-tone painting principle, not an exact claim about its present coating: https://www.toureiffel.paris/en/the-monument/painting-eiffel-tower .",
     "Cross sections, railing rhythm, summit equipment and arch profiles are inferred; no nighttime sparkle installation."
   ],
   "source": "source.blend.gz",

@@ -13,16 +13,16 @@
   "lods": {
     "low": {
       "url": "low.glb",
-      "bytes": 50356,
-      "sha256": "2e89341de1cc310c2a0a6fbae6d50177de521d4744cc98c7802d1340536c1433"
+      "bytes": 52204,
+      "sha256": "94cd5d9ba99fcd7716432c6483635dbd4e980cea1be1f7eb02bc82a49bf253cc"
     },
     "detail": {
       "url": "detail.glb",
-      "bytes": 50428,
-      "sha256": "80297247e9d77e1aa4d5313792240da7833798eb71c527084bbd5d107daabb1b"
+      "bytes": 52708,
+      "sha256": "e5195b569e08e21f989612eb8f8f62ac209fbfd29da49d4dea75162e83dbc1d0"
     }
   },
-  "triangles": 958,
+  "triangles": 970,
   "boundsBlenderM": [
     [
       -6.118000030517578,
@@ -134,7 +134,7 @@
   },
   "modelingNotes": [
     "This asset is the northern Philippe Auguste column, not both Trone columns or the adjacent pavilion. The chosen OSM way has a cruciform 4 m pedestal, small central 4.5 m parts and a 28 m overall height, but no mapped upper shaft.",
-    "The inspected Philippe Auguste column photograph establishes the slender fluted shaft, broad capital and green standing figure. Shaft center/radius follow the mapped central part; elevations 4.5–24 m for the shaft, 24–25.1 m for the capital and 28 m overall are explicit proportional inferences constrained by OSM total height.",
+    "The inspected Philippe Auguste column photograph establishes the slender fluted shaft, broad capital and green standing figure. The two small mapped central parts straddle the axis; their union and the outline set the centered shaft and a solid connecting plinth. Elevations 4.5–24 m for the shaft, 24–25.1 m for the capital and 28 m overall are explicit proportional inferences constrained by OSM total height.",
     "The finial is an original abstract standing silhouette, not a reproduction of the statue. Fluting, reliefs, coats of arms, lettering and capital carving are omitted. Nearby gate pavilion and southern Saint-Louis column are outside this footprint."
   ],
   "source": "source.blend.gz",

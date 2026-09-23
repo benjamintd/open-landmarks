@@ -13,16 +13,16 @@
   "lods": {
     "low": {
       "url": "low.glb",
-      "bytes": 134992,
-      "sha256": "12655dde04a6b28c49a836de650c75d5c898b2db878a232bb132d2cff41cfed5"
+      "bytes": 145596,
+      "sha256": "1d887d3039633eacacd7bd84356e579d7b7d0832302463355d8954564ab3ab89"
     },
     "detail": {
       "url": "detail.glb",
-      "bytes": 134992,
-      "sha256": "12655dde04a6b28c49a836de650c75d5c898b2db878a232bb132d2cff41cfed5"
+      "bytes": 145596,
+      "sha256": "1d887d3039633eacacd7bd84356e579d7b7d0832302463355d8954564ab3ab89"
     }
   },
-  "triangles": 2178,
+  "triangles": 2346,
   "boundsBlenderM": [
     [
       -75.81050872802734,
@@ -172,7 +172,7 @@
   },
   "modelingNotes": [
     "All 23 mapped parts, their min_height values and the 110 m height are retained, preserving the large through-void and stepped platforms.",
-    "Glazing is represented by restrained dark window strips on the two tall side blocks. The suspended cloud canopy, lifts and rooftop furnishings are omitted.",
+    "Glazing is represented by restrained dark window strips on the two tall side blocks. Le Nuage is an original simplified suspended membrane within the lower void, informed by the French Ministry of Culture monument record; its drape and cable dimensions are inferred, not surveyed.",
     "Window density is reduced to map scale; the outer white stone frame remains readable."
   ],
   "source": "source.blend.gz",

@@ -14,9 +14,11 @@ properties, image textures, transparency and material extensions fail validation
 - `stone` uses Clair's light 3D building color (`#efe4d3`); `trim` and `roof`
   echo its paving and cool infrastructure colors. This keeps ordinary Paris
   masonry close to the surrounding extrusions without erasing silhouettes.
-- `pompidou-red`, `pompidou-blue`, `pompidou-green` and `terracotta` are
+- `pompidou-red`, `pompidou-blue`, `pompidou-green`, `pompidou-yellow` and `terracotta` are
   landmark-specific opaque finishes. They preserve distinctive structures
   where the general stone palette would misrepresent the architecture.
+- `eiffel-iron-dark` and `eiffel-iron-light` flank the standard warm metal
+  swatch for a restrained base-to-summit iron gradient.
 
 Use `recess` for dark stone or clock hands, not window glazing. A model still has
 at most six materials and six triangle draw calls, even though the library offers
