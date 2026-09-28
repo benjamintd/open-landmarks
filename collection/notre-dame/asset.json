@@ -13,16 +13,16 @@
   "lods": {
     "low": {
       "url": "low.glb",
-      "bytes": 238756,
-      "sha256": "2e2c6def0095086d22d33fa1484d9dd4c2cba50afaa3bf4d4295edf302790169"
+      "bytes": 237664,
+      "sha256": "2f06292a32c5e248e719afcc2f8535094da25d7e390143dce9f3e4c52b56fe8d"
     },
     "detail": {
       "url": "detail.glb",
-      "bytes": 1485616,
-      "sha256": "0a708fb46cd3ea8ec8b6efc13a45b40a61649f86fab8d7076899c75eaceca1fd"
+      "bytes": 1475032,
+      "sha256": "92ce6fd4faff08def6b157238a62e78a3d7516df813f405af94a07b845e805dc"
     }
   },
-  "triangles": 31732,
+  "triangles": 31520,
   "boundsBlenderM": [
     [
       -69.79098510742188,
@@ -35,7 +35,13 @@
       96
     ]
   ],
-  "entranceLights": [],
+  "entranceLights": [
+    [
+      -25.662,
+      0.04,
+      -12.512
+    ]
+  ],
   "replacementFootprint": {
     "type": "Polygon",
     "coordinates": [

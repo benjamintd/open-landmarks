@@ -13,25 +13,25 @@
   "lods": {
     "low": {
       "url": "low.glb",
-      "bytes": 217688,
-      "sha256": "14fb59ee31f22c8088a678aba8813fded6ca4f1c62a2a6260231d778a6614744"
+      "bytes": 126632,
+      "sha256": "c21f0a6248a6d2124ab6159430bc832d2907b8167bc79edc65803a99a777a2a8"
     },
     "detail": {
       "url": "detail.glb",
-      "bytes": 217688,
-      "sha256": "14fb59ee31f22c8088a678aba8813fded6ca4f1c62a2a6260231d778a6614744"
+      "bytes": 1419456,
+      "sha256": "4a55a4e9f9d5004c0dd29048eacc09a2fa4d4d5e3f72dfa254fc16bdfa7ced2f"
     }
   },
-  "triangles": 5056,
+  "triangles": 36800,
   "boundsBlenderM": [
     [
-      -47.34065246582031,
-      -67.21954345703125,
+      -47.740901947021484,
+      -67.61993408203125,
       0
     ],
     [
-      47.34033966064453,
-      67.21886444091797,
+      47.74039840698242,
+      67.61937713623047,
       36.20000076293945
     ]
   ],
@@ -219,10 +219,13 @@
     "checks": {}
   },
   "modelingNotes": [
-    "Footprint, 52 freestanding columns, plinth, roof and stair locations use the 63 saved OSM parts.",
-    "OSM IGN Lidar HD heights are retained, including the decimal-comma 2.2 m terrace.",
-    "Column capitals, cornice bands and dark doorway rhythm are inferred from reviewed daylight exterior photographs.",
-    "Stair flights retain mapped slopes; sculpture, fluting and relief carving are omitted at map scale."
+    "Plan from OSM (outline + 63 building:part polygons). Local axis fitted to the mapped entablature rectangle (102.3 x 43.3 m, bearing 25.6 deg); cella (way 1459282734, antae and front pilasters), podium with the four stair cheek walls (4.4 m), the two-flight stairs with landings at both ends (2.2/4.4 m) are extruded from the mapped polygons; all 54 mapped column centroids are kept (8 + 8 in the double south pronaos row, 15 per side, 8 north).",
+    "Heights from the mapped IGN LiDAR HD tags: podium 4.4 m, column tops 24.2 m, eaves ~28 m, pediment apex 36.2 m (kept as exported). Published: columns ~20 m high (mapped 19.8 m), temple 108 x 43 m (Wikipedia).",
+    "Entablature 24.2-28.0 m (architrave with 3 fasciae, relief frieze, dentil band, modillion cornice) and pediment slope (18.4 deg) proportioned from the reviewed south-front photograph (00.jpg); podium is lower than the ~7 m often quoted because the mapped LiDAR terrace is 4.4 m.",
+    "Columns: Attic base on plinth, 12-flute entasis shaft (1.84 m base diameter), two-tier acanthus bell, concave abacus. Cella: ashlar coursing, plinth, antae and pilaster capitals, top panel band; 34 statue niches (14 per side between the columns as in 04.jpg, 2 flanking the south door as in 00.jpg, 4 on the north wall - north count inferred).",
+    "South bronze doors (Triqueti, ~10.4 x 5 m) as bronze relief panels in a trim surround with console cornice; south tympanum carries abstract masses for Lemaire's Last Judgement (Christ centre, Magdalene kneeling, angels, the saved and the damned); north tympanum plain. Frieze: relief blocks and the D.O.M. SUB INVOC. S. M. MAGDALENAE tablet on the south front (letters as blocks).",
+    "Roof: mapped gable (copper tag; rendered as grey metal roof) with standing seams, hidden behind a blocking course and the pediments; three low zinc drums with glazed oculi mark the three interior domes (positions inferred from the three nave bays). Peristyle ceiling beams at every column; bronze railings between the side columns (04.jpg).",
+    "Sculpture, capitals' leaves, coffering and relief detail are abstracted; statues are simple masses."
   ],
   "source": "source.blend.gz",
   "spatialSource": "spatial-source.json",

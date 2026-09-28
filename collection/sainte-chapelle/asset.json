@@ -13,25 +13,25 @@
   "lods": {
     "low": {
       "url": "low.glb",
-      "bytes": 59732,
-      "sha256": "f64eb1efaadcb68c3f730869a14b2c0aad0a9162c8b11ab98761e4c40938f73b"
+      "bytes": 87848,
+      "sha256": "7be1b76467a7f42c41c941399f31bed3d8f8da4e3679c3ad1493bd93547d8240"
     },
     "detail": {
       "url": "detail.glb",
-      "bytes": 183176,
-      "sha256": "ff6062e45cdfe2e35888e7dd682743fe779cebb132c60073a3a44258786c0829"
+      "bytes": 1256524,
+      "sha256": "65f32682be744d523388990e6e4c444966c3cb7bfc5a73de04497835c894f4e6"
     }
   },
-  "triangles": 3771,
+  "triangles": 25614,
   "boundsBlenderM": [
     [
-      -20.904499053955078,
+      -20.906402587890625,
       -14.830615997314453,
       0
     ],
     [
       19.46371841430664,
-      16.807754516601562,
+      17.069496154785156,
       75
     ]
   ],
@@ -515,12 +515,11 @@
     "checks": {}
   },
   "modelingNotes": [
-    "OSM outline and 19 mapped building parts determine the plan and height hierarchy; 75 m spire retained.",
-    "Roof construction reuses the corrected Notre-Dame primitives. No site bounding rectangle is used for massing.",
-    "Roof facets, pale-blue lancet panels and their rhythm are map-scale inferences from the selected open east-oblique photograph.",
-    "Fine stained glass, sculptures and historic drawings are not reproduced. Ground plate is an inferred 25 cm foundation.",
-    "Part boundary simplification is limited to 2 cm; facade panels do not add thickness to the footprint.",
-    "Detail LOD: taller pointed glazing, stone jambs, mullions, a west rose and pointed portal, side buttress accents and an eight-sided spire lattice follow the mapped nave and spire parts. Relief stays inside the strict OSM plan-registration envelope. Bay positions follow OSM wall facets; tracery and finials are schematic readings of the selected east-oblique and historic reference views."
+    "Plan (OSM, bundled): chapel body relation/3344874 (30 m walls), 14 buttress parts relation/3344873 (35 m with 5 m pinnacles), roof parts way/248296374 + way/248296313 (eaves 30 m, ridge 42 m, half-cone over the apse), west turrets way/248296385 + way/248296384 (36 m shafts, spirelets to 46 m), facade pinnacles relation/3344875 (31/38 m), two-storey porch relation/3344872 (15 m) with five 18 m buttress pinnacles relation/3344871, flèche way/265389509 + way/248296312 (47-75 m) with eight 52 m corner pinnacles. Total height 75 m kept.",
+    "Bays come from the mapped wall facets between buttresses: 4 nave bays per side + 7 apse bays = 15 upper windows (matches the 15 windows of the upper chapel). Nave windows get 4 lights (two pairs, two small and one large oculus), apse windows 2 lights and an oculus.",
+    "Researched dimensions (Wikipedia / Monuments nationaux): ridge ~42.5 m, spire 75 m (Lassus 1853), upper windows ~15.5 m tall, lower chapel ~6.6 m, west rose ~9 m wide (flamboyant, c.1490). Used: upper windows 10.0-25.6 m, lower chapel windows 2.6-7.2 m, floor string course 8.4 m, cornice 29.3 m, openwork balustrade 30-31.1 m, window gables (wimpergs) 26.1-31.5 m, rose Ø 7.6 m centred at 22.4 m in a pointed arch.",
+    "Inferred: porch storey levels (lower arcade to ~7 m, upper porch openings 8.2-13.4 m, terrace balustrade to 15 m, central upper gable to 17.3 m), the west gable with a small rose and crown of thorns, the lantern stage of the turrets (33-36 m), the flèche stages (openwork lancet stage 43-50.6 m, lattice needle with eight ribs, rings and a gilded fleur-de-lys crown) and the gilded ridge cresting and apse angel.",
+    "Simplified: tracery is rayonnant-schematic (no cusps), rose tracery is a flamboyant-like petal pattern, sculpture, gargoyles and crockets are omitted; the footprint pieces joining the Palais de Justice are kept as the 25 cm foundation only."
   ],
   "source": "source.blend.gz",
   "spatialSource": "spatial-source.json",

@@ -13,25 +13,25 @@
   "lods": {
     "low": {
       "url": "low.glb",
-      "bytes": 239172,
-      "sha256": "ee3928837ecd2ddf18f2a9b9da35cae37acdb32f996c1c5993f6f1599deb49e5"
+      "bytes": 201964,
+      "sha256": "4673e937402e82658ed482221cf92652667c2135fa197669464e42e792e49d7d"
     },
     "detail": {
       "url": "detail.glb",
-      "bytes": 1009940,
-      "sha256": "37b3c6a6cf18a9d58be080d62b5040a4685ff6a4d0ad47826195754485822263"
+      "bytes": 1460336,
+      "sha256": "324d88cf000e493524e1e07ad2d825449a59fe62ac3ea157ae62b6ff5e49c366"
     }
   },
-  "triangles": 20058,
+  "triangles": 33902,
   "boundsBlenderM": [
     [
-      -147.64431762695312,
-      -132.15472412109375,
+      -148.34144592285156,
+      -132.46511840820312,
       0
     ],
     [
-      134.63238525390625,
-      140.09048461914062,
+      135.32977294921875,
+      140.19827270507812,
       100
     ]
   ],
@@ -1653,11 +1653,11 @@
     "checks": {}
   },
   "modelingNotes": [
-    "The hospital footprint is combined with adjoining cathedral way/64955027 and dome church way/112452790 from the saved OSM site extract; additional source IDs are preserved.",
-    "Mapped part heights and courtyard voids are retained, including the 100 m lantern in this snapshot. No survey accuracy is implied.",
-    "Roof slopes are simplified setback profiles; the dome retains its mapped curved profile and an approved muted gilded metal material. Wall outlines are simplified within 1 m for the mesh budget.",
-    "Two window rows extend around all modeled exterior and courtyard walls, aligned to their actual boundaries and adjusted below each wing's eaves. Spacing is a map-scale approximation of 9.2 m. Sculpture is omitted.",
-    "Detail LOD: cornices follow the hospital courtyards; 24 Corinthian peristyle columns stand against the mapped dome drum from 34.2 to 46.3 m, with 16 curved gilded ribs on the mapped dome. Four facade columns and a pediment mark the south church entrance. Decorative spacing is inferred from the selected aerial and facade references."
+    "Plan and heights from the bundle OSM parts: hospital relations 3311814 (30 m, 10 m roof), 3311815/3311813 (15 m, 5 m roof) with their 15 courtyards; Saint-Louis nave way/244945091 (35.6 m, 9.8 m roof) and aisles; dome-church base way/227662017 (28 m), corner-chapel roofs (29.9 m), podium 34.2 m, drum 34.2-46.3 m, balustrade 46.3-48.1 m, attic and dome 48.1-72 m (roof 16.8 m), lantern 72-85.6 m, spire to 100 m. The exported 100 m top is kept (published figure: 107 m to the cross). Plans simplified within 1 m.",
+    "Hospital: bays sampled at ~6 m for map-scale detail (inferred from the reviewed Commons photographs 03/05); four window storeys under the 20 m cornice of the main ranges, two under the 10 m cornice of the lower east/west ranges, mansard roofs (steep brisis ~70 deg, gentle terrasson) with a regular dormer rhythm and chimney stacks. North facade (~200 m, OSM): corner pavilions, window surrounds, trophy-crowned dormers, central frontispiece with the great portal arch and the semicircular crowning (mapped round-roof part 3325221, 20->30 m).",
+    "Cour d'honneur (102 x 63 m, OSM hole): two storeys of open arcades on all four sides; the gallery is modeled 1.8 m deep (real ~4 m) so its back-wall glazing stays within the plan-registration test tolerance. Secondary courtyards: window rows, cornices and roofs without dormers (budget).",
+    "Dome church (Hardouin-Mansart): square base with Doric lower and Corinthian upper pilaster orders, entablatures and balustrade; south frontispiece at the mapped column positions (lower Doric 2.3-13.1 m, upper Corinthian on the mapped pedestals, pediment on the mapped gable part); side pediments E/W. Drum: 12 piers at 30 deg (fitted to the mapped buttress bumps), 8 buttresses grouped in pairs and 4 plain piers, each with paired columns (24), 12 tall arched windows; balustrade with fire-pots; attic with 12 arched lucarnes and volute consoles; 12 gilded ribs (Wikipedia: twelve gilded compartments with trophies hiding small lucarnes) with trophy masses, lucarnes and garlands; lantern set diagonally with arched openings and four obelisks, gilded spirelet, globe and cross.",
+    "Sculpture (Louis XIV relief, trophies, statues) is represented by abstract masses; masonry joints omitted."
   ],
   "source": "source.blend.gz",
   "spatialSource": "spatial-source.json",

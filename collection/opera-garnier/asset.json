@@ -13,16 +13,16 @@
   "lods": {
     "low": {
       "url": "low.glb",
-      "bytes": 247060,
-      "sha256": "2317793f419c6311bfbcccada1b2f9a8178b42fca2743213ea189d3a05c67b42"
+      "bytes": 245432,
+      "sha256": "181bf8708e990841e14b6ae9bcdfb545bfc41f91248df5f5126a14174de32eb8"
     },
     "detail": {
       "url": "detail.glb",
-      "bytes": 1448624,
-      "sha256": "1ebaa5342431ce7d395315fc11dc0fcb98c0ab4722f5f656ac48e5f374d2e088"
+      "bytes": 1445768,
+      "sha256": "f3439c5b534f2caa374a74e7f1e0ca54f5b8ef0066329e1a7766e2c4e10a4528"
     }
   },
-  "triangles": 34691,
+  "triangles": 34631,
   "boundsBlenderM": [
     [
       -49.75807189941406,
@@ -986,10 +986,10 @@
     "South front researched against the Commons references 00/01 and published figures (facade ~32 m high, gilded Harmony and Poetry groups ~7.5 m tall, Wikipedia \"Palais Garnier\"). Bay rhythm is read from the OSM footprint steps: 7 arches at u = 0, +-7.1, +-14.3 (centre) and +-22.55 (end pavilions), piers 2.7 m wide.",
     "Elevation levels inferred from photo proportions scaled to the mapped widths: arcade springing 5.3 m, loggia floor 9.6 m, 16 paired Corinthian columns 10.8-20.6 m (r 0.48 m), small loggia columns to 16.2 m, oculi with busts at 18.7 m, entablature 20.6-22.8 m, attic to 29.2 m, gilded cresting to 31 m.",
     "Side facades: two storeys of round-arched windows between pilasters, attic lights and cornice at 26 m, interpreted from general views; the Pavillon de l'Empereur ramp is a simplified double ramp hugging the west rotunda within 2 m of the plan.",
-    "Fly tower articulation (inferred from general views): corner buttresses, 7 pilastered bays per side with a blind arcade, arched windows and attic lights, storey/attic bands and cornice, double raking cornices on both gables, copper roof with 9 standing seams and a ridge crest, rearing Pegasus masses on the rear corners.",
+    "Fly tower articulation (inferred from general views): corner buttresses, 7 pilastered bays per side with a lower arcade of glazed panels, arched windows and attic lights, storey/attic bands and cornice, double raking cornices on both gables, copper roof with 9 standing seams and a ridge crest, rearing Pegasus masses (copper-patina bronze) on the rear corners.",
     "Roofscape: copper hipped roofs with ridges over the side-wing strips, rotunda wings, rear blocks and the 35 m terraces, plus small skylight lanterns; long side facades get a projecting central avant-corps with a raised attic.",
     "Roofs: copper mansard slopes on the 31-35 m main block, a copper foyer ridge, a copper-roofed lantern over the grand staircase (inferred size) and a copper skirt round the drum; flat terraces use the cool roof swatch. The east rotunda axis is nudged 0.6 m west of part 990 so its cornice stays within the jagged OSM outline.",
-    "Sculpture (the four ground-floor groups, the gilded roof groups, Apollo, busts, masks, medallions) is represented by original abstract masses; gold uses the library \"pompidou-yellow\" finish in the roof slot, copper roofs use \"copper\" in the metal slot. No sculpture replicas, textures or Mapbox geometry."
+    "Sculpture (the four ground-floor groups, the gilded roof groups, Apollo, busts, masks, medallions) is represented by original abstract masses; gold uses the library \"invalides-gold\" finish in the terracotta slot, copper roofs use \"copper\" in the metal slot. No sculpture replicas, textures or Mapbox geometry."
   ],
   "source": "source.blend.gz",
   "spatialSource": "spatial-source.json",

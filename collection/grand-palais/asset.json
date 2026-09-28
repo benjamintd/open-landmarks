@@ -13,26 +13,26 @@
   "lods": {
     "low": {
       "url": "low.glb",
-      "bytes": 215448,
-      "sha256": "a3220d30a139d39340e5c12833301df6aa8e7cb1ee46bedcadc4378cc96ee9e1"
+      "bytes": 248416,
+      "sha256": "2286b5fff1afa7288983e9efd8331663e95fc911a65c1c0f38477b6373214695"
     },
     "detail": {
       "url": "detail.glb",
-      "bytes": 675376,
-      "sha256": "f0551653dbc995491cbc66b0e9f90069618dcf81dbb3b93f756885fa265ba499"
+      "bytes": 1495460,
+      "sha256": "835e5c6b94a7ac020f5a121a6c4255adc7720902bcfb11274d67ce7adcc5c419"
     }
   },
-  "triangles": 13776,
+  "triangles": 35059,
   "boundsBlenderM": [
     [
-      -88.86251831054688,
-      -121.50159454345703,
+      -90.11640167236328,
+      -121.38868713378906,
       0
     ],
     [
-      72.15784454345703,
-      120.03144073486328,
-      56
+      71.85919189453125,
+      120.00791931152344,
+      60
     ]
   ],
   "entranceLights": [],
@@ -1223,10 +1223,10 @@
     "checks": {}
   },
   "modelingNotes": [
-    "Eight mapped parts determine the stone halls, glass nave and crossing dome; the highest mapped roof is 50 m.",
-    "Opaque cool glazing and muted green framing approximate the glass-and-iron roof without textures or transmission.",
-    "Barrel vaults replace the generic round-roof fallback; rib spacing, facade rhythm and a 6 m crossing finial above the mapped dome are original simplified interpretations of reviewed aerial and facade photographs.",
-    "Detail LOD: an inferred grid of transverse and longitudinal iron ribs follows the measured barrel profiles; the crossing dome receives latitude ribs. The east-side central portal uses six columns, arched recesses, pediment, cornices and hall pilasters from the selected facade photographs. Exact ornamental sculpture is omitted."
+    "Plan and heights from OSM way 56185523 and its 8 building:parts: 20 m stone halls (entablature/parapet at 16.3-18.9 m), 19 m colonnade strip, 25 m porch and inner hall, glazed barrel nave and transept (eave 25 m, crown 42 m), crossing dome (mapped circle r 36.4 m, top 50 m) and the octagonal rotunda of the Palais de la Decouverte. The model is built in a frame fitted to the mapped nave rectangle (bearing 4.4 deg).",
+    "Researched (fr.wikipedia Grand Palais): nave 200 m x 50 m plus apses (240 m overall), 35 m under the ironwork, 45 m under the dome, 60 m to the top of the lantern; pale reseda-green painted ironwork; mosaic frieze 3.2 m high behind the colonnade; two quadrigas by Georges Recipon (Immortality outrunning Time, Champs-Elysees end; Harmony triumphing over Discord, Seine end) on the corner pavilions of the main facade. Wikipedia records two quadrigas, so two are modelled (not four). The lantern and flagpole were raised to the published 60 m (previous export: 56 m).",
+    "Inferred from the Commons photographs (bundle references 00-05): the nave ends are glazed half-domes (22 m long) inside the mapped rectangle; 16 Ionic columns per side colonnade (3.9 m spacing, 10.6 m shafts on a 3 m podium), arched windows and the mosaic band on the gallery wall, balustrade with urns over every column; central porch of 6 giant columns (single-pair-pair-single, 18 m) before three arched doorways; two pylons with paired columns, a tall window and a sculpture group; the green iron arch and glazed lunette of the transept above the porch. Sculpture is represented by abstract masses.",
+    "Ironwork is a simplified grid in the patina finish (the library has no reseda paint): transverse arched trusses every ~9 m, glazing bars, horizontal purlins that wrap round the apses, apse meridians, 16 dome meridians with rings, crown walkways. The Palais de la Decouverte (west wing) gets pilastered bays, its Avenue Franklin-Roosevelt entrance with paired columns and a small entrance rotunda dome (position and size inferred), and the mapped octagon as a ribbed glazed dome (apex lowered to 40 m with a 42 m lantern ring instead of the mapped pyramid)."
   ],
   "source": "source.blend.gz",
   "spatialSource": "spatial-source.json",
