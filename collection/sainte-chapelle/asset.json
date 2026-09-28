@@ -14,15 +14,15 @@
     "low": {
       "url": "low.glb",
       "bytes": 59732,
-      "sha256": "f9a21d0c3b00e94c186a14ea8bfaddc8ecddcbc85957be4b7f70e4fb57918a45"
+      "sha256": "f64eb1efaadcb68c3f730869a14b2c0aad0a9162c8b11ab98761e4c40938f73b"
     },
     "detail": {
       "url": "detail.glb",
-      "bytes": 59732,
-      "sha256": "f9a21d0c3b00e94c186a14ea8bfaddc8ecddcbc85957be4b7f70e4fb57918a45"
+      "bytes": 184044,
+      "sha256": "171f51727bd575f0db445211d37023364a06937e65009d13a8844973561517a9"
     }
   },
-  "triangles": 1133,
+  "triangles": 3771,
   "boundsBlenderM": [
     [
       -20.904499053955078,
@@ -519,9 +519,15 @@
     "Roof construction reuses the corrected Notre-Dame primitives. No site bounding rectangle is used for massing.",
     "Roof facets, pale-blue lancet panels and their rhythm are map-scale inferences from the selected open east-oblique photograph.",
     "Fine stained glass, sculptures and historic drawings are not reproduced. Ground plate is an inferred 25 cm foundation.",
-    "Part boundary simplification is limited to 2 cm; facade panels do not add thickness to the footprint."
+    "Part boundary simplification is limited to 2 cm; facade panels do not add thickness to the footprint.",
+    "Detail LOD: taller pointed glazing, stone jambs, mullions, a west rose and pointed portal, side buttress accents and an eight-sided spire lattice follow the mapped nave and spire parts. Relief stays inside the strict OSM plan-registration envelope. Bay positions follow OSM wall facets; tracery and finials are schematic readings of the selected east-oblique and historic reference views."
   ],
   "source": "source.blend.gz",
   "spatialSource": "spatial-source.json",
-  "preview": "preview.webp"
+  "preview": "preview.webp",
+  "previewDirection": [
+    1.8,
+    0.8,
+    -1.35
+  ]
 }

@@ -13,25 +13,25 @@
   "lods": {
     "low": {
       "url": "low.glb",
-      "bytes": 202840,
-      "sha256": "1f8014553915d72d4cb3f1fd9e616dc283521f9b1a340aa63b4cee3cb484b1a4"
+      "bytes": 202936,
+      "sha256": "92c540feead0cc144de95b794963490cd23eb74816f8b89b07815339fa497d43"
     },
     "detail": {
       "url": "detail.glb",
-      "bytes": 202936,
-      "sha256": "fc31862ec71eabd89a910aaff3e454b45b849a435550ed7b67a9e9e5aac53ece"
+      "bytes": 1336296,
+      "sha256": "e65ceb67cef4be3c5515441c36dbd409ab7c9e3776da4c41968f556716a7b8dd"
     }
   },
-  "triangles": 3786,
+  "triangles": 27051,
   "boundsBlenderM": [
     [
-      -405.4555358886719,
-      -182.3416290283203,
+      -405.98907470703125,
+      -182.8533935546875,
       0
     ],
     [
-      305.3459777832031,
-      283.6500244140625,
+      305.8642578125,
+      284.1872253417969,
       38
     ]
   ],
@@ -9379,7 +9379,8 @@
     "The saved palace outline, six courtyard voids and mapped pavilion plans control this model; the separate glass Pyramid is outside this palace asset.",
     "OSM lacks part heights here. Main eaves 22 m, roof rise 5 m and terminal pavilion heights 38 m are inferred from the reviewed exterior references.",
     "Outline simplification is 1.2 m to remove small facade notches within the map-scale mesh budget; the original source geometry is distributed unchanged.",
-    "Mansards and a sparse row of fitted dormers suggest the Louvre roofscape. Their rhythm is inferred; relief sculpture and individual chimneys are omitted."
+    "Mansards and a sparse row of fitted dormers suggest the Louvre roofscape. Their rhythm is inferred; relief sculpture and individual chimneys are omitted.",
+    "Detail LOD: an inferred two-storey bay rhythm, shallow classical surrounds, plinth/string courses, eave cornice and pavilion pilasters follow the simplified wall rings, including the courtyards. The eastmost long facade gains a colonnade and central pediment after the selected Sully elevation. Exact bay counts and decorative orders are not surveyed."
   ],
   "source": "source.blend.gz",
   "spatialSource": "spatial-source.json",

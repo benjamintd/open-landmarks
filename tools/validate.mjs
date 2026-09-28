@@ -6,6 +6,7 @@ import { glbTriangles, windowSupportAudit } from './window-audit.mjs';
 import { meshAudit } from './mesh-audit.mjs';
 import { root, submissions, slug, sha, footprintBounds, cellsForBounds } from './common.mjs';
 import { cachedValidation, validatorFingerprint } from './validation-cache.mjs';
+const budgets = JSON.parse(await readFile(new URL('../budgets.json', import.meta.url)));
 
 const requireThat = (condition, message) => { if (!condition) throw Error(message); };
 export async function validateSubmission({ asset, dir }) {
@@ -31,7 +32,8 @@ export async function validateSubmission({ asset, dir }) {
     const spec = asset.lods?.[lod]; check(spec?.url === `${lod}.glb`, `expected ${lod}.glb`);
     const raw = await readFile(new URL(spec.url, dir)); bytes[spec.url] = raw;
     check(raw.length === spec.bytes && sha(raw) === spec.sha256, `${lod} bytes/hash mismatch`);
-    check(raw.length <= 250000, `${lod} exceeds 250 kB budget`);
+    const budget = budgets.lods[lod];
+    check(raw.length <= budget.bytes, `${lod} exceeds ${budget.bytes / 1000} kB budget`);
     const report = await validator.validateBytes(new Uint8Array(raw), { maxIssues: 10000 });
     check(report.issues.numErrors === 0, `${lod} failed glTF validation: ${JSON.stringify(report.issues.messages)}`);
     const doc = JSON.parse(raw.subarray(20, 20 + raw.readUInt32LE(12)));
@@ -43,17 +45,17 @@ export async function validateSubmission({ asset, dir }) {
     const sceneNodes=doc.scenes?.[doc.scene??0]?.nodes??[];
     const activeMeshes=sceneNodes.map(id=>doc.nodes[id]?.mesh).filter(id=>id!==undefined);
     check(activeMeshes.length===doc.meshes.length && new Set(activeMeshes).size===doc.meshes.length, 'every mesh must appear exactly once in the default scene');
-    check(doc.materials?.length <= 6, 'maximum six materials');
+    check(doc.materials?.length <= budgets.materials, `maximum ${budgets.materials} materials`);
     check(doc.materials.every(m => !m.alphaMode || m.alphaMode === 'OPAQUE'), 'use opaque materials');
     const primitives = doc.meshes.flatMap(m => m.primitives);
-    check(primitives.length <= 6 && primitives.every(p => p.mode === undefined || p.mode === 4), 'maximum six triangle draw calls');
+    check(primitives.length <= budgets.drawCalls && primitives.every(p => p.mode === undefined || p.mode === 4), 'maximum six triangle draw calls');
     check(primitives.every(p => p.attributes.POSITION !== undefined && p.attributes.NORMAL !== undefined), 'positions and normals required');
     const materials = materialAudit(doc);
     check(!materials.length, materials.join('; '));
     const windows = windowSupportAudit(glbTriangles(raw));
     check(!windows.unsupported, `${lod}: ${windows.unsupported} window triangles have no supporting wall`);
     const mesh = meshAudit(raw);
-    check(mesh.reduce((s,m) => s + m.triangles, 0) <= 8000, 'maximum 8,000 triangles');
+    check(mesh.reduce((s,m) => s + m.triangles, 0) <= budget.triangles, `${lod}: maximum ${budget.triangles} triangles`);
     check(!mesh.some(m => m.degenerate || m.opposedNormals), 'degenerate triangles or inverted normals');
     const positions = primitives.map(p => doc.accessors[p.attributes.POSITION]);
     const min = [0,1,2].map(i => Math.min(...positions.map(a => a.min[i])));

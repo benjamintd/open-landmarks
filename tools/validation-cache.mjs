@@ -6,7 +6,7 @@ import { root, sha } from './common.mjs';
 export async function validatorFingerprint() {
   const paths = ['tools/validate.mjs', 'tools/validation-cache.mjs', 'tools/common.mjs',
     'tools/material-audit.mjs', 'tools/window-audit.mjs', 'tools/mesh-audit.mjs',
-    'materials.json', 'package-lock.json'];
+    'materials.json', 'budgets.json', 'package-lock.json'];
   return sha(JSON.stringify([process.version, ...await Promise.all(paths.map(async path =>
     [path, sha(await readFile(new URL(path, root)))]))]));
 }

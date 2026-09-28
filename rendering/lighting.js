@@ -29,8 +29,9 @@ export const PRESETS = {
   },
 };
 /** Opaque glass keeps the same triangle/draw-call count; no transparency sorting.
- * windowLighting=false disables emission, while preserving pale-blue glazing.
- * Override any shared preset with {day:{windowColor,windowEmission}, ...}.
+ * Windows are slate glass (library `window` color) lit from inside by a soft warm
+ * `windowGlow`, strongest at night. windowLighting=false disables the glow.
+ * Override any shared preset with {day:{windowColor,windowGlow,windowEmission}, ...}.
  */
 export function lightScene(scene, { windowLighting = {}, entranceGlow = true, profile = "landmark" } = {}) {
   const ambient = new HemisphereLight(),
@@ -42,7 +43,10 @@ export function lightScene(scene, { windowLighting = {}, entranceGlow = true, pr
     // Landmark fill is calibrated with the shared sky environment: keeping the
     // old fill on top of its diffuse light washes pale stone out to white.
     const p = { ...PRESETS[name], ...(profile === "landmark" ? LIGHTING.presets[name].landmarkLight : {}) };
-    const glass = { ...LIGHTING.presets[name], windowColor: MATERIALS.window.color, ...(windowLighting?.[name] || {}) };
+    const override = windowLighting?.[name] || {};
+    const glass = { ...LIGHTING.presets[name], windowColor: MATERIALS.window.color, ...override };
+    // Legacy overrides that only set windowColor keep their single-color glow.
+    glass.windowGlow = override.windowGlow ?? override.windowColor ?? glass.windowGlow;
     ambient.color.set(p.sky);
     ambient.groundColor.set(p.ground);
     ambient.intensity = p.ambient;
@@ -57,7 +61,7 @@ export function lightScene(scene, { windowLighting = {}, entranceGlow = true, pr
           }
           if (m.name === "window") {
             m.color.set(glass.windowColor);
-            m.emissive.set(glass.windowColor);
+            m.emissive.set(glass.windowGlow);
             m.emissiveIntensity = windowLighting === false ? 0 : Math.max(0, glass.windowEmission);
           }
           if (m.name === "entrance-glow") {

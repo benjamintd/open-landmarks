@@ -34,6 +34,20 @@ test('architectural glass is non-metallic and lit by reflections, not window emi
 test('Clair window lighting stays subtle and increases through dusk',()=>{
   const levels=['day','dawn','night'].map(p=>lighting.presets[p].windowEmission);
   assert(levels[0]>0 && levels[0]<levels[1] && levels[1]<levels[2] && levels[2]<=0.5);
+  for(const p of ['day','dawn','night']){const g=lighting.presets[p].windowGlow;assert.match(g,/^#[0-9a-f]{6}$/);assert(parseInt(g.slice(1,3),16)>parseInt(g.slice(5,7),16),'warm interior glow');}
   assert.equal(materialLibrary.materials.stone.color,'#efe4d3');
   assert(materialLibrary.windowSupportMaterials.includes('terracotta'));
+  const window=new MeshStandardMaterial({name:'window'}),scene=new Scene();
+  scene.add(new Mesh(new BoxGeometry(),window));
+  const set=lightScene(scene);
+  for(const preset of ['day','dawn','night']) {
+    set(preset);
+    assert.equal(window.color.getHexString(),'64798a');
+    assert.equal(window.emissive.getHexString(),lighting.presets[preset].windowGlow.slice(1));
+    assert.equal(window.emissiveIntensity,lighting.presets[preset].windowEmission);
+  }
+  const unlit=new MeshStandardMaterial({name:'window'}),unlitScene=new Scene();
+  unlitScene.add(new Mesh(new BoxGeometry(),unlit));
+  lightScene(unlitScene,{windowLighting:false})('night');
+  assert.equal(unlit.emissiveIntensity,0);
 });

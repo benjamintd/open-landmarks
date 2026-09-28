@@ -14,12 +14,12 @@
     "low": {
       "url": "low.glb",
       "bytes": 79200,
-      "sha256": "324d967aba889d5ae8d28b0e35aa2cbc131e43186d7fdfcfc6e221a69e9cbaf8"
+      "sha256": "b97128f41d9fa6e91fa678a58b19e7bda7b58fc9f8dc3f6d53d7fa5ff6b30af0"
     },
     "detail": {
       "url": "detail.glb",
       "bytes": 79200,
-      "sha256": "e51bab6f4710fe684b28a77be80dd9323f8fa39d7b6d8e22b185ed1406fe3bea"
+      "sha256": "8e3a929059f35ecfbfb63ee2fcce06098a979fd5529df7546b9ee6715a844aae"
     }
   },
   "triangles": 1662,

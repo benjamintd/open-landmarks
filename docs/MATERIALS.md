@@ -6,8 +6,10 @@ Colors are sRGB hex values; Blender and glTF store their linear RGB equivalents.
 The library also defines roughness and metalness. Unlisted names, colors, surface
 properties, image textures, transparency and material extensions fail validation.
 
-- `window`: light blue `#a4c4d9`, for vertical panels attached to walls.
-- `glass`: the same light blue with smoother reflective properties, for structural
+- `window`: slate blue `#64798a`, for vertical panels attached to walls. Its
+  diffuse color sits near the dark `recess` tone, while Clair adds a restrained
+  warm interior emission that grows from day to night.
+- `glass`: pale blue `#a4c4d9` with smoother reflective properties, for structural
   glazing such as dome roofs, pyramids and observation-room enclosures.
 - `stone`, `trim`, `roof`, `recess`, `metal`: the standard architectural swatches.
 - `copper`, `patina`: approved weathered metal variants.
@@ -19,6 +21,8 @@ properties, image textures, transparency and material extensions fail validation
   where the general stone palette would misrepresent the architecture.
 - `eiffel-iron-dark` and `eiffel-iron-light` flank the standard warm metal
   swatch for a restrained base-to-summit iron gradient.
+- `invalides-gold` is the restrained gilded finish for the mapped Invalides
+  dome and its roof ribs.
 
 Use `recess` for dark stone or clock hands, not window glazing. A model still has
 at most six materials and six triangle draw calls, even though the library offers

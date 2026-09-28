@@ -13,50 +13,29 @@
   "lods": {
     "low": {
       "url": "low.glb",
-      "bytes": 20376,
-      "sha256": "38a0e237a1af239b0522d5d7726ec6b7f4eae7a7f0c66ae2c6d3dbecb4622ce6"
+      "bytes": 171800,
+      "sha256": "a4be7f4e0f4e6a8aba6c928f61a84f9c7624c133c9370131f0f8cb03abf57fab"
     },
     "detail": {
       "url": "detail.glb",
-      "bytes": 46364,
-      "sha256": "cae58d2fda15d8abab4d260de20937e54aa84829782811bc1d364ad5449dc897"
+      "bytes": 1270888,
+      "sha256": "53ad11bdbdfdedf4698c1082e2c3456bb3b9d5590a93f05feca428baed83ccdd"
     }
   },
-  "triangles": 854,
+  "triangles": 33350,
   "boundsBlenderM": [
     [
-      -23.76016616821289,
-      -29.079904556274414,
+      -23.201171875,
+      -28.65927505493164,
       0
     ],
     [
-      24.12613296508789,
-      29.421850204467773,
+      23.567138671875,
+      29.001220703125,
       50
     ]
   ],
-  "entranceLights": [
-    [
-      6.298,
-      0.04,
-      22.644
-    ],
-    [
-      21.68,
-      0.04,
-      -9.958
-    ],
-    [
-      -21.319,
-      0.04,
-      9.606
-    ],
-    [
-      -5.904,
-      0.04,
-      -22.993
-    ]
-  ],
+  "entranceLights": [],
   "replacementFootprint": {
     "type": "Polygon",
     "coordinates": [
@@ -200,9 +179,14 @@
     "checks": {}
   },
   "modelingNotes": [
-    "Overall width/depth and alignment from OSM minimum rectangle; height from OSM or 50 m fallback.",
-    "Arch openings, cornices and simplified relief panels are inferred from exterior reference views; not survey measurements.",
-    "Entrance light accents are original map styling, not a reconstruction of the lighting installation."
+    "Alignment, cornice outline (50.4 x 28.1 m) and wall body (47.4 x 24.6 m) from the OSM minimum rectangle and building:part polygons (way 226413508); the 1.5/1.8 m cornice overhang is the OSM difference between them.",
+    "Four sculpture pedestals (8.2 m wide, 1.8 m projection, 6 m high) and the 8.4 m transverse passage width follow the mapped parts.",
+    "Published dimensions (Wikipedia FR/EN, Structurae): 49.5-50 m high, main arch 29.19 m high x 14.62 m wide, transverse arches 18.68 m high x 8.44 m wide. Total height kept at the exported 50 m (roof pavilion top).",
+    "Main arch width set to 14.0 m: OSM maps 12 m, the published 14.62 m is on a 44.8 m body; the front photograph gives arch/body ~0.29, which on the OSM 47.4 m body is 14 m, leaving 16.7 m piers.",
+    "Storey lines scaled from the reviewed front photograph (00.jpg) on the 50 m height: plinth 1.5 m, dado 5.4-6.0 m, transverse impost 14.5 m, main impost entablature 20.5-22.2 m, upper relief panels 25-31.6 m, architrave 33.9 m, frieze 34.8-37.6 m, main cornice 37.6-41.4 m, attic 41.4-46.8 m, attic cornice to 48.0 m, palmette cresting to 49.35 m.",
+    "Attic: 30 shields (11 per main face, 4 per side) between sword panels, counted from the photographs.",
+    "Sculpture groups, spandrel Fames, upper panels and the frieze are abstract relief masses (lathed figure blocks, wing slabs, raised blocks), not copies of the sculptures. The coffered vaults are rib grids with rosettes.",
+    "The roof is a flat terrace behind the attic parapet; the OSM 47-50 m rooftop parts are reduced to a small set-back stair/lift kiosk (4.4 x 3.2 m, top 50.0 m) invisible from street level. Pier and upper walls carry thin raised ashlar coursing bands every 0.95 m; the dentil course sits under the modillions."
   ],
   "source": "source.blend.gz",
   "spatialSource": "spatial-source.json",

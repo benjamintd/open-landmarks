@@ -14,24 +14,24 @@
     "low": {
       "url": "low.glb",
       "bytes": 215448,
-      "sha256": "7d3bb3e9bfea67230f223de9232ee4dedeb42590210938a6275b80b85cf145d9"
+      "sha256": "a3220d30a139d39340e5c12833301df6aa8e7cb1ee46bedcadc4378cc96ee9e1"
     },
     "detail": {
       "url": "detail.glb",
-      "bytes": 215448,
-      "sha256": "885ba45a81eb95a94bc35b9c7b35c4fad846c6e725be20ef50606a3eff394b31"
+      "bytes": 676240,
+      "sha256": "f443cdbacf13c5ca32845c2a5a911742e617d6ebd901688755828069943904dd"
     }
   },
-  "triangles": 4955,
+  "triangles": 13776,
   "boundsBlenderM": [
     [
-      -88.02835845947266,
-      -120.67516326904297,
+      -88.86251831054688,
+      -121.50159454345703,
       0
     ],
     [
-      71.67715454101562,
-      119.16529846191406,
+      72.15784454345703,
+      120.03144073486328,
       56
     ]
   ],
@@ -1225,7 +1225,8 @@
   "modelingNotes": [
     "Eight mapped parts determine the stone halls, glass nave and crossing dome; the highest mapped roof is 50 m.",
     "Opaque cool glazing and muted green framing approximate the glass-and-iron roof without textures or transmission.",
-    "Barrel vaults replace the generic round-roof fallback; rib spacing, facade rhythm and a 6 m crossing finial above the mapped dome are original simplified interpretations of reviewed aerial and facade photographs."
+    "Barrel vaults replace the generic round-roof fallback; rib spacing, facade rhythm and a 6 m crossing finial above the mapped dome are original simplified interpretations of reviewed aerial and facade photographs.",
+    "Detail LOD: an inferred grid of transverse and longitudinal iron ribs follows the measured barrel profiles; the crossing dome receives latitude ribs. The east-side central portal uses six columns, arched recesses, pediment, cornices and hall pilasters from the selected facade photographs. Exact ornamental sculpture is omitted."
   ],
   "source": "source.blend.gz",
   "spatialSource": "spatial-source.json",

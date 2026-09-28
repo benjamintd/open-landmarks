@@ -13,7 +13,7 @@ Use Blender by hand, procedural tools, or AI assistance. None is mandatory. AI w
 
 - Ground at Y=0. WGS84 anchor `[longitude, latitude]`; metres, X east / Y up / Z south in the GLB. Heading is baked. Apply all object transforms and flatten exported nodes for the v1 validator.
 - `boundsBlenderM` is an axis-aligned envelope in X east / Y north / Z up. Both LODs must fit inside it.
-- <=8,000 triangles, <=250,000 raw bytes per GLB, <=6 opaque materials and triangle primitives/draw calls. No textures, animations, skins or required decoder extensions. Export real normals.
+- Per-LOD budgets from [`budgets.json`](budgets.json): `low.glb` <=8,000 triangles and <=250,000 raw bytes; `detail.glb` <=40,000 triangles and <=1,500,000 raw bytes; <=6 opaque materials and triangle primitives/draw calls. No textures, animations, skins or required decoder extensions. Export real normals.
 - Semantic materials come from `materials.json`; use the subset needed. Start with the Clair stone and roof tones, then use approved landmark-specific finishes where color is part of the building's identity. Prioritize silhouette, roof lines, structural rhythm and major openings. `window` panels remain opaque and may carry a small emission; structural glazing uses `glass`.
 - Remove hidden wall caps when a roof closes the volume. Coplanar wall/roof surfaces can create black patches even when material values and face normals are valid. Inspect a neutral oblique view and a second side or top view; roof regression tests compare exported surfaces in both LODs.
 - A lower LOD should reduce geometry where this preserves recognizable architecture. Do not conceal a higher download cost behind compressed-size marketing alone.

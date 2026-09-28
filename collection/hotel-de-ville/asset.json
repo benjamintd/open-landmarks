@@ -14,24 +14,24 @@
     "low": {
       "url": "low.glb",
       "bytes": 134480,
-      "sha256": "31b6721b729c2cf1c57fc26b60eee8f665708a978ac1f03dcefae63c4ae307d3"
+      "sha256": "a4d5070f12c4159eec3b42b129faab2a713082622258aa2c0477d1d4372be6be"
     },
     "detail": {
       "url": "detail.glb",
-      "bytes": 134480,
-      "sha256": "5901eeb42cfb602d00f0d8dd12f83bc6559edc4ff5359d08a26f71296f23bfa9"
+      "bytes": 1169244,
+      "sha256": "fe212cab6261395500358cb6aa3b5ec0ee2def54a93a160d830dd2daf1cb0f25"
     }
   },
-  "triangles": 2553,
+  "triangles": 24027,
   "boundsBlenderM": [
     [
-      -65.42497253417969,
-      -82.18856048583984,
+      -66.22014617919922,
+      -83.09749603271484,
       0
     ],
     [
-      60.55707931518555,
-      80.68515014648438,
+      61.4539794921875,
+      81.59203338623047,
       40
     ]
   ],
@@ -3444,9 +3444,15 @@
   "modelingNotes": [
     "The saved outline and all three courtyard voids control the plan. OSM provides 40 m overall height but no part heights.",
     "Main eaves 21 m, six taller pavilion roofs and the west-facing clock belfry are inferred from reviewed facade photographs and mapped pavilion plans.",
-    "The main roof now carries a sparse rhythm of fitted dormers between the raised pavilions. Their spacing, windows, cornices and roof finials are schematic; sculpture is omitted and the central tower reaches 40 m."
+    "The main roof now carries a sparse rhythm of fitted dormers between the raised pavilions. Their spacing, windows, cornices and roof finials are schematic; sculpture is omitted and the central tower reaches 40 m.",
+    "Detail LOD: the west-facing plaza elevation receives three arched portal accents, continuous floor bands and eave cornice, three framed window storeys and pavilion pilasters. The clock roof is replaced by an open eight-column belfry and slate cupola, reaching the same 40 m. Counts and orders are interpretations of the selected west-facade photographs, not surveyed restoration."
   ],
   "source": "source.blend.gz",
   "spatialSource": "spatial-source.json",
-  "preview": "preview.webp"
+  "preview": "preview.webp",
+  "previewDirection": [
+    -1.5,
+    0.85,
+    0.9
+  ]
 }

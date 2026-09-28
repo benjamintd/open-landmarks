@@ -13,25 +13,25 @@
   "lods": {
     "low": {
       "url": "low.glb",
-      "bytes": 201108,
-      "sha256": "993c434c37478081c1f436d46f1d3f4ae582d9398040de408f58f49eea68855b"
+      "bytes": 216228,
+      "sha256": "b9b920191c4f2d36b22e6d2c0fec7e0a9727b0fefef5a01fdd2096e74361ecee"
     },
     "detail": {
       "url": "detail.glb",
-      "bytes": 201108,
-      "sha256": "2d08ee0e318e18b08a2ec6d4375db4b586d8ddcb806b982f6e65c68f6332b148"
+      "bytes": 1337788,
+      "sha256": "80adcfc08b1d2e8d5f735e3846f82949c4ff2fd185b092adeac4d1f3d9028ae2"
     }
   },
-  "triangles": 5125,
+  "triangles": 39024,
   "boundsBlenderM": [
     [
-      -26.348880767822266,
-      -45.71061706542969,
+      -26.812137603759766,
+      -46.46977233886719,
       0
     ],
     [
-      27.49557113647461,
-      50.939857482910156,
+      28.08247184753418,
+      51.532798767089844,
       84
     ]
   ],
@@ -1032,11 +1032,15 @@
     "checks": {}
   },
   "modelingNotes": [
-    "All 44 mapped part plans and total heights are retained; the north campanile and south entrance remain geographically aligned.",
-    "Four 46 m satellite domes lack roof:height in OSM; a 13 m dome above the mapped 33 m drums is inferred from reviewed exterior photographs.",
-    "Pale roof material, drum openings, mouldings and small crosses are original simplified visual interpretations.",
-    "OSM models the front porch with an enclosing 16 m base: the porch is opened below its mapped 9 m lintel using the mapped porch polygon.",
-    "Domes are faceted latitude profiles; sculpture, equestrian figures and fine masonry are omitted."
+    "Plan registration: every mass is built from, or centred on, the mapped OSM building:part polygons (outline, Greek-cross arms, four corner-dome towers, choir, ambulatory, apse, south porch, gable, equestrian plinths, turrets and campanile).",
+    "Mapped heights retained: 16 m perimeter body, 24 m arm walls with 33 m roof ridges, 33 m corner drums, 46 m corner domes with lanterns to 53 m, 73 m main dome with lantern cross to 83 m, 57/64 m campanile square stage and 84 m campanile top.",
+    "Main dome: drum 31-48.5 m rising behind the 33 m roof ridges (arcaded exterior colonnade of 16 bays, attic with 32 small arched windows), tall pointed ovoid dome springing at 48.45 m (r 9.9 m, 22 m semi-axis, stepped stone courses) reaching the mapped 70 m lantern base; slim colonnaded lantern with cross to the mapped 83 m. Drum/dome split inferred from the south-facade photograph.",
+    "Corner domes: octagonal drums (24-33 m) with paired arched windows under one archivolt, pointed ovoid coursed domes reaching the mapped 46 m, slim open lanterns and crosses to 53 m (OSM gives no roof:height; profile inferred from photographs).",
+    "Campanile: square shaft with corner buttresses and slit windows, three-arched belfry per face, parapet at 57 m, 12-bay arcaded drum, ovoid dome and lantern with cross reaching the mapped 84 m.",
+    "South facade: three tall vaulted arches (spring 6.4 m, crown ~8.8 m) filling the mapped porch plan between the two mapped 13 m end piers, which carry simplified equestrian statue masses (St Louis and Joan of Arc, patina), upper three-arched loggia, triangular gable with Christ niche aedicule and two domed turrets.",
+    "Arm roofs are low stone gables meeting at the crossing, the chevet steps up from eight radiating chapels with coursed domelets on the 16 m terrace, to the 24 m ambulatory terrace, to a windowed semicircular apse clerestory (to 28.6 m) under a coursed half-dome meeting the 33 m ridge; roofs are pale stone as on the building. Transept gable ends carry raking cornices and a traceried rose (moulded ring, spokes, hub, glass behind); the square bases of the corner towers carry the large arched niches with roses seen on the south front; small domed pinnacles ring the chevet on the ambulatory (count/spacing inferred, ~6 m).",
+    "Windows: round-arched with stone surrounds on the 16 m body and 24 m clerestory; bay spacing (~4.5-5 m) is inferred from photographs.",
+    "Omitted: sculpture, mosaics, bells, fine masonry, the terrace and steps. Statues are schematic horse-and-rider masses."
   ],
   "source": "source.blend.gz",
   "spatialSource": "spatial-source.json",

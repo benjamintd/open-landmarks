@@ -1,8 +1,8 @@
 {
   "presets": {
     "day": {
-      "windowColor": "#a4c4d9",
-      "windowEmission": 0.08,
+      "windowGlow": "#ffe6bf",
+      "windowEmission": 0.06,
       "entranceEmission": 0,
       "glowOpacity": 0,
       "landmarkLight": {
@@ -19,8 +19,8 @@
       }
     },
     "dawn": {
-      "windowColor": "#bad9e9",
-      "windowEmission": 0.28,
+      "windowGlow": "#ffd49a",
+      "windowEmission": 0.3,
       "entranceEmission": 1,
       "glowOpacity": 0.24,
       "landmarkLight": {
@@ -36,8 +36,8 @@
       }
     },
     "night": {
-      "windowColor": "#b5d4ea",
-      "windowEmission": 0.42,
+      "windowGlow": "#ffc983",
+      "windowEmission": 0.5,
       "entranceEmission": 2.4,
       "glowOpacity": 0.45,
       "landmarkLight": {

@@ -13,19 +13,19 @@
   "lods": {
     "low": {
       "url": "low.glb",
-      "bytes": 199368,
-      "sha256": "5147ed9c4538995843ba149edae7178745b6a6a91ba362d8eac6ff919fd40936"
+      "bytes": 238760,
+      "sha256": "1111aa05304606d7b6d4edcb73ce5182e18e07e0bbdd470e9a435cf864f61bc1"
     },
     "detail": {
       "url": "detail.glb",
-      "bytes": 199368,
-      "sha256": "84efebf5d407eba6a848f9b2daba56e123c91e85eee2473c2b7840ff8b98b7ac"
+      "bytes": 1476596,
+      "sha256": "ab48d9eb8288fa35d7197d1e7ec31536544549b57ed254c5befc2fabfb184cdd"
     }
   },
-  "triangles": 4065,
+  "triangles": 31482,
   "boundsBlenderM": [
     [
-      -69.78152465820312,
+      -69.79098510742188,
       -61.152687072753906,
       0
     ],
@@ -35,23 +35,7 @@
       96
     ]
   ],
-  "entranceLights": [
-    [
-      -56.574,
-      0.04,
-      -42.323
-    ],
-    [
-      -62.673,
-      0.04,
-      -29.786
-    ],
-    [
-      -68.104,
-      0.04,
-      -18.845
-    ]
-  ],
+  "entranceLights": [],
   "replacementFootprint": {
     "type": "Polygon",
     "coordinates": [
@@ -1467,12 +1451,14 @@
     "checks": {}
   },
   "modelingNotes": [
-    "Outline and all height-tagged parts are built directly in local OSM coordinates; no site bounding-box massing.",
-    "Roof ridges use each roof part, not the site including the sacristy. Roof shapes are simplified.",
-    "OSM heights retained: 69 m main tower walls, small tower roof structures up to 78 m, and 96 m spire.",
-    "Sacristy without height is covered by its mapped base and roof parts; no invented height.",
-    "Buttress wedges, facade openings and entrance accents remain schematic; part vertices may simplify by at most 1.5 cm.",
-    "Current OSM outline version 96 checked on 2026-09-14: identical coordinates to bundled version 93. Parts retain their snapshot date."
+    "Plan: every volume is extruded from its OSM building part (outline v96 = bundled v93, checked 2026-09-14): westwork/Galerie des chimeres 45 m, Galerie de la Vierge terrace 25 m, towers 69 m, stair turrets 33 m, aisles/tribunes 25 m, central vessel and transept 33 m walls with 12 m roofs (45 m ridges), apse cone, crossing spire 96 m, 28 mapped flying-buttress strips, 14 pier tops at 26 m and 14 pinnacles at 30 m.",
+    "Articulation is cut from inside those plans (shallow strips re-filled with pierced screens) and full-plan cornice slabs restore each footprint, so nothing projects outside a mapped part above 26 m and 50 m.",
+    "West facade levels read from the reviewed 2013 Commons elevation scaled to the mapped 69 m towers: portals to ~17 m (Last Judgment central portal wider/taller), Gallery of Kings 18-22 m (28 niches), Galerie de la Vierge balustrade to 25 m, 9.7 m west rose centred ~29.7 m flanked by paired lancets and oculi in the tower bays, Grand Gallery arcade 37.5-44.5 m (open between the towers), belfry lancets 47.8-60.6 m, crown balustrade to 69 m.",
+    "Tower tops are flat terraces with balustrade and corner pinnacles; the mapped 73 m hidden pyramidal roofs are lowered to a 3 m lead cap and the 0.4 m2 78 m finials are omitted (not visible in references).",
+    "Flying buttresses: one arched flyer per mapped strip (width = strip width), top from 32.4 m at the clerestory to 24.2 m at the pier, elliptical intrados springing at 18.2 m; the nave flyers are drawn single-span like the choir ones (the real nave has intermediate piers, not mapped). Pier tops follow OSM (26 m gabled caps in the nave, 30 m pinnacles with gablets around the choir and chevet).",
+    "Spire (Viollet-le-Duc, rebuilt 2024): octagonal openwork stages to ~62 m, crocketed needle, cross at 96 m (OSM height); the 16 copper apostle/evangelist statues on the four roof valleys are simplified patina figures.",
+    "Transept facades: portal with gable, glazed claire-voie, ~11 m rose, steep gable with small rose, corner turrets to ~47 m on the mapped turret parts. Rose tracery is a simplified rayonnant pattern.",
+    "Inferred: chapel wall/roof heights (10.5 m mapped base, lean-to to 12.8 m), tribune roofs (21-25 m lean-to), window sizes and counts per bay (bays follow the mapped flyer positions), sacristy parts without heights kept at 8.6 m. Sculpture, gargoyles and tracery cusps are omitted."
   ],
   "source": "source.blend.gz",
   "spatialSource": "spatial-source.json",

@@ -13,25 +13,25 @@
   "lods": {
     "low": {
       "url": "low.glb",
-      "bytes": 211904,
-      "sha256": "47693cd9cab02e1ff725c5dce9b0f9e9dec96961e1825bf9387035ff8cd99e60"
+      "bytes": 194672,
+      "sha256": "f08e3a61eb369c8240146718f5347c93ef9eccdc4d9e61ea80f7c7a1ca7c6ff4"
     },
     "detail": {
       "url": "detail.glb",
-      "bytes": 211904,
-      "sha256": "47693cd9cab02e1ff725c5dce9b0f9e9dec96961e1825bf9387035ff8cd99e60"
+      "bytes": 925580,
+      "sha256": "39b4d8a1b511782cb88ad5db88d056e865b26a83ed7ece267c42d1db205b4b39"
     }
   },
-  "triangles": 7860,
+  "triangles": 36904,
   "boundsBlenderM": [
     [
-      -87.4597396850586,
-      -87.79178619384766,
+      -87.90673065185547,
+      -88.23877716064453,
       0
     ],
     [
-      87.88709259033203,
-      87.55504608154297,
+      88.3340835571289,
+      88.00203704833984,
       330
     ]
   ],
@@ -652,13 +652,15 @@
     "checks": {}
   },
   "modelingNotes": [
-    "OSM supplies centre, north alignment and 330 m overall height.",
-    "Deck elevations 57, 115 and 276 m and 125 m base width follow the official Eiffel Tower figures: https://www.toureiffel.paris/fr/le-monument/chiffres-cle .",
-    "Four curved lattice piers, arch spandrels and taper are original simplified interpretations of the reviewed daylight references.",
-    "Pier and shaft taper was visually checked against the 2023 IGN LiDAR HD building returns; the scan is not used as a fitted surface.",
-    "Primary chords stay readable at map scale; denser, thinner secondary lacing and glazed observation pavilions preserve the open ironwork.",
-    "A restrained dark-to-light iron gradient follows the Tower operator’s documented three-tone painting principle, not an exact claim about its present coating: https://www.toureiffel.paris/en/the-monument/painting-eiffel-tower .",
-    "Cross sections, railing rhythm, summit equipment and arch profiles are inferred; no nighttime sparkle installation."
+    "OSM supplies centre, north alignment and the 330 m overall height (antennas included).",
+    "Key figures from the operator (https://www.toureiffel.paris/fr/le-monument/chiffres-cle): 124.9 m square base, floors at 57 m, 115 m and 276 m. Deck slabs keep the previously exported undersides (55.5, 113.8, 275.2 m).",
+    "Leg outer edge follows a log-space spline through half-widths 62.5 m (ground), 30 m (1st floor), 15.2 m (2nd), 12.1 m (160 m), 9.7 m (197 m), 7.0 m (240 m), 4.4 m (276 m) (near-linear upper taper), read off the Commons elevation photo 00.jpg; the curve is the published exponential-like wind-moment profile, not a surveyed surface.",
+    "Each pier is a four-chord box lattice (base ~25 m square, inferred) of 4 X-braced panels to the 1st floor and 4 more to the 2nd, whose inner chords stop at the 2nd-floor girders; the upper shaft has four slim corner box columns with 15 full-width X panels (panel count from photo 00.jpg).",
+    "Decorative arches: semicircular double-plane lattice girders (centred at ground level, intrados radius 38.6 m, extrados crown 41.9 m) under a see-through lattice belt truss and an open arcaded frieze (arch ribs on posts, 50-55.3 m) under thin deck slabs; arch radius and frieze arcade count are inferred.",
+    "Glazed first-floor pavilions and second-floor gallery are simplified to continuous mullioned glass rings; the intermediate platform at ~197 m (old Edoux lift change level) is placed from photo proportions.",
+    "Summit: enclosed glazed 3rd level, open terrace, four-rib campanile with lighthouse lantern and dome, stepped antenna mast to 330 m. Antenna equipment is generic.",
+    "A dark-to-light iron gradient follows the operator’s documented three-tone painting principle, not an exact claim about its present coating: https://www.toureiffel.paris/en/the-monument/painting-eiffel-tower .",
+    "Rivets, lift cars, inclined lift rails, restaurant interiors and the nighttime sparkle installation are omitted."
   ],
   "source": "source.blend.gz",
   "spatialSource": "spatial-source.json",

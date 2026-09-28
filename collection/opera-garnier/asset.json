@@ -13,25 +13,25 @@
   "lods": {
     "low": {
       "url": "low.glb",
-      "bytes": 217036,
-      "sha256": "5635274b5595b390968a31ac7acc8a12a8cc0ace4e8b76aa7bdfe384d08c8554"
+      "bytes": 247908,
+      "sha256": "ddb186035393f9673a1d88ba7b1394bc5c0c7bb4936e13169b4527979de095c2"
     },
     "detail": {
       "url": "detail.glb",
-      "bytes": 217036,
-      "sha256": "5635274b5595b390968a31ac7acc8a12a8cc0ace4e8b76aa7bdfe384d08c8554"
+      "bytes": 1449484,
+      "sha256": "e8c3ecc52f1cee260c0f4e5be2bb4690a97fae1844b6c3ee32bd78415946f638"
     }
   },
-  "triangles": 5181,
+  "triangles": 34691,
   "boundsBlenderM": [
     [
-      -48.246604919433594,
-      -77.61198425292969,
+      -49.75807189941406,
+      -77.70963287353516,
       0
     ],
     [
-      49.914710998535156,
-      79.36321258544922,
+      50.829532623291016,
+      80.35359954833984,
       58
     ]
   ],
@@ -980,10 +980,16 @@
     "checks": {}
   },
   "modelingNotes": [
-    "The saved OSM footprint and eleven mapped parts control the stepped massing, auditorium dome, side rotundas and fly tower.",
-    "Part heights top out at 58 m; the outline tag of 70 m is not used to inflate these more detailed mapped volumes.",
-    "Copper green, paired facade columns, cornice bands and gilded finials are simplified interpretations of the reviewed south facade photographs.",
-    "Facade openings are shallow opaque recesses. Sculpture groups, medallions and roof ornament are represented by simple accents, not replicas."
+    "Plan: the saved OSM footprint and the eleven mapped building:part ways. The model is authored in a frame rotated 15.6 deg to the facade edge of way/822290986 and rotated back, so every volume stays on the OSM plan.",
+    "Heights from OSM parts: side wings 26 m (986), main block walls 31 m with a 4 m copper roof to 35 m (002), rotunda drums 29 m with 7.5 m domes (989-991), auditorium drum 31-44 m (987), dome 44-51 m (1001), crown 50-56.5 m (1000) and finial to 58 m (993), fly tower from 31 m (992).",
+    "Fly tower: OSM gives 58 m with a 10 m gabled roof; here the eaves are 46 m and the gable apex 54.9 m so the Apollo group on the apex tops out at the mapped 58 m (the model top stays 58 m; the 70 m outline tag is unused).",
+    "South front researched against the Commons references 00/01 and published figures (facade ~32 m high, gilded Harmony and Poetry groups ~7.5 m tall, Wikipedia \"Palais Garnier\"). Bay rhythm is read from the OSM footprint steps: 7 arches at u = 0, +-7.1, +-14.3 (centre) and +-22.55 (end pavilions), piers 2.7 m wide.",
+    "Elevation levels inferred from photo proportions scaled to the mapped widths: arcade springing 5.3 m, loggia floor 9.6 m, 16 paired Corinthian columns 10.8-20.6 m (r 0.48 m), small loggia columns to 16.2 m, oculi with busts at 18.7 m, entablature 20.6-22.8 m, attic to 29.2 m, gilded cresting to 31 m.",
+    "Side facades: two storeys of round-arched windows between pilasters, attic lights and cornice at 26 m, interpreted from general views; the Pavillon de l'Empereur ramp is a simplified double ramp hugging the west rotunda within 2 m of the plan.",
+    "Fly tower articulation (inferred from general views): corner buttresses, 7 pilastered bays per side with a blind arcade, arched windows and attic lights, storey/attic bands and cornice, double raking cornices on both gables, copper roof with 9 standing seams and a ridge crest, rearing Pegasus masses on the rear corners.",
+    "Roofscape: copper hipped roofs with ridges over the side-wing strips, rotunda wings, rear blocks and the 35 m terraces, plus small skylight lanterns; long side facades get a projecting central avant-corps with a raised attic.",
+    "Roofs: copper mansard slopes on the 31-35 m main block, a copper foyer ridge, a copper-roofed lantern over the grand staircase (inferred size) and a copper skirt round the drum; flat terraces are dark zinc (library \"recess\"). The east rotunda axis is nudged 0.6 m west of part 990 so its cornice stays within the jagged OSM outline.",
+    "Sculpture (the four ground-floor groups, the gilded roof groups, Apollo, busts, masks, medallions) is represented by original abstract masses; gold uses the library \"pompidou-yellow\" finish in the roof slot, copper roofs use \"copper\" in the metal slot. No sculpture replicas, textures or Mapbox geometry."
   ],
   "source": "source.blend.gz",
   "spatialSource": "spatial-source.json",

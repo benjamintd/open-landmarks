@@ -1,0 +1,9 @@
+{
+  "note": "Per-LOD mesh budgets. The low LOD is streamed at wider zooms; the detail LOD only near the landmark (detailZoom).",
+  "lods": {
+    "low": {"triangles": 8000, "bytes": 250000},
+    "detail": {"triangles": 40000, "bytes": 1500000}
+  },
+  "materials": 6,
+  "drawCalls": 6
+}
