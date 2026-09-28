@@ -6,12 +6,11 @@ Colors are sRGB hex values; Blender and glTF store their linear RGB equivalents.
 The library also defines roughness and metalness. Unlisted names, colors, surface
 properties, image textures, transparency and material extensions fail validation.
 
-- `window`: slate blue `#64798a`, for vertical panels attached to walls. Its
-  diffuse color sits near the dark `recess` tone, while Clair adds a restrained
-  warm interior emission that grows from day to night.
+- `window`: slate blue `#64798a`, for vertical panels attached to walls. Clair
+  adds a restrained warm interior emission that grows from day to night.
 - `glass`: pale blue `#a4c4d9` with smoother reflective properties, for structural
   glazing such as dome roofs, pyramids and observation-room enclosures.
-- `stone`, `trim`, `roof`, `recess`, `metal`: the standard architectural swatches.
+- `stone`, `trim`, `roof`, `metal`: the standard architectural swatches.
 - `copper`, `patina`: approved weathered metal variants.
 - `stone` uses Clair's light 3D building color (`#efe4d3`); `trim` and `roof`
   echo its paving and cool infrastructure colors. This keeps ordinary Paris
@@ -24,9 +23,10 @@ properties, image textures, transparency and material extensions fail validation
 - `invalides-gold` is the restrained gilded finish for the mapped Invalides
   dome and its roof ribs.
 
-Use `recess` for dark stone or clock hands, not window glazing. A model still has
-at most six materials and six triangle draw calls, even though the library offers
-more choices. Image textures are currently an empty allowlist.
+Window-like openings use `window`. Doors, blind arcades, roofs and clock hands
+use the matching stone, roof or metal swatch. A model still has at most six
+materials and six triangle draw calls, even though the library offers more
+choices. Image textures are currently an empty allowlist.
 
 The limits protect map performance, but they are not a request to remove a
 building's defining features. A new color or finish can be added to this shared

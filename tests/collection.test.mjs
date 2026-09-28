@@ -105,6 +105,7 @@ test('all local page links resolve; gallery loads no renderer or models eagerly'
   }
   const home = await readFile(new URL('index.html',output),'utf8');
   assert(!home.includes('.glb')); assert(!home.includes('modulepreload'));
+  assert.match(home, /class="hero-art" href="\/landmarks\/sacre-coeur\/"/);
   const client = await readFile(new URL('site/client.js',output),'utf8');
   assert(client.length < 4000); assert(client.includes('import('));
 });

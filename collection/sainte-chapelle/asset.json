@@ -18,8 +18,8 @@
     },
     "detail": {
       "url": "detail.glb",
-      "bytes": 184044,
-      "sha256": "171f51727bd575f0db445211d37023364a06937e65009d13a8844973561517a9"
+      "bytes": 183176,
+      "sha256": "ff6062e45cdfe2e35888e7dd682743fe779cebb132c60073a3a44258786c0829"
     }
   },
   "triangles": 3771,

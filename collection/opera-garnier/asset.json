@@ -13,13 +13,13 @@
   "lods": {
     "low": {
       "url": "low.glb",
-      "bytes": 247908,
-      "sha256": "ddb186035393f9673a1d88ba7b1394bc5c0c7bb4936e13169b4527979de095c2"
+      "bytes": 247060,
+      "sha256": "2317793f419c6311bfbcccada1b2f9a8178b42fca2743213ea189d3a05c67b42"
     },
     "detail": {
       "url": "detail.glb",
-      "bytes": 1449484,
-      "sha256": "e8c3ecc52f1cee260c0f4e5be2bb4690a97fae1844b6c3ee32bd78415946f638"
+      "bytes": 1448624,
+      "sha256": "1ebaa5342431ce7d395315fc11dc0fcb98c0ab4722f5f656ac48e5f374d2e088"
     }
   },
   "triangles": 34691,
@@ -988,7 +988,7 @@
     "Side facades: two storeys of round-arched windows between pilasters, attic lights and cornice at 26 m, interpreted from general views; the Pavillon de l'Empereur ramp is a simplified double ramp hugging the west rotunda within 2 m of the plan.",
     "Fly tower articulation (inferred from general views): corner buttresses, 7 pilastered bays per side with a blind arcade, arched windows and attic lights, storey/attic bands and cornice, double raking cornices on both gables, copper roof with 9 standing seams and a ridge crest, rearing Pegasus masses on the rear corners.",
     "Roofscape: copper hipped roofs with ridges over the side-wing strips, rotunda wings, rear blocks and the 35 m terraces, plus small skylight lanterns; long side facades get a projecting central avant-corps with a raised attic.",
-    "Roofs: copper mansard slopes on the 31-35 m main block, a copper foyer ridge, a copper-roofed lantern over the grand staircase (inferred size) and a copper skirt round the drum; flat terraces are dark zinc (library \"recess\"). The east rotunda axis is nudged 0.6 m west of part 990 so its cornice stays within the jagged OSM outline.",
+    "Roofs: copper mansard slopes on the 31-35 m main block, a copper foyer ridge, a copper-roofed lantern over the grand staircase (inferred size) and a copper skirt round the drum; flat terraces use the cool roof swatch. The east rotunda axis is nudged 0.6 m west of part 990 so its cornice stays within the jagged OSM outline.",
     "Sculpture (the four ground-floor groups, the gilded roof groups, Apollo, busts, masks, medallions) is represented by original abstract masses; gold uses the library \"pompidou-yellow\" finish in the roof slot, copper roofs use \"copper\" in the metal slot. No sculpture replicas, textures or Mapbox geometry."
   ],
   "source": "source.blend.gz",
