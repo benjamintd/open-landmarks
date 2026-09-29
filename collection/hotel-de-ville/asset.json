@@ -13,26 +13,26 @@
   "lods": {
     "low": {
       "url": "low.glb",
-      "bytes": 133648,
-      "sha256": "2b063514ab5474f54df4967fd1ffe1c2c2e76824932c82e10903d14605dcdc30"
+      "bytes": 244212,
+      "sha256": "ac28ac8f837290962d086a8b402d6f6657f3d4a43cb6074f5209b259db012a70"
     },
     "detail": {
       "url": "detail.glb",
-      "bytes": 1168392,
-      "sha256": "9ba7b2f9cffe01831fd4f2874bbc58796959a0ea8deb2528c55e25abe1dc9477"
+      "bytes": 1423788,
+      "sha256": "cd4472649544795841a6434d442313a2923e982c8682de324494657f5f9703fa"
     }
   },
-  "triangles": 24027,
+  "triangles": 29606,
   "boundsBlenderM": [
     [
-      -66.22014617919922,
-      -83.09749603271484,
+      -66.75857543945312,
+      -83.01319122314453,
       0
     ],
     [
-      61.4539794921875,
-      81.59203338623047,
-      40
+      61.683197021484375,
+      81.86966705322266,
+      50
     ]
   ],
   "entranceLights": [],
@@ -3442,10 +3442,10 @@
     "checks": {}
   },
   "modelingNotes": [
-    "The saved outline and all three courtyard voids control the plan. OSM provides 40 m overall height but no part heights.",
-    "Main eaves 21 m, six taller pavilion roofs and the west-facing clock belfry are inferred from reviewed facade photographs and mapped pavilion plans.",
-    "The main roof now carries a sparse rhythm of fitted dormers between the raised pavilions. Their spacing, windows, cornices and roof finials are schematic; sculpture is omitted and the central tower reaches 40 m.",
-    "Detail LOD: the west-facing plaza elevation receives three arched portal accents, continuous floor bands and eave cornice, three framed window storeys and pavilion pilasters. The clock roof is replaced by an open eight-column belfry and slate cupola, reaching the same 40 m. Counts and orders are interpretations of the selected west-facade photographs, not surveyed restoration."
+    "Plan: orthogonal re-drawing of the saved OSM outline in a frame rotated 20 deg to its dominant edge (every facade line within ~0.5 m of OSM), keeping the two large courts and the small light court open. West facade breaks read from the OSM outline: centre body 34.8 m between the flank pavilions (u=-45.4) with 8 pier projections at 4.3 m centres (7 bays, axis w=-1.7), 6.8 m recessed portal bays (u=-44.9) and 6.9 m projecting outer blocks (u=-46.3) of the flank pavilions, recessed wings and projecting corner pavilions.",
+    "Researched (fr.wikipedia \"Hôtel de ville de Paris\"): main facade 143 m long, centre section 18.8 m high, corner pavilions 26.8 m, campanile 50 m. The model therefore tops out at the 50 m campanile finial instead of the 40 m OSM building height; main cornice/balustrade 17.7-18.8 m, pavilion cornices 26.5 m.",
+    "Inferred from Commons references 00-05 scaled to those heights: ground floor to 8.6 m, first-floor tall mullioned windows 9.6-14.4 m between niche statues and paired colonnettes, frieze 15.4 m; wings have three storeys under the same cornice; flank-pavilion attic 18.8-26.2 m; truncated slate pavilion roofs 26.4-36.4 m (~65 deg) with metal crests, tall chimney stacks to 38.6 m and pointed corner turrets; centre roof ridge 29.6 m; clock (r 1.25 m) at 21 m in a stone frontispiece rising to 28.4 m; campanile base 22-31.2 m, two octagonal open stages, lead dome and lantern.",
+    "Simplified: the ~146 facade statues are abstract masses on consoles in a regular rhythm (west, north and south fronts and pavilions), dormers are stone lucarnes with pediments on every wing bay, roofs of the inner ranges are a generic 56 deg slate mansard with a low top, plus the mapped glass roof of the central hall and the Salle des fêtes roof. East facade and courts use the same storey grammar with plainer windows. No sculpture replicas, textures or Mapbox geometry."
   ],
   "source": "source.blend.gz",
   "spatialSource": "spatial-source.json",

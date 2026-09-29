@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 2,
+  "release": "publication-645e92a7fe3cd63b21d4",
+  "parent": {
+    "release": "publication-829a1ee60e57fa8abf57",
+    "sha256": "02c716d154f7e39e83551386b9032c2cb84c80cd6b523f6223f97df29464cb40"
+  },
+  "channels": {
+    "latest": {
+      "schemaVersion": 1,
+      "channel": "approved",
+      "release": null,
+      "count": 0,
+      "catalogue": null,
+      "status": "no-release"
+    },
+    "preview": {
+      "schemaVersion": 1,
+      "channel": "preview",
+      "release": "preview-2c3add7053d506a1e47d",
+      "count": 71,
+      "catalogue": "/api/v1/releases/preview-2c3add7053d506a1e47d/catalogue.json"
+    }
+  },
+  "files": {
+    "api/v1/releases/preview-2c3add7053d506a1e47d/assets.json": "f4cb81565b4c541eb630276c3ff3f20a99d55ec11b1d957e88e19123d885be52",
+    "api/v1/releases/preview-2c3add7053d506a1e47d/catalogue.json": "3b4c04ba6ec8c51a28f944c457a1f8a10a814915e09f9f2706833aeab60d17cc",
+    "api/v1/releases/preview-2c3add7053d506a1e47d/index/12/2073/1408.json": "c6052d990258c23bdd4c08aef59f8f32970e367b6c8ce196cde799e0ed950af6",
+    "api/v1/releases/preview-2c3add7053d506a1e47d/index/12/2073/1409.json": "8a62b676a63aa53e308a666d71bb7ebd5a10c3fefdd9034e934bd21a020e390a",
+    "api/v1/releases/preview-2c3add7053d506a1e47d/index/12/2074/1408.json": "fd4d8c1fcebf3bc1d068e9c63f63e2bcef79c7e57e9ac175661bc7161d3a65ab",
+    "api/v1/releases/preview-2c3add7053d506a1e47d/index/12/2074/1409.json": "8561c74feedb2baca43e072a90698eb3ba391592d61651dec76c758f4dba4ed0",
+    "api/v1/releases/preview-2c3add7053d506a1e47d/index/12/2075/1408.json": "a4c830d8f3fff48b51341c5eeb18b923f2fc894431f10020c31a5cbac458d707",
+    "api/v1/releases/preview-2c3add7053d506a1e47d/index/12/2075/1409.json": "61e0b7d1ca8a75b5abcf46e549518ca9c362a9d13c953edb53cb0001fc934ba5",
+    "api/v1/releases/preview-2c3add7053d506a1e47d/spatial-database.json": "6c2655577c500bc0648be75afe201ec792015192b7917a917e7cb5f014d350c5",
+    "assets/hotel-de-ville/45210a11874968ec880e30053708d0eb207c2f771498f4faa21d9680faf3f961/asset.json": "f0d81579dedeb614ad54998fde78adcf1be165665dd7dfe5c047f1a58ed9eb45",
+    "assets/hotel-de-ville/45210a11874968ec880e30053708d0eb207c2f771498f4faa21d9680faf3f961/validation.json": "ff5bcb4c932ffa1c96abbddc7b28ccbce062295a58afbd9d78d428b991f964d3",
+    "models/hotel-de-ville/ac28ac8f837290962d086a8b402d6f6657f3d4a43cb6074f5209b259db012a70/low.glb": "ac28ac8f837290962d086a8b402d6f6657f3d4a43cb6074f5209b259db012a70",
+    "models/hotel-de-ville/ac28ac8f837290962d086a8b402d6f6657f3d4a43cb6074f5209b259db012a70/low.glb.gz": "0e352b76cf75e76398c29c0d2cbc6847347894f93076fb1e0cff615e7ab3f07e",
+    "models/hotel-de-ville/cd4472649544795841a6434d442313a2923e982c8682de324494657f5f9703fa/detail.glb": "cd4472649544795841a6434d442313a2923e982c8682de324494657f5f9703fa",
+    "models/hotel-de-ville/cd4472649544795841a6434d442313a2923e982c8682de324494657f5f9703fa/detail.glb.gz": "a9101337af9c2da759fde748e2f971b57ce8df3958fb6d5035c74b7208b74ee6",
+    "objects/dab30cf429b8e935ce3d439cc5162e3744991822d193f8b432eb52cef1d6c734/source.blend.gz": "dab30cf429b8e935ce3d439cc5162e3744991822d193f8b432eb52cef1d6c734",
+    "objects/deebe32b0690b619d6438be45bdea6637aafa0b53f7abee017d19276fbe21d2c/preview.webp": "deebe32b0690b619d6438be45bdea6637aafa0b53f7abee017d19276fbe21d2c"
+  }
+}
