@@ -1,0 +1,659 @@
+{
+  "id": "la-canopee-des-halles",
+  "name": "La Canopée des Halles",
+  "anchor": [
+    2.3471499639200575,
+    48.861899372902336
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 225476,
+      "sha256": "3d25a45480f2cb73332ff07802315ea31676a890abf5cf653e27f2b5cd0dd9d7"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 1138660,
+      "sha256": "56aef483ce550e68c5762c6ea9e3531cccfe103cb5f4236b1e80598709c2a691"
+    }
+  },
+  "triangles": 33830,
+  "boundsBlenderM": [
+    [
+      -83.68828582763672,
+      -88.46212005615234,
+      0
+    ],
+    [
+      81.65982818603516,
+      88.87981414794922,
+      15.300004005432129
+    ]
+  ],
+  "entranceLights": [
+    [
+      45.741,
+      0.04,
+      27.615
+    ]
+  ],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          2.347789,
+          48.8615193
+        ],
+        [
+          2.3477929,
+          48.8615169
+        ],
+        [
+          2.3477986,
+          48.8615118
+        ],
+        [
+          2.3478024,
+          48.8615057
+        ],
+        [
+          2.3478041,
+          48.8614987
+        ],
+        [
+          2.3478046,
+          48.8614937
+        ],
+        [
+          2.3478048,
+          48.8614915
+        ],
+        [
+          2.3478042,
+          48.8614822
+        ],
+        [
+          2.3478023,
+          48.861466
+        ],
+        [
+          2.3477966,
+          48.8614305
+        ],
+        [
+          2.3477902,
+          48.8613825
+        ],
+        [
+          2.347787,
+          48.8613353
+        ],
+        [
+          2.3477831,
+          48.8613309
+        ],
+        [
+          2.3477798,
+          48.8613134
+        ],
+        [
+          2.3477741,
+          48.8612945
+        ],
+        [
+          2.3477479,
+          48.8612435
+        ],
+        [
+          2.3477412,
+          48.8612298
+        ],
+        [
+          2.3477365,
+          48.8612208
+        ],
+        [
+          2.3477357,
+          48.8612193
+        ],
+        [
+          2.3477305,
+          48.86121
+        ],
+        [
+          2.3477241,
+          48.8612003
+        ],
+        [
+          2.3477149,
+          48.8611895
+        ],
+        [
+          2.3476651,
+          48.8611414
+        ],
+        [
+          2.3476567,
+          48.8611348
+        ],
+        [
+          2.347647,
+          48.8611286
+        ],
+        [
+          2.3476363,
+          48.8611226
+        ],
+        [
+          2.3476249,
+          48.861118
+        ],
+        [
+          2.3476138,
+          48.8611141
+        ],
+        [
+          2.3476019,
+          48.8611107
+        ],
+        [
+          2.3475902,
+          48.861108
+        ],
+        [
+          2.3475778,
+          48.861106
+        ],
+        [
+          2.3475647,
+          48.8611045
+        ],
+        [
+          2.3475521,
+          48.8611039
+        ],
+        [
+          2.3475382,
+          48.8611043
+        ],
+        [
+          2.347524,
+          48.8611055
+        ],
+        [
+          2.3475117,
+          48.8611075
+        ],
+        [
+          2.3473665,
+          48.8611419
+        ],
+        [
+          2.3472216,
+          48.8611764
+        ],
+        [
+          2.3471781,
+          48.8611859
+        ],
+        [
+          2.3471169,
+          48.8612012
+        ],
+        [
+          2.3468144,
+          48.861277
+        ],
+        [
+          2.346598,
+          48.8613291
+        ],
+        [
+          2.3465755,
+          48.8613351
+        ],
+        [
+          2.3464837,
+          48.8613568
+        ],
+        [
+          2.3464708,
+          48.8613599
+        ],
+        [
+          2.3464116,
+          48.8613742
+        ],
+        [
+          2.3463519,
+          48.8613884
+        ],
+        [
+          2.3462545,
+          48.8614119
+        ],
+        [
+          2.3460203,
+          48.8614683
+        ],
+        [
+          2.3460273,
+          48.8614822
+        ],
+        [
+          2.3460094,
+          48.861486
+        ],
+        [
+          2.34603,
+          48.8615298
+        ],
+        [
+          2.3460535,
+          48.8615706
+        ],
+        [
+          2.3460867,
+          48.8616147
+        ],
+        [
+          2.3461423,
+          48.8616873
+        ],
+        [
+          2.346206,
+          48.8617782
+        ],
+        [
+          2.3462442,
+          48.8618333
+        ],
+        [
+          2.3462871,
+          48.8619048
+        ],
+        [
+          2.3463287,
+          48.8619789
+        ],
+        [
+          2.3463683,
+          48.8620521
+        ],
+        [
+          2.3464018,
+          48.8621201
+        ],
+        [
+          2.346436,
+          48.8622039
+        ],
+        [
+          2.3464715,
+          48.8622978
+        ],
+        [
+          2.3465084,
+          48.8624127
+        ],
+        [
+          2.3465329,
+          48.862482
+        ],
+        [
+          2.346553,
+          48.8625285
+        ],
+        [
+          2.3466036,
+          48.8626212
+        ],
+        [
+          2.346628,
+          48.8626599
+        ],
+        [
+          2.3466544,
+          48.8626972
+        ],
+        [
+          2.3466717,
+          48.8626934
+        ],
+        [
+          2.3466746,
+          48.8626986
+        ],
+        [
+          2.3466925,
+          48.8626944
+        ],
+        [
+          2.3467524,
+          48.8626808
+        ],
+        [
+          2.3468599,
+          48.8626578
+        ],
+        [
+          2.3469403,
+          48.8626393
+        ],
+        [
+          2.3470442,
+          48.8626153
+        ],
+        [
+          2.3472209,
+          48.862576
+        ],
+        [
+          2.3474059,
+          48.862534
+        ],
+        [
+          2.3477091,
+          48.8624651
+        ],
+        [
+          2.3477788,
+          48.8624493
+        ],
+        [
+          2.3480664,
+          48.8623827
+        ],
+        [
+          2.348145,
+          48.8623649
+        ],
+        [
+          2.3481711,
+          48.862358
+        ],
+        [
+          2.3481875,
+          48.8623525
+        ],
+        [
+          2.3481992,
+          48.8623479
+        ],
+        [
+          2.3482103,
+          48.8623426
+        ],
+        [
+          2.3482193,
+          48.8623371
+        ],
+        [
+          2.3482374,
+          48.8623247
+        ],
+        [
+          2.3482452,
+          48.8623179
+        ],
+        [
+          2.3482519,
+          48.8623095
+        ],
+        [
+          2.3482562,
+          48.8623025
+        ],
+        [
+          2.3482591,
+          48.8622959
+        ],
+        [
+          2.3482619,
+          48.8622848
+        ],
+        [
+          2.3482629,
+          48.8622753
+        ],
+        [
+          2.3482626,
+          48.8622647
+        ],
+        [
+          2.3482562,
+          48.8622206
+        ],
+        [
+          2.3482505,
+          48.8621973
+        ],
+        [
+          2.3482348,
+          48.8621617
+        ],
+        [
+          2.3481877,
+          48.8620734
+        ],
+        [
+          2.3481469,
+          48.861997
+        ],
+        [
+          2.3481359,
+          48.8619773
+        ],
+        [
+          2.3481221,
+          48.8619575
+        ],
+        [
+          2.3481043,
+          48.8619361
+        ],
+        [
+          2.3480822,
+          48.8619149
+        ],
+        [
+          2.3480066,
+          48.861841
+        ],
+        [
+          2.3479686,
+          48.8618038
+        ],
+        [
+          2.3479639,
+          48.8618004
+        ],
+        [
+          2.3479568,
+          48.8617978
+        ],
+        [
+          2.3479471,
+          48.861796
+        ],
+        [
+          2.3479406,
+          48.8617963
+        ],
+        [
+          2.3477932,
+          48.8617059
+        ],
+        [
+          2.3477831,
+          48.8616982
+        ],
+        [
+          2.3477746,
+          48.8616893
+        ],
+        [
+          2.3477676,
+          48.861681
+        ],
+        [
+          2.3477627,
+          48.8616721
+        ],
+        [
+          2.347759,
+          48.8616624
+        ],
+        [
+          2.3477573,
+          48.8616533
+        ],
+        [
+          2.3477565,
+          48.8616428
+        ],
+        [
+          2.3477562,
+          48.8616331
+        ],
+        [
+          2.347758,
+          48.8616217
+        ],
+        [
+          2.3477607,
+          48.8616114
+        ],
+        [
+          2.3477697,
+          48.8615763
+        ],
+        [
+          2.3477822,
+          48.8615277
+        ],
+        [
+          2.3477838,
+          48.8615214
+        ],
+        [
+          2.347789,
+          48.8615193
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 630511331,
+    "version": 15,
+    "timestamp": "2025-09-10T08:05:05Z",
+    "url": "https://www.openstreetmap.org/way/630511331"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 630213860,
+      "version": 17,
+      "timestamp": "2025-09-10T08:05:04Z",
+      "url": "https://www.openstreetmap.org/way/630213860"
+    },
+    {
+      "type": "way",
+      "id": 630222417,
+      "version": 15,
+      "timestamp": "2025-09-10T08:05:00Z",
+      "url": "https://www.openstreetmap.org/way/630222417"
+    }
+  ],
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0",
+  "references": [
+    {
+      "title": "File:Canopée des Halles, Paris (36551928931).jpg",
+      "author": "xiquinhosilva from Cacau",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Canop%C3%A9e_des_Halles,_Paris_(36551928931).jpg",
+      "sourceSha1": "8020a23818e724ef30c9da5bef81c4aff760b296",
+      "use": "visual-reference-only",
+      "view": "interior view of patio, roof and stairs"
+    },
+    {
+      "title": "File:Forum des Halles.jpg",
+      "author": "Benjamin Laible",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Forum_des_Halles.jpg",
+      "sourceSha1": "f42dee2450c073239b35d003b92d8b86bf836038",
+      "use": "visual-reference-only",
+      "view": "interior, roof underside with ribs and lamellae"
+    },
+    {
+      "title": "File:Forum des Halles (36551935021).jpg",
+      "author": "xiquinhosilva from Cacau",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Forum_des_Halles_(36551935021).jpg",
+      "sourceSha1": "4c99b6d96b7063cbaf7e156aa1caee937286acca",
+      "use": "visual-reference-only",
+      "view": "interior patio view, wings and lamellae roof"
+    },
+    {
+      "title": "File:Forum des Halles Entrée Jardin.jpg",
+      "author": "Thomon",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Forum_des_Halles_Entr%C3%A9e_Jardin.jpg",
+      "sourceSha1": "5551baeac73c649a8acdcfc41a02c8a649dab13f",
+      "use": "visual-reference-only",
+      "view": "interior of the patio: roof underside lamellae and ribs, flanking glazed wings"
+    },
+    {
+      "title": "File:Paris Les Halles - La canopee panoramique.jpg",
+      "author": "Jmdigne",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Paris_Les_Halles_-_La_canopee_panoramique.jpg",
+      "sourceSha1": "66934f321e71415c51f0c8d093d81bf03ca825b0",
+      "use": "visual-reference-only",
+      "view": "exterior panorama from the south-east during 2015 works: golden roof, tall arched glazed east gable"
+    }
+  ],
+  "aliases": [],
+  "authors": [
+    "Open Landmarks contributors"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted architectural interpretation and procedural recipe authoring; deterministic Python/Blender export. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "OSM (retrieved 2026-09-29): three unnamed ways form the Canopee footprint: way/630511331 (building=roof, roof:material=glass, 8,636 m2, the central band that carries the patio), way/630213860 and way/630222417 (building=retail, 3 levels, 5,795 and 3,637 m2, the north and south wings). Their union (18,067 m2, about 147 x 130 m in its minimum rectangle) is the footprint; the registry row asserts identity (Wikidata Q15977258). No height or parts are mapped, so all heights are researched, not OSM.",
+    "Researched: Wikipedia (fr) La Canopee: culminates at 14.5 m above ground, Porte Lescot 26 m wide; Fayat / Metalocus / AMC / Architizer: roof of about 2.5 ha, 6,000-7,000 t of golden-lacquered steel ribs \"like bones\" with a skin of ~18,000 glass shingles (14,000 m2), 17 louvre ribs spanning up to 96 m, curvilinear \"leaf\" form, two public buildings (Conservatoire south, cultural centre north) around a central patio.",
+    "Inferred from the Commons references (panorama 66934f32, Forum des Halles 4c99b6d9/5551baea/f42dee24, model photo d72af72a): one smooth shell that falls from the crest (14.4 m) at the rim of the central opening to a low flowing eave (6-7 m) at the outline, rising to an arched glazed gable at the east throat (Porte Lescot). The opening is an organic oval about 62 x 44 m (scaled to the band between the wings); the roof is carried on 300 radial stepped lamella strips (each 3-5 m wide here, versus ~18,000 real shingles), 25 radial ribs, 4 ring ribs and a rim beam; 34 perimeter columns and 14 rim columns. The two wings are set 2 m in under the canopy with green-tinted glass skins. All shell curvature, rib pitch and column positions are schematic readings.",
+    "Deviation: the sunken Pina Bausch patio and the underground forum levels cannot be modelled below the z=0 garden plane; the opening is a void in the plaza slab with a stone parapet. Stair/escalator cascades and signage are omitted.",
+    "Palette (6): trim slot = invalides-gold (glass shell), metal = golden steel ribs/columns/mullions, glass = curtain-wall and wing glazing, roof = wing roof slabs, stone = plaza slab/plinth/parapet, entrance = Porte Lescot frame. No window material: there are no wall openings."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp",
+  "previewDirection": [
+    -0.9,
+    0.7,
+    1.1
+  ]
+}

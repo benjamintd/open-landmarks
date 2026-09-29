@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 2,
+  "release": "publication-829a1ee60e57fa8abf57",
+  "parent": {
+    "release": "publication-0df901ec63d9bd729e4f",
+    "sha256": "cd224de2497406c2251d6271892d81be252278c1321a60fd3452595cfa8d7441"
+  },
+  "channels": {
+    "latest": {
+      "schemaVersion": 1,
+      "channel": "approved",
+      "release": null,
+      "count": 0,
+      "catalogue": null,
+      "status": "no-release"
+    },
+    "preview": {
+      "schemaVersion": 1,
+      "channel": "preview",
+      "release": "preview-ff52a153f945aa893d31",
+      "count": 71,
+      "catalogue": "/api/v1/releases/preview-ff52a153f945aa893d31/catalogue.json"
+    }
+  },
+  "files": {
+    "api/v1/releases/preview-ff52a153f945aa893d31/assets.json": "a6dd6205e94e0ad16af46f5db77f1a36cd2a3f319de95e3f98d3690eee6131ba",
+    "api/v1/releases/preview-ff52a153f945aa893d31/catalogue.json": "f50ac26b89a760ef1fd4dc6506d39d2665afd97a60756bbb21c9f46adcd27b90",
+    "api/v1/releases/preview-ff52a153f945aa893d31/index/12/2073/1408.json": "52755b9cac20c51bd2cfab7a14f3feaba9f067a951627c8ddc1d654ef1f68f7b",
+    "api/v1/releases/preview-ff52a153f945aa893d31/index/12/2073/1409.json": "ade65f9a9ea49d05932d3a1d25b3e750896dad872f77e1a90d47c9538997a745",
+    "api/v1/releases/preview-ff52a153f945aa893d31/index/12/2074/1408.json": "37b2065448d4932d2d97dd002e59360d86afb5dd9579b2c84f759dc233dcd617",
+    "api/v1/releases/preview-ff52a153f945aa893d31/index/12/2074/1409.json": "019b1db82c6e4128d5e4e6d2fa03a15a3887b110150e4aacb7b49a46e22fc9e8",
+    "api/v1/releases/preview-ff52a153f945aa893d31/index/12/2075/1408.json": "7af89950a89675bbbc6ffb96df3bda281bf44e212e5abd11db7bd1f505bb3df5",
+    "api/v1/releases/preview-ff52a153f945aa893d31/index/12/2075/1409.json": "59f7a636563c41bd86d7505fc97031487bef376e7a21291a87231740151b655b",
+    "api/v1/releases/preview-ff52a153f945aa893d31/spatial-database.json": "6c2655577c500bc0648be75afe201ec792015192b7917a917e7cb5f014d350c5",
+    "assets/la-canopee-des-halles/4f167555650f2ee62d1c9178e4effcf217ebe87ae1614577fea2f4c9ba97d800/asset.json": "5058cadc9bc52bc0132bc0577e984a350f0a3dca9684d0ebae7b45b119905b29",
+    "assets/la-canopee-des-halles/4f167555650f2ee62d1c9178e4effcf217ebe87ae1614577fea2f4c9ba97d800/validation.json": "4940daabc265173a2bf3d42f9d7bcce1122c271bc830a2aa1f5026a3b904c3c6",
+    "models/la-canopee-des-halles/3d25a45480f2cb73332ff07802315ea31676a890abf5cf653e27f2b5cd0dd9d7/low.glb": "3d25a45480f2cb73332ff07802315ea31676a890abf5cf653e27f2b5cd0dd9d7",
+    "models/la-canopee-des-halles/3d25a45480f2cb73332ff07802315ea31676a890abf5cf653e27f2b5cd0dd9d7/low.glb.gz": "7bbb33065a1dc8a28784009813dbfb7f220ee40701e30822d6100d55c71e928f",
+    "models/la-canopee-des-halles/56aef483ce550e68c5762c6ea9e3531cccfe103cb5f4236b1e80598709c2a691/detail.glb": "56aef483ce550e68c5762c6ea9e3531cccfe103cb5f4236b1e80598709c2a691",
+    "models/la-canopee-des-halles/56aef483ce550e68c5762c6ea9e3531cccfe103cb5f4236b1e80598709c2a691/detail.glb.gz": "3c570753b23d6c2b507332acd74f49e1ace98550711d8a3f29d317ac0479ab14",
+    "objects/7e3ce37f2f48616be8cf47304f542abf116a3c0b1f7c6937c3da7936c3845f04/source.blend.gz": "7e3ce37f2f48616be8cf47304f542abf116a3c0b1f7c6937c3da7936c3845f04",
+    "objects/9c784b30a110ffd5c7f49b955c483256d5d1a87b642d7259d20f80453178bd49/preview.webp": "9c784b30a110ffd5c7f49b955c483256d5d1a87b642d7259d20f80453178bd49",
+    "objects/f7ceb7e7cbf03de08df1df837b5af5fb054d1a571fdb9f5c2a9e816799178543/spatial-source.json": "f7ceb7e7cbf03de08df1df837b5af5fb054d1a571fdb9f5c2a9e816799178543"
+  }
+}
