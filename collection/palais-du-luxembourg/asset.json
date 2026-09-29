@@ -13,16 +13,16 @@
   "lods": {
     "low": {
       "url": "low.glb",
-      "bytes": 141236,
-      "sha256": "4bc4471498a38035e050845524d85bbd2ab45d83457f57732d3fe50583527705"
+      "bytes": 177452,
+      "sha256": "180118ce13b83a8fcf6757b0dc8ff1b3b343484b59ba660bdc82a0d5c2b6a0ea"
     },
     "detail": {
       "url": "detail.glb",
-      "bytes": 141236,
-      "sha256": "bad24e334a37ae6947d4ef8f347b26a8c3f7575bfbf83152221438ba953343ba"
+      "bytes": 1205448,
+      "sha256": "b0896f3ce2d0b1acd00508e4f30e44f1f105731fefe94c17fd6d00a473cfddc8"
     }
   },
-  "triangles": 2837,
+  "triangles": 29368,
   "boundsBlenderM": [
     [
       -68.37206268310547,
@@ -30,7 +30,7 @@
       0
     ],
     [
-      50.83207321166992,
+      50.743980407714844,
       85.17138671875,
       32
     ]
@@ -1192,9 +1192,11 @@
     "checks": {}
   },
   "modelingNotes": [
-    "The outline, three courtyard voids and 86 mapped parts preserve the palace hierarchy. Detailed part heights supersede the 25 m outline tag.",
-    "Quadruple-saltbox pavilion roofs are approximated by courtyard-aware setback profiles; mapped roof heights remain unchanged.",
-    "Window elevations and cornice accents are inferred from the reviewed garden facade. Sculpture, roof statuary and most individual chimneys are omitted."
+    "Plan: the saved OSM footprint (courtyard voids kept open) and the mapped building:part ways. Walls are extruded from the union of parts per height slice, set back 0.45 m so cornices, string courses and plinths project exactly to the OSM outline.",
+    "Heights from OSM: six main pavilions with 23.6 m walls and quadruple-saltbox slate roofs to 31.2 m (wall part + roof part merged), two rear-court pavilions 21.4 m walls + 9.4 m hipped roofs to 30.8 m, linking wings 23.1 m + 3.7 m, the cross range 20.1 m + 6.6 m mansard, courtyard wings 16 m + 6 m gables (22 m), garden clock pavilion 21.1 m with dome to 28.2 m and lantern to 31.4 m, rue de Vaugirard gate pavilion 15.6 m with a 21.5 m drum and dome to 25.7/28.8 m, chimneys to 32 m (exported total height stays 32 m).",
+    "Researched (Wikipedia \"Luxembourg Palace\"): Salomon de Brosse 1615-1631 for Marie de Medici after the Palazzo Pitti, rusticated Florentine-inspired garden front, garden wing rebuilt by Gisors 1835-56 copying the 17th-c. front, symmetrical garden facade of pavilions around a central domed clock pavilion (Commons refs 00-05).",
+    "Inferred from the references and OSM: four-level grammar (arched rusticated ground storey, tall piano-nobile windows with alternating triangular/segmental hoods, upper storeys, cornice), steep lower mansard slope with dormers then a shallow upper slope, iron cresting and glazed skylight on each pavilion top, paired chimneys, the four free-standing columns (OSM column ways) and segmental clock pediment of the garden pavilion, the 24 OSM column ways of the rue de Vaugirard gate pavilion, the arched gallery closing the cour d'honneur.",
+    "Garden-front wings between the pavilions: OSM only gives 16.2 m walls and a raised 23 m strip behind; here they get a steep front slope to 21.6 m and a flat top up to the 23 m wall. The Senate hemicycle is a half-cone behind. Sculpture, the Medici fountain side and the western lot (outline only) are not modelled; the west lot is a low slab."
   ],
   "source": "source.blend.gz",
   "spatialSource": "spatial-source.json",

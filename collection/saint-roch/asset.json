@@ -13,16 +13,16 @@
   "lods": {
     "low": {
       "url": "low.glb",
-      "bytes": 240676,
-      "sha256": "562ff89858cddd0e4f759d9b5a1e6a0218ce137d7f09bfd43f569e1f0fd68106"
+      "bytes": 185868,
+      "sha256": "22baad391ab3336b1a1ae433363d29af5cd52a6de7a9ba77cadfe3604298ba0a"
     },
     "detail": {
       "url": "detail.glb",
-      "bytes": 240676,
-      "sha256": "1576ea09b7e0589f0ead9d3a3a2295243cf3dabdd53531be440a04ee4e95fa41"
+      "bytes": 729892,
+      "sha256": "b30dd5f0d35ff71b0d1833927a32dbf68327fb8326b7b93de86f518672cdd5c2"
     }
   },
-  "triangles": 5733,
+  "triangles": 18977,
   "boundsBlenderM": [
     [
       -45.80406951904297,
@@ -30,8 +30,8 @@
       0
     ],
     [
-      44.47625732421875,
-      56.71061706542969,
+      44.52190017700195,
+      56.76309585571289,
       30
     ]
   ],
@@ -1241,9 +1241,10 @@
     "checks": {}
   },
   "modelingNotes": [
-    "The saved footprint and three roof-part outlines control the plan. OSM contains no heights: nave eave 22 m, ridge 29 m and chapel dome top 30 m are provisional visual inferences, requiring height review.",
-    "Cross/apse gables are approximated with the shared mapped gable primitive. The lower outline envelope is inferred at 12 m; no courtyard is filled.",
-    "The reviewed Rue Saint-Honoré facade shows paired classical columns and three entrance doors. Six engaged lower columns and dark inset portals now follow the mapped southwest frontage; their spacing is inferred. Sculpture and the upper portal pediment remain simplified."
+    "OSM: the saved footprint (chapels, transept arms, apse, Lady Chapel ring, rear chapels) and three parts (cross-gabled nave, apse, dome at the Lady Chapel). OSM gives no heights; the published total is kept at the earlier 30 m top (Lady Chapel lantern).",
+    "Registration: model authored in a frame rotated -33.8 deg onto the Rue Saint-Honore facade edge and rotated back, walls built from the footprint set back 0.45 m so cornices stay inside the mapped outline; facade projections are clipped to the jagged front edge (pavilion projects 1.9 m, wings are engaged).",
+    "Facade researched from the Commons reference 00.jpg and Wikipedia \"Eglise Saint-Roch\" (facade of 1736 by Robert de Cotte, completed by Jules-Robert de Cotte, two superposed orders, Doric/Corinthian). Elevation read from the photo: 8 lower columns and 3 doors, upper storey 4 free columns + pilasters, clock window and arch, scroll buttresses, statues on the end pedestals, curved pediment cartouche and cross. Vertical proportions stretched ~12% so the pediment apex is 25.7 m and the cross 27.7 m (below the 30 m Lady Chapel top).",
+    "Inferred: nave/transept eaves 18 m and ridges 23 m, chapel eaves 9.5 m with lean-to roofs, six clerestory bays per side, Lady Chapel drum and ovoid dome to a 30 m lantern, rear chapels 9.5 m with mansard roofs. Sculpture is abstract masses only."
   ],
   "source": "source.blend.gz",
   "spatialSource": "spatial-source.json",

@@ -13,26 +13,26 @@
   "lods": {
     "low": {
       "url": "low.glb",
-      "bytes": 168108,
-      "sha256": "cf7235d7e2300ab203882fd881176338e5f325568b65fdfabe68db4b55d14818"
+      "bytes": 200520,
+      "sha256": "a40a4fd387f54725e7649758f08491bb9c5b6b3b3bb1b0bea60f82ea076d8293"
     },
     "detail": {
       "url": "detail.glb",
-      "bytes": 168108,
-      "sha256": "cf7235d7e2300ab203882fd881176338e5f325568b65fdfabe68db4b55d14818"
+      "bytes": 759204,
+      "sha256": "2b71d23f40a136435c416fbbf5da18b49340dff62fe497b73ff23945daa6ba82"
     }
   },
-  "triangles": 3101,
+  "triangles": 15202,
   "boundsBlenderM": [
     [
-      -57.413917541503906,
-      -89.41427612304688,
+      -54.85837173461914,
+      -87.50678253173828,
       0
     ],
     [
-      57.40465545654297,
-      87.90534210205078,
-      42
+      54.85837173461914,
+      87.50678253173828,
+      42.400001525878906
     ]
   ],
   "entranceLights": [],
@@ -161,9 +161,11 @@
     "checks": {}
   },
   "modelingNotes": [
-    "The OSM outline and 42 m height set the glazed rectangular volume. No building parts are mapped.",
-    "The Centre Pompidou architectural guide identifies the white external frame, west-side diagonal escalator and blue air, green water and red circulation services. Members and pipe spacing are schematic map-scale interpretations.",
-    "The west escalator is a broad, glazed diagonal circulation tube with red rails and repeated landings. It remains a schematic exterior, not a functioning machine. Blue, green and yellow service runs carry the colour code along the east elevation."
+    "OSM: the saved outline (way/55503397, 42 m, no mapped parts) gives the plan. Its minimum rectangle is 168 x 66 m with the long axis 19.7 deg east of north; the model is authored in that frame and rotated back, every element staying inside the outline (columns at y=+-25, gerberette tips at +-28.4, escalator to y=+30.2 of the +-30.5 edge).",
+    "Researched (Wikipedia \"Centre Pompidou\"; Rogers/Piano/Rice project descriptions): 166 x 60 m, 42 m high, steel superstructure of 14 column lines / 13 bays (12.7 m here), Peter Rice gerberettes carrying the floor trusses, six storeys, glass facades with tie-rod X bracing, colour code blue air / green water / yellow electricity / red circulation.",
+    "Inferred from the Commons references (west piazza view abd70277): outboard columns and tie-rod X over two storeys per bay, glazed tube escalator zig-zagging up the west face with red under-truss and red landings, east face carrying vertical blue ducts, green pipes and red lift shafts. Flight lengths, hoop spacing and lift bays are schematic.",
+    "Palette (6 materials): trim = white steel, roof = grey decks/tie rods, glass = glazing, stone slot = pompidou-blue, terracotta slot = pompidou-red, metal slot = pompidou-green. The yellow electrical conduits are omitted (budget of six).",
+    "Height: columns and roof trusses stay at the mapped 42 m; the escalator tops out at 38.5 m."
   ],
   "source": "source.blend.gz",
   "spatialSource": "spatial-source.json",

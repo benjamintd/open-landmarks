@@ -13,24 +13,24 @@
   "lods": {
     "low": {
       "url": "low.glb",
-      "bytes": 216580,
-      "sha256": "bb749262da99daa489ccb99cc91b4e32f8583df7b44ed75ca1a25e2a9d91c2e3"
+      "bytes": 248056,
+      "sha256": "98f273a7a2bc73e979a7018d3eee95b89d4ca71ddd7c5fe39486c5edec6ca0e5"
     },
     "detail": {
       "url": "detail.glb",
-      "bytes": 217064,
-      "sha256": "ffebb177830da45a02a865449b6ede6914f224fd13dc2092e188f3096b580a51"
+      "bytes": 1410172,
+      "sha256": "ee34f72ddc28a83ff45e8ba8efa59e53046e3c42d77c91a8db87f58e9d15d70e"
     }
   },
-  "triangles": 5008,
+  "triangles": 26831,
   "boundsBlenderM": [
     [
-      -84.63406372070312,
-      -91.42655181884766,
+      -84.82197570800781,
+      -91.63118743896484,
       0
     ],
     [
-      79.14547729492188,
+      79.33911895751953,
       86.04873657226562,
       27.399999618530273
     ]
@@ -1089,11 +1089,11 @@
     "checks": {}
   },
   "modelingNotes": [
-    "The complete mapped 81-part ensemble preserves three courtyard voids, the twelve-column north portico, smaller southern colonnades and 27.4 m pediment ridge.",
-    "Part heights and roof rises use OSM IGN LiDAR HD tags. Mansard and gambrel roofs use simplified inset profiles; domes, gables and skillion roofs retain their mapped heights.",
-    "Reviewed river-front photographs establish the open Corinthian colonnade and triangular pediment; sculptures, column fluting, roof lettering and flags are omitted at map scale.",
-    "Approved copper and structural-glass colors distinguish mapped roof materials; actual facade window panels always use light blue.",
-    "Sparse inferred window rows are constrained to real mapped wall eaves. There are no facade windows on the mapped columns."
+    "OSM: complete 81-part ensemble (IGN LiDAR HD heights): 27.4 m pediment ridge, 4.6 m podium and stair block, twelve mapped river columns (18.4 m to the entablature), four-column courtyard portico (12.4 m), two south colonnades (10.3 m), 19.4 m pyramidal pavilions on rue de l'Universite, 14.8 m mansard/gambrel wings, 20.5 m hemicycle wall arc, copper hall roofs and the glazed library cupolas. Courtyard voids are preserved.",
+    "Published facts (Wikipedia, Palais Bourbon; Assemblee nationale): Poyet river front of twelve Corinthian columns under a Cortot pediment, started 1806 to echo the Madeleine; hemicycle chamber; four-column Corinthian portico on the cour d'honneur added under Louis-Philippe; library lit by cupolas. Sculpture is abstracted to masses on the right plinths.",
+    "Reference photographs 00.jpg (river front from Pont de la Concorde) and 01.jpg (front elevation) give: 12 columns of about 9-10 diameters, five doors between the columns, plain ashlar wings with a modillion cornice and end pilasters, relief panel over each wing, four seated statues on the podium cheeks, pediment tympanum of ~15 figures, inscription frieze.",
+    "Inferred: floor heights and bay rhythm of the mansard wings (three rows of tall windows, dormers on the slate mansard), window counts, door positions on the river wall, statue heights, roof skirt inset, dome profile. Column radius 0.75 m.",
+    "Copper is applied to the metal slot for the copper-tagged hall roofs and the chamber dome; zinc/slate roofs use the roof slot."
   ],
   "source": "source.blend.gz",
   "spatialSource": "spatial-source.json",

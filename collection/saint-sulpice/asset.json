@@ -13,25 +13,25 @@
   "lods": {
     "low": {
       "url": "low.glb",
-      "bytes": 247716,
-      "sha256": "67cb6a7c8db1a24b7e594fb3405418ead62f1364fb0852c77922db473d81889b"
+      "bytes": 185128,
+      "sha256": "8aeafc678890f27ae9e3f2e42fb03bfa7bb3a221ae60a261fb5955623b240f78"
     },
     "detail": {
       "url": "detail.glb",
-      "bytes": 247716,
-      "sha256": "67cb6a7c8db1a24b7e594fb3405418ead62f1364fb0852c77922db473d81889b"
+      "bytes": 1159412,
+      "sha256": "3a0547e062b9014391d821659c678ada5fa3e1665b9a849fbeb94ef57a59ad73"
     }
   },
-  "triangles": 5915,
+  "triangles": 32116,
   "boundsBlenderM": [
     [
-      -61.120418548583984,
-      -34.13418960571289,
+      -61.91919708251953,
+      -34.85747146606445,
       0
     ],
     [
-      64.04558563232422,
-      31.444337844848633,
+      64.49949645996094,
+      32.19168472290039,
       70.30000305175781
     ]
   ],
@@ -597,11 +597,11 @@
     "checks": {}
   },
   "modelingNotes": [
-    "All major volumes follow the 93 mapped OSM parts, including the 42 m nave/transverse roofs, 70.3 m north tower and 66.4 m south tower. Many source heights cite IGN Lidar HD; source values are preserved.",
-    "Mapped columns and elevated horizontal gallery slabs retain actual open spaces across the monumental west facade. The two upper round belfries use real arched voids; stage bottoms, arch dimensions and wall thickness are explicit photo-guided inferences.",
-    "Stone transition drums carry the circular belfries through their sloped mapped roofs, so neither upper stage reads as a detached cap.",
-    "Light-blue glazed panels are limited to broad walls and lower tower stages. Tiny buttresses, columns and upper open belfries are not covered with decorative windows. Cornices and arch profiles are simplified; sculpture, inscriptions and individual balusters are omitted.",
-    "Original mapped copper/lead/zinc/slate roofs are normalized to the approved grey roof palette. The inspected August 2026 facade and roof photographs guide the hierarchy without photographic textures."
+    "Plan: the saved OSM footprint and mapped building:part ways (nave 34 m walls / 42 m roof, transept and its 37.8 m pedimented porches, aisles 17.4 m eaves, chapels, ambulatory, Lady Chapel dome 30.5 m, two towers 66.4 m and 70.3 m, twelve mapped portico columns at 6.3 m spacing on the 2.2 m platform). Built in a frame rotated 7.5 deg to the nave and rotated back so every volume stays on the OSM plan.",
+    "Researched (Wikipedia \"Saint-Sulpice, Paris\" and the Commons references 00-05): the west front is a double colonnade, Ionic over Roman Doric, with loggias behind; Servandoni's pediment was removed after a lightning strike in 1770 and replaced by a balustrade; the north tower was rebuilt 1777-80 (taller, neoclassical) while the south tower stayed about 5 m shorter with unfinished stonework (Wikipedia). Heights are the mapped 70.3 m and 66.4 m.",
+    "Inferred from photos: 6 front and 6 rear Doric columns (r 0.7 m) 2.2-13.2 m, Doric entablature to 15 m, Ionic columns 15-26.4 m over a balustraded loggia with five arched bays, entablature to 28.4 m and balustrade to 29.7 m; five portals and niches on the lower back wall. Towers: Doric/Ionic pilaster stages to 28.4 m, square louvred stage to 55 m, cross-pitched pedimented roof to 58.4 m, then a round belfry (octagonal core, corner colonnettes, arched louvres, balustrade, lead cap).",
+    "Nave, transept, aisles, apse and chapels: wall bays, arched windows, cornices and buttress piers are inferred from the photos and mapped part widths; the mapped 1 m skillion strips are treated as flying buttress ramps. The transept porches (colonnade under pediment) and the roof turrets beside the Lady Chapel are simplified from the mapped 37.8 m / 36 m parts.",
+    "Sculpture, reliefs, the fountain, lucarne dormers and slate coursing are omitted or abstracted; roofs use the grey roof swatch. No Mapbox geometry or textures."
   ],
   "source": "source.blend.gz",
   "spatialSource": "spatial-source.json",

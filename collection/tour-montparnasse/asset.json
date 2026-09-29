@@ -13,25 +13,25 @@
   "lods": {
     "low": {
       "url": "low.glb",
-      "bytes": 198188,
-      "sha256": "b563dc4ca5e833142e713d735a907c262b57fea39c0353c4443fadd956642112"
+      "bytes": 142252,
+      "sha256": "81f5a6347b52ff6cf26604cd85a8a4dc9f6d4ff7341b81378c3abf39e8dfab10"
     },
     "detail": {
       "url": "detail.glb",
-      "bytes": 198188,
-      "sha256": "b563dc4ca5e833142e713d735a907c262b57fea39c0353c4443fadd956642112"
+      "bytes": 362492,
+      "sha256": "4cc4c9a1247c31fc397500b878f55afa5a3346fcf5e1f4464cdf726dbe8e4704"
     }
   },
-  "triangles": 3692,
+  "triangles": 7014,
   "boundsBlenderM": [
     [
-      -29.304033279418945,
-      -32.128108978271484,
+      -29.21599769592285,
+      -32.03750991821289,
       0
     ],
     [
-      29.4793758392334,
-      32.13576889038086,
+      29.390840530395508,
+      32.04544448852539,
       210
     ]
   ],
@@ -255,10 +255,10 @@
     "checks": {}
   },
   "modelingNotes": [
-    "The original curved OSM tower outline, orientation, 59-level tag and 210 m overall height are retained. No independently mapped building parts exist in this packet.",
-    "The 2005 oblique skyline photograph and opposite distant view show the original straight-sided glazed slab, vertical ribs and shallow recessed top. Body eave 206 m, rooftop setbacks and terrace detailing are explicit visual inferences.",
-    "Structural glass uses the approved light-blue palette instead of the historic dark tint. Grey vertical ribs and 29 double-floor bands preserve the facade rhythm within the map-scale budget; individual offices, roof equipment and signage are omitted.",
-    "The model depicts the historic exterior seen in the selected references. It does not represent proposed renovations or certify current construction status."
+    "OSM (way 16406633): the curved footprint, 59-level tag and 210 m height. No mapped building:part ways exist, so all articulation is inferred.",
+    "Researched (Wikipedia \"Tour Montparnasse\", Structurae): 209-210 m, 59 storeys (56 office storeys), dark smoked-glass curtain wall with vertical mullions and continuous ribbon glazing, plan of three joined arcs, technical floors and roof terrace at the top.",
+    "Model: walls are inset 0.5 m from the OSM outline so every mullion, plinth and cornice stays inside the mapped plan. 56 typical storeys of 3.59 m from a 5 m stone podium storey to 206 m; ribbon glazing per storey per wall (window material), mullions every ~1.6 m. The top two storeys (198.8-206 m) are a stepped-back louvred technical band with a cornice, roof deck, parapet, central plant core and three mast rods that end exactly at 210 m. Historic dark tint is not used (approved light palette).",
+    "Facade rhythm, technical-band height and podium treatment are visual inferences from the distant Commons references (00, 03, 05)."
   ],
   "source": "source.blend.gz",
   "spatialSource": "spatial-source.json",

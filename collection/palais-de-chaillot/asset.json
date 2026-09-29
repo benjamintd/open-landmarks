@@ -13,25 +13,25 @@
   "lods": {
     "low": {
       "url": "low.glb",
-      "bytes": 129668,
-      "sha256": "0f8a8bf33d038517f1a659eb5119614b3b956a70ffad5a30949b0fb47a09ab0b"
+      "bytes": 191212,
+      "sha256": "3d1dc22e7e5d1cb4980fb9409979db4efbd33b0538185f7512720fa07d22a78a"
     },
     "detail": {
       "url": "detail.glb",
-      "bytes": 129668,
-      "sha256": "0f8a8bf33d038517f1a659eb5119614b3b956a70ffad5a30949b0fb47a09ab0b"
+      "bytes": 993896,
+      "sha256": "63e5984d6d303c3bac9fb1724797319c171a586517e253db9f3d088235ab23cc"
     }
   },
-  "triangles": 2720,
+  "triangles": 20785,
   "boundsBlenderM": [
     [
-      -126.05935668945312,
+      -126.03095245361328,
       -204.39498901367188,
       0
     ],
     [
       202.22657775878906,
-      130.68748474121094,
+      130.67279052734375,
       30
     ]
   ],
@@ -1215,9 +1215,11 @@
     "checks": {}
   },
   "modelingNotes": [
-    "The two separate curved OSM wing footprints preserve the open central esplanade.",
-    "The 30 m overall height is mapped; 21 m wing height and raised inner pavilions are inferred from the reviewed exterior photograph.",
-    "Window bays and setback flat roofs are original map-scale details; statuary is omitted."
+    "Plan: the two OSM curved wing outlines (relation 6826569) are extruded as mapped; the open esplanade between them is kept. Overall height 30 m is the mapped tag and is reached by the roof lights on the pavilions.",
+    "Pavilion fronts: the outline itself shows 8 (west) and 7 (east) 1.2 x 1.5 m piers on a 5.35 m pitch, 44.8 m and 44.8 m wide, 42.6 m deep, with side ears and a rounded stair bay; these are kept and the bays between them get tall glazed windows.",
+    "Levels (inferred from the Commons reference 00 and the mapped 30 m): wings 1.3 m plinth, two window storeys, 3-step cornice at 16.9-18.3 m, set-back attic to 20.4 m with parapet and skylight; pavilions have three storeys to 23.4 m, a 23.4-26.2 m entablature, attic to 28 m, a stepped upper attic and roof lights to 30 m; end pavilions are 2.5 m taller than the wings.",
+    "Mapped parts used: way/1214794363 as a one-storey addition at the west end, way/... glass hipped part as the rooflight over the west pavilion, and the two gabled parts as raised roof lanterns on the east pavilion.",
+    "Sources: Wikipedia \"Palais de Chaillot\" (architects Carlu, Boileau, Azema, 1937, two separate wings in a wide arc, attic sculpture groups, Valery inscriptions); statuary and inscriptions are omitted. Window rhythm (4.6 m bays) is inferred."
   ],
   "source": "source.blend.gz",
   "spatialSource": "spatial-source.json",

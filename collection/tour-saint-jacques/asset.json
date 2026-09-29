@@ -13,25 +13,25 @@
   "lods": {
     "low": {
       "url": "low.glb",
-      "bytes": 39820,
-      "sha256": "ecff9b6d19082bff6323efde710cda1740c66d703568c4ccc2af777affb86e53"
+      "bytes": 76276,
+      "sha256": "109bfec6050656a3a1f824a3e26753656379782fdc510aadc9f36ebf96f9ac81"
     },
     "detail": {
       "url": "detail.glb",
-      "bytes": 39820,
-      "sha256": "ecff9b6d19082bff6323efde710cda1740c66d703568c4ccc2af777affb86e53"
+      "bytes": 396620,
+      "sha256": "3c4d84b5c5cd36f0a30d29f7209145c0a36937ff3110a030bc5c4012e61f2882"
     }
   },
-  "triangles": 798,
+  "triangles": 7942,
   "boundsBlenderM": [
     [
-      -7.780433654785156,
-      -7.551422119140625,
+      -7.60090970993042,
+      -7.707483291625977,
       0
     ],
     [
-      7.7321295738220215,
-      7.49012565612793,
+      7.698732852935791,
+      7.794771194458008,
       52
     ]
   ],
@@ -164,9 +164,9 @@
     "checks": {}
   },
   "modelingNotes": [
-    "The OSM outline, alignment and 52 m overall height determine the tower proportions.",
-    "Paired lancet panels, corner buttresses, parapet and small pinnacles follow reviewed tower photographs. Decorative tracery and rooftop figures are represented by original simple geometry.",
-    "The ground passage is cut through the complete tower. Body width is fitted inside the mapped rotated rectangle; the original spatial outline is retained."
+    "OSM (way 20326709, bundled): footprint outline (about 12 x 12 m with the buttress bulges on the west/east faces), height 52 m, building:levels 13, heritage stone. The base storey is extruded from that exact polygon; every upper storey steps back inside it (registration and total height 52 m kept).",
+    "Published facts (Wikipedia/Structurae, reviewed Commons photos 00-05): flamboyant Gothic tower built 1509-1523, about 52 m without the statue, four storeys above the ground arches; open pointed arches at ground level on all four faces; corner buttress piers with niches that step back with weathered caps; two rows of paired lancets (a short row and a tall belfry row) separated by a tracery band; central buttress on each face; blind-tracery crown under a cornice and balustrade; corner pedestals with the beasts of the evangelists; St James statue on the north-west corner pinnacle.",
+    "Inferred from photo proportions scaled to 52 m: stage breaks at 10.4, 24.1, 31.5-33, 36.6 and 48.3 m, arch size 3.6 x 8 m, bay and lancet widths. Statuary, crockets and tracery cusps are abstract masses; gargoyles are simple spouts. The Pascal statue inside the base is not modelled."
   ],
   "source": "source.blend.gz",
   "spatialSource": "spatial-source.json",

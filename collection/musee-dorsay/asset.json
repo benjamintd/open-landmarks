@@ -13,25 +13,25 @@
   "lods": {
     "low": {
       "url": "low.glb",
-      "bytes": 125724,
-      "sha256": "20e9b9b30a86e4ba9ef342955884ef5fbb6031697b3d2618b0af22bd81f6c18d"
+      "bytes": 153296,
+      "sha256": "5f1b7b156a569816360b21e90ac71a7f5690f8ed3cb91bc31c323e03675d6baa"
     },
     "detail": {
       "url": "detail.glb",
-      "bytes": 125724,
-      "sha256": "0a8c47063fc6e264286078de735325c5fcb3d82b04c47d68274be652d14fa764"
+      "bytes": 1357700,
+      "sha256": "c2ffa09759dfa27c6f4c91f25695f87f623bd47c42c3d5efea7b8988c6efeed1"
     }
   },
-  "triangles": 2391,
+  "triangles": 26863,
   "boundsBlenderM": [
     [
-      -99.61666870117188,
-      -70.94856262207031,
+      -99.66167449951172,
+      -70.52581024169922,
       0
     ],
     [
-      98.05274963378906,
-      68.66064453125,
+      97.78608703613281,
+      69.68250274658203,
       35
     ]
   ],
@@ -492,9 +492,10 @@
     "checks": {}
   },
   "modelingNotes": [
-    "OSM supplies the complete station footprint, orientation and 35 m overall height, but no building parts.",
-    "Main eaves 23 m, roof volumes, clock-pavilion positions and window rhythm are inferred from reviewed Seine-side and oblique photographs.",
-    "The central station vault and two large clocks are original low-detail geometry. Dial hands use a fixed decorative position; inscriptions and sculpture are omitted."
+    "Plan: the saved OSM footprint (way 63178753, 35 m height tag). The model is authored in a frame along the toothed Seine facade (origin at its east end, 25.3 deg from east) and rotated back; walls sit 0.6-1.3 m inside the mapped outline so mouldings (max 0.6 m) stay registered. The OSM river-side sawtooth is simplified to a straight wall.",
+    "Researched (Wikipedia \"Gare d'Orsay\" / \"Musee d'Orsay\"): Beaux-Arts station and hotel by Victor Laloux, 1898-1900; train shed 138 m long, 40 m span; 370-room Hotel Palais d'Orsay on the west and south sides; two large station clocks.",
+    "Read from the Commons references (00-05) scaled to the mapped widths: seven big arched glazed bays at ~14.5 m spacing between two 20 m clock pavilions (clock centres ~11 m and ~134 m from the east end), frieze/statue band and cornice at ~18 m, pavilion arched pediments with clocks, steep mansard roofs with a lantern and finial (total 35 m), hotel wings of ground arcade + three storeys + mansard dormers, low slate roofs with a barrel-vaulted nave behind.",
+    "Inferred: exact heights of storeys, the plan positions of the nave (y -57..-17, x -12..-133), rear roofscape hips, chimney stacks and dormer count. Sculpture is represented by abstract masses; clock hands are a fixed decorative pose."
   ],
   "source": "source.blend.gz",
   "spatialSource": "spatial-source.json",

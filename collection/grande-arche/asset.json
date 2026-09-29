@@ -13,25 +13,25 @@
   "lods": {
     "low": {
       "url": "low.glb",
-      "bytes": 145596,
-      "sha256": "839d10b0908c93405915b7bd6adf5125f6867b64b0b299364524875527fddd51"
+      "bytes": 198292,
+      "sha256": "0a058c95fbb4908dc6f3c66ea6d78559ca79f597a54ed1c9e9b534ef141ae989"
     },
     "detail": {
       "url": "detail.glb",
-      "bytes": 145596,
-      "sha256": "839d10b0908c93405915b7bd6adf5125f6867b64b0b299364524875527fddd51"
+      "bytes": 597136,
+      "sha256": "01d93769641f1939fbefda100402c0ec242d5094c4a52411618643e6dd93f67b"
     }
   },
-  "triangles": 2346,
+  "triangles": 11164,
   "boundsBlenderM": [
     [
-      -75.81050872802734,
-      -75.04300689697266,
+      -76.21134948730469,
+      -75.28373718261719,
       0
     ],
     [
-      75.88528442382812,
-      74.99835968017578,
+      76.23008728027344,
+      75.23101043701172,
       110
     ]
   ],
@@ -171,9 +171,10 @@
     "checks": {}
   },
   "modelingNotes": [
-    "All 23 mapped parts, their min_height values and the 110 m height are retained, preserving the large through-void and stepped platforms.",
-    "Glazing is represented by restrained dark window strips on the two tall side blocks. Le Nuage is an original simplified suspended membrane within the lower void, informed by the French Ministry of Culture monument record; its drape and cable dimensions are inferred, not surveyed.",
-    "Window density is reduced to map scale; the outer white stone frame remains readable."
+    "From OSM (24 mapped parts): the two 110 m side blocks (18.7 m thick, 112 m long, outer faces 106.9 m apart, tapering with 45 degree plan chamfers toward both ends of the passage), the 69.4 m wide void, and the 13 stepped parvis levels (0.63 m risers, 8.3 m platform). The frame is built along the axis joining the two side-block centroids.",
+    "Published (Wikipedia FR/EN, Paris La Defense): 112 m deep, 106.9 m wide, ~110 m high, a hollowed cube big enough for Notre-Dame, marble and glass cladding, 4 x 4 concrete transfer beams under the roof, Carrara marble on the end and void faces, glass curtain walls on the long outer faces.",
+    "Inferred: the OSM roof layers (min_height 101-108 m) are read as a 45 degree splay of the beam soffit toward the chamfered ends, and the beam soffit is set at 91.3 m so the roof beam is as deep as the side walls (18.7 m, square frame section) as the Commons photographs show. Storey pitch 2.75 m (about 39 levels). Panoramic lift core and the Nuage sail (suspended in the void, 28-40 m up) are simplified; their dimensions are not surveyed.",
+    "Materials: stone = marble, roof = grey glass curtain wall and terrace, window = glazing, trim = reveals and mullions."
   ],
   "source": "source.blend.gz",
   "spatialSource": "spatial-source.json",
