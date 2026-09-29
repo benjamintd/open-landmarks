@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 2,
+  "release": "publication-0df901ec63d9bd729e4f",
+  "parent": {
+    "release": "publication-cf770219d0eeb66e9432",
+    "sha256": "7842bba43d891b1bf914216f69df6a8b5ae007dc4f0bf146080422e7bafb8133"
+  },
+  "channels": {
+    "latest": {
+      "schemaVersion": 1,
+      "channel": "approved",
+      "release": null,
+      "count": 0,
+      "catalogue": null,
+      "status": "no-release"
+    },
+    "preview": {
+      "schemaVersion": 1,
+      "channel": "preview",
+      "release": "preview-49960fa8c9c7b3f43ff1",
+      "count": 70,
+      "catalogue": "/api/v1/releases/preview-49960fa8c9c7b3f43ff1/catalogue.json"
+    }
+  },
+  "files": {
+    "api/v1/releases/preview-49960fa8c9c7b3f43ff1/assets.json": "6eb504a5ed701f60d4e766cbacef0d4f5511511a181536d7252e65a9abdcdc03",
+    "api/v1/releases/preview-49960fa8c9c7b3f43ff1/catalogue.json": "fddd9eba1dc50b116e4a7dbac69bb49980c7614bc6cbb4e9ffee68273a922cd3",
+    "api/v1/releases/preview-49960fa8c9c7b3f43ff1/index/12/2073/1408.json": "cfad5b85992cecb53153fde67c56b8a427b1f919c06fc474fa784abc43f648df",
+    "api/v1/releases/preview-49960fa8c9c7b3f43ff1/index/12/2073/1409.json": "744e38e3475b807a0974f954f8f2edbdc69a5f4f5614d6806f9d2b4202af8f5b",
+    "api/v1/releases/preview-49960fa8c9c7b3f43ff1/index/12/2074/1408.json": "f7fb3a34f413163ca8bd2a04b3fff5b79f0eabc239302f94f07b7716d9aa75dc",
+    "api/v1/releases/preview-49960fa8c9c7b3f43ff1/index/12/2074/1409.json": "c527fcf3a8efe0b3cb114dcca61ef8492428699a0fa12e7ad4c3da2366df1bbd",
+    "api/v1/releases/preview-49960fa8c9c7b3f43ff1/index/12/2075/1408.json": "eb42f839cf1f723ef85423bd0d8b87a0908da917d3d524218ebd1c0c5f69c2d3",
+    "api/v1/releases/preview-49960fa8c9c7b3f43ff1/index/12/2075/1409.json": "8ea39ce824f587e43a8fe9a7762e7f8bdb82d62d414d56bcac067c14ddd5bece",
+    "api/v1/releases/preview-49960fa8c9c7b3f43ff1/spatial-database.json": "0aee9eef4dce6055851700a02e3aa5e9b95c3aa0a05dc32d6bf758c12d66acc9",
+    "assets/centre-georges-pompidou/83c54821b48983b889e7f921950c121ee7c77ee93e46c4e936de8f66a6659da8/asset.json": "ca4537e643fcfe750e10de9c30400590da34ee194cc7f6fcd9594e52320483d4",
+    "assets/centre-georges-pompidou/83c54821b48983b889e7f921950c121ee7c77ee93e46c4e936de8f66a6659da8/validation.json": "58c7fa708cd52804c016428057446b3e657404127c135c8b3e006f28c79a9b0e",
+    "assets/grande-arche/84de4648b45fd249eda89c2ec55df8200aee4aa143f28bab2aa852b9cea61c9d/asset.json": "41ad09c263ea1c356f124957017dc04ef0b1275b6d2f856850d7c09b0cb6916a",
+    "assets/grande-arche/84de4648b45fd249eda89c2ec55df8200aee4aa143f28bab2aa852b9cea61c9d/validation.json": "4391b465325e8f2ad8e7c803540554126603021af2d3c621a1e7e1015f762e88",
+    "assets/musee-dorsay/e4fc5986b235bf7e20f0428b8e693db5cc3cf7eeae13d5dcfe47e706584ea09f/asset.json": "42bc0938683b91af386e8760467051a67c94804c3bf1e59c27f47f61704c263f",
+    "assets/musee-dorsay/e4fc5986b235bf7e20f0428b8e693db5cc3cf7eeae13d5dcfe47e706584ea09f/validation.json": "aafc2dda65db00608a2e5c1462c3fb8460475031bfa6a574c53e1bab4ab8a306",
+    "assets/palais-bourbon/9dd4c762b216deee6b85061d37c47dc98f039d08b0d10135554a2b859e0e258b/asset.json": "f88bbacfb64735fd82f954abfdf2cf980263e1a6c125dd4302674bf68892641a",
+    "assets/palais-bourbon/9dd4c762b216deee6b85061d37c47dc98f039d08b0d10135554a2b859e0e258b/validation.json": "9d804d8ff00bc3180de50548537c55bc7fedd3115f8d7c7c376b03277d50a4cf",
+    "assets/palais-de-chaillot/6e7f50e4526c7f50a4e646828647bc18f779402dd7c883eb002b977d29aa77dd/asset.json": "1afe4f4c13da0ed2b7f01e6826e4ee4f76fed2c61e0fb3544181c4f5aff29721",
+    "assets/palais-de-chaillot/6e7f50e4526c7f50a4e646828647bc18f779402dd7c883eb002b977d29aa77dd/validation.json": "77e329e87dfe6788882212c4ff6fd6a9ab8896692902dc374399389c1331ecd1",
+    "assets/palais-du-luxembourg/16a658a463b011fa5c6573ffaccfa8edf73b3edd1ccf59a5d475978f3dd597bf/asset.json": "ac46f4a963476f38be5bb7a9c09687d371af41323859e79f016f36aec2c22b0f",
+    "assets/palais-du-luxembourg/16a658a463b011fa5c6573ffaccfa8edf73b3edd1ccf59a5d475978f3dd597bf/validation.json": "1b4b23fe216871bd264adf857437f55307609e988c8153f13a29ce71b2f7db9f",
+    "assets/saint-roch/4f06daa9bd825a3418da46ab8de5ccbfdafbaca77213ae0155497b05dfc3a508/asset.json": "7e8ac69952ffd8f8a895c01001f3a8d24101eb1e95c55db6ae6bb8dafeb1075a",
+    "assets/saint-roch/4f06daa9bd825a3418da46ab8de5ccbfdafbaca77213ae0155497b05dfc3a508/validation.json": "49b7120d7cefc8f4855b778d6c5f70fee6bb5b8fe1fb6840e9f80fabbf5626b4",
+    "assets/saint-sulpice/f1cc0567f5c6fb7117e8608a4b21e74ac35e61f01dd368164480b2584adac384/asset.json": "06379863fbd008ca6ef4dde3c2e5eeda1652fa6b5efa75ae75d051b53c15ea33",
+    "assets/saint-sulpice/f1cc0567f5c6fb7117e8608a4b21e74ac35e61f01dd368164480b2584adac384/validation.json": "d680ebc5111310b4f5d094c11a5ed0c9ecf49530de2ae39c4dd92b607050b496",
+    "assets/tour-montparnasse/8a3db4cbe7186f4553f75141e4e3adc9626a882e729d48787b20b01e601ff326/asset.json": "0db994829917ba20614e60fcc7f03fe8fb41bb0da118f9021cfc8abee3f342e2",
+    "assets/tour-montparnasse/8a3db4cbe7186f4553f75141e4e3adc9626a882e729d48787b20b01e601ff326/validation.json": "d2119d123cad1eff67f6625185e11349a92b59aaf43b1186a2addc1b42b63118",
+    "assets/tour-saint-jacques/c6e25c4a4a963c99292bc0771bb21236d0e6929ee334be9a2b60358ac333bba1/asset.json": "3eb59fd28d953b259fddbea69719a948679031900147f185a1a76828675bfb16",
+    "assets/tour-saint-jacques/c6e25c4a4a963c99292bc0771bb21236d0e6929ee334be9a2b60358ac333bba1/validation.json": "12ffa21dbd757c47951e2c9896fda511568b79c66cc8a7a981f9adbb12f468f4",
+    "objects/04c6ab08b1d2570747b929b12581250a83c5d18bc1a395bbc416253210fd3e68/preview.webp": "04c6ab08b1d2570747b929b12581250a83c5d18bc1a395bbc416253210fd3e68",
+    "objects/254df52900778e51fa31f6d9001a07d694e306d88871b80093e12a93f9580030/preview.webp": "254df52900778e51fa31f6d9001a07d694e306d88871b80093e12a93f9580030",
+    "objects/4bb138676d582bcca2108fb3e9493527848ea7d5f4b10ef4a0c83ee79b437558/preview.webp": "4bb138676d582bcca2108fb3e9493527848ea7d5f4b10ef4a0c83ee79b437558",
+    "objects/7809f8acb2a547ef8df245d9a19ce61d9452f7cfcb97397a843ea527513791f3/preview.webp": "7809f8acb2a547ef8df245d9a19ce61d9452f7cfcb97397a843ea527513791f3",
+    "objects/94320f436ca66ac0414597263e800f02ab20b3f5f5f74ce01378c6c0790a8d47/preview.webp": "94320f436ca66ac0414597263e800f02ab20b3f5f5f74ce01378c6c0790a8d47",
+    "objects/a74b9f7b3571a6acb1e42e5cf17c8d3fcd123b579d41abf624c3a2c751a4d243/preview.webp": "a74b9f7b3571a6acb1e42e5cf17c8d3fcd123b579d41abf624c3a2c751a4d243",
+    "objects/d3ce43409429a154d4907e96e6e05df7ae5c6aac8ec1c6862447fcf550910ea4/preview.webp": "d3ce43409429a154d4907e96e6e05df7ae5c6aac8ec1c6862447fcf550910ea4",
+    "objects/e15f100ca77e6adfa617ed650bdccf247efb0fb829ecba93565ed0b98b083c67/preview.webp": "e15f100ca77e6adfa617ed650bdccf247efb0fb829ecba93565ed0b98b083c67",
+    "objects/e846ff7f0d11121c8344909dc15774a90efb7ea9ed51c0de0d86dc468e64982f/preview.webp": "e846ff7f0d11121c8344909dc15774a90efb7ea9ed51c0de0d86dc468e64982f",
+    "objects/f43a690337c0050d04794804b034e26a1a5211ee20ee800b784a5ca81308274e/preview.webp": "f43a690337c0050d04794804b034e26a1a5211ee20ee800b784a5ca81308274e"
+  }
+}
