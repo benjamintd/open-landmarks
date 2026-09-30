@@ -1050,8 +1050,8 @@
     "url": "https://www.openstreetmap.org/relation/1019368"
   },
   "additionalOsm": [],
-  "rightsStatus": "review-required",
-  "geometryStatus": "draft",
+  "rightsStatus": "approved",
+  "geometryStatus": "approved",
   "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0",
   "references": [
     {
@@ -1084,9 +1084,16 @@
   "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
   "assistance": "AI-assisted architectural interpretation and procedural recipe authoring; deterministic Python/Blender export. No photographic textures.",
   "review": {
-    "status": "pending",
-    "reviewer": null,
-    "checks": {}
+    "status": "approved",
+    "revision": "6008d2cd61d15531796d06e7e4928358bc720679d265a153691622db09903afe",
+    "reviewer": "Benjamin TD",
+    "reviewedAt": "2026-09-30",
+    "checks": {
+      "rights": "passed",
+      "footprint": "passed",
+      "appearance": "passed",
+      "mapIntegration": "passed"
+    }
   },
   "modelingNotes": [
     "OSM: complete 81-part ensemble (IGN LiDAR HD heights): 27.4 m pediment ridge, 4.6 m podium and stair block, twelve mapped river columns (18.4 m to the entablature), four-column courtyard portico (12.4 m), two south colonnades (10.3 m), 19.4 m pyramidal pavilions on rue de l'Universite, 14.8 m mansard/gambrel wings, 20.5 m hemicycle wall arc, copper hall roofs and the glazed library cupolas. Courtyard voids are preserved.",

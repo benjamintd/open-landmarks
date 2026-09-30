@@ -20,7 +20,7 @@ test('XYZ covers both sides of borders; rejects invalid/antimeridian bounds', ()
   assert.throws(() => cellsForBounds([0,0,1,90]));
 });
 test('approval binds all required review checks to exact content', () => {
-  const { asset, revision } = rows[0], a = structuredClone(asset);
+  const { asset, revision } = rows.find(r => !reviewed(r.asset, r.revision)), a = structuredClone(asset);
   assert.equal(reviewed(a,revision),false);
   Object.assign(a,{rightsStatus:'approved',geometryStatus:'approved',review:{status:'approved',reviewer:'Test reviewer',revision,checks:{rights:'passed',footprint:'passed',appearance:'passed',mapIntegration:'passed'}}});
   assert.equal(reviewed(a,revision),true);
@@ -49,13 +49,17 @@ test('source edit changes content revision and invalidates an existing review', 
     assert.notEqual(changed.revision,rows[0].revision);
   } finally { await rm(temp,{recursive:true,force:true}); }
 });
-test('an unpublished approved channel has no release or catalogue to fetch', async () => {
-  assert.equal(rows.filter(r => reviewed(r.asset,r.revision)).length,0);
+test('approved channel contains the reviewed hero revisions', async () => {
+  const approvedRows = rows.filter(r => reviewed(r.asset,r.revision));
+  assert.equal(approvedRows.length,24);
   const pointer = await get('/api/v1/latest.json');
-  assert.equal(pointer.status,'no-release');
-  assert.equal(pointer.release,null);
-  assert.equal(pointer.catalogue,null);
-  assert.equal(pointer.count,0);
+  assert.equal(pointer.count,approvedRows.length);
+  assert(pointer.release);
+  assert(pointer.catalogue);
+  const catalogue = await get(pointer.catalogue);
+  assert.equal(catalogue.count,approvedRows.length);
+  const manifest = await get(catalogue.assets);
+  assert.deepEqual(manifest.assets.map(a => a.id).sort(),approvedRows.map(r => r.asset.id).sort());
   const docs = await readFile(new URL('docs/index.html',output),'utf8');
   assert(docs.includes('release: null'));
   assert(docs.includes('catalogue: null'));

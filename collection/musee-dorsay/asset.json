@@ -443,8 +443,8 @@
     "url": "https://www.openstreetmap.org/way/63178753"
   },
   "additionalOsm": [],
-  "rightsStatus": "review-required",
-  "geometryStatus": "draft",
+  "rightsStatus": "approved",
+  "geometryStatus": "approved",
   "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0",
   "references": [
     {
@@ -487,9 +487,16 @@
   "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
   "assistance": "AI-assisted architectural interpretation and procedural recipe authoring; deterministic Python/Blender export. No photographic textures.",
   "review": {
-    "status": "pending",
-    "reviewer": null,
-    "checks": {}
+    "status": "approved",
+    "revision": "406ec52b6ff33aaed0cc8f3bfab77150489c0c935626634e3fb7de4d7e68086c",
+    "reviewer": "Benjamin TD",
+    "reviewedAt": "2026-09-30",
+    "checks": {
+      "rights": "passed",
+      "footprint": "passed",
+      "appearance": "passed",
+      "mapIntegration": "passed"
+    }
   },
   "modelingNotes": [
     "Plan: the saved OSM footprint (way 63178753, 35 m height tag). The model is authored in a frame along the toothed Seine facade (origin at its east end, 25.3 deg from east) and rotated back; walls sit 0.6-1.3 m inside the mapped outline so mouldings (max 0.6 m) stay registered. The OSM river-side sawtooth is simplified to a straight wall.",

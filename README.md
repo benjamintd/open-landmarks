@@ -4,9 +4,12 @@ Lightweight, georeferenced 3D landmarks with editable sources and an open spatia
 catalogue. There is one global dataset. Landmarks have stable IDs and locations;
 Paris is the starting coverage, not a collection identifier or release boundary.
 
-The current seventy models are drafts. Structural validation does not approve rights,
-appearance or map integration. The approved channel is unpublished until exact
-revisions pass those reviews.
+[Explore the website](https://open-landmarks.benmaps.fr).
+
+The current collection has 71 models: 24 hero landmarks approved for their exact
+revisions, and 47 drafts. Structural validation alone does not approve rights,
+appearance or map integration. The approved channel advances through a dataset
+publication after those reviews.
 
 ## Develop and contribute
 

@@ -115,8 +115,8 @@
     "url": "https://www.openstreetmap.org/way/20326709"
   },
   "additionalOsm": [],
-  "rightsStatus": "review-required",
-  "geometryStatus": "draft",
+  "rightsStatus": "approved",
+  "geometryStatus": "approved",
   "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0",
   "references": [
     {
@@ -159,9 +159,16 @@
   "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
   "assistance": "AI-assisted architectural interpretation and procedural recipe authoring; deterministic Python/Blender export. No photographic textures.",
   "review": {
-    "status": "pending",
-    "reviewer": null,
-    "checks": {}
+    "status": "approved",
+    "revision": "bbd83f7308e65bdb246be5af9411243ba74bde30ce76973b91b120f0a685b6d7",
+    "reviewer": "Benjamin TD",
+    "reviewedAt": "2026-09-30",
+    "checks": {
+      "rights": "passed",
+      "footprint": "passed",
+      "appearance": "passed",
+      "mapIntegration": "passed"
+    }
   },
   "modelingNotes": [
     "OSM (way 20326709, bundled): footprint outline (about 12 x 12 m with the buttress bulges on the west/east faces), height 52 m, building:levels 13, heritage stone. The base storey is extruded from that exact polygon; every upper storey steps back inside it (registration and total height 52 m kept).",

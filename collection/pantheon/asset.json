@@ -482,8 +482,8 @@
     "url": "https://www.openstreetmap.org/way/16407465"
   },
   "additionalOsm": [],
-  "rightsStatus": "review-required",
-  "geometryStatus": "draft",
+  "rightsStatus": "approved",
+  "geometryStatus": "approved",
   "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0",
   "references": [
     {
@@ -526,9 +526,16 @@
   "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
   "assistance": "AI-assisted architectural interpretation and procedural recipe authoring; deterministic Python/Blender export. No photographic textures.",
   "review": {
-    "status": "pending",
-    "reviewer": null,
-    "checks": {}
+    "status": "approved",
+    "revision": "b11651df0a4dc8e197b4af6f86d6f800611359e269e245b600de4eb63e81ad76",
+    "reviewer": "Benjamin TD",
+    "reviewedAt": "2026-09-30",
+    "checks": {
+      "rights": "passed",
+      "footprint": "passed",
+      "appearance": "passed",
+      "mapIntegration": "passed"
+    }
   },
   "modelingNotes": [
     "Plan from the OSM outline (way 16407465) and its 79 building:part polygons. Axis, drum centre and portico rows are fitted to the mapped columns: nave axis bearing 108 deg, drum centre = least-squares circle through the 30 mapped drum columns (r = 16.05 m, 11.25 deg spacing -> 32 columns, the documented count).",

@@ -3393,8 +3393,8 @@
     "url": "https://www.openstreetmap.org/relation/284089"
   },
   "additionalOsm": [],
-  "rightsStatus": "review-required",
-  "geometryStatus": "draft",
+  "rightsStatus": "approved",
+  "geometryStatus": "approved",
   "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0",
   "references": [
     {
@@ -3437,9 +3437,16 @@
   "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
   "assistance": "AI-assisted architectural interpretation and procedural recipe authoring; deterministic Python/Blender export. No photographic textures.",
   "review": {
-    "status": "pending",
-    "reviewer": null,
-    "checks": {}
+    "status": "approved",
+    "revision": "54b6837cbd4bd8cab9494d533f7a7139911aa855ccd59cc8a375bf6be9c89f03",
+    "reviewer": "Benjamin TD",
+    "reviewedAt": "2026-09-30",
+    "checks": {
+      "rights": "passed",
+      "footprint": "passed",
+      "appearance": "passed",
+      "mapIntegration": "passed"
+    }
   },
   "modelingNotes": [
     "Plan: orthogonal re-drawing of the saved OSM outline in a frame rotated 20 deg to its dominant edge (every facade line within ~0.5 m of OSM), keeping the two large courts and the small light court open. West facade breaks read from the OSM outline: centre body 34.8 m between the flank pavilions (u=-45.4) with 8 pier projections at 4.3 m centres (7 bays, axis w=-1.7), 6.8 m recessed portal bays (u=-44.9) and 6.9 m projecting outer blocks (u=-46.3) of the flank pavilions, recessed wings and projecting corner pavilions.",

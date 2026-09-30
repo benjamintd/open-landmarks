@@ -132,8 +132,8 @@
     "url": "https://www.openstreetmap.org/way/19441489"
   },
   "additionalOsm": [],
-  "rightsStatus": "review-required",
-  "geometryStatus": "draft",
+  "rightsStatus": "approved",
+  "geometryStatus": "approved",
   "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0",
   "references": [
     {
@@ -166,9 +166,16 @@
   "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
   "assistance": "AI-assisted architectural interpretation and procedural recipe authoring; deterministic Python/Blender export. No photographic textures.",
   "review": {
-    "status": "pending",
-    "reviewer": null,
-    "checks": {}
+    "status": "approved",
+    "revision": "10e066891744d45ef4372e50edeeaa161b38b4b04b22cbdb74c83f5467b64912",
+    "reviewer": "Benjamin TD",
+    "reviewedAt": "2026-09-30",
+    "checks": {
+      "rights": "passed",
+      "footprint": "passed",
+      "appearance": "passed",
+      "mapIntegration": "passed"
+    }
   },
   "modelingNotes": [
     "From OSM (24 mapped parts): the two 110 m side blocks (18.7 m thick, 112 m long, outer faces 106.9 m apart, tapering with 45 degree plan chamfers toward both ends of the passage), the 69.4 m wide void, and the 13 stepped parvis levels (0.63 m risers, 8.3 m platform). The frame is built along the axis joining the two side-block centroids.",

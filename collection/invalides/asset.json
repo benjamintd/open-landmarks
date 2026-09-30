@@ -1604,8 +1604,8 @@
       "url": "https://www.openstreetmap.org/way/112452790"
     }
   ],
-  "rightsStatus": "review-required",
-  "geometryStatus": "draft",
+  "rightsStatus": "approved",
+  "geometryStatus": "approved",
   "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0",
   "references": [
     {
@@ -1648,9 +1648,16 @@
   "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
   "assistance": "AI-assisted architectural interpretation and procedural recipe authoring; deterministic Python/Blender export. No photographic textures.",
   "review": {
-    "status": "pending",
-    "reviewer": null,
-    "checks": {}
+    "status": "approved",
+    "revision": "0cd824380ebfa92868ba440de3140981b96a4ea0a8b32d3da3085fe9025dec59",
+    "reviewer": "Benjamin TD",
+    "reviewedAt": "2026-09-30",
+    "checks": {
+      "rights": "passed",
+      "footprint": "passed",
+      "appearance": "passed",
+      "mapIntegration": "passed"
+    }
   },
   "modelingNotes": [
     "Plan and heights from the bundle OSM parts: hospital relations 3311814 (30 m, 10 m roof), 3311815/3311813 (15 m, 5 m roof) with their 15 courtyards; Saint-Louis nave way/244945091 (35.6 m, 9.8 m roof) and aisles; dome-church base way/227662017 (28 m), corner-chapel roofs (29.9 m), podium 34.2 m, drum 34.2-46.3 m, balustrade 46.3-48.1 m, attic and dome 48.1-72 m (roof 16.8 m), lantern 72-85.6 m, spire to 100 m. The exported 100 m top is kept (published figure: 107 m to the cross). Plans simplified within 1 m.",
