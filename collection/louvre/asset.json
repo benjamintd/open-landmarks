@@ -13,25 +13,25 @@
   "lods": {
     "low": {
       "url": "low.glb",
-      "bytes": 202936,
-      "sha256": "92c540feead0cc144de95b794963490cd23eb74816f8b89b07815339fa497d43"
+      "bytes": 198908,
+      "sha256": "939792760173337fa509313ba2a0523695914f5a6568605796064a861244e2f4"
     },
     "detail": {
       "url": "detail.glb",
-      "bytes": 1336296,
-      "sha256": "f87a81337012e8023baf2a863c69b5f42b7baf311d372df9c22f91a09e0f37a7"
+      "bytes": 1284928,
+      "sha256": "459ff43ecc44befc85cdc55f8396e21e443e9ca34eccf503032a3083d48cfe65"
     }
   },
-  "triangles": 27051,
+  "triangles": 25250,
   "boundsBlenderM": [
     [
-      -405.98907470703125,
-      -182.8533935546875,
+      -406.4559020996094,
+      -182.65371704101562,
       0
     ],
     [
-      305.8642578125,
-      284.1872253417969,
+      305.03033447265625,
+      284.65728759765625,
       38
     ]
   ],
@@ -9372,7 +9372,7 @@
   "assistance": "AI-assisted architectural interpretation and procedural recipe authoring; deterministic Python/Blender export. No photographic textures.",
   "review": {
     "status": "approved",
-    "revision": "caba00f60a0698a8ffb1646de8927f37ec8729d8643186869843871df1a46472",
+    "revision": "dc86bd6155660f316a1e038f2c83c2b60f856fd631c35671fc03cedac69a9e83",
     "reviewer": "Benjamin TD",
     "reviewedAt": "2026-09-30",
     "checks": {
@@ -9383,11 +9383,9 @@
     }
   },
   "modelingNotes": [
-    "The saved palace outline, six courtyard voids and mapped pavilion plans control this model; the separate glass Pyramid is outside this palace asset.",
-    "OSM lacks part heights here. Main eaves 22 m, roof rise 5 m and terminal pavilion heights 38 m are inferred from the reviewed exterior references.",
-    "Outline simplification is 1.2 m to remove small facade notches within the map-scale mesh budget; the original source geometry is distributed unchanged.",
-    "Mansards and a sparse row of fitted dormers suggest the Louvre roofscape. Their rhythm is inferred; relief sculpture and individual chimneys are omitted.",
-    "Detail LOD: an inferred two-storey bay rhythm, shallow classical surrounds, plinth/string courses, eave cornice and pavilion pilasters follow the simplified wall rings, including the courtyards. The eastmost long facade gains a colonnade and central pediment after the selected Sully elevation. Exact bay counts and decorative orders are not surveyed."
+    "OSM (saved outline): palace footprint with its six courtyard voids (Cour Carree, four inner courts of the Richelieu and Denon blocks, Cour Lefuel), simplified 1.2 m; the named parts Pavillon de Flore, de Marsan, de la Tremoille, de Lesdiguieres, Grands Guichets and the round-pyramidal Pavillon de l'Horloge. OSM carries no heights here. The separate glass Pyramid is its own model and stays outside this asset.",
+    "Researched (Wikipedia / Commons references 00-05): three facade storeys under a cornice (rusticated arcaded ground floor, tall first floor, attic floor), Napoleon III mansards with pedimented stone dormers above the cornice, taller pavilions with steep truncated mansards at the corners of the Cour Carree, the Perrault Colonnade on the east front (14 pairs of free-standing Corinthian columns over a plain basement, central pediment, attic and balustrade), the Horloge, Flore and Marsan pavilions. Sculpture and chimneys are omitted.",
+    "Inferred: eave 22 m, wing mansard top 29 m, pavilion eave 30.5 m; the exported height stays 38 m at Flore and Marsan. Bay rhythm (7 m), window rows and the positions of the corner/centre pavilions on the Cour Carree, Richelieu and Denon blocks are read off the plan rather than surveyed; the Colonnade is fitted to the straight east front (mapped wall deviates up to 1.7 m because of the mapped jags; the wall behind is recessed 2.2 m so the loggia reads). The Cour Carree void is replaced by its bounding rectangle inset 0.9 m and zig-zag jags under 3 m are merged so eaves and roofs run straight; all of it stays within the 2.1 m plan test."
   ],
   "source": "source.blend.gz",
   "spatialSource": "spatial-source.json",

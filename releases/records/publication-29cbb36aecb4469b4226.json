@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 2,
+  "release": "publication-29cbb36aecb4469b4226",
+  "parent": {
+    "release": "publication-b08ea62e174985adcc5a",
+    "sha256": "88c41e351d615b64db25cf62564547d0f4fc0fee2f81713a2421ad38f4cbed75"
+  },
+  "channels": {
+    "latest": {
+      "schemaVersion": 1,
+      "channel": "approved",
+      "release": "approved-8cf4c64366c293c4b003",
+      "count": 24,
+      "catalogue": "/api/v1/releases/approved-8cf4c64366c293c4b003/catalogue.json"
+    },
+    "preview": {
+      "schemaVersion": 1,
+      "channel": "preview",
+      "release": "preview-57b4094ca71744779d92",
+      "count": 71,
+      "catalogue": "/api/v1/releases/preview-57b4094ca71744779d92/catalogue.json"
+    }
+  },
+  "files": {
+    "api/v1/releases/approved-8cf4c64366c293c4b003/assets.json": "403d27be0a14afe93414777119c1e1fc59ee4b4317f5a9a71945dd4b1ebffcea",
+    "api/v1/releases/approved-8cf4c64366c293c4b003/catalogue.json": "e576e02d85b59973059faf2dfb10c126c1a96366a24b613185cbaad4704efc01",
+    "api/v1/releases/approved-8cf4c64366c293c4b003/index/12/2073/1408.json": "7e4c1361157dc71651fbe18c6a2e142f3857c962dac2ff6ac7559366885b4ba8",
+    "api/v1/releases/approved-8cf4c64366c293c4b003/index/12/2074/1408.json": "be049c927d3cc51b0980f7cd5cc06849506aeb4ac58a7c325da8845a228c170e",
+    "api/v1/releases/approved-8cf4c64366c293c4b003/index/12/2074/1409.json": "0854c09a6e9c786521cf1d665da38ddda3028685610916fb5d79eaa2fed4103d",
+    "api/v1/releases/approved-8cf4c64366c293c4b003/spatial-database.json": "2cde294070a68af06f44efd5d0e1c499d2ba75e9f3f34c37f2d991709ce298b9",
+    "api/v1/releases/preview-57b4094ca71744779d92/assets.json": "3207b8561e8f651def154bedc4a6752b4c701824129ee40262158919c9f49ad1",
+    "api/v1/releases/preview-57b4094ca71744779d92/catalogue.json": "18695ac4d535637fef995530a6808164da4d542c6d43b76919eb64aaa0eb09c3",
+    "api/v1/releases/preview-57b4094ca71744779d92/index/12/2073/1408.json": "729d73ef9c79f039e4fa043d2f39bc0bf3d3136dcf53b3a039f44aa7fb0420f9",
+    "api/v1/releases/preview-57b4094ca71744779d92/index/12/2073/1409.json": "6c602d7c9ed2ec7be15e8f0c62b0af1c2cbe491fd490c4cb1bc23bc2fc5c7375",
+    "api/v1/releases/preview-57b4094ca71744779d92/index/12/2074/1408.json": "8ba64d6884598c28f2ac7cdde034ca364380311d32f6f5e5f31c46ce9f8fb006",
+    "api/v1/releases/preview-57b4094ca71744779d92/index/12/2074/1409.json": "04548b5db905d87814c6616f74720d119a0c2d3554244e0eff64e15f6441a685",
+    "api/v1/releases/preview-57b4094ca71744779d92/index/12/2075/1408.json": "7546badd6320aa43edab23e3c35f53a30bdd0fcff64625b01410e03192919176",
+    "api/v1/releases/preview-57b4094ca71744779d92/index/12/2075/1409.json": "471077eb7ea47bf905bc70e0397dbcc75d7c607bb2ec0e55c52013b5b609557f",
+    "api/v1/releases/preview-57b4094ca71744779d92/spatial-database.json": "6c2655577c500bc0648be75afe201ec792015192b7917a917e7cb5f014d350c5",
+    "assets/louvre/493ba8c57768f103bb921ea7a326fba216d4c52bffd4919f16e40692b89155d5/asset.json": "e944bed0c9f7f94550964c1a2d344cab12db7b8d3f1eec7804d7654a3ca7d83d",
+    "assets/louvre/493ba8c57768f103bb921ea7a326fba216d4c52bffd4919f16e40692b89155d5/validation.json": "015f9dfbbc1e0e195bd6df70b9ffdb385f93d49d0fd0224ada7e6f7e236d3cfb",
+    "models/louvre/459ff43ecc44befc85cdc55f8396e21e443e9ca34eccf503032a3083d48cfe65/detail.glb": "459ff43ecc44befc85cdc55f8396e21e443e9ca34eccf503032a3083d48cfe65",
+    "models/louvre/459ff43ecc44befc85cdc55f8396e21e443e9ca34eccf503032a3083d48cfe65/detail.glb.gz": "12e47b8924873da3735a63fd9f1cabaa91a76e4fd598e74c1a7f5dc9596564d0",
+    "models/louvre/939792760173337fa509313ba2a0523695914f5a6568605796064a861244e2f4/low.glb": "939792760173337fa509313ba2a0523695914f5a6568605796064a861244e2f4",
+    "models/louvre/939792760173337fa509313ba2a0523695914f5a6568605796064a861244e2f4/low.glb.gz": "9d9b367bbc68fc80abb6b1e23d109521fb38e31e26d5ffa7f55cd2a0a67a23cb",
+    "objects/2cd89dab46bab272c2e0d3c97798f14479c971b92561831dbe3ac1f5b51a8e39/preview.webp": "2cd89dab46bab272c2e0d3c97798f14479c971b92561831dbe3ac1f5b51a8e39",
+    "objects/429c7f531dba2a6b4f4967d8a75f2fd6dc7fba957eedeb892d5120d2413e58a1/source.blend.gz": "429c7f531dba2a6b4f4967d8a75f2fd6dc7fba957eedeb892d5120d2413e58a1"
+  }
+}
