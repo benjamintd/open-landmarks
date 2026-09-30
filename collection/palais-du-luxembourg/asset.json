@@ -1143,8 +1143,8 @@
     "url": "https://www.openstreetmap.org/relation/975955"
   },
   "additionalOsm": [],
-  "rightsStatus": "review-required",
-  "geometryStatus": "draft",
+  "rightsStatus": "approved",
+  "geometryStatus": "approved",
   "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0",
   "references": [
     {
@@ -1187,9 +1187,16 @@
   "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
   "assistance": "AI-assisted architectural interpretation and procedural recipe authoring; deterministic Python/Blender export. No photographic textures.",
   "review": {
-    "status": "pending",
-    "reviewer": null,
-    "checks": {}
+    "status": "approved",
+    "revision": "b6570dfb0a1793ddbfc9615f35ecfae6edfb1bf0372609dd12e9a8eb3095f96e",
+    "reviewer": "Benjamin TD",
+    "reviewedAt": "2026-09-30",
+    "checks": {
+      "rights": "passed",
+      "footprint": "passed",
+      "appearance": "passed",
+      "mapIntegration": "passed"
+    }
   },
   "modelingNotes": [
     "Plan: the saved OSM footprint (courtyard voids kept open) and the mapped building:part ways. Walls are extruded from the union of parts per height slice, set back 0.45 m so cornices, string courses and plinths project exactly to the OSM outline.",

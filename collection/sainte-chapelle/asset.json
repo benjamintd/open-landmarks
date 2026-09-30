@@ -486,8 +486,8 @@
     "url": "https://www.openstreetmap.org/relation/3344870"
   },
   "additionalOsm": [],
-  "rightsStatus": "review-required",
-  "geometryStatus": "draft",
+  "rightsStatus": "approved",
+  "geometryStatus": "approved",
   "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0",
   "references": [
     {
@@ -510,9 +510,16 @@
   "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
   "assistance": "AI-assisted architectural interpretation and procedural recipe authoring; deterministic Python/Blender export. No photographic textures.",
   "review": {
-    "status": "pending",
-    "reviewer": null,
-    "checks": {}
+    "status": "approved",
+    "revision": "b5fbbc03ef8d9d02b012f17a03566496fcb067bfe53d8dcc3ca60bd63cf33ce3",
+    "reviewer": "Benjamin TD",
+    "reviewedAt": "2026-09-30",
+    "checks": {
+      "rights": "passed",
+      "footprint": "passed",
+      "appearance": "passed",
+      "mapIntegration": "passed"
+    }
   },
   "modelingNotes": [
     "Plan (OSM, bundled): chapel body relation/3344874 (30 m walls), 14 buttress parts relation/3344873 (35 m with 5 m pinnacles), roof parts way/248296374 + way/248296313 (eaves 30 m, ridge 42 m, half-cone over the apse), west turrets way/248296385 + way/248296384 (36 m shafts, spirelets to 46 m), facade pinnacles relation/3344875 (31/38 m), two-storey porch relation/3344872 (15 m) with five 18 m buttress pinnacles relation/3344871, flèche way/265389509 + way/248296312 (47-75 m) with eight 52 m corner pinnacles. Total height 75 m kept.",

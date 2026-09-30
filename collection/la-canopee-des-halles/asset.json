@@ -573,8 +573,8 @@
       "url": "https://www.openstreetmap.org/way/630222417"
     }
   ],
-  "rightsStatus": "review-required",
-  "geometryStatus": "draft",
+  "rightsStatus": "approved",
+  "geometryStatus": "approved",
   "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0",
   "references": [
     {
@@ -637,9 +637,16 @@
   "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
   "assistance": "AI-assisted architectural interpretation and procedural recipe authoring; deterministic Python/Blender export. No photographic textures.",
   "review": {
-    "status": "pending",
-    "reviewer": null,
-    "checks": {}
+    "status": "approved",
+    "revision": "a4c92c1cba88ec1cec370393fea996fe9c3cbe08b9c61bc9c33437e574b4a1da",
+    "reviewer": "Benjamin TD",
+    "reviewedAt": "2026-09-30",
+    "checks": {
+      "rights": "passed",
+      "footprint": "passed",
+      "appearance": "passed",
+      "mapIntegration": "passed"
+    }
   },
   "modelingNotes": [
     "OSM (retrieved 2026-09-29): three unnamed ways form the Canopee footprint: way/630511331 (building=roof, roof:material=glass, 8,636 m2, the central band that carries the patio), way/630213860 and way/630222417 (building=retail, 3 levels, 5,795 and 3,637 m2, the north and south wings). Their union (18,067 m2, about 147 x 130 m in its minimum rectangle) is the footprint; the registry row asserts identity (Wikidata Q15977258). No height or parts are mapped, so all heights are researched, not OSM.",

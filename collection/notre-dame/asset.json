@@ -1408,8 +1408,8 @@
     "url": "https://www.openstreetmap.org/way/201611261"
   },
   "additionalOsm": [],
-  "rightsStatus": "review-required",
-  "geometryStatus": "draft",
+  "rightsStatus": "approved",
+  "geometryStatus": "approved",
   "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0",
   "references": [
     {
@@ -1452,9 +1452,16 @@
   "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
   "assistance": "AI-assisted architectural interpretation and procedural recipe authoring; deterministic Python/Blender export. No photographic textures.",
   "review": {
-    "status": "pending",
-    "reviewer": null,
-    "checks": {}
+    "status": "approved",
+    "revision": "2b0e0de89c530740618c5eef3241bac4ed84f6428f67b170831cbe5c29b1260a",
+    "reviewer": "Benjamin TD",
+    "reviewedAt": "2026-09-30",
+    "checks": {
+      "rights": "passed",
+      "footprint": "passed",
+      "appearance": "passed",
+      "mapIntegration": "passed"
+    }
   },
   "modelingNotes": [
     "Plan: every volume is extruded from its OSM building part (outline v96 = bundled v93, checked 2026-09-14): westwork/Galerie des chimeres 45 m, Galerie de la Vierge terrace 25 m, towers 69 m, stair turrets 33 m, aisles/tribunes 25 m, central vessel and transept 33 m walls with 12 m roofs (45 m ridges), apse cone, crossing spire 96 m, 28 mapped flying-buttress strips, 14 pier tops at 26 m and 14 pinnacles at 30 m.",

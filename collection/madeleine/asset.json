@@ -170,8 +170,8 @@
     "url": "https://www.openstreetmap.org/way/54180046"
   },
   "additionalOsm": [],
-  "rightsStatus": "review-required",
-  "geometryStatus": "draft",
+  "rightsStatus": "approved",
+  "geometryStatus": "approved",
   "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0",
   "references": [
     {
@@ -214,9 +214,16 @@
   "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
   "assistance": "AI-assisted architectural interpretation and procedural recipe authoring; deterministic Python/Blender export. No photographic textures.",
   "review": {
-    "status": "pending",
-    "reviewer": null,
-    "checks": {}
+    "status": "approved",
+    "revision": "9b9effe2629c093356c6f0b682b00d26013817fc67b23cb41c3167437525875d",
+    "reviewer": "Benjamin TD",
+    "reviewedAt": "2026-09-30",
+    "checks": {
+      "rights": "passed",
+      "footprint": "passed",
+      "appearance": "passed",
+      "mapIntegration": "passed"
+    }
   },
   "modelingNotes": [
     "Plan from OSM (outline + 63 building:part polygons). Local axis fitted to the mapped entablature rectangle (102.3 x 43.3 m, bearing 25.6 deg); cella (way 1459282734, antae and front pilasters), podium with the four stair cheek walls (4.4 m), the two-flight stairs with landings at both ends (2.2/4.4 m) are extruded from the mapped polygons; all 54 mapped column centroids are kept (8 + 8 in the double south pronaos row, 15 per side, 8 north).",

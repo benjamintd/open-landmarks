@@ -548,8 +548,8 @@
     "url": "https://www.openstreetmap.org/way/16077204"
   },
   "additionalOsm": [],
-  "rightsStatus": "review-required",
-  "geometryStatus": "draft",
+  "rightsStatus": "approved",
+  "geometryStatus": "approved",
   "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0",
   "references": [
     {
@@ -592,9 +592,16 @@
   "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
   "assistance": "AI-assisted architectural interpretation and procedural recipe authoring; deterministic Python/Blender export. No photographic textures.",
   "review": {
-    "status": "pending",
-    "reviewer": null,
-    "checks": {}
+    "status": "approved",
+    "revision": "7e96dae3ca9f268dc3b26edd1d46ff27f63cf84ca0df049f610ec05a9a0480ec",
+    "reviewer": "Benjamin TD",
+    "reviewedAt": "2026-09-30",
+    "checks": {
+      "rights": "passed",
+      "footprint": "passed",
+      "appearance": "passed",
+      "mapIntegration": "passed"
+    }
   },
   "modelingNotes": [
     "Plan: the saved OSM footprint and mapped building:part ways (nave 34 m walls / 42 m roof, transept and its 37.8 m pedimented porches, aisles 17.4 m eaves, chapels, ambulatory, Lady Chapel dome 30.5 m, two towers 66.4 m and 70.3 m, twelve mapped portico columns at 6.3 m spacing on the 2.2 m platform). Built in a frame rotated 7.5 deg to the nave and rotated back so every volume stays on the OSM plan.",

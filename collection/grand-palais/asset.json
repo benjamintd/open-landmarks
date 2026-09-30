@@ -1174,8 +1174,8 @@
     "url": "https://www.openstreetmap.org/way/56185523"
   },
   "additionalOsm": [],
-  "rightsStatus": "review-required",
-  "geometryStatus": "draft",
+  "rightsStatus": "approved",
+  "geometryStatus": "approved",
   "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0",
   "references": [
     {
@@ -1218,9 +1218,16 @@
   "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
   "assistance": "AI-assisted architectural interpretation and procedural recipe authoring; deterministic Python/Blender export. No photographic textures.",
   "review": {
-    "status": "pending",
-    "reviewer": null,
-    "checks": {}
+    "status": "approved",
+    "revision": "f6cc566c29f81983856b8eb6c1614e1461d45d4c78c137b4a8a3e8f7368ccb9e",
+    "reviewer": "Benjamin TD",
+    "reviewedAt": "2026-09-30",
+    "checks": {
+      "rights": "passed",
+      "footprint": "passed",
+      "appearance": "passed",
+      "mapIntegration": "passed"
+    }
   },
   "modelingNotes": [
     "Plan and heights from OSM way 56185523 and its 8 building:parts: 20 m stone halls (entablature/parapet at 16.3-18.9 m), 19 m colonnade strip, 25 m porch and inner hall, glazed barrel nave and transept (eave 25 m, crown 42 m), crossing dome (mapped circle r 36.4 m, top 50 m) and the octagonal rotunda of the Palais de la Decouverte. The model is built in a frame fitted to the mapped nave rectangle (bearing 4.4 deg).",

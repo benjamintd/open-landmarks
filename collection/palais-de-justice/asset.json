@@ -2933,8 +2933,8 @@
     "url": "https://www.openstreetmap.org/relation/536982"
   },
   "additionalOsm": [],
-  "rightsStatus": "review-required",
-  "geometryStatus": "draft",
+  "rightsStatus": "approved",
+  "geometryStatus": "approved",
   "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0",
   "references": [
     {
@@ -2957,9 +2957,16 @@
   "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
   "assistance": "AI-assisted architectural interpretation and procedural recipe authoring; deterministic Python/Blender export. No photographic textures.",
   "review": {
-    "status": "pending",
-    "reviewer": null,
-    "checks": {}
+    "status": "approved",
+    "revision": "250e5dd7492f543261da7818c63ab0939ecc8462be97f858eb15976b6ec02ccc",
+    "reviewer": "Benjamin TD",
+    "reviewedAt": "2026-09-30",
+    "checks": {
+      "rights": "passed",
+      "footprint": "passed",
+      "appearance": "passed",
+      "mapIntegration": "passed"
+    }
   },
   "modelingNotes": [
     "Plan and volumes: the saved OSM outline with its 21 courtyard voids and the mapped building:part polygons (simplified 0.3 m; thin mapped railings and parts with an eave under 2.5 m are dropped). Wall and eave heights are the mapped part heights (22-28 m eaves, 13 m galleries). A cached IGN LiDAR HD crop was used only to check them (measured roof tops sit within ~3 m of the tags) and to place the dome (peak at 44.4, -9.1, ~37 m). Sainte-Chapelle stands in the central void and remains its own model.",

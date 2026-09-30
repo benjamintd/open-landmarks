@@ -132,8 +132,8 @@
     "url": "https://www.openstreetmap.org/way/55503397"
   },
   "additionalOsm": [],
-  "rightsStatus": "review-required",
-  "geometryStatus": "draft",
+  "rightsStatus": "approved",
+  "geometryStatus": "approved",
   "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0",
   "references": [
     {
@@ -156,9 +156,16 @@
   "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
   "assistance": "AI-assisted architectural interpretation and procedural recipe authoring; deterministic Python/Blender export. No photographic textures.",
   "review": {
-    "status": "pending",
-    "reviewer": null,
-    "checks": {}
+    "status": "approved",
+    "revision": "ef8edacca3784f983bc6cd2471214e45adc6de7a4c074aa6ade08ebf04677362",
+    "reviewer": "Benjamin TD",
+    "reviewedAt": "2026-09-30",
+    "checks": {
+      "rights": "passed",
+      "footprint": "passed",
+      "appearance": "passed",
+      "mapIntegration": "passed"
+    }
   },
   "modelingNotes": [
     "OSM: the saved outline (way/55503397, 42 m, no mapped parts) gives the plan. Its minimum rectangle is 168 x 66 m with the long axis 19.7 deg east of north; the model is authored in that frame and rotated back, every element staying inside the outline (columns at y=+-25, gerberette tips at +-28.4, escalator to y=+30.2 of the +-30.5 edge).",
