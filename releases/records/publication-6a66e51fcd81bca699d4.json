@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 2,
+  "release": "publication-6a66e51fcd81bca699d4",
+  "parent": {
+    "release": "publication-645e92a7fe3cd63b21d4",
+    "sha256": "0b6651c960d3be5973fb3834b16036bad5cf0fef120eaf97b2597805ae8a4cb5"
+  },
+  "channels": {
+    "latest": {
+      "schemaVersion": 1,
+      "channel": "approved",
+      "release": null,
+      "count": 0,
+      "catalogue": null,
+      "status": "no-release"
+    },
+    "preview": {
+      "schemaVersion": 1,
+      "channel": "preview",
+      "release": "preview-826d55f2a07bc1ea1c79",
+      "count": 71,
+      "catalogue": "/api/v1/releases/preview-826d55f2a07bc1ea1c79/catalogue.json"
+    }
+  },
+  "files": {
+    "api/v1/releases/preview-826d55f2a07bc1ea1c79/assets.json": "e2e8b05ea0f7c730cf2b0bb125fbc765d5911dccc37ae92a2afd8bd640ddaeae",
+    "api/v1/releases/preview-826d55f2a07bc1ea1c79/catalogue.json": "f5f8e3205520a4e0e311be9f17ab8d0e5db986a319f5526609b34987d504c6ea",
+    "api/v1/releases/preview-826d55f2a07bc1ea1c79/index/12/2073/1408.json": "9bd2c27f3b9e8448539f115e0428a8882abb6389d7cd5d4bc41d3107c78c741d",
+    "api/v1/releases/preview-826d55f2a07bc1ea1c79/index/12/2073/1409.json": "535bd200a17550743b8009664e430aada3c840f01ddaebc7ca2a1f862e0ab45f",
+    "api/v1/releases/preview-826d55f2a07bc1ea1c79/index/12/2074/1408.json": "07d607ee2e5eb75f617b25350ab7187c5057e8ca37928b5b2166a6a0408f35ed",
+    "api/v1/releases/preview-826d55f2a07bc1ea1c79/index/12/2074/1409.json": "6eef10e6bae37382de017426b25bcd7de13dbc39e9917823c178ed3b18b36214",
+    "api/v1/releases/preview-826d55f2a07bc1ea1c79/index/12/2075/1408.json": "fa05be762df096cbe5c874f6efcd94a2fb8f5c72228f249cf587c3eb9e3271c9",
+    "api/v1/releases/preview-826d55f2a07bc1ea1c79/index/12/2075/1409.json": "bf336b295da5befc01dc33489a85ce8d8a46557c45770c8dbc6e7c01b47468e4",
+    "api/v1/releases/preview-826d55f2a07bc1ea1c79/spatial-database.json": "6c2655577c500bc0648be75afe201ec792015192b7917a917e7cb5f014d350c5",
+    "assets/palais-de-justice/1ec2add68e81fb7ba2d5a5688ec6f8a3f36b3b4fce40c51271e67204ca34568b/asset.json": "fc23be18e44fc8e53c403a322b8637b07f2907c24e565ccfa4f873a9a7ea075a",
+    "assets/palais-de-justice/1ec2add68e81fb7ba2d5a5688ec6f8a3f36b3b4fce40c51271e67204ca34568b/validation.json": "4d3880aa57c3ba6efcbfb2c2bafcfcae3e1d389d3ffc221130f8462e19cd74e6",
+    "models/palais-de-justice/1cb55d192af9f0c11b9d31c81174456f7bbda695a8e0f5845cdd0cc8077f473e/detail.glb": "1cb55d192af9f0c11b9d31c81174456f7bbda695a8e0f5845cdd0cc8077f473e",
+    "models/palais-de-justice/1cb55d192af9f0c11b9d31c81174456f7bbda695a8e0f5845cdd0cc8077f473e/detail.glb.gz": "2e489b1bad6edb618dcc6793e8e102f79bda99e02ccab22f49814ed9afe0b791",
+    "models/palais-de-justice/85ae0299faa0569292a60502487f648aabddbb7032c0c6fac59377fdb409d987/low.glb": "85ae0299faa0569292a60502487f648aabddbb7032c0c6fac59377fdb409d987",
+    "models/palais-de-justice/85ae0299faa0569292a60502487f648aabddbb7032c0c6fac59377fdb409d987/low.glb.gz": "a4960d94b2b8634ee299761fa675f395f9077501c1436cc07643358b4ef278f7",
+    "objects/4ab0b0470acb855c4a082e33ffd9cb7757f0d2d68fae609d816ebdcf6b4f6a59/preview.webp": "4ab0b0470acb855c4a082e33ffd9cb7757f0d2d68fae609d816ebdcf6b4f6a59",
+    "objects/b157eb76be6484bfc906ee420f32b0e875e74441e909a701dc5090b58fb82e7c/source.blend.gz": "b157eb76be6484bfc906ee420f32b0e875e74441e909a701dc5090b58fb82e7c"
+  }
+}

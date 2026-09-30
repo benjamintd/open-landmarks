@@ -13,26 +13,26 @@
   "lods": {
     "low": {
       "url": "low.glb",
-      "bytes": 231340,
-      "sha256": "eef1c5eb000ac8549200b501ae2f9ed3fbe415b306856796af7756009fd75ecb"
+      "bytes": 222796,
+      "sha256": "85ae0299faa0569292a60502487f648aabddbb7032c0c6fac59377fdb409d987"
     },
     "detail": {
       "url": "detail.glb",
-      "bytes": 231412,
-      "sha256": "d8d8e95e6f51be650d3948b2b8b94101c82cfd90895e4c36a6c5a5fe2d5bb5e3"
+      "bytes": 1446232,
+      "sha256": "1cb55d192af9f0c11b9d31c81174456f7bbda695a8e0f5845cdd0cc8077f473e"
     }
   },
-  "triangles": 4695,
+  "triangles": 29702,
   "boundsBlenderM": [
     [
-      -110.89175415039062,
-      -145.2977294921875,
+      -111.84303283691406,
+      -146.17721557617188,
       0
     ],
     [
-      129.81076049804688,
-      112.10200500488281,
-      47
+      130.3974609375,
+      112.99821472167969,
+      42.04999923706055
     ]
   ],
   "entranceLights": [],
@@ -2962,10 +2962,9 @@
     "checks": {}
   },
   "modelingNotes": [
-    "Uses the saved 270 OSM parts, their measured heights and the outline with 21 courtyard holes. Sainte-Chapelle is outside this footprint and remains a separate model.",
-    "Small low parts below 35 square metres are omitted; named and tall tower parts retain their plans. Outline simplification is 0.35 m.",
-    "Mansards and hipped roofs use simplified setback profiles; major river towers retain their mapped conical roofs.",
-    "Facade openings and bands are inferred from the reviewed entrance photograph; sculpture and interior rooms are omitted."
+    "Plan and volumes: the saved OSM outline with its 21 courtyard voids and the mapped building:part polygons (simplified 0.3 m; thin mapped railings and parts with an eave under 2.5 m are dropped). Wall and eave heights are the mapped part heights (22-28 m eaves, 13 m galleries). A cached IGN LiDAR HD crop was used only to check them (measured roof tops sit within ~3 m of the tags) and to place the dome (peak at 44.4, -9.1, ~37 m). Sainte-Chapelle stands in the central void and remains its own model.",
+    "Researched: Conciergerie river front on the quai de l'Horloge with the Tour de l'Horloge (NE corner), Tour de Cesar and Tour d'Argent (conical roofs) and Tour Bonbec (crenellated); the Cour de Mai front of the Palais with a central pavilion carrying a low zinc dome. The Tour de l'Horloge keeps the mapped 38 m (published ~47 m) so the tagged heights stay consistent. The gilded Cour de Mai gate is not modelled: it stands in the open court, outside the mapped outline that the plan tests hold the model to.",
+    "Inferred from the Commons references (00, 03-06) and the plan: storey grammar on every exposed wall (plinth, arched ground floor, first-floor windows on a stone slab, upper rows, cornice at each part's eave), mansard profiles (steep lower slope, shallow upper), dormers on every third street-front bay, step walls where a tall part rises over a lower roof, tower radii from the mapped areas. Sculpture is omitted; the dome and the clock dial are schematic."
   ],
   "source": "source.blend.gz",
   "spatialSource": "spatial-source.json",
