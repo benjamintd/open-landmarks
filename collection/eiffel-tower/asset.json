@@ -11,28 +11,28 @@
   "minZoom": 15,
   "detailZoom": 17,
   "lods": {
-    "low": {
-      "url": "low.glb",
-      "bytes": 194672,
-      "sha256": "f08e3a61eb369c8240146718f5347c93ef9eccdc4d9e61ea80f7c7a1ca7c6ff4"
-    },
     "detail": {
       "url": "detail.glb",
-      "bytes": 925580,
-      "sha256": "39b4d8a1b511782cb88ad5db88d056e865b26a83ed7ece267c42d1db205b4b39"
+      "bytes": 1226196,
+      "sha256": "3a1a8469ed272c619f3ef9b0815483c4ff6986b57a8169dec3e611814d941160"
+    },
+    "low": {
+      "url": "low.glb",
+      "bytes": 202584,
+      "sha256": "71f15c766e62ab883c2cb8c817d739af2448f370af3c45923d65b256d389972f"
     }
   },
-  "triangles": 36904,
+  "triangles": 28176,
   "boundsBlenderM": [
     [
-      -87.90673065185547,
-      -88.23877716064453,
-      0
+      -87.16863250732422,
+      -87.50067901611328,
+      0.0
     ],
     [
-      88.3340835571289,
-      88.00203704833984,
-      330
+      87.59599304199219,
+      87.2639389038086,
+      330.0
     ]
   ],
   "entranceLights": [],
@@ -604,7 +604,7 @@
   "additionalOsm": [],
   "rightsStatus": "approved",
   "geometryStatus": "approved",
-  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0",
+  "attribution": "File:EiffelTower fixed.stl by Newcandle from Thingiverse, CC-BY-SA-3.0; adapted by Open Landmarks. Contains © OpenStreetMap contributors, ODbL-1.0",
   "references": [
     {
       "title": "File:Tour Eiffel Wikimedia Commons.jpg",
@@ -640,36 +640,51 @@
   ],
   "aliases": [],
   "authors": [
-    "Open Landmarks contributors"
+    "Newcandle from Thingiverse",
+    "Open Landmarks contributors (adaptation)"
   ],
-  "artisticLicense": "CC-BY-4.0",
+  "artisticLicense": "CC-BY-SA-3.0",
   "spatialDataLicense": "ODbL-1.0",
-  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
-  "assistance": "AI-assisted architectural interpretation and procedural recipe authoring; deterministic Python/Blender export. No photographic textures.",
+  "licenseScope": "CC-BY-SA-3.0 applies to the imported artistic geometry, its adaptation, editable scene and previews; ODbL-1.0 applies to OSM-derived spatial data. Visual reference photographs retain their own licenses.",
+  "assistance": "AI-assisted source research and deterministic conversion tooling; artistic geometry imported from the credited creator. No photographic textures.",
   "review": {
     "status": "approved",
-    "revision": "43bc0d93a70fcf920f5de4cbee2f87363655b16118592869ffade4640fc77e11",
+    "revision": "79b499ba1c1a13024334d434cb821fdbb85052c2bb5d60c7b367b99fa40e63a8",
     "reviewer": "Benjamin TD",
-    "reviewedAt": "2026-09-30",
+    "reviewedAt": "2026-10-08",
     "checks": {
       "rights": "passed",
       "footprint": "passed",
       "appearance": "passed",
       "mapIntegration": "passed"
-    }
+    },
+    "notes": [
+      "Production promotion explicitly authorised by Benjamin TD on 2026-10-08 after the imported model comparison and validation.",
+      "The source credit, original STL checksum, CC BY-SA 3.0 grant and modification notice are retained.",
+      "Print-oriented geometry, independent horizontal/vertical scaling and low-LOD lattice loss were disclosed before production approval."
+    ]
   },
   "modelingNotes": [
-    "OSM supplies centre, north alignment and the 330 m overall height (antennas included).",
-    "Key figures from the operator (https://www.toureiffel.paris/fr/le-monument/chiffres-cle): 124.9 m square base, floors at 57 m, 115 m and 276 m. Deck slabs keep the previously exported undersides (55.5, 113.8, 275.2 m).",
-    "Leg outer edge follows a log-space spline through half-widths 62.5 m (ground), 30 m (1st floor), 15.2 m (2nd), 12.1 m (160 m), 9.7 m (197 m), 7.0 m (240 m), 4.4 m (276 m) (near-linear upper taper), read off the Commons elevation photo 00.jpg; the curve is the published exponential-like wind-moment profile, not a surveyed surface.",
-    "Each pier is a four-chord box lattice (base ~25 m square, inferred) of 4 X-braced panels to the 1st floor and 4 more to the 2nd, whose inner chords stop at the 2nd-floor girders; the upper shaft has four slim corner box columns with 15 full-width X panels (panel count from photo 00.jpg).",
-    "Decorative arches: semicircular double-plane lattice girders (centred at ground level, intrados radius 38.6 m, extrados crown 41.9 m) under a see-through lattice belt truss and an open arcaded frieze (arch ribs on posts, 50-55.3 m) under thin deck slabs; arch radius and frieze arcade count are inferred.",
-    "Glazed first-floor pavilions and second-floor gallery are simplified to continuous mullioned glass rings; the intermediate platform at ~197 m (old Edoux lift change level) is placed from photo proportions.",
-    "Summit: enclosed glazed 3rd level, open terrace, four-rib campanile with lighthouse lantern and dome, stepped antenna mast to 330 m. Antenna equipment is generic.",
-    "A dark-to-light iron gradient follows the operator’s documented three-tone painting principle, not an exact claim about its present coating: https://www.toureiffel.paris/en/the-monument/painting-eiffel-tower .",
-    "Rivets, lift cars, inclined lift rails, restaurant interiors and the nighttime sparkle installation are omitted."
+    "Converted from STL; removed degenerate/duplicate faces; independently rescaled horizontal footprint and vertical height to the saved OSM rectangle and existing declared height, baked orientation and ground placement; applied the Open Landmarks material palette; simplified two LODs and repaired normals. STL units are unspecified; scaling changes the source proportions. No photographic textures.",
+    "Registration: {\"method\": \"Independent XYZ scaling to saved OSM rectangle and existing declared height; heading baked\", \"scaleXYZ\": [2.260954069825459, 2.260954069825459, 2.7285353429420316], \"axisEastNorth\": [0.6975986957550049, 0.7164886593818665], \"centerEastNorth\": [0.21368009080060688, -0.11836828263270763], \"note\": \"STL units are unspecified. This fit changes source proportions and is a pending interpretation, not surveyed geometry.\"}",
+    "LOD conversion: {\"detail\": {\"triangles\": 28176, \"bytes\": 1226196, \"algorithm\": \"meshoptimizer simplify, Prune\", \"smoothAngleDegrees\": 60.0, \"estimatedErrorM\": 0.5688701255712658, \"sha256\": \"3a1a8469ed272c619f3ef9b0815483c4ff6986b57a8169dec3e611814d941160\", \"attempts\": [{\"triangles\": 34043, \"bytes\": 1501756, \"algorithm\": \"meshoptimizer simplify, Prune\", \"smoothAngleDegrees\": 60.0, \"estimatedErrorM\": 0.5220670870039612}, {\"triangles\": 28176, \"bytes\": 1226196, \"algorithm\": \"meshoptimizer simplify, Prune\", \"smoothAngleDegrees\": 60.0, \"estimatedErrorM\": 0.5688701255712658}]}, \"low\": {\"triangles\": 5791, \"bytes\": 202584, \"algorithm\": \"meshoptimizer simplify, Prune\", \"smoothAngleDegrees\": 180.0, \"estimatedErrorM\": 1.8229950405657291, \"sha256\": \"71f15c766e62ab883c2cb8c817d739af2448f370af3c45923d65b256d389972f\", \"attempts\": [{\"triangles\": 5791, \"bytes\": 202584, \"algorithm\": \"meshoptimizer simplify, Prune\", \"smoothAngleDegrees\": 180.0, \"estimatedErrorM\": 1.8229950405657291}]}}"
   ],
   "source": "source.blend.gz",
   "spatialSource": "spatial-source.json",
-  "preview": "preview.webp"
+  "preview": "preview.webp",
+  "wikidata": "Q243",
+  "modelSources": [
+    {
+      "title": "File:EiffelTower fixed.stl",
+      "author": "Newcandle from Thingiverse",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:EiffelTower_fixed.stl",
+      "originalFileUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/EiffelTower_fixed.stl",
+      "sha256": "bff2ce1d08609b2d761a225cb7c8c1da782369714011567ede7a5008a1e55adf",
+      "sourceTimestamp": "2018-02-25T00:39:31Z",
+      "license": "CC-BY-SA-3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "modifications": "Converted from STL; removed degenerate/duplicate faces; independently rescaled horizontal footprint and vertical height to the saved OSM rectangle and existing declared height, baked orientation and ground placement; applied the Open Landmarks material palette; simplified two LODs and repaired normals. STL units are unspecified; scaling changes the source proportions. No photographic textures.",
+      "retrievedAt": "2026-10-08T14:03:49.644328+00:00"
+    }
+  ]
 }

@@ -74,6 +74,7 @@
   "geometryStatus": "draft",
   "attribution": "Open Landmarks; contains \u00a9 OpenStreetMap contributors, ODbL-1.0",
   "references": [],
+  "modelSources": [],
   "aliases": [],
   "authors": [
     "Your name"

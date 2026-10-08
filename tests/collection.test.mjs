@@ -144,3 +144,20 @@ test('submission gate rejects a detached window even with its updated byte hash'
     await assert.rejects(validateSubmission({asset,dir}),/window triangles have no supporting wall/);
   }finally{await rm(temp,{recursive:true,force:true});}
 });
+
+
+test('approved Commons Eiffel retains its source grant in metadata and the website',async()=>{
+  const row=rows.find(r=>r.asset.id==='eiffel-tower');
+  assert.equal(row.asset.wikidata,'Q243');
+  assert.equal(row.asset.artisticLicense,'CC-BY-SA-3.0');
+  assert.equal(reviewed(row.asset,row.revision),true);
+  const latest=await get('/api/v1/latest.json');
+  const manifest=await get((await get(latest.catalogue)).assets);
+  const imported=manifest.assets.find(a=>a.id===row.asset.id);
+  assert.equal(imported.revision,row.revision);
+  assert.equal(imported.lods.detail.sha256,row.asset.lods.detail.sha256);
+  assert.deepEqual(imported.modelSources,row.asset.modelSources);
+  const source=row.asset.modelSources[0];
+  const page=await readFile(new URL('landmarks/eiffel-tower/index.html',output),'utf8');
+  for(const text of ['Model sources',source.author,source.sourcePage,source.licenseUrl])assert(page.includes(text));
+});

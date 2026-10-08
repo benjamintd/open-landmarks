@@ -53,6 +53,8 @@ no city or collection registration is needed.
 
 By submitting content, offer your original artistic contributions under CC BY 4.0, your original code under MIT, and OSM-derived spatial data under ODbL 1.0. Identify third-party inputs and any limitations on rights you can grant. Provide editable sources and applicable source data. This does not require releasing your private generation tools or buying any AI product. Maintainers must resolve incompatible or uncertain rights before approval.
 
+Imported open models may retain CC BY 4.0, CC BY-SA 3.0, CC BY-SA 4.0 or CC0 1.0. Record the actual grant in `artisticLicense`; a share-alike adaptation must retain the source license under this collection's import policy. Do not relabel third-party geometry as an original CC BY contribution. Add `modelSources` entries with the source title, author, `sourcePage`, `originalFileUrl`, original-file SHA-256, license identifier, `licenseUrl` and `modifications`. These describe geometry actually copied, separately from `references` used only for visual study. Add `wikidata` (for example `Q243`) when the model depicts an identified entity. Preserve the source page's credits and any existing change notices, and disclose scaling, rotation, repairs, colouring and simplification. Downloadable editable scenes and previews carry the applicable model terms too.
+
 Facade windows must use the approved light blue `window` material and pass whole-area
 wall-support validation in both LODs. Structural glazing uses `glass`. See the
 [material library and attachment contract](docs/MATERIALS.md).
