@@ -8,7 +8,10 @@
     "metal",
     "copper",
     "patina",
-    "terracotta"
+    "terracotta",
+    "painted-ladies-sage",
+    "painted-ladies-blue",
+    "alcatraz-concrete"
   ],
   "materials": {
     "stone": {
@@ -94,6 +97,31 @@
     "terracotta": {
       "color": "#ad6854",
       "roughness": 0.9,
+      "metalness": 0
+    },
+    "golden-gate-orange": {
+      "color": "#d45f1f",
+      "roughness": 0.9,
+      "metalness": 0
+    },
+    "painted-ladies-sage": {
+      "color": "#a5b39b",
+      "roughness": 0.88,
+      "metalness": 0
+    },
+    "painted-ladies-blue": {
+      "color": "#b5c8d2",
+      "roughness": 0.88,
+      "metalness": 0
+    },
+    "alcatraz-concrete": {
+      "color": "#c2b9a6",
+      "roughness": 0.94,
+      "metalness": 0
+    },
+    "solar-panel": {
+      "color": "#405666",
+      "roughness": 0.3,
       "metalness": 0
     }
   },

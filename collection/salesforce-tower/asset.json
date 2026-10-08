@@ -1,0 +1,510 @@
+{
+  "id": "salesforce-tower",
+  "name": "Salesforce Tower",
+  "anchor": [
+    -122.3969270504317,
+    37.789775613582016
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 154352,
+      "sha256": "dff3390409cd034d154d07281930d2a152373c39786d6f16ea1f7f022b45e34b"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 514776,
+      "sha256": "d4ff8854e3122ab4ac805c0007e74344772717bc381f6fea2dc61916bc795b43"
+    }
+  },
+  "triangles": 16542,
+  "boundsBlenderM": [
+    [
+      -32.61634826660156,
+      -32.1695442199707,
+      0
+    ],
+    [
+      34.6473503112793,
+      32.122135162353516,
+      326
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -122.3972948,
+          37.78977
+        ],
+        [
+          -122.397293,
+          37.7897673
+        ],
+        [
+          -122.3972928,
+          37.7897644
+        ],
+        [
+          -122.3972898,
+          37.7897574
+        ],
+        [
+          -122.3972846,
+          37.7897492
+        ],
+        [
+          -122.3972784,
+          37.7897399
+        ],
+        [
+          -122.3972711,
+          37.7897298
+        ],
+        [
+          -122.3972596,
+          37.7897136
+        ],
+        [
+          -122.3972509,
+          37.7897027
+        ],
+        [
+          -122.3972371,
+          37.7896887
+        ],
+        [
+          -122.3972147,
+          37.7896642
+        ],
+        [
+          -122.3971896,
+          37.7896399
+        ],
+        [
+          -122.3971685,
+          37.7896215
+        ],
+        [
+          -122.3971487,
+          37.7896054
+        ],
+        [
+          -122.3971404,
+          37.7895981
+        ],
+        [
+          -122.3971084,
+          37.7895747
+        ],
+        [
+          -122.3970853,
+          37.7895585
+        ],
+        [
+          -122.3970591,
+          37.7895425
+        ],
+        [
+          -122.3970339,
+          37.7895283
+        ],
+        [
+          -122.3969848,
+          37.7895011
+        ],
+        [
+          -122.3969667,
+          37.7894931
+        ],
+        [
+          -122.3969508,
+          37.7894892
+        ],
+        [
+          -122.3969341,
+          37.7894874
+        ],
+        [
+          -122.39692,
+          37.7894878
+        ],
+        [
+          -122.3969065,
+          37.7894904
+        ],
+        [
+          -122.3968951,
+          37.789494
+        ],
+        [
+          -122.3968612,
+          37.7895091
+        ],
+        [
+          -122.396825,
+          37.7895274
+        ],
+        [
+          -122.3967785,
+          37.7895555
+        ],
+        [
+          -122.3967267,
+          37.789591
+        ],
+        [
+          -122.3967062,
+          37.7896073
+        ],
+        [
+          -122.39668,
+          37.7896295
+        ],
+        [
+          -122.396663,
+          37.789645
+        ],
+        [
+          -122.396646,
+          37.7896614
+        ],
+        [
+          -122.3966349,
+          37.7896728
+        ],
+        [
+          -122.3966223,
+          37.7896862
+        ],
+        [
+          -122.3966129,
+          37.7896967
+        ],
+        [
+          -122.3965919,
+          37.7896807
+        ],
+        [
+          -122.3965337,
+          37.789729
+        ],
+        [
+          -122.3965735,
+          37.7897621
+        ],
+        [
+          -122.3965701,
+          37.78977
+        ],
+        [
+          -122.3965684,
+          37.7897787
+        ],
+        [
+          -122.3965691,
+          37.7897861
+        ],
+        [
+          -122.3965717,
+          37.789797
+        ],
+        [
+          -122.396574,
+          37.7898036
+        ],
+        [
+          -122.3965791,
+          37.7898125
+        ],
+        [
+          -122.3965901,
+          37.7898273
+        ],
+        [
+          -122.3966132,
+          37.7898526
+        ],
+        [
+          -122.3966368,
+          37.7898779
+        ],
+        [
+          -122.3966568,
+          37.7898969
+        ],
+        [
+          -122.3967149,
+          37.7899511
+        ],
+        [
+          -122.3967389,
+          37.7899713
+        ],
+        [
+          -122.3967517,
+          37.789981
+        ],
+        [
+          -122.3967618,
+          37.7899878
+        ],
+        [
+          -122.3968108,
+          37.7900194
+        ],
+        [
+          -122.396869,
+          37.7900461
+        ],
+        [
+          -122.3969,
+          37.7900583
+        ],
+        [
+          -122.3969108,
+          37.7900613
+        ],
+        [
+          -122.3969215,
+          37.7900628
+        ],
+        [
+          -122.3969325,
+          37.7900634
+        ],
+        [
+          -122.3969412,
+          37.7900632
+        ],
+        [
+          -122.3969498,
+          37.7900623
+        ],
+        [
+          -122.3969625,
+          37.7900604
+        ],
+        [
+          -122.3969714,
+          37.7900568
+        ],
+        [
+          -122.3969795,
+          37.7900535
+        ],
+        [
+          -122.3969965,
+          37.7900452
+        ],
+        [
+          -122.3970171,
+          37.790034
+        ],
+        [
+          -122.3970888,
+          37.7899902
+        ],
+        [
+          -122.3971128,
+          37.7899748
+        ],
+        [
+          -122.3971497,
+          37.7899473
+        ],
+        [
+          -122.3971667,
+          37.7899343
+        ],
+        [
+          -122.397188,
+          37.7899168
+        ],
+        [
+          -122.3972022,
+          37.7899034
+        ],
+        [
+          -122.3972141,
+          37.7898914
+        ],
+        [
+          -122.3972316,
+          37.7898747
+        ],
+        [
+          -122.3972479,
+          37.7898575
+        ],
+        [
+          -122.3972793,
+          37.7898217
+        ],
+        [
+          -122.3972886,
+          37.7898086
+        ],
+        [
+          -122.3972916,
+          37.7898005
+        ],
+        [
+          -122.3972939,
+          37.7897948
+        ],
+        [
+          -122.3972953,
+          37.7897874
+        ],
+        [
+          -122.3972953,
+          37.7897812
+        ],
+        [
+          -122.3972948,
+          37.78977
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 431972186,
+    "version": 19,
+    "timestamp": "2024-07-18T21:12:26Z",
+    "url": "https://www.openstreetmap.org/way/431972186"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 1053143796,
+      "version": 3,
+      "timestamp": "2022-04-20T16:04:46Z",
+      "url": "https://www.openstreetmap.org/way/1053143796"
+    },
+    {
+      "type": "way",
+      "id": 1053143797,
+      "version": 4,
+      "timestamp": "2026-09-18T14:06:13Z",
+      "url": "https://www.openstreetmap.org/way/1053143797"
+    },
+    {
+      "type": "way",
+      "id": 1053143798,
+      "version": 3,
+      "timestamp": "2022-04-20T16:04:46Z",
+      "url": "https://www.openstreetmap.org/way/1053143798"
+    },
+    {
+      "type": "way",
+      "id": 1053143799,
+      "version": 3,
+      "timestamp": "2022-04-20T16:04:46Z",
+      "url": "https://www.openstreetmap.org/way/1053143799"
+    },
+    {
+      "type": "way",
+      "id": 1053143800,
+      "version": 3,
+      "timestamp": "2022-04-20T16:04:46Z",
+      "url": "https://www.openstreetmap.org/way/1053143800"
+    },
+    {
+      "type": "way",
+      "id": 1053143801,
+      "version": 3,
+      "timestamp": "2022-04-20T16:04:46Z",
+      "url": "https://www.openstreetmap.org/way/1053143801"
+    },
+    {
+      "type": "way",
+      "id": 1053143802,
+      "version": 2,
+      "timestamp": "2022-04-20T16:04:46Z",
+      "url": "https://www.openstreetmap.org/way/1053143802"
+    },
+    {
+      "type": "way",
+      "id": 1053143803,
+      "version": 3,
+      "timestamp": "2022-04-20T16:04:46Z",
+      "url": "https://www.openstreetmap.org/way/1053143803"
+    },
+    {
+      "type": "way",
+      "id": 1053143804,
+      "version": 3,
+      "timestamp": "2022-04-20T16:04:46Z",
+      "url": "https://www.openstreetmap.org/way/1053143804"
+    },
+    {
+      "type": "way",
+      "id": 1053143805,
+      "version": 2,
+      "timestamp": "2022-04-20T16:04:46Z",
+      "url": "https://www.openstreetmap.org/way/1053143805"
+    }
+  ],
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0",
+  "references": [
+    {
+      "title": "File:Salesforce Tower 2020.jpg",
+      "author": "Saggittarius A",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Salesforce_Tower_2020.jpg",
+      "sourceSha1": "95f9eaccba1021ffb058d76c2a2e52352738b307",
+      "use": "visual-reference-only",
+      "view": "exterior"
+    },
+    {
+      "title": "File:Salesforce Tower Roof.jpg",
+      "author": "InvadingInvader",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Salesforce_Tower_Roof.jpg",
+      "sourceSha1": "358757d282f416558d91d62d96cebcc150984249",
+      "use": "visual-reference-only",
+      "view": "aerial"
+    }
+  ],
+  "kind": "building",
+  "aliases": [],
+  "authors": [
+    "Open Landmarks contributors"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted architectural interpretation and procedural recipe authoring; deterministic Python/Blender export. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Mapped: OSM way431972186 v19 supplies actual rounded-square base corners, small annex and326m height/61levels. Ten original parts preserve tags/version/date and divide eight tapering shell sectors, the upper flat core and five-level annex. Main skin starts from the union of actual shell/core polygons; the taper finishes on mapped upper core1053143805, rather than a generic circular cylinder.",
+    "Resourced: individually inspected Commons Salesforce Tower2020(CC BY-SA4.0) shows continuous rounded corners, white horizontal sunshades and vertical fins; Salesforce Tower Roof(CC BY-SA4.0) shows the open mechanical crown and inset roof. CVU/CTBUH lists326.1m architecture,61above-ground floors and274.6m occupied height. OSM rounded326m is retained. No Salesforce Transit Center or neighboring tower is included.",
+    "Inferred: intermediate taper profiles, fin projection.18m, floor-band locations and crown screen spacing are authored from photographs, not new OSM tags. The four source corners and upper core are preserved; the8source roof:height245m bands are coarse taper descriptors rather than245m high literal shed roofs. Curtain-wall skins are opaque structural glass; supported window material occurs only on vertical stone lobby walls. The open crown, inset mechanical roof, mapped annex and326m top survive independently authored low LOD."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp",
+  "previewDirection": [
+    -1,
+    0.5,
+    1
+  ]
+}

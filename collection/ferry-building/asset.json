@@ -1,0 +1,375 @@
+{
+  "id": "ferry-building",
+  "name": "Ferry Building",
+  "anchor": [
+    -122.39343978386454,
+    37.795532468425975
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 230628,
+      "sha256": "8e0f53285c42332c1953d8715736877a3781f7e67c33ceb9d6ce08e4f284e118"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 878024,
+      "sha256": "7515377b42dbd4602ab8b447eb714514d6960ff58a3634f4a89496387efa0205"
+    }
+  },
+  "triangles": 21546,
+  "boundsBlenderM": [
+    [
+      -78.06417083740234,
+      -94.67147827148438,
+      0
+    ],
+    [
+      79.86814880371094,
+      95.89983367919922,
+      83.0999984741211
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -122.3929703,
+          37.7946819
+        ],
+        [
+          -122.3928591,
+          37.7947456
+        ],
+        [
+          -122.3928419,
+          37.7947558
+        ],
+        [
+          -122.3928214,
+          37.7947677
+        ],
+        [
+          -122.3928023,
+          37.7947788
+        ],
+        [
+          -122.3927846,
+          37.7947889
+        ],
+        [
+          -122.3927295,
+          37.7948208
+        ],
+        [
+          -122.3927098,
+          37.7948322
+        ],
+        [
+          -122.392536,
+          37.7949327
+        ],
+        [
+          -122.3926572,
+          37.7950635
+        ],
+        [
+          -122.3927048,
+          37.795115
+        ],
+        [
+          -122.3927272,
+          37.7951392
+        ],
+        [
+          -122.3927446,
+          37.7951579
+        ],
+        [
+          -122.3927607,
+          37.7951753
+        ],
+        [
+          -122.3928175,
+          37.7952367
+        ],
+        [
+          -122.393033,
+          37.7954694
+        ],
+        [
+          -122.3930497,
+          37.7954875
+        ],
+        [
+          -122.3930794,
+          37.7955195
+        ],
+        [
+          -122.3931257,
+          37.7955695
+        ],
+        [
+          -122.3932063,
+          37.7956566
+        ],
+        [
+          -122.393214,
+          37.7956649
+        ],
+        [
+          -122.3933033,
+          37.7957613
+        ],
+        [
+          -122.3933509,
+          37.7958128
+        ],
+        [
+          -122.3933621,
+          37.7958248
+        ],
+        [
+          -122.3933746,
+          37.7958383
+        ],
+        [
+          -122.3934202,
+          37.7958875
+        ],
+        [
+          -122.3935266,
+          37.7960025
+        ],
+        [
+          -122.3935978,
+          37.7960793
+        ],
+        [
+          -122.3936115,
+          37.7960941
+        ],
+        [
+          -122.3936664,
+          37.7961534
+        ],
+        [
+          -122.3936846,
+          37.7961731
+        ],
+        [
+          -122.3937018,
+          37.7961916
+        ],
+        [
+          -122.3938893,
+          37.7963941
+        ],
+        [
+          -122.3941349,
+          37.7962521
+        ],
+        [
+          -122.394154,
+          37.796241
+        ],
+        [
+          -122.3941742,
+          37.7962294
+        ],
+        [
+          -122.3941946,
+          37.7962176
+        ],
+        [
+          -122.3942071,
+          37.7962103
+        ],
+        [
+          -122.3943231,
+          37.7961433
+        ],
+        [
+          -122.3943127,
+          37.7961322
+        ],
+        [
+          -122.3941436,
+          37.7959494
+        ],
+        [
+          -122.3941173,
+          37.795921
+        ],
+        [
+          -122.3937971,
+          37.7955752
+        ],
+        [
+          -122.3938787,
+          37.7955279
+        ],
+        [
+          -122.3937282,
+          37.7953657
+        ],
+        [
+          -122.3935879,
+          37.7952139
+        ],
+        [
+          -122.3935062,
+          37.7952612
+        ],
+        [
+          -122.3931762,
+          37.7949048
+        ],
+        [
+          -122.3931498,
+          37.7948774
+        ],
+        [
+          -122.3929765,
+          37.7946886
+        ],
+        [
+          -122.3929703,
+          37.7946819
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 558731934,
+    "version": 24,
+    "timestamp": "2026-10-02T20:00:43Z",
+    "url": "https://www.openstreetmap.org/way/558731934"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 24460886,
+      "version": 29,
+      "timestamp": "2026-08-31T01:50:14Z",
+      "url": "https://www.openstreetmap.org/way/24460886"
+    },
+    {
+      "type": "way",
+      "id": 404449724,
+      "version": 2,
+      "timestamp": "2016-03-31T05:11:50Z",
+      "url": "https://www.openstreetmap.org/way/404449724"
+    },
+    {
+      "type": "way",
+      "id": 406710833,
+      "version": 1,
+      "timestamp": "2016-03-31T05:11:49Z",
+      "url": "https://www.openstreetmap.org/way/406710833"
+    },
+    {
+      "type": "way",
+      "id": 406710834,
+      "version": 1,
+      "timestamp": "2016-03-31T05:11:49Z",
+      "url": "https://www.openstreetmap.org/way/406710834"
+    },
+    {
+      "type": "way",
+      "id": 406710835,
+      "version": 1,
+      "timestamp": "2016-03-31T05:11:49Z",
+      "url": "https://www.openstreetmap.org/way/406710835"
+    },
+    {
+      "type": "way",
+      "id": 406710836,
+      "version": 1,
+      "timestamp": "2016-03-31T05:11:49Z",
+      "url": "https://www.openstreetmap.org/way/406710836"
+    },
+    {
+      "type": "way",
+      "id": 406710837,
+      "version": 1,
+      "timestamp": "2016-03-31T05:11:49Z",
+      "url": "https://www.openstreetmap.org/way/406710837"
+    },
+    {
+      "type": "way",
+      "id": 406710838,
+      "version": 2,
+      "timestamp": "2016-03-31T06:07:49Z",
+      "url": "https://www.openstreetmap.org/way/406710838"
+    },
+    {
+      "type": "way",
+      "id": 406710839,
+      "version": 1,
+      "timestamp": "2016-03-31T05:11:49Z",
+      "url": "https://www.openstreetmap.org/way/406710839"
+    }
+  ],
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0",
+  "references": [
+    {
+      "title": "File:San Francisco Ferry Building (cropped).jpg",
+      "author": "JaGa",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:San_Francisco_Ferry_Building_(cropped).jpg",
+      "sourceSha1": "e6411fcbf4390b3172f403d68d94d112834dccbe",
+      "use": "visual-reference-only",
+      "view": "exterior"
+    },
+    {
+      "title": "File:California-06376 - Ferry Building (20450110740).jpg",
+      "author": "Dennis G. Jarvis",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:California-06376_-_Ferry_Building_(20450110740).jpg",
+      "sourceSha1": "9a218a7a26768e0b1ee4b51d0ab8594a68a3ddd3",
+      "use": "visual-reference-only",
+      "view": "exterior"
+    }
+  ],
+  "kind": "building",
+  "aliases": [],
+  "authors": [
+    "Open Landmarks contributors"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted architectural interpretation and procedural recipe authoring; deterministic Python/Blender export. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Mapped: OSM way558731934 v24 is the complete terminal footprint; original way24460886 v29 supplies16.1m main body. Clock-tower parts404449724,406710833–839 supply the actual nested plans and43.5/50.5/54.2/60.5/64.5/68.2/70/83.1m elevations. The narrow final83.1m part is retained as the flagstaff, not misread as the clock-face height. Every source version/date/tag is retained.",
+    "Resourced: individually inspected Commons San Francisco Ferry Building cropped (CC BY-SA4.0) shows symmetrical long arcades and the tower hierarchy; California06376 (CC BY-SA2.0) shows real open ground gallery arches and open belfry stages. Library of Congress item2013630363 records four22ft(6.7056m)clock dials and a245ft clock tower; mapped nested tiers end at70m plus slender flagstaff83.1m, so those source heights are retained rather than replacing the entire tower with a74.676m block.",
+    "Inferred: arcade depth2.1m, bay spacing, engaged upper pilasters, main-roof parapet and stepped cornices are authored from photos. Clock hands and12hour ticks are original texture-free geometry. Both LODs retain the same full plan, genuine ground arch passages, four clocks, open belfries, dome and flagstaff. No ferry pier or adjacent post office is included."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp",
+  "previewDirection": [
+    -1,
+    0.5,
+    0.7
+  ]
+}

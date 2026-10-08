@@ -70,6 +70,7 @@ test('approved pointer excludes drafts; preview has valid tiles, hashes and comp
   assert.equal(approved.count,rows.filter(r => reviewed(r.asset,r.revision)).length);
   assert.equal(preview.count,rows.length);
   const c = await get(preview.catalogue), manifest = await get(c.assets), discovered = new Set();
+  assert.equal(c.minZoom, Math.min(...manifest.assets.map(a => a.minZoom)));
   for (const cell of c.index.occupied) {
     const [x,y] = cell.split('/');
     const tile = await get(c.index.template.replace('{x}',x).replace('{y}',y));

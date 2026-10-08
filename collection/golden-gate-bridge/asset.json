@@ -1,0 +1,1369 @@
+{
+  "id": "golden-gate-bridge",
+  "name": "Golden Gate Bridge",
+  "anchor": [
+    -122.47856226195415,
+    37.81975851656291
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 13,
+  "detailZoom": 16,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 228908,
+      "sha256": "8e2ef3fe0f284d2f5d98d1682f6ac09a2192dce166ab7a35d13dcedc7cc5b262"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 1137772,
+      "sha256": "0cf978ad96a69e52376329e5c30dd3be98ba96eef988e97a046c8837425a5764"
+    }
+  },
+  "triangles": 39872,
+  "boundsBlenderM": [
+    [
+      -207.07810974121094,
+      -1304.1279296875,
+      0
+    ],
+    [
+      191.39988708496094,
+      1403.591552734375,
+      228.6298065185547
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -122.4770878,
+          37.8091426
+        ],
+        [
+          -122.4770408,
+          37.8090353
+        ],
+        [
+          -122.4769807,
+          37.8089136
+        ],
+        [
+          -122.4769171,
+          37.8087993
+        ],
+        [
+          -122.4768506,
+          37.8086924
+        ],
+        [
+          -122.4767753,
+          37.8085875
+        ],
+        [
+          -122.4766911,
+          37.8084779
+        ],
+        [
+          -122.4765887,
+          37.808361
+        ],
+        [
+          -122.4764813,
+          37.8082522
+        ],
+        [
+          -122.4763972,
+          37.8081743
+        ],
+        [
+          -122.4764084,
+          37.8081666
+        ],
+        [
+          -122.47643,
+          37.8081517
+        ],
+        [
+          -122.4764699,
+          37.8081243
+        ],
+        [
+          -122.4765727,
+          37.8080536
+        ],
+        [
+          -122.4766506,
+          37.808
+        ],
+        [
+          -122.4766694,
+          37.807988
+        ],
+        [
+          -122.4769447,
+          37.8083456
+        ],
+        [
+          -122.4770518,
+          37.8084793
+        ],
+        [
+          -122.4771322,
+          37.8085903
+        ],
+        [
+          -122.4772084,
+          37.8087099
+        ],
+        [
+          -122.4772752,
+          37.8088285
+        ],
+        [
+          -122.4773402,
+          37.8089575
+        ],
+        [
+          -122.4773540809937,
+          37.808990018957175
+        ],
+        [
+          -122.4775476,
+          37.8089786
+        ],
+        [
+          -122.4775925,
+          37.8093383
+        ],
+        [
+          -122.4775124,
+          37.8093431
+        ],
+        [
+          -122.4775698,
+          37.8098821
+        ],
+        [
+          -122.4775516,
+          37.8098836
+        ],
+        [
+          -122.477562,
+          37.8099703
+        ],
+        [
+          -122.4775896,
+          37.809968
+        ],
+        [
+          -122.4776968,
+          37.8108983
+        ],
+        [
+          -122.4776651,
+          37.8109004
+        ],
+        [
+          -122.4776749,
+          37.8109901
+        ],
+        [
+          -122.4794074,
+          37.8255727
+        ],
+        [
+          -122.4794085,
+          37.8255855
+        ],
+        [
+          -122.4797543,
+          37.8285406
+        ],
+        [
+          -122.4797871,
+          37.8285386
+        ],
+        [
+          -122.4797965,
+          37.8286217
+        ],
+        [
+          -122.4797456,
+          37.8286248
+        ],
+        [
+          -122.4797718,
+          37.8288195
+        ],
+        [
+          -122.4798484,
+          37.828815
+        ],
+        [
+          -122.4798536,
+          37.828882
+        ],
+        [
+          -122.4798543,
+          37.8288906
+        ],
+        [
+          -122.4798551,
+          37.8289011
+        ],
+        [
+          -122.4798835,
+          37.8291561
+        ],
+        [
+          -122.4799262,
+          37.8291532
+        ],
+        [
+          -122.4799572,
+          37.829431
+        ],
+        [
+          -122.4799694,
+          37.8294302
+        ],
+        [
+          -122.4799779,
+          37.8295133
+        ],
+        [
+          -122.4799211,
+          37.8295169
+        ],
+        [
+          -122.4799195,
+          37.8295011
+        ],
+        [
+          -122.4798604,
+          37.8295052
+        ],
+        [
+          -122.4799501,
+          37.8302699
+        ],
+        [
+          -122.4799682,
+          37.8304181
+        ],
+        [
+          -122.4799884,
+          37.8305759
+        ],
+        [
+          -122.4800087,
+          37.8307005
+        ],
+        [
+          -122.4800376,
+          37.8308265
+        ],
+        [
+          -122.4800723,
+          37.8309602
+        ],
+        [
+          -122.4801133,
+          37.8310812
+        ],
+        [
+          -122.4801667,
+          37.8312051
+        ],
+        [
+          -122.4802227,
+          37.8313237
+        ],
+        [
+          -122.4802858,
+          37.8314395
+        ],
+        [
+          -122.4803548,
+          37.8315539
+        ],
+        [
+          -122.4804276,
+          37.8316617
+        ],
+        [
+          -122.4804447,
+          37.8316857
+        ],
+        [
+          -122.4805254,
+          37.8317908
+        ],
+        [
+          -122.4806215,
+          37.8319052
+        ],
+        [
+          -122.4807166,
+          37.8320077
+        ],
+        [
+          -122.4808396,
+          37.8321298
+        ],
+        [
+          -122.4809672,
+          37.8322442
+        ],
+        [
+          -122.480952,
+          37.8322548
+        ],
+        [
+          -122.4808917,
+          37.832299
+        ],
+        [
+          -122.4808518,
+          37.8323081
+        ],
+        [
+          -122.4807224,
+          37.8323293
+        ],
+        [
+          -122.4806922,
+          37.8323339
+        ],
+        [
+          -122.4806229,
+          37.8323775
+        ],
+        [
+          -122.4805883,
+          37.8323459
+        ],
+        [
+          -122.4805121,
+          37.8322792
+        ],
+        [
+          -122.4804046,
+          37.8321657
+        ],
+        [
+          -122.4803028,
+          37.8320547
+        ],
+        [
+          -122.4802112,
+          37.8319368
+        ],
+        [
+          -122.4801231,
+          37.8318137
+        ],
+        [
+          -122.480091,
+          37.8317623
+        ],
+        [
+          -122.4800346,
+          37.8316718
+        ],
+        [
+          -122.4799654,
+          37.8315458
+        ],
+        [
+          -122.4799025,
+          37.8314139
+        ],
+        [
+          -122.4798502,
+          37.8312845
+        ],
+        [
+          -122.479799,
+          37.8311522
+        ],
+        [
+          -122.4797544,
+          37.83102
+        ],
+        [
+          -122.4797182,
+          37.8308784
+        ],
+        [
+          -122.4796903,
+          37.830746
+        ],
+        [
+          -122.4796698,
+          37.8306078
+        ],
+        [
+          -122.4796495,
+          37.8304478
+        ],
+        [
+          -122.4796312,
+          37.8302987
+        ],
+        [
+          -122.4795512,
+          37.8295263
+        ],
+        [
+          -122.4794867,
+          37.8295304
+        ],
+        [
+          -122.4794881,
+          37.8295438
+        ],
+        [
+          -122.4794365,
+          37.8295473
+        ],
+        [
+          -122.4794275,
+          37.8294632
+        ],
+        [
+          -122.4794428,
+          37.8294622
+        ],
+        [
+          -122.4794074,
+          37.8291381
+        ],
+        [
+          -122.4794466,
+          37.8291354
+        ],
+        [
+          -122.4794136,
+          37.8288323
+        ],
+        [
+          -122.4794863,
+          37.8288276
+        ],
+        [
+          -122.4794638,
+          37.8286403
+        ],
+        [
+          -122.4794121,
+          37.8286443
+        ],
+        [
+          -122.4794026,
+          37.828563
+        ],
+        [
+          -122.4794276,
+          37.8285611
+        ],
+        [
+          -122.4790927,
+          37.8256833
+        ],
+        [
+          -122.4790848,
+          37.8256337
+        ],
+        [
+          -122.4773742,
+          37.8110119
+        ],
+        [
+          -122.4773638,
+          37.8109219
+        ],
+        [
+          -122.4773418,
+          37.8109234
+        ],
+        [
+          -122.4772341,
+          37.8099976
+        ],
+        [
+          -122.4772609,
+          37.8099954
+        ],
+        [
+          -122.4772495,
+          37.8099088
+        ],
+        [
+          -122.4772362,
+          37.8099099
+        ],
+        [
+          -122.47714326137135,
+          37.80929921829193
+        ],
+        [
+          -122.4771246,
+          37.8092403
+        ],
+        [
+          -122.4770878,
+          37.8091426
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "relation",
+    "id": 21407754,
+    "version": 1,
+    "timestamp": "2026-09-17T20:48:35Z",
+    "url": "https://www.openstreetmap.org/relation/21407754"
+  },
+  "additionalOsm": [
+    {
+      "type": "relation",
+      "id": 21407755,
+      "version": 1,
+      "timestamp": "2026-09-17T20:48:35Z",
+      "url": "https://www.openstreetmap.org/relation/21407755"
+    },
+    {
+      "type": "way",
+      "id": 1560010161,
+      "version": 2,
+      "timestamp": "2026-09-17T21:21:13Z",
+      "url": "https://www.openstreetmap.org/way/1560010161"
+    },
+    {
+      "type": "way",
+      "id": 1560010166,
+      "version": 2,
+      "timestamp": "2026-09-17T21:21:13Z",
+      "url": "https://www.openstreetmap.org/way/1560010166"
+    }
+  ],
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; undefined",
+  "references": [
+    {
+      "title": "File:Approaching the Golden Gate Bridge from the north (178777511).jpg",
+      "author": "Joe Ross from Lansing, Michigan",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Approaching_the_Golden_Gate_Bridge_from_the_north_(178777511).jpg",
+      "sourceSha1": "202f4edc94a3a9554262bcb1d29ee5bf42e69d8d",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:DETAIL VIEW OF APPROACH SPAN DECK ARCH AT SOUTH ABUTMENT - Golden Gate Bridge, Spanning mouth of San Francisco Bay, San Francisco, San Francisco County, CA HAER CAL,38-SANFRA,140-13.tif",
+      "author": "Lowe, Jet\nRelated names:\n\nStrauss, Joseph B\nPacific Bridge Company\nJohn Roebling's Sons Company\nBethlehem Steel Company Incorporated\nJackson, Donald C, transmitter\nYearby, Jean P, transmitter\nJandoli, Liz, transmitter",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:DETAIL_VIEW_OF_APPROACH_SPAN_DECK_ARCH_AT_SOUTH_ABUTMENT_-_Golden_Gate_Bridge,_Spanning_mouth_of_San_Francisco_Bay,_San_Francisco,_San_Francisco_County,_CA_HAER_CAL,38-SANFRA,140-13.tif",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:DETAIL_VIEW_OF_APPROACH_SPAN_DECK_ARCH_AT_SOUTH_ABUTMENT_-_Golden_Gate_Bridge,_Spanning_mouth_of_San_Francisco_Bay,_San_Francisco,_San_Francisco_County,_CA_HAER_CAL,38-SANFRA,140-13.tif",
+      "sourceSha1": "7ed9a39bbe4919e4dcf35a7642125c8352a9ccac",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Aerial view of Golden Gate Bridge from southwest dllu.jpg",
+      "author": "Daniel L. Lu (user:dllu)",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Golden_Gate_Bridge_from_southwest_dllu.jpg",
+      "sourceSha1": "502ddf4a73b0587d344837aa7e5f1a77aca4b29c",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Aerial view of Golden Gate Bridge from the south dllu.jpg",
+      "author": "Daniel L. Lu (user:dllu)",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Golden_Gate_Bridge_from_the_south_dllu.jpg",
+      "sourceSha1": "63fc41d121b2b0b588e3bf810dd5f3a152d26090",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Golden Gate Bridge from above.jpg",
+      "author": "Michael Hanselmann (www.MichaelHanselmann.de)",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Golden_Gate_Bridge_from_above.jpg",
+      "sourceSha1": "10d4b1be2bfa0a935647b756709a65f9a84dcd80",
+      "use": "visual-reference-only"
+    }
+  ],
+  "kind": "bridge",
+  "terrainPlacement": {
+    "datum": "sea-level",
+    "elevationM": 0,
+    "contacts": [
+      {
+        "id": "south-land-road",
+        "mode": "transition",
+        "boundsBlenderM": [
+          [
+            121.72885810139314,
+            -1308.2377525851662,
+            51.8
+          ],
+          [
+            237.72885810139314,
+            -1232.2377525851662,
+            67.8
+          ]
+        ],
+        "referenceElevationM": 55.8,
+        "maxDeltaM": 3,
+        "sampleBlenderM": [
+          179.72885810139314,
+          -1295.2377525851662
+        ],
+        "axis": "y",
+        "innerM": -1245.2377525851662,
+        "outerM": -1295.2377525851662,
+        "sourceCoordinates": [
+          -122.47652130002452,
+          37.80808895001132
+        ],
+        "sourceGeometry": "OSM paired motorway carriageway source endpoints; actual abutments",
+        "note": "Only terminal50m ramp/abutment/railing mesh may move. Suspended span, main towers, cables and shore anchorages stay rigid."
+      },
+      {
+        "id": "north-land-road",
+        "mode": "transition",
+        "boundsBlenderM": [
+          [
+            -253.8571133774637,
+            1331.097126863494,
+            58.33
+          ],
+          [
+            -137.8571133774637,
+            1407.097126863494,
+            74.33
+          ]
+        ],
+        "referenceElevationM": 62.33,
+        "maxDeltaM": 3,
+        "sampleBlenderM": [
+          -195.8571133774637,
+          1394.097126863494
+        ],
+        "axis": "y",
+        "innerM": 1344.097126863494,
+        "outerM": 1394.097126863494,
+        "sourceCoordinates": [
+          -122.48078710000925,
+          37.832318700017765
+        ],
+        "sourceGeometry": "OSM paired motorway carriageway source endpoints; actual abutments",
+        "note": "Only terminal50m ramp/abutment/railing mesh may move. Suspended span, main towers, cables and shore anchorages stay rigid."
+      },
+      {
+        "id": "south-viaduct-foot-1--1--1",
+        "mode": "skirt",
+        "boundsBlenderM": [
+          [
+            128.63310164682412,
+            -1238.44118273598,
+            43.638742832206816
+          ],
+          [
+            131.63310164682412,
+            -1235.44118273598,
+            43.70874283220681
+          ]
+        ],
+        "referenceElevationM": 43.67374283220681,
+        "maxDeltaM": 3,
+        "sourceCoordinates": [
+          -122.47708240245996,
+          37.808646048527955
+        ],
+        "note": "Only four lowest vertices of this individual2.2m concrete footing may extend downward toDEM−0.25m. Base is initially cached host DEM+1m, never an official surveyed elevation. Steel support leg and deck vertices lie above this narrow band and remain rigid."
+      },
+      {
+        "id": "south-viaduct-foot-1--1-+1",
+        "mode": "skirt",
+        "boundsBlenderM": [
+          [
+            127.71019282951772,
+            -1228.4838618455528,
+            41.49272010526269
+          ],
+          [
+            130.71019282951772,
+            -1225.4838618455528,
+            41.562720105262684
+          ]
+        ],
+        "referenceElevationM": 41.52772010526269,
+        "maxDeltaM": 3,
+        "sourceCoordinates": [
+          -122.47709289767876,
+          37.8087355100739
+        ],
+        "note": "Only four lowest vertices of this individual2.2m concrete footing may extend downward toDEM−0.25m. Base is initially cached host DEM+1m, never an official surveyed elevation. Steel support leg and deck vertices lie above this narrow band and remain rigid."
+      },
+      {
+        "id": "south-viaduct-foot-1-+1--1",
+        "mode": "skirt",
+        "boundsBlenderM": [
+          [
+            144.56481507150767,
+            -1236.9645286282898,
+            44.866199096446216
+          ],
+          [
+            147.56481507150767,
+            -1233.9645286282898,
+            44.93619909644621
+          ]
+        ],
+        "referenceElevationM": 44.90119909644621,
+        "maxDeltaM": 3,
+        "sourceCoordinates": [
+          -122.47690122874572,
+          37.8086593155331
+        ],
+        "note": "Only four lowest vertices of this individual2.2m concrete footing may extend downward toDEM−0.25m. Base is initially cached host DEM+1m, never an official surveyed elevation. Steel support leg and deck vertices lie above this narrow band and remain rigid."
+      },
+      {
+        "id": "south-viaduct-foot-1-+1-+1",
+        "mode": "skirt",
+        "boundsBlenderM": [
+          [
+            143.64190625420127,
+            -1227.0072077378627,
+            42.6220274394354
+          ],
+          [
+            146.64190625420127,
+            -1224.0072077378627,
+            42.69202743943539
+          ]
+        ],
+        "referenceElevationM": 42.657027439435396,
+        "maxDeltaM": 3,
+        "sourceCoordinates": [
+          -122.47691172396452,
+          37.80874877706297
+        ],
+        "note": "Only four lowest vertices of this individual2.2m concrete footing may extend downward toDEM−0.25m. Base is initially cached host DEM+1m, never an official surveyed elevation. Steel support leg and deck vertices lie above this narrow band and remain rigid."
+      },
+      {
+        "id": "south-viaduct-foot-2--1--1",
+        "mode": "skirt",
+        "boundsBlenderM": [
+          [
+            104.88162459203278,
+            -1180.211576802384,
+            25.815318979341544
+          ],
+          [
+            107.88162459203278,
+            -1177.211576802384,
+            25.885318979341545
+          ]
+        ],
+        "referenceElevationM": 25.850318979341544,
+        "maxDeltaM": 3,
+        "sourceCoordinates": [
+          -122.47735250167665,
+          37.80916921086509
+        ],
+        "note": "Only four lowest vertices of this individual2.2m concrete footing may extend downward toDEM−0.25m. Base is initially cached host DEM+1m, never an official surveyed elevation. Steel support leg and deck vertices lie above this narrow band and remain rigid."
+      },
+      {
+        "id": "south-viaduct-foot-2--1-+1",
+        "mode": "skirt",
+        "boundsBlenderM": [
+          [
+            103.95871577472639,
+            -1170.2542559119568,
+            23.34023697084807
+          ],
+          [
+            106.95871577472639,
+            -1167.2542559119568,
+            23.41023697084807
+          ]
+        ],
+        "referenceElevationM": 23.37523697084807,
+        "maxDeltaM": 3,
+        "sourceCoordinates": [
+          -122.47736299689545,
+          37.8092586717772
+        ],
+        "note": "Only four lowest vertices of this individual2.2m concrete footing may extend downward toDEM−0.25m. Base is initially cached host DEM+1m, never an official surveyed elevation. Steel support leg and deck vertices lie above this narrow band and remain rigid."
+      },
+      {
+        "id": "south-viaduct-foot-2-+1--1",
+        "mode": "skirt",
+        "boundsBlenderM": [
+          [
+            120.8133380167163,
+            -1178.7349226946938,
+            28.979180655665438
+          ],
+          [
+            123.8133380167163,
+            -1175.7349226946938,
+            29.049180655665438
+          ]
+        ],
+        "referenceElevationM": 29.014180655665438,
+        "maxDeltaM": 3,
+        "sourceCoordinates": [
+          -122.47717132796241,
+          37.80918247777623
+        ],
+        "note": "Only four lowest vertices of this individual2.2m concrete footing may extend downward toDEM−0.25m. Base is initially cached host DEM+1m, never an official surveyed elevation. Steel support leg and deck vertices lie above this narrow band and remain rigid."
+      },
+      {
+        "id": "south-viaduct-foot-2-+1-+1",
+        "mode": "skirt",
+        "boundsBlenderM": [
+          [
+            119.89042919940991,
+            -1168.7776018042666,
+            26.73850712258967
+          ],
+          [
+            122.89042919940991,
+            -1165.7776018042666,
+            26.80850712258967
+          ]
+        ],
+        "referenceElevationM": 26.77350712258967,
+        "maxDeltaM": 3,
+        "sourceCoordinates": [
+          -122.47718182318121,
+          37.809271938672275
+        ],
+        "note": "Only four lowest vertices of this individual2.2m concrete footing may extend downward toDEM−0.25m. Base is initially cached host DEM+1m, never an official surveyed elevation. Steel support leg and deck vertices lie above this narrow band and remain rigid."
+      },
+      {
+        "id": "south-viaduct-foot-3--1--1",
+        "mode": "skirt",
+        "boundsBlenderM": [
+          [
+            94.06684877486659,
+            -1118.2698112642408,
+            14.060936093676936
+          ],
+          [
+            97.06684877486659,
+            -1115.2698112642408,
+            14.130936093676937
+          ]
+        ],
+        "referenceElevationM": 14.095936093676936,
+        "maxDeltaM": 3,
+        "sourceCoordinates": [
+          -122.47747548613232,
+          37.809725720932356
+        ],
+        "note": "Only four lowest vertices of this individual2.2m concrete footing may extend downward toDEM−0.25m. Base is initially cached host DEM+1m, never an official surveyed elevation. Steel support leg and deck vertices lie above this narrow band and remain rigid."
+      },
+      {
+        "id": "south-viaduct-foot-3--1-+1",
+        "mode": "skirt",
+        "boundsBlenderM": [
+          [
+            93.14393995756019,
+            -1108.3124903738137,
+            13.00603530090578
+          ],
+          [
+            96.14393995756019,
+            -1105.3124903738137,
+            13.07603530090578
+          ]
+        ],
+        "referenceElevationM": 13.04103530090578,
+        "maxDeltaM": 3,
+        "sourceCoordinates": [
+          -122.47748598135112,
+          37.809815181170244
+        ],
+        "note": "Only four lowest vertices of this individual2.2m concrete footing may extend downward toDEM−0.25m. Base is initially cached host DEM+1m, never an official surveyed elevation. Steel support leg and deck vertices lie above this narrow band and remain rigid."
+      },
+      {
+        "id": "south-viaduct-foot-3-+1--1",
+        "mode": "skirt",
+        "boundsBlenderM": [
+          [
+            109.99856219955011,
+            -1116.7931571565507,
+            18.711620976286937
+          ],
+          [
+            112.99856219955011,
+            -1113.7931571565507,
+            18.781620976286938
+          ]
+        ],
+        "referenceElevationM": 18.746620976286938,
+        "maxDeltaM": 3,
+        "sourceCoordinates": [
+          -122.47729431241808,
+          37.809738987743515
+        ],
+        "note": "Only four lowest vertices of this individual2.2m concrete footing may extend downward toDEM−0.25m. Base is initially cached host DEM+1m, never an official surveyed elevation. Steel support leg and deck vertices lie above this narrow band and remain rigid."
+      },
+      {
+        "id": "south-viaduct-foot-3-+1-+1",
+        "mode": "skirt",
+        "boundsBlenderM": [
+          [
+            109.07565338224371,
+            -1106.8358362661236,
+            17.55500276906674
+          ],
+          [
+            112.07565338224371,
+            -1103.8358362661236,
+            17.62500276906674
+          ]
+        ],
+        "referenceElevationM": 17.59000276906674,
+        "maxDeltaM": 3,
+        "sourceCoordinates": [
+          -122.47730480763688,
+          37.80982844796533
+        ],
+        "note": "Only four lowest vertices of this individual2.2m concrete footing may extend downward toDEM−0.25m. Base is initially cached host DEM+1m, never an official surveyed elevation. Steel support leg and deck vertices lie above this narrow band and remain rigid."
+      },
+      {
+        "id": "north-viaduct-foot-1--1--1",
+        "mode": "skirt",
+        "boundsBlenderM": [
+          [
+            -110.74471263344455,
+            1089.884289032091,
+            31.60750431617561
+          ],
+          [
+            -107.74471263344455,
+            1092.884289032091,
+            31.67750431617561
+          ]
+        ],
+        "referenceElevationM": 31.64250431617561,
+        "maxDeltaM": 3,
+        "sourceCoordinates": [
+          -122.47980458095782,
+          37.82956193731448
+        ],
+        "note": "Only four lowest vertices of this individual2.2m concrete footing may extend downward toDEM−0.25m. Base is initially cached host DEM+1m, never an official surveyed elevation. Steel support leg and deck vertices lie above this narrow band and remain rigid."
+      },
+      {
+        "id": "north-viaduct-foot-1--1-+1",
+        "mode": "skirt",
+        "boundsBlenderM": [
+          [
+            -112.85448218980696,
+            1112.6467245876077,
+            25.660825466822725
+          ],
+          [
+            -109.85448218980696,
+            1115.6467245876077,
+            25.730825466822726
+          ]
+        ],
+        "referenceElevationM": 25.695825466822726,
+        "maxDeltaM": 3,
+        "sourceCoordinates": [
+          -122.479828573028,
+          37.8297663883081
+        ],
+        "note": "Only four lowest vertices of this individual2.2m concrete footing may extend downward toDEM−0.25m. Base is initially cached host DEM+1m, never an official surveyed elevation. Steel support leg and deck vertices lie above this narrow band and remain rigid."
+      },
+      {
+        "id": "north-viaduct-foot-1-+1--1",
+        "mode": "skirt",
+        "boundsBlenderM": [
+          [
+            -95.56975559643348,
+            1091.2908020696657,
+            26.168992209983458
+          ],
+          [
+            -92.56975559643348,
+            1094.2908020696657,
+            26.238992209983458
+          ]
+        ],
+        "referenceElevationM": 26.203992209983458,
+        "maxDeltaM": 3,
+        "sourceCoordinates": [
+          -122.47963201299501,
+          37.829574570556694
+        ],
+        "note": "Only four lowest vertices of this individual2.2m concrete footing may extend downward toDEM−0.25m. Base is initially cached host DEM+1m, never an official surveyed elevation. Steel support leg and deck vertices lie above this narrow band and remain rigid."
+      },
+      {
+        "id": "north-viaduct-foot-1-+1-+1",
+        "mode": "skirt",
+        "boundsBlenderM": [
+          [
+            -97.67952515279589,
+            1114.0532376251824,
+            20.768275144003276
+          ],
+          [
+            -94.67952515279589,
+            1117.0532376251824,
+            20.838275144003276
+          ]
+        ],
+        "referenceElevationM": 20.803275144003276,
+        "maxDeltaM": 3,
+        "sourceCoordinates": [
+          -122.4796560050652,
+          37.829779021515314
+        ],
+        "note": "Only four lowest vertices of this individual2.2m concrete footing may extend downward toDEM−0.25m. Base is initially cached host DEM+1m, never an official surveyed elevation. Steel support leg and deck vertices lie above this narrow band and remain rigid."
+      },
+      {
+        "id": "north-viaduct-foot-2--1--1",
+        "mode": "skirt",
+        "boundsBlenderM": [
+          [
+            -116.40598021800292,
+            1152.6260582092218,
+            17.979528740615613
+          ],
+          [
+            -113.40598021800292,
+            1155.6260582092218,
+            18.049528740615614
+          ]
+        ],
+        "referenceElevationM": 18.014528740615614,
+        "maxDeltaM": 3,
+        "sourceCoordinates": [
+          -122.47986896027774,
+          37.83012547919929
+        ],
+        "note": "Only four lowest vertices of this individual2.2m concrete footing may extend downward toDEM−0.25m. Base is initially cached host DEM+1m, never an official surveyed elevation. Steel support leg and deck vertices lie above this narrow band and remain rigid."
+      },
+      {
+        "id": "north-viaduct-foot-2--1-+1",
+        "mode": "skirt",
+        "boundsBlenderM": [
+          [
+            -118.51574977436533,
+            1175.3884937647385,
+            16.615761945869412
+          ],
+          [
+            -115.51574977436533,
+            1178.3884937647385,
+            16.685761945869412
+          ]
+        ],
+        "referenceElevationM": 16.650761945869412,
+        "maxDeltaM": 3,
+        "sourceCoordinates": [
+          -122.47989295234794,
+          37.830329928631414
+        ],
+        "note": "Only four lowest vertices of this individual2.2m concrete footing may extend downward toDEM−0.25m. Base is initially cached host DEM+1m, never an official surveyed elevation. Steel support leg and deck vertices lie above this narrow band and remain rigid."
+      },
+      {
+        "id": "north-viaduct-foot-2-+1--1",
+        "mode": "skirt",
+        "boundsBlenderM": [
+          [
+            -101.23102318099185,
+            1154.0325712467966,
+            13.878290610413531
+          ],
+          [
+            -98.23102318099185,
+            1157.0325712467966,
+            13.948290610413531
+          ]
+        ],
+        "referenceElevationM": 13.913290610413531,
+        "maxDeltaM": 3,
+        "sourceCoordinates": [
+          -122.47969639231493,
+          37.83013811234501
+        ],
+        "note": "Only four lowest vertices of this individual2.2m concrete footing may extend downward toDEM−0.25m. Base is initially cached host DEM+1m, never an official surveyed elevation. Steel support leg and deck vertices lie above this narrow band and remain rigid."
+      },
+      {
+        "id": "north-viaduct-foot-2-+1-+1",
+        "mode": "skirt",
+        "boundsBlenderM": [
+          [
+            -103.34079273735426,
+            1176.7950068023133,
+            12.817706103055297
+          ],
+          [
+            -100.34079273735426,
+            1179.7950068023133,
+            12.887706103055297
+          ]
+        ],
+        "referenceElevationM": 12.852706103055297,
+        "maxDeltaM": 3,
+        "sourceCoordinates": [
+          -122.47972038438513,
+          37.830342561742135
+        ],
+        "note": "Only four lowest vertices of this individual2.2m concrete footing may extend downward toDEM−0.25m. Base is initially cached host DEM+1m, never an official surveyed elevation. Steel support leg and deck vertices lie above this narrow band and remain rigid."
+      },
+      {
+        "id": "north-viaduct-foot-3--1--1",
+        "mode": "skirt",
+        "boundsBlenderM": [
+          [
+            -123.53595047123828,
+            1215.199454720241,
+            16.564919808549188
+          ],
+          [
+            -120.53595047123828,
+            1218.199454720241,
+            16.63491980854919
+          ]
+        ],
+        "referenceElevationM": 16.59991980854919,
+        "maxDeltaM": 3,
+        "sourceCoordinates": [
+          -122.47995004152486,
+          37.83068750448663
+        ],
+        "note": "Only four lowest vertices of this individual2.2m concrete footing may extend downward toDEM−0.25m. Base is initially cached host DEM+1m, never an official surveyed elevation. Steel support leg and deck vertices lie above this narrow band and remain rigid."
+      },
+      {
+        "id": "north-viaduct-foot-3--1-+1",
+        "mode": "skirt",
+        "boundsBlenderM": [
+          [
+            -125.64572002760069,
+            1237.9618902757577,
+            17.166350048191564
+          ],
+          [
+            -122.64572002760069,
+            1240.9618902757577,
+            17.236350048191564
+          ]
+        ],
+        "referenceElevationM": 17.201350048191564,
+        "maxDeltaM": 3,
+        "sourceCoordinates": [
+          -122.47997403359506,
+          37.83089195236143
+        ],
+        "note": "Only four lowest vertices of this individual2.2m concrete footing may extend downward toDEM−0.25m. Base is initially cached host DEM+1m, never an official surveyed elevation. Steel support leg and deck vertices lie above this narrow band and remain rigid."
+      },
+      {
+        "id": "north-viaduct-foot-3-+1--1",
+        "mode": "skirt",
+        "boundsBlenderM": [
+          [
+            -108.36099343422721,
+            1216.6059677578157,
+            13.783414377418909
+          ],
+          [
+            -105.36099343422721,
+            1219.6059677578157,
+            13.85341437741891
+          ]
+        ],
+        "referenceElevationM": 13.81841437741891,
+        "maxDeltaM": 3,
+        "sourceCoordinates": [
+          -122.47977747356205,
+          37.830700137536134
+        ],
+        "note": "Only four lowest vertices of this individual2.2m concrete footing may extend downward toDEM−0.25m. Base is initially cached host DEM+1m, never an official surveyed elevation. Steel support leg and deck vertices lie above this narrow band and remain rigid."
+      },
+      {
+        "id": "north-viaduct-foot-3-+1-+1",
+        "mode": "skirt",
+        "boundsBlenderM": [
+          [
+            -110.47076299058962,
+            1239.3684033133325,
+            14.800186619176051
+          ],
+          [
+            -107.47076299058962,
+            1242.3684033133325,
+            14.870186619176051
+          ]
+        ],
+        "referenceElevationM": 14.835186619176051,
+        "maxDeltaM": 3,
+        "sourceCoordinates": [
+          -122.47980146563224,
+          37.83090458537594
+        ],
+        "note": "Only four lowest vertices of this individual2.2m concrete footing may extend downward toDEM−0.25m. Base is initially cached host DEM+1m, never an official surveyed elevation. Steel support leg and deck vertices lie above this narrow band and remain rigid."
+      },
+      {
+        "id": "north-viaduct-foot-4--1--1",
+        "mode": "skirt",
+        "boundsBlenderM": [
+          [
+            -139.9951333303827,
+            1275.9074719402122,
+            20.97037584362571
+          ],
+          [
+            -136.9951333303827,
+            1278.9074719402122,
+            21.04037584362571
+          ]
+        ],
+        "referenceElevationM": 21.00537584362571,
+        "maxDeltaM": 3,
+        "sourceCoordinates": [
+          -122.4801372135642,
+          37.83123277111279
+        ],
+        "note": "Only four lowest vertices of this individual2.2m concrete footing may extend downward toDEM−0.25m. Base is initially cached host DEM+1m, never an official surveyed elevation. Steel support leg and deck vertices lie above this narrow band and remain rigid."
+      },
+      {
+        "id": "north-viaduct-foot-4--1-+1",
+        "mode": "skirt",
+        "boundsBlenderM": [
+          [
+            -142.10490288674515,
+            1298.669907495729,
+            24.144962638587863
+          ],
+          [
+            -139.10490288674515,
+            1301.669907495729,
+            24.214962638587863
+          ]
+        ],
+        "referenceElevationM": 24.179962638587863,
+        "maxDeltaM": 3,
+        "sourceCoordinates": [
+          -122.48016120563439,
+          37.8314372174767
+        ],
+        "note": "Only four lowest vertices of this individual2.2m concrete footing may extend downward toDEM−0.25m. Base is initially cached host DEM+1m, never an official surveyed elevation. Steel support leg and deck vertices lie above this narrow band and remain rigid."
+      },
+      {
+        "id": "north-viaduct-foot-4-+1--1",
+        "mode": "skirt",
+        "boundsBlenderM": [
+          [
+            -124.82017629337167,
+            1277.313984977787,
+            19.7857498816465
+          ],
+          [
+            -121.82017629337167,
+            1280.313984977787,
+            19.8557498816465
+          ]
+        ],
+        "referenceElevationM": 19.8207498816465,
+        "maxDeltaM": 3,
+        "sourceCoordinates": [
+          -122.4799646456014,
+          37.83124540406892
+        ],
+        "note": "Only four lowest vertices of this individual2.2m concrete footing may extend downward toDEM−0.25m. Base is initially cached host DEM+1m, never an official surveyed elevation. Steel support leg and deck vertices lie above this narrow band and remain rigid."
+      },
+      {
+        "id": "north-viaduct-foot-4-+1-+1",
+        "mode": "skirt",
+        "boundsBlenderM": [
+          [
+            -126.92994584973408,
+            1300.0764205333037,
+            23.67519314065682
+          ],
+          [
+            -123.92994584973408,
+            1303.0764205333037,
+            23.74519314065682
+          ]
+        ],
+        "referenceElevationM": 23.71019314065682,
+        "maxDeltaM": 3,
+        "sourceCoordinates": [
+          -122.47998863767158,
+          37.83144985039784
+        ],
+        "note": "Only four lowest vertices of this individual2.2m concrete footing may extend downward toDEM−0.25m. Base is initially cached host DEM+1m, never an official surveyed elevation. Steel support leg and deck vertices lie above this narrow band and remain rigid."
+      }
+    ],
+    "evidence": {
+      "officialDatum": "NOAA9414290 MSL−MLLW0.951m",
+      "footingEvidence": "reports/golden-gate-bridge/host/approach-foot-dem.json",
+      "footingSourceUrl": "https://s3.amazonaws.com/elevation-tiles-prod/terrarium/12/654/1582.png",
+      "method": "Bilinear Terrarium interpolation at four authored support feet; supports are photo-guided inference, northern50ft×75ft tower footprint follows District Phase1 source; DEM approximately38m pixels, not surveyed footing elevations",
+      "coordinateSystem": "Blender X east,Y north,Z up; datum≈MSL"
+    }
+  },
+  "bridgeReplacement": {
+    "sourceLayer": "roads",
+    "names": [
+      "Golden Gate Bridge",
+      "Golden Gate Bridge East Sidewalk",
+      "Golden Gate Bridge West Sidewalk"
+    ],
+    "includeUntaggedNamedSegments": true,
+    "coverage": 0.95
+  },
+  "aliases": [],
+  "authors": [
+    "Open Landmarks contributors"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses. Dimension evidence from undefined retains undefined.",
+  "assistance": "AI-assisted architectural interpretation and procedural recipe authoring; deterministic Python/Blender export. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Source plan: actual OSM man_made=bridge relation21407754, Marin approach21407755, San Francisco approach1560010161 and Fort Point arch1560010166; original tags and geometry retained. Tower centers average the mapped bridge-tower leg outlines. The obsolete height.01 building relation19109535 is not the model source.",
+    "Official District design statistics https://www.goldengate.org/bridge/history-research/statistics-data/design-construction-stats/ give4200ft tower span,1125ft side spans,90ft overall width,62ft curb roadway,10ft sidewalks,746ft tower/cable saddle,36 3/8in main cable diameter and250 pairs of2 11/16in vertical suspender ropes at50ft spacing. Model tower spacing1280.576m follows OSM,0.416m beyond official nominal1280.16m.",
+    "Official engineering elevation, District2025-06-26 seismic presentation page4 https://www.goldengate.org/assets/1/25/2025-0626-bocomm-no8-seismicpresentation.pdf: historic MLLW crown elevations218.24ft at side pylons,246.25ft at towers,266.87ft at midpoint; pier top44ft; cable saddle746ft;3% approach tangent. These are separate from navigation clearance220ft above historic MHHW.",
+    "Z0 is approximate mean sea level. NOAA9414290 accepted tidal epoch1983-2001 gives MSL−MLLW0.951m; historic engineering elevations are converted by feet×0.3048−0.951. Tidal epochs/datums differ; this is not a surveyed NAVD88 reconciliation. Host DEM must not translate the main span to seabed or ground.",
+    "International Orange source evidence is the official CMYK0/69/100/6, approximated as#f04a00 and matching actual OSM colour. https://www.goldengate.org/bridge/history-research/bridge-features/color-art-deco-styling/ . The named golden-gate-orange finish is an authored display calibration#d45f1f,roughness.9,metalness0, selected after user review to soften excess red; it is not a measured spectral paint color. Art Deco ribs and the four ascending open portals are observed in individually inspected Commons photographs.",
+    "The main cable parabola has an authored midpoint3.3m above the official road crown; side cable and anchorage profiles, tower taper/rib section, truss depth7m and repeated members are photograph-guided inference. The small source-observed summit beacon2.2m above the official cable-saddle datum is inferred, giving total model height228.63m. The low LOD samples every third suspender station with single ropes, simpler ribs and larger truss panels; both retain real air beneath and between structural members.",
+    "Real curved OSM carriageway approaches continue to actual land abutments. Southern terminal crown55.8m extends the official3% tangent; northern terminal62.33m is inferred nearly level beyondN2 from the official elevation and inspected aerials. These inferred terminal heights match host DEM within1m and have separate limited50m transition contacts; span/towers/cables stay rigid.",
+    "Four Marin approach support towers use official50×75ft footprints from https://www.goldengate.org/district/district-projects/seismic-retrofit/phase-1/ . Their longitudinal stations and the three southern steel bents are photo-guided, not surveyed. Individual footing bottoms use cached host Terrarium DEM estimates+1m and narrow downward skirt contacts; coarse38m pixels are not a footing survey.",
+    "Four parallel real open Fort Point arch ribs and lattice spandrels follow the inspected public-domain HAER photograph. No masonry curtain or artificial terrain block fills the arch or suspended span. Fine wire safety-net mesh, rivets and vehicles are omitted at these budgets."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp",
+  "previewDirection": [
+    1.7,
+    0.3,
+    0.8
+  ]
+}

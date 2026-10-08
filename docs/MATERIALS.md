@@ -22,6 +22,16 @@ properties, image textures, transparency and material extensions fail validation
   swatch for a restrained base-to-summit iron gradient.
 - `invalides-gold` is the restrained gilded finish for the mapped Invalides
   dome and its roof ribs.
+- `golden-gate-orange` is an authored display finish for the bridge's International
+  Orange: a warmer, less saturated `#d45f1f`, with dielectric paint and high
+  roughness, calibrated for the shared map lighting. The original `#f04a00`
+  reference approximates the District's published CMYK formula
+  (0%, 69%, 100%, 6%); it is not a spectral paint measurement. See the
+  [District's color specification](https://www.goldengate.org/bridge/history-research/bridge-features/color-art-deco-styling/).
+- `painted-ladies-sage` and `painted-ladies-blue` are rough, opaque painted wood
+  finishes for the Steiner Street facades; `alcatraz-concrete` is a weathered
+  concrete finish. These are authored photographic color approximations.
+- `solar-panel` is opaque dark blue glazing for photovoltaic roof groups.
 
 Window-like openings use `window`. Doors, blind arcades, roofs and clock hands
 use the matching stone, roof or metal swatch. A model still has at most six
