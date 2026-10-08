@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 2,
+  "release": "publication-1775789afaeeef31e8cf",
+  "parent": {
+    "release": "publication-42322b4f8145974f6f55",
+    "sha256": "bf5ce6452a6145626dc6019839d55f0b50eb876c833eefed23942ce619559a1f"
+  },
+  "channels": {
+    "latest": {
+      "schemaVersion": 1,
+      "channel": "approved",
+      "release": "approved-390b5dfd6508d15bcd97",
+      "count": 24,
+      "catalogue": "/api/v1/releases/approved-390b5dfd6508d15bcd97/catalogue.json"
+    },
+    "preview": {
+      "schemaVersion": 1,
+      "channel": "preview",
+      "release": "preview-559531ed097d50590bed",
+      "count": 72,
+      "catalogue": "/api/v1/releases/preview-559531ed097d50590bed/catalogue.json"
+    }
+  },
+  "files": {
+    "api/v1/releases/approved-390b5dfd6508d15bcd97/assets.json": "32c73f7b70b2c8371f107166686942975240c06eba7e3ed5842dfc19b0dc8de1",
+    "api/v1/releases/approved-390b5dfd6508d15bcd97/catalogue.json": "90a0ffde35840cdb98eca714902353f50e196f4b32c66bdf24049a0cd3520829",
+    "api/v1/releases/approved-390b5dfd6508d15bcd97/index/12/2073/1408.json": "db09b5b0b3da36c4d7133974c7cf42ba9f4b40007bdbc91096044522b244f543",
+    "api/v1/releases/approved-390b5dfd6508d15bcd97/index/12/2074/1408.json": "046cfa10f75c1dc4cb5c854071d07e67b52dc8002c51040a99d2a61425f829e7",
+    "api/v1/releases/approved-390b5dfd6508d15bcd97/index/12/2074/1409.json": "9190720d363b23482c49d69f8e68863cce6b1e0ddd71c410e912d8c73cd431dd",
+    "api/v1/releases/approved-390b5dfd6508d15bcd97/spatial-database.json": "2cde294070a68af06f44efd5d0e1c499d2ba75e9f3f34c37f2d991709ce298b9",
+    "api/v1/releases/preview-559531ed097d50590bed/assets.json": "b2f07863d16bb4a06a8a73a7986a695cd6043c78a040519495b79702deaff750",
+    "api/v1/releases/preview-559531ed097d50590bed/catalogue.json": "4e68ddce5ca5ca909efae1c679873a03ce113ddf5e3c39e4e6fbf46c3935134f",
+    "api/v1/releases/preview-559531ed097d50590bed/index/12/2073/1408.json": "71e34acc2874f22306e94648540697b118817622468e1e7cbd99f8f4f9286ba6",
+    "api/v1/releases/preview-559531ed097d50590bed/index/12/2073/1409.json": "2c02b93bc000b6b1741bacd96dc5b59459e24e84463df29523f6b5d40a916f74",
+    "api/v1/releases/preview-559531ed097d50590bed/index/12/2074/1408.json": "2ad08fae5bc367970364fc3cda1e9ee702e69e749678644aa100012821670661",
+    "api/v1/releases/preview-559531ed097d50590bed/index/12/2074/1409.json": "6e26544726558912c29dbddd5fd51c38d6f8fc7cf123ef607a1e697cc7ff1cb3",
+    "api/v1/releases/preview-559531ed097d50590bed/index/12/2075/1408.json": "92b2b76b07d62bc949040a696da641d3308129cd739340e45486f4a8823be41f",
+    "api/v1/releases/preview-559531ed097d50590bed/index/12/2075/1409.json": "7f240e24a380d5312caff890f9ddded185dd7b67ded5add2a755768b38559614",
+    "api/v1/releases/preview-559531ed097d50590bed/spatial-database.json": "cac4a998c20301445ffd28998420924bf398060783ecbb7437791806e4701321",
+    "assets/eiffel-tower/16864073af9502ff29b974e0fdeda7ef4c125a9f82dcc416729de6cbc009ab17/asset.json": "4489217914d7b34148c71b7da45358b503d35d9e778dac3af14d89817ec9b2f8",
+    "assets/eiffel-tower/16864073af9502ff29b974e0fdeda7ef4c125a9f82dcc416729de6cbc009ab17/validation.json": "0b02ddcc8943041a6e7254be4fb8f8335f24db1af4a8b5bc076301a71040f07b",
+    "models/eiffel-tower/3a1a8469ed272c619f3ef9b0815483c4ff6986b57a8169dec3e611814d941160/detail.glb": "3a1a8469ed272c619f3ef9b0815483c4ff6986b57a8169dec3e611814d941160",
+    "models/eiffel-tower/3a1a8469ed272c619f3ef9b0815483c4ff6986b57a8169dec3e611814d941160/detail.glb.gz": "33591c4895a2603126e02c06e92ad694bc5a3205efa986cf55e4fdc707692f32",
+    "models/eiffel-tower/71f15c766e62ab883c2cb8c817d739af2448f370af3c45923d65b256d389972f/low.glb": "71f15c766e62ab883c2cb8c817d739af2448f370af3c45923d65b256d389972f",
+    "models/eiffel-tower/71f15c766e62ab883c2cb8c817d739af2448f370af3c45923d65b256d389972f/low.glb.gz": "8577564b59545dbc61196e870d265c79e306217954b3a736a551bbe38e39ebc4",
+    "objects/5373ef2a3156ca484c0aa6f9a8065d9c887c51913dd6c8d8ddeefc3b0dd2cb5d/preview.webp": "5373ef2a3156ca484c0aa6f9a8065d9c887c51913dd6c8d8ddeefc3b0dd2cb5d",
+    "objects/8fc6bd0372e5f1c4e79a55fde0d40d3d8fa24c61b6612bf87595827b6e6e038a/source.blend.gz": "8fc6bd0372e5f1c4e79a55fde0d40d3d8fa24c61b6612bf87595827b6e6e038a"
+  }
+}
