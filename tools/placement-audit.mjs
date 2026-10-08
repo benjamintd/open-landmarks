@@ -13,6 +13,15 @@ export function placementMetadataErrors(asset) {
       errors.push('bridgeReplacement requires distinct exact feature names');
     if (replacement.includeUntaggedNamedSegments !== undefined && typeof replacement.includeUntaggedNamedSegments !== 'boolean') errors.push('invalid includeUntaggedNamedSegments');
     if (!Number.isFinite(replacement.coverage) || replacement.coverage < .95 || replacement.coverage > 1) errors.push('bridgeReplacement coverage must be between .95 and 1');
+    if (replacement.buildingFootprint !== undefined) {
+      const geometry = replacement.buildingFootprint;
+      const polygons = geometry?.type === 'Polygon' ? [geometry.coordinates] : geometry?.type === 'MultiPolygon' ? geometry.coordinates : null;
+      if (!Array.isArray(polygons) || !polygons.length || polygons.length > 32 || polygons.some(p => !Array.isArray(p) || !p.length || p.some(r =>
+        !Array.isArray(r) || r.length < 4 || r.some(v => !vector(v, 2) || Math.abs(v[0]) > 180 || Math.abs(v[1]) > 90) ||
+        r[0]?.[0] !== r.at(-1)?.[0] || r[0]?.[1] !== r.at(-1)?.[1]))) errors.push('buildingFootprint requires closed WGS84 polygons');
+      const coverage = replacement.buildingCoverage ?? .8;
+      if (!Number.isFinite(coverage) || coverage < .8 || coverage > 1) errors.push('buildingCoverage must be between .8 and 1');
+    } else if (replacement.buildingCoverage !== undefined) errors.push('buildingCoverage requires buildingFootprint');
     if (!placement) errors.push('bridgeReplacement requires explicit terrainPlacement');
   }
   if (placement === undefined) return errors;

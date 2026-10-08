@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 2,
+  "release": "publication-fce4b6996095affe4749",
+  "parent": {
+    "release": "publication-118be0877c25d9994d06",
+    "sha256": "d9e23599dc68fa9e93e64d41881f9862baa1fffccf12c02ae7b1404fb0565cc6"
+  },
+  "channels": {
+    "latest": {
+      "schemaVersion": 1,
+      "channel": "approved",
+      "release": "approved-fd6e38c32192e8605389",
+      "count": 24,
+      "catalogue": "/api/v1/releases/approved-fd6e38c32192e8605389/catalogue.json"
+    },
+    "preview": {
+      "schemaVersion": 1,
+      "channel": "preview",
+      "release": "preview-a7ddefe8a05d56d0ed57",
+      "count": 83,
+      "catalogue": "/api/v1/releases/preview-a7ddefe8a05d56d0ed57/catalogue.json"
+    }
+  },
+  "files": {
+    "api/v1/releases/preview-a7ddefe8a05d56d0ed57/assets.json": "8765dece0e85af556bae28e951d5c503dc918bb62f2feef18d2d0d9606abb25d",
+    "api/v1/releases/preview-a7ddefe8a05d56d0ed57/catalogue.json": "206b31e26ae2720a1e3cb2d509c69cb48d38c7a54a11f6f1f84a98b32f2e1bfa",
+    "api/v1/releases/preview-a7ddefe8a05d56d0ed57/index/12/2073/1408.json": "397e1e49990be12b6ac1be99723de16c5eefd38c051a87c3f73e7e32c5be4096",
+    "api/v1/releases/preview-a7ddefe8a05d56d0ed57/index/12/2073/1409.json": "86e997884f72f49829948b7543a578c41f869be734676fdb16eab1766852f5b6",
+    "api/v1/releases/preview-a7ddefe8a05d56d0ed57/index/12/2074/1408.json": "d9b25115e439d20728217f90fe50fc760897921b6e972b57c893dbaff4d5b1f5",
+    "api/v1/releases/preview-a7ddefe8a05d56d0ed57/index/12/2074/1409.json": "02d256007cdc6ac265378c44f9b1578af0fc116783d62043f517b331c44914f0",
+    "api/v1/releases/preview-a7ddefe8a05d56d0ed57/index/12/2075/1408.json": "e888f9ff9e393a716422494420e9cb152e93696cc8a65f8d45c54888c6a5a6d8",
+    "api/v1/releases/preview-a7ddefe8a05d56d0ed57/index/12/2075/1409.json": "f34ab9b926467036e65cafbfc505238b93c23786de4fd2d2c417a8f5c9336378",
+    "api/v1/releases/preview-a7ddefe8a05d56d0ed57/index/12/654/1582.json": "c7b16df3b11645f40fe4afa7ea00fcd6675043bb828d5b2d8d4e37bdbefdecf6",
+    "api/v1/releases/preview-a7ddefe8a05d56d0ed57/index/12/654/1583.json": "8fb12c43c74da51fc36d19453c333cf395be5735c719064c4c9fd13b4f5d4195",
+    "api/v1/releases/preview-a7ddefe8a05d56d0ed57/index/12/655/1582.json": "541c31c1444fa9cf7d9ad36f475b7864ed55e6139052b9fde95befd403f0f630",
+    "api/v1/releases/preview-a7ddefe8a05d56d0ed57/index/12/655/1583.json": "e39789c865eb62fdc04f91c04bee56866f691b3650ff8df88a6fda2c96722161",
+    "api/v1/releases/preview-a7ddefe8a05d56d0ed57/spatial-database.json": "a4ec0a3f9e5d3f4e8d201f6cc3ccf0ec0e9bfd02b10def3507b9a214b87b176d",
+    "assets/golden-gate-bridge/28637cfcb1bd781c3fd5c373654ead0329b0ff01913cef676803732097bebb09/asset.json": "029e90e99c92df76320d87ca71b05d652096aa66feb438fe2cb8a06cfe82abe9",
+    "assets/golden-gate-bridge/28637cfcb1bd781c3fd5c373654ead0329b0ff01913cef676803732097bebb09/validation.json": "d6ff5e2af97b7101231391f86a6537182bd89f8eaac5313fcaeb4f1c17395490",
+    "objects/b9d71e38498452817cab5ece9cc3d99272aa98d21ce8f9843fb1e3ff92c25b94/spatial-source.json": "b9d71e38498452817cab5ece9cc3d99272aa98d21ce8f9843fb1e3ff92c25b94"
+  }
+}
