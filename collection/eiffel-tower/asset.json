@@ -18,8 +18,8 @@
     },
     "low": {
       "url": "low.glb",
-      "bytes": 202584,
-      "sha256": "71f15c766e62ab883c2cb8c817d739af2448f370af3c45923d65b256d389972f"
+      "bytes": 235392,
+      "sha256": "2968a4c8336f086467f347d913b88920e73e53b89131bfe1dda33bb8752cfe0f"
     }
   },
   "triangles": 28176,
@@ -602,9 +602,9 @@
     "url": "https://www.openstreetmap.org/way/5013364"
   },
   "additionalOsm": [],
-  "rightsStatus": "approved",
-  "geometryStatus": "approved",
-  "attribution": "File:EiffelTower fixed.stl by Newcandle from Thingiverse, CC-BY-SA-3.0; adapted by Open Landmarks. Contains © OpenStreetMap contributors, ODbL-1.0",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "File:EiffelTower fixed.stl by Newcandle from Thingiverse, CC-BY-SA-3.0; adapted by Open Landmarks. Contains \u00a9 OpenStreetMap contributors, ODbL-1.0",
   "references": [
     {
       "title": "File:Tour Eiffel Wikimedia Commons.jpg",
@@ -628,7 +628,7 @@
       "view": "full tower oblique, daylight"
     },
     {
-      "title": "File:La Tour Eiffel vue de la Tour Saint-Jacques, Paris août 2014 (2).jpg",
+      "title": "File:La Tour Eiffel vue de la Tour Saint-Jacques, Paris ao\u00fbt 2014 (2).jpg",
       "author": "Yann Caradec from Paris, France",
       "license": "CC BY-SA 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
@@ -646,28 +646,21 @@
   "artisticLicense": "CC-BY-SA-3.0",
   "spatialDataLicense": "ODbL-1.0",
   "licenseScope": "CC-BY-SA-3.0 applies to the imported artistic geometry, its adaptation, editable scene and previews; ODbL-1.0 applies to OSM-derived spatial data. Visual reference photographs retain their own licenses.",
-  "assistance": "AI-assisted source research and deterministic conversion tooling; artistic geometry imported from the credited creator. No photographic textures.",
+  "assistance": "AI-assisted source research, deterministic STL conversion and structural low-LOD remodeling from the credited creator\u2019s geometry. No photographic textures.",
   "review": {
-    "status": "approved",
-    "revision": "79b499ba1c1a13024334d434cb821fdbb85052c2bb5d60c7b367b99fa40e63a8",
-    "reviewer": "Benjamin TD",
-    "reviewedAt": "2026-10-08",
-    "checks": {
-      "rights": "passed",
-      "footprint": "passed",
-      "appearance": "passed",
-      "mapIntegration": "passed"
-    },
+    "status": "pending",
     "notes": [
-      "Production promotion explicitly authorised by Benjamin TD on 2026-10-08 after the imported model comparison and validation.",
-      "The source credit, original STL checksum, CC BY-SA 3.0 grant and modification notice are retained.",
-      "Print-oriented geometry, independent horizontal/vertical scaling and low-LOD lattice loss were disclosed before production approval."
+      "The previous imported-model revision was approved by Benjamin TD on 2026-10-08. This rebuilt low LOD changes the content revision and requires a fresh appearance review.",
+      "The source, attribution, CC BY-SA 3.0 grant, detailed GLB, spatial data, preview, anchor, ground envelope and overall height are retained.",
+      "Automated mesh and budget checks and front, oblique and side renders are recorded in review evidence."
     ]
   },
   "modelingNotes": [
     "Converted from STL; removed degenerate/duplicate faces; independently rescaled horizontal footprint and vertical height to the saved OSM rectangle and existing declared height, baked orientation and ground placement; applied the Open Landmarks material palette; simplified two LODs and repaired normals. STL units are unspecified; scaling changes the source proportions. No photographic textures.",
     "Registration: {\"method\": \"Independent XYZ scaling to saved OSM rectangle and existing declared height; heading baked\", \"scaleXYZ\": [2.260954069825459, 2.260954069825459, 2.7285353429420316], \"axisEastNorth\": [0.6975986957550049, 0.7164886593818665], \"centerEastNorth\": [0.21368009080060688, -0.11836828263270763], \"note\": \"STL units are unspecified. This fit changes source proportions and is a pending interpretation, not surveyed geometry.\"}",
-    "LOD conversion: {\"detail\": {\"triangles\": 28176, \"bytes\": 1226196, \"algorithm\": \"meshoptimizer simplify, Prune\", \"smoothAngleDegrees\": 60.0, \"estimatedErrorM\": 0.5688701255712658, \"sha256\": \"3a1a8469ed272c619f3ef9b0815483c4ff6986b57a8169dec3e611814d941160\", \"attempts\": [{\"triangles\": 34043, \"bytes\": 1501756, \"algorithm\": \"meshoptimizer simplify, Prune\", \"smoothAngleDegrees\": 60.0, \"estimatedErrorM\": 0.5220670870039612}, {\"triangles\": 28176, \"bytes\": 1226196, \"algorithm\": \"meshoptimizer simplify, Prune\", \"smoothAngleDegrees\": 60.0, \"estimatedErrorM\": 0.5688701255712658}]}, \"low\": {\"triangles\": 5791, \"bytes\": 202584, \"algorithm\": \"meshoptimizer simplify, Prune\", \"smoothAngleDegrees\": 180.0, \"estimatedErrorM\": 1.8229950405657291, \"sha256\": \"71f15c766e62ab883c2cb8c817d739af2448f370af3c45923d65b256d389972f\", \"attempts\": [{\"triangles\": 5791, \"bytes\": 202584, \"algorithm\": \"meshoptimizer simplify, Prune\", \"smoothAngleDegrees\": 180.0, \"estimatedErrorM\": 1.8229950405657291}]}}"
+    "Detailed LOD conversion: {\"triangles\": 28176, \"bytes\": 1226196, \"algorithm\": \"meshoptimizer simplify, Prune\", \"smoothAngleDegrees\": 60.0, \"estimatedErrorM\": 0.5688701255712658, \"sha256\": \"3a1a8469ed272c619f3ef9b0815483c4ff6986b57a8169dec3e611814d941160\", \"attempts\": [{\"triangles\": 34043, \"bytes\": 1501756, \"algorithm\": \"meshoptimizer simplify, Prune\", \"smoothAngleDegrees\": 60.0, \"estimatedErrorM\": 0.5220670870039612}, {\"triangles\": 28176, \"bytes\": 1226196, \"algorithm\": \"meshoptimizer simplify, Prune\", \"smoothAngleDegrees\": 60.0, \"estimatedErrorM\": 0.5688701255712658}]}",
+    "Low LOD rebuilt as a structural approximation of the imported STL: measured taper and platform levels, continuous chords, regular triangular-section braces, clean curved arch girders, open first-floor railings and a simplified summit. Fine internal lift frames, secondary lacing and decorative arcades are omitted. Brace ends intentionally sit inside their chords. Ground extent, 330 m height, placement, source credit and detailed GLB are retained. This is artistic geometry, not a survey.",
+    "Low LOD: {\"triangles\": 7284, \"bytes\": 235392, \"sha256\": \"2968a4c8336f086467f347d913b88920e73e53b89131bfe1dda33bb8752cfe0f\", \"boundsBlenderM\": [[-87.16862487792969, -87.50067138671875, 0.0], [87.59598541259766, 87.2639389038086, 329.9999694824219]], \"method\": \"Structural low LOD approximating the credited source profile, with regular complete braces and smooth arch strips; not surveyed geometry.\"}"
   ],
   "source": "source.blend.gz",
   "spatialSource": "spatial-source.json",
@@ -683,7 +676,7 @@
       "sourceTimestamp": "2018-02-25T00:39:31Z",
       "license": "CC-BY-SA-3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
-      "modifications": "Converted from STL; removed degenerate/duplicate faces; independently rescaled horizontal footprint and vertical height to the saved OSM rectangle and existing declared height, baked orientation and ground placement; applied the Open Landmarks material palette; simplified two LODs and repaired normals. STL units are unspecified; scaling changes the source proportions. No photographic textures.",
+      "modifications": "Converted from STL; removed degenerate/duplicate faces; independently rescaled horizontal footprint and vertical height to the saved OSM rectangle and existing declared height, baked orientation and ground placement; applied the Open Landmarks material palette; simplified two LODs and repaired normals. STL units are unspecified; scaling changes the source proportions. No photographic textures. Low LOD rebuilt as a structural approximation of the imported STL: measured taper and platform levels, continuous chords, regular triangular-section braces, clean curved arch girders, open first-floor railings and a simplified summit. Fine internal lift frames, secondary lacing and decorative arcades are omitted. Brace ends intentionally sit inside their chords. Ground extent, 330 m height, placement, source credit and detailed GLB are retained. This is artistic geometry, not a survey.",
       "retrievedAt": "2026-10-08T14:03:49.644328+00:00"
     }
   ]
