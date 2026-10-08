@@ -45,7 +45,8 @@ export async function publishAsset(row, libraryBytes, emit, read) {
 export async function publishCatalogue(channel, members, materialLibrary, emit, read) {
   if (!members.length) return { catalogue: null, pointer: { schemaVersion: 1, channel,
     release: null, count: 0, catalogue: null, status: 'no-release' } };
-  const release = `${channel}-${sha(JSON.stringify({ members, materialLibrary })).slice(0, 20)}`;
+  // Catalogue packaging changes must never reuse an older immutable URL.
+  const release = `${channel}-${sha(JSON.stringify({ schemaGeneration: 2, members, materialLibrary })).slice(0, 20)}`;
   const base = `/api/v1/releases/${release}`, cells = new Map();
   for (const asset of members) {
     const { references, assistance, osm, ...entry } = asset;
@@ -61,6 +62,7 @@ export async function publishCatalogue(channel, members, materialLibrary, emit, 
     bounds: [Math.min(...members.map(a => a.bounds[0])), Math.min(...members.map(a => a.bounds[1])),
       Math.max(...members.map(a => a.bounds[2])), Math.max(...members.map(a => a.bounds[3]))],
     maxHeightM: Math.max(0, ...members.map(a => a.boundsBlenderM[1][2])),
+    minZoom: Math.min(...members.map(a => a.minZoom)),
     attribution: 'Open Landmarks; © OpenStreetMap contributors', dataLicense: 'ODbL-1.0',
     index: { zoom: 12, template: `${base}/index/12/{x}/{y}.json`, occupied: [...cells.keys()].sort() },
     assets: `${base}/assets.json`, sourceDatabase: `${base}/spatial-database.json` };

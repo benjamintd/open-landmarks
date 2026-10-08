@@ -6,6 +6,8 @@ import { glbTriangles, windowSupportAudit } from './window-audit.mjs';
 import { meshAudit } from './mesh-audit.mjs';
 import { root, submissions, slug, sha, footprintBounds, cellsForBounds } from './common.mjs';
 import { cachedValidation, validatorFingerprint } from './validation-cache.mjs';
+import { placementMetadataErrors, terrainContactAudit } from './placement-audit.mjs';
+import { componentMetadataErrors, componentOwnershipAudit } from './component-placement-audit.mjs';
 import { componentLicenseErrors } from './component-licenses.mjs';
 const budgets = JSON.parse(await readFile(new URL('../budgets.json', import.meta.url)));
 
@@ -29,6 +31,10 @@ export async function validateSubmission({ asset, dir }) {
   if(asset.previewDirection!==undefined)check(Array.isArray(asset.previewDirection)&&asset.previewDirection.length===3&&asset.previewDirection.every(Number.isFinite)&&asset.previewDirection[1]>0,'invalid preview direction (glTF east/up/south axes)');
   const b = asset.boundsBlenderM;
   check(b?.length === 2 && b.every(v => v.length === 3 && v.every(Number.isFinite)) && b[0].every((v,i) => v <= b[1][i]), 'invalid 3D bounds');
+  const placementErrors = placementMetadataErrors(asset);
+  check(!placementErrors.length, placementErrors.join('; '));
+  const componentErrors = componentMetadataErrors(asset);
+  check(!componentErrors.length, componentErrors.join('; '));
   const reports = {}, bytes = {};
   for (const lod of ['low','detail']) {
     const spec = asset.lods?.[lod]; check(spec?.url === `${lod}.glb`, `expected ${lod}.glb`);
@@ -54,7 +60,8 @@ export async function validateSubmission({ asset, dir }) {
     check(primitives.every(p => p.attributes.POSITION !== undefined && p.attributes.NORMAL !== undefined), 'positions and normals required');
     const materials = materialAudit(doc);
     check(!materials.length, materials.join('; '));
-    const windows = windowSupportAudit(glbTriangles(raw));
+    const triangles = glbTriangles(raw);
+    const windows = windowSupportAudit(triangles);
     check(!windows.unsupported, `${lod}: ${windows.unsupported} window triangles have no supporting wall`);
     const mesh = meshAudit(raw);
     check(mesh.reduce((s,m) => s + m.triangles, 0) <= budget.triangles, `${lod}: maximum ${budget.triangles} triangles`);
@@ -65,8 +72,14 @@ export async function validateSubmission({ asset, dir }) {
     const expectedMin = [b[0][0], b[0][2], -b[1][1]], expectedMax = [b[1][0], b[1][2], -b[0][1]];
     check(min.every((v,i) => v >= expectedMin[i] - .1) && max.every((v,i) => v <= expectedMax[i] + .1), 'mesh exceeds declared bounds');
     check(min[1] >= -.1 && min[1] <= .1, 'model must touch ground at Y=0');
+    const contacts = terrainContactAudit(triangles, asset.terrainPlacement);
+    check(contacts.every(c => c.vertices > 0), `${lod}: declared terrain contact has no exported vertices`);
+    const components = componentOwnershipAudit(raw, asset.terrainComponents);
+    check(!components.errors.length, `${lod}: ${components.errors.join('; ')}`);
     reports[lod] = { sha256: sha(raw), bytes: raw.length, triangles: mesh.reduce((s,m) => s + m.triangles, 0),
-      errors: report.issues.numErrors, warnings: report.issues.numWarnings, windows, mesh };
+      errors: report.issues.numErrors, warnings: report.issues.numWarnings, windows, mesh,
+      ...(asset.terrainPlacement ? { terrainContacts: contacts } : {}),
+      ...(asset.terrainComponents ? { terrainComponents: components.components } : {}) };
   }
   for (const name of [asset.source, asset.spatialSource, asset.preview]) bytes[name] = await readFile(new URL(name, dir));
   const spatial = JSON.parse(bytes[asset.spatialSource]);

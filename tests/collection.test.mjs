@@ -70,11 +70,17 @@ test('approved pointer excludes drafts; preview has valid tiles, hashes and comp
   assert.equal(approved.count,rows.filter(r => reviewed(r.asset,r.revision)).length);
   assert.equal(preview.count,rows.length);
   const c = await get(preview.catalogue), manifest = await get(c.assets), discovered = new Set();
+  assert.equal(c.minZoom, Math.min(...manifest.assets.map(a => a.minZoom)));
   for (const cell of c.index.occupied) {
     const [x,y] = cell.split('/');
     const tile = await get(c.index.template.replace('{x}',x).replace('{y}',y));
     assert.equal(tile.release,c.release);
-    for (const a of tile.assets) { assert(cellsForBounds(a.bounds).includes(cell)); discovered.add(a.id); }
+    for (const a of tile.assets) {
+      assert(cellsForBounds(a.bounds).includes(cell)); discovered.add(a.id);
+      const source=rows.find(r=>r.asset.id===a.id).asset;
+      for(const key of ['terrainComponents','terrainPlacement','bridgeReplacement'])
+        if(source[key])assert.deepEqual(a[key],source[key],`${a.id}: index preserves its placement contract`);
+    }
   }
   assert.equal(discovered.size,rows.length);
   for (const a of manifest.assets) {
@@ -88,6 +94,8 @@ test('approved pointer excludes drafts; preview has valid tiles, hashes and comp
     const source = gunzipSync(await readFile(new URL(a.source.url.slice(1),output)));
     assert.equal(source.subarray(0,7).toString(),'BLENDER');
     const metadata = await get(a.metadata); assert.equal(metadata.revision,a.revision);
+    for(const key of ['terrainComponents','terrainPlacement','bridgeReplacement'])
+      if(a[key])assert.deepEqual(metadata[key],a[key],`${a.id}: metadata preserves its placement contract`);
   }
 });
 async function walk(dir) {

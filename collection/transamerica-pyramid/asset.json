@@ -1,0 +1,157 @@
+{
+  "id": "transamerica-pyramid",
+  "name": "Transamerica Pyramid",
+  "anchor": [
+    -122.40278580290332,
+    37.795166309954254
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 226852,
+      "sha256": "960fb5cec434e2b0637a3de005ed0be65bf2957a4c41641646c8497bc5316b17"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 1478904,
+      "sha256": "ce8d0b251328e72bb19b94202f9a449a020bb191c0b851c2b92e0999df54ca67"
+    }
+  },
+  "triangles": 29976,
+  "boundsBlenderM": [
+    [
+      -31.187440872192383,
+      -31.178895950317383,
+      0
+    ],
+    [
+      31.18812370300293,
+      31.17675018310547,
+      260
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -122.4031399,
+          37.7953705
+        ],
+        [
+          -122.4030423,
+          37.7948854
+        ],
+        [
+          -122.4024647,
+          37.794958
+        ],
+        [
+          -122.4024317,
+          37.7949621
+        ],
+        [
+          -122.4024573,
+          37.7950894
+        ],
+        [
+          -122.4024591,
+          37.7950985
+        ],
+        [
+          -122.4024953,
+          37.7952781
+        ],
+        [
+          -122.4024991,
+          37.7952971
+        ],
+        [
+          -122.4025002,
+          37.7953026
+        ],
+        [
+          -122.4025293,
+          37.7954472
+        ],
+        [
+          -122.4031399,
+          37.7953705
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 24222973,
+    "version": 26,
+    "timestamp": "2025-06-27T16:46:57Z",
+    "url": "https://www.openstreetmap.org/way/24222973"
+  },
+  "additionalOsm": [],
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; Council on Vertical Urbanism / CTBUH Skyscraper Center building772; factual260m architectural/tip height,195m occupied height and48 floors.",
+  "references": [
+    {
+      "title": "File:TransAmerica Pyramid.jpg",
+      "author": "TheWB",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:TransAmerica_Pyramid.jpg",
+      "sourceSha1": "549defd204182988369a0c702deae262c7fb5c26",
+      "use": "visual-reference-only",
+      "view": "individually-inspected-exterior"
+    },
+    {
+      "title": "File:Transamerica Pyramid.jpg",
+      "author": "wctaiwan",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Transamerica_Pyramid.jpg",
+      "sourceSha1": "03aa4a81e79fb4ed8c9d2a9bba0f9912ea153295",
+      "use": "visual-reference-only",
+      "view": "individually-inspected-exterior"
+    },
+    {
+      "title": "File:Transamerica Pyramid base architecture 1.JPG",
+      "author": "BrokenSphere",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Transamerica_Pyramid_base_architecture_1.JPG",
+      "sourceSha1": "470c42e056d601c5848434fb6776dc88c6a29e09",
+      "use": "visual-reference-only",
+      "view": "individually-inspected-exterior"
+    }
+  ],
+  "aliases": [],
+  "authors": [
+    "Open Landmarks contributors"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses. Dimension evidence from https://www.skyscrapercenter.com/pdf/building/772 retains Factual measurements; source documents are linked, not redistributed..",
+  "assistance": "AI-assisted architectural interpretation and procedural recipe authoring; deterministic Python/Blender export. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Actual global OSM way24222973 (Q216865) supplies the unchanged source outline, orientation, height260m, levels48, ele5m and1972 tags. Six actual building parts retain raw heights and roof tags: four outer30m skillion strips, inner260m pyramidal part with min_height30/roof_height230, and a215m gabled central wing. The parent roof:height260m is not added to the total height.",
+    "Council on Vertical Urbanism/CTBUH primary building record https://www.skyscrapercenter.com/pdf/building/772 confirms260m architectural/tip height,195m highest occupied floor and48 floors. The model retains260m overall, with an opaque white approximation of the aluminum spire above195m and the mapped215m wings. Geometry uses local ground Z0, not the original ele5m tag as a second offset.",
+    "Individually inspected eligible Commons photographs by TheWB, wctaiwan and BrokenSphere identify the pyramid, twin vertical mechanical wings, white stepped horizontal floor ledges, narrow vertical window bays and exposed diagonal concrete base struts with true triangular air between members. Photographs are references only and are not textures.",
+    "Photo-guided inference:43 repeated occupied facade bands between30m and195m, five lower floor bands, pane spacing (about1.60m in detail), visible ledge projection, vertical window wall positions, base core setback and V-brace thickness. The mapped30m skillion strips describe the sloping structural base envelope; they are represented as exposed braces, not solid wedges that would erase the photographed open ground structure.",
+    "The taper follows the actual mapped four-corner pyramid part to the260m apex. Each glazing row is backed by a real vertical, stepped wall band so the approved opaque blue window material is supported over its complete area. The terraced sills carry depth and shadow without textures. Detail adds raised narrow mullions and spire seams. Low authors fewer wider windows and grouped floor rows while preserving bracing, wings, spire and the four-face taper."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}
