@@ -1,0 +1,469 @@
+{
+  "id": "painted-ladies",
+  "name": "Painted Ladies",
+  "anchor": [
+    -122.43274514456145,
+    37.77627233505377
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 189232,
+      "sha256": "d0f001bd0157e750d2360f424e0eeb8ab61818ff5a2a06cd0d91721b2bb964a2"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 682716,
+      "sha256": "acd72eeb74a1286365abd35ae6d1657965fa3a369238bf461695dac55467a1b2"
+    }
+  },
+  "triangles": 12367,
+  "boundsBlenderM": [
+    [
+      -12.300354957580566,
+      -26.96785545349121,
+      0
+    ],
+    [
+      11.858379364013672,
+      27.29322624206543,
+      13
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "MultiPolygon",
+    "coordinates": [
+      [
+        [
+          [
+            -122.4326121,
+            37.7760483
+          ],
+          [
+            -122.432722,
+            37.7760346
+          ],
+          [
+            -122.4327229,
+            37.7760391
+          ],
+          [
+            -122.4327911,
+            37.7760306
+          ],
+          [
+            -122.4328024,
+            37.7760873
+          ],
+          [
+            -122.4326243,
+            37.7761095
+          ],
+          [
+            -122.4326121,
+            37.7760483
+          ]
+        ]
+      ],
+      [
+        [
+          [
+            -122.4327347,
+            37.7760979
+          ],
+          [
+            -122.4327354,
+            37.7761011
+          ],
+          [
+            -122.4328052,
+            37.7760924
+          ],
+          [
+            -122.4328169,
+            37.7761508
+          ],
+          [
+            -122.4326365,
+            37.7761733
+          ],
+          [
+            -122.4326242,
+            37.7761117
+          ],
+          [
+            -122.4327347,
+            37.7760979
+          ]
+        ]
+      ],
+      [
+        [
+          [
+            -122.4326399,
+            37.7761798
+          ],
+          [
+            -122.4326392,
+            37.7761764
+          ],
+          [
+            -122.432738,
+            37.776164
+          ],
+          [
+            -122.4327387,
+            37.7761675
+          ],
+          [
+            -122.432821,
+            37.7761572
+          ],
+          [
+            -122.4328326,
+            37.7762153
+          ],
+          [
+            -122.4327618,
+            37.776224
+          ],
+          [
+            -122.4327629,
+            37.7762298
+          ],
+          [
+            -122.4328305,
+            37.7762212
+          ],
+          [
+            -122.4328418,
+            37.7762775
+          ],
+          [
+            -122.432773,
+            37.7762861
+          ],
+          [
+            -122.4327746,
+            37.776294
+          ],
+          [
+            -122.4328435,
+            37.7762853
+          ],
+          [
+            -122.4328548,
+            37.7763412
+          ],
+          [
+            -122.4328673,
+            37.7764028
+          ],
+          [
+            -122.4326865,
+            37.7764256
+          ],
+          [
+            -122.4326741,
+            37.776364
+          ],
+          [
+            -122.4327497,
+            37.7763544
+          ],
+          [
+            -122.4327491,
+            37.7763513
+          ],
+          [
+            -122.4326763,
+            37.7763605
+          ],
+          [
+            -122.432664,
+            37.7762999
+          ],
+          [
+            -122.4326515,
+            37.7762379
+          ],
+          [
+            -122.4326399,
+            37.7761798
+          ]
+        ]
+      ],
+      [
+        [
+          [
+            -122.4328673,
+            37.7764293
+          ],
+          [
+            -122.432871,
+            37.7764457
+          ],
+          [
+            -122.4328603,
+            37.7764564
+          ],
+          [
+            -122.4328627,
+            37.7764683
+          ],
+          [
+            -122.4328794,
+            37.7764662
+          ],
+          [
+            -122.4328832,
+            37.7764845
+          ],
+          [
+            -122.4328665,
+            37.7764867
+          ],
+          [
+            -122.4328679,
+            37.7764937
+          ],
+          [
+            -122.4326837,
+            37.776517
+          ],
+          [
+            -122.432681,
+            37.7765039
+          ],
+          [
+            -122.4326711,
+            37.7765052
+          ],
+          [
+            -122.4326659,
+            37.7764795
+          ],
+          [
+            -122.4326758,
+            37.7764783
+          ],
+          [
+            -122.4326731,
+            37.7764651
+          ],
+          [
+            -122.4326905,
+            37.7764628
+          ],
+          [
+            -122.4326846,
+            37.776434
+          ],
+          [
+            -122.4327944,
+            37.7764201
+          ],
+          [
+            -122.4327959,
+            37.7764275
+          ],
+          [
+            -122.4328508,
+            37.7764206
+          ],
+          [
+            -122.4328673,
+            37.7764293
+          ]
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 261412896,
+    "version": 7,
+    "timestamp": "2023-03-17T17:37:19Z",
+    "url": "https://www.openstreetmap.org/way/261412896"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 261412895,
+      "version": 7,
+      "timestamp": "2023-03-17T17:37:19Z",
+      "url": "https://www.openstreetmap.org/way/261412895"
+    },
+    {
+      "type": "way",
+      "id": 261412900,
+      "version": 6,
+      "timestamp": "2023-03-17T17:37:19Z",
+      "url": "https://www.openstreetmap.org/way/261412900"
+    },
+    {
+      "type": "way",
+      "id": 261412894,
+      "version": 7,
+      "timestamp": "2023-03-17T17:37:19Z",
+      "url": "https://www.openstreetmap.org/way/261412894"
+    },
+    {
+      "type": "way",
+      "id": 261412879,
+      "version": 8,
+      "timestamp": "2023-03-17T17:37:19Z",
+      "url": "https://www.openstreetmap.org/way/261412879"
+    },
+    {
+      "type": "way",
+      "id": 261412899,
+      "version": 8,
+      "timestamp": "2023-03-17T17:37:19Z",
+      "url": "https://www.openstreetmap.org/way/261412899"
+    },
+    {
+      "type": "way",
+      "id": 261412887,
+      "version": 7,
+      "timestamp": "2023-03-17T17:39:45Z",
+      "url": "https://www.openstreetmap.org/way/261412887"
+    },
+    {
+      "type": "node",
+      "id": 822484002,
+      "version": 6,
+      "timestamp": "2024-03-27T14:55:03Z",
+      "url": "https://www.openstreetmap.org/node/822484002"
+    }
+  ],
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0",
+  "references": [
+    {
+      "title": "File:Painted Ladies San Francisco January 2013 panorama 2.jpg",
+      "author": "King of Hearts",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Painted_Ladies_San_Francisco_January_2013_panorama_2.jpg",
+      "sourceSha1": "f1bab1398fb45cb851148f7ce89e76432c98d45e",
+      "use": "visual-reference-only",
+      "view": "exterior"
+    },
+    {
+      "title": "File:Alamo Square, San Francisco, California, USA - 52461549517.jpg",
+      "author": "dconvertini",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Alamo_Square,_San_Francisco,_California,_USA_-_52461549517.jpg",
+      "sourceSha1": "c154c628e8b3a4dc16d76bf26f66ff3c5e73d9ad",
+      "use": "visual-reference-only",
+      "view": "exterior"
+    }
+  ],
+  "kind": "building-ensemble",
+  "terrainComponents": {
+    "attribute": "_TERRAIN_COMPONENT",
+    "maxOffsetM": 20,
+    "maxFoundationDepthM": 6,
+    "components": [
+      {
+        "id": "710",
+        "value": 1,
+        "osm": "way/261412896",
+        "sampleBlenderM": [
+          3.464245724683694,
+          -22.588650274109895
+        ]
+      },
+      {
+        "id": "712",
+        "value": 2,
+        "osm": "way/261412895",
+        "sampleBlenderM": [
+          2.2569507811765197,
+          -15.577343381839574
+        ]
+      },
+      {
+        "id": "714",
+        "value": 3,
+        "osm": "way/261412900",
+        "sampleBlenderM": [
+          0.9150804647511546,
+          -8.392728654127902
+        ]
+      },
+      {
+        "id": "716",
+        "value": 4,
+        "osm": "way/261412894",
+        "sampleBlenderM": [
+          0.0258532899824699,
+          -1.484476554659824
+        ]
+      },
+      {
+        "id": "718",
+        "value": 5,
+        "osm": "way/261412879",
+        "sampleBlenderM": [
+          -1.1242258550232813,
+          5.458333369484562
+        ]
+      },
+      {
+        "id": "720",
+        "value": 6,
+        "osm": "way/261412899",
+        "sampleBlenderM": [
+          -2.2490337422168394,
+          12.325996306623864
+        ]
+      },
+      {
+        "id": "722",
+        "value": 7,
+        "osm": "way/261412887",
+        "sampleBlenderM": [
+          -2.3246194638836153,
+          21.59332500356415
+        ]
+      }
+    ]
+  },
+  "aliases": [],
+  "authors": [
+    "Open Landmarks contributors"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted architectural interpretation and procedural recipe authoring; deterministic Python/Blender export. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Mapped: the seven independent OSM outlines at710,712,714,716,718,720,722 Steiner Street form an actual MultiPolygon. Each original house ID/version/date/address/height/roof tag is retained without injected identity tags. Houses710–720 have12m height/3m gabled roofs;722 has13m height/4m hipped roof. OSM attraction node822484002 links the broad Painted ladies WikidataQ1418042; the bundle explicitly scopes the seven-house ensemble rather than claiming the house ways carry that QID.",
+    "Resourced: SF Planning Alamo Square historic walking tour expressly identifies710–722 Steiner as Postcard Row. Individually inspected Commons January2013 panorama(CC BY-SA3.0) and Alamo Square52461549517(CC BY-SA2.0) show six narrow front gables, projecting two-floor angled bays, entry stairs, decorative brackets, paired windows and a larger722corner house. Colors are a restrained cream/sage/blue interpretation using opaque library painted finishes rather than photo textures.",
+    "Inferred: bay depth.9m, floor/stair heights, gable bargeboards, porch colonnettes, roof ridge placement and original abstract spindle/bracket geometry follow those photos. The six narrow-house bays and stairs sit within source footprints by setting back the main front wall;722 instead keeps its two original mapped bays. Canonical house bases are0m. Each complete house carries its own terrain component so the SDK can translate its walls, roof, windows and stairs together to the sampled ground level while keeping them upright. No guessed street slope is baked into source geometry. Both LODs retain seven distinct plans/heights, gables, inset entry stairs, bay projections and larger corner house."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp",
+  "previewDirection": [
+    -1,
+    0.5,
+    -0.05
+  ]
+}
