@@ -6,8 +6,9 @@ Paris is the starting coverage, not a collection identifier or release boundary.
 
 [Explore the website](https://open-landmarks.benmaps.fr).
 
-The current collection has 71 models: 24 hero landmarks approved for their exact
-revisions, and 47 drafts. Structural validation alone does not approve rights,
+The current collection has 72 models: 24 hero landmarks approved for their exact
+revisions, and 48 drafts. The drafts include eight upgraded Hero models and the
+new Petit Palais. Structural validation alone does not approve rights,
 appearance or map integration. The approved channel advances through a dataset
 publication after those reviews.
 

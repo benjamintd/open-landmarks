@@ -13,16 +13,16 @@
   "lods": {
     "low": {
       "url": "low.glb",
-      "bytes": 105008,
-      "sha256": "aa27cbdc2ea07d1add6f41429b2f7f1b98eecf20ae1ced7c9242931eb277499b"
+      "bytes": 227984,
+      "sha256": "1dc404803cd402c6f241bc841ae0569690f3f43fe7bb46e862470a1898b1382c"
     },
     "detail": {
       "url": "detail.glb",
-      "bytes": 105008,
-      "sha256": "156919f165fca07aa37119db4e159a507a9aa9ba8a6784486eeb771180ce22e8"
+      "bytes": 1465260,
+      "sha256": "1c8ee70afc6dff901bf7357a499ea4f97bf2bb3f61a42da952bfb7a691d56a9d"
     }
   },
-  "triangles": 2708,
+  "triangles": 36362,
   "boundsBlenderM": [
     [
       -35.35945510864258,
@@ -1020,9 +1020,12 @@
     "checks": {}
   },
   "modelingNotes": [
-    "Twelve mapped parts define the circular hall, entrance portico, dome and glass lantern. Part heights reach 36.3 m and supersede the 20 m outline tag.",
-    "The opaque roof/glazing treatment and repeated facade windows are map-scale interpretations. The layered mapped dome profiles are retained.",
-    "Sculpture, inscriptions, frescoes and interior furnishings are omitted."
+    "OSM relation/20087916 supplies the annular hall plan and its 19.4 m roof; the mapped dome footprints and heights 34.8, 34.9 and 36.3 m supply the three roof zones. The exported maximum remains 36.3 m.",
+    "The four portico column positions, two 1.5 m plinths, entrance pavilion and projecting pediment strip come from the mapped parts. The front wall is kept on its mapped edge and columns have real air between them.",
+    "Commons references/00.jpg (Chabe01, CC BY-SA 4.0) supplies tall lower windows, paired upper windows, facade pilasters, cornice, Corinthian portico, triangular pediment and the allegorical crest. References/01.jpg and 02.jpg depict other subjects and are excluded.",
+    "Pinault Collection, https://www.pinaultcollection.com/en/boursedecommerce/story-restoration and https://www.pinaultcollection.com/en/boursedecommerce/what-project confirm slate roofing, the iron/glass dome and 1450 glass panes. The glazing is an opaque texture-free library finish; the dome ironwork is a reduced structural grid rather than 1450 separate panes.",
+    "Inferred from the reference photo and mapped heights: facade levels 1.9-10.8 and 12.1-15.5 m, moulding profiles, 40 radial dome ribs, reduced roof railing and abstract pediment sculpture. The contradictory portico part roof/min_height tags are reconciled to column top 17.3 m, entablature 17.3-18.5 m and pediment apex 20.5 m.",
+    "The great interior rotunda, murals, inscriptions and individual sculpture ornament are omitted. Both LODs retain separately authored supported windows, open portico, slate/glass roof hierarchy and the lantern silhouette."
   ],
   "source": "source.blend.gz",
   "spatialSource": "spatial-source.json",

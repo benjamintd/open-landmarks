@@ -13,25 +13,25 @@
   "lods": {
     "low": {
       "url": "low.glb",
-      "bytes": 96520,
-      "sha256": "5028f74a1efee700d1187041326e7579c9836356b489c6b2b0baa77fd5c38535"
+      "bytes": 51828,
+      "sha256": "8ee25c2401396d2146b75b15a7703fa376d0fe5c55efc1fcc50c321e464e2733"
     },
     "detail": {
       "url": "detail.glb",
-      "bytes": 96712,
-      "sha256": "b533cfcd2c6ee93183dbc6ae6519d124a5510deb243b173c94709b3057b84726"
+      "bytes": 955272,
+      "sha256": "93e6ed700ce0080375efbc1aaf6e04d96ba6770cedad71a41cdc6a3b67992cbe"
     }
   },
-  "triangles": 1413,
+  "triangles": 16730,
   "boundsBlenderM": [
     [
-      -43.72200012207031,
-      -63.755001068115234,
+      -43.722171783447266,
+      -63.75520706176758,
       0
     ],
     [
-      50.59700012207031,
-      59.9630012512207,
+      50.59746170043945,
+      59.96261215209961,
       32
     ]
   ],
@@ -145,6 +145,16 @@
       "sourceSha1": "e9796035bf8b34401420feb4e40b5f6070c40d07",
       "use": "visual-reference-only",
       "view": "2025 river-front oblique view: monumental framed glazing below three receding roof/terrace tiers; main street corner clipped. Rear glass-roof elevation remains uncertain."
+    },
+    {
+      "title": "File:30SamaritaineMagasin2EtStGermainLAuxerois.JPG",
+      "author": "O.Taris",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:30SamaritaineMagasin2EtStGermainLAuxerois.JPG",
+      "sourceSha1": "188c5ca07e17e862961cba685ada52bc54d36fd9",
+      "use": "visual-reference-only",
+      "view": "Historical side view of Magasin 2 beside Saint-Germain-l’Auxerrois: framed multi-storey glazing, projecting floor bands and curving upper crowns. Used for facade rhythm; this older photograph does not establish the current renovated roof or exact dimensions."
     }
   ],
   "aliases": [],
@@ -161,10 +171,10 @@
     "checks": {}
   },
   "modelingNotes": [
-    "OSM defines the whole retail block, a northern 21 m mass and an internal glass-roof footprint. The southern river frontage has no part height. The inspected 2025 front photograph shows the monumental lower facade with three receding rooftop stages.",
-    "The southern frontage is explicitly inferred at 23 m with terraces at 27 and 30 m, inward setbacks 1.6 and 3.5 m, and a shallow 32 m roof crown. The northern mass retains its mapped 21 m height. These are map-scale interpretations, not survey measurements.",
-    "The mapped internal glass roof uses an inferred 21 m eave/24 m ridge based on its rooflight role; sparse references do not resolve its exact section. Structural glazing uses glass; wall panels use window. Storefront lettering, iron ornaments, mosaics, sculptures and fine balconies are omitted.",
-    "The historical side photograph supports the broad framed glazing rhythm; the 2025 river-front photo supports the stepped renovated silhouette. Both dates are retained in reference metadata."
+    "OSM defines the complete retail block, a northern 21 m mass and an internal rooflight polygon. The southern frontage has no mapped height: its retained interpretation has a 23 m main facade, terraces at 27 and 30 m with setbacks 1.6 and 3.5 m, and a 32 m roof crown. These dimensions are inferred, not surveyed.",
+    "The inspected 2025 Commons river-front view (e9796035, references/00.jpg) shows tall framed glazing between substantial Art Deco stone piers, gold-toned mullions, projecting balconies, stepped upper floors and pointed dormer crowns. Their rhythm and proportions guide detail within the saved footprint; small sculptures, flowers, mosaics and lettering are omitted.",
+    "The mapped internal rooflight retains an inferred 21 m eave/24 m ridge. Roof glazing uses glass and supported vertical facade panels use window. The selected historical side photograph references/02.jpg establishes the framed bays and projecting floor bands on Magasin 2; its curving crowns are interpreted schematically. This older view does not establish exact current roof dimensions, so the river-front silhouette follows the 2025 photo.",
+    "The walls are set back 0.5 m from the source outline to keep projecting piers and cornices within it; a low slab retains the complete plan. Six approved library finishes are used, with the spare metal role repurposed to invalides-gold for the fine gold-toned mullions/rails. Low LOD preserves the same terrace silhouette and main tall bays with fewer secondary divisions."
   ],
   "source": "source.blend.gz",
   "spatialSource": "spatial-source.json",

@@ -13,16 +13,16 @@
   "lods": {
     "low": {
       "url": "low.glb",
-      "bytes": 75400,
-      "sha256": "7a53f137656d9c334ffa9a63459e93aba1a79fc4550d4ba826530dd7e861eda3"
+      "bytes": 166128,
+      "sha256": "3b89bd6585bf75741b9c6ef34c36f4bb602c1b5d7fbd691101decf10682f1f5c"
     },
     "detail": {
       "url": "detail.glb",
-      "bytes": 75400,
-      "sha256": "9eeaa6c3460305bb2d163530a758c72fad8218ec55c4c7714bbf99b6eaba25d7"
+      "bytes": 1079724,
+      "sha256": "002ef222a74f73996ab00d62621ef465a2cebb2dc9014cf73d3fa72cdbbd3531"
     }
   },
-  "triangles": 1606,
+  "triangles": 31611,
   "boundsBlenderM": [
     [
       -51.149173736572266,
@@ -847,9 +847,10 @@
     "checks": {}
   },
   "modelingNotes": [
-    "The OSM outline, open court and mapped side wings determine placement. Original geometry is included with the source.",
-    "OSM provides levels but no metre heights: main eave 13 m, slate roof rise 5 m and low courtyard galleries 7 m are inferred from reviewed exterior views.",
-    "Mapped gate turrets use simplified 15 m shafts and 4 m conical roofs; facade openings and pediment treatment are original map-scale interpretations."
+    "Mapped: the complete OSM footprint and open horseshoe courtyard are preserved. Parts way/1206655659, /1206655665 and /1206655664 identify the low curved galleries and entrance pavilion. Four separately mapped entrance columns and the two cone-roofed gate turrets are retained at their OSM locations.",
+    "Resourced: visually inspected Commons references 00, 01 and 02 show the open paired Tuscan courtyard columns, deep cornice, two-storey main corps de logis, three arched central bays, Doric lower and Corinthian upper orders, triangular pediment, slate hipped roof, small roof finials and abstract rooftop sculpture masses. Reference 02 gives the central facade proportions.",
+    "Inferred: OSM has levels but no metre heights. Main walls are 13 m to the eave with 5 m roof rise, gallery roofs reach 7.3 m, and the mapped turrets retain the draft's 15 m shafts plus 4 m conical roofs. Sub-metre outline residuals join the adjoining low gallery. Column dimensions, bay rhythm, 0.65 m facade setback, mansard break and central pediment heights are estimated from the reviewed photographs. Both LODs preserve the 19 m draft maximum.",
+    "The galleries are actual open structures with no window panels or solid infill; paired columns support mapped continuous roof strips. All facade and dormer window panels are supported by stone faces. Classical ornaments and statues are abstract original geometry; courtyard landscaping and archive contents are omitted."
   ],
   "source": "source.blend.gz",
   "spatialSource": "spatial-source.json",
