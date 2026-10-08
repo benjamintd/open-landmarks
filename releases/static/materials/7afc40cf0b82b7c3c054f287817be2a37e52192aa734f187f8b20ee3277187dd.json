@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 1,
+  "textures": [],
+  "windowSupportMaterials": [
+    "stone",
+    "trim",
+    "roof",
+    "metal",
+    "copper",
+    "patina",
+    "terracotta",
+    "painted-ladies-sage",
+    "painted-ladies-blue",
+    "alcatraz-concrete"
+  ],
+  "materials": {
+    "stone": {
+      "color": "#efe4d3",
+      "roughness": 0.85,
+      "metalness": 0
+    },
+    "trim": {
+      "color": "#fff0dd",
+      "roughness": 0.85,
+      "metalness": 0
+    },
+    "roof": {
+      "color": "#9da6ad",
+      "roughness": 0.85,
+      "metalness": 0
+    },
+    "metal": {
+      "color": "#99816b",
+      "roughness": 0.85,
+      "metalness": 0.25
+    },
+    "entrance": {
+      "color": "#fff0cd",
+      "roughness": 0.85,
+      "metalness": 0
+    },
+    "window": {
+      "color": "#64798a",
+      "roughness": 0.35,
+      "metalness": 0
+    },
+    "glass": {
+      "color": "#a4c4d9",
+      "roughness": 0.24,
+      "metalness": 0
+    },
+    "copper": {
+      "color": "#80a28d",
+      "roughness": 0.85,
+      "metalness": 0.25
+    },
+    "patina": {
+      "color": "#6a947f",
+      "roughness": 0.85,
+      "metalness": 0.25
+    },
+    "pompidou-red": {
+      "color": "#c5463d",
+      "roughness": 0.62,
+      "metalness": 0.2
+    },
+    "pompidou-blue": {
+      "color": "#39749b",
+      "roughness": 0.62,
+      "metalness": 0.2
+    },
+    "pompidou-green": {
+      "color": "#4e8b68",
+      "roughness": 0.62,
+      "metalness": 0.2
+    },
+    "pompidou-yellow": {
+      "color": "#d0ae4e",
+      "roughness": 0.62,
+      "metalness": 0.2
+    },
+    "eiffel-iron-dark": {
+      "color": "#725b49",
+      "roughness": 0.82,
+      "metalness": 0.25
+    },
+    "eiffel-iron-light": {
+      "color": "#ae9778",
+      "roughness": 0.82,
+      "metalness": 0.25
+    },
+    "invalides-gold": {
+      "color": "#c6a660",
+      "roughness": 0.48,
+      "metalness": 0.55
+    },
+    "terracotta": {
+      "color": "#ad6854",
+      "roughness": 0.9,
+      "metalness": 0
+    },
+    "golden-gate-orange": {
+      "color": "#d45f1f",
+      "roughness": 0.9,
+      "metalness": 0
+    },
+    "painted-ladies-sage": {
+      "color": "#a5b39b",
+      "roughness": 0.88,
+      "metalness": 0
+    },
+    "painted-ladies-blue": {
+      "color": "#b5c8d2",
+      "roughness": 0.88,
+      "metalness": 0
+    },
+    "alcatraz-concrete": {
+      "color": "#c2b9a6",
+      "roughness": 0.94,
+      "metalness": 0
+    },
+    "solar-panel": {
+      "color": "#405666",
+      "roughness": 0.3,
+      "metalness": 0
+    }
+  },
+  "wallSupportToleranceM": 0.06
+}
