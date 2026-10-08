@@ -13,26 +13,26 @@
   "lods": {
     "low": {
       "url": "low.glb",
-      "bytes": 70584,
-      "sha256": "6a159a50a1a2054bfeb355145b11037c02874e5797a5f2db3f19f9747e71cedb"
+      "bytes": 199180,
+      "sha256": "02310e4538163ca06b140bb802f10a57d14920349309b486a28c939b3040b832"
     },
     "detail": {
       "url": "detail.glb",
-      "bytes": 70584,
-      "sha256": "6a159a50a1a2054bfeb355145b11037c02874e5797a5f2db3f19f9747e71cedb"
+      "bytes": 567696,
+      "sha256": "f87d561512b295233440d28866bfa8eba12a584e5b5ef8028ce7c90068a32aa0"
     }
   },
-  "triangles": 1430,
+  "triangles": 19462,
   "boundsBlenderM": [
     [
-      -8.188390731811523,
-      -10.30197811126709,
+      -8.38156795501709,
+      -10.034723281860352,
       0
     ],
     [
-      8.133805274963379,
-      10.127839088439941,
-      17.9923038482666
+      8.24500560760498,
+      9.960302352905273,
+      18
     ]
   ],
   "entranceLights": [],
@@ -360,9 +360,12 @@
     "checks": {}
   },
   "modelingNotes": [
-    "OSM outline controls width, depth and heading; the 18 m total height is retained.",
-    "Three vaulted openings and attic proportions follow reviewed daylight views; individual sculptural reliefs are omitted.",
-    "Eight freestanding columns and a small abstract four-horse roof group preserve the silhouette with original simple geometry."
+    "OSM part plans supply the wall core (way/227483586), eight column/plinth locations, stepped main cornice outline (way/227483585), the attic and upper central socle. The mapped heading and 18.0 m exported maximum are retained.",
+    "Commons references/00.jpg, 03.jpg and 05.jpg supply the Corinthian capitals, pink shafts, layered entablature, three main-face arches, side arch, framed reliefs, soldier statues, coffered main vault and four-horse rooftop group. The dark historic reference/01.jpg is not used for proportions.",
+    "The Louvre catalogue, https://collections.louvre.fr/ark:/53355/cl010091984, identifies a soldier statue from the Carrousel; the eight statues above the eight columns are represented as abstract original masses, as are the relief groups and rooftop allegories.",
+    "Inferred from the reviewed front view on the mapped plan and height: main opening 4.6 m wide with crown 9.45 m, secondary openings 2.3 m wide with crown 5.35 m, transverse passage 2.3 m wide with crown 5.2 m. These are five real through openings; none use dark facade panels.",
+    "The lower entablature follows mapped 10.5, 11, 11.5 and 12 m levels. The attic top/cornice is lowered to 14.6-14.9 m and the mapped upper part becomes a central double socle to 15.5 m. This inferred redistribution makes room for the source-backed horse proportions while retaining the existing 18 m total. Louvre horse catalogue https://collections.louvre.fr/ark:/53355/cl010089218 documents 2.5 m height and 2.8 m length; the original abstract masses use approximately 2.2 m height and 2.7 m length.",
+    "Shafts use shared terracotta to suggest pink marble; bronze horses use shared patina and the allegories use shared invalides-gold. Louvre https://presse.louvre.fr/wp-content/uploads/2024/06/3eba19092d807f4f71eed37ba04c4585.pdf confirms four horses, two gilded figures and a driver. Reliefs, garlands, wings and horse bodies are deliberately original abstract geometry; inscriptions and individual carving are omitted. Low LOD retains the five open passages, eight columns/statues and four-horse silhouette."
   ],
   "source": "source.blend.gz",
   "spatialSource": "spatial-source.json",

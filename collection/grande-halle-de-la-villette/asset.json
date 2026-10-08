@@ -13,16 +13,16 @@
   "lods": {
     "low": {
       "url": "low.glb",
-      "bytes": 54228,
-      "sha256": "cc51b052105543e25a73411389aaa4a9546543aa49598112fa823de34bd09052"
+      "bytes": 142224,
+      "sha256": "cc80ba9e8f6a72a4e8bc2ec3a9e13fa2639a7fd2c777fff9206dd8520f01e98b"
     },
     "detail": {
       "url": "detail.glb",
-      "bytes": 54228,
-      "sha256": "cc51b052105543e25a73411389aaa4a9546543aa49598112fa823de34bd09052"
+      "bytes": 1163348,
+      "sha256": "1dbba36014c8893c2ff697761c4aeb5f89c27155983448c7a4a0cf0315910a63"
     }
   },
-  "triangles": 945,
+  "triangles": 19448,
   "boundsBlenderM": [
     [
       -106.29328918457031,
@@ -129,9 +129,10 @@
     "checks": {}
   },
   "modelingNotes": [
-    "The OSM plan spans the full former cattle hall. Its 16 m outline and mapped 17/19 m raised roof parts define the roof hierarchy.",
-    "The selected exterior photograph shows a long open iron-and-glass elevation, regular columns and a central raised clerestory. Truss spacing and glazing bay dimensions are simplified map-scale readings.",
-    "Ground-floor glazing is represented by wall-attached opaque panels. Interior stalls, small metal lattice members and later event fittings are omitted."
+    "OSM supplies the rotated 242 x 87 m outline and two long raised roof polygons: way/251637908 has 15 m eaves/17 m ridge; way/251637906 has 17 m eaves/19 m ridge. Both authored LODs preserve these plans and heights.",
+    "The selected Commons photograph P1080895 Paris XIX grande halle de la Villette (7def463a) establishes three stepped roof levels, slender cast-iron columns and ties, gable lattice and an open entrance canopy. The former solid ground envelope becomes a slab, structural piers and opaque structural glazing.",
+    "The 10 m lower eave and 16 m main ridge retain the previous interpretation. The mapped front raised area defines the open canopy extent; missing level dimensions, framing spacing, glazed bay subdivision and roof seams are proportional interpretations from the photograph, not survey measurements.",
+    "Temporary event banners, equipment and photographic textures are omitted. Structural glazing uses glass. Low LOD retains open canopy, roof hierarchy and principal frame, with half the bay density."
   ],
   "source": "source.blend.gz",
   "spatialSource": "spatial-source.json",

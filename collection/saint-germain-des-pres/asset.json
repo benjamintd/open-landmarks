@@ -13,16 +13,16 @@
   "lods": {
     "low": {
       "url": "low.glb",
-      "bytes": 158032,
-      "sha256": "e603d2ba97203470424606592d93817c9a541abc99169c169ee750c6fa6639d2"
+      "bytes": 142772,
+      "sha256": "cb1f074448c6695762c038cf08739def2b6a56b84d377477180907abc2971247"
     },
     "detail": {
       "url": "detail.glb",
-      "bytes": 158080,
-      "sha256": "4ae28c77b0c23a0740a1afeea8b93ff9da723bad26ce4e7109f3d535fb51bf1b"
+      "bytes": 587808,
+      "sha256": "63600ac81ce232a9281539dcceff482b5acfd86ae0a418e03d7ec11de3627ac2"
     }
   },
-  "triangles": 3584,
+  "triangles": 14326,
   "boundsBlenderM": [
     [
       -53.464996337890625,
@@ -629,10 +629,12 @@
     "checks": {}
   },
   "modelingNotes": [
-    "The saved OSM footprint and 47 height-tagged parts define the 60 m pyramidal bell tower, 26.8 m nave/apse, low aisles, chapels and buttresses. Many chapel heights carry IGN Lidar HD provenance; original roof directions and heights are retained.",
-    "One 10.5 square metre mapped part has no height; it remains represented only by the common foundation rather than inventing a volume. Hidden internal part intersections are not a watertight building interior.",
-    "Inspected eligible references 00,03,06 confirm the tall square Romanesque tower with paired rounded bell bays, steep slate spire, long nave clerestory and attached lower street-front buildings. Bell windows, nave rhythm, stone ledges and clock are schematic map-scale inferences.",
-    "Skillion roofs include hidden stone undersides to make their volume closed and normal orientation unambiguous; no exposed sloped roofs face downward. Window and bell-bay panels use the shared light-blue window material and are clipped to actual constructed walls. Fine louvres, sculpture, clock ornament, roof crosses and individual masonry are omitted. Grey roof material substitutes for the photographed slate color."
+    "The saved OSM footprint and all 47 height-tagged parts preserve the 60 m pyramidal bell tower, 36.7/42.8 m shaft and belfry stages, 26.8 m nave/apse, low aisles, radial chapels and buttresses. Source heights, including IGN Lidar HD chapel values, and roof directions are retained; no mapped height is altered.",
+    "One 10.5 square metre part has no height and remains represented only by the common foundation. Source part intersections remain hidden interior surfaces rather than an invented surveyed interior.",
+    "Individually inspected Commons references 00,03,06 show the stepped square Romanesque shaft, paired round-headed upper belfry openings, steep slate spire, broad arched west entrance with pediment, long nave clerestory and the attached two-storey street facade with roof dormers. The upper belfry is genuinely open between piers in both LODs.",
+    "Entrance opening 3.8 m wide, 6.6 m high; paired belfry spring 40.2 m; tower corner pilaster depth .26 m; clerestory and chapel bay spacing 4.8–5.5 m; window surrounds, coursing and dormant sculpture niche are proportional photo inferences, not survey measurements. Fine bells, individual masonry, sculpture and clock ornament are omitted.",
+    "Roof shells include closed stone undersides and maintain source ridge/eave levels. The low LOD is separately authored and keeps all mapped roof hierarchies, open belfry and portal, principal window rhythm and simplified corner strips; fine masonry courses, dormers and roof seams are removed.",
+    "Opaque texture-free shared stone, trim, roof and window materials only. Vertical doorway, clerestory, lower shaft and blind-arcade panels lie on actual supporting stone wall faces; the upper belfry voids have no dark substitute panels."
   ],
   "source": "source.blend.gz",
   "spatialSource": "spatial-source.json",

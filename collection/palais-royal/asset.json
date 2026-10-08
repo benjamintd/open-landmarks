@@ -13,20 +13,20 @@
   "lods": {
     "low": {
       "url": "low.glb",
-      "bytes": 125404,
-      "sha256": "b7c0905f8e46bb076eeca713d01befada8b18ed06e5864d3cebd876151124910"
+      "bytes": 178764,
+      "sha256": "5bf778c46b12e1931bfeca6cc33766d20342b8e66ba8773deee025b83082042b"
     },
     "detail": {
       "url": "detail.glb",
-      "bytes": 125404,
-      "sha256": "b7c0905f8e46bb076eeca713d01befada8b18ed06e5864d3cebd876151124910"
+      "bytes": 1233176,
+      "sha256": "23ad4b1fdb7d26df2af78d3b100c5bcd95ca8979636134977e2c9ac0f9a26c73"
     }
   },
-  "triangles": 2828,
+  "triangles": 24278,
   "boundsBlenderM": [
     [
       -84.72614288330078,
-      -82.33223724365234,
+      -82.38783264160156,
       0
     ],
     [
@@ -810,6 +810,17 @@
   "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0",
   "references": [
     {
+      "title": "File:Conseil d'Etat Paris WA.jpg",
+      "author": "Marie-Lan Nguyen",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Conseil_d%27Etat_Paris_WA.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Conseil_d%27Etat_Paris_WA.jpg",
+      "sourceSha1": "452862c383a1b1f0d97d31addcc146deb6e2acfb",
+      "use": "visual-reference-only",
+      "view": "Palais Royal main facade from the Cour d’honneur",
+      "licenseNote": "The Commons source page records the public-domain status; no separate license URL was supplied in the original metadata."
+    },
+    {
       "title": "File:Palais Royal Les Deux Plateaux.jpg",
       "author": "Babyaimeesmom",
       "license": "CC BY-SA 4.0",
@@ -854,9 +865,10 @@
     "checks": {}
   },
   "modelingNotes": [
-    "The saved OSM footprint and its two courtyard holes remain open.",
-    "Overall height is mapped at 30 m; the 23 m eave, mansard profile and facade rhythm are inferred from reviewed courtyard photographs.",
-    "Arcades are dark shallow openings at this scale. Garden furnishings and contemporary courtyard sculptures are outside the building model."
+    "Mapped: the complete OSM multipolygon and both courtyard holes are retained, including the irregular street frontage and the two one-storey eastern parts. The mapped maximum height remains 30 m in both LODs.",
+    "Resourced: Commons references 00 (Conseil d'Etat street elevation), 02 (honour court), 03 (Ministry facade) and 05 (open cross-court colonnade) were visually inspected. They establish the tall end pavilions, open ground-floor galleries, rectangular lower windows, arched upper windows, slate mansards, stone cornices and regular dormers.",
+    "Inferred: the 22.4 m wing eave, 24.5 m pavilion eave, 7.3 m gallery entablature, 3 m arcade depth, bay pitches, window dimensions and individual chimney positions are calibrated from these photographs; OSM supplies no storey heights or roof subdivisions. The narrow mapped strip between the courtyards is modelled as a real open colonnade, and three photograph-informed ground-level arched passages connect the southern forecourt and honour court. Roof zones remain inside the mapped outline.",
+    "Roof detail: steep mansard skirts and shallow hipped upper slopes, modest ridge caps, supported dormer windows, pavilions and paired stone chimney stacks. Court furnishings, Buren's artwork and rooftop figurative sculpture are omitted."
   ],
   "source": "source.blend.gz",
   "spatialSource": "spatial-source.json",

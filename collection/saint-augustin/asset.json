@@ -13,16 +13,16 @@
   "lods": {
     "low": {
       "url": "low.glb",
-      "bytes": 225488,
-      "sha256": "a311ed5e98db825389a1d028f0aa3297a6937f7e0271837a0b89874f13b76224"
+      "bytes": 196880,
+      "sha256": "0cad9cbd133a3f28ca568e8880d39f28830f754a978f9e215fee7fecffddaf28"
     },
     "detail": {
       "url": "detail.glb",
-      "bytes": 225536,
-      "sha256": "d3c9b7f93f4f3f070323d767ba27c785ceca87e3dc1cd613ac935939a020ba51"
+      "bytes": 1217060,
+      "sha256": "84117c5a09200d3541a68d71d22d06c9aec34f14d8723bb6e57e275d57a89e4e"
     }
   },
-  "triangles": 6787,
+  "triangles": 35147,
   "boundsBlenderM": [
     [
       -31.466720581054688,
@@ -31,7 +31,7 @@
     ],
     [
       30.113130569458008,
-      40.753700256347656,
+      40.88334655761719,
       83
     ]
   ],
@@ -713,6 +713,16 @@
       "sourceSha1": "d59ce43a0259a936f223bd32aa21c16e5154705f",
       "use": "visual-reference-only",
       "view": "exterior"
+    },
+    {
+      "title": "File:Gezicht op de Sint-Augustinuskerk te Parijs, RP-F-00-9422-2.jpg",
+      "author": "Rijksmuseum",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Gezicht_op_de_Sint-Augustinuskerk_te_Parijs,_RP-F-00-9422-2.jpg",
+      "sourceSha1": "0279b6c7f12cfd8159f385a281e494fab3a9231c",
+      "use": "visual-reference-only",
+      "view": "Historic front exterior"
     }
   ],
   "aliases": [],
@@ -729,8 +739,12 @@
     "checks": {}
   },
   "modelingNotes": [
-    "The mapped 70 m main dome and raised lantern reaching 83 m dominate the tapered church plan. Smaller cupolas and gabled nave retain mapped heights; arched windows follow actual wall eaves.",
-    "Light blue facade panels are clipped to real wall faces before export and checked again in both GLB levels. Window spacing and minor cornices are inferred, not survey measurements."
+    "All mass centres and lower plans come from the saved OSM building:part polygons. The tapered aisle plan, long nave, rear apse, four octagonal turrets, front piers and lantern columns remain registered to those parts.",
+    "Mapped heights are retained: aisle 25 m; nave eave/ridge 35/40 m; corner turret eave/dome 40/45 m; main drum/dome 45/70 m; lantern platforms 71/72/78.5 m and terminal lantern roof 83 m. The main dome is still 70 m and the overall height remains 83 m.",
+    "Individually inspected Commons references 00 and 04 establish the three deep front arches, full-width sculpture frieze, large rose with concentric tracery, Romanesque upper nave bays, octagonal turret arcades, paneled hemispheroidal dome with ribs, and slender copper lantern. Reference 04 is a historical exterior and is used only to clarify the front elevation.",
+    "Porch spring 10.6 m, porch upper slab 15.2 m, rose centre 27 m/radius 5.1 m, drum window proportions, dome rib count 16 and turret ornament are proportional inferences from photographs, not survey dimensions. Sculpture is represented by abstract masses. Dome profile is a source-informed ellipse scaled to the existing mapped 25 m roof height; no source heights are silently revised.",
+    "Only opaque shared-library stone, trim, slate roof, window and copper finishes are used. All vertical windows have constructed stone supporting faces. The lantern retains real openings between mapped columns; sloped dome panels remain roof/trim geometry rather than unsupported window glass.",
+    "Low LOD is separately authored: mapped silhouette, three-arch porch, rose, eight thickened main dome ribs, principal nave/drum windows and lantern are retained; fine coursing, sculptures, secondary window surrounds and most roof seams are removed."
   ],
   "source": "source.blend.gz",
   "spatialSource": "spatial-source.json",
