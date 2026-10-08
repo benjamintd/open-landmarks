@@ -117,3 +117,5 @@ Resolve the immutable URL on the dataset origin. It lists approved sRGB colors,
 roughness and metalness. Wall windows use light blue `window`; self-supporting
 glazing uses `glass`. The source GLBs have passed full-area window support checks
 in both LODs. See [the contract](MATERIALS.md).
+
+Optional `wikidata` identifies the depicted entity (for example `Q243`). `modelSources` records geometry imported from other creators: title, author, source page, original file URL and SHA-256, license and license URL, and modifications. It differs from `references`, which lists visual study material. Consumers must retain imported-model credits and applicable share-alike terms; the model's `artisticLicense` can differ from the collection's default CC BY 4.0.

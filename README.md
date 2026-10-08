@@ -105,6 +105,7 @@ and future database/export migration.
 
 ## Licensing
 
-Original code is MIT; original artistic contributions are scoped CC BY 4.0;
+Original code is MIT; original artistic contributions are scoped CC BY 4.0; imported
+models retain their source terms, including the Eiffel Tower's CC BY-SA 3.0;
 OSM-derived spatial data and index are ODbL 1.0. Reference photos retain their own
 licenses and are not included. See [LICENSES.md](LICENSES.md) and per-model metadata.

@@ -6,6 +6,7 @@ import { glbTriangles, windowSupportAudit } from './window-audit.mjs';
 import { meshAudit } from './mesh-audit.mjs';
 import { root, submissions, slug, sha, footprintBounds, cellsForBounds } from './common.mjs';
 import { cachedValidation, validatorFingerprint } from './validation-cache.mjs';
+import { componentLicenseErrors } from './component-licenses.mjs';
 const budgets = JSON.parse(await readFile(new URL('../budgets.json', import.meta.url)));
 
 const requireThat = (condition, message) => { if (!condition) throw Error(message); };
@@ -17,7 +18,8 @@ export async function validateSubmission({ asset, dir }) {
   check(asset.units === 'metres' && asset.axes === 'X east / Y up / Z south' && asset.heading === 0, 'bake transforms; export X east, Y up, Z south in metres');
   check(asset.minZoom >= 0 && asset.detailZoom >= asset.minZoom, 'invalid zoom thresholds');
   check(asset.authors?.length && asset.authors.every(a => typeof a === 'string' && a.trim()), 'authors required');
-  check(asset.artisticLicense === 'CC-BY-4.0' && asset.spatialDataLicense === 'ODbL-1.0' && asset.licenseScope, 'component licenses required');
+  const licenseErrors = componentLicenseErrors(asset);
+  check(!licenseErrors.length, licenseErrors.join('; '));
   check(asset.attribution && asset.osm?.url?.startsWith('https://www.openstreetmap.org/'), 'OSM provenance required');
   check(Array.isArray(asset.references), 'reference provenance required (empty allowed if independently surveyed)');
   check(asset.references.every(r => r.title && r.author && r.license && /^https:\/\//.test(r.sourcePage) && /^https:\/\//.test(r.licenseUrl)), 'reference attribution incomplete');
