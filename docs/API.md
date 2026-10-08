@@ -144,6 +144,15 @@ road casing, fill and markings only while a supported bridge model is resident.
 Other roads remain visible. Restore the original layers on failure, unloading,
 style changes and extension removal.
 
+An optional `bridgeReplacement.buildingFootprint` Polygon/MultiPolygon in WGS84
+identifies only the bridge's native tower/pier extrusions. Its optional
+`buildingCoverage` defaults to 0.8 and must be between 0.8 and 1. Require that
+area coverage for every loaded fragment sharing a building ID. Suppress these
+extrusions only while the supported bridge mesh is resident; restore them on
+zoom-out, failure, unloading or removal. The elevated road footprint is never
+used to suppress buildings beneath the span. Golden Gate declares two separate
+tower footprints; Fort Point remains outside them.
+
 ### Ensembles on sloping ground
 
 `terrainComponents` declares an exported `_TERRAIN_COMPONENT` scalar attribute,

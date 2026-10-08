@@ -27,6 +27,17 @@ test('bridge replacement rejects broad unnamed masks and missing vertical placem
     const a = bridge(); mutate(a); assert(placementMetadataErrors(a).length);
   }
 });
+test('bridge tower replacement requires explicit closed footprints and at least 80% coverage', () => {
+  const a = bridge();
+  a.bridgeReplacement.buildingFootprint = {type:'MultiPolygon',coordinates:[[[[0,0],[1,0],[1,1],[0,1],[0,0]]]]};
+  assert.deepEqual(placementMetadataErrors(a), []);
+  for (const mutate of [s => s.buildingCoverage = .2, s => s.buildingFootprint.coordinates[0][0].pop(),
+    s => s.buildingFootprint.coordinates[0][0][0][0] = Infinity, s => s.buildingFootprint = {type:'Point',coordinates:[0,0]}]) {
+    const invalid = structuredClone(a); mutate(invalid.bridgeReplacement); assert(placementMetadataErrors(invalid).length);
+  }
+  delete a.bridgeReplacement.buildingFootprint; a.bridgeReplacement.buildingCoverage = .8;
+  assert(placementMetadataErrors(a).length);
+});
 test('shore metadata rejects unbounded movement, invalid probes and zero-length transitions', () => {
   for (const mutate of [c => c.maxDeltaM = Infinity, c => c.maxDeltaM = -1, c => c.outerM = c.innerM,
     c => c.sampleBlenderM = [0, 1000], c => c.referenceElevationM = 80, c => c.boundsBlenderM[0][0] = 100]) {
