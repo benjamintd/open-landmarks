@@ -8,11 +8,19 @@ import { gunzipSync } from 'node:zlib';
 import { execFileSync } from 'node:child_process';
 import { root, json, cellsForBounds, reviewed, sha } from '../tools/common.mjs';
 import { validateAll, validateSubmission } from '../tools/validate.mjs';
+import { currentPublication } from '../tools/release-records.mjs';
 
 const rows = await validateAll();
 execFileSync(process.execPath, ['tools/build.mjs'], { cwd: root, stdio: 'pipe' });
 const output = new URL('build/', root);
 const get = path => json(new URL(path.replace(/^\//,''), output));
+const publication = await currentPublication();
+const retainedCatalogue = await get(publication.channels.latest.catalogue);
+const retained = (await get(retainedCatalogue.assets)).assets;
+const withdrawn = new Set((await json(new URL('publication-policy.json',root))).withdrawn.map(a=>a.id));
+const expectedApproved = new Map(retained.filter(a=>!withdrawn.has(a.id)).map(a=>[a.id,a.revision]));
+for(const row of rows)if(!withdrawn.has(row.asset.id)&&reviewed(row.asset,row.revision))
+  expectedApproved.set(row.asset.id,row.revision);
 
 test('XYZ covers both sides of borders; rejects invalid/antimeridian bounds', () => {
   assert.deepEqual(cellsForBounds([-.01,-.01,.01,.01], 1).sort(), ['0/0','0/1','1/0','1/1']);
@@ -49,17 +57,15 @@ test('source edit changes content revision and invalidates an existing review', 
     assert.notEqual(changed.revision,rows[0].revision);
   } finally { await rm(temp,{recursive:true,force:true}); }
 });
-test('approved channel contains the reviewed hero revisions', async () => {
-  const approvedRows = rows.filter(r => reviewed(r.asset,r.revision));
-  assert.equal(approvedRows.length,24);
+test('approved channel retains prior approvals and promotes only reviewed exact replacements', async () => {
   const pointer = await get('/api/v1/latest.json');
-  assert.equal(pointer.count,approvedRows.length);
+  assert.equal(pointer.count,expectedApproved.size);
   assert(pointer.release);
   assert(pointer.catalogue);
   const catalogue = await get(pointer.catalogue);
-  assert.equal(catalogue.count,approvedRows.length);
+  assert.equal(catalogue.count,expectedApproved.size);
   const manifest = await get(catalogue.assets);
-  assert.deepEqual(manifest.assets.map(a => a.id).sort(),approvedRows.map(r => r.asset.id).sort());
+  assert.deepEqual(manifest.assets.map(a => [a.id,a.revision]).sort(),[...expectedApproved].sort());
   const docs = await readFile(new URL('docs/index.html',output),'utf8');
   assert(docs.includes('release: null'));
   assert(docs.includes('catalogue: null'));
@@ -67,7 +73,7 @@ test('approved channel contains the reviewed hero revisions', async () => {
 test('approved pointer excludes drafts; preview has valid tiles, hashes and compressed bytes', async () => {
   const approved = await get('/api/v1/latest.json');
   const preview = await get('/api/v1/preview.json');
-  assert.equal(approved.count,rows.filter(r => reviewed(r.asset,r.revision)).length);
+  assert.equal(approved.count,expectedApproved.size);
   assert.equal(preview.count,rows.length);
   const c = await get(preview.catalogue), manifest = await get(c.assets), discovered = new Set();
   for (const cell of c.index.occupied) {
@@ -145,17 +151,28 @@ test('submission gate rejects a detached window even with its updated byte hash'
 });
 
 
-test('approved Commons Eiffel retains its source grant in metadata and the website',async()=>{
+test('Commons Eiffel retains source terms while a draft preserves its approved predecessor',async()=>{
   const row=rows.find(r=>r.asset.id==='eiffel-tower');
   assert.equal(row.asset.wikidata,'Q243');
   assert.equal(row.asset.artisticLicense,'CC-BY-SA-3.0');
-  assert.equal(reviewed(row.asset,row.revision),true);
   const latest=await get('/api/v1/latest.json');
   const manifest=await get((await get(latest.catalogue)).assets);
   const imported=manifest.assets.find(a=>a.id===row.asset.id);
-  assert.equal(imported.revision,row.revision);
+  assert.equal(imported.revision,expectedApproved.get(row.asset.id));
   assert.equal(imported.lods.detail.sha256,row.asset.lods.detail.sha256);
-  assert.deepEqual(imported.modelSources,row.asset.modelSources);
+  if(reviewed(row.asset,row.revision))assert.deepEqual(imported.modelSources,row.asset.modelSources);
+  else {
+    const predecessor=retained.find(a=>a.id===row.asset.id);
+    assert.deepEqual(imported,predecessor);
+    assert.notEqual(imported.revision,row.revision);
+    assert.notEqual(imported.lods.low.sha256,row.asset.lods.low.sha256);
+    const preview=await get('/api/v1/preview.json');
+    const drafts=await get((await get(preview.catalogue)).assets);
+    const replacement=drafts.assets.find(a=>a.id===row.asset.id);
+    assert.equal(replacement.revision,row.revision);
+    assert.equal(replacement.approved,false);
+    assert.deepEqual(replacement.modelSources,row.asset.modelSources);
+  }
   const source=row.asset.modelSources[0];
   const page=await readFile(new URL('landmarks/eiffel-tower/index.html',output),'utf8');
   for(const text of ['Model sources',source.author,source.sourcePage,source.licenseUrl])assert(page.includes(text));
