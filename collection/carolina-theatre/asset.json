@@ -1,0 +1,313 @@
+{
+  "id": "carolina-theatre",
+  "name": "Carolina Theatre",
+  "anchor": [
+    -80.8407376,
+    35.2283538
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 29932,
+      "sha256": "cad2aa7f02dc2a436908df7fd4dabd7bd76ca1f8c563b82c99c723eb6ac5c04e"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 29932,
+      "sha256": "cad2aa7f02dc2a436908df7fd4dabd7bd76ca1f8c563b82c99c723eb6ac5c04e"
+    }
+  },
+  "triangles": 492,
+  "boundsBlenderM": [
+    [
+      -28.081,
+      -32.72,
+      0
+    ],
+    [
+      35.156,
+      36.261,
+      29.559
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.8410411,
+          35.2284987
+        ],
+        [
+          -80.8408047,
+          35.2286773
+        ],
+        [
+          -80.8407336,
+          35.2286146
+        ],
+        [
+          -80.840737,
+          35.228612
+        ],
+        [
+          -80.8406469,
+          35.2285332
+        ],
+        [
+          -80.8405807,
+          35.2284742
+        ],
+        [
+          -80.8404243,
+          35.228336
+        ],
+        [
+          -80.8403511,
+          35.2282711
+        ],
+        [
+          -80.8403913,
+          35.2282409
+        ],
+        [
+          -80.8405424,
+          35.2281268
+        ],
+        [
+          -80.8406157,
+          35.2281915
+        ],
+        [
+          -80.8406579,
+          35.2281597
+        ],
+        [
+          -80.8407007,
+          35.228197
+        ],
+        [
+          -80.8407391,
+          35.2281685
+        ],
+        [
+          -80.8407838,
+          35.2281373
+        ],
+        [
+          -80.8407555,
+          35.228112
+        ],
+        [
+          -80.8408277,
+          35.2280581
+        ],
+        [
+          -80.8408483,
+          35.2280793
+        ],
+        [
+          -80.8409793,
+          35.2282133
+        ],
+        [
+          -80.8410395,
+          35.2282749
+        ],
+        [
+          -80.840996,
+          35.2283052
+        ],
+        [
+          -80.8408992,
+          35.2283728
+        ],
+        [
+          -80.8409099,
+          35.2283824
+        ],
+        [
+          -80.8410292,
+          35.2284878
+        ],
+        [
+          -80.8410381,
+          35.2284956
+        ],
+        [
+          -80.8410411,
+          35.2284987
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 502725466,
+    "version": 4,
+    "timestamp": "2025-09-19T18:05:49Z",
+    "url": "https://www.openstreetmap.org/way/502725466"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 1410822079,
+      "version": 1,
+      "timestamp": "2025-06-30T04:13:16Z",
+      "url": "https://www.openstreetmap.org/way/1410822079"
+    },
+    {
+      "type": "way",
+      "id": 1410822080,
+      "version": 1,
+      "timestamp": "2025-06-30T04:13:16Z",
+      "url": "https://www.openstreetmap.org/way/1410822080"
+    },
+    {
+      "type": "way",
+      "id": 1410822081,
+      "version": 1,
+      "timestamp": "2025-06-30T04:13:16Z",
+      "url": "https://www.openstreetmap.org/way/1410822081"
+    },
+    {
+      "type": "way",
+      "id": 1410822082,
+      "version": 1,
+      "timestamp": "2025-06-30T04:13:16Z",
+      "url": "https://www.openstreetmap.org/way/1410822082"
+    },
+    {
+      "type": "way",
+      "id": 1410822083,
+      "version": 1,
+      "timestamp": "2025-06-30T04:13:16Z",
+      "url": "https://www.openstreetmap.org/way/1410822083"
+    },
+    {
+      "type": "way",
+      "id": 1410822084,
+      "version": 1,
+      "timestamp": "2025-06-30T04:13:16Z",
+      "url": "https://www.openstreetmap.org/way/1410822084"
+    },
+    {
+      "type": "way",
+      "id": 1410822085,
+      "version": 2,
+      "timestamp": "2025-09-19T18:05:49Z",
+      "url": "https://www.openstreetmap.org/way/1410822085"
+    },
+    {
+      "type": "way",
+      "id": 1410822086,
+      "version": 1,
+      "timestamp": "2025-06-30T04:13:16Z",
+      "url": "https://www.openstreetmap.org/way/1410822086"
+    },
+    {
+      "type": "way",
+      "id": 1410822087,
+      "version": 1,
+      "timestamp": "2025-06-30T04:13:16Z",
+      "url": "https://www.openstreetmap.org/way/1410822087"
+    },
+    {
+      "type": "way",
+      "id": 1410822088,
+      "version": 1,
+      "timestamp": "2025-06-30T04:13:16Z",
+      "url": "https://www.openstreetmap.org/way/1410822088"
+    },
+    {
+      "type": "way",
+      "id": 1410822090,
+      "version": 1,
+      "timestamp": "2025-06-30T04:13:16Z",
+      "url": "https://www.openstreetmap.org/way/1410822090"
+    },
+    {
+      "type": "way",
+      "id": 1410822091,
+      "version": 2,
+      "timestamp": "2025-09-19T18:05:49Z",
+      "url": "https://www.openstreetmap.org/way/1410822091"
+    },
+    {
+      "type": "way",
+      "id": 1410822092,
+      "version": 1,
+      "timestamp": "2025-06-30T04:13:16Z",
+      "url": "https://www.openstreetmap.org/way/1410822092"
+    },
+    {
+      "type": "way",
+      "id": 1410822093,
+      "version": 1,
+      "timestamp": "2025-06-30T04:13:16Z",
+      "url": "https://www.openstreetmap.org/way/1410822093"
+    },
+    {
+      "type": "way",
+      "id": 1410822094,
+      "version": 1,
+      "timestamp": "2025-06-30T04:13:16Z",
+      "url": "https://www.openstreetmap.org/way/1410822094"
+    },
+    {
+      "type": "way",
+      "id": 1410822095,
+      "version": 1,
+      "timestamp": "2025-06-30T04:13:16Z",
+      "url": "https://www.openstreetmap.org/way/1410822095"
+    }
+  ],
+  "wikidata": "Q59193997",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/carolina-theatre.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Carolina Theatre, 230 North Tryon Street, Charlotte (1927 movie palace, restored and reopened in 2025 behind the new Belk Place lobby) — procedural, CC0-1.0, no textures. bun generators/carolina-theatre.ts",
+    "Map frame: x east, y north, z up, metres, placed at bearing 47.3°, the street grid's axis: the model's +y runs north-east along North Tryon Street toward 6th Street, +x runs south-east along 6th Street toward College Street. So the Tryon front is the model's west face and 6th Street its north face. The anchor is the metre-based area centroid of the theatre's OSM outline, way/502725466.",
+    "What stands there today. The theatre's 1927 Tryon Street lobby building is long gone (the 2016 lidar shows an empty lot and an older block where it stood), so there is no historic brick facade on Tryon any more. The Tryon front is the glass Belk Place pavilion (2024-25): a two-tier glass box with the vertical CAROLINA blade sign beside its door. The 1927 brick shows on 6th Street: the auditorium's long wall, the stage house, and the low annexes with three round-arched windows. The InterContinental hotel planned with Belk Place is not in OSM and stands outside this outline (its site is across 6th Street), so it is not modelled and `replaces` does not touch it.",
+    "Parts follow OSM's building:parts of way/502725466:",
+    "the pavilion (1410822079-085, 091; OSM 23-29 m): a lower lobby of clear glass inside a pale frame that stands proud on Tryon and turns 9 m onto 6th Street (1410822091, 16 m), white piers and a mezzanine beam showing through it; above, two floors of reflective blue glass, a dark louvre strip and a white coping band at 27 m;",
+    "the auditorium (1410822084): red brick, eaves 17 m and a low gable ridge at 21.5 m along its length (lidar);",
+    "the stage house (1410822086): 24.5 m (lidar);",
+    "the annexes along 6th Street (1410822087, 088, 090): 8, 5.5 and 8 m (lidar), the two-storey one with its three round-arched windows;",
+    "the back-of-house blocks on the south side (1410822092-095): 27, 25 and 23 m (lidar).",
+    "Evidence:",
+    "OSM way/502725466 and parts (plan; pavilion heights).",
+    "Lidar: USGS 3DEP NC Phase 4 Mecklenburg 2016 (flown before the pavilion), heights above the lowest ground: auditorium eaves 17 / ridge 21.5, stage house 24.5, back blocks 27/25/23, annexes 8/5.5/8. The ground falls about 1.4 m from Tryon to the College Street end, so y = 0 is the College Street end and each block sits on its own ground.",
+    "Photos (Wikimedia Commons, all CC BY-SA 4.0): City Dweller 2, \"Carolina Theater entrance Late March 2025\" (from across Tryon at 6th, day), \"Intercontinental Hotel at Belk Place site before construction Late December 2024\" and \"... Early June 2024\" (same corner, day), \"Carolina Theater December 26, 2025\" (from across 6th Street, night), \"Carolina Theater along North Tryon St December 26, 2025\" (Tryon, night); Fortibus, \"Carolina Theatre Charlotte 1\" and \"2\" (6th Street side, before restoration). USGS NAIP orthoimagery (public domain).",
+    "Read off the photos (estimated, ±1 m): lobby frame top 16 m, mezzanine beam 11 m, door portal 10 m tall, blade sign 3.8-11 m, coping band 1.8 m, louvre strip 1.3 m.",
+    "Not seen in any licensed photo: the College Street end and the south blocks' faces; drawn plain, with one band of windows on the stage-house block's College face as before.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"carolina-theatre\", model \"carolina-theatre\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/carolina-theatre.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

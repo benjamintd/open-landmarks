@@ -1,0 +1,124 @@
+{
+  "id": "amos-southend",
+  "name": "Amos' Southend",
+  "anchor": [
+    -80.8551394,
+    35.2167061
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 19608,
+      "sha256": "f71086b402858eabe63c5ef3ac24c521a061b4a81027be081af5ea6081c89152"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 19608,
+      "sha256": "f71086b402858eabe63c5ef3ac24c521a061b4a81027be081af5ea6081c89152"
+    }
+  },
+  "triangles": 264,
+  "boundsBlenderM": [
+    [
+      -24.363,
+      -22.389,
+      0
+    ],
+    [
+      22.979,
+      23.93,
+      9.4
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.8552518,
+          35.2169115
+        ],
+        [
+          -80.8553824,
+          35.216783
+        ],
+        [
+          -80.8552791,
+          35.2167129
+        ],
+        [
+          -80.855301,
+          35.2166913
+        ],
+        [
+          -80.8550311,
+          35.2165082
+        ],
+        [
+          -80.8548893,
+          35.2166477
+        ],
+        [
+          -80.8551812,
+          35.2168457
+        ],
+        [
+          -80.8551704,
+          35.2168563
+        ],
+        [
+          -80.8552518,
+          35.2169115
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 432937734,
+    "version": 6,
+    "timestamp": "2026-07-30T18:02:40Z",
+    "url": "https://www.openstreetmap.org/way/432937734"
+  },
+  "additionalOsm": [],
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/amos-southend.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Amos' Southend, South End, Charlotte (music hall, 1423 S Tryon St) — procedural, CC0-1.0. bun generators/amos-southend.ts",
+    "Map frame: x east, y north, z up, metres, placed at bearing 130°: the model's +y runs back from South Tryon Street along the outline's long side (way/432937734, 20 × 44 m), so the Tryon front is the model's south face and the parking lot lies along its east (+x) face. The anchor is the outline's centroid.",
+    "One building holds two venues. OSM tags way/432937734 \"The Gin Mill\"; it was \"Amos' South End\" until 2023, and Amos' is now a point (node/11291263920) inside the same outline. Since 2017 the Gin Mill has held the front block on Tryon and Amos' the hall behind it, so the model is the whole outline:",
+    "the front block: one storey of red brick under a deep, thin flat roof that overhangs the Tryon front and the parking side, big black-framed windows, a stair up the parking side to the rooftop patio, and the Gin Mill's blade sign;",
+    "the hall: a taller white-painted block box under a shallow barrel roof, a few small windows and a door on the parking side, and the AMOS' blade sign at its front corner where it steps out past the Gin Mill.",
+    "Signs are plain shapes, no lettering; their faces are `entrance`, so they light at night. The ground falls 0.9 m from Tryon to the back, so the front stands on G.",
+    "References (visual only, none openly licensed): Nancy Pierce for southendclt.org (the Gin Mill's brick front and eave); Charlotte Stories (the 2017 Gin Mill rendering, and a 2016 view from above showing the hall's barrel roof); WBTV (the pre-2017 front); amossouthend.com (the AMOS' blade sign). USGS NAIP (public domain) and the OSM outline for the plan.",
+    "2026-10 rework. Heights from the USGS 3DEP NC Phase 4 Mecklenburg lidar (flown 2016), above the lowest ground under the footprint: the hall's eaves 6.2 m (was 7.0), its crown 8.0 m (was 8.6), the front block's roof 5.9 m (was 5.55). Massing change, from the lidar: the barrel is hipped, not gabled. Its crown falls to the eave line over the last ~5.5 m at both ends (profile along the crown: 6.6, 6.9, 7.4, 7.7, 8.1, 8.3, 8.7 m over the first 6 m behind the front block; the mirror of it at the back), so the arched gable ends are gone. The rooftop units are moved to where the lidar shows them (three along the crown, one to its west). Kept as they were: plan, front block, its windows and eave, stair, both blade signs, colours. Doubts: the flight predates the Gin Mill's 2017 remodel, which added the deep eave over Tryon (no overhang shows in 2016), so the eave rests on the look-only photos; the lidar puts the hall's back wall about 2 m north of the OSM outline, which the model keeps. Still no licensed exterior photo (Commons and Openverse hold only concert shots; Mapillary has no imagery within 400 m), so colours and openings come from the look-only references.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"amos-southend\", model \"amos-southend\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/amos-southend.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

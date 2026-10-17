@@ -1,0 +1,173 @@
+{
+  "id": "bunkhouse-charlotte",
+  "name": "Bunkhouse",
+  "anchor": [
+    -80.8332717,
+    35.2462969
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 8660,
+      "sha256": "459ebdb29ed3c416ff6e62b4f0c7799bcbb254d7e14a6b0671853cbd2c80c10b"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 8660,
+      "sha256": "459ebdb29ed3c416ff6e62b4f0c7799bcbb254d7e14a6b0671853cbd2c80c10b"
+    }
+  },
+  "triangles": 84,
+  "boundsBlenderM": [
+    [
+      -14.8,
+      -16.479,
+      0
+    ],
+    [
+      15.509,
+      13.704,
+      5.3
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.8333338,
+          35.2461551
+        ],
+        [
+          -80.8334251,
+          35.2462178
+        ],
+        [
+          -80.8333399,
+          35.2463048
+        ],
+        [
+          -80.8333064,
+          35.2463388
+        ],
+        [
+          -80.833296,
+          35.2463492
+        ],
+        [
+          -80.8333254,
+          35.2463701
+        ],
+        [
+          -80.8332775,
+          35.2464141
+        ],
+        [
+          -80.8332498,
+          35.2463957
+        ],
+        [
+          -80.8332315,
+          35.2464128
+        ],
+        [
+          -80.833185,
+          35.2463831
+        ],
+        [
+          -80.8331552,
+          35.2464135
+        ],
+        [
+          -80.8331074,
+          35.2463833
+        ],
+        [
+          -80.8331833,
+          35.2463029
+        ],
+        [
+          -80.8332242,
+          35.2462634
+        ],
+        [
+          -80.8332074,
+          35.2462522
+        ],
+        [
+          -80.833227,
+          35.2462314
+        ],
+        [
+          -80.8332463,
+          35.2462432
+        ],
+        [
+          -80.8333338,
+          35.2461551
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 324608458,
+    "version": 16,
+    "timestamp": "2024-10-31T03:48:04Z",
+    "url": "https://www.openstreetmap.org/way/324608458"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 835852293,
+      "version": 2,
+      "timestamp": "2022-10-30T16:24:39Z",
+      "url": "https://www.openstreetmap.org/way/835852293"
+    },
+    {
+      "type": "way",
+      "id": 901294559,
+      "version": 5,
+      "timestamp": "2024-10-31T03:48:04Z",
+      "url": "https://www.openstreetmap.org/way/901294559"
+    }
+  ],
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/clt-cne-bunkhouse.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Camp North End: the Bunkhouse — procedural, CC0-1.0. bun generators/clt-cne-bunkhouse.ts",
+    "A small gabled house among the depot's buildings, 270 Camp Road, beside the north-west corner of `clt-cne-201-camp-road`; Camp North End calls it the Bunkhouse (3,400 sq ft). Probably the \"dwelling for Army staff\" the 2019 designation report lists among the depot's smaller buildings; that identification is not confirmed. A one-storey house 11 × 28 m under a slate-grey gabled roof running along its length, a narrower gabled extension at the north-east end, a cross-gabled wing on the west side and a small flat-roofed porch on the east.",
+    "Identity: the only pitched-roof house on the campus, its dark roof among the white flat roofs.",
+    "Evidence: - OSM: the outline way/324608458 (\"Bunkhouse at Camp North End\", height 5) and its parts way/901294559 (gabled, height 5) and way/835852293 (gabled, height 4.5, the west wing). - Lidar, USGS 3DEP NC Phase 4 Mecklenburg 2016, 1 m (measured, NAVD88): ground 228.3–229.0 (y = 0 is 228.3); ridge 233.6 (5.3 m), running along the long axis on its centre line; eaves 232.0–232.5 (about 3.8 m). A tree over its north-west side clutters the returns there. - USGS NAIP orthophoto (public domain): the slate-grey roof, its plan. - Camp North End leasing brochure (2021, camp.nc): \"Bunkhouse\", 3,400 sq ft. Mecklenburg County tax parcel 07903102 (CAMP LANDOWNER LP), 1943–55.",
+    "No licensed photo was found. The wall finish (drawn in the campus brick), the windows and doors are estimated; the wing's and extension's roof heights are from OSM's 4.5 m, scaled to the lidar.",
+    "Frame: the south warehouses' grid, y along bearing 39.13° (the outline's axis), placement bearing 39.13; origin at the outline's centroid, lng −80.8332717, lat 35.2462969. Kit: `clt-cne-301-camp-road.ts`.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"clt-cne-bunkhouse\", model \"clt-cne-bunkhouse\"), generated by https://github.com/alexwohlbruck/landmarks/blob/a1974bbf738c6994edbe99a7a61818b9d69da9e0/generators/clt-cne-bunkhouse.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

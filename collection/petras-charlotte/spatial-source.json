@@ -1,0 +1,155 @@
+{
+  "id": "petras-charlotte",
+  "anchor": [
+    -80.8125546,
+    35.2190446
+  ],
+  "coordinateSystem": "Local metres about the anchor (equirectangular, WGS84 radius): X east, Y north, Z up. glTF export: X east, Y up, Z south. Heading already baked.",
+  "license": "ODbL-1.0",
+  "footprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.857088631608641,
+          -12.00024110695776
+        ],
+        [
+          -8.748699288737821,
+          -12.657026103194577
+        ],
+        [
+          -9.221601953343212,
+          1.6030006679635926
+        ],
+        [
+          -1.6915364532707093,
+          1.8701674458256958
+        ],
+        [
+          -2.1917219635630776,
+          16.79811116084815
+        ],
+        [
+          6.020414686438155,
+          17.087541837129084
+        ],
+        [
+          6.857088631608641,
+          -12.00024110695776
+        ]
+      ]
+    ]
+  },
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.8124792,
+          35.2189368
+        ],
+        [
+          -80.8126508,
+          35.2189309
+        ],
+        [
+          -80.812656,
+          35.219059
+        ],
+        [
+          -80.8125732,
+          35.2190614
+        ],
+        [
+          -80.8125787,
+          35.2191955
+        ],
+        [
+          -80.8124884,
+          35.2191981
+        ],
+        [
+          -80.8124792,
+          35.2189368
+        ]
+      ]
+    ]
+  },
+  "parts": [
+    {
+      "osm": "way/323192880",
+      "tags": {
+        "addr:city": "Charlotte",
+        "addr:housenumber": "1917",
+        "addr:postcode": "28205",
+        "addr:state": "NC",
+        "addr:street": "Commonwealth Avenue",
+        "amenity": "bar",
+        "building": "yes",
+        "height": "5",
+        "live_music": "yes",
+        "name": "Petra's",
+        "website": "https://petrasbar.com"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.857088631608641,
+              -12.00024110695776
+            ],
+            [
+              -8.748699288737821,
+              -12.657026103194577
+            ],
+            [
+              -9.221601953343212,
+              1.6030006679635926
+            ],
+            [
+              -1.6915364532707093,
+              1.8701674458256958
+            ],
+            [
+              -2.1917219635630776,
+              16.79811116084815
+            ],
+            [
+              6.020414686438155,
+              17.087541837129084
+            ],
+            [
+              6.857088631608641,
+              -12.00024110695776
+            ]
+          ]
+        ]
+      },
+      "version": 4,
+      "timestamp": "2024-10-05T23:52:30Z"
+    }
+  ],
+  "osm": {
+    "type": "way",
+    "id": 323192880,
+    "version": 4,
+    "timestamp": "2024-10-05T23:52:30Z",
+    "url": "https://www.openstreetmap.org/way/323192880"
+  },
+  "additionalOsm": [],
+  "tags": {
+    "addr:city": "Charlotte",
+    "addr:housenumber": "1917",
+    "addr:postcode": "28205",
+    "addr:state": "NC",
+    "addr:street": "Commonwealth Avenue",
+    "amenity": "bar",
+    "building": "yes",
+    "height": "5",
+    "live_music": "yes",
+    "name": "Petra's",
+    "website": "https://petrasbar.com"
+  }
+}

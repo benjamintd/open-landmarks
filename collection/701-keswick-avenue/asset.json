@@ -1,0 +1,200 @@
+{
+  "id": "701-keswick-avenue",
+  "name": "701 Keswick Avenue",
+  "anchor": [
+    -80.8333009,
+    35.2454296
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 30276,
+      "sha256": "31f8af32ff9dd15691d37310e0c29ac3b1250bea1b6723a14d66f9c21e044c07"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 30276,
+      "sha256": "31f8af32ff9dd15691d37310e0c29ac3b1250bea1b6723a14d66f9c21e044c07"
+    }
+  },
+  "triangles": 456,
+  "boundsBlenderM": [
+    [
+      -39.488,
+      -43.048,
+      0
+    ],
+    [
+      43.482,
+      40.487,
+      12.2
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.8333001,
+          35.2457898
+        ],
+        [
+          -80.8333559,
+          35.2457336
+        ],
+        [
+          -80.8334248,
+          35.2456644
+        ],
+        [
+          -80.8335035,
+          35.2457198
+        ],
+        [
+          -80.8337018,
+          35.2455323
+        ],
+        [
+          -80.8336174,
+          35.2454742
+        ],
+        [
+          -80.8336523,
+          35.2454371
+        ],
+        [
+          -80.8337346,
+          35.2453561
+        ],
+        [
+          -80.8332707,
+          35.2450413
+        ],
+        [
+          -80.8331878,
+          35.2451232
+        ],
+        [
+          -80.8330905,
+          35.2452194
+        ],
+        [
+          -80.8330075,
+          35.2453056
+        ],
+        [
+          -80.832947,
+          35.2453506
+        ],
+        [
+          -80.8328219,
+          35.2454767
+        ],
+        [
+          -80.8329362,
+          35.2455524
+        ],
+        [
+          -80.8333001,
+          35.2457898
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 702547987,
+    "version": 16,
+    "timestamp": "2024-10-31T03:06:16Z",
+    "url": "https://www.openstreetmap.org/way/702547987"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 835808943,
+      "version": 4,
+      "timestamp": "2022-11-01T16:08:41Z",
+      "url": "https://www.openstreetmap.org/way/835808943"
+    },
+    {
+      "type": "way",
+      "id": 835808944,
+      "version": 4,
+      "timestamp": "2022-11-01T16:08:41Z",
+      "url": "https://www.openstreetmap.org/way/835808944"
+    },
+    {
+      "type": "way",
+      "id": 835808946,
+      "version": 4,
+      "timestamp": "2022-11-01T16:08:41Z",
+      "url": "https://www.openstreetmap.org/way/835808946"
+    },
+    {
+      "type": "way",
+      "id": 1108280895,
+      "version": 2,
+      "timestamp": "2022-10-30T16:35:33Z",
+      "url": "https://www.openstreetmap.org/way/1108280895"
+    },
+    {
+      "type": "way",
+      "id": 1109057437,
+      "version": 1,
+      "timestamp": "2022-11-01T16:08:41Z",
+      "url": "https://www.openstreetmap.org/way/1109057437"
+    },
+    {
+      "type": "way",
+      "id": 1109057438,
+      "version": 1,
+      "timestamp": "2022-11-01T16:08:41Z",
+      "url": "https://www.openstreetmap.org/way/1109057438"
+    },
+    {
+      "type": "relation",
+      "id": 14759154,
+      "version": 1,
+      "timestamp": "2022-11-01T16:08:41Z",
+      "url": "https://www.openstreetmap.org/relation/14759154"
+    }
+  ],
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/clt-cne-701-keswick.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Camp North End: 701 Keswick Avenue — procedural, CC0-1.0. bun generators/clt-cne-701-keswick.ts",
+    "One bay of the Army Quartermaster Corps' Building No. 5 (1941–43), cut free of its neighbours in the 2021 renovation: `clt-cne-201-camp-road` is the warehouse's north-east half, beyond a passage cut through it, and the parking garage and Kinship East stand on its south-west end. Shops and restaurants. A tall red-brick block 55 × 38 m with one corrugated-metal clerestory monitor across it and a slightly lower annex on the north-west side; north-east of it, on the slab of the bay removed for the passage, a low brick wing and a curved canopy.",
+    "Identity: the tall brick block with its single silver monitor, between 201 Camp Road and the garage.",
+    "Evidence: - OSM: the outline way/702547987 and its parts: the monitor way/835808943 (height 10.4), the roofs 835808944 and 1108280895 (8.2), the north-west annex 835808946 (8), the low wing relation/14759154 (4.2), the curved canopy 1109057437 (5.2, roof:shape round) and the slab 1109057438 (1). - Lidar, USGS 3DEP NC Phase 4 Mecklenburg 2016, 1 m (measured, NAVD88): ground 227.9–228.7 (y = 0 is 227.9); deck 237.3 (9.4 m); the monitor 240.1 (12.2 m); the annex 236.4 (8.5 m). The flight predates the cut: it still shows the warehouse running on north-east over the passage, so the wing (4.2 m) and the canopy (5.2 m) take OSM's heights. - C-M Historic Landmarks Commission survey report (2017, landmarkscommission.org/wp-content/uploads/2017/06/Ford-Motor-Co-Plant-SR.pdf), Buildings Nos. 4–6 (published): brick, 180 ft wide, corrugated-metal monitors across the width; No. 5 has ten. - Mecklenburg County tax parcel 07903C99: built 1943, face brick. Camp North End leasing brochure (2021, camp.nc): \"701 Keswick Avenue\", 38,000 sq ft, retail. - Photo (EVIDENCE): its end wall at the left of https://commons.wikimedia.org/wiki/File:Free_Range_Brewing_Camp_North_End_in_the_301_Camp_building_Early_June_2025.jpg (City Dweller 2, CC BY-SA 4.0): orange-red brick, black-framed windows in two tiers, a storefront row and a row high in the wall. - USGS NAIP orthophoto (public domain): white roofs.",
+    "Estimated: window sizes and counts (from the one partial photo, applied to every face); the curved canopy's form (a barrel vault from OSM's roof:shape, springing at 3.6 m), its posts; the wing's walls.",
+    "Frame and kit: `clt-cne-301-camp-road.ts`. y along the long axis (bearing 39.67°), placement bearing 39.67; origin at the outline's centroid, lng −80.8333009, lat 35.2454296.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"clt-cne-701-keswick\", model \"clt-cne-701-keswick\"), generated by https://github.com/alexwohlbruck/landmarks/blob/a1974bbf738c6994edbe99a7a61818b9d69da9e0/generators/clt-cne-701-keswick.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

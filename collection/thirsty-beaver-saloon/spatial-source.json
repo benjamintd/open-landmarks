@@ -1,0 +1,133 @@
+{
+  "id": "thirsty-beaver-saloon",
+  "anchor": [
+    -80.8173163,
+    35.2213364
+  ],
+  "coordinateSystem": "Local metres about the anchor (equirectangular, WGS84 radius): X east, Y north, Z up. glTF export: X east, Y up, Z south. Heading already baked.",
+  "license": "ODbL-1.0",
+  "footprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          1.5187022099471699,
+          -9.68479569908319
+        ],
+        [
+          -4.847115436004013,
+          -8.515941045541002
+        ],
+        [
+          -1.5187022099471699,
+          9.673663749873775
+        ],
+        [
+          4.838021410044108,
+          8.515941045541002
+        ],
+        [
+          1.5187022099471699,
+          -9.68479569908319
+        ]
+      ]
+    ]
+  },
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.8172996,
+          35.2212494
+        ],
+        [
+          -80.8173696,
+          35.2212599
+        ],
+        [
+          -80.817333,
+          35.2214233
+        ],
+        [
+          -80.8172631,
+          35.2214129
+        ],
+        [
+          -80.8172996,
+          35.2212494
+        ]
+      ]
+    ]
+  },
+  "parts": [
+    {
+      "osm": "way/323198175",
+      "tags": {
+        "addr:city": "Charlotte",
+        "addr:housenumber": "1225",
+        "addr:postcode": "28204",
+        "addr:state": "NC",
+        "addr:street": "Central Avenue",
+        "amenity": "bar",
+        "brewery": "various",
+        "building": "yes",
+        "contact:facebook": "https://facebook.com/The-Thirsty-Beaver-Saloon-155129104571598/",
+        "name": "Thirsty Beaver",
+        "opening_hours": "We-Fr 16:00-02:00; Sa 12:00-02:00; Su 14:00-02:00",
+        "wikidata": "Q123524350"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1.5187022099471699,
+              -9.68479569908319
+            ],
+            [
+              -4.847115436004013,
+              -8.515941045541002
+            ],
+            [
+              -1.5187022099471699,
+              9.673663749873775
+            ],
+            [
+              4.838021410044108,
+              8.515941045541002
+            ],
+            [
+              1.5187022099471699,
+              -9.68479569908319
+            ]
+          ]
+        ]
+      },
+      "version": 7,
+      "timestamp": "2025-02-09T00:13:15Z"
+    }
+  ],
+  "osm": {
+    "type": "way",
+    "id": 323198175,
+    "version": 7,
+    "timestamp": "2025-02-09T00:13:15Z",
+    "url": "https://www.openstreetmap.org/way/323198175"
+  },
+  "additionalOsm": [],
+  "tags": {
+    "addr:city": "Charlotte",
+    "addr:housenumber": "1225",
+    "addr:postcode": "28204",
+    "addr:state": "NC",
+    "addr:street": "Central Avenue",
+    "amenity": "bar",
+    "brewery": "various",
+    "building": "yes",
+    "contact:facebook": "https://facebook.com/The-Thirsty-Beaver-Saloon-155129104571598/",
+    "name": "Thirsty Beaver",
+    "opening_hours": "We-Fr 16:00-02:00; Sa 12:00-02:00; Su 14:00-02:00",
+    "wikidata": "Q123524350"
+  }
+}

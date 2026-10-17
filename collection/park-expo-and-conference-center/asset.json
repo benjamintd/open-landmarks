@@ -1,0 +1,174 @@
+{
+  "id": "park-expo-and-conference-center",
+  "name": "Park Expo and Conference Center",
+  "anchor": [
+    -80.7980642,
+    35.2064296
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 48296,
+      "sha256": "120012fc6f4755985529914edc4652e59d5101f1b2460bfdedc91ea1d48fddc0"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 48296,
+      "sha256": "120012fc6f4755985529914edc4652e59d5101f1b2460bfdedc91ea1d48fddc0"
+    }
+  },
+  "triangles": 858,
+  "boundsBlenderM": [
+    [
+      -116.7,
+      -115.3,
+      0
+    ],
+    [
+      93.6,
+      122.4,
+      22.2
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.7982192,
+          35.2075364
+        ],
+        [
+          -80.797732,
+          35.2072793
+        ],
+        [
+          -80.7977142,
+          35.2073021
+        ],
+        [
+          -80.7975442,
+          35.2072129
+        ],
+        [
+          -80.7975645,
+          35.2071881
+        ],
+        [
+          -80.7970849,
+          35.2069372
+        ],
+        [
+          -80.7971809,
+          35.2068095
+        ],
+        [
+          -80.7972493,
+          35.2067186
+        ],
+        [
+          -80.7974452,
+          35.2064582
+        ],
+        [
+          -80.7978634,
+          35.2066809
+        ],
+        [
+          -80.7983683,
+          35.2069499
+        ],
+        [
+          -80.7985897,
+          35.2070678
+        ],
+        [
+          -80.7982192,
+          35.2075364
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 836535381,
+    "version": 3,
+    "timestamp": "2025-06-27T18:08:37Z",
+    "url": "https://www.openstreetmap.org/way/836535381"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 836535382,
+      "version": 2,
+      "timestamp": "2021-03-07T14:44:41Z",
+      "url": "https://www.openstreetmap.org/way/836535382"
+    },
+    {
+      "type": "way",
+      "id": 836535383,
+      "version": 2,
+      "timestamp": "2025-04-12T18:52:06Z",
+      "url": "https://www.openstreetmap.org/way/836535383"
+    },
+    {
+      "type": "way",
+      "id": 836535384,
+      "version": 2,
+      "timestamp": "2025-04-12T18:52:06Z",
+      "url": "https://www.openstreetmap.org/way/836535384"
+    },
+    {
+      "type": "way",
+      "id": 836535385,
+      "version": 2,
+      "timestamp": "2021-03-07T14:44:41Z",
+      "url": "https://www.openstreetmap.org/way/836535385"
+    }
+  ],
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/park-expo-center.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "The Park Expo and Conference Center, Charlotte — procedural, CC0-1.0. bun generators/park-expo-center.ts",
+    "Map frame: x east, y north, z up, metres; placed at bearing 0. The origin is the area centroid of the five OSM buildings it replaces, whose outlines are used as they are (rounded to 0.1 m):",
+    "Independence Hall (way/836535381): the long brick hall on Independence Boulevard, with a glazed entrance vestibule on its north-east face;",
+    "Freedom Hall (way/836535382): the taller brick hall to its west;",
+    "the lobby between them (way/836535383) and the covered link south to",
+    "Liberty Hall (way/836535385): the big pale precast hall with the curved south wall.",
+    "Rework (2026-10): same outlines, anchor, bearing and replaces as before.",
+    "Heights, measured: USGS 3DEP NC Phase 4 Mecklenburg 2016 lidar, 1 m DSM, as roof level above the lowest ground around the complex (about 4.5 m above the creek-side ground_min of the tile, by the west lobby and Freedom Hall): Independence 13.6 (old 10), Freedom 22.2 (old 13.5), Liberty 13.0 (old 10.5), lobby 7.0 (old 6), link 8.2 (old 5). Every roof is flat to ±0.2 m. The site falls from Liberty Hall (ground ~3.5 m up) to the lobby, so Liberty's walls run into the slope as STYLE.md asks.",
+    "Massing change, with evidence: the lidar shows a raised block inside the lobby outline, in the corner between Freedom and Independence, with its roof at 15.0 m (just above Independence) and a curved south edge. The Commons aerial below shows it too: a pale block with a rounded front rising over the lobby roof behind Independence's west end. The old model had the whole lobby at 6 m; it is now a 7 m lobby with that 15 m block in its north corner.",
+    "Photos (licensed):",
+    "\"Bojangles Coliseum and The Park, Charlotte, NC\" (panoramio), James Willamor, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Bojangles_Coliseum_and_The_Park,_Charlotte,_NC_-_panoramio.jpg (2009 aerial from the north): red-brown brick halls with a pale coping, dark grey membrane roofs on the brick halls, pale cream precast Liberty Hall with a light roof, the glazed vestibule, the raised lobby block.",
+    "Mapillary 284918830089944 (2021-07, CC BY-SA 4.0), from Independence Boulevard looking west-north-west: Liberty Hall's pale cream precast wall with a light cap, Independence's red-brown brick beyond. Colours are those photos' hues pulled to the palette's lightness.",
+    "Facade: the halls are windowless exhibition boxes, so the only window panels are where the real glazing is: the vestibule, the lobby's east front and the link's two sides. Brick walls keep their shallow bevelled pilasters. Liberty's row of small precast diamonds is too fine to read and is left out.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"park-expo-center\", model \"park-expo-center\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/park-expo-center.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

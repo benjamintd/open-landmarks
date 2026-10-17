@@ -1,0 +1,144 @@
+{
+  "id": "mint-museum-uptown",
+  "name": "Mint Museum Uptown",
+  "anchor": [
+    -80.8482315,
+    35.2244007
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 21440,
+      "sha256": "1a643e3cf44bf1491defc49c084832e523fe2b6abca2a31bccf401a2eb75b883"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 21440,
+      "sha256": "1a643e3cf44bf1491defc49c084832e523fe2b6abca2a31bccf401a2eb75b883"
+    }
+  },
+  "triangles": 328,
+  "boundsBlenderM": [
+    [
+      -35.441,
+      -36.571,
+      0
+    ],
+    [
+      35.772,
+      36.24,
+      38.4
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.8478304,
+          35.2243237
+        ],
+        [
+          -80.8482804,
+          35.2247225
+        ],
+        [
+          -80.8485614,
+          35.2249715
+        ],
+        [
+          -80.8488905,
+          35.2247405
+        ],
+        [
+          -80.8486258,
+          35.224487
+        ],
+        [
+          -80.8481897,
+          35.2240695
+        ],
+        [
+          -80.8478304,
+          35.2243237
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 131139755,
+    "version": 13,
+    "timestamp": "2023-12-21T15:21:31Z",
+    "url": "https://www.openstreetmap.org/way/131139755"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q6869561",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Mint Museum in uptown Charlotte, North Carolina.jpg",
+      "author": "Bz3rk",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Mint_Museum_in_uptown_Charlotte,_North_Carolina.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:MintMuseumCharlotte.JPG",
+      "author": "Prasit Frazee",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:MintMuseumCharlotte.JPG",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Mint Museum Uptown plaza lights Late December 26, 2025.jpg",
+      "author": "City Dweller 2",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Mint_Museum_Uptown_plaza_lights_Late_December_26,_2025.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/mint-museum-uptown.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Mint Museum Uptown, Levine Center for the Arts, Charlotte (Machado Silvetti, 2010) — procedural, CC0-1.0, no textures. bun generators/mint-museum-uptown.ts",
+    "Map frame: x across the building (the Duke Energy side -x, Levine Avenue of the Arts +x), y from the Tryon front (-y) back towards Church Street (+y), z up, metres. Placed at bearing 318.5°, the long axis of the OSM outline (way/131139755, no building:parts).",
+    "That outline runs all the way back to Church Street, but its rear 37 m is the footprint of Museum Tower (way/649245473, which shares its nodes and stays drawn from OSM). The museum itself is the front 42 × 60.5 m, and that is what is modelled; the anchor is the centre of that rectangle.",
+    "The building is a five-storey block clad in buff sandstone folded into big tilted facets. Its identity is the Tryon front: a stone frame round a deep void over the Duke Energy half, roofed by a dark wood soffit that rises towards the street; below the void, a lower stone block with a tall portal, the glass slot of the five-storey atrium beside it running up into the glass across the back of the void; on the Levine half, a projecting mass whose inner edge climbs on a diagonal to the roof, lifted over a glass lobby on a single slim column at the corner. On Levine Avenue: a high window recessed at the front corner, the full-height glass bay under a rust-red panel, a tall slit window and shopfronts.",
+    "Evidence",
+    "Measured, Mecklenburg County 2016 lidar (USGS 3DEP NC Phase 4, 1 m): the roof at 33.5-34 m over the whole front, the void included (so the void is roofed, not a notch open to the sky); a screened mechanical yard about 5 m high in the middle of the roof (also in NAIP). OSM's 31 m and the old model's open notch were wrong.",
+    "Photos: Commons \"Mint Museum in uptown Charlotte, North Carolina.jpg\" (Bz3rk, CC BY-SA 3.0), from the Tryon / Levine corner: the front's proportions (lower block 62% of the height, lobby opening 40%, soffit rising to within ~2 m of the roof at the front), the column at the corner, the high Levine window, the glass bay and rust panel; Commons \"MintMuseumCharlotte.JPG\" (Prasit Frazee, CC BY-SA 3.0): the portal and the atrium slot over the entrance steps; Commons \"Mint Museum Uptown plaza lights Late December 26, 2025.jpg\" (City Dweller 2, CC BY-SA 4.0).",
+    "Estimated: the void's depth (17 m), the lobby's set-back (8 m), the depth of the folds (up to 5 m, drawn bold so the creases read at phone size), and the Duke Energy side, which no licensed photo shows: it is folded stone with no openings.",
+    "Colours: golden buff sandstone (~#cdaa74 lit) pulled to palette lightness; dark-stained wood soffit, kept no darker than charcoal.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"mint-museum-uptown\", model \"mint-museum-uptown\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/mint-museum-uptown.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 852 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the mint-museum-uptown-glazing finish in the window colour."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

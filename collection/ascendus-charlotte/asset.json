@@ -1,0 +1,185 @@
+{
+  "id": "ascendus-charlotte",
+  "name": "Ascendus",
+  "anchor": [
+    -80.9232622,
+    35.2191714
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 120076,
+      "sha256": "d3ebee7e3078772ed96f903a6a8e04d8dcce57c83354f5431fa21dddf4e59625"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 120076,
+      "sha256": "d3ebee7e3078772ed96f903a6a8e04d8dcce57c83354f5431fa21dddf4e59625"
+    }
+  },
+  "triangles": 2138,
+  "boundsBlenderM": [
+    [
+      -3.062,
+      -1.591,
+      0
+    ],
+    [
+      3.796,
+      2.05,
+      18.442
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.9232959,
+          35.2191571
+        ],
+        [
+          -80.9232272,
+          35.2191582
+        ],
+        [
+          -80.9232257,
+          35.2191592
+        ],
+        [
+          -80.9232241,
+          35.2191602
+        ],
+        [
+          -80.9232227,
+          35.2191611
+        ],
+        [
+          -80.9232216,
+          35.2191621
+        ],
+        [
+          -80.9232205,
+          35.2191631
+        ],
+        [
+          -80.9232216,
+          35.2191671
+        ],
+        [
+          -80.923222,
+          35.2191679
+        ],
+        [
+          -80.9232226,
+          35.2191687
+        ],
+        [
+          -80.9232251,
+          35.2191718
+        ],
+        [
+          -80.923233,
+          35.2191781
+        ],
+        [
+          -80.923239,
+          35.2191822
+        ],
+        [
+          -80.9232407,
+          35.2191833
+        ],
+        [
+          -80.9232425,
+          35.2191843
+        ],
+        [
+          -80.9232443,
+          35.2191853
+        ],
+        [
+          -80.9232461,
+          35.2191862
+        ],
+        [
+          -80.9232539,
+          35.2191882
+        ],
+        [
+          -80.9232638,
+          35.2191898
+        ],
+        [
+          -80.9232737,
+          35.2191898
+        ],
+        [
+          -80.9232794,
+          35.2191841
+        ],
+        [
+          -80.9232864,
+          35.2191765
+        ],
+        [
+          -80.9232957,
+          35.2191665
+        ],
+        [
+          -80.9232959,
+          35.2191571
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "node",
+    "id": 12329988037,
+    "version": 1,
+    "timestamp": "2024-11-11T04:40:55Z",
+    "url": "https://www.openstreetmap.org/node/12329988037"
+  },
+  "additionalOsm": [],
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/ascendus.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Ascendus, Ed Carpenter's gateway sculpture at the Charlotte Douglas airport turn-off on Billy Graham Parkway — procedural, CC0-1.0.",
+    "Map frame: x east, y north, z up, metres. The origin is the sculpture's anchor (OSM node 12329988037), and the catalog places it at bearing 0.",
+    "Steel, aluminium and laminated glass, 60 × 16 × 16 ft (18.3 × 4.9 × 4.9 m) by the airport's own description. The form is one tall pointed pod, a lattice shell like a seed case or a sail stood on end: open to the south, its back bowed north, standing on three feet (its two rims and the back) with the bottom edge arching up between them, and narrowing to a single point that leans east over the east foot. The shell is a triangulated steel lattice hung with pale triangular glass fins; an orange diamond net fills the lower middle of the back, and the rims carry coloured dichroic glass (lime on the west rim, orange on the east).",
+    "Rework (2026-10): the earlier model drew two separate leaves springing from one pointed foot. Every street photo shows a single pod standing on a base about as wide as the sculpture itself, so the massing was rebuilt.",
+    "Evidence:",
+    "Mapillary (CC BY-SA 4.0) street photos from the parkway: 519112425759292 (from the south, 2018-01), 166273841992480 (south, 2021-02), 328739052262691 (north-west, 2021-07). No Commons or Openverse photo exists. The rim outlines below were measured off 519112425759292 and scaled to the published 16 ft width (estimated ±0.5 m).",
+    "USGS NAIP (public domain): a pale round pad about 7 m across under the sculpture, centred about 1 m west of the anchor.",
+    "Published: height 18.3 m (60 ft), plan 4.9 m square.",
+    "Estimated: the depth of the pod (2.6 m at the base) and the north bow, which only the north-west photo shows, and only in its upper half; the lattice pitch (12 rows), drawn coarser than the real one so it reads.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"ascendus\", model \"ascendus\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/ascendus.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

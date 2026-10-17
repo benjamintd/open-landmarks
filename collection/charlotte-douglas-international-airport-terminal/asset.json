@@ -1,0 +1,250 @@
+{
+  "id": "charlotte-douglas-international-airport-terminal",
+  "name": "Charlotte Douglas International Airport Terminal",
+  "anchor": [
+    -80.9430854,
+    35.2207298
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 103476,
+      "sha256": "bbe1b5d0a8facd1f2a919d4b7910b56e66e8a24e7cc9a93da494272a42d56e4e"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 103476,
+      "sha256": "bbe1b5d0a8facd1f2a919d4b7910b56e66e8a24e7cc9a93da494272a42d56e4e"
+    }
+  },
+  "triangles": 2218,
+  "boundsBlenderM": [
+    [
+      -226.882,
+      -87.533,
+      0
+    ],
+    [
+      221.357,
+      92.066,
+      25
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.9418071,
+          35.2211194
+        ],
+        [
+          -80.9418522,
+          35.2211172
+        ],
+        [
+          -80.9418474,
+          35.2210604
+        ],
+        [
+          -80.9418577,
+          35.2210595
+        ],
+        [
+          -80.9418509,
+          35.2209865
+        ],
+        [
+          -80.941877,
+          35.2209853
+        ],
+        [
+          -80.9418796,
+          35.2210194
+        ],
+        [
+          -80.9421271,
+          35.2210054
+        ],
+        [
+          -80.9421251,
+          35.2209713
+        ],
+        [
+          -80.9422546,
+          35.2209631
+        ],
+        [
+          -80.9425997,
+          35.2209424
+        ],
+        [
+          -80.9426013,
+          35.2209789
+        ],
+        [
+          -80.9426139,
+          35.2211142
+        ],
+        [
+          -80.9432117,
+          35.2210775
+        ],
+        [
+          -80.9436715,
+          35.2210509
+        ],
+        [
+          -80.9444772,
+          35.2210017
+        ],
+        [
+          -80.9449316,
+          35.2209719
+        ],
+        [
+          -80.9454877,
+          35.2209378
+        ],
+        [
+          -80.945457,
+          35.2207457
+        ],
+        [
+          -80.9454159,
+          35.2207496
+        ],
+        [
+          -80.9453849,
+          35.2204222
+        ],
+        [
+          -80.9453793,
+          35.220341
+        ],
+        [
+          -80.9426581,
+          35.2205048
+        ],
+        [
+          -80.9422589,
+          35.2205185
+        ],
+        [
+          -80.941746,
+          35.22055
+        ],
+        [
+          -80.9417299,
+          35.2203716
+        ],
+        [
+          -80.9415372,
+          35.2203841
+        ],
+        [
+          -80.9413205,
+          35.2203976
+        ],
+        [
+          -80.9412528,
+          35.2204022
+        ],
+        [
+          -80.9412777,
+          35.2206727
+        ],
+        [
+          -80.9412835,
+          35.2207307
+        ],
+        [
+          -80.9416472,
+          35.2207096
+        ],
+        [
+          -80.9417779,
+          35.2207021
+        ],
+        [
+          -80.9418071,
+          35.2211194
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 1414163868,
+    "version": 2,
+    "timestamp": "2026-04-01T20:34:01Z",
+    "url": "https://www.openstreetmap.org/way/1414163868"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 1414165678,
+      "version": 3,
+      "timestamp": "2026-04-01T20:34:01Z",
+      "url": "https://www.openstreetmap.org/way/1414165678"
+    },
+    {
+      "type": "way",
+      "id": 1347416658,
+      "version": 3,
+      "timestamp": "2025-07-11T21:52:27Z",
+      "url": "https://www.openstreetmap.org/way/1347416658"
+    },
+    {
+      "type": "way",
+      "id": 1347417381,
+      "version": 3,
+      "timestamp": "2025-07-11T21:52:27Z",
+      "url": "https://www.openstreetmap.org/way/1347417381"
+    }
+  ],
+  "wikidata": "Q597649",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/clt-terminal.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Charlotte Douglas International Airport (CLT): the terminal headhouse — procedural, CC0-1.0.",
+    "Also the small kit the other CLT models import (`clt-concourse-a`, `clt-concourses-b-c`, `clt-concourses-d-e`, the parking decks and the tower): footprint clean-up, ear-clipping caps, bevelled blocks, window panels, roofs that follow a section, banded parking floors and helix drums. Importing this file builds nothing; the terminal is only written when it is run directly.",
+    "Frame. Every CLT model is drawn in one site frame: x along the terminal's long axis (bearing 85.8°), y towards 355.8°, z up, metres, so all of them are placed at bearing 355.8. Footprints are OSM outlines in that frame, and each model is shifted so its anchor (the centre of its group's bounding box) is the origin.",
+    "The headhouse here is four OSM ways:",
+    "Main Terminal (way/1414163868): the 1982 terminal, flat roofs at 13 m with a 10 m strip between ticketing and baggage claim, a 17 m east wing with a set-back upper storey; and along its curb front the new Terminal Lobby Expansion. The lobby's silver roof rises out of the old roofline towards the curb, from 14.6 m to 21 m, and stops short of the front, where the tall glass wall carries on up to the canopy. Two stair and lift cores stand up through its low back half.",
+    "the roadway canopy (way/1414165678, building=roof): one long silver shell over the two-level roadway, 23.4 m just off the glass and falling in a long curve to 17.6 m over the far curb, on a single row of columns 24 m apart (Commons, \"Charlotte Airport December 2022 Pickup Zone\" shows the lower roadway under the deck; Wikipedia gives the canopy 146,000 sq ft).",
+    "the Atrium (way/1347416658): the airside hall with rocking chairs, under a glazed barrel vault on white ribs (Commons \"CLT Airport Atrium\"), between lower wings, with a square block standing at its middle.",
+    "The Plaza (way/1347417381): the 2019 east expansion, 17 m with a set-back upper storey and lower wings.",
+    "OSM gives no heights. These, the lobby's and canopy's sections, the column row and which blocks stand up where were checked against renders of Mapbox's 3D buildings (tileset mapbox.mapbox-3dbuildings-v1), used only as a visual reference: every outline here is OSM's, and the geometry is our own modelling.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"clt-terminal\", model \"clt-terminal\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/clt-terminal.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 6140 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the clt-terminal-glazing finish in the window colour.",
+    "To fit six materials, folded trim into stone (ΔE 4.8)."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

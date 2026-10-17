@@ -1,0 +1,897 @@
+{
+  "id": "charlotte-convention-center",
+  "name": "Charlotte Convention Center",
+  "anchor": [
+    -80.8453989,
+    35.2221174
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 163284,
+      "sha256": "1a54cec55151c3d1105847efb3be4cbbfde66d1558a260bb75e9023ea9b91c81"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 163284,
+      "sha256": "1a54cec55151c3d1105847efb3be4cbbfde66d1558a260bb75e9023ea9b91c81"
+    }
+  },
+  "triangles": 3002,
+  "boundsBlenderM": [
+    [
+      -146.607,
+      -124.548,
+      0
+    ],
+    [
+      160.219,
+      123.338,
+      39.2
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.846357,
+          35.2217585
+        ],
+        [
+          -80.8463055,
+          35.2217941
+        ],
+        [
+          -80.8462982,
+          35.2217871
+        ],
+        [
+          -80.8462874,
+          35.2217766
+        ],
+        [
+          -80.8462296,
+          35.2218166
+        ],
+        [
+          -80.8462215,
+          35.2218088
+        ],
+        [
+          -80.8460159,
+          35.221951
+        ],
+        [
+          -80.8459878,
+          35.2219704
+        ],
+        [
+          -80.8459175,
+          35.2219005
+        ],
+        [
+          -80.8459448,
+          35.2218804
+        ],
+        [
+          -80.8461526,
+          35.2217387
+        ],
+        [
+          -80.8461442,
+          35.2217305
+        ],
+        [
+          -80.8461997,
+          35.2216928
+        ],
+        [
+          -80.8461922,
+          35.2216855
+        ],
+        [
+          -80.8461834,
+          35.2216768
+        ],
+        [
+          -80.8462374,
+          35.22164
+        ],
+        [
+          -80.8461342,
+          35.221539
+        ],
+        [
+          -80.8461431,
+          35.2215329
+        ],
+        [
+          -80.8460663,
+          35.2214575
+        ],
+        [
+          -80.8460516,
+          35.2214676
+        ],
+        [
+          -80.8458643,
+          35.2212912
+        ],
+        [
+          -80.8458748,
+          35.2212839
+        ],
+        [
+          -80.8457974,
+          35.2212096
+        ],
+        [
+          -80.8457844,
+          35.2212186
+        ],
+        [
+          -80.8456822,
+          35.2211234
+        ],
+        [
+          -80.84566,
+          35.2211383
+        ],
+        [
+          -80.8454999,
+          35.2209909
+        ],
+        [
+          -80.8454345,
+          35.2210368
+        ],
+        [
+          -80.8454303,
+          35.22104
+        ],
+        [
+          -80.8453979,
+          35.2210084
+        ],
+        [
+          -80.8453509,
+          35.2210405
+        ],
+        [
+          -80.8452469,
+          35.2211116
+        ],
+        [
+          -80.845143,
+          35.2211819
+        ],
+        [
+          -80.8448526,
+          35.2213806
+        ],
+        [
+          -80.8446489,
+          35.2215185
+        ],
+        [
+          -80.8445811,
+          35.221564
+        ],
+        [
+          -80.8445309,
+          35.2215978
+        ],
+        [
+          -80.8444802,
+          35.2216321
+        ],
+        [
+          -80.8442,
+          35.2218239
+        ],
+        [
+          -80.8441658,
+          35.2218485
+        ],
+        [
+          -80.8438495,
+          35.222064
+        ],
+        [
+          -80.8437855,
+          35.2221081
+        ],
+        [
+          -80.8436584,
+          35.2221939
+        ],
+        [
+          -80.8436973,
+          35.2222324
+        ],
+        [
+          -80.8436678,
+          35.2222524
+        ],
+        [
+          -80.8436385,
+          35.2222722
+        ],
+        [
+          -80.8440965,
+          35.2227238
+        ],
+        [
+          -80.8441606,
+          35.2226804
+        ],
+        [
+          -80.8442131,
+          35.222733
+        ],
+        [
+          -80.8442048,
+          35.2227387
+        ],
+        [
+          -80.8442576,
+          35.2227902
+        ],
+        [
+          -80.8443226,
+          35.2228535
+        ],
+        [
+          -80.8449936,
+          35.2223945
+        ],
+        [
+          -80.8450712,
+          35.2223414
+        ],
+        [
+          -80.8451262,
+          35.2223038
+        ],
+        [
+          -80.8452306,
+          35.2224069
+        ],
+        [
+          -80.845259,
+          35.222435
+        ],
+        [
+          -80.8454061,
+          35.222581
+        ],
+        [
+          -80.8459296,
+          35.2230963
+        ],
+        [
+          -80.8459499,
+          35.2230825
+        ],
+        [
+          -80.8460624,
+          35.2231916
+        ],
+        [
+          -80.8461422,
+          35.2231372
+        ],
+        [
+          -80.8462318,
+          35.2230761
+        ],
+        [
+          -80.8462241,
+          35.2230686
+        ],
+        [
+          -80.8468938,
+          35.2226103
+        ],
+        [
+          -80.8469263,
+          35.2225881
+        ],
+        [
+          -80.8469322,
+          35.2225943
+        ],
+        [
+          -80.8469995,
+          35.2226646
+        ],
+        [
+          -80.8470075,
+          35.2226594
+        ],
+        [
+          -80.8469511,
+          35.222584
+        ],
+        [
+          -80.8469771,
+          35.2225653
+        ],
+        [
+          -80.846999,
+          35.2225396
+        ],
+        [
+          -80.8470161,
+          35.2225
+        ],
+        [
+          -80.8470214,
+          35.222467
+        ],
+        [
+          -80.8470188,
+          35.2224328
+        ],
+        [
+          -80.8470021,
+          35.2223947
+        ],
+        [
+          -80.846978,
+          35.2223683
+        ],
+        [
+          -80.8469586,
+          35.2223514
+        ],
+        [
+          -80.8469224,
+          35.2223333
+        ],
+        [
+          -80.846904,
+          35.2223164
+        ],
+        [
+          -80.8468462,
+          35.2222634
+        ],
+        [
+          -80.8468764,
+          35.2222427
+        ],
+        [
+          -80.8468089,
+          35.222177
+        ],
+        [
+          -80.8468212,
+          35.2221686
+        ],
+        [
+          -80.8467413,
+          35.2220908
+        ],
+        [
+          -80.8467255,
+          35.2221016
+        ],
+        [
+          -80.8465455,
+          35.2219262
+        ],
+        [
+          -80.8465567,
+          35.2219187
+        ],
+        [
+          -80.8464788,
+          35.2218417
+        ],
+        [
+          -80.8464531,
+          35.2218512
+        ],
+        [
+          -80.8464005,
+          35.2218005
+        ],
+        [
+          -80.8463688,
+          35.2217699
+        ],
+        [
+          -80.846357,
+          35.2217585
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 239813217,
+    "version": 18,
+    "timestamp": "2025-01-19T06:04:03Z",
+    "url": "https://www.openstreetmap.org/way/239813217"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 1352238822,
+      "version": 1,
+      "timestamp": "2025-01-18T02:21:53Z",
+      "url": "https://www.openstreetmap.org/way/1352238822"
+    },
+    {
+      "type": "way",
+      "id": 1352238823,
+      "version": 1,
+      "timestamp": "2025-01-18T02:21:53Z",
+      "url": "https://www.openstreetmap.org/way/1352238823"
+    },
+    {
+      "type": "way",
+      "id": 1352238824,
+      "version": 1,
+      "timestamp": "2025-01-18T02:21:53Z",
+      "url": "https://www.openstreetmap.org/way/1352238824"
+    },
+    {
+      "type": "way",
+      "id": 1352238825,
+      "version": 1,
+      "timestamp": "2025-01-18T02:21:53Z",
+      "url": "https://www.openstreetmap.org/way/1352238825"
+    },
+    {
+      "type": "way",
+      "id": 1352238826,
+      "version": 1,
+      "timestamp": "2025-01-18T02:21:53Z",
+      "url": "https://www.openstreetmap.org/way/1352238826"
+    },
+    {
+      "type": "way",
+      "id": 1352238827,
+      "version": 1,
+      "timestamp": "2025-01-18T02:21:53Z",
+      "url": "https://www.openstreetmap.org/way/1352238827"
+    },
+    {
+      "type": "way",
+      "id": 1352238828,
+      "version": 1,
+      "timestamp": "2025-01-18T02:21:53Z",
+      "url": "https://www.openstreetmap.org/way/1352238828"
+    },
+    {
+      "type": "way",
+      "id": 1352238829,
+      "version": 1,
+      "timestamp": "2025-01-18T02:21:53Z",
+      "url": "https://www.openstreetmap.org/way/1352238829"
+    },
+    {
+      "type": "way",
+      "id": 1352238830,
+      "version": 1,
+      "timestamp": "2025-01-18T02:21:53Z",
+      "url": "https://www.openstreetmap.org/way/1352238830"
+    },
+    {
+      "type": "way",
+      "id": 1352238838,
+      "version": 1,
+      "timestamp": "2025-01-18T02:21:53Z",
+      "url": "https://www.openstreetmap.org/way/1352238838"
+    },
+    {
+      "type": "way",
+      "id": 1352238839,
+      "version": 2,
+      "timestamp": "2025-01-19T06:04:03Z",
+      "url": "https://www.openstreetmap.org/way/1352238839"
+    },
+    {
+      "type": "way",
+      "id": 1352238840,
+      "version": 1,
+      "timestamp": "2025-01-18T02:21:53Z",
+      "url": "https://www.openstreetmap.org/way/1352238840"
+    },
+    {
+      "type": "way",
+      "id": 1352238841,
+      "version": 1,
+      "timestamp": "2025-01-18T02:21:53Z",
+      "url": "https://www.openstreetmap.org/way/1352238841"
+    },
+    {
+      "type": "way",
+      "id": 1352238842,
+      "version": 1,
+      "timestamp": "2025-01-18T02:21:53Z",
+      "url": "https://www.openstreetmap.org/way/1352238842"
+    },
+    {
+      "type": "way",
+      "id": 1352238843,
+      "version": 1,
+      "timestamp": "2025-01-18T02:21:53Z",
+      "url": "https://www.openstreetmap.org/way/1352238843"
+    },
+    {
+      "type": "way",
+      "id": 1352238844,
+      "version": 1,
+      "timestamp": "2025-01-18T02:21:53Z",
+      "url": "https://www.openstreetmap.org/way/1352238844"
+    },
+    {
+      "type": "way",
+      "id": 1352238845,
+      "version": 1,
+      "timestamp": "2025-01-18T02:21:53Z",
+      "url": "https://www.openstreetmap.org/way/1352238845"
+    },
+    {
+      "type": "way",
+      "id": 1352238846,
+      "version": 1,
+      "timestamp": "2025-01-18T02:21:53Z",
+      "url": "https://www.openstreetmap.org/way/1352238846"
+    },
+    {
+      "type": "way",
+      "id": 1352238847,
+      "version": 1,
+      "timestamp": "2025-01-18T02:21:53Z",
+      "url": "https://www.openstreetmap.org/way/1352238847"
+    },
+    {
+      "type": "way",
+      "id": 1352238848,
+      "version": 1,
+      "timestamp": "2025-01-18T02:21:53Z",
+      "url": "https://www.openstreetmap.org/way/1352238848"
+    },
+    {
+      "type": "way",
+      "id": 1352238849,
+      "version": 1,
+      "timestamp": "2025-01-18T02:21:53Z",
+      "url": "https://www.openstreetmap.org/way/1352238849"
+    },
+    {
+      "type": "way",
+      "id": 1352238850,
+      "version": 1,
+      "timestamp": "2025-01-18T02:21:53Z",
+      "url": "https://www.openstreetmap.org/way/1352238850"
+    },
+    {
+      "type": "way",
+      "id": 1352238851,
+      "version": 1,
+      "timestamp": "2025-01-18T02:21:53Z",
+      "url": "https://www.openstreetmap.org/way/1352238851"
+    },
+    {
+      "type": "way",
+      "id": 1352238852,
+      "version": 1,
+      "timestamp": "2025-01-18T02:21:53Z",
+      "url": "https://www.openstreetmap.org/way/1352238852"
+    },
+    {
+      "type": "way",
+      "id": 1352238853,
+      "version": 1,
+      "timestamp": "2025-01-18T02:21:53Z",
+      "url": "https://www.openstreetmap.org/way/1352238853"
+    },
+    {
+      "type": "way",
+      "id": 1352238854,
+      "version": 1,
+      "timestamp": "2025-01-18T02:21:53Z",
+      "url": "https://www.openstreetmap.org/way/1352238854"
+    },
+    {
+      "type": "way",
+      "id": 1352238855,
+      "version": 2,
+      "timestamp": "2025-01-19T06:25:03Z",
+      "url": "https://www.openstreetmap.org/way/1352238855"
+    },
+    {
+      "type": "way",
+      "id": 1352238856,
+      "version": 1,
+      "timestamp": "2025-01-18T02:21:53Z",
+      "url": "https://www.openstreetmap.org/way/1352238856"
+    },
+    {
+      "type": "way",
+      "id": 1352238857,
+      "version": 1,
+      "timestamp": "2025-01-18T02:21:53Z",
+      "url": "https://www.openstreetmap.org/way/1352238857"
+    },
+    {
+      "type": "way",
+      "id": 1352238858,
+      "version": 1,
+      "timestamp": "2025-01-18T02:21:53Z",
+      "url": "https://www.openstreetmap.org/way/1352238858"
+    },
+    {
+      "type": "way",
+      "id": 1352238860,
+      "version": 1,
+      "timestamp": "2025-01-18T02:21:53Z",
+      "url": "https://www.openstreetmap.org/way/1352238860"
+    },
+    {
+      "type": "way",
+      "id": 1352238861,
+      "version": 1,
+      "timestamp": "2025-01-18T02:21:53Z",
+      "url": "https://www.openstreetmap.org/way/1352238861"
+    },
+    {
+      "type": "way",
+      "id": 1352238862,
+      "version": 1,
+      "timestamp": "2025-01-18T02:21:53Z",
+      "url": "https://www.openstreetmap.org/way/1352238862"
+    },
+    {
+      "type": "way",
+      "id": 1352238863,
+      "version": 1,
+      "timestamp": "2025-01-18T02:21:53Z",
+      "url": "https://www.openstreetmap.org/way/1352238863"
+    },
+    {
+      "type": "way",
+      "id": 1352238864,
+      "version": 1,
+      "timestamp": "2025-01-18T02:21:53Z",
+      "url": "https://www.openstreetmap.org/way/1352238864"
+    },
+    {
+      "type": "way",
+      "id": 1352238865,
+      "version": 1,
+      "timestamp": "2025-01-18T02:21:53Z",
+      "url": "https://www.openstreetmap.org/way/1352238865"
+    },
+    {
+      "type": "way",
+      "id": 1352238866,
+      "version": 1,
+      "timestamp": "2025-01-18T02:21:53Z",
+      "url": "https://www.openstreetmap.org/way/1352238866"
+    },
+    {
+      "type": "way",
+      "id": 1352238867,
+      "version": 1,
+      "timestamp": "2025-01-18T02:21:53Z",
+      "url": "https://www.openstreetmap.org/way/1352238867"
+    },
+    {
+      "type": "way",
+      "id": 1352238868,
+      "version": 1,
+      "timestamp": "2025-01-18T02:21:53Z",
+      "url": "https://www.openstreetmap.org/way/1352238868"
+    },
+    {
+      "type": "way",
+      "id": 1352238869,
+      "version": 1,
+      "timestamp": "2025-01-18T02:21:53Z",
+      "url": "https://www.openstreetmap.org/way/1352238869"
+    },
+    {
+      "type": "way",
+      "id": 1352238870,
+      "version": 1,
+      "timestamp": "2025-01-18T02:21:53Z",
+      "url": "https://www.openstreetmap.org/way/1352238870"
+    },
+    {
+      "type": "way",
+      "id": 1352238871,
+      "version": 1,
+      "timestamp": "2025-01-18T02:21:53Z",
+      "url": "https://www.openstreetmap.org/way/1352238871"
+    },
+    {
+      "type": "way",
+      "id": 1352238872,
+      "version": 1,
+      "timestamp": "2025-01-18T02:21:53Z",
+      "url": "https://www.openstreetmap.org/way/1352238872"
+    },
+    {
+      "type": "way",
+      "id": 1352238873,
+      "version": 1,
+      "timestamp": "2025-01-18T02:21:53Z",
+      "url": "https://www.openstreetmap.org/way/1352238873"
+    },
+    {
+      "type": "way",
+      "id": 1352238874,
+      "version": 1,
+      "timestamp": "2025-01-18T02:21:53Z",
+      "url": "https://www.openstreetmap.org/way/1352238874"
+    },
+    {
+      "type": "way",
+      "id": 1352238875,
+      "version": 1,
+      "timestamp": "2025-01-18T02:21:53Z",
+      "url": "https://www.openstreetmap.org/way/1352238875"
+    },
+    {
+      "type": "way",
+      "id": 1352238876,
+      "version": 1,
+      "timestamp": "2025-01-18T02:21:53Z",
+      "url": "https://www.openstreetmap.org/way/1352238876"
+    },
+    {
+      "type": "way",
+      "id": 1352238877,
+      "version": 1,
+      "timestamp": "2025-01-18T02:21:53Z",
+      "url": "https://www.openstreetmap.org/way/1352238877"
+    },
+    {
+      "type": "way",
+      "id": 1352238878,
+      "version": 1,
+      "timestamp": "2025-01-18T02:21:53Z",
+      "url": "https://www.openstreetmap.org/way/1352238878"
+    },
+    {
+      "type": "way",
+      "id": 1352238879,
+      "version": 1,
+      "timestamp": "2025-01-18T02:21:53Z",
+      "url": "https://www.openstreetmap.org/way/1352238879"
+    },
+    {
+      "type": "way",
+      "id": 1352238880,
+      "version": 1,
+      "timestamp": "2025-01-18T02:21:53Z",
+      "url": "https://www.openstreetmap.org/way/1352238880"
+    },
+    {
+      "type": "way",
+      "id": 1352238881,
+      "version": 1,
+      "timestamp": "2025-01-18T02:21:53Z",
+      "url": "https://www.openstreetmap.org/way/1352238881"
+    },
+    {
+      "type": "way",
+      "id": 1352238882,
+      "version": 1,
+      "timestamp": "2025-01-18T02:21:53Z",
+      "url": "https://www.openstreetmap.org/way/1352238882"
+    },
+    {
+      "type": "way",
+      "id": 1352238883,
+      "version": 1,
+      "timestamp": "2025-01-18T02:21:53Z",
+      "url": "https://www.openstreetmap.org/way/1352238883"
+    },
+    {
+      "type": "way",
+      "id": 1352238884,
+      "version": 1,
+      "timestamp": "2025-01-18T02:21:53Z",
+      "url": "https://www.openstreetmap.org/way/1352238884"
+    },
+    {
+      "type": "relation",
+      "id": 18569997,
+      "version": 1,
+      "timestamp": "2025-01-18T02:21:53Z",
+      "url": "https://www.openstreetmap.org/relation/18569997"
+    }
+  ],
+  "wikidata": "Q5085885",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Charlotte Convention Center in 2017.jpg",
+      "author": "Kenneth C. Zirkel",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Charlotte_Convention_Center_in_2017.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Entrance to Charlotte, NC, Convention Center IMG 5243.JPG",
+      "author": "Billy Hathorn",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Entrance_to_Charlotte,_NC,_Convention_Center_IMG_5243.JPG",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Charlotte NC Convention Center 2007.jpg",
+      "author": "Kenneth C. Zirkel",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Charlotte_NC_Convention_Center_2007.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Charlotte Skyline From the Caldwell Street South Blvd bridge.jpg",
+      "author": "John Ashley from Charlotte, USA",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Charlotte_Skyline_From_the_Caldwell_Street_South_Blvd_bridge.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:3rd Street (LYNX station).jpg",
+      "author": "Patriarca12",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:3rd_Street_(LYNX_station).jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/clt-convention-center.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Charlotte Convention Center (501 S College St, opened 1995, Thompson, Ventulett, Stainback & Associates; expanded 2021) — original procedural geometry, CC0-1.0. bun generators/clt-convention-center.ts",
+    "Map frame: x east, y north, z up, metres; origin at the anchor on the ground. Anchor = centroid of the OSM outline way/239813217, 35.2221174, -80.8453989. Its walls run at 50° / 140°, so the catalog bearing is 50: model +y points up College Street (NE, toward MLK Blvd), +x toward Brevard Street; College is the -x face, Stonewall St (now Brooklyn Village Ave) the -y face.",
+    "Identity, in order: a very large, low, cream precast block filling the whole block between College and Brevard; the glazed barrel-vault concourses that cross it (College to Brevard) and run up beside the LYNX tracks to MLK, meeting at a glass-domed rotunda over a raised hub; arched glass entrances at the vault ends under bold curved white hoods between precast pylons; the 2021 rounded glass corner at College/Stonewall and the bridge over Stonewall to the Westin.",
+    "Evidence: - plan: OSM outline way/239813217 and its 55 building:parts (way/ 1352238822-884) plus the hub relation/18569997; USGS NAIP orthophoto (tools/usgs.py naip, fetched Oct 2026) for the vaults, rotunda, roof ridges and the Stonewall bridge, which OSM does not map. - heights: lidar USGS_LPC_NC_Phase4_Mecklenburg_2016 (flown 2016-17), 1 m grid. Base = ground_min + 4.7 m (the Stonewall/Brevard corner, the lowest ground under the footprint); ground rises ~9.5 m to MLK and ~7 m to College (plane fit, used only to start facade detail above grade). Measured above base: hall roof 19.7, College wall 22.4, cross ridges 22.2-23, clerestory band 25.2, trench vent towers 28.1, concourse eaves ~23 under 25.6-26 crowns, hub 30.3, rotunda dome 39.2, spine 21 under ~24, ballroom 19.7 / 24.2 / 25.8 cross, MLK portal 21.3, court canopy 11. OSM part heights agree with these within ~1 m. - 2021 work (after the flight): the Stonewall-side meeting rooms take OSM's heights (19-23 m; the 2016 lidar shows ~11 m there); the rounded corner follows OSM's arc (fitted: centre -110.5/-72.5, radius 20 m, a quarter circle), glass from the plinth to 20.2 m under a 1.6 m cornice, in two-storey bands, height and teal-green glass (window-2 #55807c) from Mapillary 2022 image 180334787811096; the bridge's position and width (7 m) are measured on NAIP, its deck (7.5-13 m) is estimated. - published: opened 1995, TVS architects, 280,000 sq ft exhibit space, LYNX passes through it, $110M expansion with the Westin bridge completed Oct 2021 (Wikipedia, \"Charlotte Convention Center\"). - colour: precast panels cream-beige in every daylight photo (sunlit ~#e6dcc8, shade ~#cfc3ad) -> ccc-precast #e9dcc6; white membrane roofs on NAIP, pulled to a light grey (#c6cacc) so the vaults read; dark glazing = window; vaults and dome glass; hoods white = trim.",
+    "Photos (evidence): - \"Charlotte Convention Center in 2017.jpg\", Kenneth C. Zirkel, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Charlotte_Convention_Center_in_2017.jpg (MLK entrance: hood, arched glass, pylons) - \"Entrance to Charlotte, NC, Convention Center IMG 5243.JPG\", Billy Hathorn, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Entrance_to_Charlotte,_NC,_Convention_Center_IMG_5243.JPG - \"Charlotte NC Convention Center 2007.jpg\", Kenneth C. Zirkel, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Charlotte_NC_Convention_Center_2007.jpg (College entrance and pylon) - \"Charlotte Convention Center\", pasa47, CC BY 2.0, https://www.flickr.com/photos/53301297@N00/49721488483 (MLK side, tracks) - \"Charlotte Skyline From the Caldwell Street South Blvd bridge.jpg\", John Ashley, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Charlotte_Skyline_From_the_Caldwell_Street_South_Blvd_bridge.jpg (the long low mass from the south) - \"3rd Street (LYNX station).jpg\", Patriarca12, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:3rd_Street_(LYNX_station).jpg (the spine's vault beside the tracks) - Mapillary (CC BY-SA 4.0), contributors' images 180334787811096 (rounded corner, 2022), 501434965148436 (Stonewall face), 1063116400872692 (MLK face), 527573339047805 (College St), 1121186182150504 and 485654926906582 (Brevard). Look-only: none used. No commercial imagery.",
+    "Estimated: window and bay sizes (photos, no dimensions), pylon sizes, hood depth (8 m at the crown) and fascia, the College face's clerestory windows, the court's glass wall height. Invented: the hood's plan curve law.",
+    "Doubts: no licensed photo shows the 2021 Stonewall facade squarely or the Brevard entrance, so both are drawn like the 1995 faces; the College St face between the entrance and the corner is mostly hidden by trees in every photo. The \"spires\" in the brief's note were not found: the 2016 lidar has nothing above the 39 m dome, and the College St photos show pylons and a lattice sign frame, not towers; the arched entrances under their hoods are the curved glass features modelled.",
+    "Left out: lettering, the lattice sign frames, mullions, rooftop plant.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"clt-convention-center\", model \"clt-convention-center\"), generated by https://github.com/alexwohlbruck/landmarks/blob/a1974bbf738c6994edbe99a7a61818b9d69da9e0/generators/clt-convention-center.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 526 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the clt-convention-center-glazing finish in the window colour.",
+    "To fit six materials, folded trim into clt-convention-center-ccc-precast (ΔE 7.5)."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

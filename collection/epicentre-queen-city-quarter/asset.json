@@ -1,0 +1,857 @@
+{
+  "id": "epicentre-queen-city-quarter",
+  "name": "EpiCentre (Queen City Quarter)",
+  "anchor": [
+    -80.8420033,
+    35.2253475
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 240616,
+      "sha256": "3324eb4eb1a32ade77e23b58a5ccf553be43b778a8c7c6a6127c1003f146cc54"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 240616,
+      "sha256": "3324eb4eb1a32ade77e23b58a5ccf553be43b778a8c7c6a6127c1003f146cc54"
+    }
+  },
+  "triangles": 4358,
+  "boundsBlenderM": [
+    [
+      -78.986,
+      -79.211,
+      0
+    ],
+    [
+      75.786,
+      77.183,
+      93
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.8421285,
+          35.2258348
+        ],
+        [
+          -80.8420391,
+          35.2257534
+        ],
+        [
+          -80.8418263,
+          35.2255617
+        ],
+        [
+          -80.8417847,
+          35.2255283
+        ],
+        [
+          -80.8417721,
+          35.22552
+        ],
+        [
+          -80.841758,
+          35.2255133
+        ],
+        [
+          -80.8417308,
+          35.2255061
+        ],
+        [
+          -80.8417027,
+          35.225505
+        ],
+        [
+          -80.8416727,
+          35.2255108
+        ],
+        [
+          -80.8416465,
+          35.225523
+        ],
+        [
+          -80.8416396,
+          35.2255285
+        ],
+        [
+          -80.8416302,
+          35.2255359
+        ],
+        [
+          -80.841618,
+          35.2255495
+        ],
+        [
+          -80.8416107,
+          35.2255641
+        ],
+        [
+          -80.8416068,
+          35.2255787
+        ],
+        [
+          -80.8416054,
+          35.2255907
+        ],
+        [
+          -80.8416081,
+          35.2256102
+        ],
+        [
+          -80.8416118,
+          35.2256227
+        ],
+        [
+          -80.8416162,
+          35.2256322
+        ],
+        [
+          -80.8415987,
+          35.2256374
+        ],
+        [
+          -80.8415791,
+          35.2256433
+        ],
+        [
+          -80.8416341,
+          35.2257373
+        ],
+        [
+          -80.8416776,
+          35.2257765
+        ],
+        [
+          -80.8419091,
+          35.2259852
+        ],
+        [
+          -80.8419173,
+          35.2259922
+        ],
+        [
+          -80.8419306,
+          35.2259815
+        ],
+        [
+          -80.841955,
+          35.2259638
+        ],
+        [
+          -80.8419804,
+          35.2259453
+        ],
+        [
+          -80.8419923,
+          35.2259546
+        ],
+        [
+          -80.8420078,
+          35.2259623
+        ],
+        [
+          -80.842022,
+          35.2259664
+        ],
+        [
+          -80.8420382,
+          35.2259684
+        ],
+        [
+          -80.8420564,
+          35.2259673
+        ],
+        [
+          -80.8420723,
+          35.2259635
+        ],
+        [
+          -80.8420874,
+          35.2259568
+        ],
+        [
+          -80.8420982,
+          35.2259494
+        ],
+        [
+          -80.8421062,
+          35.2259418
+        ],
+        [
+          -80.842114,
+          35.2259313
+        ],
+        [
+          -80.8421185,
+          35.2259218
+        ],
+        [
+          -80.8421215,
+          35.2259096
+        ],
+        [
+          -80.842121,
+          35.2258932
+        ],
+        [
+          -80.8421164,
+          35.2258791
+        ],
+        [
+          -80.8421084,
+          35.2258666
+        ],
+        [
+          -80.842098,
+          35.2258563
+        ],
+        [
+          -80.8421285,
+          35.2258348
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 985619872,
+    "version": 3,
+    "timestamp": "2026-04-18T06:06:37Z",
+    "url": "https://www.openstreetmap.org/way/985619872"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 1500646960,
+      "version": 1,
+      "timestamp": "2026-04-18T06:06:37Z",
+      "url": "https://www.openstreetmap.org/way/1500646960"
+    },
+    {
+      "type": "way",
+      "id": 1500646961,
+      "version": 1,
+      "timestamp": "2026-04-18T06:06:37Z",
+      "url": "https://www.openstreetmap.org/way/1500646961"
+    },
+    {
+      "type": "way",
+      "id": 1500646962,
+      "version": 1,
+      "timestamp": "2026-04-18T06:06:37Z",
+      "url": "https://www.openstreetmap.org/way/1500646962"
+    },
+    {
+      "type": "way",
+      "id": 1500646964,
+      "version": 1,
+      "timestamp": "2026-04-18T06:06:37Z",
+      "url": "https://www.openstreetmap.org/way/1500646964"
+    },
+    {
+      "type": "way",
+      "id": 1500646965,
+      "version": 1,
+      "timestamp": "2026-04-18T06:06:37Z",
+      "url": "https://www.openstreetmap.org/way/1500646965"
+    },
+    {
+      "type": "way",
+      "id": 1500646966,
+      "version": 1,
+      "timestamp": "2026-04-18T06:06:37Z",
+      "url": "https://www.openstreetmap.org/way/1500646966"
+    },
+    {
+      "type": "way",
+      "id": 1500646967,
+      "version": 1,
+      "timestamp": "2026-04-18T06:06:37Z",
+      "url": "https://www.openstreetmap.org/way/1500646967"
+    },
+    {
+      "type": "way",
+      "id": 1500646968,
+      "version": 2,
+      "timestamp": "2026-04-19T03:56:21Z",
+      "url": "https://www.openstreetmap.org/way/1500646968"
+    },
+    {
+      "type": "way",
+      "id": 1500646969,
+      "version": 1,
+      "timestamp": "2026-04-18T06:06:37Z",
+      "url": "https://www.openstreetmap.org/way/1500646969"
+    },
+    {
+      "type": "way",
+      "id": 1500646970,
+      "version": 1,
+      "timestamp": "2026-04-18T06:06:37Z",
+      "url": "https://www.openstreetmap.org/way/1500646970"
+    },
+    {
+      "type": "way",
+      "id": 1500646971,
+      "version": 1,
+      "timestamp": "2026-04-18T06:06:37Z",
+      "url": "https://www.openstreetmap.org/way/1500646971"
+    },
+    {
+      "type": "way",
+      "id": 1500646972,
+      "version": 1,
+      "timestamp": "2026-04-18T06:06:37Z",
+      "url": "https://www.openstreetmap.org/way/1500646972"
+    },
+    {
+      "type": "way",
+      "id": 1500646974,
+      "version": 1,
+      "timestamp": "2026-04-18T06:06:37Z",
+      "url": "https://www.openstreetmap.org/way/1500646974"
+    },
+    {
+      "type": "way",
+      "id": 676164657,
+      "version": 5,
+      "timestamp": "2026-04-18T06:06:37Z",
+      "url": "https://www.openstreetmap.org/way/676164657"
+    },
+    {
+      "type": "way",
+      "id": 676164658,
+      "version": 5,
+      "timestamp": "2026-04-19T04:01:12Z",
+      "url": "https://www.openstreetmap.org/way/676164658"
+    },
+    {
+      "type": "way",
+      "id": 1188214516,
+      "version": 4,
+      "timestamp": "2026-04-19T04:01:12Z",
+      "url": "https://www.openstreetmap.org/way/1188214516"
+    },
+    {
+      "type": "way",
+      "id": 1500646951,
+      "version": 1,
+      "timestamp": "2026-04-18T06:06:37Z",
+      "url": "https://www.openstreetmap.org/way/1500646951"
+    },
+    {
+      "type": "way",
+      "id": 1500646952,
+      "version": 1,
+      "timestamp": "2026-04-18T06:06:37Z",
+      "url": "https://www.openstreetmap.org/way/1500646952"
+    },
+    {
+      "type": "way",
+      "id": 1500646953,
+      "version": 1,
+      "timestamp": "2026-04-18T06:06:37Z",
+      "url": "https://www.openstreetmap.org/way/1500646953"
+    },
+    {
+      "type": "way",
+      "id": 1500955903,
+      "version": 1,
+      "timestamp": "2026-04-19T04:01:12Z",
+      "url": "https://www.openstreetmap.org/way/1500955903"
+    },
+    {
+      "type": "way",
+      "id": 1500955904,
+      "version": 1,
+      "timestamp": "2026-04-19T04:01:12Z",
+      "url": "https://www.openstreetmap.org/way/1500955904"
+    },
+    {
+      "type": "way",
+      "id": 1500646950,
+      "version": 1,
+      "timestamp": "2026-04-18T06:06:37Z",
+      "url": "https://www.openstreetmap.org/way/1500646950"
+    },
+    {
+      "type": "way",
+      "id": 1499786340,
+      "version": 1,
+      "timestamp": "2026-04-16T00:56:57Z",
+      "url": "https://www.openstreetmap.org/way/1499786340"
+    },
+    {
+      "type": "way",
+      "id": 1499786341,
+      "version": 2,
+      "timestamp": "2026-04-18T06:06:37Z",
+      "url": "https://www.openstreetmap.org/way/1499786341"
+    },
+    {
+      "type": "way",
+      "id": 1499786342,
+      "version": 1,
+      "timestamp": "2026-04-16T00:56:57Z",
+      "url": "https://www.openstreetmap.org/way/1499786342"
+    },
+    {
+      "type": "way",
+      "id": 1499786343,
+      "version": 1,
+      "timestamp": "2026-04-16T00:56:57Z",
+      "url": "https://www.openstreetmap.org/way/1499786343"
+    },
+    {
+      "type": "way",
+      "id": 1499786344,
+      "version": 1,
+      "timestamp": "2026-04-16T00:56:57Z",
+      "url": "https://www.openstreetmap.org/way/1499786344"
+    },
+    {
+      "type": "way",
+      "id": 1499786345,
+      "version": 1,
+      "timestamp": "2026-04-16T00:56:57Z",
+      "url": "https://www.openstreetmap.org/way/1499786345"
+    },
+    {
+      "type": "way",
+      "id": 676164662,
+      "version": 9,
+      "timestamp": "2026-04-18T06:06:37Z",
+      "url": "https://www.openstreetmap.org/way/676164662"
+    },
+    {
+      "type": "way",
+      "id": 1499786347,
+      "version": 2,
+      "timestamp": "2026-04-18T06:06:37Z",
+      "url": "https://www.openstreetmap.org/way/1499786347"
+    },
+    {
+      "type": "way",
+      "id": 1499786348,
+      "version": 2,
+      "timestamp": "2026-04-18T06:06:37Z",
+      "url": "https://www.openstreetmap.org/way/1499786348"
+    },
+    {
+      "type": "way",
+      "id": 1499786349,
+      "version": 1,
+      "timestamp": "2026-04-16T00:56:57Z",
+      "url": "https://www.openstreetmap.org/way/1499786349"
+    },
+    {
+      "type": "way",
+      "id": 1499786350,
+      "version": 1,
+      "timestamp": "2026-04-16T00:56:57Z",
+      "url": "https://www.openstreetmap.org/way/1499786350"
+    },
+    {
+      "type": "way",
+      "id": 1499786351,
+      "version": 1,
+      "timestamp": "2026-04-16T00:56:57Z",
+      "url": "https://www.openstreetmap.org/way/1499786351"
+    },
+    {
+      "type": "way",
+      "id": 1499786352,
+      "version": 1,
+      "timestamp": "2026-04-16T00:56:57Z",
+      "url": "https://www.openstreetmap.org/way/1499786352"
+    },
+    {
+      "type": "way",
+      "id": 1499786353,
+      "version": 1,
+      "timestamp": "2026-04-16T00:56:57Z",
+      "url": "https://www.openstreetmap.org/way/1499786353"
+    },
+    {
+      "type": "way",
+      "id": 1499786346,
+      "version": 2,
+      "timestamp": "2026-04-18T06:06:37Z",
+      "url": "https://www.openstreetmap.org/way/1499786346"
+    },
+    {
+      "type": "way",
+      "id": 1499786354,
+      "version": 1,
+      "timestamp": "2026-04-16T00:56:57Z",
+      "url": "https://www.openstreetmap.org/way/1499786354"
+    },
+    {
+      "type": "way",
+      "id": 1499786355,
+      "version": 1,
+      "timestamp": "2026-04-16T00:56:57Z",
+      "url": "https://www.openstreetmap.org/way/1499786355"
+    },
+    {
+      "type": "way",
+      "id": 1499786356,
+      "version": 1,
+      "timestamp": "2026-04-16T00:56:57Z",
+      "url": "https://www.openstreetmap.org/way/1499786356"
+    },
+    {
+      "type": "way",
+      "id": 1499786357,
+      "version": 1,
+      "timestamp": "2026-04-16T00:56:57Z",
+      "url": "https://www.openstreetmap.org/way/1499786357"
+    },
+    {
+      "type": "way",
+      "id": 1499786358,
+      "version": 1,
+      "timestamp": "2026-04-16T00:56:57Z",
+      "url": "https://www.openstreetmap.org/way/1499786358"
+    },
+    {
+      "type": "way",
+      "id": 1499786359,
+      "version": 1,
+      "timestamp": "2026-04-16T00:56:57Z",
+      "url": "https://www.openstreetmap.org/way/1499786359"
+    },
+    {
+      "type": "way",
+      "id": 1499786360,
+      "version": 1,
+      "timestamp": "2026-04-16T00:56:57Z",
+      "url": "https://www.openstreetmap.org/way/1499786360"
+    },
+    {
+      "type": "way",
+      "id": 1499786361,
+      "version": 1,
+      "timestamp": "2026-04-16T00:56:57Z",
+      "url": "https://www.openstreetmap.org/way/1499786361"
+    },
+    {
+      "type": "way",
+      "id": 1499786362,
+      "version": 1,
+      "timestamp": "2026-04-16T00:56:57Z",
+      "url": "https://www.openstreetmap.org/way/1499786362"
+    },
+    {
+      "type": "way",
+      "id": 1499786363,
+      "version": 1,
+      "timestamp": "2026-04-16T00:56:57Z",
+      "url": "https://www.openstreetmap.org/way/1499786363"
+    },
+    {
+      "type": "way",
+      "id": 1499786364,
+      "version": 1,
+      "timestamp": "2026-04-16T00:56:57Z",
+      "url": "https://www.openstreetmap.org/way/1499786364"
+    },
+    {
+      "type": "way",
+      "id": 1499786365,
+      "version": 2,
+      "timestamp": "2026-04-19T04:02:58Z",
+      "url": "https://www.openstreetmap.org/way/1499786365"
+    },
+    {
+      "type": "way",
+      "id": 1499786366,
+      "version": 1,
+      "timestamp": "2026-04-16T00:56:57Z",
+      "url": "https://www.openstreetmap.org/way/1499786366"
+    },
+    {
+      "type": "way",
+      "id": 1499786367,
+      "version": 1,
+      "timestamp": "2026-04-16T00:56:57Z",
+      "url": "https://www.openstreetmap.org/way/1499786367"
+    },
+    {
+      "type": "way",
+      "id": 1499786368,
+      "version": 2,
+      "timestamp": "2026-04-19T04:02:58Z",
+      "url": "https://www.openstreetmap.org/way/1499786368"
+    },
+    {
+      "type": "way",
+      "id": 1499786369,
+      "version": 1,
+      "timestamp": "2026-04-16T00:56:57Z",
+      "url": "https://www.openstreetmap.org/way/1499786369"
+    },
+    {
+      "type": "way",
+      "id": 1499786370,
+      "version": 1,
+      "timestamp": "2026-04-16T00:56:57Z",
+      "url": "https://www.openstreetmap.org/way/1499786370"
+    },
+    {
+      "type": "way",
+      "id": 1499786371,
+      "version": 1,
+      "timestamp": "2026-04-16T00:56:57Z",
+      "url": "https://www.openstreetmap.org/way/1499786371"
+    },
+    {
+      "type": "way",
+      "id": 1499786372,
+      "version": 1,
+      "timestamp": "2026-04-16T00:56:57Z",
+      "url": "https://www.openstreetmap.org/way/1499786372"
+    },
+    {
+      "type": "way",
+      "id": 1499786373,
+      "version": 1,
+      "timestamp": "2026-04-16T00:56:57Z",
+      "url": "https://www.openstreetmap.org/way/1499786373"
+    },
+    {
+      "type": "way",
+      "id": 1499786374,
+      "version": 1,
+      "timestamp": "2026-04-16T00:56:57Z",
+      "url": "https://www.openstreetmap.org/way/1499786374"
+    },
+    {
+      "type": "way",
+      "id": 1499786375,
+      "version": 1,
+      "timestamp": "2026-04-16T00:56:57Z",
+      "url": "https://www.openstreetmap.org/way/1499786375"
+    },
+    {
+      "type": "way",
+      "id": 1499786376,
+      "version": 1,
+      "timestamp": "2026-04-16T00:56:57Z",
+      "url": "https://www.openstreetmap.org/way/1499786376"
+    },
+    {
+      "type": "way",
+      "id": 1499786377,
+      "version": 1,
+      "timestamp": "2026-04-16T00:56:57Z",
+      "url": "https://www.openstreetmap.org/way/1499786377"
+    },
+    {
+      "type": "way",
+      "id": 1499786378,
+      "version": 1,
+      "timestamp": "2026-04-16T00:56:57Z",
+      "url": "https://www.openstreetmap.org/way/1499786378"
+    },
+    {
+      "type": "way",
+      "id": 1499786380,
+      "version": 1,
+      "timestamp": "2026-04-16T00:56:57Z",
+      "url": "https://www.openstreetmap.org/way/1499786380"
+    },
+    {
+      "type": "way",
+      "id": 1499786381,
+      "version": 1,
+      "timestamp": "2026-04-16T00:56:57Z",
+      "url": "https://www.openstreetmap.org/way/1499786381"
+    },
+    {
+      "type": "way",
+      "id": 1499786382,
+      "version": 1,
+      "timestamp": "2026-04-16T00:56:57Z",
+      "url": "https://www.openstreetmap.org/way/1499786382"
+    },
+    {
+      "type": "way",
+      "id": 1499786383,
+      "version": 1,
+      "timestamp": "2026-04-16T00:56:57Z",
+      "url": "https://www.openstreetmap.org/way/1499786383"
+    },
+    {
+      "type": "way",
+      "id": 1499786384,
+      "version": 1,
+      "timestamp": "2026-04-16T00:56:57Z",
+      "url": "https://www.openstreetmap.org/way/1499786384"
+    },
+    {
+      "type": "way",
+      "id": 1499786385,
+      "version": 1,
+      "timestamp": "2026-04-16T00:56:57Z",
+      "url": "https://www.openstreetmap.org/way/1499786385"
+    },
+    {
+      "type": "way",
+      "id": 1499786386,
+      "version": 1,
+      "timestamp": "2026-04-16T00:56:57Z",
+      "url": "https://www.openstreetmap.org/way/1499786386"
+    },
+    {
+      "type": "way",
+      "id": 1499786387,
+      "version": 1,
+      "timestamp": "2026-04-16T00:56:57Z",
+      "url": "https://www.openstreetmap.org/way/1499786387"
+    },
+    {
+      "type": "way",
+      "id": 1500646963,
+      "version": 3,
+      "timestamp": "2026-04-20T19:48:14Z",
+      "url": "https://www.openstreetmap.org/way/1500646963"
+    },
+    {
+      "type": "way",
+      "id": 1500646954,
+      "version": 1,
+      "timestamp": "2026-04-18T06:06:37Z",
+      "url": "https://www.openstreetmap.org/way/1500646954"
+    },
+    {
+      "type": "way",
+      "id": 1500646955,
+      "version": 1,
+      "timestamp": "2026-04-18T06:06:37Z",
+      "url": "https://www.openstreetmap.org/way/1500646955"
+    },
+    {
+      "type": "way",
+      "id": 1500646956,
+      "version": 1,
+      "timestamp": "2026-04-18T06:06:37Z",
+      "url": "https://www.openstreetmap.org/way/1500646956"
+    },
+    {
+      "type": "way",
+      "id": 1500646957,
+      "version": 1,
+      "timestamp": "2026-04-18T06:06:37Z",
+      "url": "https://www.openstreetmap.org/way/1500646957"
+    },
+    {
+      "type": "way",
+      "id": 1500646958,
+      "version": 1,
+      "timestamp": "2026-04-18T06:06:37Z",
+      "url": "https://www.openstreetmap.org/way/1500646958"
+    },
+    {
+      "type": "way",
+      "id": 1500646959,
+      "version": 1,
+      "timestamp": "2026-04-18T06:06:37Z",
+      "url": "https://www.openstreetmap.org/way/1500646959"
+    },
+    {
+      "type": "relation",
+      "id": 20499228,
+      "version": 1,
+      "timestamp": "2026-04-18T06:06:37Z",
+      "url": "https://www.openstreetmap.org/relation/20499228"
+    },
+    {
+      "type": "relation",
+      "id": 20499229,
+      "version": 1,
+      "timestamp": "2026-04-18T06:06:37Z",
+      "url": "https://www.openstreetmap.org/relation/20499229"
+    },
+    {
+      "type": "relation",
+      "id": 20454106,
+      "version": 1,
+      "timestamp": "2026-04-16T00:56:57Z",
+      "url": "https://www.openstreetmap.org/relation/20454106"
+    }
+  ],
+  "wikidata": "Q114608472",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:AC Hotel Charlotte.jpg",
+      "author": "Jt12081988",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:AC_Hotel_Charlotte.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Charlotte EpiCentre during the 2012 Democratic National Convention.JPG",
+      "author": "Loderbrab",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Charlotte_EpiCentre_during_the_2012_Democratic_National_Convention.JPG",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Charlotte Transportation Center 01.jpg",
+      "author": "Mark Clifton",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Charlotte_Transportation_Center_01.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/clt-epicentre.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "EpiCentre, now Queen City Quarter (210 E Trade St, opened 2008, The Ghazi Company), with the Aloft hotel over its College St corner and the AC Hotel / Residence Inn tower (2018) built on the foundations of its stalled 52-storey residential tower, 210 Trade — original procedural geometry, CC0-1.0. bun generators/clt-epicentre.ts",
+    "Map frame: x east, y north, z up, metres; origin at the anchor on the ground. OSM has no single outline: the site relation/9389659 groups the Trade St building (relation/20499229, outer way/676164657), the Aloft (relation/20454106, outer way/676164662) and the College St building way/676164658. The south retail block way/1499786347 (Bowlero) and the tower way/1499786346 (OSM \"Residence Inn Charlotte City Center\") stand on the same podium and are part of Queen City Quarter (Wikipedia), so the model covers all five. Anchor = area centroid of those five outlines, 35.2253475, -80.8420033. Walls run at 48° / 138° (the Uptown grid), so the bearing is 48: +y is toward Trade St (NE), +x toward Brevard St and the LYNX tracks, -x College St, -y 4th St. The tower is skewed ~15° off the grid, as OSM draws it.",
+    "Identity, in order: the pale white hotel tower (98 m published) stepping down in wings to its podium beside the light rail; the round sign drum on the roof at the Trade/College corner over the curved, rounded-ended Trade St building; the tan Aloft slab on College and 4th; the low tan podium blocks round an open courtyard crossed by skybridges, with the skybridge over College St to Overstreet Mall.",
+    "Evidence: - plan: every polygon is OSM (the five outlines and their building:parts, way/1499786340-387, way/1500646950-974, way/985619872, way/1188214516, way/1500955903-904); checked against USGS NAIP (tools/usgs.py naip; the service 504'd twice before answering). - heights: lidar USGS_LPC_NC_Phase4_Mecklenburg_2016 (flown 2016-17), 0.5 m grid; base = ground_min + 0.5 m, at Brevard St, the lowest ground under the footprint. Ground rises ~8 m to College St (lidar gnd, linear fit, used to start facade detail above grade). Measured above base: Trade St building 21.2 with upper masses 26.0 / 30.1 / 32.3 / 32.6 and the drum to 33.2; College St building 23.5-24.9; Aloft podium 35.5 and slab 66.6-67.2; south retail 30.3-32.4. (OSM's heights for these are ~6 m lower: measured from the College St side.) - tower: absent from the 2016 lidar (only its podium, ~41 m, and a crane). Heights are OSM's +1 m (the mapper's base for this block sits at the Brevard side, where OSM 30 matches lidar 30.3): podium 34-44, wings 59, south slab 83, main slab 88, crown 90-93. Published: 22 storeys, 320 ft (98 m), completed 2018 (Wikipedia, \"AC Hotel/Residence Inn Charlotte City Center\"); the model's 93 m roof plus the masts left out make up the difference. - published: EpiCentre opened March 2008, $220M, three acres, Aloft 175 rooms, skybridge to Overstreet Mall (Wikipedia, \"Queen City Quarter\"). - colour: podium tan precast with dark glass storefronts (Mapillary 1757257301274312, 2022); Aloft pale golden tan banding (same photo); tower white (Jt12081988's photo, Mapillary 815391562973227); the drum a dark LED screen ring (Mapillary 808276140107855, 2015) drawn charcoal.",
+    "Photos (evidence): - \"AC Hotel Charlotte.jpg\", Jt12081988, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:AC_Hotel_Charlotte.jpg - \"Charlotte EpiCentre during the 2012 Democratic National Convention.JPG\", Loderbrab, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:Charlotte_EpiCentre_during_the_2012_Democratic_National_Convention.JPG (the courtyard and its balconies) - \"Charlotte Transportation Center 01.jpg\", Mark Clifton, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Charlotte_Transportation_Center_01.jpg - Mapillary (CC BY-SA 4.0) images 808276140107855 (drum, from College & Trade, 2015), 1757257301274312 (College St face and Aloft, 2022), 815391562973227 and 476305614402806 (tower from the south-east over the CTC, 2022), 1063407284313452 (College St skybridge, 2022). Look-only: none. No commercial imagery.",
+    "Estimated: window bays and storey groups (photos, no dimensions), the drum's radius (7.3 m, from OSM's half-ring way/1500646960, closed into a full cylinder as the 2015 photo shows) and its base (25.5 m), the courtyard bridges' deck (OSM min_height 6 / height 12 over the 8.8 m courtyard level), the College St skybridge (13.5-18.5 m).",
+    "Doubts: no licensed photo shows the Aloft clearly or the 4th St and Brevard faces of the podium; the Aloft's colour rests on one street photo. The tower's top (masts, the frame round its crown) is simplified to the OSM steps. The tower has its own Wikidata item (Q4630857) and may be wanted as a separate landmark later; it is part of this model because it stands on the EpiCentre podium. Wikidata for the complex: Q114608472.",
+    "Left out: the courtyard's escalators and canopies, signs and screens' content, the masts, mullions.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"clt-epicentre\", model \"clt-epicentre\"), generated by https://github.com/alexwohlbruck/landmarks/blob/a1974bbf738c6994edbe99a7a61818b9d69da9e0/generators/clt-epicentre.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 290 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the clt-epicentre-glazing finish in the window colour.",
+    "To fit six materials, folded clt-epicentre-aloft-tan into clt-epicentre-epi-precast (ΔE 11.1)."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

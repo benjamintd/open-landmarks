@@ -1,0 +1,125 @@
+{
+  "id": "kahn-boilerhouse",
+  "anchor": [
+    -80.834421,
+    35.247782
+  ],
+  "coordinateSystem": "Local metres about the anchor (equirectangular, WGS84 radius): X east, Y north, Z up. glTF export: X east, Y up, Z south. Heading already baked.",
+  "license": "ODbL-1.0",
+  "footprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          9.436521227565033,
+          -10.486296032669502
+        ],
+        [
+          -11.554738419722428,
+          -8.170850624003958
+        ],
+        [
+          -9.491067592385125,
+          10.519691879506778
+        ],
+        [
+          11.500192054902335,
+          8.204246471632207
+        ],
+        [
+          9.436521227565033,
+          -10.486296032669502
+        ]
+      ]
+    ]
+  },
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.8343172,
+          35.2476878
+        ],
+        [
+          -80.8345481,
+          35.2477086
+        ],
+        [
+          -80.8345254,
+          35.2478765
+        ],
+        [
+          -80.8342945,
+          35.2478557
+        ],
+        [
+          -80.8343172,
+          35.2476878
+        ]
+      ]
+    ]
+  },
+  "parts": [
+    {
+      "osm": "way/324609976",
+      "tags": {
+        "addr:city": "Charlotte",
+        "addr:housenumber": "1820",
+        "addr:postcode": "28206",
+        "addr:street": "Statesville Avenue",
+        "building": "yes",
+        "building:levels": "1",
+        "height": "6",
+        "name": "Kahn Boilerhouse"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.436521227565033,
+              -10.486296032669502
+            ],
+            [
+              -11.554738419722428,
+              -8.170850624003958
+            ],
+            [
+              -9.491067592385125,
+              10.519691879506778
+            ],
+            [
+              11.500192054902335,
+              8.204246471632207
+            ],
+            [
+              9.436521227565033,
+              -10.486296032669502
+            ]
+          ]
+        ]
+      },
+      "version": 6,
+      "timestamp": "2023-01-09T01:31:32Z"
+    }
+  ],
+  "osm": {
+    "type": "way",
+    "id": 324609976,
+    "version": 6,
+    "timestamp": "2023-01-09T01:31:32Z",
+    "url": "https://www.openstreetmap.org/way/324609976"
+  },
+  "additionalOsm": [],
+  "tags": {
+    "addr:city": "Charlotte",
+    "addr:housenumber": "1820",
+    "addr:postcode": "28206",
+    "addr:street": "Statesville Avenue",
+    "building": "yes",
+    "building:levels": "1",
+    "height": "6",
+    "name": "Kahn Boilerhouse"
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "id": "mint-museum-randolph",
+  "name": "Mint Museum Randolph",
+  "anchor": [
+    -80.8146416,
+    35.1973505
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 80120,
+      "sha256": "8dd04f2c9e1bd039bf6928584542445efb33f6c136edeb405b5e4d19094a995d"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 80120,
+      "sha256": "8dd04f2c9e1bd039bf6928584542445efb33f6c136edeb405b5e4d19094a995d"
+    }
+  },
+  "triangles": 1808,
+  "boundsBlenderM": [
+    [
+      -39.106,
+      -31.191,
+      0
+    ],
+    [
+      29.86,
+      30.594,
+      11.6
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.8149945,
+          35.1975426
+        ],
+        [
+          -80.8148811,
+          35.1975387
+        ],
+        [
+          -80.8148819,
+          35.1975229
+        ],
+        [
+          -80.8147934,
+          35.1975198
+        ],
+        [
+          -80.8147879,
+          35.1976269
+        ],
+        [
+          -80.8144223,
+          35.1976143
+        ],
+        [
+          -80.8144232,
+          35.1975969
+        ],
+        [
+          -80.8143144,
+          35.1975932
+        ],
+        [
+          -80.8143407,
+          35.1970843
+        ],
+        [
+          -80.814454,
+          35.1970882
+        ],
+        [
+          -80.8144548,
+          35.1970725
+        ],
+        [
+          -80.8148238,
+          35.1970853
+        ],
+        [
+          -80.8148181,
+          35.1971957
+        ],
+        [
+          -80.8148987,
+          35.1971985
+        ],
+        [
+          -80.8148992,
+          35.1971886
+        ],
+        [
+          -80.8150126,
+          35.1971925
+        ],
+        [
+          -80.8150074,
+          35.1972933
+        ],
+        [
+          -80.8150201,
+          35.1972937
+        ],
+        [
+          -80.8150127,
+          35.1974373
+        ],
+        [
+          -80.815,
+          35.1974369
+        ],
+        [
+          -80.8149945,
+          35.1975426
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 784079334,
+    "version": 5,
+    "timestamp": "2025-12-06T03:22:12Z",
+    "url": "https://www.openstreetmap.org/way/784079334"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q5086075",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Mint Museum of Art Randolph Charlotte, NC Aug 2015.tif",
+      "author": "Mint Museum",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Mint_Museum_of_Art_Randolph_Charlotte,_NC_Aug_2015.tif",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Mint Museum of Art Randolph Front With Fountain.jpg",
+      "author": "Expedia",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Mint_Museum_of_Art_Randolph_Front_With_Fountain.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:1936 Mint Museum of Art Building Charlotte, NC.jpg",
+      "author": "Whitsett Photography",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:1936_Mint_Museum_of_Art_Building_Charlotte,_NC.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Cover of The Mint Museum of Art at Charlotte, A Brief History.jpg",
+      "author": "E-Sylum Image Archive 2011",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Cover_of_The_Mint_Museum_of_Art_at_Charlotte,_A_Brief_History.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/mint-museum-randolph.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Mint Museum Randolph (the 1836 Charlotte branch of the US Mint, rebuilt in Eastover in 1933–36) — procedural, CC0-1.0, no textures. bun generators/mint-museum-randolph.ts",
+    "Map frame: x east, y north, z up, metres. Placed at bearing 2.4°, the axis of the OSM outline (way/784079334), whose area centroid is the anchor. That one outline covers the whole museum: the historic Mint on the west, and the later galleries that wrap round a flat-roofed core behind it.",
+    "The Mint: a Federal block 38.8 × 10.3 m under a hipped roof, on a raised sandstone basement, with a central pavilion (the 1.2 m bump in the OSM outline) carrying a pediment with the gilded eagle, a small white porch of two columns, and steps down to the lawn. Cream stucco, white trim, dark shuttered windows (Wilkinson's cover photo, the 1936 photos).",
+    "The galleries: the same stucco and sandstone base, under a ring of hipped slopes that rise to a flat membrane deck (the aerial), with glazed skylights on the east slope and the white-roofed glass entrance atrium on the east front.",
+    "Rework (2026-10, charlotte-neighbourhoods): same frame, plan and forms.",
+    "Heights lowered to the Mecklenburg 2016 lidar (USGS 3DEP NC Phase 4, 1 m DSM; y = 0 sits ~0.7 m above that tile's ground_min). The DSM puts the Mint's ridge 11.3 m above y = 0 and its walls ~8 m, the galleries' ridge ring ~10.5 m, their flat deck ~9.3 m, the atrium gable ~11.5 m. The old model stood 1-2 m taller everywhere (Mint ridge 13.3, eave 9.4; gallery ridge 11.8, deck 10; atrium 13.1). Now: Mint eave 8.4 / ridge 11.4, galleries eave 7.8 / ridge 10.5 / deck 9.3, atrium 8.5 / 11.6. The pediment keeps its shape (rise 3.0 m, matching the 1936 photo's ~1:3 pediment-to-wall ratio); the eagle is scaled to fill it so it reads.",
+    "The galleries' upper \"windows\" are blind: tan recessed panels in the stucco (Expedia fountain photo, Mint Museum 2015 photo), so they are now sandstone panels, not slate glass. The basement windows are real glass.",
+    "Stucco pulled from yellow cream to the pale greige of the 2015 photos.",
+    "Atrium: extra white transoms at 0.6 m and 5.85 m (2015 photo).",
+    "A deeper Mint (the 1936 photo's side looks five bays deep; the lidar ridge falls ~3 m east of the modelled one) was tried and rejected: the NAIP aerial shows the west range only ~11 m deep, and the lidar tile is offset ~1.5 m east of OSM at the west wall. Photos: commons \"Mint Museum of Art Randolph Charlotte, NC Aug 2015.tif\" (Mint Museum, CC BY-SA 4.0); \"Mint Museum of Art Randolph Front With Fountain.jpg\" (Expedia, CC BY-SA 4.0); \"1936 Mint Museum of Art Building Charlotte, NC.jpg\" (Whitsett Photography, CC BY-SA 4.0); \"Cover of The Mint Museum of Art at Charlotte, A Brief History.jpg\" (CC0). Aerial: USGS NAIP. No Mapillary coverage on the site.",
+    "Ground: USGS 3DEP spot heights round the footprint span only 0.6 m (192.46 m at the south-east corner to 193.08 m by the south-west). y = 0 is the lowest of them; every wall runs down to it, and doors, windows and the steps start above the highest local ground (0.62 m), so nothing sinks.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"mint-museum-randolph\", model \"mint-museum-randolph\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/mint-museum-randolph.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 434 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the mint-museum-randolph-glazing finish in the window colour.",
+    "To fit six materials, folded trim into mint-museum-randolph-mint-stucco (ΔE 4.9)."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

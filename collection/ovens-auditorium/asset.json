@@ -1,0 +1,196 @@
+{
+  "id": "ovens-auditorium",
+  "name": "Ovens Auditorium",
+  "anchor": [
+    -80.7942755,
+    35.2038475
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 26216,
+      "sha256": "92ad5429594e5e6c790644c7c0f656e6fc0524885c5892b5b0deb6f6e591782f"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 26216,
+      "sha256": "92ad5429594e5e6c790644c7c0f656e6fc0524885c5892b5b0deb6f6e591782f"
+    }
+  },
+  "triangles": 442,
+  "boundsBlenderM": [
+    [
+      -47.15,
+      -46.864,
+      0
+    ],
+    [
+      43.767,
+      42.59,
+      24.8
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.7942735,
+          35.2041998
+        ],
+        [
+          -80.7944248,
+          35.2040611
+        ],
+        [
+          -80.7945796,
+          35.2039193
+        ],
+        [
+          -80.7947932,
+          35.2037235
+        ],
+        [
+          -80.7944497,
+          35.2034632
+        ],
+        [
+          -80.7944204,
+          35.2034872
+        ],
+        [
+          -80.7943277,
+          35.2034207
+        ],
+        [
+          -80.7941718,
+          35.203561
+        ],
+        [
+          -80.7942103,
+          35.2035961
+        ],
+        [
+          -80.7941877,
+          35.2036182
+        ],
+        [
+          -80.7942419,
+          35.2036644
+        ],
+        [
+          -80.7942035,
+          35.203681
+        ],
+        [
+          -80.7940995,
+          35.2037124
+        ],
+        [
+          -80.7939617,
+          35.2037918
+        ],
+        [
+          -80.7938036,
+          35.2039155
+        ],
+        [
+          -80.7938375,
+          35.2039635
+        ],
+        [
+          -80.7937923,
+          35.2040059
+        ],
+        [
+          -80.7938578,
+          35.2040521
+        ],
+        [
+          -80.7938171,
+          35.2040872
+        ],
+        [
+          -80.7939753,
+          35.204209
+        ],
+        [
+          -80.7940227,
+          35.2041739
+        ],
+        [
+          -80.7940634,
+          35.2042053
+        ],
+        [
+          -80.7941108,
+          35.2041536
+        ],
+        [
+          -80.7941536,
+          35.2041657
+        ],
+        [
+          -80.7942735,
+          35.2041998
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 836535412,
+    "version": 4,
+    "timestamp": "2024-02-16T04:22:03Z",
+    "url": "https://www.openstreetmap.org/way/836535412"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q7113349",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/ovens-auditorium.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Ovens Auditorium, Charlotte (1955, A. G. Odell Jr. & Associates) — procedural, CC0-1.0. bun generators/ovens-auditorium.ts",
+    "Map frame: x east, y north, z up, metres, placed at bearing 42°: the model's +y runs north-east along the building's axis, from the stage house at the back to the lobby on the entrance plaza facing Independence Boulevard. The anchor is the centroid of the OSM outline (way/836535412). The BOplex Connector (way/918754955) that joins it to the coliseum is left out; the neighbouring `bojangles-coliseum` model stands for the dome.",
+    "Read from front to back:",
+    "the lobby: a long two-storey box whose upper floor is a continuous band of tall glass between a thin cream floor slab and a thin cream fascia, floating over a recessed glazed ground floor. A flat canopy on four square columns projects over the doors in the middle. The south-east end of the upper floor is a solid wall of turquoise glazed tile, with a low cream box beside it;",
+    "the auditorium: a tall, windowless block of buff precast panels whose front wall bows out in plan over the lobby, whose roof rises towards the front over the balcony, and whose south-east side swells out in plan;",
+    "the stage house: the tallest block, plain panels, with a smoke-vent hatch on its roof, low back-of-house wings round it and a lobby-height wing down the north-west side.",
+    "Rework (2026). Forms kept from the first model: the lobby (glass band, slab, fascia, canopy, tile end, cream box), the bowed hall, the stage house and its hatch, the wings. Heights and the hall's plan are now lidar (USGS 3DEP NC Phase 4 Mecklenburg 2016, 0.5 m DSM, sampled in this frame). y = 0 is the lowest ground at the back (4.3 m over the tile's lowest return); the plaza is 1.8 m higher. Measured, each changed from the first model:",
+    "stage house 22.6 m (was 28), hatch +2.2 m; it sits 2.5 m further south-east, x -14.5..18.5 (was -16..16), matching the hatch's centre;",
+    "hall roof slopes from 15.4 m at the back to 20.3 m at the front (was a flat 21 m): the roof rises over the balcony;",
+    "the hall's bowed front: apex at y 28.7, ends at 25.5 (was 33.5 and 27), so the bow is shallower and 5 m further back than first drawn;",
+    "the hall's east side reaches x 25 near mid-depth and only x 21 at the front; the OSM outline's front-east corner (x 25, y 27) is a 4.9 m skirt, not hall;",
+    "lobby 10.8 m (was 12.9), x -14.5..18.5; canopy 5.4 m, x -8.5..12.5;",
+    "north-west wing 10.8 m from y -2 forward (was 7.5 m), 4.9 m behind; back of house 4.9 m (was 10); south-east loading annex 7.7 m (was 9).",
+    "References: lidar as above; USGS NAIP orthoimagery (public domain) for the plan and roof; James Willamor's 2007 aerial on Commons (\"Ovens Auditorium, Charlotte, NC - panoramio (cropped)\", CC BY-SA 3.0) for the buff panels and the stage house; and, as visual reference only, the venue's own photos of the front and south-east corner and its 1955 opening photograph (boplex.com), which are the only evidence for the lobby's glass band and the turquoise tile. No licensed street photo of the front was found (Mapillary covers only Independence Boulevard, behind the sound wall).",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"ovens-auditorium\", model \"ovens-auditorium\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/ovens-auditorium.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 369 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the ovens-auditorium-glazing finish in the window colour."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

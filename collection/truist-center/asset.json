@@ -1,0 +1,679 @@
+{
+  "id": "truist-center",
+  "name": "Truist Center",
+  "anchor": [
+    -80.840574,
+    35.2277067
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 13,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 234820,
+      "sha256": "3de8254553de4517171f0d7ae7bb469a4670b607ded3a8a04e1cef87544d2c4e"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 234820,
+      "sha256": "3de8254553de4517171f0d7ae7bb469a4670b607ded3a8a04e1cef87544d2c4e"
+    }
+  },
+  "triangles": 4437,
+  "boundsBlenderM": [
+    [
+      -61.623,
+      -57.908,
+      0
+    ],
+    [
+      57.315,
+      54.765,
+      200
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.8403659,
+          35.2281963
+        ],
+        [
+          -80.8405712,
+          35.2280473
+        ],
+        [
+          -80.840835,
+          35.2278485
+        ],
+        [
+          -80.8408422,
+          35.2278431
+        ],
+        [
+          -80.8408156,
+          35.2278164
+        ],
+        [
+          -80.8408579,
+          35.2277849
+        ],
+        [
+          -80.8408876,
+          35.2278114
+        ],
+        [
+          -80.8409267,
+          35.2277817
+        ],
+        [
+          -80.8409606,
+          35.2277569
+        ],
+        [
+          -80.8409326,
+          35.2277319
+        ],
+        [
+          -80.8409778,
+          35.2276982
+        ],
+        [
+          -80.8410078,
+          35.227725
+        ],
+        [
+          -80.8410367,
+          35.2277035
+        ],
+        [
+          -80.8411864,
+          35.227592
+        ],
+        [
+          -80.8411783,
+          35.2275527
+        ],
+        [
+          -80.8411983,
+          35.2275173
+        ],
+        [
+          -80.8410787,
+          35.2273956
+        ],
+        [
+          -80.8410606,
+          35.2273798
+        ],
+        [
+          -80.841043,
+          35.2273644
+        ],
+        [
+          -80.840849,
+          35.2271888
+        ],
+        [
+          -80.8399682,
+          35.2278138
+        ],
+        [
+          -80.8399528,
+          35.2279054
+        ],
+        [
+          -80.8402763,
+          35.2281943
+        ],
+        [
+          -80.8403239,
+          35.2281587
+        ],
+        [
+          -80.8403659,
+          35.2281963
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 131139746,
+    "version": 16,
+    "timestamp": "2025-09-19T18:05:49Z",
+    "url": "https://www.openstreetmap.org/way/131139746"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 705306848,
+      "version": 1,
+      "timestamp": "2019-07-18T02:20:49Z",
+      "url": "https://www.openstreetmap.org/way/705306848"
+    },
+    {
+      "type": "way",
+      "id": 705306849,
+      "version": 2,
+      "timestamp": "2019-08-04T21:13:46Z",
+      "url": "https://www.openstreetmap.org/way/705306849"
+    },
+    {
+      "type": "way",
+      "id": 705306850,
+      "version": 1,
+      "timestamp": "2019-07-18T02:20:49Z",
+      "url": "https://www.openstreetmap.org/way/705306850"
+    },
+    {
+      "type": "way",
+      "id": 705306851,
+      "version": 1,
+      "timestamp": "2019-07-18T02:20:49Z",
+      "url": "https://www.openstreetmap.org/way/705306851"
+    },
+    {
+      "type": "way",
+      "id": 705306852,
+      "version": 1,
+      "timestamp": "2019-07-18T02:20:49Z",
+      "url": "https://www.openstreetmap.org/way/705306852"
+    },
+    {
+      "type": "way",
+      "id": 705306853,
+      "version": 3,
+      "timestamp": "2019-08-11T18:35:06Z",
+      "url": "https://www.openstreetmap.org/way/705306853"
+    },
+    {
+      "type": "way",
+      "id": 705306854,
+      "version": 1,
+      "timestamp": "2019-07-18T02:20:49Z",
+      "url": "https://www.openstreetmap.org/way/705306854"
+    },
+    {
+      "type": "way",
+      "id": 705306855,
+      "version": 1,
+      "timestamp": "2019-07-18T02:20:49Z",
+      "url": "https://www.openstreetmap.org/way/705306855"
+    },
+    {
+      "type": "way",
+      "id": 705306856,
+      "version": 1,
+      "timestamp": "2019-07-18T02:20:49Z",
+      "url": "https://www.openstreetmap.org/way/705306856"
+    },
+    {
+      "type": "way",
+      "id": 705306857,
+      "version": 1,
+      "timestamp": "2019-07-18T02:20:49Z",
+      "url": "https://www.openstreetmap.org/way/705306857"
+    },
+    {
+      "type": "way",
+      "id": 705306858,
+      "version": 1,
+      "timestamp": "2019-07-18T02:20:49Z",
+      "url": "https://www.openstreetmap.org/way/705306858"
+    },
+    {
+      "type": "way",
+      "id": 705306859,
+      "version": 1,
+      "timestamp": "2019-07-18T02:20:49Z",
+      "url": "https://www.openstreetmap.org/way/705306859"
+    },
+    {
+      "type": "way",
+      "id": 705306860,
+      "version": 1,
+      "timestamp": "2019-07-18T02:20:49Z",
+      "url": "https://www.openstreetmap.org/way/705306860"
+    },
+    {
+      "type": "way",
+      "id": 705306861,
+      "version": 1,
+      "timestamp": "2019-07-18T02:20:49Z",
+      "url": "https://www.openstreetmap.org/way/705306861"
+    },
+    {
+      "type": "way",
+      "id": 705306862,
+      "version": 1,
+      "timestamp": "2019-07-18T02:20:49Z",
+      "url": "https://www.openstreetmap.org/way/705306862"
+    },
+    {
+      "type": "way",
+      "id": 705306863,
+      "version": 1,
+      "timestamp": "2019-07-18T02:20:49Z",
+      "url": "https://www.openstreetmap.org/way/705306863"
+    },
+    {
+      "type": "way",
+      "id": 705306864,
+      "version": 1,
+      "timestamp": "2019-07-18T02:20:49Z",
+      "url": "https://www.openstreetmap.org/way/705306864"
+    },
+    {
+      "type": "way",
+      "id": 705306865,
+      "version": 1,
+      "timestamp": "2019-07-18T02:20:49Z",
+      "url": "https://www.openstreetmap.org/way/705306865"
+    },
+    {
+      "type": "way",
+      "id": 705306866,
+      "version": 1,
+      "timestamp": "2019-07-18T02:20:49Z",
+      "url": "https://www.openstreetmap.org/way/705306866"
+    },
+    {
+      "type": "way",
+      "id": 705306867,
+      "version": 1,
+      "timestamp": "2019-07-18T02:20:49Z",
+      "url": "https://www.openstreetmap.org/way/705306867"
+    },
+    {
+      "type": "way",
+      "id": 705306868,
+      "version": 1,
+      "timestamp": "2019-07-18T02:20:49Z",
+      "url": "https://www.openstreetmap.org/way/705306868"
+    },
+    {
+      "type": "way",
+      "id": 705306869,
+      "version": 1,
+      "timestamp": "2019-07-18T02:20:49Z",
+      "url": "https://www.openstreetmap.org/way/705306869"
+    },
+    {
+      "type": "way",
+      "id": 705306870,
+      "version": 1,
+      "timestamp": "2019-07-18T02:20:49Z",
+      "url": "https://www.openstreetmap.org/way/705306870"
+    },
+    {
+      "type": "way",
+      "id": 705306871,
+      "version": 1,
+      "timestamp": "2019-07-18T02:20:49Z",
+      "url": "https://www.openstreetmap.org/way/705306871"
+    },
+    {
+      "type": "way",
+      "id": 705306872,
+      "version": 1,
+      "timestamp": "2019-07-18T02:20:49Z",
+      "url": "https://www.openstreetmap.org/way/705306872"
+    },
+    {
+      "type": "way",
+      "id": 705306873,
+      "version": 1,
+      "timestamp": "2019-07-18T02:20:49Z",
+      "url": "https://www.openstreetmap.org/way/705306873"
+    },
+    {
+      "type": "way",
+      "id": 705306874,
+      "version": 1,
+      "timestamp": "2019-07-18T02:20:49Z",
+      "url": "https://www.openstreetmap.org/way/705306874"
+    },
+    {
+      "type": "way",
+      "id": 705306875,
+      "version": 1,
+      "timestamp": "2019-07-18T02:20:49Z",
+      "url": "https://www.openstreetmap.org/way/705306875"
+    },
+    {
+      "type": "way",
+      "id": 705306876,
+      "version": 1,
+      "timestamp": "2019-07-18T02:20:49Z",
+      "url": "https://www.openstreetmap.org/way/705306876"
+    },
+    {
+      "type": "way",
+      "id": 705306877,
+      "version": 1,
+      "timestamp": "2019-07-18T02:20:49Z",
+      "url": "https://www.openstreetmap.org/way/705306877"
+    },
+    {
+      "type": "way",
+      "id": 705306878,
+      "version": 1,
+      "timestamp": "2019-07-18T02:20:49Z",
+      "url": "https://www.openstreetmap.org/way/705306878"
+    },
+    {
+      "type": "way",
+      "id": 705306879,
+      "version": 1,
+      "timestamp": "2019-07-18T02:20:49Z",
+      "url": "https://www.openstreetmap.org/way/705306879"
+    },
+    {
+      "type": "way",
+      "id": 705306880,
+      "version": 1,
+      "timestamp": "2019-07-18T02:20:49Z",
+      "url": "https://www.openstreetmap.org/way/705306880"
+    },
+    {
+      "type": "way",
+      "id": 705306881,
+      "version": 1,
+      "timestamp": "2019-07-18T02:20:49Z",
+      "url": "https://www.openstreetmap.org/way/705306881"
+    },
+    {
+      "type": "way",
+      "id": 705306882,
+      "version": 1,
+      "timestamp": "2019-07-18T02:20:49Z",
+      "url": "https://www.openstreetmap.org/way/705306882"
+    },
+    {
+      "type": "way",
+      "id": 705306883,
+      "version": 1,
+      "timestamp": "2019-07-18T02:20:49Z",
+      "url": "https://www.openstreetmap.org/way/705306883"
+    },
+    {
+      "type": "way",
+      "id": 705306884,
+      "version": 1,
+      "timestamp": "2019-07-18T02:20:49Z",
+      "url": "https://www.openstreetmap.org/way/705306884"
+    },
+    {
+      "type": "way",
+      "id": 705306885,
+      "version": 1,
+      "timestamp": "2019-07-18T02:20:49Z",
+      "url": "https://www.openstreetmap.org/way/705306885"
+    },
+    {
+      "type": "way",
+      "id": 705306886,
+      "version": 1,
+      "timestamp": "2019-07-18T02:20:49Z",
+      "url": "https://www.openstreetmap.org/way/705306886"
+    },
+    {
+      "type": "way",
+      "id": 705306887,
+      "version": 1,
+      "timestamp": "2019-07-18T02:20:49Z",
+      "url": "https://www.openstreetmap.org/way/705306887"
+    },
+    {
+      "type": "way",
+      "id": 705306888,
+      "version": 1,
+      "timestamp": "2019-07-18T02:20:49Z",
+      "url": "https://www.openstreetmap.org/way/705306888"
+    },
+    {
+      "type": "way",
+      "id": 705306889,
+      "version": 1,
+      "timestamp": "2019-07-18T02:20:49Z",
+      "url": "https://www.openstreetmap.org/way/705306889"
+    },
+    {
+      "type": "way",
+      "id": 705306890,
+      "version": 1,
+      "timestamp": "2019-07-18T02:20:49Z",
+      "url": "https://www.openstreetmap.org/way/705306890"
+    },
+    {
+      "type": "way",
+      "id": 705306891,
+      "version": 1,
+      "timestamp": "2019-07-18T02:20:49Z",
+      "url": "https://www.openstreetmap.org/way/705306891"
+    },
+    {
+      "type": "way",
+      "id": 705306892,
+      "version": 1,
+      "timestamp": "2019-07-18T02:20:49Z",
+      "url": "https://www.openstreetmap.org/way/705306892"
+    },
+    {
+      "type": "way",
+      "id": 705306893,
+      "version": 1,
+      "timestamp": "2019-07-18T02:20:49Z",
+      "url": "https://www.openstreetmap.org/way/705306893"
+    },
+    {
+      "type": "way",
+      "id": 705306894,
+      "version": 1,
+      "timestamp": "2019-07-18T02:20:49Z",
+      "url": "https://www.openstreetmap.org/way/705306894"
+    },
+    {
+      "type": "way",
+      "id": 705306895,
+      "version": 1,
+      "timestamp": "2019-07-18T02:20:49Z",
+      "url": "https://www.openstreetmap.org/way/705306895"
+    },
+    {
+      "type": "way",
+      "id": 705306896,
+      "version": 1,
+      "timestamp": "2019-07-18T02:20:49Z",
+      "url": "https://www.openstreetmap.org/way/705306896"
+    },
+    {
+      "type": "way",
+      "id": 705306897,
+      "version": 1,
+      "timestamp": "2019-07-18T02:20:49Z",
+      "url": "https://www.openstreetmap.org/way/705306897"
+    },
+    {
+      "type": "way",
+      "id": 705306898,
+      "version": 1,
+      "timestamp": "2019-07-18T02:20:49Z",
+      "url": "https://www.openstreetmap.org/way/705306898"
+    },
+    {
+      "type": "way",
+      "id": 705306899,
+      "version": 1,
+      "timestamp": "2019-07-18T02:20:49Z",
+      "url": "https://www.openstreetmap.org/way/705306899"
+    },
+    {
+      "type": "way",
+      "id": 705306900,
+      "version": 1,
+      "timestamp": "2019-07-18T02:20:49Z",
+      "url": "https://www.openstreetmap.org/way/705306900"
+    },
+    {
+      "type": "way",
+      "id": 705306901,
+      "version": 1,
+      "timestamp": "2019-07-18T02:20:49Z",
+      "url": "https://www.openstreetmap.org/way/705306901"
+    },
+    {
+      "type": "way",
+      "id": 705306902,
+      "version": 1,
+      "timestamp": "2019-07-18T02:20:49Z",
+      "url": "https://www.openstreetmap.org/way/705306902"
+    },
+    {
+      "type": "way",
+      "id": 705306903,
+      "version": 1,
+      "timestamp": "2019-07-18T02:20:49Z",
+      "url": "https://www.openstreetmap.org/way/705306903"
+    },
+    {
+      "type": "way",
+      "id": 705306904,
+      "version": 1,
+      "timestamp": "2019-07-18T02:20:49Z",
+      "url": "https://www.openstreetmap.org/way/705306904"
+    },
+    {
+      "type": "way",
+      "id": 705306905,
+      "version": 1,
+      "timestamp": "2019-07-18T02:20:49Z",
+      "url": "https://www.openstreetmap.org/way/705306905"
+    },
+    {
+      "type": "way",
+      "id": 705306906,
+      "version": 1,
+      "timestamp": "2019-07-18T02:20:49Z",
+      "url": "https://www.openstreetmap.org/way/705306906"
+    },
+    {
+      "type": "way",
+      "id": 705306907,
+      "version": 1,
+      "timestamp": "2019-07-18T02:20:49Z",
+      "url": "https://www.openstreetmap.org/way/705306907"
+    },
+    {
+      "type": "way",
+      "id": 705306908,
+      "version": 1,
+      "timestamp": "2019-07-18T02:20:49Z",
+      "url": "https://www.openstreetmap.org/way/705306908"
+    },
+    {
+      "type": "way",
+      "id": 705306909,
+      "version": 1,
+      "timestamp": "2019-07-18T02:20:49Z",
+      "url": "https://www.openstreetmap.org/way/705306909"
+    },
+    {
+      "type": "way",
+      "id": 705306910,
+      "version": 1,
+      "timestamp": "2019-07-18T02:20:49Z",
+      "url": "https://www.openstreetmap.org/way/705306910"
+    },
+    {
+      "type": "way",
+      "id": 705306911,
+      "version": 1,
+      "timestamp": "2019-07-18T02:20:49Z",
+      "url": "https://www.openstreetmap.org/way/705306911"
+    },
+    {
+      "type": "way",
+      "id": 705306912,
+      "version": 1,
+      "timestamp": "2019-07-18T02:20:49Z",
+      "url": "https://www.openstreetmap.org/way/705306912"
+    },
+    {
+      "type": "way",
+      "id": 705306913,
+      "version": 1,
+      "timestamp": "2019-07-18T02:20:49Z",
+      "url": "https://www.openstreetmap.org/way/705306913"
+    },
+    {
+      "type": "way",
+      "id": 705306914,
+      "version": 1,
+      "timestamp": "2019-07-18T02:20:49Z",
+      "url": "https://www.openstreetmap.org/way/705306914"
+    },
+    {
+      "type": "way",
+      "id": 705306915,
+      "version": 1,
+      "timestamp": "2019-07-18T02:20:49Z",
+      "url": "https://www.openstreetmap.org/way/705306915"
+    },
+    {
+      "type": "way",
+      "id": 705306916,
+      "version": 1,
+      "timestamp": "2019-07-18T02:20:49Z",
+      "url": "https://www.openstreetmap.org/way/705306916"
+    }
+  ],
+  "wikidata": "Q673794",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/truist-center-charlotte.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Truist Center (formerly Hearst Tower, 2002, Smallwood, Reynolds, Stewart, Stewart), 214 N Tryon St, Charlotte — original procedural geometry, CC0-1.0. bun generators/truist-center-charlotte.ts [out.glb]",
+    "Map frame: x east, y north, z up, metres; origin at the anchor on the ground. Placed at bearing 48°, so the tower's faces, square to Uptown's street grid, are square to this frame.",
+    "A square tower of pale granite on the south half of the block. Each corner is notched: the stone face stops short of the corner, steps back, and a blue glazed bay turns the corner inside the notch. The step grows going up, so the faces widen slightly towards the top. Silver wings flare from the notches' heads and feet. Above the notch heads the middle of each face carries on as a stone block ending in a tall pointed gable; around and behind the four gables a steep hip roof of pale ribbed glass climbs to a flat square with a small lantern. Podiums with a crenellated top fill the rest of the block north and south.",
+    "What makes it recognisable, each drawn as plain geometry:",
+    "the four tall stone gables and the ribbed glass hip roof behind them;",
+    "the blue glazed corner notches, flared at both ends;",
+    "bold granite piers running the full height of each face and on into the gable, with blue glass between them: on each 32 m face two narrow outer bays and three wide inner ones, each wide bay split by a minor pier (Ken Lund's photo from Tryon St, counted on the upper floors);",
+    "the podiums' crenellated parapet of pier caps (John Ashley's photo).",
+    "Sources and trust:",
+    "Footprint and peak: OSM's outline (way/131139746, height 200 m; published 659 ft, 201 m, 47 floors). OSM's building:parts carry no heights.",
+    "Measured (lidar, Mecklenburg 2016, USGS 3DEP NC Phase 4, 1 m): the tower's plan (48 m square at the top, centred 17-18 m south of the anchor), the notch heads (168-174 m), the face tops (184-188 m) and the peak (200-201 m); the podiums, 54-59 m. The north podium was 48 m and the south-east one 42 m on main; both are raised to the lidar here.",
+    "Estimated: the gable's pitch (kept from the approved model; lidar shows the face tops flat at 184-188 m because the gable is a thin screen), the bay widths (photo counts scaled to the 32 m face), the three-floor panel grouping (an abstraction of the real one-floor spandrels), the notch wings' size, the entrance bay's size (OSM entrance node on the west face).",
+    "Earlier versions of this model were shaped against Google's 3D renders. That geometry is unchanged in silhouette; every dimension above is now checked against lidar and licensed photos instead.",
+    "Photos (Wikimedia Commons): \"Hearst Tower, Charlotte, North Carolina\" (Ken Lund, CC BY-SA 2.0); \"Charlotte hearst tower\" (patriarca12, CC BY 2.5); \"Hearst Tower in Charlotte\" (Chuck Allen, CC BY-SA 2.0); \"Hearst Tower 2\" (Backupcoolmen, public domain); \"Hearst Tower, Charlotte, B&W\" (John Ashley, CC BY 2.0); \"One South at the Plaza, Omni Hotel, Bank of America Corporate Center, Truist Center, Ritz-Carlton\" (Kiran891, CC BY-SA 4.0).",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"truist-center-charlotte\", model \"truist-center-charlotte\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/truist-center-charlotte.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

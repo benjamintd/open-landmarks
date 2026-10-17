@@ -1,0 +1,142 @@
+{
+  "id": "bechtler-museum-of-modern-art",
+  "name": "Bechtler Museum of Modern Art",
+  "anchor": [
+    -80.8474056,
+    35.2245867
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 45612,
+      "sha256": "81362889db3eda267a6938674f042acd5bb9f90e702216a6d5d54265b7a291f0"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 45612,
+      "sha256": "81362889db3eda267a6938674f042acd5bb9f90e702216a6d5d54265b7a291f0"
+    }
+  },
+  "triangles": 2013,
+  "boundsBlenderM": [
+    [
+      -21.242,
+      -25.636,
+      0
+    ],
+    [
+      21.242,
+      21.648,
+      24.03
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.8474158,
+          35.2247804
+        ],
+        [
+          -80.8475749,
+          35.2246729
+        ],
+        [
+          -80.8476435,
+          35.2246266
+        ],
+        [
+          -80.8474038,
+          35.2243926
+        ],
+        [
+          -80.8471636,
+          35.2245497
+        ],
+        [
+          -80.8474158,
+          35.2247804
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 131139728,
+    "version": 7,
+    "timestamp": "2023-11-02T23:50:34Z",
+    "url": "https://www.openstreetmap.org/way/131139728"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q4878575",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Bechtler Museum of Modern Art.jpg",
+      "author": "Bechtler",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Bechtler_Museum_of_Modern_Art.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:BechtlerMuseumCharlotte.jpg",
+      "author": "Prasit Frazee",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:BechtlerMuseumCharlotte.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Bechtler Museum of Contemporary Art.jpg",
+      "author": "Daniel Lobo",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Bechtler_Museum_of_Contemporary_Art.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/bechtler-museum.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Bechtler Museum of Modern Art and the Firebird — procedural, CC0-1.0. bun generators/bechtler-museum.ts",
+    "Map frame: x across the building towards South Tryon Street (south-east), y along Tryon (north-east), z up, metres. Placed at bearing 50°, the axis of the OSM outline (way/131139728, 34.2 × 27.6 m; no building:parts). The anchor is the outline's centroid, so the box is centred on the origin. The back (-x) face abuts the Knight Theater (way/131139733 shares that edge).",
+    "Mario Botta's museum (2010) is a terracotta-tiled box whose top two floors run over the whole footprint while the ground floors are cut away under the Tryon front and the Tryon / Levine Avenue of the Arts corner. The overhang is held by a single cigar-shaped column, swollen low down and flaring into a round capital under the soffit. Under it, from Levine to the north end: a low block on Levine Avenue with a gallery window set back above it, the four-storey glass entrance atrium deep in the cut, and a taller block on Tryon (shop window at its foot, gallery window under the soffit), both set well back under the overhang. The real blocks are clad in fine terracotta louvres; at map scale they are plain terracotta walls.",
+    "Evidence",
+    "Measured, Mecklenburg County 2016 lidar (USGS 3DEP NC Phase 4, 0.5 m): roof 23.5-24 m above the lowest ground under the footprint, flat, no raised skylight; ground falls about 1 m from Tryon to the back corner. OSM's height=30 is too high. H = 24.",
+    "Measured, USGS NAIP: plan (agrees with OSM within 1 m) and a pale roof crossed by rows of gallery skylights, drawn as two flush glass fields.",
+    "From photos (head-on Tryon view, Commons \"Bechtler Museum of Modern Art.jpg\", Bechtler, CC BY-SA 3.0): the soffit at 60% of the height (14.3 m); the column ~2.8 m across at its widest; the atrium 9 m wide; the Tryon block 9.3 m wide. From the corner (Commons \"BechtlerMuseumCharlotte.jpg\", Prasit Frazee, CC BY-SA 3.0; Flickr kouk 4228639458 and James Willamor 4681876601 / 6964767914, CC BY 2.0 / CC BY-SA 2.0) and the Levine side (Commons \"Bechtler Museum of Contemporary Art.jpg\", Daniel Lobo, CC BY 2.0): the low block at ~7 m, the solid back third of the Levine face, the column position.",
+    "Estimated: depths of the cut, from where the soffit meets each mass in the head-on Tryon photo (camera ~22 m out): the north block 8.5 m back, the column 10 m, the atrium glass ~20 m; the north-east face, which no photo shows, is plain terracotta.",
+    "Colours: the tiles are orange terracotta (~#d06e46 lit in daylight photos), pulled to palette lightness; the soffit a deeper tone of the same hue, since it is always in shade and the map draws no shadows.",
+    "The Firebird (Niki de Saint Phalle, 1991, ~5.3 m; OSM node/5016558822) stands on the plaza off the Levine face: a mirror-mosaic figure on an arch of two legs, arms raised, a gold sun on its chest and a gold crown. It is a few smooth masses, silver mirror with gold, as it reads in the photos.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"bechtler-museum\", model \"bechtler-museum\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/bechtler-museum.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 365 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the bechtler-museum-glazing finish in the window colour.",
+    "To fit six materials, folded glass into roof (ΔE 14.2)."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

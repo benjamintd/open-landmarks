@@ -1,0 +1,232 @@
+{
+  "id": "highland-park-mill-no-3",
+  "name": "Highland Park Mill No. 3",
+  "anchor": [
+    -80.8095799,
+    35.2460371
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 210604,
+      "sha256": "5d9f4ff9a4e9ecc98f4fe1323b1b2d8bb7d947ffe3ef5b78c60feb5dbda40a13"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 210604,
+      "sha256": "5d9f4ff9a4e9ecc98f4fe1323b1b2d8bb7d947ffe3ef5b78c60feb5dbda40a13"
+    }
+  },
+  "triangles": 4923,
+  "boundsBlenderM": [
+    [
+      -98.31,
+      -90.784,
+      0
+    ],
+    [
+      90.937,
+      65.575,
+      25.2
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.8091466,
+          35.2457051
+        ],
+        [
+          -80.8092163,
+          35.2456663
+        ],
+        [
+          -80.809257,
+          35.2457174
+        ],
+        [
+          -80.8091912,
+          35.2457546
+        ],
+        [
+          -80.8094286,
+          35.2460307
+        ],
+        [
+          -80.8094832,
+          35.2460017
+        ],
+        [
+          -80.8095212,
+          35.2460497
+        ],
+        [
+          -80.8094689,
+          35.2460807
+        ],
+        [
+          -80.8095195,
+          35.2461435
+        ],
+        [
+          -80.8100089,
+          35.2458626
+        ],
+        [
+          -80.8099551,
+          35.2457986
+        ],
+        [
+          -80.8100087,
+          35.2457683
+        ],
+        [
+          -80.8100616,
+          35.2458312
+        ],
+        [
+          -80.810415,
+          35.2456311
+        ],
+        [
+          -80.81066,
+          35.2459223
+        ],
+        [
+          -80.8104938,
+          35.2460164
+        ],
+        [
+          -80.8104316,
+          35.2460497
+        ],
+        [
+          -80.8103742,
+          35.2460846
+        ],
+        [
+          -80.8103253,
+          35.2461166
+        ],
+        [
+          -80.8100712,
+          35.2462563
+        ],
+        [
+          -80.8101046,
+          35.2463017
+        ],
+        [
+          -80.8100531,
+          35.2463322
+        ],
+        [
+          -80.8100354,
+          35.2463429
+        ],
+        [
+          -80.8099704,
+          35.2463852
+        ],
+        [
+          -80.8097958,
+          35.2464818
+        ],
+        [
+          -80.8097568,
+          35.2464391
+        ],
+        [
+          -80.8094279,
+          35.246625
+        ],
+        [
+          -80.8085807,
+          35.2456393
+        ],
+        [
+          -80.8089197,
+          35.2454403
+        ],
+        [
+          -80.8091466,
+          35.2457051
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 323193350,
+    "version": 5,
+    "timestamp": "2024-05-02T18:58:56Z",
+    "url": "https://www.openstreetmap.org/way/323193350"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 323201833,
+      "version": 8,
+      "timestamp": "2025-02-23T08:58:01Z",
+      "url": "https://www.openstreetmap.org/way/323201833"
+    },
+    {
+      "type": "way",
+      "id": 323192273,
+      "version": 2,
+      "timestamp": "2024-01-19T02:05:47Z",
+      "url": "https://www.openstreetmap.org/way/323192273"
+    }
+  ],
+  "wikidata": "Q14707968",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Highland Park Manufacturing Company Mill.jpg",
+      "author": "James Willamor",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Highland_Park_Manufacturing_Company_Mill.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/clt-highland-park-mill-3.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Highland Park Manufacturing Company Mill No. 3 (Highland Mill Lofts), 2901 N. Davidson St, NoDa, Charlotte — procedural, CC0-1.0. bun generators/clt-highland-park-mill-3.ts",
+    "The 1903–04 mill by Stuart W. Cramer and its c.1946 weave room, listed on the National Register in 1988 (Wikipedia; Wikidata Q14707968). An L of two-storey brick mill wings with low gabled roofs behind a cornice, the four-storey tower on the railway (north-west) side \"capped by fancy corbelling and crenelated parapets\", grey stair towers with round windows on the courtyard faces, and the boiler house ruins with the stump of the mill stack by the North Brevard Street gate. Converted to apartments; the brick has since been painted, pale above and mid-grey on the lower storey (all 2024 photos), and the model takes that paint, not the red brick of older photos. The stack and the ruins are left unpainted.",
+    "The Heist Brewery building (way/323201833, 2909 N. Davidson St) stands in the mill yard, painted with the complex, and is folded in here as a one-storey block; it is probably one of the mill's c.1925 outbuildings (the district lists a dye house, gate house and waste house), not confirmed.",
+    "Evidence: - OSM: way/323193350 (the mill outline), way/323201833 (Heist), way/323192273 (the boiler house ruins). No building:parts. - Lidar, USGS 3DEP NC Phase 4 Mecklenburg 2016, 1 m (ground_min 212.82 m NAVD88). Base (lowest ground) is 2.8 m above ground_min, at the north- west wing's railway side; ground rises ~2.5 m to the south-east. Heights above base: wing eaves 10.2 m, the low ridges 11.6–11.8 m (the long block ridge on its axis, the north-west wing's ridge 18 m in from its east face), the tower 24.2 m to its parapet and 25.2 m on the merlons, the stair towers 13.2 m, Heist 9.2 m (≈7 m over its own ground), the strip along the long block's courtyard face 8.6 m, the stack 12.2 m, ruins about 3 m. - Photos (Commons): City Dweller 2, April 2024, CC BY-SA 4.0: \"Highland Mill Lofts near Benny's Pizza\", \"… at North Brevard St\", \"… along North Davidson St\", \"… parking lot along North Davidson St\", \"… along North Davidson near Benny's Pizza\"; James Willamor, \"Highland Park Manufacturing Company Mill.jpg\", CC BY-SA 3.0 (the tower from the railway, before painting: arched windows, a row of oculi, corbel table, crenellations). USGS NAIP for the plan and the white roofs.",
+    "Estimated: window counts and pitch (photos, ~3.4 m), the storey split, the tower's openings per face (two arched windows, three oculi), the courtyard strip's form (lidar shows it but no photo does), the ruins' wall heights.",
+    "This file also holds the small kit the NoDa mill models share: faces with explicit normals, prisms with low gabled or parapeted roofs and two-tone walls, windows per bay, oculi, towers, stacks. Its own model is built only when it is run directly.",
+    "Model frame: bearing 55 (model +y runs along the north-west wing, 55° east of north); metres above the base.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"clt-highland-park-mill-3\", model \"clt-highland-park-mill-3\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/clt-highland-park-mill-3.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

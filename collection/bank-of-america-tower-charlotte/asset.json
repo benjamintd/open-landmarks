@@ -1,0 +1,323 @@
+{
+  "id": "bank-of-america-tower-charlotte",
+  "name": "Bank of America Tower",
+  "anchor": [
+    -80.8499841,
+    35.2236852
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 13,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 100428,
+      "sha256": "ed0dd328b54b970822906a8f97db43ce6024a84cbb6bee82b2acb0fad2caf1ea"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 100428,
+      "sha256": "ed0dd328b54b970822906a8f97db43ce6024a84cbb6bee82b2acb0fad2caf1ea"
+    }
+  },
+  "triangles": 1925,
+  "boundsBlenderM": [
+    [
+      -35.462,
+      -40.259,
+      0
+    ],
+    [
+      40.856,
+      36.835,
+      192.6
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.8499276,
+          35.2240164
+        ],
+        [
+          -80.8500423,
+          35.223937
+        ],
+        [
+          -80.8500489,
+          35.2239433
+        ],
+        [
+          -80.8502316,
+          35.2238168
+        ],
+        [
+          -80.8502595,
+          35.2237975
+        ],
+        [
+          -80.8502874,
+          35.2237781
+        ],
+        [
+          -80.8503094,
+          35.2237629
+        ],
+        [
+          -80.8503022,
+          35.2237559
+        ],
+        [
+          -80.8503654,
+          35.2237121
+        ],
+        [
+          -80.8503493,
+          35.2236967
+        ],
+        [
+          -80.8502915,
+          35.223641
+        ],
+        [
+          -80.8503029,
+          35.2236331
+        ],
+        [
+          -80.8502473,
+          35.2235797
+        ],
+        [
+          -80.850099,
+          35.2234366
+        ],
+        [
+          -80.8500788,
+          35.2234172
+        ],
+        [
+          -80.8500675,
+          35.223425
+        ],
+        [
+          -80.8499978,
+          35.2233578
+        ],
+        [
+          -80.8499721,
+          35.2233332
+        ],
+        [
+          -80.8499126,
+          35.2233744
+        ],
+        [
+          -80.8499037,
+          35.2233658
+        ],
+        [
+          -80.8496349,
+          35.2235521
+        ],
+        [
+          -80.849643,
+          35.2235599
+        ],
+        [
+          -80.8496174,
+          35.2235777
+        ],
+        [
+          -80.849533,
+          35.2236361
+        ],
+        [
+          -80.8495812,
+          35.2236825
+        ],
+        [
+          -80.8496141,
+          35.2237143
+        ],
+        [
+          -80.8496532,
+          35.2237518
+        ],
+        [
+          -80.8497984,
+          35.2238919
+        ],
+        [
+          -80.849848,
+          35.2239396
+        ],
+        [
+          -80.8499276,
+          35.2240164
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 715062087,
+    "version": 10,
+    "timestamp": "2025-06-24T03:18:28Z",
+    "url": "https://www.openstreetmap.org/way/715062087"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 1351689077,
+      "version": 1,
+      "timestamp": "2025-01-16T00:55:35Z",
+      "url": "https://www.openstreetmap.org/way/1351689077"
+    },
+    {
+      "type": "way",
+      "id": 1351689080,
+      "version": 1,
+      "timestamp": "2025-01-16T00:55:35Z",
+      "url": "https://www.openstreetmap.org/way/1351689080"
+    },
+    {
+      "type": "way",
+      "id": 1409111131,
+      "version": 2,
+      "timestamp": "2025-07-08T04:47:57Z",
+      "url": "https://www.openstreetmap.org/way/1409111131"
+    },
+    {
+      "type": "way",
+      "id": 1409111132,
+      "version": 1,
+      "timestamp": "2025-06-24T03:29:11Z",
+      "url": "https://www.openstreetmap.org/way/1409111132"
+    },
+    {
+      "type": "way",
+      "id": 1413181399,
+      "version": 1,
+      "timestamp": "2025-07-08T04:47:57Z",
+      "url": "https://www.openstreetmap.org/way/1413181399"
+    },
+    {
+      "type": "way",
+      "id": 1413181400,
+      "version": 1,
+      "timestamp": "2025-07-08T04:47:57Z",
+      "url": "https://www.openstreetmap.org/way/1413181400"
+    }
+  ],
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Bank of America Tower December 2023.jpg",
+      "author": "City Dweller 2",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Bank_of_America_Tower_December_2023.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Legacy Union September 2023.jpg",
+      "author": "City Dweller 2",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Legacy_Union_September_2023.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Legacy Union April 2023.jpg",
+      "author": "City Dweller 2",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Legacy_Union_April_2023.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Legacy Union November 2022.jpg",
+      "author": "City Dweller 2",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Legacy_Union_November_2022.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Bank of America Tower South Tryon plaza December 2023.jpg",
+      "author": "City Dweller 2",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Bank_of_America_Tower_South_Tryon_plaza_December_2023.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Bank of America Tower Charlotte.jpg",
+      "author": "Jt12081988",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Bank_of_America_Tower_Charlotte.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Bank of America Tower May 2021.jpg",
+      "author": "City Dweller 2",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Bank_of_America_Tower_May_2021.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Legacy Union.jpg",
+      "author": "Cmett003",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Legacy_Union.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Charlotte Skyline during the morning.jpg",
+      "author": "Bruce Emmerling",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Charlotte_Skyline_during_the_morning.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/clt-bank-of-america-tower.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Bank of America Tower (Legacy Union, 620 S Tryon St, 2019, Goldman Sachs / Lincoln Harris; Gensler with LS3P), Charlotte — original procedural geometry, CC0-1.0. bun generators/clt-bank-of-america-tower.ts",
+    "Not the 1992 Bank of America Corporate Center (bank-of-america-corporate- center.ts); this is the 33-storey tower of 2019 at the head of Legacy Union.",
+    "Map frame: x east, y north, z up, metres; origin at the anchor (the centroid of the OSM outline way/715062087) on the lowest ground. Placed at bearing 49.7, so the tower's faces, square to Uptown's grid, are square to this frame: +x faces South Tryon Street (south-east), +y faces north-east.",
+    "Identity, in order: - the glass pyramid on top, pale and lit, on a stepped cream parapet; - the tiered cream tower: a punched-window base with a heavy cornice, a tall shaft of cream piers and blue glass strips, a big cornice and setback about two thirds up, a band of square windows, then a narrower top tier under the crown; - the deep blue glass notches at every corner, stepping in twice, running from the base to the parapet; - the warm cream precast and saturated blue glass, against the plain glass towers around it.",
+    "Evidence: - OSM: outline way/715062087 (height 193, 33 levels), parts way/1351689077 (the shaft, 160 m: its plan gives the stepped corners), way/1351689080 (the pyramid on a 34 m square, tagged 160-190 m), way/1409111132 (the Tryon side's wider lower shaft, 124 m), way/1409111131, 1413181399, 1413181400 (the 20 m podium round the foot). Plan dimensions are measured from these, symmetrised where the OSM corners differ by under a metre. - Published: 632 ft / 192.6 m, 33 floors, completed 2019 (CTBUH, via Wikipedia \"List of tallest buildings in Charlotte\"; Wikipedia \"Legacy Union\" for the dates). - Lidar: USGS_LPC_NC_Phase4_Mecklenburg_2016 (flown 2016-17) shows the demolished Charlotte Observer building on the site, so it gives no tower heights; it shows the ground falling ~3-4 m to the west. - Heights scaled from Bruce Emmerling's distant, near-orthographic morning skyline photo (below), set to the published 192.6 m tip: base cornice ~48 m, the main setback cornice ~132 m, the square-window band's cornice ~140 m (one row of square windows over the setback), the parapet ~180 m and so a low pyramid of ~12.6 m. OSM's 160 m shaft and 30 m pyramid disagree with every photo (the pyramid is plainly about a third of that) and are not used. - Photos (Wikimedia Commons, all daylight unless noted): \"Bank of America Tower December 2023.jpg\" (City Dweller 2, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Bank_of_America_Tower_December_2023.jpg); \"Legacy Union September 2023.jpg\" (City Dweller 2, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Legacy_Union_September_2023.jpg); \"Legacy Union April 2023.jpg\" (City Dweller 2, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Legacy_Union_April_2023.jpg); \"Legacy Union November 2022.jpg\" (City Dweller 2, CC BY-SA 4.0, night, https://commons.wikimedia.org/wiki/File:Legacy_Union_November_2022.jpg); \"Bank of America Tower South Tryon plaza December 2023.jpg\" (City Dweller 2, CC BY-SA 4.0, the Tryon entrance face, https://commons.wikimedia.org/wiki/File:Bank_of_America_Tower_South_Tryon_plaza_December_2023.jpg); \"Bank of America Tower Charlotte.jpg\" (Jt12081988, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Bank_of_America_Tower_Charlotte.jpg); \"Bank of America Tower May 2021.jpg\" (City Dweller 2, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Bank_of_America_Tower_May_2021.jpg); \"Legacy Union.jpg\" (Cmett003, CC BY-SA 4.0, under construction, https://commons.wikimedia.org/wiki/File:Legacy_Union.jpg); \"Charlotte Skyline during the morning.jpg\" (Bruce Emmerling, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Charlotte_Skyline_during_the_morning.jpg). No commercial imagery. No look-only sources were used.",
+    "Estimated: every tier height above (photo-scaled, ±4 m); the upper tier's inset (1.5-2 m a side, from the cornice's projection in the photos); the bay counts (five strips on the long faces, three on the short, counted on the photos and spaced evenly); the three-storey window groups (an abstraction of the real continuous strips); the podium's height (OSM's 20 m); the pyramid's 28 m base (OSM's 34 m square less the parapet). Invented: nothing beyond the abstraction.",
+    "Doubts: the north-west (back) face is only seen obliquely; OSM gives the Tryon side a wider lower shaft (to 124 m) and that is kept, though no photo shows that face square on. Left out: the \"BANK OF AMERICA\" signs, mullions, the glazed pyramid's lattice, the skybridge to the garage.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"clt-bank-of-america-tower\", model \"clt-bank-of-america-tower\"), generated by https://github.com/alexwohlbruck/landmarks/blob/a1974bbf738c6994edbe99a7a61818b9d69da9e0/generators/clt-bank-of-america-tower.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

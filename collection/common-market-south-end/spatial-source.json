@@ -1,0 +1,155 @@
+{
+  "id": "common-market-south-end",
+  "anchor": [
+    -80.8635992,
+    35.210359
+  ],
+  "coordinateSystem": "Local metres about the anchor (equirectangular, WGS84 radius): X east, Y north, Z up. glTF export: X east, Y up, Z south. Heading already baked.",
+  "license": "ODbL-1.0",
+  "footprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          10.623257955067228,
+          -10.007622222201404
+        ],
+        [
+          -2.7558622953728054,
+          -10.007622222201404
+        ],
+        [
+          -10.623257955067228,
+          -10.01875417141082
+        ],
+        [
+          -10.632353210918234,
+          10.041018069829653
+        ],
+        [
+          6.839631833836501,
+          10.041018069829653
+        ],
+        [
+          10.614162699216221,
+          10.05215001903907
+        ],
+        [
+          10.623257955067228,
+          -10.007622222201404
+        ]
+      ]
+    ]
+  },
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.8634824,
+          35.2102691
+        ],
+        [
+          -80.8636295,
+          35.2102691
+        ],
+        [
+          -80.863716,
+          35.210269
+        ],
+        [
+          -80.8637161,
+          35.2104492
+        ],
+        [
+          -80.863524,
+          35.2104492
+        ],
+        [
+          -80.8634825,
+          35.2104493
+        ],
+        [
+          -80.8634824,
+          35.2102691
+        ]
+      ]
+    ]
+  },
+  "parts": [
+    {
+      "osm": "way/553077609",
+      "tags": {
+        "addr:city": "Charlotte",
+        "addr:housenumber": "235",
+        "addr:postcode": "28203",
+        "addr:state": "NC",
+        "addr:street": "West Tremont Avenue",
+        "amenity": "marketplace",
+        "building": "yes",
+        "name": "Common Market",
+        "opening_hours": "Su,Mo 08:00-20:00; Tu-Th 08:00-22:00; Fr,Sa 08:00-23:00",
+        "phone": "+1 980 207 3187",
+        "website": "https://commonmarketisgood.com/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.623257955067228,
+              -10.007622222201404
+            ],
+            [
+              -2.7558622953728054,
+              -10.007622222201404
+            ],
+            [
+              -10.623257955067228,
+              -10.01875417141082
+            ],
+            [
+              -10.632353210918234,
+              10.041018069829653
+            ],
+            [
+              6.839631833836501,
+              10.041018069829653
+            ],
+            [
+              10.614162699216221,
+              10.05215001903907
+            ],
+            [
+              10.623257955067228,
+              -10.007622222201404
+            ]
+          ]
+        ]
+      },
+      "version": 6,
+      "timestamp": "2025-07-04T06:24:35Z"
+    }
+  ],
+  "osm": {
+    "type": "way",
+    "id": 553077609,
+    "version": 6,
+    "timestamp": "2025-07-04T06:24:35Z",
+    "url": "https://www.openstreetmap.org/way/553077609"
+  },
+  "additionalOsm": [],
+  "tags": {
+    "addr:city": "Charlotte",
+    "addr:housenumber": "235",
+    "addr:postcode": "28203",
+    "addr:state": "NC",
+    "addr:street": "West Tremont Avenue",
+    "amenity": "marketplace",
+    "building": "yes",
+    "name": "Common Market",
+    "opening_hours": "Su,Mo 08:00-20:00; Tu-Th 08:00-22:00; Fr,Sa 08:00-23:00",
+    "phone": "+1 980 207 3187",
+    "website": "https://commonmarketisgood.com/"
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "id": "coyote-joes",
+  "name": "Coyote Joe's",
+  "anchor": [
+    -80.9160661,
+    35.2275192
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 15332,
+      "sha256": "af844de6d688a0c73553ade3c06d2194e0f87edcb9cf9b41f336786ff2ffa811"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 15332,
+      "sha256": "af844de6d688a0c73553ade3c06d2194e0f87edcb9cf9b41f336786ff2ffa811"
+    }
+  },
+  "triangles": 224,
+  "boundsBlenderM": [
+    [
+      -27.626,
+      -34.847,
+      0
+    ],
+    [
+      28.567,
+      33.63,
+      8.9
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.915752,
+          35.227653
+        ],
+        [
+          -80.915836,
+          35.227687
+        ],
+        [
+          -80.9157988,
+          35.227747
+        ],
+        [
+          -80.915783,
+          35.227774
+        ],
+        [
+          -80.915891,
+          35.227818
+        ],
+        [
+          -80.9159054,
+          35.2277943
+        ],
+        [
+          -80.915936,
+          35.227744
+        ],
+        [
+          -80.916061,
+          35.227795
+        ],
+        [
+          -80.916111,
+          35.227712
+        ],
+        [
+          -80.916161,
+          35.227732
+        ],
+        [
+          -80.916204,
+          35.227662
+        ],
+        [
+          -80.916259,
+          35.227684
+        ],
+        [
+          -80.916363,
+          35.227512
+        ],
+        [
+          -80.916287,
+          35.227482
+        ],
+        [
+          -80.916371,
+          35.227344
+        ],
+        [
+          -80.916024,
+          35.227204
+        ],
+        [
+          -80.915752,
+          35.227653
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 849535273,
+    "version": 3,
+    "timestamp": "2026-06-08T09:21:35Z",
+    "url": "https://www.openstreetmap.org/way/849535273"
+  },
+  "additionalOsm": [],
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/coyote-joes.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Coyote Joe's, Charlotte (country music hall and dance club, 4621 Wilkinson Boulevard; about 3,200 capacity) — procedural, CC0-1.0. bun generators/coyote-joes.ts",
+    "Map frame: x east, y north, z up, metres, placed at bearing 26°: the model's +y runs along the hall's long axis towards the main parking lot and Wilkinson Boulevard, so the entrance end is the model's north face. The anchor is the metre-based centroid of the OSM outline (way/849535273, no height tag; about 35 m by 55 m plus a stepped west side and an 11 m porch block on the north end), and the parts follow it.",
+    "A big plain hall: a grey corrugated-steel shed with a flat-looking roof, lower steel sheds stepping down along its west side, and at the entrance end a shingled hip-roofed porch on posts over the doors. Its identity is the neon on the north wall beside the porch: the yellow moon, the green saguaro and the white howling coyote, drawn as flat shapes. The red neon name beside them is lettering and is left out.",
+    "Measured: the outline (OSM). Estimated: the heights (the hall's eaves about 7 m above the entrance, about four times a person in the photo; the sheds 4.5 m; the porch), the porch posts, the neon's size and place. Inferred: the porch and the neon sit on the north end, from the photo (sign wall to the left of a projecting shingled porch) read against the NAIP aerial. Invented: the south, east and west walls, which no photo shows, are plain steel; the lean-to sheds on the east side outside the OSM outline are not modelled. No licensed exterior photo was found.",
+    "The DEM falls 0.9 m from the entrance end to the south-west corner, so y = 0 is the south ground and the entrance sits at G above it.",
+    "References: USGS NAIP aerial (public domain) for the footprint, the pale roof and the porch block. Look-only: the exterior photo on Charlotte's Got A Lot (charlottesgotalot.com, the venue's listing, 2017) and WBTV news stills of the neon (2023, 2025). Mapillary has no view of the building.",
+    "2026-10 rework. Heights from the USGS 3DEP lidar (2016), above the lowest ground under the footprint (by the west sheds; the entrance is 1.7 m above it, was taken as 0.9): hall eaves 8.2 m (the roof is a very low gable, 8.0 to 8.6 m, drawn flat). Massing changes, from the lidar: the west sheds are lean-tos, 4.6 m at the outer wall rising to 5.6 m at the hall (were flat at 4.9 m); the porch roof has a flat top at 4.4 m above the porch floor with shingled slopes down to about 3.7 m (was a pointed hip). Kept: plan, porch posts, doors, the neon moon, saguaro and coyote, colours. Doubts: the lidar puts the whole building about 2.5 m east and 2 m north of the OSM outline; the model keeps the outline it replaces. No licensed exterior photo exists still (Commons/Openverse: concert and selfie shots, all NC-licensed; Mapillary's nearest views are 120 m off and look away), so the walls stay plain steel with no window panels, as no photo shows any, and the red neon name stays out.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"coyote-joes\", model \"coyote-joes\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/coyote-joes.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

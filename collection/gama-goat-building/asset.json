@@ -1,0 +1,298 @@
+{
+  "id": "gama-goat-building",
+  "name": "Gama Goat Building",
+  "anchor": [
+    -80.8316634,
+    35.2459136
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 49352,
+      "sha256": "a430c42aaaefb0f0019dc1842693ca6766d016b8c9fb8cfe503010da9691fbbb"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 49352,
+      "sha256": "a430c42aaaefb0f0019dc1842693ca6766d016b8c9fb8cfe503010da9691fbbb"
+    }
+  },
+  "triangles": 807,
+  "boundsBlenderM": [
+    [
+      -77.777,
+      -96.729,
+      0
+    ],
+    [
+      71.776,
+      95.43,
+      10.9
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.8324913,
+          35.2453449
+        ],
+        [
+          -80.8321389,
+          35.2451045
+        ],
+        [
+          -80.8320456,
+          35.2450377
+        ],
+        [
+          -80.8319437,
+          35.2451338
+        ],
+        [
+          -80.8320383,
+          35.2451983
+        ],
+        [
+          -80.8318249,
+          35.2454096
+        ],
+        [
+          -80.8317718,
+          35.2454638
+        ],
+        [
+          -80.83175,
+          35.2454857
+        ],
+        [
+          -80.8314356,
+          35.2458018
+        ],
+        [
+          -80.8313901,
+          35.2458476
+        ],
+        [
+          -80.8312866,
+          35.2459508
+        ],
+        [
+          -80.8309423,
+          35.2462943
+        ],
+        [
+          -80.8309151,
+          35.2463255
+        ],
+        [
+          -80.8309162,
+          35.2464197
+        ],
+        [
+          -80.8309165,
+          35.2464469
+        ],
+        [
+          -80.8309168,
+          35.2464742
+        ],
+        [
+          -80.8309172,
+          35.2465014
+        ],
+        [
+          -80.8309175,
+          35.2465884
+        ],
+        [
+          -80.8309168,
+          35.2466473
+        ],
+        [
+          -80.8309079,
+          35.2466559
+        ],
+        [
+          -80.8310817,
+          35.2467732
+        ],
+        [
+          -80.8311256,
+          35.2467307
+        ],
+        [
+          -80.8311615,
+          35.2467547
+        ],
+        [
+          -80.8318021,
+          35.2461117
+        ],
+        [
+          -80.8324833,
+          35.2454402
+        ],
+        [
+          -80.8325042,
+          35.245421
+        ],
+        [
+          -80.8324795,
+          35.2454029
+        ],
+        [
+          -80.8325191,
+          35.2453639
+        ],
+        [
+          -80.8325087,
+          35.2453567
+        ],
+        [
+          -80.8324913,
+          35.2453449
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 632256525,
+    "version": 19,
+    "timestamp": "2024-10-31T03:48:04Z",
+    "url": "https://www.openstreetmap.org/way/632256525"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 835812873,
+      "version": 4,
+      "timestamp": "2024-10-31T03:48:04Z",
+      "url": "https://www.openstreetmap.org/way/835812873"
+    },
+    {
+      "type": "way",
+      "id": 835812874,
+      "version": 1,
+      "timestamp": "2020-08-10T15:20:09Z",
+      "url": "https://www.openstreetmap.org/way/835812874"
+    },
+    {
+      "type": "way",
+      "id": 835812875,
+      "version": 2,
+      "timestamp": "2020-08-10T16:23:37Z",
+      "url": "https://www.openstreetmap.org/way/835812875"
+    },
+    {
+      "type": "way",
+      "id": 835812876,
+      "version": 2,
+      "timestamp": "2020-08-13T22:29:51Z",
+      "url": "https://www.openstreetmap.org/way/835812876"
+    },
+    {
+      "type": "way",
+      "id": 835812877,
+      "version": 7,
+      "timestamp": "2024-10-31T03:48:04Z",
+      "url": "https://www.openstreetmap.org/way/835812877"
+    },
+    {
+      "type": "way",
+      "id": 835812878,
+      "version": 5,
+      "timestamp": "2024-10-31T03:48:04Z",
+      "url": "https://www.openstreetmap.org/way/835812878"
+    },
+    {
+      "type": "way",
+      "id": 835812879,
+      "version": 3,
+      "timestamp": "2024-10-31T03:48:04Z",
+      "url": "https://www.openstreetmap.org/way/835812879"
+    },
+    {
+      "type": "way",
+      "id": 835812880,
+      "version": 7,
+      "timestamp": "2024-10-30T14:47:14Z",
+      "url": "https://www.openstreetmap.org/way/835812880"
+    },
+    {
+      "type": "way",
+      "id": 835812881,
+      "version": 5,
+      "timestamp": "2024-10-31T03:48:04Z",
+      "url": "https://www.openstreetmap.org/way/835812881"
+    },
+    {
+      "type": "way",
+      "id": 835812883,
+      "version": 7,
+      "timestamp": "2024-10-31T03:48:04Z",
+      "url": "https://www.openstreetmap.org/way/835812883"
+    },
+    {
+      "type": "way",
+      "id": 835812885,
+      "version": 5,
+      "timestamp": "2024-10-31T03:48:04Z",
+      "url": "https://www.openstreetmap.org/way/835812885"
+    },
+    {
+      "type": "way",
+      "id": 835842063,
+      "version": 1,
+      "timestamp": "2020-08-10T17:23:43Z",
+      "url": "https://www.openstreetmap.org/way/835842063"
+    },
+    {
+      "type": "way",
+      "id": 836935996,
+      "version": 4,
+      "timestamp": "2024-10-31T03:48:04Z",
+      "url": "https://www.openstreetmap.org/way/836935996"
+    }
+  ],
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/clt-cne-gama-goat.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Camp North End: the Gama Goat Building — procedural, CC0-1.0. bun generators/clt-cne-gama-goat.ts",
+    "The extension the Army added to its Building No. 6 some time before 1955, running north-east from `clt-cne-1701-n-graham` between the railway and North Graham Street; 1801 N. Graham Street. Unlike the brick warehouses it is a steel shed clad in corrugated metal, here painted charcoal, with one long clerestory monitor down its spine instead of monitors across it. A box 41 × 183 m; along the street its wall stands back under the deep eaves of the roof on steel posts and braces; a loading platform under a canopy along the railway side; open canopies over platforms at both ends, the north-east end cut on the diagonal.",
+    "Identity: the long charcoal shed with its raised spine monitor and the deep dark eaves along North Graham Street.",
+    "Evidence: - OSM: the outline way/632256525 (\"Gama Goat Building\", height 8) and its 13 parts: the spine monitor in two lengths way/835812875, 835812880 (gabled, height 10.1/10.2), the side roofs 835812876, 835812878, 835812879, 835812881 (7.2), the railway platform 835812877, the end platforms 835812873, 836935996 and the strip between the monitor lengths 835812885 (1), the north-east canopy 835812883 (min_height 4.9), the small blocks 835812874 (4) and 835842063 (2). - Lidar, USGS 3DEP NC Phase 4 Mecklenburg 2016, 1 m (measured, NAVD88): ground 228.0–228.7 (y = 0 is 228.0); side roofs 235.9–236.4 (8.1 m); the monitor 238.8–239.0 (10.9 m), flat to within 0.2 m, so drawn with a flat lid; the strip between its two lengths 236.4 (no monitor there); the south-west canopy 235.3 (7.3 m); the railway canopy 234.3 (6.3 m); the north-east canopy 234.1 (6.1 m). - C-M Historic Landmarks Commission survey report (2017, landmarkscommission.org/wp-content/uploads/2017/06/Ford-Motor-Co-Plant-SR.pdf), Buildings Nos. 4–6 (published): No. 6 \"expanded some time before 1955; this new addition contains the same steel framing and concrete floors, but ... is sided with aluminum or vinyl and has a 6-foot single monitor that runs the rest of the length\". - Mecklenburg County tax parcel 07903C99 (CAMP GAMA GOAT PROPERTY OWNER LP). Camp North End leasing brochure (2021, camp.nc): \"Gama Goat Building\", 85,000 sq ft. OSM name and address. - Mapillary photos 337256698419883 and 296443739342389 (aftcpics471, 2022-04-21, CC BY-SA 4.0), from North Graham Street looking north-east along the street front: charcoal corrugated walls with tall windows, set back under deep eaves with a pale grey fascia, carried on dark steel posts and knee braces, the framing open at the north-east end, a pale concrete base. - USGS NAIP orthophoto (public domain): white side roofs, the grey spine.",
+    "Estimated: the eaves' depth (3.5 m, the street wall drawn at x = 20.5 inside OSM's 24.1 outline), the post spacing, window sizes and spacing (photo-scaled); the railway and end faces, unphotographed, are given doors and a few windows. The wall colour is pulled to charcoal #5b6067 from the photos' near-black.",
+    "Frame and kit: `clt-cne-301-camp-road.ts`. y along the long axis (bearing 39.62°), placement bearing 39.62; origin at the outline's centroid, lng −80.8316634, lat 35.2459136.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"clt-cne-gama-goat\", model \"clt-cne-gama-goat\"), generated by https://github.com/alexwohlbruck/landmarks/blob/a1974bbf738c6994edbe99a7a61818b9d69da9e0/generators/clt-cne-gama-goat.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

@@ -1,0 +1,145 @@
+{
+  "id": "one-wells-fargo-center",
+  "name": "One Wells Fargo Center",
+  "anchor": [
+    -80.844673,
+    35.2239253
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 13,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 135152,
+      "sha256": "b03afc470208db6154cb40040c951022b3bd42c6dd493409d2fdff9b2f21d14d"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 135152,
+      "sha256": "b03afc470208db6154cb40040c951022b3bd42c6dd493409d2fdff9b2f21d14d"
+    }
+  },
+  "triangles": 2572,
+  "boundsBlenderM": [
+    [
+      -31.579,
+      -38.011,
+      0
+    ],
+    [
+      22.557,
+      36.704,
+      180.05
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.8445891,
+          35.2242613
+        ],
+        [
+          -80.8444343,
+          35.2241385
+        ],
+        [
+          -80.8444544,
+          35.22395
+        ],
+        [
+          -80.8444623,
+          35.2238763
+        ],
+        [
+          -80.8444645,
+          35.223846
+        ],
+        [
+          -80.8444739,
+          35.2237183
+        ],
+        [
+          -80.8446485,
+          35.2235859
+        ],
+        [
+          -80.8446815,
+          35.2236156
+        ],
+        [
+          -80.845038,
+          35.2239372
+        ],
+        [
+          -80.8447289,
+          35.2241588
+        ],
+        [
+          -80.8447051,
+          35.2241764
+        ],
+        [
+          -80.8446813,
+          35.2241939
+        ],
+        [
+          -80.8445891,
+          35.2242613
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 380092606,
+    "version": 11,
+    "timestamp": "2026-01-15T02:16:59Z",
+    "url": "https://www.openstreetmap.org/way/380092606"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q3352669",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/one-wells-fargo-center.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "One Wells Fargo Center (\"the jukebox\"; 1988, formerly First Union Center, Thompson, Ventulett, Stainback & Associates), Charlotte — original procedural geometry, CC0-1.0. bun generators/one-wells-fargo-center.ts",
+    "Map frame: x east, y north, z up, metres; origin at the catalog anchor on the ground. Placed at bearing 5°, so +x runs along the crown's barrel vault (true bearing 95°) and Uptown's street grid lies on the diagonals.",
+    "Plan (lidar, Mecklenburg 2016, USGS 3DEP NC Phase 4, 1 m; matches the OSM outline way/380092606 to a metre on every side it records). A square on the street grid, |x − 7.5| + |y| ≤ 37.5, cut by two end walls square to the vault: the west one at x = −20 is only as wide as the vault's glass bay (|y| ≤ 10), the east one at x = 20.5 runs 50 m (|y| ≤ 25). OSM's west tip (to x = −33) is a low stepped lobby block, 20-30 m.",
+    "Heights above the street (lidar; ground within a metre of the lowest return): the north and south tips stop at 81 / 85 / 89 m in three steps; the shaft (|y| ≤ 25.5) rises to 155 m, then steps in 4-5 m at a time to 159, 164 and 170 m, each step a planted terrace (photos); the barrel vault, radius 9.5 m, rises to 180 m. Published: 588 ft (179 m), 42 floors. OSM's height=192 is too high.",
+    "What makes it recognisable, each drawn as plain geometry:",
+    "the barrel vault of pale glass, its ends filled by the \"jukebox\": a full-height glass bay on each end wall under a semicircular arch, with an outer and an inner pale ring and a dark slot rising into the inner arch (photos from the east and west);",
+    "the stepped terraces either side of the vault;",
+    "the sawtooth: every wall that runs square to the vault rather than on the street grid is notched into grid-aligned teeth, so the shaft's north and south faces and the east wall's flanks read as stepped corners (photo from S College St);",
+    "rose granite with large square windows. Drawn per STYLE.md as one panel per bay and three floors, granite piers and spandrels between.",
+    "Colours: the granite is reddish brown in photos; pulled to the palette's lightness as a rose finish. Windows and the bay are reflective glass that reads light blue in daylight, so a light window colour, not slate. The slot is the one dark line; it is a defining feature and stays mid slate.",
+    "Estimated: tooth size (2.2 m deep, from photos), the ring radii and slot width (photos), the lobby block's steps (lidar, coarse), floor height 3.9 m.",
+    "Photos: One_Wells_Fargo_Center_S_College.jpg and One_Wells_Fargo_Center_ November_2023.jpg (City Dweller 2, CC BY-SA 4.0, Commons); Wachoviahq.jpg (CC BY-SA 3.0, Commons); One_Wells_Fargo_Center,_Three_Wells_Fargo_Center .jpg (Kiran891, CC BY-SA 4.0, Commons); Flickr 2675013257 (James Willamor, CC BY-SA 2.0; the crown). No commercial imagery or 3D tiles were used.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"one-wells-fargo-center\", model \"one-wells-fargo-center\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/one-wells-fargo-center.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

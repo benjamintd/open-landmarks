@@ -1,0 +1,176 @@
+{
+  "id": "truliant-amphitheater",
+  "name": "Truliant Amphitheater",
+  "anchor": [
+    -80.7106827,
+    35.327369
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 39500,
+      "sha256": "f71e0852ef3f7d67c965ffcfceb8a458649b5be821059a3a0a0b68c290d458e9"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 39500,
+      "sha256": "f71e0852ef3f7d67c965ffcfceb8a458649b5be821059a3a0a0b68c290d458e9"
+    }
+  },
+  "triangles": 660,
+  "boundsBlenderM": [
+    [
+      -42,
+      -45.6,
+      0
+    ],
+    [
+      45.1,
+      45.6,
+      25.6
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.7106279,
+          35.3277386
+        ],
+        [
+          -80.7105707,
+          35.3276717
+        ],
+        [
+          -80.7104574,
+          35.3275244
+        ],
+        [
+          -80.7104521,
+          35.3272287
+        ],
+        [
+          -80.7105567,
+          35.3270659
+        ],
+        [
+          -80.7106028,
+          35.3270072
+        ],
+        [
+          -80.7106127,
+          35.327007
+        ],
+        [
+          -80.7106302,
+          35.3270066
+        ],
+        [
+          -80.7108858,
+          35.3270004
+        ],
+        [
+          -80.7109509,
+          35.3269989
+        ],
+        [
+          -80.7110159,
+          35.3269973
+        ],
+        [
+          -80.7111432,
+          35.3272151
+        ],
+        [
+          -80.711147,
+          35.3275066
+        ],
+        [
+          -80.7110297,
+          35.3277295
+        ],
+        [
+          -80.7109264,
+          35.3277319
+        ],
+        [
+          -80.7106637,
+          35.3277378
+        ],
+        [
+          -80.7106571,
+          35.3277379
+        ],
+        [
+          -80.710649,
+          35.3277381
+        ],
+        [
+          -80.7106279,
+          35.3277386
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 577606075,
+    "version": 6,
+    "timestamp": "2026-09-06T13:27:16Z",
+    "url": "https://www.openstreetmap.org/way/577606075"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 577606076,
+      "version": 4,
+      "timestamp": "2026-09-21T14:39:54Z",
+      "url": "https://www.openstreetmap.org/way/577606076"
+    }
+  ],
+  "wikidata": "Q3023993",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/pnc-music-pavilion.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "PNC Music Pavilion (Truliant Amphitheater since 2025), Charlotte NC — procedural, CC0-1.0. bun generators/pnc-music-pavilion.ts",
+    "Map frame: x east, y north, z up, metres; bearing 0. The venue's axis runs due east–west: the stage house is at the east end and faces west, over the covered reserved seats, towards the lawn. The anchor is the middle of the pavilion roof and stage house together (OSM way/577606075 and way/577606076), on the axis, so the model is symmetrical about y = 0.",
+    "The pavilion is one big flat roof, an octagon about 63 × 81 m in plan, carried at the stage end on the stage house's flanking walls and at the lawn end on four columns. Its steel deck sits on deep painted trusses spanning north–south, which are what you see from the seats (2009 and 2016 photos). Here the deck is a thin pale slab with a white edge, and the truss zone under it a recessed band with the trusses as deep light beams, so the roof reads as a lid on visible structure rather than a solid block.",
+    "The stage house is pale cream concrete (the same in every interior photo): a fly tower over the proscenium standing above the roof, and lower wings north and south whose west faces are the tall side walls the video screens hang on. The proscenium is a dark opening between broad piers.",
+    "The reserved seats are concrete on grade, sloping about 3 m up to the lawn; the lawn is grass. Both are the map's ground, so neither is modelled.",
+    "Ground: the terrain under the footprint is lowest just behind the stage (~193.8 m). The stage floor is ~1.4 m above that and the back row of seats under the roof's west edge ~4.2 m, from the terrarium DEM. * 2026 rework: heights corrected from the Mecklenburg County lidar (USGS 3DEP NC Phase 4, flown 2016, after the 1991 build; 1 m DSM sampled in this frame, ground_min 194.0 m just behind the stage, as before). The plan was already right and is kept; the old heights were read from photos and ran well over:",
+    "roof deck top 21.2 -> 17.0 m (lidar 16-17 m, slightly higher at the stage end); the truss band and proscenium come down with it;",
+    "fly tower 30.0 -> 24.8 m (lidar 24-25 m), its east face 37.4 -> 35.2 m (lidar edge at x = 35);",
+    "wings and backstage block 18.0 / 11.0 -> 6.5 m (lidar 6 m over their whole roofs outside the pavilion roof);",
+    "the tall cream walls flanking the stage, which the 2016 photo from the seats shows rising to the roof trusses, are kept as 1.6 m-thick walls along the wings' west faces, set in under the roof's chamfered edge. Photos: \"Barack Obama 'Early Vote Event with President Barack Obama' - Charlotte DSC05320\" (Kristopher Harris, Wikimedia Commons, CC BY 2.0; set of the 4 Nov 2016 rally here): the stage and its flanking walls from the seats. No licensed exterior daylight photo was found on Commons, Openverse or Mapillary; the plan, roof colours and fly-tower hatches are from the USGS NAIP orthophoto.",
+    "Bowl: the stage sits at the lowest ground with the lawn rising westward, ~4 m at the roof's west edge and ~8 m 55 m out (lidar). Nothing is below the surrounding grade, so the placement keeps elevation 0; the lawn and the blue seat sections round the roof are the map's ground.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"pnc-music-pavilion\", model \"pnc-music-pavilion\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/pnc-music-pavilion.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

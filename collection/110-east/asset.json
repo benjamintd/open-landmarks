@@ -1,0 +1,269 @@
+{
+  "id": "110-east",
+  "name": "110 East",
+  "anchor": [
+    -80.8588445,
+    35.2118057
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 64244,
+      "sha256": "596d843b72485a79d60c664efc8fc3b36bd11160c0dfa17163f197506b99ca06"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 64244,
+      "sha256": "596d843b72485a79d60c664efc8fc3b36bd11160c0dfa17163f197506b99ca06"
+    }
+  },
+  "triangles": 1216,
+  "boundsBlenderM": [
+    [
+      -43.323,
+      -49.628,
+      0
+    ],
+    [
+      40.74,
+      49.195,
+      94.3
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.8589659,
+          35.2113597
+        ],
+        [
+          -80.8593179,
+          35.2115522
+        ],
+        [
+          -80.859215,
+          35.2116805
+        ],
+        [
+          -80.8591731,
+          35.2117328
+        ],
+        [
+          -80.8587561,
+          35.2122477
+        ],
+        [
+          -80.8585688,
+          35.2121705
+        ],
+        [
+          -80.8585105,
+          35.2121465
+        ],
+        [
+          -80.8584884,
+          35.2121374
+        ],
+        [
+          -80.8584732,
+          35.2121233
+        ],
+        [
+          -80.8584359,
+          35.2120888
+        ],
+        [
+          -80.8583996,
+          35.2120552
+        ],
+        [
+          -80.8586002,
+          35.2118088
+        ],
+        [
+          -80.858676,
+          35.2117158
+        ],
+        [
+          -80.8588181,
+          35.2115413
+        ],
+        [
+          -80.8589659,
+          35.2113597
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 1152461493,
+    "version": 6,
+    "timestamp": "2025-09-16T16:40:53Z",
+    "url": "https://www.openstreetmap.org/way/1152461493"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 1278215436,
+      "version": 5,
+      "timestamp": "2025-09-19T17:45:26Z",
+      "url": "https://www.openstreetmap.org/way/1278215436"
+    },
+    {
+      "type": "way",
+      "id": 1278215437,
+      "version": 2,
+      "timestamp": "2025-09-16T16:39:40Z",
+      "url": "https://www.openstreetmap.org/way/1278215437"
+    },
+    {
+      "type": "way",
+      "id": 1430326680,
+      "version": 2,
+      "timestamp": "2025-09-16T16:40:53Z",
+      "url": "https://www.openstreetmap.org/way/1430326680"
+    },
+    {
+      "type": "way",
+      "id": 1430326681,
+      "version": 1,
+      "timestamp": "2025-09-16T16:39:40Z",
+      "url": "https://www.openstreetmap.org/way/1430326681"
+    },
+    {
+      "type": "way",
+      "id": 1430326682,
+      "version": 1,
+      "timestamp": "2025-09-16T16:39:40Z",
+      "url": "https://www.openstreetmap.org/way/1430326682"
+    },
+    {
+      "type": "way",
+      "id": 1430326683,
+      "version": 1,
+      "timestamp": "2025-09-16T16:39:40Z",
+      "url": "https://www.openstreetmap.org/way/1430326683"
+    },
+    {
+      "type": "way",
+      "id": 1430326684,
+      "version": 1,
+      "timestamp": "2025-09-16T16:39:40Z",
+      "url": "https://www.openstreetmap.org/way/1430326684"
+    },
+    {
+      "type": "way",
+      "id": 1430326685,
+      "version": 1,
+      "timestamp": "2025-09-16T16:39:40Z",
+      "url": "https://www.openstreetmap.org/way/1430326685"
+    },
+    {
+      "type": "way",
+      "id": 1430326686,
+      "version": 1,
+      "timestamp": "2025-09-16T16:39:40Z",
+      "url": "https://www.openstreetmap.org/way/1430326686"
+    },
+    {
+      "type": "way",
+      "id": 1430326687,
+      "version": 1,
+      "timestamp": "2025-09-16T16:39:40Z",
+      "url": "https://www.openstreetmap.org/way/1430326687"
+    },
+    {
+      "type": "way",
+      "id": 1430326688,
+      "version": 1,
+      "timestamp": "2025-09-16T16:39:40Z",
+      "url": "https://www.openstreetmap.org/way/1430326688"
+    },
+    {
+      "type": "way",
+      "id": 1430326689,
+      "version": 1,
+      "timestamp": "2025-09-16T16:39:40Z",
+      "url": "https://www.openstreetmap.org/way/1430326689"
+    },
+    {
+      "type": "way",
+      "id": 1430326690,
+      "version": 1,
+      "timestamp": "2025-09-16T16:39:40Z",
+      "url": "https://www.openstreetmap.org/way/1430326690"
+    },
+    {
+      "type": "way",
+      "id": 1430326691,
+      "version": 1,
+      "timestamp": "2025-09-16T16:39:40Z",
+      "url": "https://www.openstreetmap.org/way/1430326691"
+    },
+    {
+      "type": "way",
+      "id": 1430326692,
+      "version": 1,
+      "timestamp": "2025-09-16T16:39:40Z",
+      "url": "https://www.openstreetmap.org/way/1430326692"
+    },
+    {
+      "type": "way",
+      "id": 1430326693,
+      "version": 1,
+      "timestamp": "2025-09-16T16:39:40Z",
+      "url": "https://www.openstreetmap.org/way/1430326693"
+    },
+    {
+      "type": "way",
+      "id": 1430326694,
+      "version": 1,
+      "timestamp": "2025-09-16T16:39:40Z",
+      "url": "https://www.openstreetmap.org/way/1430326694"
+    }
+  ],
+  "wikidata": "Q115519219",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/clt-110-east.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "110 East, 110 East Blvd, South End, Charlotte — procedural, CC0-1.0. bun generators/clt-110-east.ts",
+    "A 23-storey speculative office tower (Stiles / Shorenstein, Hastings Architecture; topped out August 2023, delivered April 2024) beside the East/West Blvd light-rail station. Three things identify it: a plain, deep-blue glass box with pale floor lines; the parking podium below it (floors 2–10) wrapped in a silver perforated-metal screen whose top edge slants down toward the rail line, leaving the concrete deck edges bare above it; and the recessed 11th-floor amenity level, a dark gap between podium and tower with a terrace notch at the South Blvd / East Blvd corner.",
+    "Evidence: - OSM: way/1152461493 (outline, 23 levels, height \"88w\", read as 88 m), way/1278215436 (tower part, 10–88 m), way/1278215437 (south podium part, 10–32 m), way/1430326680 (podium, 10–32 m), way/1430326681 (ground floor, 0–10 m), way/1430326682–1430326694 (ground-floor columns, 10 m). - Published: 305 ft / 93 m, 23 storeys; floors 2–10 parking, 11 amenity and terrace, 12–23 offices (Wikipedia \"110 East\", Q115519219). - Lidar, USGS 3DEP NC Phase 4 Mecklenburg 2016 (1 m): flown when the site was a surface lot, so used for the ground only: the lot dips ~1.3 m below the surrounding sidewalks; y = 0 is that low point and the streets are taken at 1.3 m. - Photos (Wikimedia Commons, City Dweller 2, CC BY-SA 4.0): https://commons.wikimedia.org/wiki/File:110_East_Late_April_2024.jpg (from South Blvd, east) https://commons.wikimedia.org/wiki/File:110_East_at_the_corner_of_South_Blvd_and_East_Blvd_Mid-December_2025.jpg (east corner, the terrace notch) https://commons.wikimedia.org/wiki/File:110_East_viewed_from_Steel_Yard_along_the_South_End_Rail_Trail_Late_April_2024.jpg (south-west end, the bare deck above the screen) https://commons.wikimedia.org/wiki/File:110_East_along_East_Blvd_April_2024.jpg (East Blvd face: screen, lobby, garage entrance) https://commons.wikimedia.org/wiki/File:110_East_along_the_East_West_Blvd_Station_Late_April_2024.jpg (rail-trail face) https://commons.wikimedia.org/wiki/File:110_East_wide_view_March_2023.jpg (under construction: podium and core)",
+    "Heights above the street: the ground floor to 9.5 m (OSM 10), the podium to 32 m (OSM), the amenity level to 37 m (estimated, one tall storey), the offices to 89.5 m (twelve ~4.4 m floors, estimated), the mechanical screen to 93 m (published height). OSM's 88 m is taken as the roof without it. Estimated from photos: the slant of the screen (32 m along South Blvd, falling to 20 m at the north corner and 17 m at the west), the screen's foot (6 m), the terrace notch (two bays, the amenity storey), the setback of the amenity glass (1.5 m), mullion spacing.",
+    "Doubts: the screen's slant is simplified to one straight run per face; no photo shows the rail-trail face's upper podium squarely.",
+    "Model frame: bearing 34 (model +y runs north-east along the rail line toward East Blvd; +x is south-east, toward South Blvd); metres above the base.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"clt-110-east\", model \"clt-110-east\"), generated by https://github.com/alexwohlbruck/landmarks/blob/a1974bbf738c6994edbe99a7a61818b9d69da9e0/generators/clt-110-east.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 1092 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the clt-110-east-glazing finish in the window colour.",
+    "To fit six materials, folded clt-110-east-east-roof into clt-110-east-east-screen (ΔE 4.2)."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

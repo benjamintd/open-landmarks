@@ -1,0 +1,169 @@
+{
+  "id": "mint-museum-uptown",
+  "anchor": [
+    -80.8482315,
+    35.2244007
+  ],
+  "coordinateSystem": "Local metres about the anchor (equirectangular, WGS84 radius): X east, Y north, Z up. glTF export: X east, Y up, Z south. Heading already baked.",
+  "license": "ODbL-1.0",
+  "footprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          36.474757812880256,
+          -8.571600790797111
+        ],
+        [
+          -4.446810413718413,
+          35.822612137477485
+        ],
+        [
+          -30.00005635163664,
+          63.541165345416545
+        ],
+        [
+          -59.927363249088174,
+          37.826362972234236
+        ],
+        [
+          -35.85638744907609,
+          9.606872056199222
+        ],
+        [
+          3.8011590034640697,
+          -36.86901535050707
+        ],
+        [
+          36.474757812880256,
+          -8.571600790797111
+        ]
+      ]
+    ]
+  },
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.8478304,
+          35.2243237
+        ],
+        [
+          -80.8482804,
+          35.2247225
+        ],
+        [
+          -80.8485614,
+          35.2249715
+        ],
+        [
+          -80.8488905,
+          35.2247405
+        ],
+        [
+          -80.8486258,
+          35.224487
+        ],
+        [
+          -80.8481897,
+          35.2240695
+        ],
+        [
+          -80.8478304,
+          35.2243237
+        ]
+      ]
+    ]
+  },
+  "parts": [
+    {
+      "osm": "way/131139755",
+      "tags": {
+        "addr:city": "Charlotte",
+        "addr:housenumber": "500",
+        "addr:postcode": "28202",
+        "addr:state": "NC",
+        "addr:street": "South Tryon Street",
+        "building": "yes",
+        "building:levels": "3",
+        "fee": "yes",
+        "height": "31",
+        "museum": "art",
+        "name": "Mint Museum Uptown",
+        "name:en": "Mint Museum Uptown",
+        "opening_hours:url": "https://www.mintmuseum.org/plan-your-visit/mint-museum-uptown/#hours",
+        "phone": "+1 704 337 2000",
+        "tourism": "museum",
+        "website": "https://www.mintmuseum.org/",
+        "wheelchair": "yes",
+        "wikidata": "Q6869561"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              36.474757812880256,
+              -8.571600790797111
+            ],
+            [
+              -4.446810413718413,
+              35.822612137477485
+            ],
+            [
+              -30.00005635163664,
+              63.541165345416545
+            ],
+            [
+              -59.927363249088174,
+              37.826362972234236
+            ],
+            [
+              -35.85638744907609,
+              9.606872056199222
+            ],
+            [
+              3.8011590034640697,
+              -36.86901535050707
+            ],
+            [
+              36.474757812880256,
+              -8.571600790797111
+            ]
+          ]
+        ]
+      },
+      "version": 13,
+      "timestamp": "2023-12-21T15:21:31Z"
+    }
+  ],
+  "osm": {
+    "type": "way",
+    "id": 131139755,
+    "version": 13,
+    "timestamp": "2023-12-21T15:21:31Z",
+    "url": "https://www.openstreetmap.org/way/131139755"
+  },
+  "additionalOsm": [],
+  "tags": {
+    "addr:city": "Charlotte",
+    "addr:housenumber": "500",
+    "addr:postcode": "28202",
+    "addr:state": "NC",
+    "addr:street": "South Tryon Street",
+    "building": "yes",
+    "building:levels": "3",
+    "fee": "yes",
+    "height": "31",
+    "museum": "art",
+    "name": "Mint Museum Uptown",
+    "name:en": "Mint Museum Uptown",
+    "opening_hours:url": "https://www.mintmuseum.org/plan-your-visit/mint-museum-uptown/#hours",
+    "phone": "+1 704 337 2000",
+    "tourism": "museum",
+    "website": "https://www.mintmuseum.org/",
+    "wheelchair": "yes",
+    "wikidata": "Q6869561"
+  }
+}

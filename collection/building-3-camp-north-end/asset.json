@@ -1,0 +1,295 @@
+{
+  "id": "building-3-camp-north-end",
+  "name": "Building 3, Camp North End",
+  "anchor": [
+    -80.8333358,
+    35.2488851
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 32108,
+      "sha256": "d6118b0a0c8c01abd94380716866379abd2d7555c1bbc7a35dd24cc0fc370f98"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 32108,
+      "sha256": "d6118b0a0c8c01abd94380716866379abd2d7555c1bbc7a35dd24cc0fc370f98"
+    }
+  },
+  "triangles": 510,
+  "boundsBlenderM": [
+    [
+      -188.828,
+      -53.777,
+      0
+    ],
+    [
+      187.248,
+      47.452,
+      11.3
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.8313852,
+          35.2484322
+        ],
+        [
+          -80.8313572,
+          35.2486108
+        ],
+        [
+          -80.8313295,
+          35.2487872
+        ],
+        [
+          -80.8313047,
+          35.2489453
+        ],
+        [
+          -80.8314857,
+          35.2489655
+        ],
+        [
+          -80.8314758,
+          35.2490362
+        ],
+        [
+          -80.8316537,
+          35.2490528
+        ],
+        [
+          -80.8316636,
+          35.2489821
+        ],
+        [
+          -80.8320268,
+          35.2490175
+        ],
+        [
+          -80.8320223,
+          35.2490544
+        ],
+        [
+          -80.8320994,
+          35.2490618
+        ],
+        [
+          -80.8321053,
+          35.2490245
+        ],
+        [
+          -80.8322476,
+          35.2490348
+        ],
+        [
+          -80.8322444,
+          35.2490692
+        ],
+        [
+          -80.8325163,
+          35.2490938
+        ],
+        [
+          -80.8325211,
+          35.2490592
+        ],
+        [
+          -80.8325571,
+          35.249063
+        ],
+        [
+          -80.8325488,
+          35.2491343
+        ],
+        [
+          -80.8331168,
+          35.2491871
+        ],
+        [
+          -80.8331238,
+          35.2491121
+        ],
+        [
+          -80.8334431,
+          35.2491414
+        ],
+        [
+          -80.8334411,
+          35.2491754
+        ],
+        [
+          -80.8338075,
+          35.2492143
+        ],
+        [
+          -80.8338128,
+          35.2491786
+        ],
+        [
+          -80.8341584,
+          35.2492085
+        ],
+        [
+          -80.8341527,
+          35.2492763
+        ],
+        [
+          -80.8342504,
+          35.2492857
+        ],
+        [
+          -80.8345172,
+          35.2493115
+        ],
+        [
+          -80.8345232,
+          35.2492428
+        ],
+        [
+          -80.8353237,
+          35.2493076
+        ],
+        [
+          -80.8353455,
+          35.2491489
+        ],
+        [
+          -80.8353681,
+          35.2489846
+        ],
+        [
+          -80.8353938,
+          35.2487979
+        ],
+        [
+          -80.8339767,
+          35.2486668
+        ],
+        [
+          -80.8323019,
+          35.2485143
+        ],
+        [
+          -80.8313852,
+          35.2484322
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 494906712,
+    "version": 8,
+    "timestamp": "2025-11-08T05:46:33Z",
+    "url": "https://www.openstreetmap.org/way/494906712"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 835823918,
+      "version": 1,
+      "timestamp": "2020-08-10T16:04:52Z",
+      "url": "https://www.openstreetmap.org/way/835823918"
+    },
+    {
+      "type": "way",
+      "id": 835823919,
+      "version": 3,
+      "timestamp": "2020-08-10T18:09:56Z",
+      "url": "https://www.openstreetmap.org/way/835823919"
+    },
+    {
+      "type": "way",
+      "id": 835823920,
+      "version": 1,
+      "timestamp": "2020-08-10T16:04:52Z",
+      "url": "https://www.openstreetmap.org/way/835823920"
+    },
+    {
+      "type": "way",
+      "id": 835823921,
+      "version": 2,
+      "timestamp": "2025-11-08T05:46:33Z",
+      "url": "https://www.openstreetmap.org/way/835823921"
+    },
+    {
+      "type": "way",
+      "id": 835823922,
+      "version": 1,
+      "timestamp": "2020-08-10T16:04:52Z",
+      "url": "https://www.openstreetmap.org/way/835823922"
+    },
+    {
+      "type": "way",
+      "id": 835823923,
+      "version": 1,
+      "timestamp": "2020-08-10T16:04:52Z",
+      "url": "https://www.openstreetmap.org/way/835823923"
+    },
+    {
+      "type": "way",
+      "id": 835823924,
+      "version": 1,
+      "timestamp": "2020-08-10T16:04:52Z",
+      "url": "https://www.openstreetmap.org/way/835823924"
+    },
+    {
+      "type": "way",
+      "id": 835823925,
+      "version": 1,
+      "timestamp": "2020-08-10T16:04:52Z",
+      "url": "https://www.openstreetmap.org/way/835823925"
+    },
+    {
+      "type": "way",
+      "id": 835823926,
+      "version": 1,
+      "timestamp": "2020-08-10T16:04:52Z",
+      "url": "https://www.openstreetmap.org/way/835823926"
+    }
+  ],
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/clt-cne-building-3.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Camp North End: Building 3, the Army Quartermaster warehouse on Woodward Avenue — procedural, CC0-1.0. bun generators/clt-cne-building-3.ts",
+    "The northernmost of the Quartermaster Corps' 1941–43 warehouses, Building No. 3 in the depot's numbering, between Hercules South (`clt-cne-hercules-south.ts`) and Woodward Avenue. One storey, 367 × 58 m (1,200 × 180 ft), steel-framed, its brick now mostly covered in metal siding; a low-pitched dark roof cut into five by firewalls, with one long raised monitor along its ridge, east to west. The working south face has concrete loading platforms under a canopy the full length, facing the Big Roof and Hercules South across the old rail yard; the west end on Statesville Avenue has a row of truck doors under a metal canopy; low annexes stand along the north side.",
+    "Identity: the long, low, dark-roofed shed with its single ridge monitor running end to end, paired with Hercules South's red-ribbed white roof.",
+    "Evidence: - OSM: the outline way/494906712 (height 8) and its parts way/835823918 and way/835823920 (the roof's two halves, 7.2), way/835823919 (the monitor, 10.1, gabled), way/835823921–835823926 (north annexes, 6). - Lidar, USGS 3DEP NC Phase 4 Mecklenburg 2016, 1 m (measured, NAVD88): ground 220.4–220.6 at the west end (the lowest; y = 0 is 220.5), 220.8 on the south, 221.5–221.7 at the east end; eaves 228.5 (8.0 m), the roof rising to 229.0 (8.5 m) at the monitor; the monitor y −10.4…9.3, its top 231.5 at the edges to 231.8 on the ridge (11.0–11.3 m); the south canopy 227.0 (6.5 m) over a platform at 222.0 (1.5 m); the west canopy 227.1 (6.6 m); a lean-to at the east end 225.1–225.8 (4.9 m); the north annexes 226.2 (5.7 m). - Charlotte-Mecklenburg Historic Landmarks Commission survey and research report (2017, landmarkscommission.org/wp-content/uploads/2017/06/Ford-Motor-Co-Plant-SR.pdf), Building No. 3 (published): 180 × 1,200 ft, \"about 27 feet high, with an east-west running monitor roof that raises its height about 7 additional feet\", \"in early photographs appears to be brick faced—today aluminum or vinyl siding covers much of the building's exterior\"; the south face \"contains concrete loading platforms sheltered by broad eaves that run the full length of the building\", with many of the original loading doors; and \"the western face ... is plain, but is characterized by 8 bays of overhead tractor-trailer loading doors, which are shaded by a rectangular metal canopy\" (the report heads that sentence \"Building No. 1\", but it sits in the Building No. 3 section and Building No. 1's west face is the Ford front, so it is read as this building's). - Mecklenburg County tax parcel 07903101 (CAMP LANDOWNER LP): built 1943, modular metal and face brick. - USGS NAIP orthophoto (public domain): the dark charcoal roof, the monitor's edges, four transverse firewalls dividing the roof into five equal lengths (about 73 m), a sliver of pale grey-blue siding on the west wall.",
+    "No licensed photo of the building was found (Commons, Openverse, Mapillary — Mapillary has no imagery on Woodward or Statesville Avenue here). So: - the siding colour is the NAIP sliver, estimated; the roof's charcoal is from NAIP, pulled light; - the monitor's glazing (a clerestory band on both long faces) is assumed, as is its grouping; - door positions (south one per 12.2 m, west eight) are spaced evenly: the survey gives the west count only; - the firewalls' height (0.6 m over the roof) is estimated from their NAIP shadows.",
+    "Doubt: Joyfield Rise, 141 apartments on 5.3 acres \"at the intersection of Woodward and Statesville Avenues\", broke ground in August 2026 (Standard Communities); its site may take the west end of this building. Check OSM and current aerials before release.",
+    "Frame: the Ford plant's grid, as in `clt-cne-hercules-south.ts`; placement bearing 6.3. The origin is the outline's centroid, lng −80.8333358, lat 35.2488851.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"clt-cne-building-3\", model \"clt-cne-building-3\"), generated by https://github.com/alexwohlbruck/landmarks/blob/a1974bbf738c6994edbe99a7a61818b9d69da9e0/generators/clt-cne-building-3.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

@@ -1,0 +1,125 @@
+{
+  "id": "snug-harbor",
+  "anchor": [
+    -80.8132541,
+    35.2199698
+  ],
+  "coordinateSystem": "Local metres about the anchor (equirectangular, WGS84 radius): X east, Y north, Z up. glTF export: X east, Y up, Z south. Heading already baked.",
+  "license": "ODbL-1.0",
+  "footprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          5.138210760590355,
+          -8.438017402657033
+        ],
+        [
+          -6.193135448427204,
+          -7.6921768143268325
+        ],
+        [
+          -5.165493296567606,
+          8.43801740186606
+        ],
+        [
+          6.202229626224715,
+          7.69217681353586
+        ],
+        [
+          5.138210760590355,
+          -8.438017402657033
+        ]
+      ]
+    ]
+  },
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.8131976,
+          35.219894
+        ],
+        [
+          -80.8133222,
+          35.2199007
+        ],
+        [
+          -80.8133109,
+          35.2200456
+        ],
+        [
+          -80.8131859,
+          35.2200389
+        ],
+        [
+          -80.8131976,
+          35.219894
+        ]
+      ]
+    ]
+  },
+  "parts": [
+    {
+      "osm": "way/323193812",
+      "tags": {
+        "addr:city": "Charlotte",
+        "addr:housenumber": "1228",
+        "addr:postcode": "28205",
+        "addr:state": "NC",
+        "addr:street": "Gordon Street",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Snug Harbor"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.138210760590355,
+              -8.438017402657033
+            ],
+            [
+              -6.193135448427204,
+              -7.6921768143268325
+            ],
+            [
+              -5.165493296567606,
+              8.43801740186606
+            ],
+            [
+              6.202229626224715,
+              7.69217681353586
+            ],
+            [
+              5.138210760590355,
+              -8.438017402657033
+            ]
+          ]
+        ]
+      },
+      "version": 3,
+      "timestamp": "2023-07-18T02:27:17Z"
+    }
+  ],
+  "osm": {
+    "type": "way",
+    "id": 323193812,
+    "version": 3,
+    "timestamp": "2023-07-18T02:27:17Z",
+    "url": "https://www.openstreetmap.org/way/323193812"
+  },
+  "additionalOsm": [],
+  "tags": {
+    "addr:city": "Charlotte",
+    "addr:housenumber": "1228",
+    "addr:postcode": "28205",
+    "addr:state": "NC",
+    "addr:street": "Gordon Street",
+    "amenity": "bar",
+    "building": "yes",
+    "name": "Snug Harbor"
+  }
+}

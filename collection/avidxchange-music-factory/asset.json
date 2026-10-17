@@ -1,0 +1,194 @@
+{
+  "id": "avidxchange-music-factory",
+  "name": "AvidXchange Music Factory",
+  "anchor": [
+    -80.8448839,
+    35.2391739
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 85912,
+      "sha256": "68f6430798cbcbd10cf88235bba13c31e0be51e0fcec6772c1d36488e6a82972"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 85912,
+      "sha256": "68f6430798cbcbd10cf88235bba13c31e0be51e0fcec6772c1d36488e6a82972"
+    }
+  },
+  "triangles": 1658,
+  "boundsBlenderM": [
+    [
+      -56.854,
+      -44.127,
+      0
+    ],
+    [
+      46.077,
+      48.773,
+      17.22
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.8452358,
+          35.2396044
+        ],
+        [
+          -80.8450316,
+          35.2396148
+        ],
+        [
+          -80.8450034,
+          35.2392146
+        ],
+        [
+          -80.8448706,
+          35.2392179
+        ],
+        [
+          -80.8448661,
+          35.2391336
+        ],
+        [
+          -80.8448334,
+          35.2391347
+        ],
+        [
+          -80.8446006,
+          35.2391431
+        ],
+        [
+          -80.8445953,
+          35.2390454
+        ],
+        [
+          -80.8445885,
+          35.2389277
+        ],
+        [
+          -80.8448178,
+          35.238913
+        ],
+        [
+          -80.8448752,
+          35.2389105
+        ],
+        [
+          -80.8448714,
+          35.2388782
+        ],
+        [
+          -80.8449309,
+          35.2387749
+        ],
+        [
+          -80.8450629,
+          35.2388097
+        ],
+        [
+          -80.8450557,
+          35.2388312
+        ],
+        [
+          -80.8450598,
+          35.2388373
+        ],
+        [
+          -80.8451028,
+          35.2388363
+        ],
+        [
+          -80.84513,
+          35.2389063
+        ],
+        [
+          -80.8451497,
+          35.2389061
+        ],
+        [
+          -80.8451943,
+          35.2390345
+        ],
+        [
+          -80.8451984,
+          35.2390632
+        ],
+        [
+          -80.8452397,
+          35.2393524
+        ],
+        [
+          -80.8452325,
+          35.2394698
+        ],
+        [
+          -80.8452358,
+          35.2396044
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 957549179,
+    "version": 2,
+    "timestamp": "2023-08-26T23:56:22Z",
+    "url": "https://www.openstreetmap.org/way/957549179"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 1202433658,
+      "version": 1,
+      "timestamp": "2023-08-26T23:56:22Z",
+      "url": "https://www.openstreetmap.org/way/1202433658"
+    }
+  ],
+  "wikidata": "Q55639242",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/music-factory-mill.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "AvidXchange Music Factory: the mill — procedural, CC0-1.0. bun generators/music-factory-mill.ts",
+    "The Music Factory is the John B. Ross and Company Mill (1904–c.1960), later the Southern Asbestos Manufacturing Company plant, at Hamilton Street and NC Music Factory Boulevard. It is two red-brick mills set in an inverted V round a courtyard that opens south onto the boulevard, joined at the courtyard's north end by a bridge section (Charlotte-Mecklenburg Historic Landmarks Commission survey).",
+    "Mill #2, the west arm along Hamilton Street, holds The Fillmore Charlotte and The Underground: `fillmore-charlotte.ts`.",
+    "This model is Mill #1, the east arm, with its east wing and the bridge. The 1904 mill along the courtyard is one tall storey there, with a long row of tall segmental-arched windows between brick piers, and two storeys on the east where the ground falls away; 1920s–1950s additions wrap it in flat-roofed brick, with the c.1955 dust-collector room and its brick tower on the east side. The bridge carries a taller block clad in pale metal and, on its courtyard face, the courtyard stage under a dark canopy.",
+    "The amphitheatre north of the mill is `music-factory-amphitheatre.ts`.",
+    "Evidence: - Lidar (USGS 3DEP NC Phase 4 Mecklenburg 2016, 1 m DSM and ground returns) for every roof height and the ground: the 1904 block's very low gable (eaves 221.5 m, ridge 222.3 m NAVD88), the 1920s south block and the east wing at ~222.9 m, the south projection at ~219.6 m, the east annex at ~218.6 m and the east wing's lower north strip at ~218.2 m; the dust tower at 227.4 m with its top at ~230.8 m; the bridge's metal-clad block at ~228 m, its west part at ~225 m and the box on it at ~230 m; the courtyard stage canopy at ~224.8 m. Ground: courtyard ~217 m, the boulevard side 216–217 m, the north end and east side ~214 m. - NAIP (USGS, public domain): the plan, dark membrane roofs on the 1904 and south blocks, a white roof on the east wing, rows of rooftop plant. - Photos (Wikimedia Commons): Southern_Asbestos_Company_Mills.jpg (James Willamor, CC BY-SA 3.0, 2007 aerial from the north-east); Greenville,_Charlotte,_NC,_USA_-_panoramio.jpg (James Willamor, CC BY-SA 3.0, 2009, from the seats: Mill #2's coped parapets and windows, the same brick and trim). The 2007 aerial shows Mill #1 from the east-north- east: the 1904 block's east face with two rows of square windows and a long metal canopy, the brick dust tower with plant on it, the east wing's pilasters and white roof, the bridge's metal-clad boxes. Mapillary street panoramas of 2022 on the boulevard (the south front behind trees, the courtyard stage and the bridge's metal block above it). - OSM: way/957549179 is Mill #1 (tagged there, wrongly, with The Fillmore's name: The Fillmore's door is on Mill #2's Hamilton Street side, in the Mapillary panoramas and HangingCurve's FillmoreCharlotte .jpg); way/414800516 is an older outline over both mills and the bridge, which `fillmore-charlotte` lists, so the two models are shown together; way/1202433658 is the courtyard stage canopy.",
+    "Estimated: window counts and sizes (survey bay counts, the 2009 photo), which openings are bricked up, the stage canopy's depth.",
+    "This file also holds the small massing kit the three Music Factory generators share (site frame, lidar ground, zoned prisms with coped brick parapets, bays of arched or framed windows between brick piers). Its own model is built only when it is run directly.",
+    "Map frame: x east, y north, z up, metres; bearing 0. Everything is drawn in a site frame round lng −80.8450, lat 35.2390 at absolute elevation, then moved so each model's origin is its outline's centroid on its lowest ground.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"music-factory-mill\", model \"music-factory-mill\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/music-factory-mill.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

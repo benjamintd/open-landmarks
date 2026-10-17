@@ -1,0 +1,141 @@
+{
+  "id": "design-center-tower",
+  "name": "Design Center Tower",
+  "anchor": [
+    -80.8600897,
+    35.2121411
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 70572,
+      "sha256": "a08a67a286778a2a921fb99e11351e26751d297bb955c969f1312dccc46df7f0"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 70572,
+      "sha256": "a08a67a286778a2a921fb99e11351e26751d297bb955c969f1312dccc46df7f0"
+    }
+  },
+  "triangles": 1208,
+  "boundsBlenderM": [
+    [
+      -57.239,
+      -40.99,
+      0
+    ],
+    [
+      60.087,
+      43.462,
+      110.7
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.8594625,
+          35.2120421
+        ],
+        [
+          -80.8596462,
+          35.211787
+        ],
+        [
+          -80.8596896,
+          35.2118082
+        ],
+        [
+          -80.8597157,
+          35.2117713
+        ],
+        [
+          -80.8602411,
+          35.2120135
+        ],
+        [
+          -80.8600318,
+          35.2123103
+        ],
+        [
+          -80.8594625,
+          35.2120421
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 990903147,
+    "version": 4,
+    "timestamp": "2023-12-15T21:19:58Z",
+    "url": "https://www.openstreetmap.org/way/990903147"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 990903148,
+      "version": 5,
+      "timestamp": "2023-08-17T15:59:06Z",
+      "url": "https://www.openstreetmap.org/way/990903148"
+    }
+  ],
+  "wikidata": "Q106726569",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Design Center Tower.jpg",
+      "author": "City Dweller 2",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Design_Center_Tower.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Lowes Building Charlotte North Carolina.jpg",
+      "author": "SunDawn",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Lowes_Building_Charlotte_North_Carolina.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/clt-design-center-tower.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Design Center Tower (Lowe's Global Technology Center), 100 W. Worthington Ave, South End, Charlotte — procedural, CC0-1.0. bun generators/clt-design-center-tower.ts",
+    "A 23-storey office tower (Rule Joy Trammell + Rubio; Shelco; 2019–21) on a seven-storey brick parking podium that also wraps the garage behind it (way/990903148; the same brick-and-louvre podium runs unbroken along Worthington, so the garage is modelled as part of the building). Three things identify it: the black steel corner frame with stacked X braces on the Camden Road / north corner, which rises past the roof as an open cage carrying the Lowe's sign; the pale glass curtain wall with dark bands every two floors; and the tan stone grid on the Worthington face.",
+    "Evidence: - OSM: way/990903147 (tower, height 109, 23 levels, Q106726569), way/990903148 (garage, 6 levels). No building:parts. - Published: 357 ft / 108.8 m, 23 floors, completed 2021 (Wikipedia, CTBUH). Lowe's occupies levels 8–23 (OSM office node), so floors 1–7 are the podium. - Lidar (USGS 3DEP NC Phase 4, 2016) predates the tower: used for the ground only. Ground rises ~2.5 m from Hawkins St (west) to Camden Rd (east); y = 0 is the lowest ground, at the garage's west end. - Photos (Commons, CC BY-SA 4.0): City Dweller 2, \"Design Center Tower.jpg\" (2021, the frame corner from Camden), \"Lowe's Global Technology Center January 2024\", \"… South End November 2021\", \"Lowes Global Technology Center November 2021\" (frame and podium close up), \"Lowe's Global Tech Center November 2022\", \"Salted Melon at …\" and \"Brownbag …\" (podium bays); SunDawn, \"Lowes Building Charlotte North Carolina.jpg\" (the stone grid on Worthington, from the south).",
+    "Estimated: the podium top (28 m above the street: a 6 m retail floor plus six ~3.6 m parking levels; the 2024 photo puts it at about a third of the roof height), office floors 4.0 m (roof 92.4 m above the street), the frame's plan (10.5 m square) and ring levels (read off the 2024 photo, taken from ~110 m), bay widths, the garage height (taken as the podium's, as photos show the two continuous), the penthouse.",
+    "Model frame: bearing 30 (model +y faces 30°, the long faces run 120°/300°; +x is the Camden Road end); metres above the base.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"clt-design-center-tower\", model \"clt-design-center-tower\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/clt-design-center-tower.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 260 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the clt-design-center-tower-glazing finish in the window colour.",
+    "To fit six materials, folded roof into clt-design-center-tower-window-2 (ΔE 11.2)."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

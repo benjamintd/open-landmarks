@@ -1,0 +1,255 @@
+{
+  "id": "metalmorphosis-charlotte",
+  "name": "Metalmorphosis",
+  "anchor": [
+    -80.9480419,
+    35.1508126
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 135020,
+      "sha256": "81d9b9ae6472414d499b864412b91c702c054ab4331909bc432f1ef8e2b25470"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 135020,
+      "sha256": "81d9b9ae6472414d499b864412b91c702c054ab4331909bc432f1ef8e2b25470"
+    }
+  },
+  "triangles": 4788,
+  "boundsBlenderM": [
+    [
+      -6.983,
+      -6.983,
+      0
+    ],
+    [
+      6.983,
+      6.983,
+      8.35
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.9481186,
+          35.1508082
+        ],
+        [
+          -80.9481168,
+          35.1507985
+        ],
+        [
+          -80.9481132,
+          35.150789
+        ],
+        [
+          -80.9481078,
+          35.1507802
+        ],
+        [
+          -80.9481008,
+          35.1507722
+        ],
+        [
+          -80.9480924,
+          35.1507651
+        ],
+        [
+          -80.9480827,
+          35.1507593
+        ],
+        [
+          -80.9480719,
+          35.1507547
+        ],
+        [
+          -80.9480605,
+          35.1507516
+        ],
+        [
+          -80.9480486,
+          35.15075
+        ],
+        [
+          -80.9480365,
+          35.1507499
+        ],
+        [
+          -80.9480246,
+          35.1507513
+        ],
+        [
+          -80.9480131,
+          35.1507543
+        ],
+        [
+          -80.9480023,
+          35.1507587
+        ],
+        [
+          -80.9479925,
+          35.1507644
+        ],
+        [
+          -80.9479839,
+          35.1507713
+        ],
+        [
+          -80.9479767,
+          35.1507793
+        ],
+        [
+          -80.9479711,
+          35.150788
+        ],
+        [
+          -80.9479673,
+          35.1507974
+        ],
+        [
+          -80.9479653,
+          35.1508071
+        ],
+        [
+          -80.9479652,
+          35.150817
+        ],
+        [
+          -80.947967,
+          35.1508267
+        ],
+        [
+          -80.9479706,
+          35.1508362
+        ],
+        [
+          -80.947976,
+          35.150845
+        ],
+        [
+          -80.947983,
+          35.150853
+        ],
+        [
+          -80.9479914,
+          35.1508601
+        ],
+        [
+          -80.9480011,
+          35.1508659
+        ],
+        [
+          -80.9480119,
+          35.1508705
+        ],
+        [
+          -80.9480233,
+          35.1508736
+        ],
+        [
+          -80.9480352,
+          35.1508752
+        ],
+        [
+          -80.9480473,
+          35.1508753
+        ],
+        [
+          -80.9480592,
+          35.1508739
+        ],
+        [
+          -80.9480707,
+          35.1508709
+        ],
+        [
+          -80.9480815,
+          35.1508665
+        ],
+        [
+          -80.9480913,
+          35.1508608
+        ],
+        [
+          -80.9480999,
+          35.1508539
+        ],
+        [
+          -80.9481071,
+          35.1508459
+        ],
+        [
+          -80.9481127,
+          35.1508372
+        ],
+        [
+          -80.9481165,
+          35.1508278
+        ],
+        [
+          -80.9481185,
+          35.1508181
+        ],
+        [
+          -80.9481186,
+          35.1508082
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "node",
+    "id": 4880354210,
+    "version": 5,
+    "timestamp": "2023-10-27T17:17:50Z",
+    "url": "https://www.openstreetmap.org/node/4880354210"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q28455368",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/metalmorphosis.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Metalmorphosis, David Černý's mirrored head at Whitehall Corporate Center, Charlotte — procedural, CC0-1.0.",
+    "Map frame: x east, y north, z up, metres. The origin is the head's vertical axis on the ground (OSM node 4880354210, amenity=fountain), and the face looks along +y; the catalog's bearing (41°) turns it north-east, away from Whitehall Corporate Center IV, which is how the photos taken from the plaza with the building behind the head see the face.",
+    "The real sculpture (2007) is about 7.6 m (25 ft) of polished stainless steel in a reflecting pool: a head on a neck, cut into horizontal slabs that motors spin apart and bring back into a face. Frame 0 is the face pose. Each slab is its own glTF node (`slab-01` at the bottom to `slab-40` at the crown), authored about the shared vertical axis through the origin with no node transform, and one 60 s animation turns them (see the bottom).",
+    "Each slab is a flat prism whose outline is the head's horizontal section at that height (skull, cheeks, the nose, lips and brow standing proud, the eye sockets set back) with its top edge chamfered so every slice shows as a bright line, the way the polished slabs do.",
+    "Evidence (rework, 2026-10):",
+    "Photos: Flickr nan palmero 29980303791, 29980311451, 30063403805, 29980300871 (CC BY 2.0); louisepython 17809476624 (CC BY 2.0). Profile, three-quarter and front views.",
+    "Published: 7.6 m tall, about 13 t, 40-odd layers (Wikipedia, artist).",
+    "USGS NAIP (public domain): the pool is round, about 14 m across, centred on the head within a metre.",
+    "Measured from the profile photo (estimated, ±10%): the head is about 1.7 times as deep as the neck, its back overhanging the neck by about 1.2 m, the chin at 3.0 m above the sculpture's base; the head is 4.7 m wide. The earlier model had a head barely deeper than its neck; it was widened and deepened to these proportions.",
+    "Estimated from photos: the basin's polished black granite wall stands 0.9 m above the paving, the water at 0.75 m; the sculpture's stepped base rises from the water. The pool is modelled because it is raised and OSM maps no water there; its water is a flat cap just under the coping.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"metalmorphosis\", model \"metalmorphosis\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/metalmorphosis.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

@@ -1,0 +1,188 @@
+{
+  "id": "freedom-park-bandshell",
+  "name": "Freedom Park Bandshell",
+  "anchor": [
+    -80.8446895,
+    35.1900072
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 56176,
+      "sha256": "af5284e6fdf089deda0db6163c3acf69c246c685df8ebf9a7f56ea8f0a9cd44f"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 56176,
+      "sha256": "af5284e6fdf089deda0db6163c3acf69c246c685df8ebf9a7f56ea8f0a9cd44f"
+    }
+  },
+  "triangles": 1507,
+  "boundsBlenderM": [
+    [
+      -8.166,
+      -12.072,
+      0
+    ],
+    [
+      12.442,
+      7.895,
+      6.45
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.8447429,
+          35.1900615
+        ],
+        [
+          -80.8447138,
+          35.1900754
+        ],
+        [
+          -80.8446758,
+          35.1900873
+        ],
+        [
+          -80.8446379,
+          35.1900854
+        ],
+        [
+          -80.8446098,
+          35.1900759
+        ],
+        [
+          -80.8445988,
+          35.1900687
+        ],
+        [
+          -80.8445941,
+          35.1900477
+        ],
+        [
+          -80.8445947,
+          35.1900124
+        ],
+        [
+          -80.8445935,
+          35.1899928
+        ],
+        [
+          -80.8446017,
+          35.1899757
+        ],
+        [
+          -80.8446157,
+          35.1899599
+        ],
+        [
+          -80.8446437,
+          35.1899423
+        ],
+        [
+          -80.8446633,
+          35.1899384
+        ],
+        [
+          -80.8446892,
+          35.189937
+        ],
+        [
+          -80.8447117,
+          35.1899373
+        ],
+        [
+          -80.8447313,
+          35.1899342
+        ],
+        [
+          -80.8447447,
+          35.1899323
+        ],
+        [
+          -80.8447558,
+          35.1899337
+        ],
+        [
+          -80.8447721,
+          35.1899408
+        ],
+        [
+          -80.8447879,
+          35.1899532
+        ],
+        [
+          -80.8447931,
+          35.1899661
+        ],
+        [
+          -80.8447931,
+          35.18999
+        ],
+        [
+          -80.8447879,
+          35.1900153
+        ],
+        [
+          -80.8447686,
+          35.1900386
+        ],
+        [
+          -80.8447429,
+          35.1900615
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 921811959,
+    "version": 4,
+    "timestamp": "2025-09-18T17:20:51Z",
+    "url": "https://www.openstreetmap.org/way/921811959"
+  },
+  "additionalOsm": [],
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/freedom-park-bandshell.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Freedom Park Bandshell, Charlotte — procedural, CC0-1.0. bun generators/freedom-park-bandshell.ts",
+    "Map frame: x across the stage, y towards the audience, z up, metres. Placed at bearing 320°: the shell opens north-west across the moat to the grass amphitheatre (way/1185804824). The anchor is the centroid of the OSM outline (way/921811959), 21.4 m across and 16 m deep in this frame. The roof follows the lidar rather than OSM's smooth oval, which sits about 2 m forward of the real shell.",
+    "A thin white concrete shell vault on an island in the lake. It runs front to back, a rounded trapezoid in plan that narrows towards the audience. The front edge sweeps up into a broad arch (6.4 m at the crest) and kicks out into upturned gull-wing tips at both front corners; the back edge is plainer. Three curved concrete ribs carry it: each has two legs that rise from the ground and flare out into the wings, with an arch springing between them, and the side bays between the front two ribs are X-braced. Behind the stage stands a pale acoustic wall with a curved top, and the stage is a deck on a stacked-stone base whose front bows out towards the audience.",
+    "Shell 0.3 m thick, arches springing at 3.4 m, stage 1.1 m (photos). The island is flat, so y = 0 is its ground. The water and the island's walls are the map's.",
+    "2026 rework. The vault, its three ribs and X-braces, the arched front edge, the back wall and the bowed stage are kept. Two massing fixes, both from the Mecklenburg County lidar (USGS 3DEP NC Phase 4, flown 2016, 0.5 m DSM sampled in this frame; the island lawn reads 1.6 m above the moat):",
+    "Plan: the roof is widest at the BACK (half-width ~10 m at y = -2 to -6) and narrows to ~7 m at the front (y = +4), from y = -9.6 at the back to +6.4 at the front arch. The old model had it the other way round, widening towards the audience; the USGS NAIP orthophoto shows the same wide-backed plan, and the Mecklenburg County photo (below) shows the roof running further out on the side beyond the front arch.",
+    "Heights: the crest is level front to back at 6.4 m over the island (the old one rose from 5.6 to 7.3 m towards the front), and the sides fall to about 4.4 m at the back corners and 4.9 m at the front ones. The upturned front tips are kept, a little smaller (0.8 m against 1.0 m): the Caplanides photo shows the front edge flaring up at its ends, which the 0.5 m lidar is too coarse to resolve. The back wall and stage move back with the shell (1.6 m). Colour: the roof top is near-white (the brightest surface in NAIP).",
+    "Photos: \"Freedom Park Pavilion, Charlotte, NC\", Leo Caplanides, Mecklenburg County (Wikimedia Commons, CC BY-SA 3.0), a small front three-quarter view; look-only, not licensed for reuse here: zzazazz on Flickr (CC BY-NC 2.0), \"Freedom Park Summer Panorama\" and \"Another Freedom Park Panorama\", which show it across the moat. No licensed close daylight photo exists on Commons, Openverse or Mapillary.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"freedom-park-bandshell\", model \"freedom-park-bandshell\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/freedom-park-bandshell.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

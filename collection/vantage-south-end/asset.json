@@ -1,0 +1,141 @@
+{
+  "id": "vantage-south-end",
+  "name": "Vantage South End",
+  "anchor": [
+    -80.8535481,
+    35.2196437
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 94600,
+      "sha256": "9c40d3539509acaf964236037ba07fcb82fe178a8fa797c8bc09f26a5198cfea"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 94600,
+      "sha256": "9c40d3539509acaf964236037ba07fcb82fe178a8fa797c8bc09f26a5198cfea"
+    }
+  },
+  "triangles": 1682,
+  "boundsBlenderM": [
+    [
+      -62.509,
+      -63.468,
+      0
+    ],
+    [
+      62.217,
+      72.822,
+      55.7
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.8542354,
+          35.2196805
+        ],
+        [
+          -80.8537678,
+          35.2201148
+        ],
+        [
+          -80.853569,
+          35.2202995
+        ],
+        [
+          -80.8534093,
+          35.220135
+        ],
+        [
+          -80.8537377,
+          35.2195838
+        ],
+        [
+          -80.8537467,
+          35.2195687
+        ],
+        [
+          -80.8537679,
+          35.2195489
+        ],
+        [
+          -80.8537895,
+          35.2195289
+        ],
+        [
+          -80.8538785,
+          35.2194461
+        ],
+        [
+          -80.8538898,
+          35.2194356
+        ],
+        [
+          -80.8542354,
+          35.2196805
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 1059944465,
+    "version": 3,
+    "timestamp": "2024-05-21T18:34:27Z",
+    "url": "https://www.openstreetmap.org/way/1059944465"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 1059944467,
+      "version": 3,
+      "timestamp": "2024-05-21T18:34:27Z",
+      "url": "https://www.openstreetmap.org/way/1059944467"
+    }
+  ],
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/clt-vantage-south-end.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Vantage South End, 1100 S. Tryon St, South End, Charlotte: two 11-storey office towers either side of a landscaped courtyard on Carson Blvd (Vision Ventures / Childress Klein, completed 2021) — procedural, CC0-1.0. bun generators/clt-vantage-south-end.ts",
+    "The two towers are different designs, so one model draws both: - West Tower (Winnifred St side; LendingTree, signs on the crown): a long wedge of pale reflective glass, its glass box cantilevered over a colonnade of round columns at the Carson Blvd end (Sixty Vines below), on a charcoal-brick base; its south third, toward the parking deck, is a grey precast grid with punched windows. - East Tower (S. Tryon St side; The Hartford, Alston & Bird, Grant Thornton): the same height and glass, with the courtyard face broken by a stack of angled, recessed balconies (the \"sawtooth\" seen from Carson), on a one-storey charcoal-brick base. The plan reads as two mirrored wedges opening the courtyard toward Carson.",
+    "Evidence: - OSM: way/1059944465 (West Tower, height 51, 11 levels), way/1059944467 (East Tower, height 51, 11 levels). No building:parts. The parking deck way/875274994 (across Vantage Park Dr) is not drawn and not replaced. - USGS NAIP (public domain) for the plan, the white roofs, the mechanical screens on each roof and the stepped courtyard face of the East Tower. - Lidar, USGS 3DEP NC Phase 4 Mecklenburg 2016 (1 m): flown before the towers were built, so used for the ground only. Ground under the footprints rises ~1.4 m from the West Tower's Winnifred face (y = 0) to the East Tower. - Photos (Wikimedia Commons, City Dweller 2, CC BY-SA 4.0, May 2024): https://commons.wikimedia.org/wiki/File:Vantage_South_End_viewed_from_the_Crown_of_the_Queen_City_Mid-May_2024.jpg (both towers from the north-east) https://commons.wikimedia.org/wiki/File:Vantage_South_End_from_The_Roman_Catholic_Diocese_Pastoral_Center_Mid-May_2024.jpg (West Tower from the north-west) https://commons.wikimedia.org/wiki/File:Vantage_South_End_along_Winnifred_Early_May_2024.jpg (West Tower, north corner, colonnade) https://commons.wikimedia.org/wiki/File:Vantage_South_End_along_South_Church_St_Mid-May_2024.jpg (West Tower from the west) https://commons.wikimedia.org/wiki/File:Vantage_South_End_Courtyard_on_West_Carson_Early_May_2024.jpg (courtyard: both towers' Carson ends, the sawtooth) https://commons.wikimedia.org/wiki/File:Vantage_South_End_sculptures_Mid-May_2024.jpg (East Tower courtyard face, brick base) https://commons.wikimedia.org/wiki/File:Vantage_South_End_along_West_Carson_Blvd_Mid-May_2024.jpg (West Tower cantilever and columns) https://commons.wikimedia.org/wiki/File:Vantage_South_End_from_South_Tryon_St_near_West_Morehead_St_Mid-May_2024.jpg (East Tower from up Tryon)",
+    "Heights: roofs 51 m above each tower's own ground (OSM height; consistent with 11 storeys in the photos: a ~6 m ground floor, ~4.2 m offices, a parapet). Estimated from the photos: the West Tower's glass box starting at 10.5 m and its colonnade 9 m deep, the East Tower's brick base (6.5 m), the balcony notches (position and size), the mechanical screens (4 m tall, plan from NAIP), mullion spacing. The towers' published height was not found.",
+    "Doubts: no photo of the Tryon (south-east) face of the East Tower or of the Vantage Park Dr ends; they are drawn like the other glass faces. The crown signs are not modelled.",
+    "Model frame: bearing 41 (model +y runs north-east along Winnifred St and S. Tryon St; +x is south-east, toward Tryon); metres above the base. Anchor: area centroid of the two towers.",
+    "Exports the curtain-wall helpers used by clt-dfa-building and clt-110-east.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"clt-vantage-south-end\", model \"clt-vantage-south-end\"), generated by https://github.com/alexwohlbruck/landmarks/blob/a1974bbf738c6994edbe99a7a61818b9d69da9e0/generators/clt-vantage-south-end.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 287 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the clt-vantage-south-end-glazing finish in the window colour.",
+    "To fit six materials, folded clt-vantage-south-end-vantage-mullion into clt-vantage-south-end-vantage-roof (ΔE 3.2)."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

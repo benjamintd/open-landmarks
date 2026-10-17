@@ -1,0 +1,322 @@
+{
+  "id": "201-camp-road",
+  "name": "201 Camp Road",
+  "anchor": [
+    -80.8323195,
+    35.2463603
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 55824,
+      "sha256": "9e27977e21970c5b6d23492dc74b400216a4bb6bfc2ab4a7313dbc19ff4fa696"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 55824,
+      "sha256": "9e27977e21970c5b6d23492dc74b400216a4bb6bfc2ab4a7313dbc19ff4fa696"
+    }
+  },
+  "triangles": 928,
+  "boundsBlenderM": [
+    [
+      -81.679,
+      -91.972,
+      0
+    ],
+    [
+      83.333,
+      88.613,
+      12.6
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.8327158,
+          35.24554
+        ],
+        [
+          -80.832751,
+          35.2455635
+        ],
+        [
+          -80.8331201,
+          35.2458121
+        ],
+        [
+          -80.8331279,
+          35.2458166
+        ],
+        [
+          -80.8331987,
+          35.2458639
+        ],
+        [
+          -80.8332163,
+          35.2458754
+        ],
+        [
+          -80.8331353,
+          35.2459579
+        ],
+        [
+          -80.8328317,
+          35.2462683
+        ],
+        [
+          -80.8328675,
+          35.2462892
+        ],
+        [
+          -80.8328271,
+          35.2463299
+        ],
+        [
+          -80.8326345,
+          35.2465236
+        ],
+        [
+          -80.8325988,
+          35.2464982
+        ],
+        [
+          -80.8325253,
+          35.2465699
+        ],
+        [
+          -80.8322977,
+          35.2468017
+        ],
+        [
+          -80.8322897,
+          35.2468091
+        ],
+        [
+          -80.8321996,
+          35.2468933
+        ],
+        [
+          -80.8321948,
+          35.2468978
+        ],
+        [
+          -80.8321099,
+          35.2469835
+        ],
+        [
+          -80.8320821,
+          35.2470116
+        ],
+        [
+          -80.8320156,
+          35.2470788
+        ],
+        [
+          -80.8319346,
+          35.2471606
+        ],
+        [
+          -80.8317775,
+          35.2470519
+        ],
+        [
+          -80.8317455,
+          35.2470848
+        ],
+        [
+          -80.831664,
+          35.2470311
+        ],
+        [
+          -80.8316135,
+          35.2469977
+        ],
+        [
+          -80.8314207,
+          35.2468647
+        ],
+        [
+          -80.8314147,
+          35.2468598
+        ],
+        [
+          -80.8314045,
+          35.2468527
+        ],
+        [
+          -80.8327158,
+          35.24554
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 324608496,
+    "version": 20,
+    "timestamp": "2024-11-01T04:24:53Z",
+    "url": "https://www.openstreetmap.org/way/324608496"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 835808918,
+      "version": 4,
+      "timestamp": "2024-10-31T03:06:16Z",
+      "url": "https://www.openstreetmap.org/way/835808918"
+    },
+    {
+      "type": "way",
+      "id": 835808919,
+      "version": 1,
+      "timestamp": "2020-08-10T15:03:22Z",
+      "url": "https://www.openstreetmap.org/way/835808919"
+    },
+    {
+      "type": "way",
+      "id": 835808920,
+      "version": 2,
+      "timestamp": "2022-10-30T16:29:10Z",
+      "url": "https://www.openstreetmap.org/way/835808920"
+    },
+    {
+      "type": "way",
+      "id": 835808921,
+      "version": 9,
+      "timestamp": "2024-11-01T04:24:53Z",
+      "url": "https://www.openstreetmap.org/way/835808921"
+    },
+    {
+      "type": "way",
+      "id": 835808922,
+      "version": 3,
+      "timestamp": "2022-10-30T16:29:10Z",
+      "url": "https://www.openstreetmap.org/way/835808922"
+    },
+    {
+      "type": "way",
+      "id": 835808923,
+      "version": 2,
+      "timestamp": "2022-01-03T22:40:59Z",
+      "url": "https://www.openstreetmap.org/way/835808923"
+    },
+    {
+      "type": "way",
+      "id": 835808924,
+      "version": 1,
+      "timestamp": "2020-08-10T15:03:22Z",
+      "url": "https://www.openstreetmap.org/way/835808924"
+    },
+    {
+      "type": "way",
+      "id": 835808925,
+      "version": 1,
+      "timestamp": "2020-08-10T15:03:22Z",
+      "url": "https://www.openstreetmap.org/way/835808925"
+    },
+    {
+      "type": "way",
+      "id": 835808926,
+      "version": 2,
+      "timestamp": "2022-01-03T22:40:59Z",
+      "url": "https://www.openstreetmap.org/way/835808926"
+    },
+    {
+      "type": "way",
+      "id": 835808927,
+      "version": 2,
+      "timestamp": "2022-10-30T16:29:10Z",
+      "url": "https://www.openstreetmap.org/way/835808927"
+    },
+    {
+      "type": "way",
+      "id": 835808928,
+      "version": 1,
+      "timestamp": "2020-08-10T15:03:22Z",
+      "url": "https://www.openstreetmap.org/way/835808928"
+    },
+    {
+      "type": "way",
+      "id": 835808929,
+      "version": 3,
+      "timestamp": "2022-10-30T16:29:10Z",
+      "url": "https://www.openstreetmap.org/way/835808929"
+    },
+    {
+      "type": "way",
+      "id": 835808930,
+      "version": 2,
+      "timestamp": "2020-08-10T17:34:18Z",
+      "url": "https://www.openstreetmap.org/way/835808930"
+    },
+    {
+      "type": "way",
+      "id": 835808931,
+      "version": 2,
+      "timestamp": "2024-11-01T04:24:53Z",
+      "url": "https://www.openstreetmap.org/way/835808931"
+    },
+    {
+      "type": "way",
+      "id": 835808932,
+      "version": 3,
+      "timestamp": "2024-11-01T04:24:53Z",
+      "url": "https://www.openstreetmap.org/way/835808932"
+    },
+    {
+      "type": "way",
+      "id": 835844005,
+      "version": 3,
+      "timestamp": "2024-11-01T04:24:53Z",
+      "url": "https://www.openstreetmap.org/way/835844005"
+    },
+    {
+      "type": "way",
+      "id": 1108286803,
+      "version": 1,
+      "timestamp": "2022-10-30T16:29:10Z",
+      "url": "https://www.openstreetmap.org/way/1108286803"
+    }
+  ],
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/clt-cne-201-camp-road.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Camp North End: 201 Camp Road — procedural, CC0-1.0. bun generators/clt-cne-201-camp-road.ts",
+    "The north-east half of the Army Quartermaster Corps' Building No. 5 (1941–43), the longest of the depot's south warehouses (1,200 ft and ten monitors when whole, as the 2016 lidar still shows it); its middle bay is `clt-cne-701-keswick` and its south-west end was taken down for Kinship East and the parking garage. Renovated as offices in 2021. A one-storey red-brick box 55 × 184 m, taller than its neighbours (9.8 m to the deck), five corrugated-metal clerestory monitors across its width at 36.6 m spacing, low brick annexes and a canopy in the recesses of its north-west side, a loading platform under a canopy along the railway on the south-east.",
+    "Identity: the long red brick box with five evenly spaced monitors across its white roof, the tallest of the south warehouses.",
+    "Evidence: - OSM: the outline way/324608496 and its 17 parts: monitors way/835808920, 835808923, 835808925, 835808928, 835808931 (height 10.4); main roof 835808919, 835808922, 835808924, 835808927, 835808930, 835808932 (8.2); the west bump 835808926 (7.5); annexes and canopy 835808918, 835808929, 835844005, 1108286803 (5.2); the railway platform 835808921 (1). - Lidar, USGS 3DEP NC Phase 4 Mecklenburg 2016, 1 m (measured, NAVD88): ground 227.5–228.6, mostly 228.1 (y = 0 is 227.5, at the north-east end); deck 237.3 (9.8 m); monitors 240.1 (12.6 m), each 14 m wide; annexes, canopy and the railway canopy 234.0 (6.5 m); the bump 235.1 (7.6 m). OSM's heights are each about 1.5 m low; the lidar is followed. - C-M Historic Landmarks Commission survey report (2017, landmarkscommission.org/wp-content/uploads/2017/06/Ford-Motor-Co-Plant-SR.pdf), Buildings Nos. 4–6 (published): brick in common bond, 180 ft wide, corrugated-metal clerestory monitors across the width, \"ten monitors on building No. 5\", which \"sprawls back 1200 feet\". - Mecklenburg County tax parcel 07903C99 (CAMP 201 PROPERTY OWNER LP): built 1943, face brick. Camp North End leasing brochure (2021, camp.nc): \"201 Camp Road\", 115,000 sq ft, Phase 2. - USGS NAIP orthophoto (public domain): the white roofs, rust-streaked, the dark annex roofs and canopies on the north-west side.",
+    "No licensed photo of this building was found (Commons, Openverse and Mapillary have nothing inside the campus). So: - the brick, the monitors' cladding and glazing and the plinth are taken from its siblings, 301 Camp Road (Commons photos) and 1720 Statesville Avenue (Mapillary) — estimated; - the windows are invented: two tiers on the north-west and north-east faces, as on 701 Keswick's end wall (the one partial photo of Building No. 5, in File:Free_Range_Brewing_Camp_North_End_in_the_301_Camp_building_Early_June_2025.jpg, City Dweller 2, CC BY-SA 4.0), loading doors along the railway; - the annexes' walls are drawn in the same brick.",
+    "Frame and kit: `clt-cne-301-camp-road.ts`. y along the long axis (bearing 39.34°), placement bearing 39.34; origin at the outline's centroid, lng −80.8323195, lat 35.2463603.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"clt-cne-201-camp-road\", model \"clt-cne-201-camp-road\"), generated by https://github.com/alexwohlbruck/landmarks/blob/a1974bbf738c6994edbe99a7a61818b9d69da9e0/generators/clt-cne-201-camp-road.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

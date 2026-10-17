@@ -1,0 +1,600 @@
+{
+  "id": "clt-daily-deck-east",
+  "name": "CLT Daily Deck East",
+  "anchor": [
+    -80.9435933,
+    35.2249778
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 91056,
+      "sha256": "4cd614a682bb7c4a48f212c22660e06e4a9d5d4fe5e79101aeb9cbe4e3052f1a"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 91056,
+      "sha256": "4cd614a682bb7c4a48f212c22660e06e4a9d5d4fe5e79101aeb9cbe4e3052f1a"
+    }
+  },
+  "triangles": 2020,
+  "boundsBlenderM": [
+    [
+      -62.206,
+      -87.895,
+      0
+    ],
+    [
+      65.461,
+      84.279,
+      16.5
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.9442418,
+          35.2249943
+        ],
+        [
+          -80.9442056,
+          35.2245601
+        ],
+        [
+          -80.9442281,
+          35.2245588
+        ],
+        [
+          -80.9442223,
+          35.2244932
+        ],
+        [
+          -80.944221,
+          35.2244736
+        ],
+        [
+          -80.9442198,
+          35.2244566
+        ],
+        [
+          -80.9442168,
+          35.2244234
+        ],
+        [
+          -80.9441379,
+          35.2244278
+        ],
+        [
+          -80.9441439,
+          35.2245
+        ],
+        [
+          -80.9437542,
+          35.2245216
+        ],
+        [
+          -80.9437473,
+          35.2244381
+        ],
+        [
+          -80.9437742,
+          35.224437
+        ],
+        [
+          -80.9438083,
+          35.2244436
+        ],
+        [
+          -80.9438402,
+          35.2244586
+        ],
+        [
+          -80.9438649,
+          35.2244754
+        ],
+        [
+          -80.9438931,
+          35.224488
+        ],
+        [
+          -80.9439238,
+          35.2244958
+        ],
+        [
+          -80.9439557,
+          35.2244988
+        ],
+        [
+          -80.9439877,
+          35.2244966
+        ],
+        [
+          -80.9440186,
+          35.2244894
+        ],
+        [
+          -80.9440472,
+          35.2244774
+        ],
+        [
+          -80.9440725,
+          35.2244612
+        ],
+        [
+          -80.9440934,
+          35.2244412
+        ],
+        [
+          -80.9441092,
+          35.2244184
+        ],
+        [
+          -80.9441193,
+          35.2243935
+        ],
+        [
+          -80.9441233,
+          35.2243675
+        ],
+        [
+          -80.9441211,
+          35.2243413
+        ],
+        [
+          -80.9441128,
+          35.2243159
+        ],
+        [
+          -80.9440985,
+          35.2242924
+        ],
+        [
+          -80.944079,
+          35.2242716
+        ],
+        [
+          -80.9440549,
+          35.2242542
+        ],
+        [
+          -80.9440272,
+          35.2242409
+        ],
+        [
+          -80.9439969,
+          35.2242323
+        ],
+        [
+          -80.9439651,
+          35.2242286
+        ],
+        [
+          -80.943933,
+          35.22423
+        ],
+        [
+          -80.9439018,
+          35.2242365
+        ],
+        [
+          -80.9438728,
+          35.2242477
+        ],
+        [
+          -80.943847,
+          35.2242633
+        ],
+        [
+          -80.9438253,
+          35.2242828
+        ],
+        [
+          -80.9438088,
+          35.2243052
+        ],
+        [
+          -80.9437847,
+          35.2243218
+        ],
+        [
+          -80.9437642,
+          35.2243303
+        ],
+        [
+          -80.9437438,
+          35.2243352
+        ],
+        [
+          -80.943732,
+          35.2241832
+        ],
+        [
+          -80.9433377,
+          35.2242037
+        ],
+        [
+          -80.9432924,
+          35.2242061
+        ],
+        [
+          -80.9432469,
+          35.2242085
+        ],
+        [
+          -80.9430101,
+          35.2242208
+        ],
+        [
+          -80.9429887,
+          35.2242219
+        ],
+        [
+          -80.9429654,
+          35.2242232
+        ],
+        [
+          -80.9429248,
+          35.2242253
+        ],
+        [
+          -80.9429277,
+          35.2242622
+        ],
+        [
+          -80.9428901,
+          35.2242641
+        ],
+        [
+          -80.9428943,
+          35.2243183
+        ],
+        [
+          -80.9428744,
+          35.2243193
+        ],
+        [
+          -80.94289,
+          35.2245191
+        ],
+        [
+          -80.9428914,
+          35.2245368
+        ],
+        [
+          -80.9428933,
+          35.224561
+        ],
+        [
+          -80.9429219,
+          35.2249268
+        ],
+        [
+          -80.9429749,
+          35.224924
+        ],
+        [
+          -80.9429768,
+          35.224949
+        ],
+        [
+          -80.9429253,
+          35.2249517
+        ],
+        [
+          -80.9429302,
+          35.2250152
+        ],
+        [
+          -80.9429803,
+          35.2250126
+        ],
+        [
+          -80.9429818,
+          35.2250314
+        ],
+        [
+          -80.9429321,
+          35.225034
+        ],
+        [
+          -80.9429795,
+          35.2256406
+        ],
+        [
+          -80.9429904,
+          35.22564
+        ],
+        [
+          -80.9429953,
+          35.2257029
+        ],
+        [
+          -80.9430409,
+          35.2257005
+        ],
+        [
+          -80.9430434,
+          35.2257323
+        ],
+        [
+          -80.9430872,
+          35.22573
+        ],
+        [
+          -80.9431157,
+          35.2257285
+        ],
+        [
+          -80.94314,
+          35.2257272
+        ],
+        [
+          -80.943789,
+          35.2256934
+        ],
+        [
+          -80.9438128,
+          35.2256921
+        ],
+        [
+          -80.9438384,
+          35.2256908
+        ],
+        [
+          -80.943862,
+          35.2256895
+        ],
+        [
+          -80.9438591,
+          35.2256515
+        ],
+        [
+          -80.9438844,
+          35.2256509
+        ],
+        [
+          -80.9439109,
+          35.2256566
+        ],
+        [
+          -80.9439292,
+          35.2256835
+        ],
+        [
+          -80.9439499,
+          35.2257036
+        ],
+        [
+          -80.943975,
+          35.22572
+        ],
+        [
+          -80.9440035,
+          35.2257322
+        ],
+        [
+          -80.9440343,
+          35.2257396
+        ],
+        [
+          -80.9440663,
+          35.2257421
+        ],
+        [
+          -80.9440982,
+          35.2257394
+        ],
+        [
+          -80.944129,
+          35.2257317
+        ],
+        [
+          -80.9441573,
+          35.2257194
+        ],
+        [
+          -80.9441822,
+          35.2257027
+        ],
+        [
+          -80.9442027,
+          35.2256825
+        ],
+        [
+          -80.9442179,
+          35.2256594
+        ],
+        [
+          -80.9442275,
+          35.2256344
+        ],
+        [
+          -80.944231,
+          35.2256083
+        ],
+        [
+          -80.9442282,
+          35.2255821
+        ],
+        [
+          -80.9442192,
+          35.2255569
+        ],
+        [
+          -80.9442044,
+          35.2255336
+        ],
+        [
+          -80.9441845,
+          35.225513
+        ],
+        [
+          -80.94416,
+          35.225496
+        ],
+        [
+          -80.944132,
+          35.2254832
+        ],
+        [
+          -80.9441015,
+          35.2254749
+        ],
+        [
+          -80.9440696,
+          35.2254718
+        ],
+        [
+          -80.9440375,
+          35.2254737
+        ],
+        [
+          -80.9440066,
+          35.2254806
+        ],
+        [
+          -80.9439778,
+          35.2254922
+        ],
+        [
+          -80.9439523,
+          35.2255083
+        ],
+        [
+          -80.9439312,
+          35.225528
+        ],
+        [
+          -80.9439039,
+          35.2255409
+        ],
+        [
+          -80.9438819,
+          35.2255463
+        ],
+        [
+          -80.9438484,
+          35.2255508
+        ],
+        [
+          -80.9438441,
+          35.2255148
+        ],
+        [
+          -80.9439295,
+          35.2254867
+        ],
+        [
+          -80.9440214,
+          35.2254616
+        ],
+        [
+          -80.9441037,
+          35.2254446
+        ],
+        [
+          -80.9441944,
+          35.22543
+        ],
+        [
+          -80.9441961,
+          35.2254507
+        ],
+        [
+          -80.9442687,
+          35.2254467
+        ],
+        [
+          -80.9442656,
+          35.2254093
+        ],
+        [
+          -80.9442778,
+          35.2254087
+        ],
+        [
+          -80.9442769,
+          35.2253973
+        ],
+        [
+          -80.9442757,
+          35.225383
+        ],
+        [
+          -80.9442682,
+          35.2252938
+        ],
+        [
+          -80.9442569,
+          35.225158
+        ],
+        [
+          -80.9442669,
+          35.2251574
+        ],
+        [
+          -80.9442569,
+          35.2250367
+        ],
+        [
+          -80.9442453,
+          35.2250373
+        ],
+        [
+          -80.9442448,
+          35.2250312
+        ],
+        [
+          -80.9442418,
+          35.2249943
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "relation",
+    "id": 5936265,
+    "version": 1,
+    "timestamp": "2016-02-01T16:59:26Z",
+    "url": "https://www.openstreetmap.org/relation/5936265"
+  },
+  "additionalOsm": [],
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/clt-daily-deck-east.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Charlotte Douglas International Airport (CLT): Daily Deck East — procedural, CC0-1.0.",
+    "One of the pair of daily parking decks north of the Hourly Deck (relation/5936265, 3,000 spaces), a plain open deck: open floors at 3.4 m behind concrete spandrel bands, a pale roof deck, and two helix ramps whose open wells OSM maps as holes. Unlike the Hourly Deck it has no metal shell.",
+    "OSM records no height for either daily deck. The roof deck is at 13.5 m (four levels and the roof, at 3.4 m), and the helices are solid concrete drums whose top turn stands a parapet above it, both checked against Mapbox's 3D buildings (tileset mapbox.mapbox-3dbuildings-v1), used only as a visual reference; the geometry is OSM's outline and our own modelling.",
+    "Site frame and helpers: see clt-terminal.ts; colours match clt-hourly-deck.ts.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"clt-daily-deck-east\", model \"clt-daily-deck-east\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/clt-daily-deck-east.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

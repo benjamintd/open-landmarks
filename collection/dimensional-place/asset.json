@@ -1,0 +1,255 @@
+{
+  "id": "dimensional-place",
+  "name": "Dimensional Place",
+  "anchor": [
+    -80.8570754,
+    35.2153495
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 88356,
+      "sha256": "7f3af0c8887d6f8c8f28d7ef957801be04295012acdeade34eba36a5757f7743"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 88356,
+      "sha256": "7f3af0c8887d6f8c8f28d7ef957801be04295012acdeade34eba36a5757f7743"
+    }
+  },
+  "triangles": 1650,
+  "boundsBlenderM": [
+    [
+      -70.449,
+      -56.384,
+      0
+    ],
+    [
+      63.568,
+      52.904,
+      50.548
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.8567838,
+          35.215744
+        ],
+        [
+          -80.8565962,
+          35.2157896
+        ],
+        [
+          -80.8563952,
+          35.2158246
+        ],
+        [
+          -80.8563766,
+          35.2158279
+        ],
+        [
+          -80.8563837,
+          35.2157291
+        ],
+        [
+          -80.8564088,
+          35.2156312
+        ],
+        [
+          -80.8564375,
+          35.2156287
+        ],
+        [
+          -80.8564166,
+          35.215559
+        ],
+        [
+          -80.8565202,
+          35.2154989
+        ],
+        [
+          -80.8565663,
+          35.2154742
+        ],
+        [
+          -80.8566831,
+          35.2154152
+        ],
+        [
+          -80.8566149,
+          35.2152902
+        ],
+        [
+          -80.8568685,
+          35.2150115
+        ],
+        [
+          -80.8568826,
+          35.2150212
+        ],
+        [
+          -80.8569172,
+          35.2149786
+        ],
+        [
+          -80.8569036,
+          35.2149691
+        ],
+        [
+          -80.8570214,
+          35.2148397
+        ],
+        [
+          -80.8570936,
+          35.2148732
+        ],
+        [
+          -80.8570856,
+          35.2148881
+        ],
+        [
+          -80.8578489,
+          35.2152411
+        ],
+        [
+          -80.8578964,
+          35.215263
+        ],
+        [
+          -80.8578158,
+          35.215382
+        ],
+        [
+          -80.8577297,
+          35.2154133
+        ],
+        [
+          -80.8572047,
+          35.2156042
+        ],
+        [
+          -80.8571834,
+          35.2155915
+        ],
+        [
+          -80.8570638,
+          35.2156471
+        ],
+        [
+          -80.856928,
+          35.2156985
+        ],
+        [
+          -80.8567838,
+          35.215744
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 544817787,
+    "version": 8,
+    "timestamp": "2026-10-16T20:03:06Z",
+    "url": "https://www.openstreetmap.org/way/544817787"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 1205358620,
+      "version": 2,
+      "timestamp": "2024-08-07T17:25:21Z",
+      "url": "https://www.openstreetmap.org/way/1205358620"
+    },
+    {
+      "type": "way",
+      "id": 1205358621,
+      "version": 1,
+      "timestamp": "2023-09-05T23:49:12Z",
+      "url": "https://www.openstreetmap.org/way/1205358621"
+    },
+    {
+      "type": "way",
+      "id": 1205358622,
+      "version": 1,
+      "timestamp": "2023-09-05T23:49:12Z",
+      "url": "https://www.openstreetmap.org/way/1205358622"
+    },
+    {
+      "type": "way",
+      "id": 1205358623,
+      "version": 1,
+      "timestamp": "2023-09-05T23:49:12Z",
+      "url": "https://www.openstreetmap.org/way/1205358623"
+    },
+    {
+      "type": "way",
+      "id": 1205358624,
+      "version": 1,
+      "timestamp": "2023-09-05T23:49:12Z",
+      "url": "https://www.openstreetmap.org/way/1205358624"
+    },
+    {
+      "type": "way",
+      "id": 1205358625,
+      "version": 2,
+      "timestamp": "2023-09-06T00:45:18Z",
+      "url": "https://www.openstreetmap.org/way/1205358625"
+    },
+    {
+      "type": "way",
+      "id": 1205358626,
+      "version": 2,
+      "timestamp": "2023-09-06T00:45:18Z",
+      "url": "https://www.openstreetmap.org/way/1205358626"
+    },
+    {
+      "type": "way",
+      "id": 1205358627,
+      "version": 3,
+      "timestamp": "2024-08-07T17:25:21Z",
+      "url": "https://www.openstreetmap.org/way/1205358627"
+    }
+  ],
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/clt-dfa-building.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Dimensional Place (Dimensional Fund Advisors' Charlotte office), 1515 S. Tryon St, South End, Charlotte — procedural, CC0-1.0. bun generators/clt-dfa-building.ts",
+    "A nine-storey office tower over a three-storey parking podium filling the block between S. Tryon St, Camden Rd and W. Park Ave. What identifies it: - the tower's long, curved plan along Tryon, closing to a sharp prow at the Tryon / Camden / Summit corner; - dense bronze vertical fins over blue-grey glass on every face; - the main entrance under the prow: round concrete columns under a curved canopy two storeys up; - the podium of rose-brown terracotta panels with tall tan louvred bays, a copper-orange block on Camden, and a landscaped green roof.",
+    "Evidence: - OSM: way/544817787 (outline, \"Dimensional Place\", 8 levels) and its building:parts way/1205358620 (tower, glass, 43 m, 9 levels), way/1205358621 (roof structure, concrete, 43–49 m), way/1205358622 (glass pavilion on the podium, 18–23 m), way/1205358623 (podium, \"#ca9a93\", 18 m, 3 levels), way/1205358624 (curved block, 18.5 m), way/1205358625 and way/1205358626 (canopies at 6 m), way/1205358627 (canopy at 10 m). - USGS NAIP (public domain): the plan, the tower's pale roof and mechanical enclosure, the green podium roof and its paths. - Lidar, USGS 3DEP NC Phase 4 Mecklenburg 2016 (1 m): before the building, so ground only. The ground rises ~3.5 m from the Park Ave / Tryon corner (y = 0) to Camden Rd. - Photos (Wikimedia Commons, City Dweller 2, CC BY-SA 4.0, May–June 2024): https://commons.wikimedia.org/wiki/File:Dimensional_Fund_Advisors_Building_on_South_Tryon_St_Mid-May_2024.jpg (tower from Tryon: fins, prow) https://commons.wikimedia.org/wiki/File:Dimensional_Fund_Advisors_Building_along_South_Tryon_St_Mid-May_2024.jpg (the prow from the Camden / Summit corner) https://commons.wikimedia.org/wiki/File:Dimensional_Fund_Advisors_Building_along_Camden_St_Mid-May_2024.jpg (podium from Park Ave / Camden) https://commons.wikimedia.org/wiki/File:Dimensional_Fund_Advisors_Building_main_entrance_on_South_Tryon_St_Mid-May_2024.jpg (colonnade and canopy) https://commons.wikimedia.org/wiki/File:June_5,_2024,_Scooters_along_Camden_Rd_along_Dimensional_Fund_Advisors_Building.jpg (Camden shopfronts)",
+    "Heights: all OSM, above each part's own ground (tower 43, roof structure 49, podium 18, pavilion 18–23, canopies 6 and 10). Estimated from photos: the column positions under the canopy (the lobby's recess is not drawn), fin pitch (2.6 m) and depth (0.7 m), louvre bay widths, the copper colour of the curved Camden block.",
+    "Doubts: no photo of the podium's Tryon side behind the tower or the pavilion on the roof; both are drawn plainly. Colours of the bronze fins vary with light in the photos.",
+    "Model frame: bearing 30 (model +y runs north-north-east, along Camden Rd; the podium's Park Ave face runs along x); metres above the base.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"clt-dfa-building\", model \"clt-dfa-building\"), generated by https://github.com/alexwohlbruck/landmarks/blob/a1974bbf738c6994edbe99a7a61818b9d69da9e0/generators/clt-dfa-building.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

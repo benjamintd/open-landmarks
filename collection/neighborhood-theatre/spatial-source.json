@@ -1,0 +1,199 @@
+{
+  "id": "neighborhood-theatre",
+  "anchor": [
+    -80.8039422,
+    35.247493
+  ],
+  "coordinateSystem": "Local metres about the anchor (equirectangular, WGS84 radius): X east, Y north, Z up. glTF export: X east, Y up, Z south. Heading already baked.",
+  "license": "ODbL-1.0",
+  "footprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          9.582012355688777,
+          16.230381757495696
+        ],
+        [
+          20.082225136142597,
+          2.849778964389751
+        ],
+        [
+          -6.391038602246223,
+          -17.922438017552675
+        ],
+        [
+          -9.836562968955414,
+          -13.436262538362055
+        ],
+        [
+          -13.882099495138274,
+          -8.560468841587696
+        ],
+        [
+          -16.891251383991964,
+          -4.5418352244467295
+        ],
+        [
+          9.582012355688777,
+          16.230381757495696
+        ]
+      ]
+    ]
+  },
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.8038368,
+          35.2476388
+        ],
+        [
+          -80.8037213,
+          35.2475186
+        ],
+        [
+          -80.8040125,
+          35.247332
+        ],
+        [
+          -80.8040504,
+          35.2473723
+        ],
+        [
+          -80.8040949,
+          35.2474161
+        ],
+        [
+          -80.804128,
+          35.2474522
+        ],
+        [
+          -80.8038368,
+          35.2476388
+        ]
+      ]
+    ]
+  },
+  "parts": [
+    {
+      "osm": "way/967830177",
+      "tags": {
+        "addr:city": "Charlotte",
+        "addr:housenumber": "511",
+        "addr:postcode": "28205",
+        "addr:state": "NC",
+        "addr:street": "East 36th Street",
+        "amenity": "music_venue",
+        "building": "yes",
+        "check_date": "2025-07-01",
+        "name": "Neighborhood Theatre",
+        "website": "https://neighborhoodtheatre.com/",
+        "wikidata": "Q43092361"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.582012355688777,
+              16.230381757495696
+            ],
+            [
+              20.082225136142597,
+              2.849778964389751
+            ],
+            [
+              -6.391038602246223,
+              -17.922438017552675
+            ],
+            [
+              -9.836562968955414,
+              -13.436262538362055
+            ],
+            [
+              -13.882099495138274,
+              -8.560468841587696
+            ],
+            [
+              -16.891251383991964,
+              -4.5418352244467295
+            ],
+            [
+              9.582012355688777,
+              16.230381757495696
+            ]
+          ]
+        ]
+      },
+      "version": 4,
+      "timestamp": "2025-07-01T12:07:27Z"
+    },
+    {
+      "osm": "way/1411146348",
+      "tags": {
+        "building": "roof",
+        "layer": "1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -13.882099495138274,
+              -8.560468841587696
+            ],
+            [
+              -14.518476028304867,
+              -12.111560598260953
+            ],
+            [
+              -13.200267496793405,
+              -13.580977876502521
+            ],
+            [
+              -9.836562968955414,
+              -13.436262538362055
+            ],
+            [
+              -13.882099495138274,
+              -8.560468841587696
+            ]
+          ]
+        ]
+      },
+      "version": 1,
+      "timestamp": "2025-07-01T12:07:27Z"
+    }
+  ],
+  "osm": {
+    "type": "way",
+    "id": 967830177,
+    "version": 4,
+    "timestamp": "2025-07-01T12:07:27Z",
+    "url": "https://www.openstreetmap.org/way/967830177"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 1411146348,
+      "version": 1,
+      "timestamp": "2025-07-01T12:07:27Z",
+      "url": "https://www.openstreetmap.org/way/1411146348"
+    }
+  ],
+  "tags": {
+    "addr:city": "Charlotte",
+    "addr:housenumber": "511",
+    "addr:postcode": "28205",
+    "addr:state": "NC",
+    "addr:street": "East 36th Street",
+    "amenity": "music_venue",
+    "building": "yes",
+    "check_date": "2025-07-01",
+    "name": "Neighborhood Theatre",
+    "website": "https://neighborhoodtheatre.com/",
+    "wikidata": "Q43092361"
+  }
+}

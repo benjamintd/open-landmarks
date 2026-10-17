@@ -1,0 +1,214 @@
+{
+  "id": "design-center-tower",
+  "anchor": [
+    -80.8600897,
+    35.2121411
+  ],
+  "coordinateSystem": "Local metres about the anchor (equirectangular, WGS84 radius): X east, Y north, Z up. glTF export: X east, Y up, Z south. Heading already baked.",
+  "license": "ODbL-1.0",
+  "footprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          57.04418782864362,
+          -11.020629588393708
+        ],
+        [
+          40.33657095392664,
+          -39.41823168940647
+        ],
+        [
+          36.38931688580757,
+          -37.058258484694235
+        ],
+        [
+          34.01550741146865,
+          -41.165947694719556
+        ],
+        [
+          -13.769913961890705,
+          -14.204367025111088
+        ],
+        [
+          5.266037109992907,
+          18.83525784244218
+        ],
+        [
+          57.04418782864362,
+          -11.020629588393708
+        ]
+      ]
+    ]
+  },
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.8594625,
+          35.2120421
+        ],
+        [
+          -80.8596462,
+          35.211787
+        ],
+        [
+          -80.8596896,
+          35.2118082
+        ],
+        [
+          -80.8597157,
+          35.2117713
+        ],
+        [
+          -80.8602411,
+          35.2120135
+        ],
+        [
+          -80.8600318,
+          35.2123103
+        ],
+        [
+          -80.8594625,
+          35.2120421
+        ]
+      ]
+    ]
+  },
+  "parts": [
+    {
+      "osm": "way/990903147",
+      "tags": {
+        "addr:city": "Charlotte",
+        "addr:housenumber": "100",
+        "addr:state": "NC",
+        "addr:street": "West Worthington Avenue",
+        "building": "office",
+        "building:levels": "23",
+        "height": "109",
+        "name": "Design Center Tower",
+        "wikidata": "Q106726569"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              57.04418782864362,
+              -11.020629588393708
+            ],
+            [
+              40.33657095392664,
+              -39.41823168940647
+            ],
+            [
+              36.38931688580757,
+              -37.058258484694235
+            ],
+            [
+              34.01550741146865,
+              -41.165947694719556
+            ],
+            [
+              -13.769913961890705,
+              -14.204367025111088
+            ],
+            [
+              5.266037109992907,
+              18.83525784244218
+            ],
+            [
+              57.04418782864362,
+              -11.020629588393708
+            ]
+          ]
+        ]
+      },
+      "version": 4,
+      "timestamp": "2023-12-15T21:19:58Z"
+    },
+    {
+      "osm": "way/990903148",
+      "tags": {
+        "access": "private",
+        "addr:city": "Charlotte",
+        "addr:housenumber": "240",
+        "addr:state": "NC",
+        "addr:street": "Hawkins Street",
+        "amenity": "parking",
+        "building": "parking",
+        "building:levels": "6",
+        "name": "Design Center Tower Parking Garage",
+        "operator": "Preferred Parking Service",
+        "operator:type": "private",
+        "parking": "multi-storey",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -37.890001035078065,
+              43.63724039152596
+            ],
+            [
+              5.266037109992907,
+              18.83525784244218
+            ],
+            [
+              -13.769913961890705,
+              -14.204367025111088
+            ],
+            [
+              -18.563008187740824,
+              -11.610622889374024
+            ],
+            [
+              -24.238322793576817,
+              -8.337829859772286
+            ],
+            [
+              -57.13513838298818,
+              10.263657051645064
+            ],
+            [
+              -37.890001035078065,
+              43.63724039152596
+            ]
+          ]
+        ]
+      },
+      "version": 5,
+      "timestamp": "2023-08-17T15:59:06Z"
+    }
+  ],
+  "osm": {
+    "type": "way",
+    "id": 990903147,
+    "version": 4,
+    "timestamp": "2023-12-15T21:19:58Z",
+    "url": "https://www.openstreetmap.org/way/990903147"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 990903148,
+      "version": 5,
+      "timestamp": "2023-08-17T15:59:06Z",
+      "url": "https://www.openstreetmap.org/way/990903148"
+    }
+  ],
+  "tags": {
+    "addr:city": "Charlotte",
+    "addr:housenumber": "100",
+    "addr:state": "NC",
+    "addr:street": "West Worthington Avenue",
+    "building": "office",
+    "building:levels": "23",
+    "height": "109",
+    "name": "Design Center Tower",
+    "wikidata": "Q106726569"
+  }
+}

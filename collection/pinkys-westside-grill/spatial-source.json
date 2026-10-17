@@ -1,0 +1,167 @@
+{
+  "id": "pinkys-westside-grill",
+  "anchor": [
+    -80.8674184,
+    35.2291488
+  ],
+  "coordinateSystem": "Local metres about the anchor (equirectangular, WGS84 radius): X east, Y north, Z up. glTF export: X east, Y up, Z south. Heading already baked.",
+  "license": "ODbL-1.0",
+  "footprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          1.8004436439076008,
+          -13.102304066034426
+        ],
+        [
+          -7.401823867818541,
+          -11.844393820398851
+        ],
+        [
+          -4.364711862452106,
+          5.065036831752492
+        ],
+        [
+          2.3551257771813474,
+          14.248894821948753
+        ],
+        [
+          8.974938769428517,
+          10.174601458760705
+        ],
+        [
+          4.646599504968703,
+          3.4954320114171487
+        ],
+        [
+          1.8004436439076008,
+          -13.102304066034426
+        ]
+      ]
+    ]
+  },
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.8673986,
+          35.2290311
+        ],
+        [
+          -80.8674998,
+          35.2290424
+        ],
+        [
+          -80.8674664,
+          35.2291943
+        ],
+        [
+          -80.8673925,
+          35.2292768
+        ],
+        [
+          -80.8673197,
+          35.2292402
+        ],
+        [
+          -80.8673673,
+          35.2291802
+        ],
+        [
+          -80.8673986,
+          35.2290311
+        ]
+      ]
+    ]
+  },
+  "parts": [
+    {
+      "osm": "way/324418138",
+      "tags": {
+        "addr:city": "Charlotte",
+        "addr:housenumber": "1600",
+        "addr:postcode": "28208",
+        "addr:state": "NC",
+        "addr:street": "West Morehead Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "regional",
+        "delivery": "no",
+        "name": "Pinky's Westside Grill",
+        "opening_hours": "Mo-Su 11:00-23:00",
+        "outdoor_seating": "yes",
+        "phone": "+1 704 332 0402",
+        "smoking": "no",
+        "takeaway": "yes",
+        "website": "https://eatatpinkys.com/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1.8004436439076008,
+              -13.102304066034426
+            ],
+            [
+              -7.401823867818541,
+              -11.844393820398851
+            ],
+            [
+              -4.364711862452106,
+              5.065036831752492
+            ],
+            [
+              2.3551257771813474,
+              14.248894821948753
+            ],
+            [
+              8.974938769428517,
+              10.174601458760705
+            ],
+            [
+              4.646599504968703,
+              3.4954320114171487
+            ],
+            [
+              1.8004436439076008,
+              -13.102304066034426
+            ]
+          ]
+        ]
+      },
+      "version": 5,
+      "timestamp": "2019-02-19T09:24:19Z"
+    }
+  ],
+  "osm": {
+    "type": "way",
+    "id": 324418138,
+    "version": 5,
+    "timestamp": "2019-02-19T09:24:19Z",
+    "url": "https://www.openstreetmap.org/way/324418138"
+  },
+  "additionalOsm": [],
+  "tags": {
+    "addr:city": "Charlotte",
+    "addr:housenumber": "1600",
+    "addr:postcode": "28208",
+    "addr:state": "NC",
+    "addr:street": "West Morehead Street",
+    "amenity": "restaurant",
+    "building": "yes",
+    "cuisine": "regional",
+    "delivery": "no",
+    "name": "Pinky's Westside Grill",
+    "opening_hours": "Mo-Su 11:00-23:00",
+    "outdoor_seating": "yes",
+    "phone": "+1 704 332 0402",
+    "smoking": "no",
+    "takeaway": "yes",
+    "website": "https://eatatpinkys.com/",
+    "wheelchair": "yes"
+  }
+}

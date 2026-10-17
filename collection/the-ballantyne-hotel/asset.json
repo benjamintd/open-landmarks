@@ -1,0 +1,623 @@
+{
+  "id": "the-ballantyne-hotel",
+  "name": "The Ballantyne Hotel",
+  "anchor": [
+    -80.8481864,
+    35.0565504
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 166952,
+      "sha256": "c9927dc7877c10f3060baff63ea961342997b55e7f6a76451dca5744522375b9"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 166952,
+      "sha256": "c9927dc7877c10f3060baff63ea961342997b55e7f6a76451dca5744522375b9"
+    }
+  },
+  "triangles": 4524,
+  "boundsBlenderM": [
+    [
+      -34.581,
+      -84.037,
+      0
+    ],
+    [
+      111.359,
+      88.735,
+      49.15
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.8480926,
+          35.0557748
+        ],
+        [
+          -80.8481438,
+          35.0557938
+        ],
+        [
+          -80.8481569,
+          35.055837
+        ],
+        [
+          -80.8481302,
+          35.0558724
+        ],
+        [
+          -80.8481402,
+          35.0559054
+        ],
+        [
+          -80.8482011,
+          35.0561067
+        ],
+        [
+          -80.8482275,
+          35.0561014
+        ],
+        [
+          -80.8482349,
+          35.0561257
+        ],
+        [
+          -80.8482987,
+          35.0561127
+        ],
+        [
+          -80.8483346,
+          35.0561055
+        ],
+        [
+          -80.848352,
+          35.0561632
+        ],
+        [
+          -80.8483136,
+          35.056171
+        ],
+        [
+          -80.8482492,
+          35.056184
+        ],
+        [
+          -80.8482554,
+          35.0562049
+        ],
+        [
+          -80.8482325,
+          35.0562095
+        ],
+        [
+          -80.8482629,
+          35.0563109
+        ],
+        [
+          -80.8482427,
+          35.0563144
+        ],
+        [
+          -80.8482507,
+          35.056343
+        ],
+        [
+          -80.8482891,
+          35.0563346
+        ],
+        [
+          -80.8483351,
+          35.0565006
+        ],
+        [
+          -80.8483631,
+          35.0566183
+        ],
+        [
+          -80.8483845,
+          35.0566914
+        ],
+        [
+          -80.8484505,
+          35.0566785
+        ],
+        [
+          -80.8485129,
+          35.0566663
+        ],
+        [
+          -80.8485409,
+          35.0567618
+        ],
+        [
+          -80.8484711,
+          35.0567727
+        ],
+        [
+          -80.8484446,
+          35.056781
+        ],
+        [
+          -80.848452,
+          35.056856
+        ],
+        [
+          -80.848435,
+          35.0568525
+        ],
+        [
+          -80.8484916,
+          35.0570035
+        ],
+        [
+          -80.8485352,
+          35.0571323
+        ],
+        [
+          -80.8484798,
+          35.0571423
+        ],
+        [
+          -80.8485067,
+          35.0572281
+        ],
+        [
+          -80.8485492,
+          35.0572459
+        ],
+        [
+          -80.8485615,
+          35.0572974
+        ],
+        [
+          -80.8485342,
+          35.0573375
+        ],
+        [
+          -80.8484772,
+          35.0573477
+        ],
+        [
+          -80.8484276,
+          35.057323
+        ],
+        [
+          -80.8484211,
+          35.0573022
+        ],
+        [
+          -80.8482908,
+          35.0573295
+        ],
+        [
+          -80.848294,
+          35.0573397
+        ],
+        [
+          -80.8482486,
+          35.0573492
+        ],
+        [
+          -80.8482377,
+          35.0573144
+        ],
+        [
+          -80.8482658,
+          35.0573085
+        ],
+        [
+          -80.8482389,
+          35.0572222
+        ],
+        [
+          -80.8482185,
+          35.0572264
+        ],
+        [
+          -80.8482015,
+          35.0571706
+        ],
+        [
+          -80.8481723,
+          35.0570719
+        ],
+        [
+          -80.8481909,
+          35.0570685
+        ],
+        [
+          -80.8481463,
+          35.0569238
+        ],
+        [
+          -80.8480918,
+          35.0569353
+        ],
+        [
+          -80.8480351,
+          35.056767
+        ],
+        [
+          -80.8480472,
+          35.0567639
+        ],
+        [
+          -80.848026,
+          35.0566947
+        ],
+        [
+          -80.8480816,
+          35.0566833
+        ],
+        [
+          -80.8480474,
+          35.0565673
+        ],
+        [
+          -80.8480318,
+          35.0565703
+        ],
+        [
+          -80.8480198,
+          35.0565298
+        ],
+        [
+          -80.8480011,
+          35.0565335
+        ],
+        [
+          -80.8479815,
+          35.0564666
+        ],
+        [
+          -80.8480012,
+          35.0564627
+        ],
+        [
+          -80.8479856,
+          35.0564094
+        ],
+        [
+          -80.8479584,
+          35.0564146
+        ],
+        [
+          -80.8479455,
+          35.0563702
+        ],
+        [
+          -80.8479564,
+          35.0563681
+        ],
+        [
+          -80.8479346,
+          35.0562927
+        ],
+        [
+          -80.8478678,
+          35.0563056
+        ],
+        [
+          -80.8478128,
+          35.0562778
+        ],
+        [
+          -80.8477953,
+          35.0562243
+        ],
+        [
+          -80.8478194,
+          35.0561881
+        ],
+        [
+          -80.8476984,
+          35.0562121
+        ],
+        [
+          -80.8477112,
+          35.0562553
+        ],
+        [
+          -80.8476485,
+          35.0562677
+        ],
+        [
+          -80.8476328,
+          35.0562146
+        ],
+        [
+          -80.8476484,
+          35.0562115
+        ],
+        [
+          -80.8476351,
+          35.0561665
+        ],
+        [
+          -80.8476258,
+          35.0561353
+        ],
+        [
+          -80.8474236,
+          35.0561754
+        ],
+        [
+          -80.8474315,
+          35.0562018
+        ],
+        [
+          -80.8472126,
+          35.0562453
+        ],
+        [
+          -80.8472043,
+          35.0562173
+        ],
+        [
+          -80.847093,
+          35.0562394
+        ],
+        [
+          -80.8471029,
+          35.0562729
+        ],
+        [
+          -80.8470498,
+          35.0562834
+        ],
+        [
+          -80.8470341,
+          35.0562305
+        ],
+        [
+          -80.8470658,
+          35.0562242
+        ],
+        [
+          -80.8470383,
+          35.0561318
+        ],
+        [
+          -80.8469826,
+          35.0561429
+        ],
+        [
+          -80.8469752,
+          35.0561182
+        ],
+        [
+          -80.846967,
+          35.0560906
+        ],
+        [
+          -80.8470346,
+          35.0560771
+        ],
+        [
+          -80.8470375,
+          35.0560868
+        ],
+        [
+          -80.8471698,
+          35.0560604
+        ],
+        [
+          -80.8471568,
+          35.0560169
+        ],
+        [
+          -80.8472218,
+          35.0560039
+        ],
+        [
+          -80.8472174,
+          35.0559892
+        ],
+        [
+          -80.8472259,
+          35.0559875
+        ],
+        [
+          -80.8472237,
+          35.0559801
+        ],
+        [
+          -80.8472286,
+          35.0559749
+        ],
+        [
+          -80.8472349,
+          35.0559702
+        ],
+        [
+          -80.8472426,
+          35.0559662
+        ],
+        [
+          -80.8472513,
+          35.0559641
+        ],
+        [
+          -80.8472607,
+          35.0559629
+        ],
+        [
+          -80.8472703,
+          35.0559628
+        ],
+        [
+          -80.8472793,
+          35.055964
+        ],
+        [
+          -80.847288,
+          35.0559675
+        ],
+        [
+          -80.8472898,
+          35.0559737
+        ],
+        [
+          -80.8472999,
+          35.0559717
+        ],
+        [
+          -80.8473036,
+          35.0559842
+        ],
+        [
+          -80.8473594,
+          35.0559733
+        ],
+        [
+          -80.8473703,
+          35.0560106
+        ],
+        [
+          -80.8474877,
+          35.0559877
+        ],
+        [
+          -80.847485,
+          35.0559785
+        ],
+        [
+          -80.8475613,
+          35.0559636
+        ],
+        [
+          -80.8475718,
+          35.0559995
+        ],
+        [
+          -80.84777,
+          35.0559607
+        ],
+        [
+          -80.8477619,
+          35.0559327
+        ],
+        [
+          -80.847771,
+          35.0559309
+        ],
+        [
+          -80.8477525,
+          35.0558675
+        ],
+        [
+          -80.8480161,
+          35.0558159
+        ],
+        [
+          -80.8480381,
+          35.055784
+        ],
+        [
+          -80.8480926,
+          35.0557748
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 322618546,
+    "version": 11,
+    "timestamp": "2025-09-17T18:29:05Z",
+    "url": "https://www.openstreetmap.org/way/322618546"
+  },
+  "additionalOsm": [],
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Stream Park and Ballantyne Hotel Mid-April 2024.jpg",
+      "author": "City Dweller 2",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Stream_Park_and_Ballantyne_Hotel_Mid-April_2024.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Ballantyne Hotel Stream Park view Mid-April 2024.jpg",
+      "author": "City Dweller 2",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Ballantyne_Hotel_Stream_Park_view_Mid-April_2024.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:The Ballantyne Hotel from Johnston Rd Mid-April 2024.jpg",
+      "author": "City Dweller 2",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:The_Ballantyne_Hotel_from_Johnston_Rd_Mid-April_2024.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Ballantyne Hotel.jpg",
+      "author": "Ihar Sinelchenkau",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Ballantyne_Hotel.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Sunset over Ballantyne Hotel.jpg",
+      "author": "Ihar Sinelchenkau",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Sunset_over_Ballantyne_Hotel.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/ballantyne-hotel.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "The Ballantyne Hotel, Charlotte NC — procedural, CC0-1.0. bun generators/ballantyne-hotel.ts",
+    "Map frame: x across the main block (east-north-east, towards the pond), y along it (north-north-west), z up, metres. Placed at bearing 346°, the axis of the OSM outline (way/322618546, one L-shaped outline, height 40, no parts). The anchor is a point inside the tower, so x and y below read straight off the outline in that rotated frame.",
+    "The outline holds the whole complex, and the photos split it into:",
+    "the tower: nine storeys over a lower level on the pond side, 87 m long, in cream render with white trim. A pedimented centre pavilion two-fifths of the way up from its south end carries a gable roof and the white, dark-domed cupola; a plain block with the hotel's monogram closes the north end, with a small box on its roof (Commons photos 03 and 04).",
+    "on the pond side, a two-storey colonnaded porch under the pediment (photo 01); on the entrance side, the porte-cochère.",
+    "low wings, two storeys over a lower level, under hipped metal roofs: south of the tower, and the long east arm of meeting rooms and spa.",
+    "octagonal pavilions with hipped roofs and ball finials at the corners (photos 02 and 03).",
+    "Rework (2026-10, charlotte-neighbourhoods): same frame, anchor, plan outline and identifying forms (pediment pavilion, cupola, porch, loggia stacks, octagonal pavilions, monogram block). Evidence for each change:",
+    "Heights: Mecklenburg 2016 lidar (USGS 3DEP NC Phase 4, 1 m DSM, sampled in this frame). y = 0 is the pond-side ground (~7 m over the tile's ground_min). The tower's parapet stands at 30.5-31 m (old 35), the pediment ridge 35-37 (old 40.5), the cupola dome 44 (old 49.4). Now 8 storeys of 3.1 m over the lower level, parapet 31.0, ridge 35.9, dome top 44.2. Wings: south wings 13-14 m (eave 10-10.5), east arm 15-18 m on ground rising 4.5 m (eave 14), its west link 10-11 m (eave 7.5); pavilion apexes 17-17.5 m (old 19-19.8).",
+    "The tower runs from y = -21 to 72, symmetrical about the pediment at 25: the lidar keeps its full height 20 m further south than the old model (which ended at -1.3 and put a 12 m wing there), and the NAIP aerial's flat white tower roof agrees. So a south end block (-21 to -5, with a rooftop box like the north one) mirrors the monogram block, the south loggia stack moves to 1.5 (mirroring 49), and the south wing now starts at -21. North of y = 72 the lidar drops to ~10 m over y = 0 (5-6 m over its own, higher ground): the old full-height \"monogram block\" there is now a one-storey annex, and the monogram block is the full-height north end, 55.6 to 72.",
+    "Facade: the tower's bays were 1.3 m slots three floors tall that read as full-height stripes; now one 1.5 m panel per bay per pair of floors with 1.3 m spandrels (Commons photos: punched windows, one per bay per floor).",
+    "Roofs: the east arm and the pavilions have grey-teal standing-seam roofs (NAIP; \"Ballantyne Hotel Stream Park view\"), a `finish`; the south wings' roofs read pale grey, so they stay `roof`. The cupola dome is darker (it reads near-black in every photo), pulled to #5d6673. Photos (Wikimedia Commons): \"Stream Park and Ballantyne Hotel Mid-April 2024.jpg\", \"Ballantyne Hotel Stream Park view Mid-April 2024.jpg\", \"The Ballantyne Hotel from Johnston Rd Mid-April 2024.jpg\" (City Dweller 2, CC BY-SA 4.0); \"Ballantyne Hotel.jpg\", \"Sunset over Ballantyne Hotel.jpg\" (Ihar Sinelchenkau, CC0). Doubt: in the Stream Park photo the tower south of the pediment looks shorter than the lidar's 36 m; the lidar and the aerial are trusted over perspective.",
+    "The brief asked for brick; every photo shows cream render with white trim, so that is what the model uses: `stone` and `trim`.",
+    "Ground: the site falls about 4.5 m from Johnston Road (west) to the pond (east) in the terrain tiles, and the south end of the east arm sits higher again. y = 0 is the lowest point, at the tower's pond side. Walls run down to 0 everywhere, sinking into the slope, and each wall's window panels start at that wall's own ground (`ground()`), so none are buried.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"ballantyne-hotel\", model \"ballantyne-hotel\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/ballantyne-hotel.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

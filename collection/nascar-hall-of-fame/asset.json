@@ -1,0 +1,463 @@
+{
+  "id": "nascar-hall-of-fame",
+  "name": "NASCAR Hall of Fame",
+  "anchor": [
+    -80.8440855,
+    35.2210919
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 133852,
+      "sha256": "2e13b2e080481d9df60671070a1744aa023df076f34394d0230ac38c44d6c115"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 133852,
+      "sha256": "2e13b2e080481d9df60671070a1744aa023df076f34394d0230ac38c44d6c115"
+    }
+  },
+  "triangles": 3635,
+  "boundsBlenderM": [
+    [
+      -103.579,
+      -75.043,
+      0
+    ],
+    [
+      96.929,
+      82.001,
+      26.5
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.8452243,
+          35.2208159
+        ],
+        [
+          -80.8450694,
+          35.2209257
+        ],
+        [
+          -80.8450352,
+          35.2209728
+        ],
+        [
+          -80.8449762,
+          35.2210383
+        ],
+        [
+          -80.8449026,
+          35.2210979
+        ],
+        [
+          -80.844801,
+          35.2211692
+        ],
+        [
+          -80.8446895,
+          35.2212396
+        ],
+        [
+          -80.8445656,
+          35.2213088
+        ],
+        [
+          -80.8444577,
+          35.2213611
+        ],
+        [
+          -80.8443997,
+          35.2213872
+        ],
+        [
+          -80.8443652,
+          35.2214109
+        ],
+        [
+          -80.8443498,
+          35.2214214
+        ],
+        [
+          -80.8442952,
+          35.2214553
+        ],
+        [
+          -80.8441581,
+          35.22155
+        ],
+        [
+          -80.8437542,
+          35.221829
+        ],
+        [
+          -80.8436034,
+          35.2216833
+        ],
+        [
+          -80.8437521,
+          35.2215806
+        ],
+        [
+          -80.8437827,
+          35.2215594
+        ],
+        [
+          -80.8436957,
+          35.2214781
+        ],
+        [
+          -80.8436527,
+          35.2215071
+        ],
+        [
+          -80.8436036,
+          35.2215324
+        ],
+        [
+          -80.843544,
+          35.2215544
+        ],
+        [
+          -80.8434933,
+          35.2215663
+        ],
+        [
+          -80.843441,
+          35.2215759
+        ],
+        [
+          -80.8433943,
+          35.2215778
+        ],
+        [
+          -80.8433325,
+          35.221579
+        ],
+        [
+          -80.8432779,
+          35.2215751
+        ],
+        [
+          -80.8432315,
+          35.2215691
+        ],
+        [
+          -80.8431948,
+          35.2215605
+        ],
+        [
+          -80.843146,
+          35.2215364
+        ],
+        [
+          -80.8431006,
+          35.2215034
+        ],
+        [
+          -80.8430734,
+          35.2214766
+        ],
+        [
+          -80.8430509,
+          35.2214443
+        ],
+        [
+          -80.8430344,
+          35.2214106
+        ],
+        [
+          -80.8430207,
+          35.2213726
+        ],
+        [
+          -80.8430166,
+          35.2213299
+        ],
+        [
+          -80.8430181,
+          35.2212873
+        ],
+        [
+          -80.8430326,
+          35.2212407
+        ],
+        [
+          -80.8430604,
+          35.2211826
+        ],
+        [
+          -80.8431147,
+          35.2211115
+        ],
+        [
+          -80.8431433,
+          35.2210819
+        ],
+        [
+          -80.8431972,
+          35.2210341
+        ],
+        [
+          -80.843271,
+          35.2209765
+        ],
+        [
+          -80.8433882,
+          35.2208953
+        ],
+        [
+          -80.8434658,
+          35.2208518
+        ],
+        [
+          -80.8435332,
+          35.2208128
+        ],
+        [
+          -80.8436273,
+          35.220769
+        ],
+        [
+          -80.8437141,
+          35.2207266
+        ],
+        [
+          -80.8438293,
+          35.2206788
+        ],
+        [
+          -80.843853,
+          35.2206678
+        ],
+        [
+          -80.8438713,
+          35.2206588
+        ],
+        [
+          -80.8438235,
+          35.2206906
+        ],
+        [
+          -80.8438578,
+          35.2207251
+        ],
+        [
+          -80.8438173,
+          35.2207516
+        ],
+        [
+          -80.8439088,
+          35.2208854
+        ],
+        [
+          -80.8439399,
+          35.2208728
+        ],
+        [
+          -80.8439838,
+          35.2208534
+        ],
+        [
+          -80.8440827,
+          35.2208061
+        ],
+        [
+          -80.8441867,
+          35.2207505
+        ],
+        [
+          -80.8443138,
+          35.220675
+        ],
+        [
+          -80.8444208,
+          35.2206004
+        ],
+        [
+          -80.8444854,
+          35.2205485
+        ],
+        [
+          -80.8444595,
+          35.2205232
+        ],
+        [
+          -80.8445702,
+          35.2204497
+        ],
+        [
+          -80.8445903,
+          35.2204711
+        ],
+        [
+          -80.8446321,
+          35.2204655
+        ],
+        [
+          -80.8446888,
+          35.2204609
+        ],
+        [
+          -80.844752,
+          35.2204619
+        ],
+        [
+          -80.844819,
+          35.2204178
+        ],
+        [
+          -80.8448854,
+          35.2204796
+        ],
+        [
+          -80.844926,
+          35.220493
+        ],
+        [
+          -80.8449609,
+          35.2205055
+        ],
+        [
+          -80.8449937,
+          35.220523
+        ],
+        [
+          -80.8450292,
+          35.2205474
+        ],
+        [
+          -80.8450643,
+          35.2205782
+        ],
+        [
+          -80.8450926,
+          35.2206164
+        ],
+        [
+          -80.8451063,
+          35.2206392
+        ],
+        [
+          -80.84512,
+          35.2206664
+        ],
+        [
+          -80.8451291,
+          35.2207004
+        ],
+        [
+          -80.8451312,
+          35.2207229
+        ],
+        [
+          -80.8452243,
+          35.2208159
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 322278731,
+    "version": 13,
+    "timestamp": "2026-09-25T13:56:14Z",
+    "url": "https://www.openstreetmap.org/way/322278731"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 1352128750,
+      "version": 2,
+      "timestamp": "2026-09-25T13:56:14Z",
+      "url": "https://www.openstreetmap.org/way/1352128750"
+    },
+    {
+      "type": "way",
+      "id": 1352128751,
+      "version": 1,
+      "timestamp": "2025-01-17T17:58:40Z",
+      "url": "https://www.openstreetmap.org/way/1352128751"
+    },
+    {
+      "type": "way",
+      "id": 1352128752,
+      "version": 1,
+      "timestamp": "2025-01-17T17:58:40Z",
+      "url": "https://www.openstreetmap.org/way/1352128752"
+    },
+    {
+      "type": "way",
+      "id": 1352128756,
+      "version": 1,
+      "timestamp": "2025-01-17T17:58:40Z",
+      "url": "https://www.openstreetmap.org/way/1352128756"
+    },
+    {
+      "type": "way",
+      "id": 1352128757,
+      "version": 2,
+      "timestamp": "2026-09-25T13:56:14Z",
+      "url": "https://www.openstreetmap.org/way/1352128757"
+    },
+    {
+      "type": "way",
+      "id": 1352128758,
+      "version": 1,
+      "timestamp": "2025-01-17T17:58:40Z",
+      "url": "https://www.openstreetmap.org/way/1352128758"
+    },
+    {
+      "type": "way",
+      "id": 766639184,
+      "version": 4,
+      "timestamp": "2023-07-16T18:10:12Z",
+      "url": "https://www.openstreetmap.org/way/766639184"
+    }
+  ],
+  "wikidata": "Q1443089",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/nascar-hall-of-fame.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "NASCAR Hall of Fame, Charlotte — procedural, CC0-1.0, no textures. bun generators/nascar-hall-of-fame.ts [out.glb]",
+    "Map frame: x across the block (+x towards South Caldwell Street, south-east), y along it (+y towards the plaza and East MLK Jr Boulevard, north-east), z up, metres. Placed at bearing 55°, the long axis of the OSM outline. The anchor is the area centroid of the outline (way/322278731); every coordinate below is that outline and its building:parts measured in this rotated frame.",
+    "What makes it read as itself is the stainless-steel \"racetrack\" ribbon: a broad banked band, bulging outward like a track's banking, wrapped round the oval. It is broken twice in plan — by the NASCAR Plaza office tower on the south-east side (a separate building, not modelled) and by the pale stone block on the north-west side — so it is two sweeps:",
+    "- east: along the south-east side, round the rounded east end, where it drops low over the Great Hall's glass, then rising and thinning across the plaza front and leaving the wall as a cantilevered blade (OSM's metal building:part) that ends against the stone block; - west: from a pointed tip at the stone block round the west end, ending against the tower.",
+    "Evidence",
+    "Lidar (USGS 3DEP NC Phase 4, Mecklenburg 2016, 1 m), against the lowest ground under the footprint (the west end): the bowl's rim and the main roof are both at 21 m all round — the band's top is the roof edge, not a wall above it; inside the rim at the west end the roof drops to 13.6 m; the blade's top is 19.5 m at its root, 18.3–18.8 m midway and 20 m at its tip; stone block 22.5 m, ballroom 26.5 m, link 23–25 m, the west-end corner blocks 14 m. The outline is the bowl's outer edge (ground just outside it).",
+    "Photos: Daniel Lobo (Commons, CC BY 2.0, the plaza front and the rounded east end), Jeffrey Hayes (Commons, CC BY 2.0, the same from the plaza), Denton Harryman (Commons, CC0, the west end: the bowl over the base and its murals, the NASCAR Plaza tower behind on the right), Groupuscule (Commons, CC BY-SA 3.0, from the convention centre), Ken Lund (Flickr/Commons, CC BY-SA 2.0, the stone block and the blade's tip). Read off them, scaled to the lidar: the bowl's bottom edge 10 m up on the long sides, dipping to about 4.5 m round the east end and rising to about 12.5 m over the plaza front; the Great Hall's glass on a 3 m stone plinth up to the band; the band leans out over a base set back about 4.5 m (estimated), most at the east end; long dark slots run along it. The band is drawn a little broader and more upright on the long sides than the photos show, so it reads from above at phone size.",
+    "Estimated: the set-back and the bulge of the bowl, the slot positions, the murals' size and spacing, the north-west side (no photo: plain stone), the blade's underside.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"nascar-hall-of-fame\", model \"nascar-hall-of-fame\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/nascar-hall-of-fame.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

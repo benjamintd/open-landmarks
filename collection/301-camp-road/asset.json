@@ -1,0 +1,263 @@
+{
+  "id": "301-camp-road",
+  "name": "301 Camp Road",
+  "anchor": [
+    -80.834093,
+    35.2457858
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 33976,
+      "sha256": "56d9a4ebfcccb434fd3dacc8d54341456c72ebccf3d8d50cff806452ccc341ab"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 33976,
+      "sha256": "56d9a4ebfcccb434fd3dacc8d54341456c72ebccf3d8d50cff806452ccc341ab"
+    }
+  },
+  "triangles": 524,
+  "boundsBlenderM": [
+    [
+      -47.414,
+      -49.783,
+      0
+    ],
+    [
+      48.472,
+      50.364,
+      10.1
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.8346149,
+          35.2457122
+        ],
+        [
+          -80.8345612,
+          35.2457601
+        ],
+        [
+          -80.834609,
+          35.2457973
+        ],
+        [
+          -80.8345304,
+          35.2458724
+        ],
+        [
+          -80.8344804,
+          35.2458407
+        ],
+        [
+          -80.8343555,
+          35.245967
+        ],
+        [
+          -80.8342769,
+          35.2460459
+        ],
+        [
+          -80.8341772,
+          35.2461474
+        ],
+        [
+          -80.8340951,
+          35.2462262
+        ],
+        [
+          -80.8340602,
+          35.2462044
+        ],
+        [
+          -80.8340417,
+          35.246192
+        ],
+        [
+          -80.8337713,
+          35.2460084
+        ],
+        [
+          -80.8336916,
+          35.2459567
+        ],
+        [
+          -80.8336717,
+          35.2459438
+        ],
+        [
+          -80.8336187,
+          35.2459079
+        ],
+        [
+          -80.8335701,
+          35.245875
+        ],
+        [
+          -80.8336683,
+          35.2457768
+        ],
+        [
+          -80.8337391,
+          35.2457059
+        ],
+        [
+          -80.833735,
+          35.2457035
+        ],
+        [
+          -80.8337287,
+          35.2456998
+        ],
+        [
+          -80.8337199,
+          35.2456939
+        ],
+        [
+          -80.8337368,
+          35.2456768
+        ],
+        [
+          -80.8340662,
+          35.2453438
+        ],
+        [
+          -80.8341396,
+          35.2453906
+        ],
+        [
+          -80.8343068,
+          35.2454998
+        ],
+        [
+          -80.8344329,
+          35.2455934
+        ],
+        [
+          -80.8345053,
+          35.2456407
+        ],
+        [
+          -80.8346149,
+          35.2457122
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 324608422,
+    "version": 24,
+    "timestamp": "2024-10-31T03:48:04Z",
+    "url": "https://www.openstreetmap.org/way/324608422"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 819519804,
+      "version": 16,
+      "timestamp": "2024-10-31T03:48:04Z",
+      "url": "https://www.openstreetmap.org/way/819519804"
+    },
+    {
+      "type": "way",
+      "id": 835814331,
+      "version": 2,
+      "timestamp": "2020-08-10T15:40:01Z",
+      "url": "https://www.openstreetmap.org/way/835814331"
+    },
+    {
+      "type": "way",
+      "id": 835814332,
+      "version": 5,
+      "timestamp": "2024-10-31T03:48:04Z",
+      "url": "https://www.openstreetmap.org/way/835814332"
+    },
+    {
+      "type": "way",
+      "id": 835817783,
+      "version": 1,
+      "timestamp": "2020-08-10T15:40:01Z",
+      "url": "https://www.openstreetmap.org/way/835817783"
+    },
+    {
+      "type": "way",
+      "id": 835817784,
+      "version": 2,
+      "timestamp": "2022-01-03T22:19:43Z",
+      "url": "https://www.openstreetmap.org/way/835817784"
+    },
+    {
+      "type": "way",
+      "id": 835817785,
+      "version": 1,
+      "timestamp": "2020-08-10T15:40:01Z",
+      "url": "https://www.openstreetmap.org/way/835817785"
+    },
+    {
+      "type": "way",
+      "id": 835817786,
+      "version": 1,
+      "timestamp": "2020-08-10T15:40:01Z",
+      "url": "https://www.openstreetmap.org/way/835817786"
+    },
+    {
+      "type": "way",
+      "id": 835817787,
+      "version": 2,
+      "timestamp": "2022-01-03T22:19:43Z",
+      "url": "https://www.openstreetmap.org/way/835817787"
+    },
+    {
+      "type": "way",
+      "id": 835817788,
+      "version": 3,
+      "timestamp": "2024-10-31T03:06:16Z",
+      "url": "https://www.openstreetmap.org/way/835817788"
+    }
+  ],
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/clt-cne-301-camp-road.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Camp North End: 301 Camp Road — procedural, CC0-1.0. bun generators/clt-cne-301-camp-road.ts",
+    "The north-east end of the Army Quartermaster Corps' Building No. 4 (1941–43), the shortest of the three warehouses the depot built south of the Ford plant; its middle was taken down for Kinship West (2022–24) and its south-west end is `clt-cne-1720-statesville`. Renovated by Camp North End as shops and Free Range Brewing. A one-storey red-brick box 61 × 75 m on a concrete loading-dock plinth, two corrugated-metal clerestory monitors crossing its width, lower brick wings along its sides; the north-east end on Camp Road opened up in big black steel windows under black steel awnings, \"301 CAMP\" painted in white at the corner.",
+    "Identity: the red brick box on its grey concrete plinth, the row of black awnings on the Camp Road front, and the two silver monitors over the white roof.",
+    "Evidence: - OSM: the outline way/324608422 (height 8) and its 9 parts: the two monitors way/835817783, 835817787 (height 9), the main roof 835814331, 835817784, 835817788 (6.9), the low wings 819519804 (5.5), 835814332 (6), 835817785 (5.8) and the small block 835817786 (4). - Lidar, USGS 3DEP NC Phase 4 Mecklenburg 2016, 1 m (measured, NAVD88): ground 228.1–228.5 (y = 0 is 228.1); roof deck 235.4 (7.3 m); monitor tops 238.2 (10.1 m); the side wings 234.0 (5.9 m), the small block 233.9. OSM's heights are about 0.5–1 m low; the lidar is followed. - Charlotte-Mecklenburg Historic Landmarks Commission survey report (2017, landmarkscommission.org/wp-content/uploads/2017/06/Ford-Motor-Co-Plant-SR.pdf), Buildings Nos. 4, 5, 6 (published): \"a matched set\", one storey, \"brick-faced in common bond with six course headers\", 180 ft wide, concrete roofs, \"tall clerestory skylights ... crossing the widths of the buildings\", \"constructed from pressed corrugated sheet metal\", 15-pane windows on their short sides and sash windows along the long ones; six monitors on No. 4, which is \"only about 700 feet long\". - Mecklenburg County tax parcel 07903C99 (CAMP ... PROPERTY OWNER LP): built 1943, face brick. - Camp North End leasing brochure (2021, camp.nc): the name \"301 Camp Road\", 48,000 sq ft. - Photos (EVIDENCE), all by City Dweller 2, CC BY-SA 4.0, Wikimedia Commons: https://commons.wikimedia.org/wiki/File:301_Camp_along_Camp_Rd_Early_June_2025.jpg https://commons.wikimedia.org/wiki/File:301_Camp_artwork_Early_June_2025.jpg https://commons.wikimedia.org/wiki/File:Free_Range_Brewing_Camp_North_End_in_the_301_Camp_building_Early_June_2025.jpg https://commons.wikimedia.org/wiki/File:Wildflowers_in_front_of_301_Camp_Early_June_2025.jpg https://commons.wikimedia.org/wiki/File:Free_Range_Brewing_Late_March_2024.jpg They show the red brick, the pale coping, the grey concrete plinth about 1.3 m high, the Camp Road front and the plaza side mostly glass: tall black-framed bays about two-thirds of the wall high filling each bay between brick piers, a brick band above, flat black steel canopies over them; and the long north-west wall, mostly blind brick under a mural. - Mapillary 360° photo 585774473263517 (cbreedlove, June 2022, CC BY-SA 4.0) of Building No. 4's other end: the monitors are silver corrugated metal with a band of clerestory glazing. - USGS NAIP orthophoto (public domain): the white membrane roofs.",
+    "Estimated: the bay pitch (about 7 m, photo-scaled from the 1.3 m plinth) and the glazing's head height; the monitors' glazing band. The south-east wings are seen only in part (the Free Range photos), so their bays repeat the front's at wing height. The south-west face (towards Kinship West) is unphotographed and drawn with a few windows only. Lettering, murals and steps are left out.",
+    "This file also holds the kit the south-campus models share (`clt-cne-201-camp-road`, `clt-cne-701-keswick`, `clt-cne-1720-statesville`, `clt-cne-1701-n-graham`, `clt-cne-gama-goat`, `clt-cne-330-camp-road`, `clt-cne-bunkhouse`, `clt-cne-generals-office`), built on the north campus's kit (`clt-cne-hercules-south.ts`, `clt-cne-ford-plant.ts`); its own model is built only when it is run directly.",
+    "Frame: the south warehouses' grid. y runs along the long axis (bearing 39.4°), x across it (bearing 129.4°), z up, metres; placement bearing 39.4. The origin is the outline's centroid, lng −80.8340930, lat 35.2457858.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"clt-cne-301-camp-road\", model \"clt-cne-301-camp-road\"), generated by https://github.com/alexwohlbruck/landmarks/blob/a1974bbf738c6994edbe99a7a61818b9d69da9e0/generators/clt-cne-301-camp-road.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

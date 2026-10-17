@@ -1,0 +1,480 @@
+{
+  "id": "charlotte-douglas-international-airport-concourses-b-and-c",
+  "name": "Charlotte Douglas International Airport Concourses B and C",
+  "anchor": [
+    -80.9438679,
+    35.2188857
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 64448,
+      "sha256": "9b91088585376a406ca6771818ef2e48a7d230f8b1dbcc16e61f726f8cbb610b"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 64448,
+      "sha256": "9b91088585376a406ca6771818ef2e48a7d230f8b1dbcc16e61f726f8cbb610b"
+    }
+  },
+  "triangles": 1175,
+  "boundsBlenderM": [
+    [
+      -162.354,
+      -120.313,
+      0
+    ],
+    [
+      177.319,
+      122.059,
+      10
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.9451658,
+          35.2199197
+        ],
+        [
+          -80.945159,
+          35.2199458
+        ],
+        [
+          -80.9451523,
+          35.2199834
+        ],
+        [
+          -80.9448827,
+          35.2199407
+        ],
+        [
+          -80.9448959,
+          35.2198786
+        ],
+        [
+          -80.9448578,
+          35.2198732
+        ],
+        [
+          -80.9448618,
+          35.2198544
+        ],
+        [
+          -80.9448696,
+          35.219818
+        ],
+        [
+          -80.9449072,
+          35.2198234
+        ],
+        [
+          -80.9449481,
+          35.2196311
+        ],
+        [
+          -80.9449527,
+          35.2196095
+        ],
+        [
+          -80.9449151,
+          35.2196042
+        ],
+        [
+          -80.9449253,
+          35.2195562
+        ],
+        [
+          -80.9448959,
+          35.219552
+        ],
+        [
+          -80.9449741,
+          35.219184
+        ],
+        [
+          -80.9450398,
+          35.2191933
+        ],
+        [
+          -80.9450481,
+          35.219154
+        ],
+        [
+          -80.9450546,
+          35.2191237
+        ],
+        [
+          -80.9450157,
+          35.2191182
+        ],
+        [
+          -80.9450283,
+          35.2190587
+        ],
+        [
+          -80.9450669,
+          35.2190642
+        ],
+        [
+          -80.9451006,
+          35.2189061
+        ],
+        [
+          -80.9450628,
+          35.2189007
+        ],
+        [
+          -80.945076,
+          35.2188384
+        ],
+        [
+          -80.9451142,
+          35.2188438
+        ],
+        [
+          -80.9451184,
+          35.218824
+        ],
+        [
+          -80.9451399,
+          35.218723
+        ],
+        [
+          -80.9450256,
+          35.2187068
+        ],
+        [
+          -80.9450418,
+          35.2186308
+        ],
+        [
+          -80.9449455,
+          35.2186171
+        ],
+        [
+          -80.9449576,
+          35.2185604
+        ],
+        [
+          -80.944981,
+          35.2185637
+        ],
+        [
+          -80.9449884,
+          35.2185292
+        ],
+        [
+          -80.9450636,
+          35.2185399
+        ],
+        [
+          -80.945102,
+          35.2183599
+        ],
+        [
+          -80.9450522,
+          35.2183528
+        ],
+        [
+          -80.9450682,
+          35.2182778
+        ],
+        [
+          -80.9450763,
+          35.2182395
+        ],
+        [
+          -80.9451252,
+          35.2182464
+        ],
+        [
+          -80.9451587,
+          35.2180897
+        ],
+        [
+          -80.9451078,
+          35.2180824
+        ],
+        [
+          -80.9451255,
+          35.2179993
+        ],
+        [
+          -80.9451754,
+          35.2180064
+        ],
+        [
+          -80.9451919,
+          35.2179292
+        ],
+        [
+          -80.9451444,
+          35.2179224
+        ],
+        [
+          -80.9451573,
+          35.2178621
+        ],
+        [
+          -80.9452094,
+          35.2178696
+        ],
+        [
+          -80.9452165,
+          35.2178362
+        ],
+        [
+          -80.9452247,
+          35.217798
+        ],
+        [
+          -80.9453015,
+          35.217809
+        ],
+        [
+          -80.9455134,
+          35.2178392
+        ],
+        [
+          -80.94562,
+          35.2178544
+        ],
+        [
+          -80.9456122,
+          35.217891
+        ],
+        [
+          -80.9456043,
+          35.2179279
+        ],
+        [
+          -80.9456523,
+          35.2179348
+        ],
+        [
+          -80.9456419,
+          35.217983
+        ],
+        [
+          -80.9455947,
+          35.2179763
+        ],
+        [
+          -80.9455746,
+          35.2180704
+        ],
+        [
+          -80.9455707,
+          35.2180888
+        ],
+        [
+          -80.9456206,
+          35.2180959
+        ],
+        [
+          -80.9456085,
+          35.2181526
+        ],
+        [
+          -80.9455598,
+          35.2181457
+        ],
+        [
+          -80.945527,
+          35.2182995
+        ],
+        [
+          -80.9455769,
+          35.2183066
+        ],
+        [
+          -80.9455752,
+          35.2183143
+        ],
+        [
+          -80.9455526,
+          35.2184203
+        ],
+        [
+          -80.9455048,
+          35.2184135
+        ],
+        [
+          -80.9454729,
+          35.218563
+        ],
+        [
+          -80.9455177,
+          35.2185693
+        ],
+        [
+          -80.9455037,
+          35.2186349
+        ],
+        [
+          -80.9454613,
+          35.2186289
+        ],
+        [
+          -80.9454314,
+          35.2187691
+        ],
+        [
+          -80.9454125,
+          35.2187664
+        ],
+        [
+          -80.9453989,
+          35.2188304
+        ],
+        [
+          -80.9454371,
+          35.2188358
+        ],
+        [
+          -80.9454244,
+          35.2188958
+        ],
+        [
+          -80.9453857,
+          35.2188903
+        ],
+        [
+          -80.9453406,
+          35.2191034
+        ],
+        [
+          -80.94538,
+          35.219109
+        ],
+        [
+          -80.9453682,
+          35.2191651
+        ],
+        [
+          -80.945329,
+          35.2191596
+        ],
+        [
+          -80.9453228,
+          35.2191886
+        ],
+        [
+          -80.9452381,
+          35.2195894
+        ],
+        [
+          -80.9452754,
+          35.2195947
+        ],
+        [
+          -80.9452632,
+          35.2196526
+        ],
+        [
+          -80.9452247,
+          35.2196472
+        ],
+        [
+          -80.9451797,
+          35.2198604
+        ],
+        [
+          -80.945218,
+          35.2198658
+        ],
+        [
+          -80.9452055,
+          35.2199253
+        ],
+        [
+          -80.9451658,
+          35.2199197
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 1347416913,
+    "version": 2,
+    "timestamp": "2025-07-11T21:52:27Z",
+    "url": "https://www.openstreetmap.org/way/1347416913"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 1347416955,
+      "version": 2,
+      "timestamp": "2025-07-11T21:52:27Z",
+      "url": "https://www.openstreetmap.org/way/1347416955"
+    },
+    {
+      "type": "way",
+      "id": 743457743,
+      "version": 3,
+      "timestamp": "2025-07-11T21:52:27Z",
+      "url": "https://www.openstreetmap.org/way/743457743"
+    },
+    {
+      "type": "way",
+      "id": 743457744,
+      "version": 3,
+      "timestamp": "2025-07-11T21:52:27Z",
+      "url": "https://www.openstreetmap.org/way/743457744"
+    },
+    {
+      "type": "way",
+      "id": 743457745,
+      "version": 3,
+      "timestamp": "2025-07-11T21:52:27Z",
+      "url": "https://www.openstreetmap.org/way/743457745"
+    },
+    {
+      "type": "way",
+      "id": 743457746,
+      "version": 3,
+      "timestamp": "2025-07-11T21:52:27Z",
+      "url": "https://www.openstreetmap.org/way/743457746"
+    }
+  ],
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/clt-concourses-b-c.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Charlotte Douglas International Airport (CLT): Concourses B and C — procedural, CC0-1.0.",
+    "The two piers running south-west and south-east from the Atrium: long two-level gate concourses whose walls jog out at each gate. The OSM outlines (way/1347416913, way/1347416955) are extruded to the 8 m their building:parts record, with the gate-level windows as a band of slate panels, a pale roof, and a low glazed vault down the middle of each over the central walkway.",
+    "Mapbox's 3D buildings (tileset mapbox.mapbox-3dbuildings-v1), used only as a visual reference, put both roofs at 7.5-9.5 m and show nothing standing much above them, so the vault is kept low: a 0.6 m curb and a 1.4 m rise, rather than the 2 m clerestory and 2.6 m vault of the first version.",
+    "Site frame and helpers: see clt-terminal.ts.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"clt-concourses-b-c\", model \"clt-concourses-b-c\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/clt-concourses-b-c.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

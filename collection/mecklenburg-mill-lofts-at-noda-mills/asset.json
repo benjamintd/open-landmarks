@@ -1,0 +1,235 @@
+{
+  "id": "mecklenburg-mill-lofts-at-noda-mills",
+  "name": "Mecklenburg Mill (Lofts at NoDa Mills)",
+  "anchor": [
+    -80.8024797,
+    35.2493994
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 95116,
+      "sha256": "e29c7f279f462c7e146afb1dca2a9c40d5e773f02f08857d455af22f7d653f17"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 95116,
+      "sha256": "e29c7f279f462c7e146afb1dca2a9c40d5e773f02f08857d455af22f7d653f17"
+    }
+  },
+  "triangles": 2202,
+  "boundsBlenderM": [
+    [
+      -49.073,
+      -25.161,
+      0
+    ],
+    [
+      53.224,
+      30.461,
+      22.5
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.8024873,
+          35.2491736
+        ],
+        [
+          -80.8024956,
+          35.2492135
+        ],
+        [
+          -80.8027609,
+          35.2491765
+        ],
+        [
+          -80.8027756,
+          35.2492467
+        ],
+        [
+          -80.8029845,
+          35.2492176
+        ],
+        [
+          -80.8030195,
+          35.2493852
+        ],
+        [
+          -80.8028103,
+          35.2494144
+        ],
+        [
+          -80.8028265,
+          35.249492
+        ],
+        [
+          -80.8022694,
+          35.2495695
+        ],
+        [
+          -80.8022819,
+          35.2496291
+        ],
+        [
+          -80.8021118,
+          35.2496531
+        ],
+        [
+          -80.8019531,
+          35.2496747
+        ],
+        [
+          -80.8019215,
+          35.2495201
+        ],
+        [
+          -80.8019807,
+          35.249512
+        ],
+        [
+          -80.8019876,
+          35.2495461
+        ],
+        [
+          -80.8020872,
+          35.2495325
+        ],
+        [
+          -80.8021465,
+          35.249524
+        ],
+        [
+          -80.80213,
+          35.2494385
+        ],
+        [
+          -80.8021881,
+          35.24943
+        ],
+        [
+          -80.8021532,
+          35.2492673
+        ],
+        [
+          -80.8024109,
+          35.2492278
+        ],
+        [
+          -80.8024021,
+          35.2491855
+        ],
+        [
+          -80.8024457,
+          35.2491794
+        ],
+        [
+          -80.8024873,
+          35.2491736
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 323193332,
+    "version": 6,
+    "timestamp": "2025-05-20T21:02:43Z",
+    "url": "https://www.openstreetmap.org/way/323193332"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 1279174943,
+      "version": 1,
+      "timestamp": "2024-05-02T18:58:56Z",
+      "url": "https://www.openstreetmap.org/way/1279174943"
+    },
+    {
+      "type": "way",
+      "id": 1279174944,
+      "version": 1,
+      "timestamp": "2024-05-02T18:58:56Z",
+      "url": "https://www.openstreetmap.org/way/1279174944"
+    },
+    {
+      "type": "way",
+      "id": 1279174945,
+      "version": 1,
+      "timestamp": "2024-05-02T18:58:56Z",
+      "url": "https://www.openstreetmap.org/way/1279174945"
+    },
+    {
+      "type": "way",
+      "id": 1279174946,
+      "version": 1,
+      "timestamp": "2024-05-02T18:58:56Z",
+      "url": "https://www.openstreetmap.org/way/1279174946"
+    },
+    {
+      "type": "way",
+      "id": 1279174947,
+      "version": 2,
+      "timestamp": "2025-05-20T21:02:43Z",
+      "url": "https://www.openstreetmap.org/way/1279174947"
+    }
+  ],
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:PANO Mecklenburg Mill Front.jpg",
+      "author": "Escapists606",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:PANO_Mecklenburg_Mill_Front.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:North Charlotte Historic District.jpg",
+      "author": "James Willamor",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:North_Charlotte_Historic_District.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/clt-noda-mills.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Mecklenburg Mill (later Mercury Mills), now the Lofts at NoDa Mills, 3327 N. Davidson St, NoDa, Charlotte — procedural, CC0-1.0. bun generators/clt-noda-mills.ts",
+    "Which mill: the North Charlotte Historic District names two mills on this stretch of N. Davidson, the Mecklenburg Mill (later Mercury Mills, 1905) and the Johnston Mill (1913) (Wikipedia, \"North Charlotte Historic District\"). The Lofts at NoDa Mills is the Mecklenburg Mill: Commons files the 2010 photo \"PANO Mecklenburg Mill Front\" (the closed mill from the railway) under \"The Lofts at NoDa Mills\", and the Johnston Mill is the Wandry NoDa building at 3315 N. Davidson, whose stair tower still reads \"JOHNSTON MFG. CO.\" (`clt-johnston-mill`).",
+    "The mill: a three-storey red-brick block on a raised basement where the ground falls to the east, with a low gabled roof behind a pale cornice, rows of tall segment-headed windows, a tower on each long face (the one on the railway side was the mill's front door, a big arched opening), a one-storey west wing, lower annexes at the east end and, east of them, the free-standing round brick stack.",
+    "Evidence: - OSM: way/323193332 (outline) and its building:parts way/1279174943 (west wing), …944 (main block), …945 (south tower), …946 and …947 (east annexes). The north tower and the stack are not mapped. - Lidar, USGS 3DEP NC Phase 4 Mecklenburg 2016, 1 m (ground_min 209.64 m NAVD88). Base 7.5 m above ground_min at the east annexes; the ground rises ~4.5 m to the west end. Heights above base: main eaves 14.4 m, ridge 15.4 m near the block's axis; south tower 16.5 m; north tower ~15.6 m (one return at 14.5 m, the rest at 10.5 m: estimated); west wing 9.3 m (≈5 m over its ground); annexes 10.0 and 7.5 m; the stack 22.5 m, about 2.6 m across at the top. - Photos (Commons): City Dweller 2, April 2024, CC BY-SA 4.0: \"The Lofts at NoDa Mills Mid-April 2024\" (the south front from Davidson St, the west wing and the south tower), \"… main entrance\", \"… from a distance\" (the east end, the annexes and the stack); Escapists606, \"PANO Mecklenburg Mill Front.jpg\", 2010, CC BY-SA 3.0 (the north face from the railway: the tower and its arched door, the stack); James Willamor, \"North Charlotte Historic District.jpg\", CC BY-SA 3.0. USGS NAIP for the plan and the white roof.",
+    "Estimated: window counts (photos, ~3.4 m bays), storey heights, the north tower's plan and height, the towers' cornices.",
+    "Model frame: bearing 350.4 (model +x runs along the mill, 80.4° east of north); metres above the base.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"clt-noda-mills\", model \"clt-noda-mills\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/clt-noda-mills.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

@@ -1,0 +1,375 @@
+{
+  "id": "charlotte-transportation-center",
+  "name": "Charlotte Transportation Center",
+  "anchor": [
+    -80.841035,
+    35.224522
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 99976,
+      "sha256": "acdd868f44e78cab4aa64b4885f479382c5e96b665be32931ddd0cf3a71f6ced"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 99976,
+      "sha256": "acdd868f44e78cab4aa64b4885f479382c5e96b665be32931ddd0cf3a71f6ced"
+    }
+  },
+  "triangles": 2310,
+  "boundsBlenderM": [
+    [
+      -68.502,
+      -65.66,
+      0
+    ],
+    [
+      66.577,
+      60.945,
+      18.76
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.8416894,
+          35.2245569
+        ],
+        [
+          -80.8415937,
+          35.2244726
+        ],
+        [
+          -80.8416495,
+          35.2244303
+        ],
+        [
+          -80.8417437,
+          35.2245133
+        ],
+        [
+          -80.8417838,
+          35.2244829
+        ],
+        [
+          -80.8416898,
+          35.2243997
+        ],
+        [
+          -80.8416217,
+          35.2243397
+        ],
+        [
+          -80.8413942,
+          35.2241396
+        ],
+        [
+          -80.8412866,
+          35.2240449
+        ],
+        [
+          -80.8412659,
+          35.2240609
+        ],
+        [
+          -80.8411267,
+          35.2239383
+        ],
+        [
+          -80.8407206,
+          35.2242458
+        ],
+        [
+          -80.8403094,
+          35.2245572
+        ],
+        [
+          -80.8404487,
+          35.22468
+        ],
+        [
+          -80.8404282,
+          35.2246959
+        ],
+        [
+          -80.8405289,
+          35.2247844
+        ],
+        [
+          -80.8407745,
+          35.2250006
+        ],
+        [
+          -80.8408315,
+          35.2250507
+        ],
+        [
+          -80.8409238,
+          35.2249807
+        ],
+        [
+          -80.841019,
+          35.2250646
+        ],
+        [
+          -80.8413719,
+          35.2247974
+        ],
+        [
+          -80.8416894,
+          35.2245569
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 48908467,
+    "version": 12,
+    "timestamp": "2026-05-31T17:06:26Z",
+    "url": "https://www.openstreetmap.org/way/48908467"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 1501142072,
+      "version": 1,
+      "timestamp": "2026-04-19T16:55:29Z",
+      "url": "https://www.openstreetmap.org/way/1501142072"
+    },
+    {
+      "type": "way",
+      "id": 1501142073,
+      "version": 2,
+      "timestamp": "2026-05-31T17:06:26Z",
+      "url": "https://www.openstreetmap.org/way/1501142073"
+    },
+    {
+      "type": "way",
+      "id": 1501142074,
+      "version": 3,
+      "timestamp": "2026-05-31T17:06:26Z",
+      "url": "https://www.openstreetmap.org/way/1501142074"
+    },
+    {
+      "type": "way",
+      "id": 1501142075,
+      "version": 2,
+      "timestamp": "2026-05-31T17:06:26Z",
+      "url": "https://www.openstreetmap.org/way/1501142075"
+    },
+    {
+      "type": "way",
+      "id": 1501142076,
+      "version": 2,
+      "timestamp": "2026-04-19T17:00:18Z",
+      "url": "https://www.openstreetmap.org/way/1501142076"
+    },
+    {
+      "type": "way",
+      "id": 1501142077,
+      "version": 2,
+      "timestamp": "2026-04-19T17:00:18Z",
+      "url": "https://www.openstreetmap.org/way/1501142077"
+    },
+    {
+      "type": "way",
+      "id": 1501142078,
+      "version": 2,
+      "timestamp": "2026-04-19T17:00:18Z",
+      "url": "https://www.openstreetmap.org/way/1501142078"
+    },
+    {
+      "type": "way",
+      "id": 1501142079,
+      "version": 2,
+      "timestamp": "2026-04-19T17:00:18Z",
+      "url": "https://www.openstreetmap.org/way/1501142079"
+    },
+    {
+      "type": "way",
+      "id": 1501142080,
+      "version": 2,
+      "timestamp": "2026-04-19T17:00:18Z",
+      "url": "https://www.openstreetmap.org/way/1501142080"
+    },
+    {
+      "type": "way",
+      "id": 1501142081,
+      "version": 2,
+      "timestamp": "2026-04-19T17:00:18Z",
+      "url": "https://www.openstreetmap.org/way/1501142081"
+    },
+    {
+      "type": "way",
+      "id": 1501142082,
+      "version": 2,
+      "timestamp": "2026-04-19T17:00:18Z",
+      "url": "https://www.openstreetmap.org/way/1501142082"
+    },
+    {
+      "type": "way",
+      "id": 1501142083,
+      "version": 2,
+      "timestamp": "2026-04-19T17:00:18Z",
+      "url": "https://www.openstreetmap.org/way/1501142083"
+    },
+    {
+      "type": "way",
+      "id": 1501142084,
+      "version": 2,
+      "timestamp": "2026-04-19T17:00:18Z",
+      "url": "https://www.openstreetmap.org/way/1501142084"
+    },
+    {
+      "type": "way",
+      "id": 1501142085,
+      "version": 2,
+      "timestamp": "2026-04-19T17:00:18Z",
+      "url": "https://www.openstreetmap.org/way/1501142085"
+    },
+    {
+      "type": "way",
+      "id": 1501142086,
+      "version": 1,
+      "timestamp": "2026-04-19T16:55:29Z",
+      "url": "https://www.openstreetmap.org/way/1501142086"
+    },
+    {
+      "type": "way",
+      "id": 1501142087,
+      "version": 1,
+      "timestamp": "2026-04-19T16:55:29Z",
+      "url": "https://www.openstreetmap.org/way/1501142087"
+    },
+    {
+      "type": "way",
+      "id": 1501142088,
+      "version": 1,
+      "timestamp": "2026-04-19T16:55:29Z",
+      "url": "https://www.openstreetmap.org/way/1501142088"
+    },
+    {
+      "type": "way",
+      "id": 1501142089,
+      "version": 1,
+      "timestamp": "2026-04-19T16:55:29Z",
+      "url": "https://www.openstreetmap.org/way/1501142089"
+    },
+    {
+      "type": "way",
+      "id": 1501142090,
+      "version": 1,
+      "timestamp": "2026-04-19T16:55:29Z",
+      "url": "https://www.openstreetmap.org/way/1501142090"
+    },
+    {
+      "type": "way",
+      "id": 1501142091,
+      "version": 1,
+      "timestamp": "2026-04-19T16:55:29Z",
+      "url": "https://www.openstreetmap.org/way/1501142091"
+    },
+    {
+      "type": "way",
+      "id": 1501142092,
+      "version": 1,
+      "timestamp": "2026-04-19T16:55:29Z",
+      "url": "https://www.openstreetmap.org/way/1501142092"
+    },
+    {
+      "type": "way",
+      "id": 1501142093,
+      "version": 1,
+      "timestamp": "2026-04-19T16:55:29Z",
+      "url": "https://www.openstreetmap.org/way/1501142093"
+    },
+    {
+      "type": "way",
+      "id": 1501142094,
+      "version": 1,
+      "timestamp": "2026-04-19T16:55:29Z",
+      "url": "https://www.openstreetmap.org/way/1501142094"
+    },
+    {
+      "type": "way",
+      "id": 1501142095,
+      "version": 1,
+      "timestamp": "2026-04-19T16:55:29Z",
+      "url": "https://www.openstreetmap.org/way/1501142095"
+    },
+    {
+      "type": "way",
+      "id": 1501143172,
+      "version": 1,
+      "timestamp": "2026-04-19T17:01:23Z",
+      "url": "https://www.openstreetmap.org/way/1501143172"
+    },
+    {
+      "type": "way",
+      "id": 1501143173,
+      "version": 1,
+      "timestamp": "2026-04-19T17:01:23Z",
+      "url": "https://www.openstreetmap.org/way/1501143173"
+    },
+    {
+      "type": "way",
+      "id": 1501143174,
+      "version": 1,
+      "timestamp": "2026-04-19T17:01:23Z",
+      "url": "https://www.openstreetmap.org/way/1501143174"
+    },
+    {
+      "type": "way",
+      "id": 1501143175,
+      "version": 1,
+      "timestamp": "2026-04-19T17:01:23Z",
+      "url": "https://www.openstreetmap.org/way/1501143175"
+    }
+  ],
+  "wikidata": "Q5086171",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/charlotte-transportation-center.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Charlotte Transportation Center (CTC), Uptown Charlotte — procedural, CC0-1.0. bun generators/charlotte-transportation-center.ts",
+    "Map frame: x across the station (the LYNX Blue Line side −x, Brevard Street +x), y along it (4th Street −y, Trade Street +y), z up, metres. Placed at bearing 47°, the axis of the OSM outline (way/48908467). The origin is the outline's centroid; every coordinate below is measured from the OSM ways in that frame.",
+    "The CATS bus station of 1995 still stands as built: the 2023 plan to replace it with an underground bus facility under a tower was put on hold in 2024–25, and CATS is instead renovating the existing station (retail closed in 2025 for a fare-paid zone). So this is the existing building:",
+    "a long segmental barrel vault over the bus lanes (OSM way/1501142074), pale aqua metal on top with a row of seven pale skylights along its crown (USGS NAIP), open at both ends. Lidar (USGS 3DEP NC Phase 4 Mecklenburg, 2016) puts its crown at 18.7 m and its springing at about 10.5 m, just under the wings' crowns; OSM's 8-17 m is low;",
+    "at each end, a white steel truss screen filling the arch over the bus opening: a deep white bottom truss at 7-9.2 m (read off the photos) and a lattice of white verticals and chords above it, with CATS-blue columns, braces and arch chord. The lattice is open: behind it is the shed's dark underside, drawn as a grey panel set 3 m in, not as glass, and the bus opening below stays open;",
+    "two low wings along the long sides under their own teal vaults (lidar crowns 12 m and 13 m, walls 9 m): the concourse and shops on the light-rail side (way/1501142073) and the two-storey block on Brevard (way/1501142075), cream walls with storefront glazing at the street and a second band only on the faces toward the bus lanes;",
+    "the white columns with blue bases inside the shed and the two small hipped kiosks on the bus islands.",
+    "Photos: Mark Clifton, \"Charlotte Transportation Center 01\"-\"04\" (Commons, CC BY-SA 2.0; the Trade Street end and the street sides); City Dweller 2, \"Charlotte Transportation Center viewed from Third St March 2025\" and \"... buses / Interior / Pavilion February 2024\" (Commons, CC BY-SA 4.0). The March 2025 photo is the latest licensed one; the station stood as built then.",
+    "The LYNX CTC/Arena light-rail platforms have their own glass canopies on the Blue Line beside and beyond the station; they are a separate structure and not modelled here.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"charlotte-transportation-center\", model \"charlotte-transportation-center\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/charlotte-transportation-center.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

@@ -1,0 +1,589 @@
+{
+  "id": "optimist-hall",
+  "name": "Optimist Hall",
+  "anchor": [
+    -80.8273601,
+    35.2343613
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 90052,
+      "sha256": "b48138d28aee45e3f59c5fbf5a84269c9f241f9e79db12a9ea7d32397183e0df"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 90052,
+      "sha256": "b48138d28aee45e3f59c5fbf5a84269c9f241f9e79db12a9ea7d32397183e0df"
+    }
+  },
+  "triangles": 1687,
+  "boundsBlenderM": [
+    [
+      -102.758,
+      -80.223,
+      0
+    ],
+    [
+      75.426,
+      72.764,
+      39.5
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.8268591,
+          35.234209
+        ],
+        [
+          -80.8268986,
+          35.2341845
+        ],
+        [
+          -80.8270875,
+          35.2340672
+        ],
+        [
+          -80.8271432,
+          35.2340326
+        ],
+        [
+          -80.827302,
+          35.233934
+        ],
+        [
+          -80.8273713,
+          35.2338909
+        ],
+        [
+          -80.8277492,
+          35.2336573
+        ],
+        [
+          -80.8277724,
+          35.233643
+        ],
+        [
+          -80.8277767,
+          35.2336403
+        ],
+        [
+          -80.8278195,
+          35.2336867
+        ],
+        [
+          -80.82784,
+          35.2337094
+        ],
+        [
+          -80.8279457,
+          35.2338233
+        ],
+        [
+          -80.8279418,
+          35.2338256
+        ],
+        [
+          -80.8278,
+          35.2339137
+        ],
+        [
+          -80.8275692,
+          35.234057
+        ],
+        [
+          -80.8274722,
+          35.2341171
+        ],
+        [
+          -80.8275372,
+          35.2341869
+        ],
+        [
+          -80.8275968,
+          35.2342509
+        ],
+        [
+          -80.8276375,
+          35.2342256
+        ],
+        [
+          -80.8277996,
+          35.2341249
+        ],
+        [
+          -80.8279828,
+          35.2340126
+        ],
+        [
+          -80.8280776,
+          35.2339547
+        ],
+        [
+          -80.8280955,
+          35.2339436
+        ],
+        [
+          -80.8281181,
+          35.2339297
+        ],
+        [
+          -80.8281495,
+          35.2339104
+        ],
+        [
+          -80.8281715,
+          35.2338968
+        ],
+        [
+          -80.8281912,
+          35.2338848
+        ],
+        [
+          -80.8283513,
+          35.2340566
+        ],
+        [
+          -80.8283542,
+          35.2340598
+        ],
+        [
+          -80.8283356,
+          35.2340714
+        ],
+        [
+          -80.8283131,
+          35.2340855
+        ],
+        [
+          -80.8282888,
+          35.2341007
+        ],
+        [
+          -80.8282815,
+          35.2341053
+        ],
+        [
+          -80.8282602,
+          35.2341186
+        ],
+        [
+          -80.8282412,
+          35.2341307
+        ],
+        [
+          -80.8282377,
+          35.2341329
+        ],
+        [
+          -80.8281247,
+          35.2342032
+        ],
+        [
+          -80.8279943,
+          35.2342842
+        ],
+        [
+          -80.8279918,
+          35.2342816
+        ],
+        [
+          -80.8279595,
+          35.2343019
+        ],
+        [
+          -80.8278568,
+          35.2343664
+        ],
+        [
+          -80.8277726,
+          35.2344177
+        ],
+        [
+          -80.8277585,
+          35.2344265
+        ],
+        [
+          -80.827763,
+          35.2344313
+        ],
+        [
+          -80.827728,
+          35.234453
+        ],
+        [
+          -80.8276938,
+          35.2344743
+        ],
+        [
+          -80.8278145,
+          35.2346031
+        ],
+        [
+          -80.8276957,
+          35.2346773
+        ],
+        [
+          -80.8277017,
+          35.2347234
+        ],
+        [
+          -80.8276325,
+          35.2347294
+        ],
+        [
+          -80.8276375,
+          35.2347637
+        ],
+        [
+          -80.8275646,
+          35.2347706
+        ],
+        [
+          -80.8275694,
+          35.2348098
+        ],
+        [
+          -80.8275324,
+          35.234814
+        ],
+        [
+          -80.8275001,
+          35.2348339
+        ],
+        [
+          -80.827512,
+          35.2348473
+        ],
+        [
+          -80.8274912,
+          35.2348599
+        ],
+        [
+          -80.8274596,
+          35.2348248
+        ],
+        [
+          -80.8271491,
+          35.235019
+        ],
+        [
+          -80.8270789,
+          35.234944
+        ],
+        [
+          -80.8271309,
+          35.2349115
+        ],
+        [
+          -80.8271044,
+          35.2348831
+        ],
+        [
+          -80.827079,
+          35.234856
+        ],
+        [
+          -80.8270114,
+          35.234898
+        ],
+        [
+          -80.8268698,
+          35.2347459
+        ],
+        [
+          -80.8268552,
+          35.2347547
+        ],
+        [
+          -80.8268256,
+          35.2347326
+        ],
+        [
+          -80.8267373,
+          35.2348166
+        ],
+        [
+          -80.8266692,
+          35.2347689
+        ],
+        [
+          -80.8266592,
+          35.2347784
+        ],
+        [
+          -80.8266151,
+          35.2347474
+        ],
+        [
+          -80.8266253,
+          35.2347378
+        ],
+        [
+          -80.82653,
+          35.2346709
+        ],
+        [
+          -80.826618,
+          35.2345871
+        ],
+        [
+          -80.8266253,
+          35.2345922
+        ],
+        [
+          -80.826639,
+          35.2345829
+        ],
+        [
+          -80.8266452,
+          35.2345788
+        ],
+        [
+          -80.8266881,
+          35.2345506
+        ],
+        [
+          -80.8265493,
+          35.2344014
+        ],
+        [
+          -80.8268591,
+          35.234209
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 323198228,
+    "version": 10,
+    "timestamp": "2026-04-21T16:09:58Z",
+    "url": "https://www.openstreetmap.org/way/323198228"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 1502058328,
+      "version": 3,
+      "timestamp": "2026-04-21T16:13:37Z",
+      "url": "https://www.openstreetmap.org/way/1502058328"
+    },
+    {
+      "type": "way",
+      "id": 1502058329,
+      "version": 1,
+      "timestamp": "2026-04-21T16:09:58Z",
+      "url": "https://www.openstreetmap.org/way/1502058329"
+    },
+    {
+      "type": "way",
+      "id": 1502058330,
+      "version": 1,
+      "timestamp": "2026-04-21T16:09:58Z",
+      "url": "https://www.openstreetmap.org/way/1502058330"
+    },
+    {
+      "type": "way",
+      "id": 1502058331,
+      "version": 1,
+      "timestamp": "2026-04-21T16:09:58Z",
+      "url": "https://www.openstreetmap.org/way/1502058331"
+    },
+    {
+      "type": "way",
+      "id": 1502058332,
+      "version": 1,
+      "timestamp": "2026-04-21T16:09:58Z",
+      "url": "https://www.openstreetmap.org/way/1502058332"
+    },
+    {
+      "type": "way",
+      "id": 1502058333,
+      "version": 1,
+      "timestamp": "2026-04-21T16:09:58Z",
+      "url": "https://www.openstreetmap.org/way/1502058333"
+    },
+    {
+      "type": "way",
+      "id": 1502058334,
+      "version": 1,
+      "timestamp": "2026-04-21T16:09:58Z",
+      "url": "https://www.openstreetmap.org/way/1502058334"
+    },
+    {
+      "type": "way",
+      "id": 1502058335,
+      "version": 1,
+      "timestamp": "2026-04-21T16:09:58Z",
+      "url": "https://www.openstreetmap.org/way/1502058335"
+    },
+    {
+      "type": "way",
+      "id": 1502058336,
+      "version": 1,
+      "timestamp": "2026-04-21T16:09:58Z",
+      "url": "https://www.openstreetmap.org/way/1502058336"
+    },
+    {
+      "type": "way",
+      "id": 1502058337,
+      "version": 1,
+      "timestamp": "2026-04-21T16:09:58Z",
+      "url": "https://www.openstreetmap.org/way/1502058337"
+    },
+    {
+      "type": "way",
+      "id": 1502058338,
+      "version": 1,
+      "timestamp": "2026-04-21T16:09:58Z",
+      "url": "https://www.openstreetmap.org/way/1502058338"
+    },
+    {
+      "type": "way",
+      "id": 1502058339,
+      "version": 1,
+      "timestamp": "2026-04-21T16:09:58Z",
+      "url": "https://www.openstreetmap.org/way/1502058339"
+    },
+    {
+      "type": "way",
+      "id": 1502058340,
+      "version": 1,
+      "timestamp": "2026-04-21T16:09:58Z",
+      "url": "https://www.openstreetmap.org/way/1502058340"
+    },
+    {
+      "type": "way",
+      "id": 1502058341,
+      "version": 1,
+      "timestamp": "2026-04-21T16:09:58Z",
+      "url": "https://www.openstreetmap.org/way/1502058341"
+    },
+    {
+      "type": "way",
+      "id": 1502058342,
+      "version": 1,
+      "timestamp": "2026-04-21T16:09:58Z",
+      "url": "https://www.openstreetmap.org/way/1502058342"
+    },
+    {
+      "type": "way",
+      "id": 1502058343,
+      "version": 1,
+      "timestamp": "2026-04-21T16:09:58Z",
+      "url": "https://www.openstreetmap.org/way/1502058343"
+    },
+    {
+      "type": "way",
+      "id": 1502058344,
+      "version": 1,
+      "timestamp": "2026-04-21T16:09:58Z",
+      "url": "https://www.openstreetmap.org/way/1502058344"
+    },
+    {
+      "type": "way",
+      "id": 1502058345,
+      "version": 1,
+      "timestamp": "2026-04-21T16:09:58Z",
+      "url": "https://www.openstreetmap.org/way/1502058345"
+    },
+    {
+      "type": "way",
+      "id": 1502058346,
+      "version": 1,
+      "timestamp": "2026-04-21T16:09:58Z",
+      "url": "https://www.openstreetmap.org/way/1502058346"
+    },
+    {
+      "type": "way",
+      "id": 1502058347,
+      "version": 1,
+      "timestamp": "2026-04-21T16:09:58Z",
+      "url": "https://www.openstreetmap.org/way/1502058347"
+    },
+    {
+      "type": "way",
+      "id": 1502058348,
+      "version": 1,
+      "timestamp": "2026-04-21T16:09:58Z",
+      "url": "https://www.openstreetmap.org/way/1502058348"
+    },
+    {
+      "type": "way",
+      "id": 1502058349,
+      "version": 1,
+      "timestamp": "2026-04-21T16:09:58Z",
+      "url": "https://www.openstreetmap.org/way/1502058349"
+    },
+    {
+      "type": "way",
+      "id": 1502058350,
+      "version": 1,
+      "timestamp": "2026-04-21T16:09:58Z",
+      "url": "https://www.openstreetmap.org/way/1502058350"
+    },
+    {
+      "type": "way",
+      "id": 1502058351,
+      "version": 1,
+      "timestamp": "2026-04-21T16:09:58Z",
+      "url": "https://www.openstreetmap.org/way/1502058351"
+    },
+    {
+      "type": "way",
+      "id": 1196692782,
+      "version": 3,
+      "timestamp": "2026-04-21T16:09:58Z",
+      "url": "https://www.openstreetmap.org/way/1196692782"
+    },
+    {
+      "type": "way",
+      "id": 1196692830,
+      "version": 1,
+      "timestamp": "2023-08-10T05:49:00Z",
+      "url": "https://www.openstreetmap.org/way/1196692830"
+    }
+  ],
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/clt-optimist-hall.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Optimist Hall, 1115 N. Brevard St, Optimist Park, Charlotte — procedural, CC0-1.0. bun generators/clt-optimist-hall.ts",
+    "The Gibbs Manufacturing Company's 1892 mill (later Charlotte Pipe and Foundry's), reopened in 2019 as a food hall and offices. A long red-brick mill under one flat white roof, cut open by a courtyard at its south-west end; at that end the two-storey block with stepped parapets on both its end walls (El Thrifty Social), and beside the drive the square brick stack, painted \"OPTIMIST HALL\" down one face. Along the railway side runs a taller pale corrugated-metal shed, its north-east end re-clad as the charcoal Duke Energy Innovation Center; at the north-east end the one-storey brick annex with steel windows (Duke Energy). Black steel canopies over the courtyard bar and the porch on the Parkwood side.",
+    "The stack's lettering is not modelled: pale letters 0.9 m wide on a 3 m shaft read as a stripe at map distance, not as words (STYLE: no stripes).",
+    "Evidence: - OSM: way/323198228 (the outline, height 9) and its building:parts way/1502058328–1502058351 (heights 5–15 m, the stepped parapets mapped part by part), way/1196692782 (Billy Sunday, in the courtyard), way/1196692830 (the porch roof), node/10000428241 (the stack). - Lidar, USGS 3DEP NC Phase 4 Mecklenburg 2016, 1 m (ground_min 206.13 m NAVD88). Flown before the 2018–19 renovation, which demolished bays on the railway side, opened the courtyard and cleared the Parkwood side; the model follows today's OSM outline and takes heights only from roofs still standing. Base (lowest ground under the footprint) 2.4 m above ground_min, at the south-west end; the ground rises ~5 m to the north-east (plane fit below). Heights above base: main roof 8.6–8.9, El Thrifty block 9.7–10.0, the metal shed 14.2, the roof monitor (way/1502058336) 10.1, the north-east annex 9.3–10.2, the zig-zag lean-to 7.9, the stack 39.5 (lidar maximum 41.92 m above ground_min). - Photos: City Dweller 2, CC BY-SA 4.0 (Wikimedia Commons): \"Optimist Hall Sign Main Entrance Late March 2024\" (the stepped block and the stack), \"Optimist Hall main entrance on North Brevard St Mid-October 2025\", \"Optimist Hall Sign along Parkwood Late March 2024\" and \"Optimist Hall Porch on Parkwood Late March 2024\" (the long Parkwood side, eaves, porch canopy), \"Fonta Flora Brewery Optimist Hall Mid-April 2025\" (the east wing's end), \"Optimist Hall Main Level Courtyard Late March 2024\" (courtyard canopy), \"16th St Duke Innovation Center at Optimist Hall Late March 2024\" and \"Duke Energy Optimist Hall Innovation Center November 2022\" (the north-east annex, the charcoal box, the corrugated shed beside it). Flickr \"20211030_optimist_hall\" by denton.harryman, CC0 (the Parkwood elevation, all three blocks). USGS NAIP (plan, white roofs, canopies). - Look-only: AdamChandler86 on Flickr, CC BY-NC-ND 2.0 (the stack's top: four recessed slots per face under a corbelled cap).",
+    "Estimated: window counts and pitch (photos: ~2.6 m on the stepped block, ~3.8 m elsewhere), storey heights, the eave depth on the Parkwood side, the stack's taper (4.3 m square at the foot from photos, 3.0 m under the cap, whose 3.5 m is lidar), the canopies' heights, how far the charcoal Innovation Center runs back into the shed (no photo shows where it ends), the courtyard bar's form (OSM heights only), the faces no photo shows (north-east wall, the shed's railway side, assumed blank corrugated metal).",
+    "Model frame: bearing 53 (model +y runs along the mill to the north-east, +x to the south-east, Parkwood side); metres above the base.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"clt-optimist-hall\", model \"clt-optimist-hall\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/clt-optimist-hall.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

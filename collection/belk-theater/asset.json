@@ -1,0 +1,189 @@
+{
+  "id": "belk-theater",
+  "name": "Belk Theater",
+  "anchor": [
+    -80.8415226,
+    35.2272934
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 65480,
+      "sha256": "0f1cc50533c14be5f72c2f10a1e32b0776c49ca82b457a5878d9c845f3737623"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 65480,
+      "sha256": "0f1cc50533c14be5f72c2f10a1e32b0776c49ca82b457a5878d9c845f3737623"
+    }
+  },
+  "triangles": 1482,
+  "boundsBlenderM": [
+    [
+      -47.347,
+      -52.838,
+      0
+    ],
+    [
+      49.481,
+      55.933,
+      35
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.8413359,
+          35.2268349
+        ],
+        [
+          -80.8409869,
+          35.2270812
+        ],
+        [
+          -80.8412264,
+          35.2272869
+        ],
+        [
+          -80.8412412,
+          35.2272995
+        ],
+        [
+          -80.8412588,
+          35.2273149
+        ],
+        [
+          -80.8417408,
+          35.2277351
+        ],
+        [
+          -80.8417577,
+          35.2277197
+        ],
+        [
+          -80.8418456,
+          35.2277991
+        ],
+        [
+          -80.8418663,
+          35.2277837
+        ],
+        [
+          -80.8418876,
+          35.227768
+        ],
+        [
+          -80.8419091,
+          35.2277367
+        ],
+        [
+          -80.8419303,
+          35.2277057
+        ],
+        [
+          -80.8419486,
+          35.2277082
+        ],
+        [
+          -80.8419528,
+          35.2276882
+        ],
+        [
+          -80.8419597,
+          35.2276549
+        ],
+        [
+          -80.8419643,
+          35.2276331
+        ],
+        [
+          -80.8419695,
+          35.227608
+        ],
+        [
+          -80.8419751,
+          35.2275814
+        ],
+        [
+          -80.8419613,
+          35.2275831
+        ],
+        [
+          -80.841958,
+          35.2275648
+        ],
+        [
+          -80.8419531,
+          35.227538
+        ],
+        [
+          -80.8420422,
+          35.2274721
+        ],
+        [
+          -80.8418456,
+          35.2272947
+        ],
+        [
+          -80.8417943,
+          35.2272485
+        ],
+        [
+          -80.8415917,
+          35.2270657
+        ],
+        [
+          -80.8413359,
+          35.2268349
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 502718738,
+    "version": 6,
+    "timestamp": "2026-01-15T02:16:59Z",
+    "url": "https://www.openstreetmap.org/way/502718738"
+  },
+  "additionalOsm": [],
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/belk-theater.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Belk Theater, Blumenthal Performing Arts Center, Charlotte (Cesar Pelli, 1992) — procedural, CC0-1.0. bun generators/belk-theater.ts",
+    "Map frame: x east, y north, z up, metres, placed at bearing 317°: the model's +y runs north-west along the outline's long side (way/502718738) toward the plaza off North Tryon Street, so the curved glass lobby is the model's north end, East 5th Street runs along its east face and North College Street along its south face. The anchor is the outline's centroid. Founders Hall and the Bank of America tower to the west are left to the map.",
+    "What makes it the Belk: a low curved wall of glass between silver mullions under a silver band, a glass canopy over the doors and a small glass dome on the lobby roof; behind it the auditorium's buff brick drum, its front a shallow arc banded in pale stone; then the stepped buff brick mass of the stage end with its fly tower; and a red-brown brick arcade along 5th and College Streets.",
+    "Evidence (2026 rework): - Lidar: USGS 3DEP NC Phase 4 Mecklenburg 2016, 1 m DSM resampled into this frame. z=0 is the lowest ground, at the College Street end; the plaza by the lobby is 4.6 m higher. Measured: lobby roof 17.5 with the dome to 23 centred at (3, 49); the auditorium drum 23 (parapet 24), x −12…16, its front an arc of radius 17 reaching y 40.5; its aisles 17.5; a 30 m block over x ±15, y −19…1, with 22.5 m wings; the stage end 21 with the fly tower 35, x −5…11, back to y −25; the building's south face at y −51.5, 2 m beyond the OSM outline. - OSM: way/502718738 for the outline's east, west and lobby edges. - Photos: BroadwayTour.net, \"Blumenthal Performing Arts Center in Charlotte, NC\" (Flickr 7043851939 and 7043851891, CC BY-SA 2.0: the lobby glass, mullions, band and canopy); James Willamor, \"Blumenthal Performing Arts, Charlotte\" (Flickr 2947782874, CC BY-SA 2.0: the roof, dome and drum from above); Mapillary street view on 5th Street (CC BY-SA 4.0: the arcade and the buff brick east wall). - Estimated: the arcade's height and pier spacing, window rows, the bands.",
+    "The old model had a single 31 m hall over the whole south end and the dome 6 m south of where the lidar puts it; this one follows the lidar.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"belk-theater\", model \"belk-theater\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/belk-theater.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

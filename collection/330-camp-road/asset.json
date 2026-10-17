@@ -1,0 +1,154 @@
+{
+  "id": "330-camp-road",
+  "name": "330 Camp Road",
+  "anchor": [
+    -80.8337665,
+    35.2464025
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 15532,
+      "sha256": "7ff36cf631bb16e1563f02808320d9867fad93ae12d1afe3ec530f578b8f6da3"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 15532,
+      "sha256": "7ff36cf631bb16e1563f02808320d9867fad93ae12d1afe3ec530f578b8f6da3"
+    }
+  },
+  "triangles": 212,
+  "boundsBlenderM": [
+    [
+      -25.758,
+      -18.198,
+      0
+    ],
+    [
+      24.594,
+      13.979,
+      5
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.833514,
+          35.2463546
+        ],
+        [
+          -80.8335451,
+          35.2463578
+        ],
+        [
+          -80.8335628,
+          35.2462482
+        ],
+        [
+          -80.8337167,
+          35.2462641
+        ],
+        [
+          -80.8337123,
+          35.2463019
+        ],
+        [
+          -80.8338407,
+          35.2463124
+        ],
+        [
+          -80.8338641,
+          35.2463143
+        ],
+        [
+          -80.8338688,
+          35.2463147
+        ],
+        [
+          -80.8340001,
+          35.2463261
+        ],
+        [
+          -80.8339945,
+          35.2463645
+        ],
+        [
+          -80.8339921,
+          35.2463807
+        ],
+        [
+          -80.8340495,
+          35.2463861
+        ],
+        [
+          -80.8340303,
+          35.2465286
+        ],
+        [
+          -80.8335167,
+          35.2464829
+        ],
+        [
+          -80.8334943,
+          35.2464807
+        ],
+        [
+          -80.8335074,
+          35.2463889
+        ],
+        [
+          -80.833514,
+          35.2463546
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 324608444,
+    "version": 13,
+    "timestamp": "2024-10-31T03:48:04Z",
+    "url": "https://www.openstreetmap.org/way/324608444"
+  },
+  "additionalOsm": [],
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/clt-cne-330-camp-road.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Camp North End: 330 Camp Road — procedural, CC0-1.0. bun generators/clt-cne-330-camp-road.ts",
+    "A one-storey flat-roofed outbuilding of the Army depot, between the Ford plant's south-west corner and the south warehouses, set square to the Ford plant's grid rather than the warehouses'; restaurants since the 2019 renovation. Its little neighbour at the east end is `clt-cne-generals-office`. A plain brick box 49 × 26 m with a bump on its south side, a pale coping, a white roof.",
+    "Identity: none beyond being one of the campus's original low brick buildings; it is modelled because the campus set is wanted whole.",
+    "Evidence: - OSM: way/324608444 (building=commercial, height 4, addr 330 Camp Road). No parts. - Lidar, USGS 3DEP NC Phase 4 Mecklenburg 2016, 1 m (measured, NAVD88): roof 232.0 across the whole footprint; ground 228.0–228.4 on the south and west, falling to 227.0 along the north wall (y = 0 is 227.0, so the south wall stands 3.8 m and the north 5.0 m). - Mecklenburg County tax parcel 07903102 (CAMP LANDOWNER LP): its buildings date 1943–1955 (face brick, concrete block); which year is this one's is not recorded per building. - Camp North End leasing brochure (2021, camp.nc): \"330 Camp Road\", 10,000 sq ft. - 2019 C-M Historic Landmarks designation report (MacRostie): the depot added \"an assortment of smaller buildings, including a free-standing cafeteria and a dwelling for Army staff\"; whether this is the cafeteria is not confirmed. - USGS NAIP orthophoto (public domain): the white roof, a dark recess at the west end.",
+    "No licensed photo was found (Mapillary has nothing inside the campus). Estimated or invented: the brick (the campus's), the windows and their spacing, the plinth; kept plain.",
+    "Frame: the Ford plant's grid (x along bearing 96.3°, y along 6.3°), placement bearing 6.3; origin at the outline's centroid, lng −80.8337665, lat 35.2464025. Kit: `clt-cne-301-camp-road.ts`.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"clt-cne-330-camp-road\", model \"clt-cne-330-camp-road\"), generated by https://github.com/alexwohlbruck/landmarks/blob/a1974bbf738c6994edbe99a7a61818b9d69da9e0/generators/clt-cne-330-camp-road.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

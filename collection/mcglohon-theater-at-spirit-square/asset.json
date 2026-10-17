@@ -1,0 +1,145 @@
+{
+  "id": "mcglohon-theater-at-spirit-square",
+  "name": "McGlohon Theater at Spirit Square",
+  "anchor": [
+    -80.8398834,
+    35.2289106
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 86620,
+      "sha256": "e414ceec8be8764539475c577db6dbe5b12c625d73efa594ba24c0dde75b2c59"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 86620,
+      "sha256": "e414ceec8be8764539475c577db6dbe5b12c625d73efa594ba24c0dde75b2c59"
+    }
+  },
+  "triangles": 2019,
+  "boundsBlenderM": [
+    [
+      -29.118,
+      -28.049,
+      0
+    ],
+    [
+      29.515,
+      31.653,
+      27
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.8400215,
+          35.2291774
+        ],
+        [
+          -80.8399809,
+          35.2291394
+        ],
+        [
+          -80.8398423,
+          35.2290097
+        ],
+        [
+          -80.8397889,
+          35.2289597
+        ],
+        [
+          -80.839765,
+          35.2289767
+        ],
+        [
+          -80.8395623,
+          35.2287869
+        ],
+        [
+          -80.8397403,
+          35.2286601
+        ],
+        [
+          -80.8397866,
+          35.2287034
+        ],
+        [
+          -80.8398138,
+          35.228684
+        ],
+        [
+          -80.8402028,
+          35.2290482
+        ],
+        [
+          -80.8400215,
+          35.2291774
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 131139724,
+    "version": 5,
+    "timestamp": "2024-05-09T17:07:22Z",
+    "url": "https://www.openstreetmap.org/way/131139724"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q22061093",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Mcglohon.jpg",
+      "author": "Rschoneman of English Wikipedia",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Mcglohon.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Mcglohon.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/mcglohon-theater-spirit-square.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Spirit Square and the McGlohon Theater, North Tryon Street, Charlotte: the former First Baptist Church (J. M. McMichael, 1909), a domed neoclassical sanctuary, now the McGlohon Theater, with the church's education wing behind it — procedural, CC0-1.0, no textures. bun generators/mcglohon-theater-spirit-square.ts",
+    "Map frame: x east, y north, z up, metres, placed at bearing 48.7°, the street grid's axis and the outline's short edges: the model's +x runs south-east from North Tryon Street toward College Street, +y north-east toward East 7th Street. So the church's front faces Tryon on the model's west face. The anchor is the metre-based area centroid of way/131139724, the one OSM outline that covers the sanctuary and the wing.",
+    "Identity, in order: the pale verdigris dome on a brick drum ringed with arched windows, with its lantern; the three-part Tryon front, a pedimented centre with the great arched rose window over a balustrade and two arched doors, between corner pavilions each under a small dome; the walls of rose-brown brick with cream stone trim, the ground storey banded in cream stone; tall arched windows on the transept gables. The education wing behind is a plainer brick block under a red hipped roof.",
+    "Dimensions:",
+    "Plan: OSM way/131139724, except the sanctuary's north wall. The 2016 lidar (USGS 3DEP NC Phase 4, Mecklenburg) puts it at y = 12.6, not OSM's 10.0, and centres the dome and the front's gable on y = 0.6; the south wall (-11.4) and the Tryon front (-30.5) agree with OSM. So the sanctuary is drawn 24 m wide, symmetric about its real axis, and stands 2.6 m past OSM's north edge over open ground.",
+    "Heights, lidar (above the lowest ground): dome drum cornice 21, dome crown 24.2, lantern 27; front pediment apex 18.3 and nave ridge 18; transept ridge 18; side walls 12.8; wing 13.5 with its hip to 16.5.",
+    "Read off the photos, scaled by the 24 m front: pavilions 7.2 m wide and centre bay 9.6 m (recessed 1 m, as the lidar shows); banded ground storey to 7 m; pavilion and side cornice 12.8 m, centre cornice 15.4 m; rose window radius 3.3 m springing at 10.2 m; small domes 2.5 m in radius rising to 14.9 m.",
+    "Colours: the brick is rose-brown, not buff (the old postcard is hand-tinted; the photos and the 2025 restoration show brown brick and cream stone); the domes pale verdigris and the wing's hipped roof red, as in USGS NAIP. The ground falls about 1 m from Tryon to the wing's far end, so y = 0 is the low end and the front starts at its own ground level.",
+    "Photos: \"Mcglohon.jpg\" (Rschoneman, en.wikipedia, public domain; the Tryon front, about 2005); Dclemens1971, \"Former First Baptist Church\", \"Main Library and former First Baptist Church 01\" and \"02\" (Commons, CC BY 4.0; the 2025 restoration, under scaffolding); Mapillary image 3391392104465461 (2022, CC BY-SA 4.0, the south side from Tryon); \"First Baptist Church, Charlotte, N.C.\" (linen postcard, UNC Libraries Commons, public domain; form only, its colours are tinted); USGS NAIP (public domain). Not seen in any licensed photo: the wing's College Street end and its windows, drawn as plain rows.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"mcglohon-theater-spirit-square\", model \"mcglohon-theater-spirit-square\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/mcglohon-theater-spirit-square.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 16 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the mcglohon-theater-spirit-square-glazing finish in the window colour.",
+    "To fit six materials, folded mcglohon-theater-spirit-square-pale-verdigris into roof (ΔE 15.3)."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

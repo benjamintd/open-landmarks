@@ -1,0 +1,181 @@
+{
+  "id": "amos-southend",
+  "anchor": [
+    -80.8551394,
+    35.2167061
+  ],
+  "coordinateSystem": "Local metres about the anchor (equirectangular, WGS84 radius): X east, Y north, Z up. glTF export: X east, Y up, Z south. Heading already baked.",
+  "license": "ODbL-1.0",
+  "footprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -10.222267478874901,
+          22.865023408792556
+        ],
+        [
+          -22.09974196802795,
+          8.560468841587696
+        ],
+        [
+          -12.705077996230743,
+          0.7569725367486444
+        ],
+        [
+          -14.696783135944896,
+          -1.6475284640102856
+        ],
+        [
+          9.849391172934356,
+          -22.03012722836897
+        ],
+        [
+          22.745454593875337,
+          -6.501058262365811
+        ],
+        [
+          -3.801519400782818,
+          15.540200914421604
+        ],
+        [
+          -2.8193086467918445,
+          16.72018751717321
+        ],
+        [
+          -10.222267478874901,
+          22.865023408792556
+        ]
+      ]
+    ]
+  },
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.8552518,
+          35.2169115
+        ],
+        [
+          -80.8553824,
+          35.216783
+        ],
+        [
+          -80.8552791,
+          35.2167129
+        ],
+        [
+          -80.855301,
+          35.2166913
+        ],
+        [
+          -80.8550311,
+          35.2165082
+        ],
+        [
+          -80.8548893,
+          35.2166477
+        ],
+        [
+          -80.8551812,
+          35.2168457
+        ],
+        [
+          -80.8551704,
+          35.2168563
+        ],
+        [
+          -80.8552518,
+          35.2169115
+        ]
+      ]
+    ]
+  },
+  "parts": [
+    {
+      "osm": "way/432937734",
+      "tags": {
+        "addr:city": "Charlotte",
+        "addr:housenumber": "1423",
+        "addr:postcode": "28203",
+        "addr:state": "NC",
+        "addr:street": "South Tryon Street",
+        "amenity": "bar",
+        "building": "yes",
+        "height": "8",
+        "name": "The Gin Mill",
+        "opening_hours": "Tu-Fr 16:00-21:00; Sa-Su 12:00-21:00",
+        "phone": "+1-704-373-0782",
+        "website": "https://ginmillsouthend.com/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -10.222267478874901,
+              22.865023408792556
+            ],
+            [
+              -22.09974196802795,
+              8.560468841587696
+            ],
+            [
+              -12.705077996230743,
+              0.7569725367486444
+            ],
+            [
+              -14.696783135944896,
+              -1.6475284640102856
+            ],
+            [
+              9.849391172934356,
+              -22.03012722836897
+            ],
+            [
+              22.745454593875337,
+              -6.501058262365811
+            ],
+            [
+              -3.801519400782818,
+              15.540200914421604
+            ],
+            [
+              -2.8193086467918445,
+              16.72018751717321
+            ],
+            [
+              -10.222267478874901,
+              22.865023408792556
+            ]
+          ]
+        ]
+      },
+      "version": 6,
+      "timestamp": "2026-07-30T18:02:40Z"
+    }
+  ],
+  "osm": {
+    "type": "way",
+    "id": 432937734,
+    "version": 6,
+    "timestamp": "2026-07-30T18:02:40Z",
+    "url": "https://www.openstreetmap.org/way/432937734"
+  },
+  "additionalOsm": [],
+  "tags": {
+    "addr:city": "Charlotte",
+    "addr:housenumber": "1423",
+    "addr:postcode": "28203",
+    "addr:state": "NC",
+    "addr:street": "South Tryon Street",
+    "amenity": "bar",
+    "building": "yes",
+    "height": "8",
+    "name": "The Gin Mill",
+    "opening_hours": "Tu-Fr 16:00-21:00; Sa-Su 12:00-21:00",
+    "phone": "+1-704-373-0782",
+    "website": "https://ginmillsouthend.com/"
+  }
+}

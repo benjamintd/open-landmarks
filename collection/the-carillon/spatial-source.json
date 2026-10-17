@@ -1,0 +1,151 @@
+{
+  "id": "the-carillon",
+  "anchor": [
+    -80.8453018,
+    35.2285233
+  ],
+  "coordinateSystem": "Local metres about the anchor (equirectangular, WGS84 radius): X east, Y north, Z up. glTF export: X east, Y up, Z south. Heading already baked.",
+  "license": "ODbL-1.0",
+  "footprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -6.274321673689356,
+          -32.527555209456914
+        ],
+        [
+          -32.080879516033484,
+          -2.437896848387179
+        ],
+        [
+          9.27508421361702,
+          33.039624867553265
+        ],
+        [
+          26.89774422026469,
+          12.490046867426248
+        ],
+        [
+          19.777753103363843,
+          6.3786068226441754
+        ],
+        [
+          27.961650939060306,
+          -3.1614735382985466
+        ],
+        [
+          -6.274321673689356,
+          -32.527555209456914
+        ]
+      ]
+    ]
+  },
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.8453708,
+          35.2282311
+        ],
+        [
+          -80.8456546,
+          35.2285014
+        ],
+        [
+          -80.8451998,
+          35.2288201
+        ],
+        [
+          -80.845006,
+          35.2286355
+        ],
+        [
+          -80.8450843,
+          35.2285806
+        ],
+        [
+          -80.8449943,
+          35.2284949
+        ],
+        [
+          -80.8453708,
+          35.2282311
+        ]
+      ]
+    ]
+  },
+  "parts": [
+    {
+      "osm": "way/90480703",
+      "tags": {
+        "addr:city": "Charlotte",
+        "addr:housenumber": "227",
+        "addr:postcode": "28202",
+        "addr:state": "NC",
+        "addr:street": "West Trade Street",
+        "building": "yes",
+        "building:levels": "20",
+        "height": "130",
+        "source": "Bing"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.274321673689356,
+              -32.527555209456914
+            ],
+            [
+              -32.080879516033484,
+              -2.437896848387179
+            ],
+            [
+              9.27508421361702,
+              33.039624867553265
+            ],
+            [
+              26.89774422026469,
+              12.490046867426248
+            ],
+            [
+              19.777753103363843,
+              6.3786068226441754
+            ],
+            [
+              27.961650939060306,
+              -3.1614735382985466
+            ],
+            [
+              -6.274321673689356,
+              -32.527555209456914
+            ]
+          ]
+        ]
+      },
+      "version": 8,
+      "timestamp": "2025-11-25T20:08:13Z"
+    }
+  ],
+  "osm": {
+    "type": "way",
+    "id": 90480703,
+    "version": 8,
+    "timestamp": "2025-11-25T20:08:13Z",
+    "url": "https://www.openstreetmap.org/way/90480703"
+  },
+  "additionalOsm": [],
+  "tags": {
+    "addr:city": "Charlotte",
+    "addr:housenumber": "227",
+    "addr:postcode": "28202",
+    "addr:state": "NC",
+    "addr:street": "West Trade Street",
+    "building": "yes",
+    "building:levels": "20",
+    "height": "130",
+    "source": "Bing"
+  }
+}

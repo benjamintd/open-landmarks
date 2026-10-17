@@ -1,0 +1,106 @@
+{
+  "id": "kahn-boilerhouse",
+  "name": "Kahn Boilerhouse",
+  "anchor": [
+    -80.834421,
+    35.247782
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 22152,
+      "sha256": "f87dee87d69536cf45689b6dd7177669c872cde2a9d5728b6ea8cf16154daab6"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 22152,
+      "sha256": "f87dee87d69536cf45689b6dd7177669c872cde2a9d5728b6ea8cf16154daab6"
+    }
+  },
+  "triangles": 438,
+  "boundsBlenderM": [
+    [
+      -11.572,
+      -10.511,
+      0
+    ],
+    [
+      11.572,
+      15.611,
+      24.7
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.8343172,
+          35.2476878
+        ],
+        [
+          -80.8345481,
+          35.2477086
+        ],
+        [
+          -80.8345254,
+          35.2478765
+        ],
+        [
+          -80.8342945,
+          35.2478557
+        ],
+        [
+          -80.8343172,
+          35.2476878
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 324609976,
+    "version": 6,
+    "timestamp": "2023-01-09T01:31:32Z",
+    "url": "https://www.openstreetmap.org/way/324609976"
+  },
+  "additionalOsm": [],
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/clt-cne-kahn-boilerhouse.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Camp North End: the Kahn Boilerhouse and its smokestack — procedural, CC0-1.0. bun generators/clt-cne-kahn-boilerhouse.ts",
+    "The power plant Albert Kahn built in 1924 beside the Ford assembly plant (`clt-cne-ford-plant.ts`), part of the designated landmark, now the heart of Camp North End's Boileryard. A tall brick box on a raised concrete basement: wide brick corners, walls that are almost all steel window between them — big lower units, a row of smaller ones over a transom — a broad pale concrete band over the glass and a concrete coping on the parapet, a concrete door surround on the south. On its north side stands the riveted steel smokestack, tapering, rusted, joined to the wall high up by a boxy breeching duct. The 1924 water tower east of it is its own model (`camp-north-end-water-tower`, way/833631505) and is left out.",
+    "Evidence: - OSM: way/324609976 (\"Kahn Boilerhouse\", height 6 — the lidar says otherwise), 21.1 × 18.7 m, square to the Ford plant's grid. No parts. The stack isn't mapped. - Lidar (USGS 3DEP NC Phase 4 Mecklenburg 2016, 0.5 m DSM and ground): roof deck 232.75 m NAVD88, parapet 233.0–233.3; ground 224.0–224.2 on the south and east, falling to ~223.6 at the north-west corner (the basement shows more there); y = 0 is 223.6 m. The stack: centre 9.3 m west of the box's east wall and 4.2 m north of its north wall, about 3 m across at the top, top 248.3 m (24.7 m above y = 0). The breeching: a 3 m wide duct topping out at 230.9 m between the stack and the north wall. - Charlotte-Mecklenburg Historic Landmarks Commission survey and designation report (MacRostie Historic Advisors, 2019): \"a one-half story brick building on a raised basement\", the basement cast in concrete on all four sides, brick corners with concrete details and glazed walls of 21-pane steel windows with 9-pane units above, \"a concrete band runs just above the windows and along the parapet\", the main entrance on the south in a concrete surround, the north entrance \"beneath the connection to the adjacent steel smokestack\". - USGS NAIP orthophoto (public domain): plan, roof, the stack's shadow.",
+    "Look-only (not licensed for reuse; described, not copied): the report's May 2018 photos of all four sides, the stack and the water tower.",
+    "Estimated: the window grid (five bays a side, the photos), the heights of the basement, transom and bands, the stack's base diameter (~3.6 m, the north photo shows it flaring) and the duct's depth. No CC-licensed photo of the boilerhouse was found on Commons, Openverse or Mapillary.",
+    "Frame: the Ford plant's grid (see `clt-cne-ford-plant.ts`), bearing 6.3; the origin is the outline's centroid, lng −80.8344210, lat 35.2477820.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"clt-cne-kahn-boilerhouse\", model \"clt-cne-kahn-boilerhouse\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/clt-cne-kahn-boilerhouse.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

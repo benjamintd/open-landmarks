@@ -1,0 +1,139 @@
+{
+  "id": "the-evening-muse",
+  "anchor": [
+    -80.8048139,
+    35.2477371
+  ],
+  "coordinateSystem": "Local metres about the anchor (equirectangular, WGS84 radius): X east, Y north, Z up. glTF export: X east, Y up, Z south. Heading already baked.",
+  "license": "ODbL-1.0",
+  "footprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          1.1272921776731935,
+          -8.86103146707805
+        ],
+        [
+          5.400093172275613,
+          -5.4657869985456475
+        ],
+        [
+          6.772844130154446,
+          -0.5565974541430395
+        ],
+        [
+          -0.5181907592167343,
+          8.604996638425362
+        ],
+        [
+          -8.027411231280023,
+          2.6271399825743402
+        ],
+        [
+          1.1272921776731935,
+          -8.86103146707805
+        ]
+      ]
+    ]
+  },
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.8048015,
+          35.2476575
+        ],
+        [
+          -80.8047545,
+          35.247688
+        ],
+        [
+          -80.8047394,
+          35.2477321
+        ],
+        [
+          -80.8048196,
+          35.2478144
+        ],
+        [
+          -80.8049022,
+          35.2477607
+        ],
+        [
+          -80.8048015,
+          35.2476575
+        ]
+      ]
+    ]
+  },
+  "parts": [
+    {
+      "osm": "way/1192512105",
+      "tags": {
+        "addr:city": "Charlotte",
+        "addr:housenumber": "3227",
+        "addr:postcode": "28205",
+        "addr:state": "NC",
+        "addr:street": "North Davidson Street",
+        "building": "yes",
+        "club": "yes",
+        "height": "5",
+        "name": "The Evening Muse"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1.1272921776731935,
+              -8.86103146707805
+            ],
+            [
+              5.400093172275613,
+              -5.4657869985456475
+            ],
+            [
+              6.772844130154446,
+              -0.5565974541430395
+            ],
+            [
+              -0.5181907592167343,
+              8.604996638425362
+            ],
+            [
+              -8.027411231280023,
+              2.6271399825743402
+            ],
+            [
+              1.1272921776731935,
+              -8.86103146707805
+            ]
+          ]
+        ]
+      },
+      "version": 3,
+      "timestamp": "2024-05-02T18:58:56Z"
+    }
+  ],
+  "osm": {
+    "type": "way",
+    "id": 1192512105,
+    "version": 3,
+    "timestamp": "2024-05-02T18:58:56Z",
+    "url": "https://www.openstreetmap.org/way/1192512105"
+  },
+  "additionalOsm": [],
+  "tags": {
+    "addr:city": "Charlotte",
+    "addr:housenumber": "3227",
+    "addr:postcode": "28205",
+    "addr:state": "NC",
+    "addr:street": "North Davidson Street",
+    "building": "yes",
+    "club": "yes",
+    "height": "5",
+    "name": "The Evening Muse"
+  }
+}

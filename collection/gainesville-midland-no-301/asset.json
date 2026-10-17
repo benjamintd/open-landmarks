@@ -1,0 +1,163 @@
+{
+  "id": "gainesville-midland-no-301",
+  "name": "Gainesville Midland No. 301",
+  "anchor": [
+    -80.8431885,
+    35.1925923
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 112472,
+      "sha256": "b03e88787bb024d11794fcee725d0e0d96a9a4999ed212d965f94a1d7fafd162"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 112472,
+      "sha256": "b03e88787bb024d11794fcee725d0e0d96a9a4999ed212d965f94a1d7fafd162"
+    }
+  },
+  "triangles": 2664,
+  "boundsBlenderM": [
+    [
+      -9.108,
+      -7.517,
+      0
+    ],
+    [
+      9.308,
+      7.312,
+      4.78
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.8432886,
+          35.1926393
+        ],
+        [
+          -80.8432837,
+          35.1926346
+        ],
+        [
+          -80.8432765,
+          35.1926282
+        ],
+        [
+          -80.8432099,
+          35.192587
+        ],
+        [
+          -80.8431818,
+          35.1925697
+        ],
+        [
+          -80.8431062,
+          35.1925248
+        ],
+        [
+          -80.8431047,
+          35.192525
+        ],
+        [
+          -80.8430862,
+          35.192545
+        ],
+        [
+          -80.8430864,
+          35.1925463
+        ],
+        [
+          -80.8431601,
+          35.1925933
+        ],
+        [
+          -80.8431882,
+          35.1926106
+        ],
+        [
+          -80.843255,
+          35.1926515
+        ],
+        [
+          -80.8432645,
+          35.1926554
+        ],
+        [
+          -80.8432714,
+          35.192658
+        ],
+        [
+          -80.8432829,
+          35.1926504
+        ],
+        [
+          -80.8432886,
+          35.1926393
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "node",
+    "id": 8558009126,
+    "version": 2,
+    "timestamp": "2026-07-19T00:50:26Z",
+    "url": "https://www.openstreetmap.org/node/8558009126"
+  },
+  "additionalOsm": [],
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:GM301 2018.jpg",
+      "author": "JLWikiUser202X",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:GM301_2018.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/freedom-park-locomotive.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Gainesville Midland No. 301, Freedom Park, Charlotte — procedural, CC0-1.0. bun generators/freedom-park-locomotive.ts",
+    "Map frame: x to the engine's right, y forward along the track (towards the pilot), z up, metres. Placed at bearing 307°: the engine faces north-west, parallel to the fenced gravel bed it stands in (the inner ring way/1199662693 of the plaza multipolygon) and the footway beside it. The anchor is the OSM node (node/8558009126, historic=locomotive), which sits at the cab, so the engine-and-tender is centred on it.",
+    "A 2-8-0 Consolidation, Baldwin 1920, built as Charlotte Harbor & Northern No. 72, later Seaboard No. 930 and Gainesville Midland No. 301, on display here since 1959. Published figures: 54 in drivers, 16 ft driving wheelbase, 24 ft 6 in engine wheelbase. The rest (boiler, cab, tender) uses the usual proportions of a Baldwin road engine of that size, checked against photos: about 21 m over pilot and tender, 3 m wide, 4.6 m to the stack.",
+    "It is shown with its tender only; the photos (2012–2018) show no caboose.",
+    "Kept toy-like: a round boiler and smokebox, stack, bell, two domes, a boxy headlight, a cab with windows, eight driving wheels as discs with a side rod, a wedge pilot, and a plain tender on two trucks. No piping, handrails or lettering. * 2026 rework (colour and detail; the engine's massing is unchanged):",
+    "The engine is held at charcoal #4a4f57's lightness: the old near-black (#3f4144) was darker than STYLE.md allows.",
+    "The tender is dark green, not black: \"Locomotivated 0320\" (mliu92, Flickr, CC BY-SA 2.0, 2012) shows its green side lettered GAINESVILLE MIDLAND; the Allen Forrest photos (AL904, Flickr, CC BY-NC-ND 2.0, 2017; look-only) agree. The 2018 Commons photo doesn't show the tender, so a repaint since then can't be ruled out.",
+    "The headlight is the big box lamp on a bracket at the top of the smokebox front, standing forward of the stack (all photos); the old one was a small block on the smokebox.",
+    "The stack is a straight cylinder with a thin lip, not flared.",
+    "The bell is black (2017 and 2018 photos), not brass; brass was 2012. Photos: \"GM301 2018.jpg\" (JLWikiUser202X, Wikimedia Commons, CC BY-SA 4.0, front left three-quarter), mliu92's \"Locomotivated 0320\" (front right) and \"Bolt Upright 0321\" (rivet detail), both CC BY-SA 2.0.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"freedom-park-locomotive\", model \"freedom-park-locomotive\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/freedom-park-locomotive.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

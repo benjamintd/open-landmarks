@@ -1,0 +1,168 @@
+{
+  "id": "il-grande-disco",
+  "name": "Il Grande Disco",
+  "anchor": [
+    -80.8431653,
+    35.2268965
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 192012,
+      "sha256": "02ef33a32629b9f6bc67345bb30d051d800d9c0d593eae1cbc20d2c525e186a5"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 192012,
+      "sha256": "02ef33a32629b9f6bc67345bb30d051d800d9c0d593eae1cbc20d2c525e186a5"
+    }
+  },
+  "triangles": 3978,
+  "boundsBlenderM": [
+    [
+      -1.441,
+      -2.617,
+      0
+    ],
+    [
+      1.08,
+      1.875,
+      4.51
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.8431811,
+          35.2269101
+        ],
+        [
+          -80.8431811,
+          35.2269101
+        ],
+        [
+          -80.8431803,
+          35.2269085
+        ],
+        [
+          -80.8431629,
+          35.2268749
+        ],
+        [
+          -80.8431621,
+          35.2268733
+        ],
+        [
+          -80.843162,
+          35.2268733
+        ],
+        [
+          -80.8431612,
+          35.226873
+        ],
+        [
+          -80.8431575,
+          35.2268743
+        ],
+        [
+          -80.8431538,
+          35.2268756
+        ],
+        [
+          -80.8431534,
+          35.2268763
+        ],
+        [
+          -80.8431534,
+          35.2268763
+        ],
+        [
+          -80.8431572,
+          35.2268836
+        ],
+        [
+          -80.8431709,
+          35.2269098
+        ],
+        [
+          -80.8431723,
+          35.2269125
+        ],
+        [
+          -80.8431725,
+          35.226913
+        ],
+        [
+          -80.8431725,
+          35.2269131
+        ],
+        [
+          -80.8431734,
+          35.2269133
+        ],
+        [
+          -80.8431808,
+          35.2269108
+        ],
+        [
+          -80.8431811,
+          35.2269101
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "node",
+    "id": 8415199023,
+    "version": 1,
+    "timestamp": "2021-02-11T14:14:39Z",
+    "url": "https://www.openstreetmap.org/node/8415199023"
+  },
+  "additionalOsm": [],
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/il-grande-disco.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Il Grande Disco, Arnaldo Pomodoro's bronze disc on the plaza at Trade and Tryon, Charlotte — procedural, CC0-1.0.",
+    "Map frame: x east, y north, z up, metres, origin at the anchor (OSM node 8415199023) on the paving. The catalog turns the model by bearing 20°, so a true bearing b is model bearing b − 20°.",
+    "Evidence",
+    "Published: cast bronze, 1974, 15 ft (4.57 m) across (Charlotte public-art listings, Wikipedia's Independence Square article).",
+    "Lidar (USGS 3DEP NC Phase 4, Mecklenburg 2016, 0.5 m): the disc shows as a 1 m-wide ridge whose top is 4.5 m above the paving around it (5.0 m above ground_min, paving at 0.4–0.6), running from (−0.5, +1.25) to (+1.0, −2.25) m around the anchor: the disc's plane lies along true bearing 157°/337°, so its faces look out at 67° and 247°. Its centre sits at (+0.1, −0.4) m true from the OSM node; the model puts it there.",
+    "Photos (all Flickr via Openverse; looked at, proportions read off them): ucumari photography \"Il Grande Disco\" (CC BY-NC-ND 2.0, face-on), kcomesundone \"KSM - Il Grande Disco\" (CC BY-NC 2.0, face-on, other face), Keith Weston \"Viewing the Grande Disco\" and \"Skateboarding at the Grande Disco\" (CC BY-NC-SA 2.0, oblique and nearly edge-on).",
+    "What the photos show, and how it is drawn",
+    "The disc stands upright on its edge, straight on the paving, on a small dark foot hidden under it; no plinth. It is a thick slab, about 0.85 m (estimated from the edge-on photo and the lidar ridge width).",
+    "Each face is polished gold bronze, broken by a starburst of deep dark channels round a dark rough core with a gold block at its heart. About ten channels of different lengths and widths; four of them run out through the rim and notch it, the rest stop short. The channel layout is read off the face-on photos (angles counter-clockwise from the horizontal as seen from the face). The back face uses the same layout mirrored, so a channel that breaks the rim breaks it through the whole thickness, as on the real disc.",
+    "Here: gold face plates over a slightly smaller dark core; the channels are the gaps between the plates, so they are recessed 0.2 m into the disc with the dark core at their floor, and their floors carry a few bold dark blocks for the carved, toothed interior. The rim band is the dark rough bronze the edge-on photos show, with a gold bevel on each face's edge; where a channel breaks the rim it leaves a recessed notch.",
+    "Colours from the daylight photos: the gold pulled down a little in saturation to sit in the palette; the dark bronze lifted to a warm umber, as dark as the palette allows for a defining feature.",
+    "Estimated: thickness, channel depth, the back face's layout (the photos of the second face show the same scheme, not an identical one).",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"il-grande-disco\", model \"il-grande-disco\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/il-grande-disco.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

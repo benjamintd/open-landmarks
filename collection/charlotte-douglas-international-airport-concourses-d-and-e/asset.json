@@ -1,0 +1,228 @@
+{
+  "id": "charlotte-douglas-international-airport-concourses-d-and-e",
+  "name": "Charlotte Douglas International Airport Concourses D and E",
+  "anchor": [
+    -80.9405128,
+    35.2229961
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 99492,
+      "sha256": "10d4aae13cceed8904b6fe836dae4026344f39d684dabee9c367097fd80d69e7"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 99492,
+      "sha256": "10d4aae13cceed8904b6fe836dae4026344f39d684dabee9c367097fd80d69e7"
+    }
+  },
+  "triangles": 1833,
+  "boundsBlenderM": [
+    [
+      -124.319,
+      -295.549,
+      0
+    ],
+    [
+      133.852,
+      295.239,
+      16
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.9406577,
+          35.2208227
+        ],
+        [
+          -80.9406512,
+          35.2207073
+        ],
+        [
+          -80.9412777,
+          35.2206727
+        ],
+        [
+          -80.9412528,
+          35.2204022
+        ],
+        [
+          -80.9413205,
+          35.2203976
+        ],
+        [
+          -80.9413152,
+          35.220348
+        ],
+        [
+          -80.9412831,
+          35.2203504
+        ],
+        [
+          -80.9409771,
+          35.2203682
+        ],
+        [
+          -80.940928,
+          35.2203239
+        ],
+        [
+          -80.9408225,
+          35.220332
+        ],
+        [
+          -80.940781,
+          35.2203796
+        ],
+        [
+          -80.9404613,
+          35.2203983
+        ],
+        [
+          -80.9402546,
+          35.2204103
+        ],
+        [
+          -80.9398382,
+          35.2204344
+        ],
+        [
+          -80.9396422,
+          35.2204458
+        ],
+        [
+          -80.9393297,
+          35.2204641
+        ],
+        [
+          -80.9392899,
+          35.2204662
+        ],
+        [
+          -80.9392986,
+          35.2205334
+        ],
+        [
+          -80.9393016,
+          35.220567
+        ],
+        [
+          -80.9392801,
+          35.2205967
+        ],
+        [
+          -80.9392639,
+          35.2206452
+        ],
+        [
+          -80.939261,
+          35.2206916
+        ],
+        [
+          -80.9392726,
+          35.2207391
+        ],
+        [
+          -80.9392953,
+          35.2207774
+        ],
+        [
+          -80.9393287,
+          35.2208077
+        ],
+        [
+          -80.9393307,
+          35.220825
+        ],
+        [
+          -80.9393372,
+          35.2209013
+        ],
+        [
+          -80.9393604,
+          35.2208999
+        ],
+        [
+          -80.9396823,
+          35.2208811
+        ],
+        [
+          -80.9402089,
+          35.2208531
+        ],
+        [
+          -80.9405828,
+          35.2208339
+        ],
+        [
+          -80.9406249,
+          35.2208315
+        ],
+        [
+          -80.9406249,
+          35.220824
+        ],
+        [
+          -80.9406577,
+          35.2208227
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 1347417024,
+    "version": 3,
+    "timestamp": "2025-07-11T21:52:27Z",
+    "url": "https://www.openstreetmap.org/way/1347417024"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 1355079414,
+      "version": 3,
+      "timestamp": "2025-07-11T21:52:27Z",
+      "url": "https://www.openstreetmap.org/way/1355079414"
+    }
+  ],
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/clt-concourses-d-e.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Charlotte Douglas International Airport (CLT): Concourses D and E — procedural, CC0-1.0.",
+    "Concourse D (way/1347417024), the international pier east of The Plaza: a 10.5 m older pier, then the taller gate hall that runs out to its half-round east end, its roof rolling down to the walls along every edge. Concourse E (way/1355079414), the regional concourse: a connector angling north-east from The Plaza through two round nodes to a hub, then a long pier north and an arm east, lined with ground-boarding gates. E is low, white and two storeys (Commons \"CLT Concourse E\"; the 2025 apron photos by ZLEA); its hub carries a glazed drum, and the connector's two nodes are small drums too, on the round bulges OSM maps there.",
+    "Heights (D 10.5 m and 16 m with the roll starting at 13.8 m; E 6.5 m; the drums 10-11 m) and the roof forms were checked against renders of Mapbox's 3D buildings (tileset mapbox.mapbox-3dbuildings-v1), used only as a visual reference: the geometry is OSM's outlines and our own modelling.",
+    "Site frame and helpers: see clt-terminal.ts.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"clt-concourses-d-e\", model \"clt-concourses-d-e\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/clt-concourses-d-e.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

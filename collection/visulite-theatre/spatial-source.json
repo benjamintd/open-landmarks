@@ -1,0 +1,127 @@
+{
+  "id": "visulite-theatre",
+  "anchor": [
+    -80.8259955,
+    35.2136047
+  ],
+  "coordinateSystem": "Local metres about the anchor (equirectangular, WGS84 radius): X east, Y north, Z up. glTF export: X east, Y up, Z south. Heading already baked.",
+  "license": "ODbL-1.0",
+  "footprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          9.14036594762824,
+          18.24526454146186
+        ],
+        [
+          -18.589958205652444,
+          -8.415753503447228
+        ],
+        [
+          -9.14036594762824,
+          -18.23413259146147
+        ],
+        [
+          18.589958205652444,
+          8.4157535042382
+        ],
+        [
+          9.14036594762824,
+          18.24526454146186
+        ]
+      ]
+    ]
+  },
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.825895,
+          35.2137686
+        ],
+        [
+          -80.8261999,
+          35.2135291
+        ],
+        [
+          -80.826096,
+          35.2134409
+        ],
+        [
+          -80.8257911,
+          35.2136803
+        ],
+        [
+          -80.825895,
+          35.2137686
+        ]
+      ]
+    ]
+  },
+  "parts": [
+    {
+      "osm": "way/957552031",
+      "tags": {
+        "addr:city": "Charlotte",
+        "addr:housenumber": "1615",
+        "addr:postcode": "28204",
+        "addr:state": "NC",
+        "addr:street": "Elizabeth Avenue",
+        "amenity": "theatre",
+        "building": "yes",
+        "name": "Visulite Theatre",
+        "wikidata": "Q43092212"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.14036594762824,
+              18.24526454146186
+            ],
+            [
+              -18.589958205652444,
+              -8.415753503447228
+            ],
+            [
+              -9.14036594762824,
+              -18.23413259146147
+            ],
+            [
+              18.589958205652444,
+              8.4157535042382
+            ],
+            [
+              9.14036594762824,
+              18.24526454146186
+            ]
+          ]
+        ]
+      },
+      "version": 2,
+      "timestamp": "2023-12-21T15:21:35Z"
+    }
+  ],
+  "osm": {
+    "type": "way",
+    "id": 957552031,
+    "version": 2,
+    "timestamp": "2023-12-21T15:21:35Z",
+    "url": "https://www.openstreetmap.org/way/957552031"
+  },
+  "additionalOsm": [],
+  "tags": {
+    "addr:city": "Charlotte",
+    "addr:housenumber": "1615",
+    "addr:postcode": "28204",
+    "addr:state": "NC",
+    "addr:street": "Elizabeth Avenue",
+    "amenity": "theatre",
+    "building": "yes",
+    "name": "Visulite Theatre",
+    "wikidata": "Q43092212"
+  }
+}

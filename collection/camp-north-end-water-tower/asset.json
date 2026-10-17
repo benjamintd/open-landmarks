@@ -1,0 +1,156 @@
+{
+  "id": "camp-north-end-water-tower",
+  "name": "Camp North End Water Tower",
+  "anchor": [
+    -80.834148,
+    35.2477583
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 39748,
+      "sha256": "7d64466fc2c564b9c6c0b25f5a5b353d3f3f0659f8e71fe1f6c67b2318af57cb"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 39748,
+      "sha256": "7d64466fc2c564b9c6c0b25f5a5b353d3f3f0659f8e71fe1f6c67b2318af57cb"
+    }
+  },
+  "triangles": 1060,
+  "boundsBlenderM": [
+    [
+      -5.335,
+      -6.705,
+      0
+    ],
+    [
+      7.135,
+      5.765,
+      40.1
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.8341813,
+          35.2477934
+        ],
+        [
+          -80.8341615,
+          35.2478014
+        ],
+        [
+          -80.8341391,
+          35.2478023
+        ],
+        [
+          -80.8341176,
+          35.2477953
+        ],
+        [
+          -80.8341026,
+          35.247783
+        ],
+        [
+          -80.8340938,
+          35.2477632
+        ],
+        [
+          -80.8340971,
+          35.2477424
+        ],
+        [
+          -80.8341101,
+          35.2477264
+        ],
+        [
+          -80.8341275,
+          35.2477172
+        ],
+        [
+          -80.8341468,
+          35.247714
+        ],
+        [
+          -80.8341724,
+          35.2477187
+        ],
+        [
+          -80.8341887,
+          35.247729
+        ],
+        [
+          -80.8341985,
+          35.2477422
+        ],
+        [
+          -80.8342017,
+          35.2477521
+        ],
+        [
+          -80.8342011,
+          35.2477675
+        ],
+        [
+          -80.8341983,
+          35.2477751
+        ],
+        [
+          -80.8341813,
+          35.2477934
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 833631505,
+    "version": 4,
+    "timestamp": "2020-08-10T17:55:16Z",
+    "url": "https://www.openstreetmap.org/way/833631505"
+  },
+  "additionalOsm": [],
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/camp-north-end-water-tower.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Camp North End water tower, Statesville Ave, Charlotte — procedural, CC0-1.0. bun generators/camp-north-end-water-tower.ts",
+    "Map frame: x east, y north, z up, metres; origin on the ground at the centre of the OSM outline (way/833631505, man_made=water_tower, historic, height 35, a 9.9 m circle; not tagged as a building, so nothing to replace). Round, so bearing 0.",
+    "The 1924 water tower of Albert Kahn's Ford Motor Company assembly plant, later the Charlotte Army Missile Plant and now Camp North End, where it stands east of the Kahn Boilerhouse as the site's emblem. It is part of the designated landmark (Charlotte-Mecklenburg Historic Landmarks Commission, 2019) and held \"more than 105,000 gallons\" (Camp North End history).",
+    "A classic four-post riveted tank: a squat cylinder with a hemispherical bottom and a conical roof under an overhanging lip, a walkway where cylinder meets bowl, four battered columns on the diagonals, a slender riser with a collar under the bowl, two square strut frames and crossed rods. Unpainted and weathered to a dark brown-black with rust, the riser a brighter rust.",
+    "Rework (2026): the form of the first model is kept; its size, height, spread of the legs and colours now follow the lidar and the photos.",
+    "Evidence - Lidar, USGS 3DEP NC Phase 4 Mecklenburg 2016, 0.5 m DSM and ground (the tower predates the site's renovation and is unchanged); y = 0 is the lowest ground under the legs, 224.0 m NAVD88. The tank's disc, 10.3 m across over the roof lip, is centred 0.9 m east and 0.5 m south of the OSM centre; its eave is 37.6 m, the roof rises about 0.5 m per metre to 39.6 m and a vent to 40.1 m. Two square strut frames show under it, at 11.3 m (about 10 m a side, centred on the tank) and 22.5 m (about 8.8 m a side): the legs stand on the diagonals, battered 0.055 m per metre each way, about 7.9 m from the axis at the ground. - \"Camp North End, Charlotte, NC\", AdamChandler86, Flickr, CC BY-NC-ND 2.0 (looked at, not copied): the tank's shape from below, the lipped roof, walkway, four lattice columns, riser and collar, rod bracing. Toned sepia, so no colour from it. - Look-only: MacRostie Historic Advisors, May 2018, \"Ford Motor Co. Boiler House and Water Tower, West Elevation, Facing East\", in the Historic Landmarks Commission designation report: the colours, dark weathered brown-black steel with rust, the riser rust-orange. - No CC-licensed colour photo was found: Commons and Openverse have nothing else, and Mapillary has no coverage inside Camp North End.",
+    "Massing changes from the first model, with their evidence: the top was OSM's 35 m; the lidar gives 40.1 m, so the tank is raised (eave 34.3 m to 37.6 m). The tank was 8.5 m across; the lidar disc gives 9.8 m (10.3 m over the lip). The legs stood 4.85 m from the axis at the ground; the lidar's strut frames put them 7.9 m out, a wider and more battered base. The tower moves 1.0 m to the lidar centre. The Kahn Boilerhouse model's east wall is about 9.5 m west of the nearest leg.",
+    "Estimated: the cylinder and bowl split (photo proportions: cylinder 0.43, bowl 0.5 of the width; about 150,000 gallons at this size, against \"more than 105,000\"), the top strut frame under the bowl, the riser's collar, member sizes, thickened to read at phone size (columns 0.9 m, struts 0.56 m, rods 0.36 m). The dark brown is pulled to the palette's floor of charcoal lightness so the tower reads as the dark one it is. No ladder, railing or lettering.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"camp-north-end-water-tower\", model \"camp-north-end-water-tower\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/camp-north-end-water-tower.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

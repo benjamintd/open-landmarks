@@ -1,0 +1,149 @@
+{
+  "id": "1720-statesville-avenue",
+  "name": "1720 Statesville Avenue",
+  "anchor": [
+    -80.8351307,
+    35.2447837
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 21024,
+      "sha256": "1782388388b0fc0fad0acdbdf4f0f9728db55ad6e0e7cff2eda2aa7ff2f19421"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 21024,
+      "sha256": "1782388388b0fc0fad0acdbdf4f0f9728db55ad6e0e7cff2eda2aa7ff2f19421"
+    }
+  },
+  "triangles": 288,
+  "boundsBlenderM": [
+    [
+      -44.772,
+      -45.908,
+      0
+    ],
+    [
+      44.949,
+      46.049,
+      10.1
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.8356217,
+          35.24469
+        ],
+        [
+          -80.8351127,
+          35.2451959
+        ],
+        [
+          -80.834637,
+          35.2448826
+        ],
+        [
+          -80.835154,
+          35.2443683
+        ],
+        [
+          -80.8356217,
+          35.24469
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 1017983351,
+    "version": 1,
+    "timestamp": "2022-01-03T22:23:24Z",
+    "url": "https://www.openstreetmap.org/way/1017983351"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 1017983345,
+      "version": 1,
+      "timestamp": "2022-01-03T22:23:24Z",
+      "url": "https://www.openstreetmap.org/way/1017983345"
+    },
+    {
+      "type": "way",
+      "id": 1017983346,
+      "version": 1,
+      "timestamp": "2022-01-03T22:23:24Z",
+      "url": "https://www.openstreetmap.org/way/1017983346"
+    },
+    {
+      "type": "way",
+      "id": 1017983347,
+      "version": 1,
+      "timestamp": "2022-01-03T22:23:24Z",
+      "url": "https://www.openstreetmap.org/way/1017983347"
+    },
+    {
+      "type": "way",
+      "id": 1017983348,
+      "version": 1,
+      "timestamp": "2022-01-03T22:23:24Z",
+      "url": "https://www.openstreetmap.org/way/1017983348"
+    },
+    {
+      "type": "way",
+      "id": 1017983349,
+      "version": 1,
+      "timestamp": "2022-01-03T22:23:24Z",
+      "url": "https://www.openstreetmap.org/way/1017983349"
+    },
+    {
+      "type": "way",
+      "id": 1017983350,
+      "version": 1,
+      "timestamp": "2022-01-03T22:23:24Z",
+      "url": "https://www.openstreetmap.org/way/1017983350"
+    }
+  ],
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/clt-cne-1720-statesville.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Camp North End: 1720 Statesville Avenue — procedural, CC0-1.0. bun generators/clt-cne-1720-statesville.ts",
+    "The south-west end of the Army Quartermaster Corps' Building No. 4 (1941–43); the building's middle was taken down for Kinship West and its north-east end is `clt-cne-301-camp-road`. A one-storey red-brick box 56 × 74 m, two corrugated-metal clerestory monitors across its width, a lower wing on its north-west side, and on the south-east side a loading dock under a deep flat steel canopy.",
+    "Identity: the red brick box with its two silver-and-glass monitors, and the dock canopy on the south-east side.",
+    "Evidence: - OSM: the outline way/1017983351 (no height) and its 6 parts: the monitors way/1017983346, 1017983348 (height 9), the main roof 1017983345, 1017983347, 1017983349 (6.9) and the low north-west wing 1017983350 (5.8). - Lidar, USGS 3DEP NC Phase 4 Mecklenburg 2016, 1 m (measured, NAVD88): ground 228.1–228.3 (y = 0 is 228.1); deck 235.4 (7.3 m); monitors 238.2 (10.1 m); wing 234.0 (5.9 m). - C-M Historic Landmarks Commission survey report (2017, landmarkscommission.org/wp-content/uploads/2017/06/Ford-Motor-Co-Plant-SR.pdf), Buildings Nos. 4–6 (published): brick in common bond, corrugated-metal clerestory monitors crossing the width, 180 ft wide. - Mecklenburg County tax parcel 07903102 (CAMP LANDOWNER LP): 1943 face brick among the parcel's buildings. - Mapillary 360° photo 585774473263517 (cbreedlove, 2022-06-10, CC BY-SA 4.0), taken 24 m south-east of the south-east face: red brick, the dock under a flat steel canopy with loading doors, the south monitor clad in silver corrugated metal over a tall glazed band. - USGS NAIP orthophoto (public domain): white roofs.",
+    "Estimated: the canopy's extent (y −31..9, 5.5 m deep, 5.6 m high) and the door spacing, from the one photo; window sizes. The north-west face (on Statesville Avenue) and both ends are unphotographed and kept plain: a few windows, guessed. The photo predates the 2022–24 renovation's finish; no name is published for the building, so it takes its address.",
+    "Frame and kit: `clt-cne-301-camp-road.ts`. y along the long axis (bearing 39.47°), placement bearing 39.47; origin at the outline's centroid, lng −80.8351307, lat 35.2447837.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"clt-cne-1720-statesville\", model \"clt-cne-1720-statesville\"), generated by https://github.com/alexwohlbruck/landmarks/blob/a1974bbf738c6994edbe99a7a61818b9d69da9e0/generators/clt-cne-1720-statesville.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

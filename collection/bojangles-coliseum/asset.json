@@ -1,0 +1,353 @@
+{
+  "id": "bojangles-coliseum",
+  "name": "Bojangles Coliseum",
+  "anchor": [
+    -80.7951706,
+    35.2050538
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 128064,
+      "sha256": "0c21ff592b5d92fb134d707b33770355f1c384defb1816eabd7260b832fc0872"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 128064,
+      "sha256": "0c21ff592b5d92fb134d707b33770355f1c384defb1816eabd7260b832fc0872"
+    }
+  },
+  "triangles": 3957,
+  "boundsBlenderM": [
+    [
+      -54.002,
+      -57.775,
+      0
+    ],
+    [
+      52.2,
+      52.2,
+      36.566
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.7956692,
+          35.2048418
+        ],
+        [
+          -80.795687,
+          35.2048721
+        ],
+        [
+          -80.7957059,
+          35.2049141
+        ],
+        [
+          -80.7957198,
+          35.2049574
+        ],
+        [
+          -80.7957288,
+          35.2050014
+        ],
+        [
+          -80.7957322,
+          35.205046
+        ],
+        [
+          -80.7957307,
+          35.2050907
+        ],
+        [
+          -80.7957237,
+          35.2051351
+        ],
+        [
+          -80.7957113,
+          35.2051787
+        ],
+        [
+          -80.7956943,
+          35.2052211
+        ],
+        [
+          -80.7956717,
+          35.2052619
+        ],
+        [
+          -80.7956449,
+          35.2053008
+        ],
+        [
+          -80.7956135,
+          35.2053373
+        ],
+        [
+          -80.7955779,
+          35.2053712
+        ],
+        [
+          -80.7955388,
+          35.2054022
+        ],
+        [
+          -80.7954959,
+          35.2054298
+        ],
+        [
+          -80.7954499,
+          35.2054538
+        ],
+        [
+          -80.7954014,
+          35.2054741
+        ],
+        [
+          -80.7953507,
+          35.2054905
+        ],
+        [
+          -80.7952983,
+          35.2055028
+        ],
+        [
+          -80.7952449,
+          35.2055108
+        ],
+        [
+          -80.7951905,
+          35.2055145
+        ],
+        [
+          -80.7951361,
+          35.2055139
+        ],
+        [
+          -80.795082,
+          35.2055091
+        ],
+        [
+          -80.7950287,
+          35.2054999
+        ],
+        [
+          -80.7949765,
+          35.2054864
+        ],
+        [
+          -80.7949263,
+          35.205469
+        ],
+        [
+          -80.7948785,
+          35.2054477
+        ],
+        [
+          -80.7948336,
+          35.2054226
+        ],
+        [
+          -80.7947915,
+          35.205394
+        ],
+        [
+          -80.7947532,
+          35.2053623
+        ],
+        [
+          -80.7947189,
+          35.2053276
+        ],
+        [
+          -80.7946884,
+          35.2052904
+        ],
+        [
+          -80.7946628,
+          35.205251
+        ],
+        [
+          -80.7946418,
+          35.2052097
+        ],
+        [
+          -80.7946262,
+          35.205167
+        ],
+        [
+          -80.7946152,
+          35.2051232
+        ],
+        [
+          -80.7946096,
+          35.2050786
+        ],
+        [
+          -80.7946095,
+          35.205034
+        ],
+        [
+          -80.7946144,
+          35.2049894
+        ],
+        [
+          -80.7946247,
+          35.2049455
+        ],
+        [
+          -80.7946401,
+          35.2049026
+        ],
+        [
+          -80.7946601,
+          35.2048611
+        ],
+        [
+          -80.7946852,
+          35.2048214
+        ],
+        [
+          -80.7947149,
+          35.204784
+        ],
+        [
+          -80.7947394,
+          35.2047588
+        ],
+        [
+          -80.7947871,
+          35.204717
+        ],
+        [
+          -80.7948538,
+          35.2046739
+        ],
+        [
+          -80.794916,
+          35.2046433
+        ],
+        [
+          -80.7949708,
+          35.2046229
+        ],
+        [
+          -80.7950224,
+          35.2046089
+        ],
+        [
+          -80.7950758,
+          35.2045994
+        ],
+        [
+          -80.7951184,
+          35.204595
+        ],
+        [
+          -80.7951844,
+          35.2045928
+        ],
+        [
+          -80.7952385,
+          35.2045961
+        ],
+        [
+          -80.7952922,
+          35.2046035
+        ],
+        [
+          -80.7953448,
+          35.2046155
+        ],
+        [
+          -80.7953925,
+          35.2046306
+        ],
+        [
+          -80.7954463,
+          35.2045339
+        ],
+        [
+          -80.7955472,
+          35.2045828
+        ],
+        [
+          -80.7956387,
+          35.2046438
+        ],
+        [
+          -80.7957165,
+          35.2047137
+        ],
+        [
+          -80.7957718,
+          35.2047922
+        ],
+        [
+          -80.7957593,
+          35.2047982
+        ],
+        [
+          -80.7956692,
+          35.2048418
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 323383462,
+    "version": 14,
+    "timestamp": "2025-04-12T18:52:06Z",
+    "url": "https://www.openstreetmap.org/way/323383462"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q4938627",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/bojangles-coliseum.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Bojangles Coliseum, Charlotte (1955, A. G. Odell Jr.) — procedural, CC0-1.0. bun generators/bojangles-coliseum.ts",
+    "Map frame: x east, y north, z up, metres; placed at bearing 0. The origin is the centre of the circle fitted to the round part of the OSM outline (way/323383462, r = 51.0 m), so the drum is centred on it.",
+    "The building is its dome: a shallow aluminium-clad steel cap, 332 ft (101 m) across, once the largest free-span dome in the world, published as rising to 112 ft (34.1 m). Under it a drum ringed by a band of tall windows between concrete piers, on a painted blue plinth, and a low entrance block on the south-west.",
+    "Rework (2026): forms kept from the first model (drum, piers, window ring, blue plinth, tension ring, cap, vent, annex). What changed, and why:",
+    "Heights are now lidar (USGS 3DEP NC Phase 4 Mecklenburg 2016, 1 m DSM, radial medians about the OSM centre). y = 0 is the lowest ground round the drum (north-west side), about 0.6 m under the average. Measured: the cap's edge 17.3 m at r 52; 24.6 m at r 40; 29.6 m at r 30; 33.1 m at r 20; crown 35.6 m (the published 34.1 m is from the plaza). A spherical cap through (52.2, 17.3) and (0, 35.6) fits every ring within 0.6 m. The first model had the ring at 15.7 m and the crown at 34.1 m.",
+    "The cap's rim overhangs the drum by 2 m: the lidar edge is at r 52.2 (the OSM circle, 51.0, traces the wall line), and the Willamor aerial shows the drum set back in shadow under the rim. Was 0.8 m.",
+    "The entrance block is 8.0 m (lidar), out to r 63 between bearings 203.5° and 239° (was 7.2 m, to 242.5°).",
+    "The window ring: a Mapillary view of the north side (2021) shows the upper wall is folded concrete, so each bay's window head runs on a slant from about 11 m down to 8 m, the same way round the whole drum; the sills sit on the blue plinth at 3.4 m (scaled off the photo by the lidar wall height). Drawn as one panel per bay with a slanted head (a sawtooth round the ring), between the piers.",
+    "Colours re-read from the photos: teal-blue plinth, warm grey concrete, pale aluminium cap, pulled to the palette's lightness.",
+    "Evidence: lidar as above; USGS NAIP (public domain) for the plan, the annex and the vent; Commons \"Bojangles Coliseum and The Park, Charlotte, NC - panoramio\" (James Willamor, CC BY-SA 3.0) for the overall look; Mapillary 141268124780537 and 535495337492794 (2021, CC BY-SA 4.0) for the north drum. Estimated: the slant of the window heads, pier width.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"bojangles-coliseum\", model \"bojangles-coliseum\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/bojangles-coliseum.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 1 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the bojangles-coliseum-glazing finish in the window colour.",
+    "To fit six materials, folded bojangles-coliseum-concrete into bojangles-coliseum-dome (ΔE 11.5)."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

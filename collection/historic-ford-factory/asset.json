@@ -1,0 +1,316 @@
+{
+  "id": "historic-ford-factory",
+  "name": "Historic Ford Factory",
+  "anchor": [
+    -80.8342425,
+    35.2471457
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 83928,
+      "sha256": "74d9f3d6db91db722321c06af62c4b6ef058b7f844e1e88fa8bb4c1bd752412b"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 83928,
+      "sha256": "74d9f3d6db91db722321c06af62c4b6ef058b7f844e1e88fa8bb4c1bd752412b"
+    }
+  },
+  "triangles": 1551,
+  "boundsBlenderM": [
+    [
+      -127.658,
+      -59.668,
+      0
+    ],
+    [
+      132.852,
+      60.523,
+      13.4
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.8355277,
+          35.2476867
+        ],
+        [
+          -80.8328595,
+          35.2474457
+        ],
+        [
+          -80.8328661,
+          35.2473963
+        ],
+        [
+          -80.8327815,
+          35.2473887
+        ],
+        [
+          -80.8327829,
+          35.2473783
+        ],
+        [
+          -80.8327871,
+          35.2473468
+        ],
+        [
+          -80.8327939,
+          35.2472967
+        ],
+        [
+          -80.8328009,
+          35.2472451
+        ],
+        [
+          -80.8328063,
+          35.2472052
+        ],
+        [
+          -80.8328122,
+          35.2471609
+        ],
+        [
+          -80.8328195,
+          35.2471069
+        ],
+        [
+          -80.832822,
+          35.2470886
+        ],
+        [
+          -80.8329081,
+          35.2470963
+        ],
+        [
+          -80.8329132,
+          35.2470585
+        ],
+        [
+          -80.8329181,
+          35.2470224
+        ],
+        [
+          -80.832922,
+          35.2469939
+        ],
+        [
+          -80.8329244,
+          35.2469755
+        ],
+        [
+          -80.8329257,
+          35.2469662
+        ],
+        [
+          -80.8329306,
+          35.24693
+        ],
+        [
+          -80.8329356,
+          35.2468931
+        ],
+        [
+          -80.8329588,
+          35.2467208
+        ],
+        [
+          -80.8329206,
+          35.2467173
+        ],
+        [
+          -80.8329301,
+          35.2466476
+        ],
+        [
+          -80.8329718,
+          35.2466513
+        ],
+        [
+          -80.8329773,
+          35.2466109
+        ],
+        [
+          -80.8330479,
+          35.2466173
+        ],
+        [
+          -80.8331218,
+          35.2466239
+        ],
+        [
+          -80.8349876,
+          35.2467921
+        ],
+        [
+          -80.8349936,
+          35.2467474
+        ],
+        [
+          -80.8355007,
+          35.2467931
+        ],
+        [
+          -80.8354933,
+          35.246848
+        ],
+        [
+          -80.8356395,
+          35.2468612
+        ],
+        [
+          -80.8356055,
+          35.247112
+        ],
+        [
+          -80.8355624,
+          35.2474307
+        ],
+        [
+          -80.8355441,
+          35.2475656
+        ],
+        [
+          -80.8355277,
+          35.2476867
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 835067654,
+    "version": 3,
+    "timestamp": "2024-10-31T03:06:16Z",
+    "url": "https://www.openstreetmap.org/way/835067654"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 324608492,
+      "version": 16,
+      "timestamp": "2024-10-31T03:06:16Z",
+      "url": "https://www.openstreetmap.org/way/324608492"
+    },
+    {
+      "type": "way",
+      "id": 835064741,
+      "version": 4,
+      "timestamp": "2020-08-10T17:23:43Z",
+      "url": "https://www.openstreetmap.org/way/835064741"
+    },
+    {
+      "type": "way",
+      "id": 835064742,
+      "version": 3,
+      "timestamp": "2020-08-10T17:23:43Z",
+      "url": "https://www.openstreetmap.org/way/835064742"
+    },
+    {
+      "type": "way",
+      "id": 835067653,
+      "version": 3,
+      "timestamp": "2024-10-31T03:06:16Z",
+      "url": "https://www.openstreetmap.org/way/835067653"
+    },
+    {
+      "type": "way",
+      "id": 835800986,
+      "version": 4,
+      "timestamp": "2020-08-10T17:25:36Z",
+      "url": "https://www.openstreetmap.org/way/835800986"
+    },
+    {
+      "type": "way",
+      "id": 835800987,
+      "version": 4,
+      "timestamp": "2020-08-10T17:25:36Z",
+      "url": "https://www.openstreetmap.org/way/835800987"
+    },
+    {
+      "type": "way",
+      "id": 835800988,
+      "version": 4,
+      "timestamp": "2020-08-10T17:25:36Z",
+      "url": "https://www.openstreetmap.org/way/835800988"
+    },
+    {
+      "type": "way",
+      "id": 838339976,
+      "version": 1,
+      "timestamp": "2020-08-18T19:36:35Z",
+      "url": "https://www.openstreetmap.org/way/838339976"
+    },
+    {
+      "type": "way",
+      "id": 835828574,
+      "version": 1,
+      "timestamp": "2020-08-10T16:23:37Z",
+      "url": "https://www.openstreetmap.org/way/835828574"
+    },
+    {
+      "type": "way",
+      "id": 835828575,
+      "version": 1,
+      "timestamp": "2020-08-10T16:23:37Z",
+      "url": "https://www.openstreetmap.org/way/835828575"
+    },
+    {
+      "type": "way",
+      "id": 835828576,
+      "version": 2,
+      "timestamp": "2024-10-31T03:06:16Z",
+      "url": "https://www.openstreetmap.org/way/835828576"
+    },
+    {
+      "type": "way",
+      "id": 835828577,
+      "version": 1,
+      "timestamp": "2020-08-10T16:23:37Z",
+      "url": "https://www.openstreetmap.org/way/835828577"
+    }
+  ],
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/clt-cne-ford-plant.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Camp North End: the Historic Ford Factory — procedural, CC0-1.0. bun generators/clt-cne-ford-plant.ts",
+    "Albert Kahn's Ford Motor Company Assembly Plant of 1924 on Statesville Avenue, later the Army Quartermaster depot and missile plant, now the Ford Building at Camp North End (renovated 2021–2023). A single-storey red-brick shed 244 × 93 m, its long axis running a little south of east, with the main front on Statesville Avenue to the west. Its identity, from the street and from above, is the roof: two long raised monitors, each a pair of sawtooth skylights back to back, their tall glazed faces turned outward (one north, one south) and their pale roofs falling to a gutter between them; and the Kahn walls: brick piers with steel window walls between them from a brick knee wall to a brick band under the coping, and on the west front a decorative brick frieze over pilasters.",
+    "Evidence: - OSM: way/835067654 (the outline, \"Historic Ford Factory\", architect Albert Kahn). Inside it: way/324608492 (an older outline of the same shed), way/835828574–835828577 (flat roof strips), and the four skillion parts way/835800986, 835800987, 835800988, 838339976 (height 13, roof height 6) that are the two monitors' four sawteeth. Their roof:direction tags agree with the lidar: each tooth's high edge is the monitor's outer edge. - Lidar (USGS 3DEP NC Phase 4 Mecklenburg 2016, 1 m DSM and ground returns), sampled in the building's frame: flat roof deck 231.2 m NAVD88, parapet ~231.9, sawtooth crests 237.2–237.3, the gutter between each pair 232.4–232.6; the monitors run from 100.5 m west to 108 m east of the centroid and are 24.8 m wide; the lower east addition 229.05; the south awning 227.7. Ground 223.9 (north side, the lowest) to 225.1 (south). y = 0 is 223.9 m. The flight predates the 2021–2023 renovation, which kept the massing. - Charlotte-Mecklenburg Historic Landmarks Commission survey and designation report, Ford Motor Company Assembly Plant (MacRostie Historic Advisors, 2019; photos May 2018): single storey, long axis east to west, the west front of fourteen bays between brick pilasters with a cast-stone band at the window heads and decorative brick panels (red and yellow brick, diamond field, chevron capitals) under a dentil cornice, wrapping two bays round each corner; north, south and east walls of full-height multi-pane steel windows over a stucco-and-brick knee wall, in twenty bays; the west front's windows bricked in by the Army; \"a flat roof with four sawtooth portions\"; a later metal awning along the west end of the south wall; a lower brick loading addition on the east. Floor plan: the 20 × 7 column grid (12.2 m bays). - S9 Architecture's project page for Camp North End (the renovation's architect): \"refurbished clerestories\" — so the sawtooth faces are glazed again, drawn here as window panels. - USGS NAIP orthophoto (public domain): the plan, the pale monitor roofs against the dark grey flat roof.",
+    "Look-only (not licensed for reuse; described, not copied): the survey report's May 2018 photos (west front, north, east and south walls, the window detail and the south-west corner's brickwork).",
+    "Estimated: window head and knee heights (the report's photos), the frieze band's height, pier widths, the glazing's height in the monitors, the corner piers' height over the cornice. The west front is drawn as the survey found it, its bays bricked in; whether the renovation reopened them isn't confirmed by any licensed photo. No CC-licensed photo of the plant itself was found on Commons, Openverse or Mapillary.",
+    "This file also holds the small kit the Camp North End generators share (the building frame, prisms, chamfered piers, wall panels, output). Its own model is built only when it is run directly.",
+    "Frame: the building's own grid. x runs along the long axis (bearing 96.3°), y across it (bearing 6.3°), z up, metres; the placement's bearing is 6.3. The origin is the outline's centroid, lng −80.8342425, lat 35.2471457.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"clt-cne-ford-plant\", model \"clt-cne-ford-plant\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/clt-cne-ford-plant.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

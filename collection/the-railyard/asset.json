@@ -1,0 +1,609 @@
+{
+  "id": "the-railyard",
+  "name": "The Railyard",
+  "anchor": [
+    -80.8555847,
+    35.2173604
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 83896,
+      "sha256": "ea57669c9a088ec3e9399ca92e92dd65a97cb23c26410f6cf0f1070e430010b6"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 83896,
+      "sha256": "ea57669c9a088ec3e9399ca92e92dd65a97cb23c26410f6cf0f1070e430010b6"
+    }
+  },
+  "triangles": 1406,
+  "boundsBlenderM": [
+    [
+      -56.036,
+      -56.175,
+      0
+    ],
+    [
+      55.068,
+      55.807,
+      43
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.8549589,
+          35.2174911
+        ],
+        [
+          -80.8550314,
+          35.217423
+        ],
+        [
+          -80.8550547,
+          35.2174403
+        ],
+        [
+          -80.8551155,
+          35.2173838
+        ],
+        [
+          -80.8551044,
+          35.2173764
+        ],
+        [
+          -80.8551544,
+          35.2173286
+        ],
+        [
+          -80.8551694,
+          35.2173385
+        ],
+        [
+          -80.8551746,
+          35.2173335
+        ],
+        [
+          -80.8551555,
+          35.2173204
+        ],
+        [
+          -80.8551786,
+          35.2172984
+        ],
+        [
+          -80.8551974,
+          35.2173114
+        ],
+        [
+          -80.8552051,
+          35.2173035
+        ],
+        [
+          -80.8551866,
+          35.2172908
+        ],
+        [
+          -80.8552114,
+          35.2172664
+        ],
+        [
+          -80.855231,
+          35.2172786
+        ],
+        [
+          -80.8552352,
+          35.2172746
+        ],
+        [
+          -80.8552387,
+          35.2172712
+        ],
+        [
+          -80.8552489,
+          35.2172781
+        ],
+        [
+          -80.8552646,
+          35.2172624
+        ],
+        [
+          -80.8552954,
+          35.2172838
+        ],
+        [
+          -80.8552793,
+          35.2172987
+        ],
+        [
+          -80.8552883,
+          35.2173051
+        ],
+        [
+          -80.8553044,
+          35.21729
+        ],
+        [
+          -80.8553351,
+          35.2173113
+        ],
+        [
+          -80.8553189,
+          35.2173267
+        ],
+        [
+          -80.8553276,
+          35.2173329
+        ],
+        [
+          -80.8553439,
+          35.2173174
+        ],
+        [
+          -80.8553743,
+          35.2173385
+        ],
+        [
+          -80.855358,
+          35.2173544
+        ],
+        [
+          -80.8553663,
+          35.2173605
+        ],
+        [
+          -80.8553833,
+          35.2173447
+        ],
+        [
+          -80.8554131,
+          35.2173654
+        ],
+        [
+          -80.8553963,
+          35.2173823
+        ],
+        [
+          -80.8554054,
+          35.2173888
+        ],
+        [
+          -80.8554226,
+          35.2173719
+        ],
+        [
+          -80.855436,
+          35.2173812
+        ],
+        [
+          -80.8554514,
+          35.2173919
+        ],
+        [
+          -80.8554332,
+          35.2174089
+        ],
+        [
+          -80.8554462,
+          35.2174179
+        ],
+        [
+          -80.8554499,
+          35.2174205
+        ],
+        [
+          -80.8554545,
+          35.2174167
+        ],
+        [
+          -80.855468,
+          35.2174274
+        ],
+        [
+          -80.8554903,
+          35.2174436
+        ],
+        [
+          -80.8555201,
+          35.2174647
+        ],
+        [
+          -80.8555386,
+          35.2174783
+        ],
+        [
+          -80.8555752,
+          35.2175037
+        ],
+        [
+          -80.855611,
+          35.2175307
+        ],
+        [
+          -80.8556926,
+          35.2175908
+        ],
+        [
+          -80.8556794,
+          35.2176036
+        ],
+        [
+          -80.8556903,
+          35.2176112
+        ],
+        [
+          -80.8556667,
+          35.2176327
+        ],
+        [
+          -80.8557035,
+          35.2176599
+        ],
+        [
+          -80.855655,
+          35.2177035
+        ],
+        [
+          -80.8556121,
+          35.2176719
+        ],
+        [
+          -80.855593,
+          35.2176896
+        ],
+        [
+          -80.8556394,
+          35.2177245
+        ],
+        [
+          -80.8555792,
+          35.217778
+        ],
+        [
+          -80.8556126,
+          35.2178015
+        ],
+        [
+          -80.8555457,
+          35.2178648
+        ],
+        [
+          -80.855478,
+          35.2178165
+        ],
+        [
+          -80.8554612,
+          35.2178309
+        ],
+        [
+          -80.8552075,
+          35.2176492
+        ],
+        [
+          -80.8551966,
+          35.2176585
+        ],
+        [
+          -80.8549589,
+          35.2174911
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 695524312,
+    "version": 7,
+    "timestamp": "2025-06-27T05:32:06Z",
+    "url": "https://www.openstreetmap.org/way/695524312"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 849315325,
+      "version": 7,
+      "timestamp": "2025-06-27T05:32:06Z",
+      "url": "https://www.openstreetmap.org/way/849315325"
+    },
+    {
+      "type": "way",
+      "id": 1121531932,
+      "version": 9,
+      "timestamp": "2025-12-28T23:16:37Z",
+      "url": "https://www.openstreetmap.org/way/1121531932"
+    },
+    {
+      "type": "way",
+      "id": 1208420096,
+      "version": 1,
+      "timestamp": "2023-09-17T05:20:47Z",
+      "url": "https://www.openstreetmap.org/way/1208420096"
+    },
+    {
+      "type": "way",
+      "id": 1208420097,
+      "version": 3,
+      "timestamp": "2024-08-07T17:25:21Z",
+      "url": "https://www.openstreetmap.org/way/1208420097"
+    },
+    {
+      "type": "way",
+      "id": 1208420098,
+      "version": 1,
+      "timestamp": "2023-09-17T05:20:47Z",
+      "url": "https://www.openstreetmap.org/way/1208420098"
+    },
+    {
+      "type": "way",
+      "id": 1208420099,
+      "version": 1,
+      "timestamp": "2023-09-17T05:20:47Z",
+      "url": "https://www.openstreetmap.org/way/1208420099"
+    },
+    {
+      "type": "way",
+      "id": 1208420100,
+      "version": 1,
+      "timestamp": "2023-09-17T05:20:47Z",
+      "url": "https://www.openstreetmap.org/way/1208420100"
+    },
+    {
+      "type": "way",
+      "id": 1208420101,
+      "version": 1,
+      "timestamp": "2023-09-17T05:20:47Z",
+      "url": "https://www.openstreetmap.org/way/1208420101"
+    },
+    {
+      "type": "way",
+      "id": 1208420102,
+      "version": 1,
+      "timestamp": "2023-09-17T05:20:47Z",
+      "url": "https://www.openstreetmap.org/way/1208420102"
+    },
+    {
+      "type": "way",
+      "id": 1208420103,
+      "version": 1,
+      "timestamp": "2023-09-17T05:20:47Z",
+      "url": "https://www.openstreetmap.org/way/1208420103"
+    },
+    {
+      "type": "way",
+      "id": 1208420104,
+      "version": 1,
+      "timestamp": "2023-09-17T05:20:47Z",
+      "url": "https://www.openstreetmap.org/way/1208420104"
+    },
+    {
+      "type": "way",
+      "id": 1208420105,
+      "version": 1,
+      "timestamp": "2023-09-17T05:20:47Z",
+      "url": "https://www.openstreetmap.org/way/1208420105"
+    },
+    {
+      "type": "way",
+      "id": 1208420106,
+      "version": 2,
+      "timestamp": "2024-08-07T17:32:25Z",
+      "url": "https://www.openstreetmap.org/way/1208420106"
+    },
+    {
+      "type": "way",
+      "id": 1208420107,
+      "version": 2,
+      "timestamp": "2024-08-07T17:32:25Z",
+      "url": "https://www.openstreetmap.org/way/1208420107"
+    },
+    {
+      "type": "way",
+      "id": 1208420108,
+      "version": 2,
+      "timestamp": "2024-08-07T17:32:25Z",
+      "url": "https://www.openstreetmap.org/way/1208420108"
+    },
+    {
+      "type": "way",
+      "id": 1208420109,
+      "version": 2,
+      "timestamp": "2024-08-07T17:32:25Z",
+      "url": "https://www.openstreetmap.org/way/1208420109"
+    },
+    {
+      "type": "way",
+      "id": 1208420110,
+      "version": 2,
+      "timestamp": "2024-08-07T17:32:25Z",
+      "url": "https://www.openstreetmap.org/way/1208420110"
+    },
+    {
+      "type": "way",
+      "id": 1208420111,
+      "version": 2,
+      "timestamp": "2024-08-07T17:25:21Z",
+      "url": "https://www.openstreetmap.org/way/1208420111"
+    },
+    {
+      "type": "way",
+      "id": 1208420112,
+      "version": 1,
+      "timestamp": "2023-09-17T05:20:47Z",
+      "url": "https://www.openstreetmap.org/way/1208420112"
+    },
+    {
+      "type": "way",
+      "id": 1208420113,
+      "version": 6,
+      "timestamp": "2024-08-07T17:32:25Z",
+      "url": "https://www.openstreetmap.org/way/1208420113"
+    },
+    {
+      "type": "way",
+      "id": 1208420133,
+      "version": 4,
+      "timestamp": "2024-08-07T17:25:21Z",
+      "url": "https://www.openstreetmap.org/way/1208420133"
+    },
+    {
+      "type": "way",
+      "id": 1208420134,
+      "version": 3,
+      "timestamp": "2023-09-25T20:20:08Z",
+      "url": "https://www.openstreetmap.org/way/1208420134"
+    },
+    {
+      "type": "way",
+      "id": 1208420135,
+      "version": 2,
+      "timestamp": "2023-09-25T20:20:08Z",
+      "url": "https://www.openstreetmap.org/way/1208420135"
+    },
+    {
+      "type": "way",
+      "id": 1208420136,
+      "version": 1,
+      "timestamp": "2023-09-17T05:20:47Z",
+      "url": "https://www.openstreetmap.org/way/1208420136"
+    },
+    {
+      "type": "way",
+      "id": 1208420137,
+      "version": 1,
+      "timestamp": "2023-09-17T05:20:47Z",
+      "url": "https://www.openstreetmap.org/way/1208420137"
+    },
+    {
+      "type": "way",
+      "id": 1208420138,
+      "version": 3,
+      "timestamp": "2023-09-25T20:20:08Z",
+      "url": "https://www.openstreetmap.org/way/1208420138"
+    },
+    {
+      "type": "way",
+      "id": 1208420139,
+      "version": 4,
+      "timestamp": "2024-08-07T17:25:21Z",
+      "url": "https://www.openstreetmap.org/way/1208420139"
+    },
+    {
+      "type": "way",
+      "id": 1208420140,
+      "version": 1,
+      "timestamp": "2023-09-17T05:20:47Z",
+      "url": "https://www.openstreetmap.org/way/1208420140"
+    },
+    {
+      "type": "way",
+      "id": 1208420141,
+      "version": 1,
+      "timestamp": "2023-09-17T05:20:47Z",
+      "url": "https://www.openstreetmap.org/way/1208420141"
+    },
+    {
+      "type": "way",
+      "id": 1208420142,
+      "version": 1,
+      "timestamp": "2023-09-17T05:20:47Z",
+      "url": "https://www.openstreetmap.org/way/1208420142"
+    },
+    {
+      "type": "way",
+      "id": 1208420143,
+      "version": 1,
+      "timestamp": "2023-09-17T05:20:47Z",
+      "url": "https://www.openstreetmap.org/way/1208420143"
+    },
+    {
+      "type": "way",
+      "id": 1208420144,
+      "version": 1,
+      "timestamp": "2023-09-17T05:20:47Z",
+      "url": "https://www.openstreetmap.org/way/1208420144"
+    },
+    {
+      "type": "way",
+      "id": 1208420145,
+      "version": 1,
+      "timestamp": "2023-09-17T05:20:47Z",
+      "url": "https://www.openstreetmap.org/way/1208420145"
+    },
+    {
+      "type": "way",
+      "id": 1208420146,
+      "version": 3,
+      "timestamp": "2023-09-25T20:20:08Z",
+      "url": "https://www.openstreetmap.org/way/1208420146"
+    },
+    {
+      "type": "way",
+      "id": 1208420147,
+      "version": 2,
+      "timestamp": "2023-09-20T18:59:31Z",
+      "url": "https://www.openstreetmap.org/way/1208420147"
+    },
+    {
+      "type": "way",
+      "id": 1208420148,
+      "version": 2,
+      "timestamp": "2023-09-20T18:59:31Z",
+      "url": "https://www.openstreetmap.org/way/1208420148"
+    },
+    {
+      "type": "way",
+      "id": 1208420149,
+      "version": 2,
+      "timestamp": "2024-08-07T17:25:21Z",
+      "url": "https://www.openstreetmap.org/way/1208420149"
+    },
+    {
+      "type": "way",
+      "id": 1208420150,
+      "version": 1,
+      "timestamp": "2023-09-17T05:20:47Z",
+      "url": "https://www.openstreetmap.org/way/1208420150"
+    }
+  ],
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/clt-railyard.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "The Railyard, 1414 South Tryon Street, South End, Charlotte — procedural, CC0-1.0. bun generators/clt-railyard.ts",
+    "An office and food-hall complex (Cousins Properties, completed 2020): two eight-storey office towers, North and South, flank a courtyard that opens onto South Tryon Street; across the back of the courtyard stands the three-storey brick food-hall building with a glazed steel-truss bridge storey on its roof. Modelled as one landmark because that is how it reads from the street and from above: a U of two bars and the low hall.",
+    "Each tower is a bar running back from Tryon. Its Tryon end is the \"head\": - on the courtyard corner, a three-storey charcoal-brick retail podium, with a glass box of five storeys cantilevered over it, wrapping the corner (black floor bands); - in the middle of the Tryon face, a red-brick slot core whose two piers rise above the roof, glazed between them with stacked black X-braces; - on the outer corner, a full-height glass curtain wall; - along the courtyard, red-brick upper storeys with grouped windows; - a glazed top storey under a thin flat roof that overhangs the Tryon and outer faces. Behind the head the bar is charcoal brick with wide glazed bays and narrow windows, stepping in plan at the back (OSM).",
+    "Model frame: bearing 41. Model +y runs along South Tryon to the north-east, +x towards Tryon (south-east). Geometry is authored in a site frame whose origin is (-80.85567, 35.21744) and shifted at the end to the anchor, the area centroid of the three outlines.",
+    "Evidence: - OSM: way/695524312 (North Tower, 8 levels), way/849315325 (South Tower, 8 levels), way/1121531932 (the food hall, \"Railyard\") and the building:parts way/1208420096–1208420113 and 1208420133–1208420150: tower bodies 38 m, the slot cores 43 m (1208420096, 1208420147), roof elements 38–41 m, mechanical penthouses 40–41 m, the food hall 12 m and its truss storey 12–20 m (1208420150), entrance canopies at 7.6–8 m and copper awnings at 4.6–5 m. - The 2016 lidar predates construction, so no height here is measured; all come from OSM, checked against the photos (8 storeys). - Photos: City Dweller 2, CC BY-SA 4.0 (Wikimedia Commons): \"Railyard May 2021\" (North Tower's Tryon face: podium, glass box, slot, curtain wall, overhang), \"Railyard north section of building along South Tryon Late April 2024\" (North Tower's courtyard corner and Tryon face), \"Railyard south section of building along South Tryon Late April 2024\" (South Tower, the same corner mirrored), \"Railyard first floor on South Tryon Late April 2024\" (down the courtyard: red heads, charcoal bodies, the truss bridge). Poojaxsl, \"The RailYard Building in Charlotte, North Carolina\", CC0 (the food hall front and the truss storey). USGS NAIP (plan, white roofs).",
+    "Estimated: storey heights (podium 3 floors to 14 m, offices 4.6 m, glazed top floor); where the red brick gives way to charcoal along the courtyard (x = 14, from the photos' bay counts); window and bay pitch; the outer (long) faces and back faces, which no photo shows: assumed charcoal with the courtyard's bay rhythm, the outer corner of the head glass (OSM roof part 1208420146) and the rest of the head red brick; the truss storey's height, 6.5 m from the Poojaxsl photo against the 12 m brick front (OSM says 8); the roof overhang depth (1.2 m). Awnings, canopies and the \"RAILYARD\" sign are left out as too small to read.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"clt-railyard\", model \"clt-railyard\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/clt-railyard.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

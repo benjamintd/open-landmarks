@@ -1,0 +1,299 @@
+{
+  "id": "1701-n-graham-street",
+  "name": "1701 N. Graham Street",
+  "anchor": [
+    -80.8327981,
+    35.2447076
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 28896,
+      "sha256": "fd62160b499fee19d64e85a082f490f158ad8bc27c8d944fd71e0035bbeb52d8"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 28896,
+      "sha256": "fd62160b499fee19d64e85a082f490f158ad8bc27c8d944fd71e0035bbeb52d8"
+    }
+  },
+  "triangles": 434,
+  "boundsBlenderM": [
+    [
+      -57.83,
+      -65.639,
+      0
+    ],
+    [
+      62.907,
+      66.297,
+      10.2
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "MultiPolygon",
+    "coordinates": [
+      [
+        [
+          [
+            -80.8329545,
+            35.2441159
+          ],
+          [
+            -80.8330141,
+            35.244156
+          ],
+          [
+            -80.8330345,
+            35.2441697
+          ],
+          [
+            -80.8332227,
+            35.2442965
+          ],
+          [
+            -80.8334337,
+            35.2444398
+          ],
+          [
+            -80.8333973,
+            35.2444772
+          ],
+          [
+            -80.8334244,
+            35.2444947
+          ],
+          [
+            -80.8329406,
+            35.2449765
+          ],
+          [
+            -80.832613,
+            35.2453037
+          ],
+          [
+            -80.8326016,
+            35.2452958
+          ],
+          [
+            -80.8325858,
+            35.2452848
+          ],
+          [
+            -80.8324886,
+            35.2452171
+          ],
+          [
+            -80.8323681,
+            35.2451332
+          ],
+          [
+            -80.8322312,
+            35.2450428
+          ],
+          [
+            -80.8321519,
+            35.2449904
+          ],
+          [
+            -80.8321093,
+            35.2449623
+          ],
+          [
+            -80.8322245,
+            35.2448355
+          ],
+          [
+            -80.8322741,
+            35.2447883
+          ],
+          [
+            -80.8323813,
+            35.2448611
+          ],
+          [
+            -80.8324678,
+            35.2447745
+          ],
+          [
+            -80.8325506,
+            35.2446916
+          ],
+          [
+            -80.8324452,
+            35.244618
+          ],
+          [
+            -80.8325251,
+            35.2445392
+          ],
+          [
+            -80.8326189,
+            35.2444468
+          ],
+          [
+            -80.8326832,
+            35.2443834
+          ],
+          [
+            -80.832786,
+            35.2442821
+          ],
+          [
+            -80.8328223,
+            35.2442462
+          ],
+          [
+            -80.8328774,
+            35.2441919
+          ],
+          [
+            -80.8329545,
+            35.2441159
+          ]
+        ]
+      ],
+      [
+        [
+          [
+            -80.8325858,
+            35.2452848
+          ],
+          [
+            -80.8325758,
+            35.2452937
+          ],
+          [
+            -80.8320995,
+            35.2449724
+          ],
+          [
+            -80.8321093,
+            35.2449623
+          ],
+          [
+            -80.8325858,
+            35.2452848
+          ]
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "relation",
+    "id": 8793520,
+    "version": 12,
+    "timestamp": "2024-11-01T04:24:53Z",
+    "url": "https://www.openstreetmap.org/relation/8793520"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 835812864,
+      "version": 4,
+      "timestamp": "2024-11-01T04:24:53Z",
+      "url": "https://www.openstreetmap.org/way/835812864"
+    },
+    {
+      "type": "way",
+      "id": 835812865,
+      "version": 2,
+      "timestamp": "2020-08-10T15:40:01Z",
+      "url": "https://www.openstreetmap.org/way/835812865"
+    },
+    {
+      "type": "way",
+      "id": 835812866,
+      "version": 2,
+      "timestamp": "2024-10-31T03:48:04Z",
+      "url": "https://www.openstreetmap.org/way/835812866"
+    },
+    {
+      "type": "way",
+      "id": 835812867,
+      "version": 2,
+      "timestamp": "2020-08-10T15:40:01Z",
+      "url": "https://www.openstreetmap.org/way/835812867"
+    },
+    {
+      "type": "way",
+      "id": 835812868,
+      "version": 1,
+      "timestamp": "2020-08-10T15:20:09Z",
+      "url": "https://www.openstreetmap.org/way/835812868"
+    },
+    {
+      "type": "way",
+      "id": 835812869,
+      "version": 2,
+      "timestamp": "2020-08-10T15:40:01Z",
+      "url": "https://www.openstreetmap.org/way/835812869"
+    },
+    {
+      "type": "way",
+      "id": 835812871,
+      "version": 1,
+      "timestamp": "2020-08-10T15:20:09Z",
+      "url": "https://www.openstreetmap.org/way/835812871"
+    },
+    {
+      "type": "way",
+      "id": 835812872,
+      "version": 2,
+      "timestamp": "2020-08-10T15:40:01Z",
+      "url": "https://www.openstreetmap.org/way/835812872"
+    },
+    {
+      "type": "way",
+      "id": 835842061,
+      "version": 1,
+      "timestamp": "2020-08-10T17:23:43Z",
+      "url": "https://www.openstreetmap.org/way/835842061"
+    },
+    {
+      "type": "way",
+      "id": 836225484,
+      "version": 1,
+      "timestamp": "2020-08-11T21:51:42Z",
+      "url": "https://www.openstreetmap.org/way/836225484"
+    }
+  ],
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/clt-cne-1701-n-graham.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Camp North End: 1701 N. Graham Street — procedural, CC0-1.0. bun generators/clt-cne-1701-n-graham.ts",
+    "The original 1941–43 part of the Army Quartermaster Corps' Building No. 6, the easternmost of the depot's three south warehouses, between the railway and North Graham Street; the building's pre-1955 metal-sided extension north-east of it is `clt-cne-gama-goat`. A one-storey box 56 × 121 m, its brick painted pale grey, three corrugated-metal clerestory monitors across its width (the survey counts four on No. 6 before the extension), a loading platform under a canopy along the railway side, a dock recess and a lower wing on the street side, and storefronts under black steel canopies on the south-west end on Keswick Avenue.",
+    "Identity: the long pale-grey box with three silver monitors across its white roof.",
+    "Evidence: - OSM: the multipolygon relation/8793520 (\"1701 N. Graham\", height 9) and its 9 parts: monitors way/835812866, 835812868, 835842061 (height 9), the main roof 835812865, 835812867, 835812869, 835812872 (6.9), the street-side wing 835812871 (5.8), the railway platform 835812864 (1); and way/836225484 (height 1), an outer member of the relation also tagged building:part, the strip along the north-east end. - Lidar, USGS 3DEP NC Phase 4 Mecklenburg 2016, 1 m (measured, NAVD88): ground 227.9–228.7 (y = 0 is 227.9); deck 235.3 (7.4 m); monitors 238.1 (10.2 m); wing and platform canopy 234.0 (6.1 m). - C-M Historic Landmarks Commission survey report (2017, landmarkscommission.org/wp-content/uploads/2017/06/Ford-Motor-Co-Plant-SR.pdf), Buildings Nos. 4–6 (published): the matched set, 180 ft wide, brick, corrugated-metal monitors across the width, four on No. 6, whose windows \"have been covered over\". - Mecklenburg County tax parcel 07903C99 (CAMP GAMA GOAT PROPERTY OWNER LP): built 1943, face brick. - Camp North End leasing brochure (2021, camp.nc): \"1701 N. Graham Street\", 75,000 sq ft. - Mapillary 360° photo 353699656976831 (cbreedlove, 2022-06-10, CC BY-SA 4.0), 31 m south of the south-west end: the end wall painted light grey over a white base, a flat parapet with a dark coping line, two storefronts under flat black canopies. - USGS NAIP orthophoto (public domain): white roofs.",
+    "Measured from the photo (its camera 20.4 m from the wall): the storefronts at 18–31 m and 46–50 m from the west corner. Estimated: the grey's exact value (one photo, partly in shade); window and canopy sizes on the south-west end; the long faces' openings, which no licensed photo shows (drawn as a few windows and the dock doors).",
+    "Frame and kit: `clt-cne-301-camp-road.ts`. y along the long axis (bearing 39.45°), placement bearing 39.45; origin at the outline's centroid, lng −80.8327981, lat 35.2447076.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"clt-cne-1701-n-graham\", model \"clt-cne-1701-n-graham\"), generated by https://github.com/alexwohlbruck/landmarks/blob/a1974bbf738c6994edbe99a7a61818b9d69da9e0/generators/clt-cne-1701-n-graham.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

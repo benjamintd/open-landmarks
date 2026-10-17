@@ -1,0 +1,144 @@
+{
+  "id": "chadbourn-mill",
+  "name": "Chadbourn Mill",
+  "anchor": [
+    -80.8136797,
+    35.2435679
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 61724,
+      "sha256": "713c779dc7c8bd7a32d90365ce4c77df0881f729d4097aa46b89bceb30071bef"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 61724,
+      "sha256": "713c779dc7c8bd7a32d90365ce4c77df0881f729d4097aa46b89bceb30071bef"
+    }
+  },
+  "triangles": 1190,
+  "boundsBlenderM": [
+    [
+      -30.998,
+      -31.729,
+      0
+    ],
+    [
+      71.747,
+      31.729,
+      35.7
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.8133379,
+          35.2434816
+        ],
+        [
+          -80.8136079,
+          35.2432817
+        ],
+        [
+          -80.8136737,
+          35.243341
+        ],
+        [
+          -80.8140213,
+          35.2436542
+        ],
+        [
+          -80.8139963,
+          35.2436727
+        ],
+        [
+          -80.8138287,
+          35.2437967
+        ],
+        [
+          -80.8137562,
+          35.2438504
+        ],
+        [
+          -80.8137513,
+          35.243854
+        ],
+        [
+          -80.8137477,
+          35.2438508
+        ],
+        [
+          -80.8133804,
+          35.2435199
+        ],
+        [
+          -80.8133379,
+          35.2434816
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 1059956512,
+    "version": 3,
+    "timestamp": "2023-07-26T19:58:55Z",
+    "url": "https://www.openstreetmap.org/way/1059956512"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 1059956513,
+      "version": 2,
+      "timestamp": "2023-07-26T19:58:55Z",
+      "url": "https://www.openstreetmap.org/way/1059956513"
+    },
+    {
+      "type": "way",
+      "id": 1059956514,
+      "version": 1,
+      "timestamp": "2022-05-13T20:06:42Z",
+      "url": "https://www.openstreetmap.org/way/1059956514"
+    }
+  ],
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/clt-chadbourn-mill.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Chadbourn Mill and its smokestack, 2520 N. Brevard St, NoDa, Charlotte — procedural, CC0-1.0. bun generators/clt-chadbourn-mill.ts",
+    "The former Chadbourn hosiery mill, renovated as offices (ekos and others): a long two-storey block framed by pale concrete pilasters with red-brick spandrels and wide dark steel windows, a raised clerestory monitor down its spine, and across the car park the brick boiler house with the tall round stack, painted down its side with \"CHADBOURN\" in white letters (lettering not modelled: it would not read at map distance).",
+    "Evidence: - OSM: way/1059956512 (the mill, building=office), way/1059956513 (the boiler house), way/1059956514 (the stack, man_made=chimney, \"Chadbourn smokestack\", ~3.2 m across). - Lidar, USGS 3DEP NC Phase 4 Mecklenburg 2016, 1 m (ground_min 206.99 m NAVD88). Base 2.3 m above ground_min, at the mill's north end; the ground rises ~3 m to its south end. Heights above base: mill roof 10.7 m, the monitor 12.7 m (9 m wide, full length), boiler house 8.7 m, the stack 35.7 m. In 2016 the mill ran further east; the model follows today's OSM outline, which matches the 2024 photos. - Photos (Commons): City Dweller 2, CC BY-SA 4.0: \"Chadbourn Mill Late March 2024\" (the long side: pilasters, brick, steel windows), \"Chadbourn Mill Smokestack Late March 2024\" (the stack and the boiler house), \"Chadbourne Mill parking lot on Jordan Pl Mid-June 2024\" (the south end: the raised middle bay, the stack beyond). USGS NAIP.",
+    "Estimated: bay pitch (photos, ~3.8 m: nine bays on the street end, fourteen on the long side), window sizes, the boiler house's openings, the stack's base diameter (taper from OSM's 3.2 m).",
+    "Model frame: bearing 317.6 (model +y runs along the mill, 42.4° west of north); metres above the base.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"clt-chadbourn-mill\", model \"clt-chadbourn-mill\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/clt-chadbourn-mill.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

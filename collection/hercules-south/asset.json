@@ -1,0 +1,534 @@
+{
+  "id": "hercules-south",
+  "name": "Hercules South",
+  "anchor": [
+    -80.8334757,
+    35.2482131
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 80692,
+      "sha256": "c865b60d3023da256f06f0a81864ad09ad804a0af1777bb6ec159848e4823cae"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 80692,
+      "sha256": "c865b60d3023da256f06f0a81864ad09ad804a0af1777bb6ec159848e4823cae"
+    }
+  },
+  "triangles": 1380,
+  "boundsBlenderM": [
+    [
+      -188.411,
+      -48.661,
+      0
+    ],
+    [
+      188.148,
+      51.515,
+      10.6
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.8323155,
+          35.2483495
+        ],
+        [
+          -80.8320823,
+          35.2483286
+        ],
+        [
+          -80.8319368,
+          35.2483156
+        ],
+        [
+          -80.8316833,
+          35.2482929
+        ],
+        [
+          -80.8315397,
+          35.2482801
+        ],
+        [
+          -80.8314081,
+          35.2482683
+        ],
+        [
+          -80.8314705,
+          35.2478024
+        ],
+        [
+          -80.8314741,
+          35.2477757
+        ],
+        [
+          -80.8316039,
+          35.2477874
+        ],
+        [
+          -80.831747,
+          35.2478003
+        ],
+        [
+          -80.831883,
+          35.2478125
+        ],
+        [
+          -80.8319953,
+          35.2478216
+        ],
+        [
+          -80.8322827,
+          35.2478485
+        ],
+        [
+          -80.832402,
+          35.2478592
+        ],
+        [
+          -80.8325469,
+          35.2478722
+        ],
+        [
+          -80.8328075,
+          35.2478957
+        ],
+        [
+          -80.8329446,
+          35.247908
+        ],
+        [
+          -80.8330815,
+          35.2479204
+        ],
+        [
+          -80.8333452,
+          35.2479441
+        ],
+        [
+          -80.8334827,
+          35.2479565
+        ],
+        [
+          -80.8336094,
+          35.2479679
+        ],
+        [
+          -80.8337499,
+          35.2479805
+        ],
+        [
+          -80.8340086,
+          35.2480038
+        ],
+        [
+          -80.8341523,
+          35.2480167
+        ],
+        [
+          -80.8344126,
+          35.2480402
+        ],
+        [
+          -80.8345544,
+          35.2480529
+        ],
+        [
+          -80.8346854,
+          35.2480647
+        ],
+        [
+          -80.8349494,
+          35.2480885
+        ],
+        [
+          -80.8350845,
+          35.2481012
+        ],
+        [
+          -80.835209,
+          35.2481124
+        ],
+        [
+          -80.8353521,
+          35.2481253
+        ],
+        [
+          -80.8354847,
+          35.2481373
+        ],
+        [
+          -80.8354694,
+          35.2482522
+        ],
+        [
+          -80.835417,
+          35.2486443
+        ],
+        [
+          -80.8352827,
+          35.2486322
+        ],
+        [
+          -80.8351417,
+          35.2486195
+        ],
+        [
+          -80.8351371,
+          35.2486549
+        ],
+        [
+          -80.8348765,
+          35.2486316
+        ],
+        [
+          -80.8348804,
+          35.2486003
+        ],
+        [
+          -80.8347432,
+          35.2485879
+        ],
+        [
+          -80.8347393,
+          35.2486185
+        ],
+        [
+          -80.8344783,
+          35.248595
+        ],
+        [
+          -80.8344826,
+          35.2485628
+        ],
+        [
+          -80.8343475,
+          35.2485506
+        ],
+        [
+          -80.8343435,
+          35.2485813
+        ],
+        [
+          -80.8340767,
+          35.2485571
+        ],
+        [
+          -80.8340814,
+          35.2485244
+        ],
+        [
+          -80.8339984,
+          35.248516
+        ],
+        [
+          -80.8336788,
+          35.2484843
+        ],
+        [
+          -80.8335384,
+          35.2484704
+        ],
+        [
+          -80.8332867,
+          35.2484455
+        ],
+        [
+          -80.8331438,
+          35.2484314
+        ],
+        [
+          -80.8328827,
+          35.2484056
+        ],
+        [
+          -80.8327525,
+          35.2483927
+        ],
+        [
+          -80.8324823,
+          35.248366
+        ],
+        [
+          -80.832335,
+          35.2483514
+        ],
+        [
+          -80.8323155,
+          35.2483495
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 324611653,
+    "version": 12,
+    "timestamp": "2024-10-31T03:06:16Z",
+    "url": "https://www.openstreetmap.org/way/324611653"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 835823888,
+      "version": 2,
+      "timestamp": "2024-10-31T03:06:16Z",
+      "url": "https://www.openstreetmap.org/way/835823888"
+    },
+    {
+      "type": "way",
+      "id": 835823889,
+      "version": 1,
+      "timestamp": "2020-08-10T16:04:52Z",
+      "url": "https://www.openstreetmap.org/way/835823889"
+    },
+    {
+      "type": "way",
+      "id": 835823890,
+      "version": 1,
+      "timestamp": "2020-08-10T16:04:52Z",
+      "url": "https://www.openstreetmap.org/way/835823890"
+    },
+    {
+      "type": "way",
+      "id": 835823891,
+      "version": 2,
+      "timestamp": "2020-08-10T20:35:01Z",
+      "url": "https://www.openstreetmap.org/way/835823891"
+    },
+    {
+      "type": "way",
+      "id": 835823892,
+      "version": 1,
+      "timestamp": "2020-08-10T16:04:52Z",
+      "url": "https://www.openstreetmap.org/way/835823892"
+    },
+    {
+      "type": "way",
+      "id": 835823893,
+      "version": 2,
+      "timestamp": "2020-08-10T17:23:43Z",
+      "url": "https://www.openstreetmap.org/way/835823893"
+    },
+    {
+      "type": "way",
+      "id": 835823894,
+      "version": 1,
+      "timestamp": "2020-08-10T16:04:52Z",
+      "url": "https://www.openstreetmap.org/way/835823894"
+    },
+    {
+      "type": "way",
+      "id": 835823895,
+      "version": 1,
+      "timestamp": "2020-08-10T16:04:52Z",
+      "url": "https://www.openstreetmap.org/way/835823895"
+    },
+    {
+      "type": "way",
+      "id": 835823896,
+      "version": 1,
+      "timestamp": "2020-08-10T16:04:52Z",
+      "url": "https://www.openstreetmap.org/way/835823896"
+    },
+    {
+      "type": "way",
+      "id": 835823897,
+      "version": 1,
+      "timestamp": "2020-08-10T16:04:52Z",
+      "url": "https://www.openstreetmap.org/way/835823897"
+    },
+    {
+      "type": "way",
+      "id": 835823898,
+      "version": 1,
+      "timestamp": "2020-08-10T16:04:52Z",
+      "url": "https://www.openstreetmap.org/way/835823898"
+    },
+    {
+      "type": "way",
+      "id": 835823899,
+      "version": 1,
+      "timestamp": "2020-08-10T16:04:52Z",
+      "url": "https://www.openstreetmap.org/way/835823899"
+    },
+    {
+      "type": "way",
+      "id": 835823900,
+      "version": 1,
+      "timestamp": "2020-08-10T16:04:52Z",
+      "url": "https://www.openstreetmap.org/way/835823900"
+    },
+    {
+      "type": "way",
+      "id": 835823901,
+      "version": 1,
+      "timestamp": "2020-08-10T16:04:52Z",
+      "url": "https://www.openstreetmap.org/way/835823901"
+    },
+    {
+      "type": "way",
+      "id": 835823902,
+      "version": 1,
+      "timestamp": "2020-08-10T16:04:52Z",
+      "url": "https://www.openstreetmap.org/way/835823902"
+    },
+    {
+      "type": "way",
+      "id": 835823903,
+      "version": 1,
+      "timestamp": "2020-08-10T16:04:52Z",
+      "url": "https://www.openstreetmap.org/way/835823903"
+    },
+    {
+      "type": "way",
+      "id": 835823904,
+      "version": 1,
+      "timestamp": "2020-08-10T16:04:52Z",
+      "url": "https://www.openstreetmap.org/way/835823904"
+    },
+    {
+      "type": "way",
+      "id": 835823905,
+      "version": 2,
+      "timestamp": "2020-08-10T17:23:43Z",
+      "url": "https://www.openstreetmap.org/way/835823905"
+    },
+    {
+      "type": "way",
+      "id": 835823906,
+      "version": 1,
+      "timestamp": "2020-08-10T16:04:52Z",
+      "url": "https://www.openstreetmap.org/way/835823906"
+    },
+    {
+      "type": "way",
+      "id": 835823907,
+      "version": 1,
+      "timestamp": "2020-08-10T16:04:52Z",
+      "url": "https://www.openstreetmap.org/way/835823907"
+    },
+    {
+      "type": "way",
+      "id": 835823908,
+      "version": 1,
+      "timestamp": "2020-08-10T16:04:52Z",
+      "url": "https://www.openstreetmap.org/way/835823908"
+    },
+    {
+      "type": "way",
+      "id": 835823909,
+      "version": 1,
+      "timestamp": "2020-08-10T16:04:52Z",
+      "url": "https://www.openstreetmap.org/way/835823909"
+    },
+    {
+      "type": "way",
+      "id": 835823910,
+      "version": 1,
+      "timestamp": "2020-08-10T16:04:52Z",
+      "url": "https://www.openstreetmap.org/way/835823910"
+    },
+    {
+      "type": "way",
+      "id": 835823911,
+      "version": 1,
+      "timestamp": "2020-08-10T16:04:52Z",
+      "url": "https://www.openstreetmap.org/way/835823911"
+    },
+    {
+      "type": "way",
+      "id": 835823912,
+      "version": 2,
+      "timestamp": "2020-08-10T17:23:43Z",
+      "url": "https://www.openstreetmap.org/way/835823912"
+    },
+    {
+      "type": "way",
+      "id": 835823913,
+      "version": 1,
+      "timestamp": "2020-08-10T16:04:52Z",
+      "url": "https://www.openstreetmap.org/way/835823913"
+    },
+    {
+      "type": "way",
+      "id": 835823914,
+      "version": 1,
+      "timestamp": "2020-08-10T16:04:52Z",
+      "url": "https://www.openstreetmap.org/way/835823914"
+    },
+    {
+      "type": "way",
+      "id": 835823915,
+      "version": 1,
+      "timestamp": "2020-08-10T16:04:52Z",
+      "url": "https://www.openstreetmap.org/way/835823915"
+    },
+    {
+      "type": "way",
+      "id": 835823916,
+      "version": 1,
+      "timestamp": "2020-08-10T16:04:52Z",
+      "url": "https://www.openstreetmap.org/way/835823916"
+    },
+    {
+      "type": "way",
+      "id": 835823917,
+      "version": 2,
+      "timestamp": "2026-04-13T01:26:21Z",
+      "url": "https://www.openstreetmap.org/way/835823917"
+    },
+    {
+      "type": "way",
+      "id": 497199335,
+      "version": 7,
+      "timestamp": "2022-04-30T20:41:13Z",
+      "url": "https://www.openstreetmap.org/way/497199335"
+    }
+  ],
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/clt-cne-hercules-south.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Camp North End: Hercules South (Army Quartermaster Building No. 2) and the Big Roof — procedural, CC0-1.0. bun generators/clt-cne-hercules-south.ts",
+    "The first of the warehouses the Army Quartermaster Corps put up beside the Ford plant in 1941–43, named Hercules South by Camp North End after the Nike Hercules missiles built here in the 1950s; 1830 Statesville Avenue. A one-storey brick box 367 × 56 m (1,200 × 185 ft), its short west end on Statesville Avenue, almost windowless: its light comes from ten clerestory monitors that cross the roof at 36.6 m intervals, clad in corrugated metal painted red, glazed on all four sides. Concrete loading platforms and canopies line the north side, three loading-dock bays are cut into the south side, and a small hip-roofed guardhouse stands at the south-west corner. North of it, the Big Roof: an open steel gantry shed built in the 1950s for the overhead cranes that loaded the missiles onto rail cars, spanning the yard between this building and Building 3.",
+    "Identity: the long red box with its row of raised red-and-glass monitors across the white roof, and the tall grey Big Roof beside it.",
+    "Evidence: - OSM: the outline way/324611653 (height 9) and its 30 parts way/835823888–835823917: the ten monitors (height 9) at their x extents, the main roof between them (6.9), the south annexes and dock canopies (5.8; 835823893, 835823905, 835823912 have min_height 5.7, so open canopies), the north canopies (6). The Big Roof is way/497199335 (building=roof, min_height 8.9, height 9). - Lidar, USGS 3DEP NC Phase 4 Mecklenburg 2016, 1 m (measured, NAVD88): ground 220.7–220.9 all round (flat site; y = 0 is 220.7); roof deck 228.0 (7.3 m), parapet 228.4–228.6 (7.8 m); monitor tops 230.8 (10.1 m), flat, 13–14 m wide, full depth except over the dock bays; south annexes and dock canopies 226.6 (5.9 m); north canopies 226.6, north platforms 222.0 (1.3 m); Big Roof 231.2–231.5 (10.6 m), highest along its middle. OSM's heights are each about a metre low; the lidar is followed. - Charlotte-Mecklenburg Historic Landmarks Commission survey and research report, \"Ford Motor Company Assembly Plant / Quartermaster Depot / Charlotte Army Missile Plant\" (2017, landmarkscommission.org/wp-content/uploads/2017/06/Ford-Motor-Co-Plant-SR.pdf), Building No. 2 (published): 180 × 1,200 ft, one storey, brick in common bond with six-course headers, \"essentially a long brick box, with almost no visible fenestration\", \"10 clerestory skylights placed at regular intervals along the length of the building that transverse the building's width\", the monitors \"pressed corrugated sheet-metal painted red with a bank of 15-pane windows ... on the short sides and a series of 4/2-sash windows along the long ... sides\"; a guardhouse at the south-west corner, two bays by four, under a partial hip roof; long concrete loading platforms on the north side, whose face 1940s photos show \"punctuated by numerous industrial service doors\"; and the open steel-framed crane structure \"with a rectangular footprint and a slight gable\", built for Douglas Aircraft. - Mecklenburg County tax parcel 07903101 (CAMP LANDOWNER LP): built 1943, face brick and modular metal. - Camp North End leasing brochure (2023, camp.nc): the names \"Hercules South & Big Roof\", 230,000 sq ft. - USGS NAIP orthophoto (public domain): the white membrane roof over building, monitors and the south dock canopies, the darker north canopies, the grey metal Big Roof, the plan; the monitors show only as the shadow lines of their sides.",
+    "Look-only: the 2023 brochure's site rendering (names only).",
+    "No licensed photo of the building exists on Commons, Openverse or Mapillary (Mapillary has no imagery on Statesville or Woodward Avenue here). So every colour and opening is from the survey's text and NAIP: - the brick colour is the campus Kahn brick (`clt-cne-ford-plant.ts`), estimated; - the monitors' red is the survey's \"painted red\", hue estimated; the 2023–25 renovation may have repainted them; - window bands on the monitors, their sizes and grouping: estimated from the survey's description; - the north service doors (one per 12.2 m, 3.6 × 3.3 m): invented spacing, from the survey's description; - the guardhouse's size (5 × 8 m, eaves 3.4, ridge 4.8 m): estimated from \"two bays by four\" and the lidar's 4.6–5.4 m returns at that corner; - the Big Roof's columns (every 12.8 m) and fascia depth: invented; its slight gable from the lidar.",
+    "This file also holds the small kit the other north-campus models share (`clt-cne-building-3`, `clt-cne-raceway-building`, `clt-cne-200-camp-road`, `clt-cne-crossroad-shed`); its own model is built only when it is run directly.",
+    "Frame: the Ford plant's grid. x runs along the long axis (bearing 96.3°), y across it (bearing 6.3°), z up, metres; placement bearing 6.3. The origin is the outline's centroid, lng −80.8334757, lat 35.2482131.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"clt-cne-hercules-south\", model \"clt-cne-hercules-south\"), generated by https://github.com/alexwohlbruck/landmarks/blob/a1974bbf738c6994edbe99a7a61818b9d69da9e0/generators/clt-cne-hercules-south.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

@@ -1,0 +1,142 @@
+{
+  "id": "dilworth-artisan-station",
+  "name": "Dilworth Artisan Station",
+  "anchor": [
+    -80.8578341,
+    35.2129646
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 25804,
+      "sha256": "757cab5e30f00c7d49faaad1800eb3bfa512e84188652c55ed490c187110a619"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 25804,
+      "sha256": "757cab5e30f00c7d49faaad1800eb3bfa512e84188652c55ed490c187110a619"
+    }
+  },
+  "triangles": 367,
+  "boundsBlenderM": [
+    [
+      -33.515,
+      -36.911,
+      0
+    ],
+    [
+      45.813,
+      30.743,
+      15.9
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.85747,
+          35.2132389
+        ],
+        [
+          -80.8576627,
+          35.2130673
+        ],
+        [
+          -80.8578054,
+          35.2129402
+        ],
+        [
+          -80.8578815,
+          35.2129972
+        ],
+        [
+          -80.8580482,
+          35.2131221
+        ],
+        [
+          -80.8582046,
+          35.2129828
+        ],
+        [
+          -80.8580279,
+          35.2128504
+        ],
+        [
+          -80.8579919,
+          35.2128234
+        ],
+        [
+          -80.8580177,
+          35.2128004
+        ],
+        [
+          -80.8579859,
+          35.2127765
+        ],
+        [
+          -80.858028,
+          35.212739
+        ],
+        [
+          -80.8578907,
+          35.212636
+        ],
+        [
+          -80.8573308,
+          35.2131347
+        ],
+        [
+          -80.85747,
+          35.2132389
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 432937709,
+    "version": 4,
+    "timestamp": "2023-09-17T18:30:06Z",
+    "url": "https://www.openstreetmap.org/way/432937709"
+  },
+  "additionalOsm": [],
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/clt-dilworth-artisan-station.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Dilworth Artisan Station, 118 East Kingston Avenue, South End, Charlotte — procedural, CC0-1.0. bun generators/clt-dilworth-artisan-station.ts",
+    "Old brick warehouses on the Rail Trail turned into artists' studios, known for their paint: a long three-storey red-brick warehouse whose window openings are filled with painted panels (peach and orange, blue shapes), with a buff-brick end block on the street; and, joined to it at the Rail Trail end, the smaller two-storey building covered in murals — orange, yellow and blue facing the parking lot, magenta with an orange sun facing the Rail Trail and the Blue Line, orange and pink flowers on its south side.",
+    "The murals are drawn, as on neighborhood-theatre.ts, as a few broad flat colour fields: the warm oranges and yellows as one orange, the reds, pinks and magentas as one pink. The murals' blue fields (the right end of the lot face, the left end of the Rail Trail face) and the teal on the south side are folded into the neighbouring field: a third mural colour would take the model past six materials, and the buff end block is as much a part of the building as the blue.",
+    "Model frame: bearing 42. Model +y runs along the long warehouse to the north-east (the street end), +x to the south-east; the mural building reaches to -x, the Rail Trail. Origin: the outline's centroid.",
+    "Evidence: - OSM: way/432937709, the outline of both buildings (an L). Long warehouse x 3.7..21.4, y -30.4..44.7; mural building x -26.1..3.7, y -21.1..-0.1. way/1425192864 (Canopy Cocktails & Garden), the strip along the mural building's south side, is not modelled: the 2016 lidar shows open ground there and the photos a garden. - Lidar, USGS 3DEP NC Phase 4 Mecklenburg 2016, 0.5 m (sampled in this frame; the ground is flat, 1.6 m above ground_min, which is y = 0 here): warehouse roof 12.4, parapets 13.4, a stair head 15.9 (x 3.7..8.5, y -6..-1), the warehouse's south-west end one storey, 5.9; the mural building 9.4–10.4 with its Rail Trail parapet raised to 11.4 in the middle; the link between the two 7.4. - Photos: City Dweller 2, CC BY-SA 4.0 (Wikimedia Commons): \"Dilworth Artisan Station November 2022\" and \"... Smaller Building Early March 2024\" (the lot side: the painted windows and the mural building's orange face), \"... Three Story Building Early March 2024\" (the warehouse and its buff end block), \"... from across Camden Rd Mid-April 2024\" (the magenta Rail Trail face), \"... on the Rail Trail Early May 2024\" and \"... along the Rail Trail Early May 2024\", \"South End Rail Trail Lights Dilworth Artisan March 2022\" (the south side's flower mural). USGS NAIP (plan, white roofs).",
+    "Estimated: window positions and which openings are painted (about half, from the photos), the buff block's length (9.7 m), the mural fields' outlines, the faces no photo shows (the warehouse's south-east side and south-west end: plain brick with windows).",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"clt-dilworth-artisan-station\", model \"clt-dilworth-artisan-station\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/clt-dilworth-artisan-station.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

@@ -1,0 +1,542 @@
+{
+  "id": "charlotte-douglas-international-airport-concourse-a",
+  "name": "Charlotte Douglas International Airport Concourse A",
+  "anchor": [
+    -80.9471865,
+    35.2226718
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 109492,
+      "sha256": "1e0e3056a738eb8cf98df0e291292ed599a931d4aec078b8b087f42319cf5306"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 109492,
+      "sha256": "1e0e3056a738eb8cf98df0e291292ed599a931d4aec078b8b087f42319cf5306"
+    }
+  },
+  "triangles": 2429,
+  "boundsBlenderM": [
+    [
+      -125.683,
+      -287.978,
+      0
+    ],
+    [
+      164.634,
+      287.8,
+      18.8
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.9453849,
+          35.2204222
+        ],
+        [
+          -80.9459089,
+          35.2203939
+        ],
+        [
+          -80.9459102,
+          35.22042
+        ],
+        [
+          -80.9464248,
+          35.2210527
+        ],
+        [
+          -80.946547,
+          35.2224609
+        ],
+        [
+          -80.9465065,
+          35.2224627
+        ],
+        [
+          -80.9465196,
+          35.222878
+        ],
+        [
+          -80.9465823,
+          35.2228748
+        ],
+        [
+          -80.9467513,
+          35.2248287
+        ],
+        [
+          -80.9467076,
+          35.2248315
+        ],
+        [
+          -80.946715,
+          35.225249
+        ],
+        [
+          -80.9483566,
+          35.2251518
+        ],
+        [
+          -80.948314,
+          35.2247355
+        ],
+        [
+          -80.946896,
+          35.224822
+        ],
+        [
+          -80.9468379,
+          35.2241234
+        ],
+        [
+          -80.9468877,
+          35.2241213
+        ],
+        [
+          -80.9468805,
+          35.224045
+        ],
+        [
+          -80.946864,
+          35.224046
+        ],
+        [
+          -80.9468612,
+          35.2240081
+        ],
+        [
+          -80.946987,
+          35.223998
+        ],
+        [
+          -80.9469655,
+          35.2236533
+        ],
+        [
+          -80.9468445,
+          35.2236621
+        ],
+        [
+          -80.9468156,
+          35.2234473
+        ],
+        [
+          -80.9467707,
+          35.2234498
+        ],
+        [
+          -80.9467247,
+          35.2228744
+        ],
+        [
+          -80.9467237,
+          35.2228623
+        ],
+        [
+          -80.9468129,
+          35.2228584
+        ],
+        [
+          -80.9473102,
+          35.2228298
+        ],
+        [
+          -80.947806,
+          35.2228017
+        ],
+        [
+          -80.9481296,
+          35.2227849
+        ],
+        [
+          -80.9482058,
+          35.2227814
+        ],
+        [
+          -80.9482024,
+          35.222661
+        ],
+        [
+          -80.9481772,
+          35.2224273
+        ],
+        [
+          -80.9481728,
+          35.222369
+        ],
+        [
+          -80.9480119,
+          35.2223762
+        ],
+        [
+          -80.9476667,
+          35.2223927
+        ],
+        [
+          -80.9469714,
+          35.2224315
+        ],
+        [
+          -80.946895,
+          35.2224365
+        ],
+        [
+          -80.9466811,
+          35.2224504
+        ],
+        [
+          -80.9466366,
+          35.2217999
+        ],
+        [
+          -80.9468077,
+          35.2217917
+        ],
+        [
+          -80.946776,
+          35.221393
+        ],
+        [
+          -80.946601,
+          35.2214018
+        ],
+        [
+          -80.9465662,
+          35.2210032
+        ],
+        [
+          -80.9464301,
+          35.2208415
+        ],
+        [
+          -80.9463912,
+          35.2204677
+        ],
+        [
+          -80.9464572,
+          35.220464
+        ],
+        [
+          -80.946654,
+          35.2204526
+        ],
+        [
+          -80.9466513,
+          35.220422
+        ],
+        [
+          -80.9466802,
+          35.2204203
+        ],
+        [
+          -80.9466828,
+          35.2204508
+        ],
+        [
+          -80.9467027,
+          35.2204496
+        ],
+        [
+          -80.946765,
+          35.220446
+        ],
+        [
+          -80.9467625,
+          35.2204168
+        ],
+        [
+          -80.9469648,
+          35.2204052
+        ],
+        [
+          -80.9469673,
+          35.2204332
+        ],
+        [
+          -80.9470335,
+          35.2204294
+        ],
+        [
+          -80.947031,
+          35.2204006
+        ],
+        [
+          -80.9470688,
+          35.2203984
+        ],
+        [
+          -80.9471979,
+          35.2203909
+        ],
+        [
+          -80.9472007,
+          35.2204228
+        ],
+        [
+          -80.9472551,
+          35.2204197
+        ],
+        [
+          -80.9472564,
+          35.2204344
+        ],
+        [
+          -80.9474477,
+          35.2204233
+        ],
+        [
+          -80.9477637,
+          35.2204048
+        ],
+        [
+          -80.9477623,
+          35.2203877
+        ],
+        [
+          -80.9480757,
+          35.2203694
+        ],
+        [
+          -80.9481586,
+          35.2203646
+        ],
+        [
+          -80.9481612,
+          35.2203948
+        ],
+        [
+          -80.9482235,
+          35.2203912
+        ],
+        [
+          -80.9482209,
+          35.2203617
+        ],
+        [
+          -80.9484215,
+          35.2203501
+        ],
+        [
+          -80.9485367,
+          35.2203434
+        ],
+        [
+          -80.9485348,
+          35.2203218
+        ],
+        [
+          -80.9485274,
+          35.2202358
+        ],
+        [
+          -80.9485692,
+          35.2202334
+        ],
+        [
+          -80.9485638,
+          35.220171
+        ],
+        [
+          -80.9485614,
+          35.2201433
+        ],
+        [
+          -80.9485194,
+          35.2201457
+        ],
+        [
+          -80.9485171,
+          35.2201192
+        ],
+        [
+          -80.9485144,
+          35.2200877
+        ],
+        [
+          -80.9483204,
+          35.2200988
+        ],
+        [
+          -80.9483177,
+          35.2200672
+        ],
+        [
+          -80.948297,
+          35.2200683
+        ],
+        [
+          -80.9482256,
+          35.2200724
+        ],
+        [
+          -80.9482283,
+          35.2201037
+        ],
+        [
+          -80.948058,
+          35.2201134
+        ],
+        [
+          -80.9480551,
+          35.2200795
+        ],
+        [
+          -80.9480322,
+          35.2200808
+        ],
+        [
+          -80.9479581,
+          35.220085
+        ],
+        [
+          -80.947961,
+          35.2201181
+        ],
+        [
+          -80.9478554,
+          35.2201241
+        ],
+        [
+          -80.947853,
+          35.2200956
+        ],
+        [
+          -80.9477128,
+          35.2201035
+        ],
+        [
+          -80.9477155,
+          35.2201356
+        ],
+        [
+          -80.9476656,
+          35.2201384
+        ],
+        [
+          -80.9475464,
+          35.2201452
+        ],
+        [
+          -80.9475438,
+          35.2201152
+        ],
+        [
+          -80.9474465,
+          35.2201208
+        ],
+        [
+          -80.9474453,
+          35.2201071
+        ],
+        [
+          -80.9470636,
+          35.2201292
+        ],
+        [
+          -80.9467688,
+          35.2201463
+        ],
+        [
+          -80.9467702,
+          35.2201622
+        ],
+        [
+          -80.9466745,
+          35.2201679
+        ],
+        [
+          -80.9466545,
+          35.220169
+        ],
+        [
+          -80.9466571,
+          35.2201986
+        ],
+        [
+          -80.9466323,
+          35.2202001
+        ],
+        [
+          -80.9466387,
+          35.2202712
+        ],
+        [
+          -80.9464395,
+          35.2202832
+        ],
+        [
+          -80.9460682,
+          35.2203055
+        ],
+        [
+          -80.9460642,
+          35.2202614
+        ],
+        [
+          -80.9453766,
+          35.2203029
+        ],
+        [
+          -80.9453793,
+          35.220341
+        ],
+        [
+          -80.9453849,
+          35.2204222
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 1414163869,
+    "version": 3,
+    "timestamp": "2026-10-01T00:58:57Z",
+    "url": "https://www.openstreetmap.org/way/1414163869"
+  },
+  "additionalOsm": [],
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/clt-concourse-a.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Charlotte Douglas International Airport (CLT): Concourse A — procedural, CC0-1.0.",
+    "One OSM outline (way/1414163869) holding three generations: the 1986 pier running west from the terminal, the long connector north along runway 18C/36C, and the two Concourse A North gate piers (2018 and its 2020s extension) at the connector's end.",
+    "The older parts are plain blocks, 10.5 m with the west end of the pier at 9 m, with gate-level window panels and a pale roof. The A North piers are glass halls with pale mullions under one long curved roof each: low on the south side, rising to a broad crown north of the middle and rolling down to a thin overhanging silver edge on the north, with a glazed clerestory along the crown over the middle of the pier (Commons, \"CLT Concourse A North with United Aircraft (2020)\": the silver wing-like roof edge, dark glass walls, the clerestories on the roof). The piers end square, as OSM draws them.",
+    "Heights and the roof section (13.6 m at the south eave, 18 m crown, 17.2 m at the north edge, clerestory 18.7 m) were checked against renders of Mapbox's 3D buildings (tileset mapbox.mapbox-3dbuildings-v1), used only as a visual reference; the geometry is OSM's outline and our own modelling.",
+    "Site frame and helpers: see clt-terminal.ts.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"clt-concourse-a\", model \"clt-concourse-a\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/clt-concourse-a.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 12133 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the clt-concourse-a-glazing finish in the window colour."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

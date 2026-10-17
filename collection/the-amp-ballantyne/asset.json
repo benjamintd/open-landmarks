@@ -1,0 +1,170 @@
+{
+  "id": "the-amp-ballantyne",
+  "name": "The Amp Ballantyne",
+  "anchor": [
+    -80.8474019,
+    35.0592888
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 17732,
+      "sha256": "f3b8b58e75a8ebf2fbe7ba9526e9ea81ec6ff37bce517330f676f1c9c309a106"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 17732,
+      "sha256": "f3b8b58e75a8ebf2fbe7ba9526e9ea81ec6ff37bce517330f676f1c9c309a106"
+    }
+  },
+  "triangles": 410,
+  "boundsBlenderM": [
+    [
+      -19.531,
+      -19.363,
+      0
+    ],
+    [
+      19.531,
+      19.363,
+      14.55
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.8471838,
+          35.059269
+        ],
+        [
+          -80.8472124,
+          35.059244
+        ],
+        [
+          -80.8472701,
+          35.0591935
+        ],
+        [
+          -80.847308,
+          35.0591602
+        ],
+        [
+          -80.8473158,
+          35.0591534
+        ],
+        [
+          -80.8473242,
+          35.059146
+        ],
+        [
+          -80.8473625,
+          35.0591125
+        ],
+        [
+          -80.8476194,
+          35.0593089
+        ],
+        [
+          -80.8475842,
+          35.0593398
+        ],
+        [
+          -80.8475748,
+          35.059348
+        ],
+        [
+          -80.8475667,
+          35.0593551
+        ],
+        [
+          -80.8474692,
+          35.0594406
+        ],
+        [
+          -80.8474408,
+          35.0594655
+        ],
+        [
+          -80.8471838,
+          35.059269
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 1128360784,
+    "version": 6,
+    "timestamp": "2024-04-10T15:26:35Z",
+    "url": "https://www.openstreetmap.org/way/1128360784"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 1271482543,
+      "version": 1,
+      "timestamp": "2024-04-10T15:26:35Z",
+      "url": "https://www.openstreetmap.org/way/1271482543"
+    },
+    {
+      "type": "way",
+      "id": 1271482544,
+      "version": 1,
+      "timestamp": "2024-04-10T15:26:35Z",
+      "url": "https://www.openstreetmap.org/way/1271482544"
+    },
+    {
+      "type": "way",
+      "id": 1271482545,
+      "version": 1,
+      "timestamp": "2024-04-10T15:26:35Z",
+      "url": "https://www.openstreetmap.org/way/1271482545"
+    }
+  ],
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/ballantyne-bowl.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "The Amp Ballantyne (\"the Ballantyne Bowl\"), Charlotte NC — procedural, CC0-1.0. bun generators/ballantyne-bowl.ts",
+    "Map frame: x across the stage (east-south-east), y towards the audience (north-east), z up, metres. Placed at bearing 43.3°, the axis of the OSM outline (way/1128360784, 32.0 × 24.0 m, leisure=bandstand). The anchor is the outline's centre, so the model is symmetrical about x = 0.",
+    "The amphitheatre's stage is one big gesture: a thin, wide roof plate with a timber soffit and a dark edge, held 9 m over the stage on two board-formed concrete pylons and cantilevered about 10 m towards the lawn. The soffit is a shallow inverted hip — deepest over the pylons, rising to a thin edge on every side. Each pylon is a faceted block: plain inner and upper faces, and an outer face that flares out towards the base below a fold line that climbs from the back to the front (Commons photos 04–06).",
+    "The stage sits on a concrete plinth faced with stacked stone where it meets the pond behind it. The audience sits on lawn terraces with low concrete risers: those are the map's grass, so they are not modelled.",
+    "OSM parts: the roof (way/1271482543, 10–15 m) and the two pylons (way/1271482544, way/1271482545, 10 m). The pylons' inner faces are moved ~1.5 m inward from OSM, whose parts are guessed from above the roof; the front view (photo 03) puts them under the roof's quarter points.",
+    "Ground: the pond behind the stage is the low side. The terrain tiles put the lawn edge about 1.5 m above it, so the stage deck at 2.8 m stands about 1.3 m over the front plaza, as in the photos.",
+    "2026 rework (colour and detail; massing unchanged). Evidence, all City Dweller 2 on Wikimedia Commons, CC BY-SA 4.0: \"The Amp Ballantyne Labor Day Weekend 2023\" (front), \"...side view Mid-April 2024\", \"...viewed from behind the stage Mid-April 2024\", \"...Pond Mid-April 2024\" (rear, across the pond).",
+    "The roof's top is a pale membrane, not grey: the side view shows a light upper surface above the dark fascia. A mid-grey deck made the model read from above as a dark slab; now it reads as the bright plate it is.",
+    "Soffit, concrete and stone re-sampled from the daylight photos (soffit in shade #ac9278, concrete sunlit #e9e9e9 / shade #8c94a5, stacked stone #7e817e) and pulled to the palette's lightness: a paler, less orange timber, a cool board-formed grey, a grey stacked stone.",
+    "Added the dark lighting battens that run front to back under the flat soffit between the pylons (eight lines in the front and rear photos).",
+    "Massing kept: the rear photo scales the pylons at about 8 m above the stage (stage rail and door as the yardstick), as the old model had.",
+    "Bowl: the lawn terraces rise from the stage towards Ballantyne Corporate Place, roughly 6 to 8 m (estimated from the photos; the 2016 county lidar predates the venue). The stage is at the low point beside the pond, not below the street around it, so the placement keeps elevation 0 and the lawn is the map's.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"ballantyne-bowl\", model \"ballantyne-bowl\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/ballantyne-bowl.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

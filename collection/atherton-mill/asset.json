@@ -1,0 +1,339 @@
+{
+  "id": "atherton-mill",
+  "name": "Atherton Mill",
+  "anchor": [
+    -80.860672,
+    35.209277
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 69240,
+      "sha256": "e3c251ae93a96ecf3aa9f4bd50f497cc77e8cffeeeec8b56b6b0fe0d52257c85"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 69240,
+      "sha256": "e3c251ae93a96ecf3aa9f4bd50f497cc77e8cffeeeec8b56b6b0fe0d52257c85"
+    }
+  },
+  "triangles": 1186,
+  "boundsBlenderM": [
+    [
+      -36.978,
+      -53.651,
+      0
+    ],
+    [
+      36.348,
+      57.929,
+      16.7
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.8610338,
+          35.2092648
+        ],
+        [
+          -80.8609355,
+          35.2092082
+        ],
+        [
+          -80.860977,
+          35.2091589
+        ],
+        [
+          -80.8610787,
+          35.2090326
+        ],
+        [
+          -80.8610666,
+          35.2090258
+        ],
+        [
+          -80.8609687,
+          35.2089707
+        ],
+        [
+          -80.8606504,
+          35.2087914
+        ],
+        [
+          -80.8604717,
+          35.2090107
+        ],
+        [
+          -80.8602728,
+          35.2092548
+        ],
+        [
+          -80.8604169,
+          35.2093338
+        ],
+        [
+          -80.8604097,
+          35.2093429
+        ],
+        [
+          -80.86046,
+          35.2093701
+        ],
+        [
+          -80.8604412,
+          35.2093936
+        ],
+        [
+          -80.860456,
+          35.209402
+        ],
+        [
+          -80.8603101,
+          35.2095782
+        ],
+        [
+          -80.8605322,
+          35.2097035
+        ],
+        [
+          -80.8606792,
+          35.2095222
+        ],
+        [
+          -80.8606885,
+          35.2095108
+        ],
+        [
+          -80.8607053,
+          35.2095193
+        ],
+        [
+          -80.8607265,
+          35.2095311
+        ],
+        [
+          -80.8607195,
+          35.2095398
+        ],
+        [
+          -80.8607069,
+          35.2095338
+        ],
+        [
+          -80.8605483,
+          35.2097253
+        ],
+        [
+          -80.8606563,
+          35.2097869
+        ],
+        [
+          -80.8606664,
+          35.2097924
+        ],
+        [
+          -80.8606749,
+          35.2097817
+        ],
+        [
+          -80.8607082,
+          35.2098001
+        ],
+        [
+          -80.8607822,
+          35.2096793
+        ],
+        [
+          -80.8607677,
+          35.2096718
+        ],
+        [
+          -80.8608186,
+          35.2096077
+        ],
+        [
+          -80.8608051,
+          35.2096004
+        ],
+        [
+          -80.860797,
+          35.2095961
+        ],
+        [
+          -80.8609169,
+          35.2094493
+        ],
+        [
+          -80.860905,
+          35.2094434
+        ],
+        [
+          -80.8609044,
+          35.2094431
+        ],
+        [
+          -80.8609164,
+          35.2094266
+        ],
+        [
+          -80.8610338,
+          35.2092648
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 432937693,
+    "version": 7,
+    "timestamp": "2024-08-23T02:55:04Z",
+    "url": "https://www.openstreetmap.org/way/432937693"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 1205364106,
+      "version": 2,
+      "timestamp": "2024-08-23T02:55:04Z",
+      "url": "https://www.openstreetmap.org/way/1205364106"
+    },
+    {
+      "type": "way",
+      "id": 1205364107,
+      "version": 1,
+      "timestamp": "2023-09-06T00:45:18Z",
+      "url": "https://www.openstreetmap.org/way/1205364107"
+    },
+    {
+      "type": "way",
+      "id": 1205364108,
+      "version": 1,
+      "timestamp": "2023-09-06T00:45:18Z",
+      "url": "https://www.openstreetmap.org/way/1205364108"
+    },
+    {
+      "type": "way",
+      "id": 1205364109,
+      "version": 1,
+      "timestamp": "2023-09-06T00:45:18Z",
+      "url": "https://www.openstreetmap.org/way/1205364109"
+    },
+    {
+      "type": "way",
+      "id": 1205364110,
+      "version": 1,
+      "timestamp": "2023-09-06T00:45:18Z",
+      "url": "https://www.openstreetmap.org/way/1205364110"
+    },
+    {
+      "type": "way",
+      "id": 1205364111,
+      "version": 1,
+      "timestamp": "2023-09-06T00:45:18Z",
+      "url": "https://www.openstreetmap.org/way/1205364111"
+    },
+    {
+      "type": "way",
+      "id": 1205364112,
+      "version": 1,
+      "timestamp": "2023-09-06T00:45:18Z",
+      "url": "https://www.openstreetmap.org/way/1205364112"
+    },
+    {
+      "type": "way",
+      "id": 1205364113,
+      "version": 1,
+      "timestamp": "2023-09-06T00:45:18Z",
+      "url": "https://www.openstreetmap.org/way/1205364113"
+    },
+    {
+      "type": "way",
+      "id": 1205364114,
+      "version": 1,
+      "timestamp": "2023-09-06T00:45:18Z",
+      "url": "https://www.openstreetmap.org/way/1205364114"
+    },
+    {
+      "type": "way",
+      "id": 1205364115,
+      "version": 1,
+      "timestamp": "2023-09-06T00:45:18Z",
+      "url": "https://www.openstreetmap.org/way/1205364115"
+    },
+    {
+      "type": "way",
+      "id": 1205364116,
+      "version": 1,
+      "timestamp": "2023-09-06T00:45:18Z",
+      "url": "https://www.openstreetmap.org/way/1205364116"
+    },
+    {
+      "type": "way",
+      "id": 1205364117,
+      "version": 1,
+      "timestamp": "2023-09-06T00:45:18Z",
+      "url": "https://www.openstreetmap.org/way/1205364117"
+    },
+    {
+      "type": "way",
+      "id": 1205364118,
+      "version": 1,
+      "timestamp": "2023-09-06T00:45:18Z",
+      "url": "https://www.openstreetmap.org/way/1205364118"
+    }
+  ],
+  "wikidata": "Q19461795",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:2000 South Blvd.jpg",
+      "author": "Bagatar",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:2000_South_Blvd.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/clt-atherton-mill.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Atherton Mill (the former Parks-Cramer Company Complex), 2000 South Boulevard, South End, Charlotte — procedural, CC0-1.0. bun generators/clt-atherton-mill.ts",
+    "The 1919 factory of the Parks-Cramer Company, makers of humidifiers and air conditioning for the textile mills (Stuart W. Cramer coined the term), extended to the 1950s and reopened in the mid-1990s as the Atherton Mill & Market shops. A designated Charlotte-Mecklenburg landmark (2000, 2006 & 2010 South Blvd) and on the National Register (1994, ref. 94000146; Wikidata Q19461795). Not to be confused with the 1893 Atherton Cotton Mill 230 m south-west (clt-atherton-cotton-mill), whose name the shops took.",
+    "The National Register nomination (NC SHPO MK1766) describes it: \"a large facility with an asymmetrical plan ... primarily one story in height although portions on the north side have two and three stories ... brick exterior walls ... The roofs are flat, and except along the west elevation, the roof line is defined by stepped parapets ... Along the west elevation ... overhanging wooden eaves and exposed rafters ... Each of the four production areas has a flat-roofed monitor with operable steel-sash windows ... banks of large, steel-sash factory windows ... concrete lintels and sills ... A brick smokestack rises from the junction of the southern and mid-sections\" of the shipping building on the west side, and \"a new brick veneer was also added to the tall mid-section on the north, east, and south elevations, covering existing window openings.\"",
+    "What makes it read: the long, low red-brick front on South Boulevard with its bands of factory windows and the blue ATHERTON MILL sign over the entrance; four long white monitors on the flat white roof; the blank, three-storey brick mid-section rising behind; the two-storey brick block at the Tremont corner with its glass rooftop box; the square brick stack on the railway side; and the white-painted \"Mill Shops\" wing at the north-west corner, wrapped in a brown shed-roof awning.",
+    "Evidence: - Identity: Mecklenburg County LocalHistoricProperty layer, \"Parks-Cramer Company Complex\", 1919, 2000 South Bv, PID 12103169 (the parcel under the whole outline); https://hl.mecknc.gov/Properties/Designated-Historic-Landmarks/charlotte/south-inner/parks-cramer-company-complex - OSM way/432937693 (outline, name=Atherton Mill) and its building:parts way/1205364106–1205364118: the hall (106), the four monitors (107–110), the Mill Shops wing (111) and its awning (112), a canopy west of it (113), the tall mid-section (114), the two-storey block (115) and its raised roof (116), the stack (117), and a canopy (118). - Lidar, USGS 3DEP NC Phase 4 Mecklenburg 2016, 0.5 m, sampled in this frame. Base (y = 0) is the lowest ground under the outline, 227.72 m NAVD88, on the railway (west) side; the ground rises about 1 m to South Boulevard. Heights above base: hall parapet 5.4 m; shipping wing on the west 5.7 m; monitors 7.1 m; tall mid-section 14.1 m on the deck, 15.4 m on the parapet; two-storey block 10.7–10.9 m; Mills Shops wing 6.8 m; the stack 16.7 m. Canopy 113 is missing in 2016 (newer). - NRHP nomination MK1766: plan sections (110 × 77, 92 × 77, 202 × 77 ft production areas; 76 × 78 ft northern section), the forms quoted above. - Photos (Wikimedia Commons): Bagatar, \"2000 South Blvd.jpg\", CC BY-SA 3.0 (the South Blvd front, sign, monitors, stack, mid-section); City Dweller 2, CC BY-SA 4.0, April 2024: \"Atherton Mill on South Blvd\", \"… at the corner of South Blvd and Tremont\" (the two-storey block, its lintels and the glass rooftop box), \"Atherton Mill sign\" (the Mill Shops wing and its awning from Tremont), \"… along the alley\" and \"… along the Light Rail\" (the railway side: dark eaves, tall sash windows, concrete base). USGS NAIP (plan; white membrane roofs).",
+    "Estimated: window sizes, pitch and the bands' extents on South Blvd (from the photos); the glass rooftop box's height (3 m over the parapet, from the corner photo; it postdates the lidar); the awning depth and slope; the south front (no photo: loading doors and sash windows per the NRHP, with a stepped parapet whose step heights are guessed); the stack's cap. No lettering on the sign (a plain blue panel).",
+    "Model frame: bearing 34 (model +y runs north-north-east, along South Boulevard towards Tremont; +x is east-south-east, the South Blvd side; −x is the railway side). Origin: the outline's centroid.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"clt-atherton-mill\", model \"clt-atherton-mill\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/clt-atherton-mill.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 203 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the clt-atherton-mill-glazing finish in the window colour.",
+    "To fit six materials, folded trim into clt-atherton-mill-mill-roof (ΔE 20.5)."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

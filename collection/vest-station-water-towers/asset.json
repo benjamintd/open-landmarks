@@ -1,0 +1,177 @@
+{
+  "id": "vest-station-water-towers",
+  "name": "Vest Station Water Towers",
+  "anchor": [
+    -80.8557299,
+    35.2499991
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 104636,
+      "sha256": "533f853d17d25f9ba39837089bd2901abc9d5cd2529aba671c860a6e95b99140"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 104636,
+      "sha256": "533f853d17d25f9ba39837089bd2901abc9d5cd2529aba671c860a6e95b99140"
+    }
+  },
+  "triangles": 2950,
+  "boundsBlenderM": [
+    [
+      -12.69,
+      -31.52,
+      0
+    ],
+    [
+      13.76,
+      27.33,
+      54.2
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.8555967,
+          35.2498639
+        ],
+        [
+          -80.8556194,
+          35.2498861
+        ],
+        [
+          -80.8556498,
+          35.2499011
+        ],
+        [
+          -80.8556844,
+          35.2499073
+        ],
+        [
+          -80.8557196,
+          35.2499041
+        ],
+        [
+          -80.8557523,
+          35.2498916
+        ],
+        [
+          -80.8557781,
+          35.249871
+        ],
+        [
+          -80.8557942,
+          35.2498446
+        ],
+        [
+          -80.8557989,
+          35.2498154
+        ],
+        [
+          -80.8557916,
+          35.2497865
+        ],
+        [
+          -80.8557731,
+          35.2497612
+        ],
+        [
+          -80.8557455,
+          35.2497422
+        ],
+        [
+          -80.8557118,
+          35.2497316
+        ],
+        [
+          -80.8556757,
+          35.2497307
+        ],
+        [
+          -80.8556413,
+          35.2497394
+        ],
+        [
+          -80.8556126,
+          35.2497565
+        ],
+        [
+          -80.8555922,
+          35.2497802
+        ],
+        [
+          -80.8555823,
+          35.249808
+        ],
+        [
+          -80.8555838,
+          35.2498369
+        ],
+        [
+          -80.8555967,
+          35.2498639
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 869290547,
+    "version": 1,
+    "timestamp": "2020-11-10T14:59:17Z",
+    "url": "https://www.openstreetmap.org/way/869290547"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 869290548,
+      "version": 1,
+      "timestamp": "2020-11-10T14:59:17Z",
+      "url": "https://www.openstreetmap.org/way/869290548"
+    }
+  ],
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/beatties-ford-water-tower.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Vest Station water towers, Beatties Ford Road at Patton Ave, Charlotte — procedural, CC0-1.0. bun generators/beatties-ford-water-tower.ts",
+    "Map frame: x east, y north, z up, metres; origin on the ground midway between the two towers' OSM outlines (way/869290547, a 19.7 m circle, and way/869290548, 13.5 m), which stand 40 m apart on a north-south line at the south end of the Vest Water Treatment Plant. Bearing 0.",
+    "The plant on Beatties Ford Road is Vest Station (Charlotte Water Works, 1924, a designated Charlotte-Mecklenburg historic landmark); the landmark report (Loken, 1990) singles out \"its two towering water tanks\".",
+    "The south one, Charlotte Water's \"Patton Avenue water tank\", is a tall cylinder with a hemi-ellipsoidal bottom, a conical roof with a rolled eave and a ball finial, a walkway where cylinder meets bowl, eight near-vertical columns, a wide riser, and rings of struts with crossed rods. The north one is a squat saucer on six short columns: a shallow bowl, a short band with a walkway, a low dome and a ball finial. Both pale grey on near-black steel since the 2022 repaint.",
+    "Rework (2026): the forms of the first model are kept; heights, sizes, positions and colours now follow the lidar and the photos.",
+    "Evidence - Lidar, USGS 3DEP NC Phase 4 Mecklenburg 2016, 0.5 m DSM and ground. y = 0 is the lowest ground under the two towers, 225.2 m NAVD88. South tank: a disc 20.6 m across (eave lip included), centred at (3.5, -21.2), 1.3 m south of the OSM circle; eave 47.6 m at r 10 m, the roof falling 0.53 m per metre from the finial, ball top 54.4 m. North tank: a disc 13 m across centred at (-5.7, 20.2), 2.1 m west of its OSM circle; rim 14.4 m at r 6.5 m, dome 16.6 m, finial top 17.8 m. The OSM circles were most likely traced off tank tops leaning in off-nadir imagery; the lidar sees each tank straight above its legs, so the towers stand at the lidar centres. - Mapillary street frames (CC BY-SA 4.0) from Brookshire Freeway, April 2022 (ids 582383733235380, 5292041420848463, 537280747751815), 170-380 m west: the pale grey tank, its cylinder about 0.6 of its width tall, the bowl about half, the black columns and riser, two strut rings showing between the trees; the north saucer's dome, rim railing and finial over the trees. Beatties Ford Road frames, August 2018 (806619373392749, 4132372766823868). - Published: Historic Landmarks Commission survey, \"elevated 1,000,000 gallon storage tank\" (1924).",
+    "Massing changes from the first model, with their evidence: the south tank was 16 m wide with its walkway at 24.4 m and apex at 40 m, scaled off an undated photo; the lidar gives a 20.6 m disc and a 54.4 m top, so the tank is now 18.8 m wide (19.8 m over the eave), walkway at 36 m, eave 47.6 m. The north saucer was topped at 12.6 m; the lidar puts its rim at 14.4 m and its finial at 17.8 m, so it is raised 4.6 m. Both moved to the lidar centres (above). The columns, now under a wider tank, stay near vertical as the 2022 frames show them.",
+    "Estimated: the cylinder and bowl split of the south tank (photo ratios; at this size it holds about 1.25 million gallons, above the published million, which may be a nominal or earlier figure), the strut-ring heights, the north saucer's bowl and band (mostly hidden by trees in every frame), member sizes, thickened to read at phone size (columns 1.1 m, struts 0.64 m, rods 0.4 m). The near-black steel is pulled to charcoal, per STYLE.md.",
+    "The plant building itself is not modelled.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"beatties-ford-water-tower\", model \"beatties-ford-water-tower\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/beatties-ford-water-tower.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

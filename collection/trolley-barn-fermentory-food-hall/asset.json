@@ -1,0 +1,121 @@
+{
+  "id": "trolley-barn-fermentory-food-hall",
+  "name": "Trolley Barn Fermentory & Food Hall",
+  "anchor": [
+    -80.8615582,
+    35.2086705
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 17512,
+      "sha256": "4d0ba79295d0552e746344544c02a5655da4d75988a240d3f253be747d0f9292"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 17512,
+      "sha256": "4d0ba79295d0552e746344544c02a5655da4d75988a240d3f253be747d0f9292"
+    }
+  },
+  "triangles": 228,
+  "boundsBlenderM": [
+    [
+      -22.951,
+      -22.943,
+      0
+    ],
+    [
+      18.824,
+      25.039,
+      11
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.8615621,
+          35.2088665
+        ],
+        [
+          -80.8615267,
+          35.2088471
+        ],
+        [
+          -80.8614889,
+          35.2088945
+        ],
+        [
+          -80.8614635,
+          35.20888
+        ],
+        [
+          -80.8613566,
+          35.2088195
+        ],
+        [
+          -80.8616388,
+          35.2084625
+        ],
+        [
+          -80.8617256,
+          35.2085097
+        ],
+        [
+          -80.8618113,
+          35.2085567
+        ],
+        [
+          -80.8615621,
+          35.2088665
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 146307369,
+    "version": 4,
+    "timestamp": "2024-03-08T20:59:06Z",
+    "url": "https://www.openstreetmap.org/way/146307369"
+  },
+  "additionalOsm": [],
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/clt-trolley-barn.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Trolley Barn Fermentory & Food Hall, 2104 South Boulevard, South End, Charlotte — procedural, CC0-1.0. bun generators/clt-trolley-barn.ts",
+    "The streetcar barn beside the Lynx Blue Line, reopened as a food hall (Legion Brewing and others): a long, flat-roofed shed clad in pale corrugated metal over a red-brick base, with tall multi-pane steel windows, dark flat canopies over its doors on the alley side, and at the north-east end, facing the plaza with the old track in its paving, a two-storey black steel porch in front of a red-brick end wall, with the wooden \"Trolley Barn\" sign on its corner.",
+    "Model frame: bearing 33. Model +y runs along the barn to the north-east (the porch end), +x to the south-east (the alley); -x is the railway side. Origin: the outline's centroid.",
+    "Evidence: - OSM: way/146307369 (outline, height 10). The barn is x -12.3..6.4, y -23.2..18.0; the porch x -8.2..6.4, y 18.0..24.2. - Lidar, USGS 3DEP NC Phase 4 Mecklenburg 2016, 0.5 m (ground_min 226.20 m NAVD88), sampled in this frame: the roof is flat at 11.0 m above the lowest ground under the footprint (the railway side); the alley, the plaza and the south-west end lie 1.8 m higher, so OSM's 10 m is the alley-side height. The 2016 flight shows no porch: it was added in the renovation, so its heights come from the photos. - Photos: City Dweller 2, CC BY-SA 4.0 (Wikimedia Commons): \"Trolley Barn close up Late May 2024\" (the porch end and the alley side), \"Trolley Barn side of building Late May 2024\" (the alley side: windows, canopies, brick base), \"Legion Brewing Trolley Barn Mid-April 2024\" (the porch end from the plaza). denton.harryman, \"20220115_trolley_barn\", Flickr, CC0 (the corrugated cladding and the corner sign). USGS NAIP (plan, the white roof).",
+    "Estimated: window sizes and pitch, canopy sizes, the porch's deck height (3.9 m above the plaza) and roof (just under the barn's eave), the post spacing, from the photos. No photo shows the railway side or the south-west end: they are given the alley side's upper windows on plain cladding. The sign carries no lettering.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"clt-trolley-barn\", model \"clt-trolley-barn\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/clt-trolley-barn.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

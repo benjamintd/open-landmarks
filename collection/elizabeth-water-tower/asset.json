@@ -1,0 +1,167 @@
+{
+  "id": "elizabeth-water-tower",
+  "name": "Elizabeth Water Tower",
+  "anchor": [
+    -80.8168798,
+    35.2128295
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 70812,
+      "sha256": "0f6ce041c19159bf4e254d67cc30d9039b237ccb954511520d64558698e57cd3"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 70812,
+      "sha256": "0f6ce041c19159bf4e254d67cc30d9039b237ccb954511520d64558698e57cd3"
+    }
+  },
+  "triangles": 2028,
+  "boundsBlenderM": [
+    [
+      -12.9,
+      -12.9,
+      0
+    ],
+    [
+      12.9,
+      12.9,
+      50
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.8167461,
+          35.212797
+        ],
+        [
+          -80.8167404,
+          35.2128338
+        ],
+        [
+          -80.8167495,
+          35.2128702
+        ],
+        [
+          -80.8167724,
+          35.2129023
+        ],
+        [
+          -80.8168068,
+          35.2129266
+        ],
+        [
+          -80.8168496,
+          35.2129408
+        ],
+        [
+          -80.8168958,
+          35.2129427
+        ],
+        [
+          -80.8169403,
+          35.2129322
+        ],
+        [
+          -80.816978,
+          35.2129104
+        ],
+        [
+          -80.817005,
+          35.2128798
+        ],
+        [
+          -80.8170182,
+          35.2128435
+        ],
+        [
+          -80.8170162,
+          35.2128058
+        ],
+        [
+          -80.8169992,
+          35.2127707
+        ],
+        [
+          -80.8169691,
+          35.212742
+        ],
+        [
+          -80.8169292,
+          35.2127229
+        ],
+        [
+          -80.8168838,
+          35.2127156
+        ],
+        [
+          -80.8168387,
+          35.2127206
+        ],
+        [
+          -80.816798,
+          35.2127372
+        ],
+        [
+          -80.816766,
+          35.2127636
+        ],
+        [
+          -80.8167461,
+          35.212797
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 870467714,
+    "version": 1,
+    "timestamp": "2020-11-11T17:54:57Z",
+    "url": "https://www.openstreetmap.org/way/870467714"
+  },
+  "additionalOsm": [],
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/elizabeth-water-tower.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Elizabeth water tower, E 8th St at Pecan Ave, Charlotte — procedural, CC0-1.0. bun generators/elizabeth-water-tower.ts",
+    "Map frame: x east, y north, z up, metres; origin on the ground at the centre of the OSM outline (way/870467714, man_made=water_tower, a 25.3 m circle). Round, so bearing 0.",
+    "One of the towers Charlotte put up in 1937 when it rebuilt its water system, at 422 Pecan Avenue: \"a huge silver orb perched on steel stilts\" (Charlotte-Mecklenburg Historic Landmarks Commission, The Elizabeth Neighborhood). Today the orb is painted white and the steel a navy so dark it reads black. A multi-column tank: an ellipsoidal tank whose heads are joined by a short cylindrical band with a walkway round its top, carried on a ring of plain vertical columns that rise past the lower head to the walkway, a wide central riser, two rings of struts (one across the lower head, one below it) and crossed rods between the columns.",
+    "Rework (2026): the form of the first model is kept; the heights, column count, bracing and colours now follow the lidar and the photos.",
+    "Evidence - Lidar, USGS 3DEP NC Phase 4 Mecklenburg 2016, 0.5 m DSM and ground; y = 0 is the lowest ground under the tower, 222.5 m NAVD88. The tank's disc is 25.5 m across (walkway included), centred 0.7 m south of the OSM circle's centre, which is kept; the shell's crown is 49.0 m, the finial 50.0 m, the shell falls to 47.0 m at r 6, 46.1 m at r 8 and 45.0 m at r 10, and the walkway ring at r 11-14 is 39.9 m. - \"Elizabeth Water Tower at 8th St and Pecan St Early August 2025\", City Dweller 2, CC BY-SA 4.0, Wikimedia Commons: white tank, near-black columns, riser and strut rings, crossed rods over the lower head and below it (drawn below it only, see the bracing), a stair to the walkway. - \"ProjectCLT - Elizabeth Water Tower\", Carolinadoug, Flickr, CC BY-NC-ND 2.0 (looked at, not copied): the tank's proportions; the columns' spacing across the front fits sixteen columns (a fit of the eight visible columns' positions gives 22.9 degrees between them; the first model had twelve).",
+    "Massing changes from the first model, with their evidence: the tank sat 1.5 to 4 m too high (crown 50.5 m, walkway 43.8 m) against the lidar's 49.0 m crown and 39.9 m walkway, so it is lowered, its band shortened to 2 m and its upper head made a little deeper (9 m) to follow the lidar's profile; sixteen columns instead of twelve (the Flickr photo).",
+    "Estimated: the lower head's depth (8.5 m, from the photos' proportions; about 1.6 million US gallons at this size, none published), the strut rings' heights (31.5 m across the lower head and 24.5 m, read off the Commons photo; trees hide anything lower), the riser's width (2.2 m), member sizes, thickened to read at phone size (columns 0.76 m, struts 0.54 m, rods 0.36 m: sixteen columns any thicker hide the white bowl). The near-black navy is pulled to a navy charcoal, per STYLE.md: dark enough to read as the defining dark frame under the white tank, no darker than charcoal. No railings, ladders, stair or lettering.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"elizabeth-water-tower\", model \"elizabeth-water-tower\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/elizabeth-water-tower.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

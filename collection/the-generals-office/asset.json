@@ -1,0 +1,156 @@
+{
+  "id": "the-generals-office",
+  "name": "The General's Office",
+  "anchor": [
+    -80.8334231,
+    35.2464367
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 10968,
+      "sha256": "7aa79a4c634305c6fb51f8a1ca87abb92ba05b5f2b06d76ef87cbfaa744a3f47"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 10968,
+      "sha256": "7aa79a4c634305c6fb51f8a1ca87abb92ba05b5f2b06d76ef87cbfaa744a3f47"
+    }
+  },
+  "triangles": 126,
+  "boundsBlenderM": [
+    [
+      -7.627,
+      -6.859,
+      0
+    ],
+    [
+      8.531,
+      7.077,
+      5.6
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.8334943,
+          35.2464807
+        ],
+        [
+          -80.8335167,
+          35.2464829
+        ],
+        [
+          -80.8335156,
+          35.2464903
+        ],
+        [
+          -80.8334998,
+          35.2464888
+        ],
+        [
+          -80.8334991,
+          35.246494
+        ],
+        [
+          -80.8334583,
+          35.2464902
+        ],
+        [
+          -80.8334567,
+          35.2465012
+        ],
+        [
+          -80.8333961,
+          35.2464955
+        ],
+        [
+          -80.8333977,
+          35.2464845
+        ],
+        [
+          -80.8333366,
+          35.2464787
+        ],
+        [
+          -80.8333408,
+          35.2464494
+        ],
+        [
+          -80.8333515,
+          35.2463741
+        ],
+        [
+          -80.8335074,
+          35.2463889
+        ],
+        [
+          -80.8334943,
+          35.2464807
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 672998898,
+    "version": 7,
+    "timestamp": "2024-11-01T04:24:53Z",
+    "url": "https://www.openstreetmap.org/way/672998898"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 835851711,
+      "version": 1,
+      "timestamp": "2020-08-10T18:14:20Z",
+      "url": "https://www.openstreetmap.org/way/835851711"
+    },
+    {
+      "type": "relation",
+      "id": 18229983,
+      "version": 1,
+      "timestamp": "2024-10-30T14:47:14Z",
+      "url": "https://www.openstreetmap.org/relation/18229983"
+    }
+  ],
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/clt-cne-generals-office.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Camp North End: The General's Office — procedural, CC0-1.0. bun generators/clt-cne-generals-office.ts",
+    "A small one-storey office of the Army depot, 300 Camp Road, standing against the east end of `clt-cne-330-camp-road`, named The General's Office by Camp North End (the origin of the name is not published). A flat-roofed brick box 14 × 12 m with a small raised block on its roof.",
+    "Evidence: - OSM: way/672998898 (\"The General's Office\", height 5.5, addr 300 Camp Road), its part way/835851711 (height 5.5) and the multipolygon part relation/18229983 (height 4.5) that covers the rest. - Lidar, USGS 3DEP NC Phase 4 Mecklenburg 2016, 1 m (measured, NAVD88): roof 231.6–231.7; the raised block 232.7; ground 227.1 on the north, 228.3 on the south (y = 0 is 227.1: the roof is 4.6 m above it, the block 5.6 m). - Camp North End leasing brochure (2021, camp.nc): \"300 Camp Road\", 2,000 sq ft. Mecklenburg County tax parcel 07903102 (CAMP LANDOWNER LP), 1943–55.",
+    "No licensed photo was found. The brick, the windows and the door are estimated; the raised block's purpose (a skylight or plant) is unknown. Under the 300 m² floor for small buildings, built because it is named and historic.",
+    "Frame: the Ford plant's grid, placement bearing 6.3; origin at the outline's centroid, lng −80.8334231, lat 35.2464367. Kit: `clt-cne-301-camp-road.ts`.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"clt-cne-generals-office\", model \"clt-cne-generals-office\"), generated by https://github.com/alexwohlbruck/landmarks/blob/a1974bbf738c6994edbe99a7a61818b9d69da9e0/generators/clt-cne-generals-office.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

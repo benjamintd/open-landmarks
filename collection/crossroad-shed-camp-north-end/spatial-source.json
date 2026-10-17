@@ -1,0 +1,244 @@
+{
+  "id": "crossroad-shed-camp-north-end",
+  "anchor": [
+    -80.8305513,
+    35.2480828
+  ],
+  "coordinateSystem": "Local metres about the anchor (equirectangular, WGS84 radius): X east, Y north, Z up. glTF export: X east, Y up, Z south. Heading already baked.",
+  "license": "ODbL-1.0",
+  "footprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          1.8545695453539912,
+          -12.211748139563758
+        ],
+        [
+          -3.109131297268824,
+          -9.139330194149567
+        ],
+        [
+          -11.700151986920586,
+          -3.807126585325945
+        ],
+        [
+          -1.827296464127646,
+          12.211748140354729
+        ],
+        [
+          6.381901083187633,
+          7.1133154617649605
+        ],
+        [
+          11.681969932339051,
+          3.818258534535362
+        ],
+        [
+          1.8545695453539912,
+          -12.211748139563758
+        ]
+      ]
+    ]
+  },
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.8305309,
+          35.2479731
+        ],
+        [
+          -80.8305855,
+          35.2480007
+        ],
+        [
+          -80.83068,
+          35.2480486
+        ],
+        [
+          -80.8305714,
+          35.2481925
+        ],
+        [
+          -80.8304811,
+          35.2481467
+        ],
+        [
+          -80.8304228,
+          35.2481171
+        ],
+        [
+          -80.8305309,
+          35.2479731
+        ]
+      ]
+    ]
+  },
+  "parts": [
+    {
+      "osm": "way/324608641",
+      "tags": {
+        "addr:city": "Charlotte",
+        "addr:country": "US",
+        "addr:housenumber": "1836",
+        "addr:postcode": "28206",
+        "addr:state": "NC",
+        "addr:street": "Statesville Avenue",
+        "building": "yes",
+        "building:levels": "1",
+        "height": "6"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1.8545695453539912,
+              -12.211748139563758
+            ],
+            [
+              -3.109131297268824,
+              -9.139330194149567
+            ],
+            [
+              -11.700151986920586,
+              -3.807126585325945
+            ],
+            [
+              -1.827296464127646,
+              12.211748140354729
+            ],
+            [
+              6.381901083187633,
+              7.1133154617649605
+            ],
+            [
+              11.681969932339051,
+              3.818258534535362
+            ],
+            [
+              1.8545695453539912,
+              -12.211748139563758
+            ]
+          ]
+        ]
+      },
+      "version": 5,
+      "timestamp": "2020-12-04T17:23:15Z"
+    },
+    {
+      "osm": "way/835850905",
+      "tags": {
+        "building:levels": "1",
+        "building:part": "yes",
+        "height": "6",
+        "roof:height": "2",
+        "roof:shape": "gabled"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.827296464127646,
+              12.211748140354729
+            ],
+            [
+              6.381901083187633,
+              7.1133154617649605
+            ],
+            [
+              -3.109131297268824,
+              -9.139330194149567
+            ],
+            [
+              -11.700151986920586,
+              -3.807126585325945
+            ],
+            [
+              -1.827296464127646,
+              12.211748140354729
+            ]
+          ]
+        ]
+      },
+      "version": 1,
+      "timestamp": "2020-08-10T18:09:56Z"
+    },
+    {
+      "osm": "way/835850906",
+      "tags": {
+        "building:levels": "1",
+        "building:part": "yes",
+        "height": "4",
+        "roof:height": "1",
+        "roof:shape": "skillion"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.381901083187633,
+              7.1133154617649605
+            ],
+            [
+              11.681969932339051,
+              3.818258534535362
+            ],
+            [
+              1.8545695453539912,
+              -12.211748139563758
+            ],
+            [
+              -3.109131297268824,
+              -9.139330194149567
+            ],
+            [
+              6.381901083187633,
+              7.1133154617649605
+            ]
+          ]
+        ]
+      },
+      "version": 1,
+      "timestamp": "2020-08-10T18:09:56Z"
+    }
+  ],
+  "osm": {
+    "type": "way",
+    "id": 324608641,
+    "version": 5,
+    "timestamp": "2020-12-04T17:23:15Z",
+    "url": "https://www.openstreetmap.org/way/324608641"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 835850905,
+      "version": 1,
+      "timestamp": "2020-08-10T18:09:56Z",
+      "url": "https://www.openstreetmap.org/way/835850905"
+    },
+    {
+      "type": "way",
+      "id": 835850906,
+      "version": 1,
+      "timestamp": "2020-08-10T18:09:56Z",
+      "url": "https://www.openstreetmap.org/way/835850906"
+    }
+  ],
+  "tags": {
+    "addr:city": "Charlotte",
+    "addr:country": "US",
+    "addr:housenumber": "1836",
+    "addr:postcode": "28206",
+    "addr:state": "NC",
+    "addr:street": "Statesville Avenue",
+    "building": "yes",
+    "building:levels": "1",
+    "height": "6"
+  }
+}

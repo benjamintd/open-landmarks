@@ -1,0 +1,147 @@
+{
+  "id": "bechtler-museum-of-modern-art",
+  "anchor": [
+    -80.8474056,
+    35.2245867
+  ],
+  "coordinateSystem": "Local metres about the anchor (equirectangular, WGS84 radius): X east, Y north, Z up. glTF export: X east, Y up, Z south. Heading already baked.",
+  "license": "ODbL-1.0",
+  "footprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -0.9275534196581673,
+          21.56258536631932
+        ],
+        [
+          -15.395568046901005,
+          9.595740106198832
+        ],
+        [
+          -21.633819483004334,
+          4.441647682352953
+        ],
+        [
+          0.1636858983469042,
+          -21.607113163156985
+        ],
+        [
+          22.00665958321504,
+          -4.118821160025714
+        ],
+        [
+          -0.9275534196581673,
+          21.56258536631932
+        ]
+      ]
+    ]
+  },
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.8474158,
+          35.2247804
+        ],
+        [
+          -80.8475749,
+          35.2246729
+        ],
+        [
+          -80.8476435,
+          35.2246266
+        ],
+        [
+          -80.8474038,
+          35.2243926
+        ],
+        [
+          -80.8471636,
+          35.2245497
+        ],
+        [
+          -80.8474158,
+          35.2247804
+        ]
+      ]
+    ]
+  },
+  "parts": [
+    {
+      "osm": "way/131139728",
+      "tags": {
+        "addr:city": "Charlotte",
+        "addr:housenumber": "420",
+        "addr:postcode": "28202",
+        "addr:state": "NC",
+        "addr:street": "South Tryon Street",
+        "building": "yes",
+        "height": "30",
+        "name": "Bechtler Museum Of Modern Art",
+        "phone": "+1-704-353-9200",
+        "tourism": "museum",
+        "website": "https://www.bechtler.org/",
+        "wikidata": "Q4878575",
+        "wikipedia": "en:Bechtler Museum of Modern Art"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.9275534196581673,
+              21.56258536631932
+            ],
+            [
+              -15.395568046901005,
+              9.595740106198832
+            ],
+            [
+              -21.633819483004334,
+              4.441647682352953
+            ],
+            [
+              0.1636858983469042,
+              -21.607113163156985
+            ],
+            [
+              22.00665958321504,
+              -4.118821160025714
+            ],
+            [
+              -0.9275534196581673,
+              21.56258536631932
+            ]
+          ]
+        ]
+      },
+      "version": 7,
+      "timestamp": "2023-11-02T23:50:34Z"
+    }
+  ],
+  "osm": {
+    "type": "way",
+    "id": 131139728,
+    "version": 7,
+    "timestamp": "2023-11-02T23:50:34Z",
+    "url": "https://www.openstreetmap.org/way/131139728"
+  },
+  "additionalOsm": [],
+  "tags": {
+    "addr:city": "Charlotte",
+    "addr:housenumber": "420",
+    "addr:postcode": "28202",
+    "addr:state": "NC",
+    "addr:street": "South Tryon Street",
+    "building": "yes",
+    "height": "30",
+    "name": "Bechtler Museum Of Modern Art",
+    "phone": "+1-704-353-9200",
+    "tourism": "museum",
+    "website": "https://www.bechtler.org/",
+    "wikidata": "Q4878575",
+    "wikipedia": "en:Bechtler Museum of Modern Art"
+  }
+}

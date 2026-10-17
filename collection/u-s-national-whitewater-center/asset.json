@@ -1,0 +1,314 @@
+{
+  "id": "u-s-national-whitewater-center",
+  "name": "U.S. National Whitewater Center",
+  "anchor": [
+    -81.0051949,
+    35.2726166
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 34560,
+      "sha256": "7d6d9c06c6492157d7a9e913cc185d8663264a3383368b6412f8ba84e08b1f23"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 34560,
+      "sha256": "7d6d9c06c6492157d7a9e913cc185d8663264a3383368b6412f8ba84e08b1f23"
+    }
+  },
+  "triangles": 582,
+  "boundsBlenderM": [
+    [
+      -31.6,
+      -43.5,
+      0
+    ],
+    [
+      32.1,
+      37.8,
+      13.966
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -81.00518,
+          35.2729123
+        ],
+        [
+          -81.0048573,
+          35.2728251
+        ],
+        [
+          -81.0049007,
+          35.2727185
+        ],
+        [
+          -81.0048421,
+          35.2727027
+        ],
+        [
+          -81.0048893,
+          35.2725902
+        ],
+        [
+          -81.004875,
+          35.2725854
+        ],
+        [
+          -81.0048801,
+          35.2725393
+        ],
+        [
+          -81.0050941,
+          35.2725558
+        ],
+        [
+          -81.0051049,
+          35.272534
+        ],
+        [
+          -81.0051236,
+          35.2724288
+        ],
+        [
+          -81.0051263,
+          35.2724135
+        ],
+        [
+          -81.0051443,
+          35.2723888
+        ],
+        [
+          -81.0051658,
+          35.2723594
+        ],
+        [
+          -81.005188,
+          35.2723694
+        ],
+        [
+          -81.0052293,
+          35.2723881
+        ],
+        [
+          -81.0052372,
+          35.2723393
+        ],
+        [
+          -81.0053263,
+          35.2722234
+        ],
+        [
+          -81.0054167,
+          35.2722595
+        ],
+        [
+          -81.0055421,
+          35.2723259
+        ],
+        [
+          -81.0054224,
+          35.2724943
+        ],
+        [
+          -81.0054804,
+          35.272523
+        ],
+        [
+          -81.0054348,
+          35.2725843
+        ],
+        [
+          -81.0053125,
+          35.2725206
+        ],
+        [
+          -81.0053021,
+          35.272536
+        ],
+        [
+          -81.0053228,
+          35.272556
+        ],
+        [
+          -81.0053221,
+          35.2725777
+        ],
+        [
+          -81.0053071,
+          35.2725972
+        ],
+        [
+          -81.0052873,
+          35.2726106
+        ],
+        [
+          -81.0052775,
+          35.2726265
+        ],
+        [
+          -81.0053516,
+          35.2726434
+        ],
+        [
+          -81.0053312,
+          35.272698
+        ],
+        [
+          -81.005365,
+          35.2727113
+        ],
+        [
+          -81.0053543,
+          35.2727398
+        ],
+        [
+          -81.0053785,
+          35.2727442
+        ],
+        [
+          -81.0053731,
+          35.2727704
+        ],
+        [
+          -81.0053845,
+          35.2727731
+        ],
+        [
+          -81.005365,
+          35.2728011
+        ],
+        [
+          -81.0053509,
+          35.2729034
+        ],
+        [
+          -81.0053463,
+          35.2729369
+        ],
+        [
+          -81.0053221,
+          35.2729588
+        ],
+        [
+          -81.005262,
+          35.2729538
+        ],
+        [
+          -81.0052132,
+          35.2729498
+        ],
+        [
+          -81.0052229,
+          35.2728865
+        ],
+        [
+          -81.005193,
+          35.2728767
+        ],
+        [
+          -81.00518,
+          35.2729123
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 223914934,
+    "version": 5,
+    "timestamp": "2025-12-06T06:01:13Z",
+    "url": "https://www.openstreetmap.org/way/223914934"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q7863251",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:USNWC River Center.jpg",
+      "author": "the US National Whitewater Center",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:USNWC_River_Center.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Featured Photo of the USNWC.jpg",
+      "author": "the US National Whitewater Center",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Featured_Photo_of_the_USNWC.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:US National Whitewater Center.jpg",
+      "author": "Doug Letterman",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:US_National_Whitewater_Center.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Charlotte Whitewater 03.jpg",
+      "author": "HowardMorland",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Charlotte_Whitewater_03.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Charlotte_Whitewater_03.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:US National Whitewater Center (10 March 2007).jpg",
+      "author": "Dunnce",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:US_National_Whitewater_Center_(10_March_2007).jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:US_National_Whitewater_Center_(10_March_2007).jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/usnwc-lodge.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "U.S. National Whitewater Center, main building — procedural, CC0-1.0. bun generators/usnwc-lodge.ts",
+    "Map frame: x east, y north, z up, metres; placed at bearing 0. The origin is the area centroid of the OSM outline (way/223914934), and the footprint below is that outline's 44 vertices in metres from it.",
+    "The building sits on the east bank of the competition channel. Seen from the channel (Commons \"USNWC River Center\") it is three masses under one gesture:",
+    "the south block: a cream concrete ground floor (Guest Services) under two storeys of orange cedar-look cladding with tall punched windows;",
+    "the north wing: two storeys of the same cladding, lower, its upper floor broken into bays under shallow silver eaves, the restaurant terrace at its foot;",
+    "between them a board-formed concrete stair core and a glazed hall, under a long, thin, nearly flat canopy roof held over the plaza on tall slender steel columns.",
+    "Rework (2026-10), massing changes and their evidence:",
+    "Heights from USGS 3DEP lidar (2016, Mecklenburg County), above the lowest ground under the footprint (the west plaza; the east side is a bank about 4 m higher): north wing 11.8 m (was 11), the middle 12 m (was 14.5), the south block 12 m for 14 m south-west of the canopy and 10.3 m at its Guest Services end (was 13 throughout).",
+    "The canopy: lidar reads a strip 8 m wide and about 37 m long at a bearing of 121.7°, 14 m at its north-east edge and 13 m at its south-west edge, reaching out over the plaza at its north-west end; the NAIP aerial shows the same pale strip. The earlier canopy ran the other way (at 30°) over the whole south block and stood 15.4 to 19.4 m, which lidar rules out.",
+    "The concrete stair core moved from (-10.8, -4.2), where lidar reads a 12 m roof, to the bay jutting from the south block's plaza front at its north-west end, under the canopy, as the River Center photo shows it; it now stops just under the canopy (12.7 m, was 16.6).",
+    "Colour: the cladding is a more orange cedar, from the evening and daylight photos, pulled to palette lightness.",
+    "Photos: Commons \"USNWC River Center.jpg\" and \"Featured Photo of the USNWC.jpg\" (US National Whitewater Center, CC BY-SA 4.0), \"US National Whitewater Center.jpg\" (Doug Letterman, CC BY 2.0), \"Charlotte Whitewater 03.jpg\" (HowardMorland, public domain), \"US National Whitewater Center (10 March 2007).jpg\" (Dunnce, public domain).",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"usnwc-lodge\", model \"usnwc-lodge\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/usnwc-lodge.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

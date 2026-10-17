@@ -1,0 +1,355 @@
+{
+  "id": "duke-energy-center",
+  "name": "Duke Energy Center",
+  "anchor": [
+    -80.84873993,
+    35.22415675
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 13,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 133448,
+      "sha256": "6b247d9952e6d2256eee4db0fa057582eaa8eb13269c1464d809f1c75f5e2302"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 133448,
+      "sha256": "6b247d9952e6d2256eee4db0fa057582eaa8eb13269c1464d809f1c75f5e2302"
+    }
+  },
+  "triangles": 2494,
+  "boundsBlenderM": [
+    [
+      -56.398,
+      -58.118,
+      0
+    ],
+    [
+      53.964,
+      60.059,
+      240
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.8481451,
+          35.2239204
+        ],
+        [
+          -80.8481476,
+          35.2238939
+        ],
+        [
+          -80.8481501,
+          35.223868
+        ],
+        [
+          -80.8481633,
+          35.223859
+        ],
+        [
+          -80.8484827,
+          35.2236413
+        ],
+        [
+          -80.8484958,
+          35.2236324
+        ],
+        [
+          -80.8485478,
+          35.2236347
+        ],
+        [
+          -80.848559,
+          35.2236453
+        ],
+        [
+          -80.8486,
+          35.2236839
+        ],
+        [
+          -80.8488288,
+          35.2238995
+        ],
+        [
+          -80.8488401,
+          35.2239101
+        ],
+        [
+          -80.8488375,
+          35.2239707
+        ],
+        [
+          -80.8488575,
+          35.2239925
+        ],
+        [
+          -80.8488708,
+          35.2239848
+        ],
+        [
+          -80.8489067,
+          35.2240205
+        ],
+        [
+          -80.8489336,
+          35.2240018
+        ],
+        [
+          -80.8493602,
+          35.2244184
+        ],
+        [
+          -80.8489482,
+          35.2246995
+        ],
+        [
+          -80.8484421,
+          35.2241999
+        ],
+        [
+          -80.8484309,
+          35.2241894
+        ],
+        [
+          -80.8481563,
+          35.2239309
+        ],
+        [
+          -80.8481451,
+          35.2239204
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 1550692284,
+    "version": 4,
+    "timestamp": "2026-09-06T17:37:31Z",
+    "url": "https://www.openstreetmap.org/way/1550692284"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 1550692283,
+      "version": 4,
+      "timestamp": "2026-09-06T17:05:27Z",
+      "url": "https://www.openstreetmap.org/way/1550692283"
+    },
+    {
+      "type": "way",
+      "id": 1556432827,
+      "version": 2,
+      "timestamp": "2026-09-06T17:37:31Z",
+      "url": "https://www.openstreetmap.org/way/1556432827"
+    },
+    {
+      "type": "way",
+      "id": 1556432828,
+      "version": 2,
+      "timestamp": "2026-09-06T17:37:31Z",
+      "url": "https://www.openstreetmap.org/way/1556432828"
+    },
+    {
+      "type": "way",
+      "id": 1556432829,
+      "version": 2,
+      "timestamp": "2026-09-06T17:37:31Z",
+      "url": "https://www.openstreetmap.org/way/1556432829"
+    },
+    {
+      "type": "way",
+      "id": 1556432830,
+      "version": 2,
+      "timestamp": "2026-09-06T17:37:31Z",
+      "url": "https://www.openstreetmap.org/way/1556432830"
+    },
+    {
+      "type": "way",
+      "id": 1556432831,
+      "version": 3,
+      "timestamp": "2026-09-06T17:37:31Z",
+      "url": "https://www.openstreetmap.org/way/1556432831"
+    },
+    {
+      "type": "way",
+      "id": 1556432832,
+      "version": 3,
+      "timestamp": "2026-09-06T17:37:31Z",
+      "url": "https://www.openstreetmap.org/way/1556432832"
+    },
+    {
+      "type": "way",
+      "id": 1556432833,
+      "version": 3,
+      "timestamp": "2026-09-06T17:37:31Z",
+      "url": "https://www.openstreetmap.org/way/1556432833"
+    },
+    {
+      "type": "way",
+      "id": 1556432834,
+      "version": 3,
+      "timestamp": "2026-09-06T17:37:31Z",
+      "url": "https://www.openstreetmap.org/way/1556432834"
+    },
+    {
+      "type": "way",
+      "id": 1556432835,
+      "version": 3,
+      "timestamp": "2026-09-06T17:37:31Z",
+      "url": "https://www.openstreetmap.org/way/1556432835"
+    },
+    {
+      "type": "way",
+      "id": 1556432836,
+      "version": 3,
+      "timestamp": "2026-09-06T17:37:31Z",
+      "url": "https://www.openstreetmap.org/way/1556432836"
+    },
+    {
+      "type": "way",
+      "id": 1556432837,
+      "version": 3,
+      "timestamp": "2026-09-06T17:37:31Z",
+      "url": "https://www.openstreetmap.org/way/1556432837"
+    },
+    {
+      "type": "way",
+      "id": 1556432838,
+      "version": 3,
+      "timestamp": "2026-09-06T17:37:31Z",
+      "url": "https://www.openstreetmap.org/way/1556432838"
+    },
+    {
+      "type": "way",
+      "id": 1556432839,
+      "version": 3,
+      "timestamp": "2026-09-06T17:37:31Z",
+      "url": "https://www.openstreetmap.org/way/1556432839"
+    },
+    {
+      "type": "way",
+      "id": 1556432840,
+      "version": 3,
+      "timestamp": "2026-09-06T17:37:31Z",
+      "url": "https://www.openstreetmap.org/way/1556432840"
+    },
+    {
+      "type": "way",
+      "id": 1556432841,
+      "version": 3,
+      "timestamp": "2026-09-06T17:37:31Z",
+      "url": "https://www.openstreetmap.org/way/1556432841"
+    },
+    {
+      "type": "way",
+      "id": 1556432842,
+      "version": 4,
+      "timestamp": "2026-09-06T22:34:15Z",
+      "url": "https://www.openstreetmap.org/way/1556432842"
+    },
+    {
+      "type": "way",
+      "id": 1556432843,
+      "version": 2,
+      "timestamp": "2026-09-06T17:05:27Z",
+      "url": "https://www.openstreetmap.org/way/1556432843"
+    },
+    {
+      "type": "way",
+      "id": 1556432844,
+      "version": 2,
+      "timestamp": "2026-09-06T17:05:27Z",
+      "url": "https://www.openstreetmap.org/way/1556432844"
+    },
+    {
+      "type": "way",
+      "id": 1556432845,
+      "version": 3,
+      "timestamp": "2026-09-06T17:37:31Z",
+      "url": "https://www.openstreetmap.org/way/1556432845"
+    },
+    {
+      "type": "way",
+      "id": 1556616352,
+      "version": 1,
+      "timestamp": "2026-09-06T17:37:31Z",
+      "url": "https://www.openstreetmap.org/way/1556616352"
+    },
+    {
+      "type": "way",
+      "id": 1556616353,
+      "version": 1,
+      "timestamp": "2026-09-06T17:37:31Z",
+      "url": "https://www.openstreetmap.org/way/1556616353"
+    },
+    {
+      "type": "way",
+      "id": 1556616354,
+      "version": 1,
+      "timestamp": "2026-09-06T17:37:31Z",
+      "url": "https://www.openstreetmap.org/way/1556616354"
+    },
+    {
+      "type": "way",
+      "id": 1556616355,
+      "version": 1,
+      "timestamp": "2026-09-06T17:37:31Z",
+      "url": "https://www.openstreetmap.org/way/1556616355"
+    }
+  ],
+  "wikidata": "Q3041087",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/duke-energy-center.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Duke Energy Center (550 South Tryon, 2010, Thompson, Ventulett, Stainback & Associates), Charlotte — original procedural geometry, CC0-1.0. bun generators/duke-energy-center.ts [out.glb]",
+    "Anchor: the centroid of OSM way/1550692284 (-80.84874, 35.22416). Bearing 50.3°, the azimuth of the tower's faces in OSM, so model x and y run along the faces: -y faces south-west, +x south-east, +y north-east and -x north-west. Coordinates below are OSM vertices rotated into that frame.",
+    "Massing. The tower is a 48.6 m square (OSM) with chamfered corners. Its crown is a gable laid along the diagonal: the two corners on the ridge (true north and south) rise to 240 m and the other two drop, so every face ends in a single steep slope, and seen across a low corner the crown reads as a V. Inside the screen walls the roof climbs in steps from the low corners to a flat deck, leaving the top open, with a beam spanning the ridge. The 53 m podium sits on the north-west side, its south-west wall in line with the tower's.",
+    "Heights. y = 0 is the street at the south and west corners (lidar ground, ~1 m above the lowest return in the box).",
+    "ridge 240 m: published 786 ft (240 m); lidar 241-242 m above ground_min, so 240-241 above the street. Measured and published agree.",
+    "low corners: lidar, Mecklenburg 2016 (USGS 3DEP NC Phase 4). The west corner's coping is a flat 188 m above ground_min (187 m), the east corner's 176 m (175 m). The two are really unequal, by about 12 m; the OSM parts (min 180) average them. Each face's coping is a straight slope between those and the ridge, which lidar confirms cell by cell.",
+    "inner deck 218.5 m and beam top 239.5 m: lidar (deck reads 219-220 above ground_min, the beam line 241 along the whole ridge diagonal).",
+    "podium roof 53 m, parapet 54.4 m: lidar (53-56 above ground_min across the roof). OSM tags 60, which is too high.",
+    "What makes it recognisable, each drawn as plain geometry:",
+    "every face is light reflective glass inside a broad pale stone frame that runs up both edges and along the sloped top;",
+    "the corners are recessed slots, full height, between the two faces' frames (lit orange at night; mid grey-blue glass by day, not a dark stripe);",
+    "the two south faces carry stone sunshades that step out from the low (east and west) corners, so they make a staircase triangle that widens downwards (photos from Tryon St and from the south-west);",
+    "the V crown with its stepped inner roof and ridge beam;",
+    "the podium: a pale stone frame with a solid panelled top band on its south-west face, glass floors below, a colonnade at the street, and a planted roof garden on the half next to the tower (NAIP shows the garden, with mechanical plant on the north-west half; the night photo shows trees along the roof edge).",
+    "Facade. The curtain wall is ribbon glass with a pale spandrel every floor (Commons photo from Tryon St), which reads as horizontal banding with no strong verticals. Drawn per STYLE.md as light glass panels three floors (12.6 m) tall between thin pale spandrel bands (two floors shimmered at 80 px). The sunshades are broad stone ledges, one per two floors, thick enough that the shaded part of the face reads paler, as it does in photos. The lobby is two storeys of glass between stone piers under a stone lintel.",
+    "Estimated: floor height 4.2 m (54 floors), the lobby and podium band heights (read from photos), where the sunshades reach full width (66 m), the garden's outline (NAIP, corrected for lean by eye).",
+    "Photos: Duke_Energy_Center_Charlotte.jpg (City Dweller 2, CC BY-SA 4.0, Commons; the south-west face, sunshades, lobby and podium); Duke_Energy_Center_2020.jpg (Jt12081988, CC BY-SA 4.0, Commons; from the west, V crown, slot and podium); Duke_Energy_Center_and_The_Westin_Charlotte, _2010.jpg (Justin Cozart, CC BY-SA 2.0, Commons; from the south); Flickr 4356679366 and 3759375083, 4274251424 (James Willamor, CC BY-SA 2.0; crown and beam). USGS NAIP (public domain) for the podium roof. No commercial imagery or 3D tiles were used.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"duke-energy-center\", model \"duke-energy-center\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/duke-energy-center.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

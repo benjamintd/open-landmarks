@@ -1,0 +1,115 @@
+{
+  "id": "the-milestone-club",
+  "anchor": [
+    -80.8834408,
+    35.2446744
+  ],
+  "coordinateSystem": "Local metres about the anchor (equirectangular, WGS84 radius): X east, Y north, Z up. glTF export: X east, Y up, Z south. Heading already baked.",
+  "license": "ODbL-1.0",
+  "footprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -0.20001100533583904,
+          -7.28029469832426
+        ],
+        [
+          5.982147348925174,
+          4.185612853700268
+        ],
+        [
+          0.25455946204123164,
+          7.302558595952122
+        ],
+        [
+          -6.018512985436803,
+          -4.163348956072407
+        ],
+        [
+          -0.20001100533583904,
+          -7.28029469832426
+        ]
+      ]
+    ]
+  },
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.883443,
+          35.244609
+        ],
+        [
+          -80.883375,
+          35.244712
+        ],
+        [
+          -80.883438,
+          35.24474
+        ],
+        [
+          -80.883507,
+          35.244637
+        ],
+        [
+          -80.883443,
+          35.244609
+        ]
+      ]
+    ]
+  },
+  "parts": [
+    {
+      "osm": "way/867520324",
+      "tags": {
+        "building": "yes",
+        "name": "The Milestone Club",
+        "source": "microsoft/BuildingFootprints"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.20001100533583904,
+              -7.28029469832426
+            ],
+            [
+              5.982147348925174,
+              4.185612853700268
+            ],
+            [
+              0.25455946204123164,
+              7.302558595952122
+            ],
+            [
+              -6.018512985436803,
+              -4.163348956072407
+            ],
+            [
+              -0.20001100533583904,
+              -7.28029469832426
+            ]
+          ]
+        ]
+      },
+      "version": 2,
+      "timestamp": "2023-07-18T01:15:15Z"
+    }
+  ],
+  "osm": {
+    "type": "way",
+    "id": 867520324,
+    "version": 2,
+    "timestamp": "2023-07-18T01:15:15Z",
+    "url": "https://www.openstreetmap.org/way/867520324"
+  },
+  "additionalOsm": [],
+  "tags": {
+    "building": "yes",
+    "name": "The Milestone Club",
+    "source": "microsoft/BuildingFootprints"
+  }
+}

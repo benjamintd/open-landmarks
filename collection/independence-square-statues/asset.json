@@ -1,0 +1,169 @@
+{
+  "id": "independence-square-statues",
+  "name": "Independence Square statues",
+  "anchor": [
+    -80.8430897,
+    35.2272068
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 108032,
+      "sha256": "6d711b3978b31b6377fee7cde4c6c593f4e3d2dfdc155dff9e7c56891416371b"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 108032,
+      "sha256": "6d711b3978b31b6377fee7cde4c6c593f4e3d2dfdc155dff9e7c56891416371b"
+    }
+  },
+  "triangles": 4438,
+  "boundsBlenderM": [
+    [
+      -14.64,
+      -16.65,
+      0
+    ],
+    [
+      16.243,
+      14.551,
+      8.059
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.8432507,
+          35.2272035
+        ],
+        [
+          -80.8431038,
+          35.2270582
+        ],
+        [
+          -80.8431035,
+          35.2270582
+        ],
+        [
+          -80.8430926,
+          35.2270573
+        ],
+        [
+          -80.8430924,
+          35.2270572
+        ],
+        [
+          -80.8430914,
+          35.2270579
+        ],
+        [
+          -80.842913,
+          35.2271795
+        ],
+        [
+          -80.8429121,
+          35.2271801
+        ],
+        [
+          -80.8429121,
+          35.2271803
+        ],
+        [
+          -80.8429111,
+          35.2271894
+        ],
+        [
+          -80.8430561,
+          35.2273357
+        ],
+        [
+          -80.8430569,
+          35.2273365
+        ],
+        [
+          -80.8430571,
+          35.2273366
+        ],
+        [
+          -80.8430683,
+          35.2273375
+        ],
+        [
+          -80.8430693,
+          35.2273369
+        ],
+        [
+          -80.8432488,
+          35.2272134
+        ],
+        [
+          -80.8432498,
+          35.2272128
+        ],
+        [
+          -80.8432498,
+          35.2272126
+        ],
+        [
+          -80.8432507,
+          35.2272037
+        ],
+        [
+          -80.8432507,
+          35.2272035
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "node",
+    "id": 8415199022,
+    "version": 1,
+    "timestamp": "2021-02-11T14:14:39Z",
+    "url": "https://www.openstreetmap.org/node/8415199022"
+  },
+  "additionalOsm": [],
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/independence-square-statues.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "The four Kaskey statues of Independence Square, Charlotte — procedural, CC0-1.0.",
+    "Map frame: x east, y north, z up, metres. The origin is the centre of the Trade and Tryon crossing (OSM node 172358289); the model is placed at bearing 48°, so its +y runs up North Tryon Street and its ±x along Trade.",
+    "Raymond Kaskey's four bronzes (1995) stand one on each corner, all facing into the crossing. Each is a figure of about 2.7× life cut off at the thighs, set on top of a tall square shaft of pinkish granite like a ship's figurehead, with a bronze pendant (a relief portrait or emblem tapering to a point) hanging down the shaft's front face below it. The shaft stands on a wider granite base.",
+    "Evidence",
+    "Positions and heights: lidar (USGS 3DEP NC Phase 4, Mecklenburg 2016, 0.5 m). Each statue shows as a 1.5 m blob standing 7.4 m above the paving (The Future 7.9 m, the child held up). Blob centres, metres east/north of the junction node, against the OSM artwork nodes: Commerce ( 2.4, 13.9) node/8415199021 at ( 1.9, 14.4) The Future (15.6, -2.4) node/8415199020 at (15.3, -1.6) Industry (-0.7, -16.0) node/8415199022 at ( 0.1, -13.2) Transportation (-14.0, 0.1) node/7986487900 at (-14.6, 0.7) The model uses the lidar centres; Industry's OSM node is 2.8 m short.",
+    "Proportions, from the full-height photos (Stabbur's Master, Flickr, CC BY-SA 2.0, \"Charlotte's Sculptures on the Square\", four of them, one per statue, people for scale), scaled to the lidar height: base 1.2 m square and 1.15 m tall with a sloped collar; shaft 0.86 m square, its top (where the bronze begins) 4.85 m up; pendant tips 2.7–3.3 m up; head about 0.62 m tall, shoulders about 1.1 m across.",
+    "Poses, from close-ups (nan palmero, Flickr, CC BY 2.0, one per statue): Commerce, the gold miner in a broad-brimmed hat, holding his pan in front of him with both hands, coins spilling from it, a portrait of a man in spectacles on the pendant; Industry, the mill worker, her left hand shading her eyes, elbow high, her right fist on her hip, in a belted smock and skirt, a man in a cap on the pendant; Transportation, the railroad worker in a vest, a sledgehammer gripped upright before his chest, kneeling forward over a winged wheel; The Future, a woman with long hair, bare to the waist, holding a child high over her head at full stretch, a woman's face with flowing hair on the pendant.",
+    "Colours from the photos: the granite is a pink-brown grey, pulled up to the palette's stone lightness; the bronze is a dark brown, lifted to a warm mid brown so the figures read as bronze at map lighting rather than as black, with a darker bronze for hats, hair, the pendants and props.",
+    "Estimated: depth of the figures, exact limb angles, the pendants' relief.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"independence-square-statues\", model \"independence-square-statues\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/independence-square-statues.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

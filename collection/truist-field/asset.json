@@ -1,0 +1,556 @@
+{
+  "id": "truist-field",
+  "name": "Truist Field",
+  "anchor": [
+    -80.8487044,
+    35.2283032
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 184888,
+      "sha256": "efa89356735d08fa17039c377e20c8b64416f82c2de39b16ac9838115ed92178"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 184888,
+      "sha256": "efa89356735d08fa17039c377e20c8b64416f82c2de39b16ac9838115ed92178"
+    }
+  },
+  "triangles": 3719,
+  "boundsBlenderM": [
+    [
+      -104.628,
+      -103.002,
+      0
+    ],
+    [
+      91.508,
+      99.399,
+      39.667
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.8498545,
+          35.2282185
+        ],
+        [
+          -80.8498256,
+          35.2282387
+        ],
+        [
+          -80.8498326,
+          35.228251
+        ],
+        [
+          -80.8498353,
+          35.2282557
+        ],
+        [
+          -80.8498362,
+          35.2282617
+        ],
+        [
+          -80.849838,
+          35.2282737
+        ],
+        [
+          -80.8498345,
+          35.2282881
+        ],
+        [
+          -80.8498331,
+          35.2282936
+        ],
+        [
+          -80.8498297,
+          35.2282982
+        ],
+        [
+          -80.8498198,
+          35.2283114
+        ],
+        [
+          -80.849841,
+          35.2283346
+        ],
+        [
+          -80.8496922,
+          35.2284382
+        ],
+        [
+          -80.8496525,
+          35.2283985
+        ],
+        [
+          -80.8495926,
+          35.2284396
+        ],
+        [
+          -80.8495878,
+          35.2284709
+        ],
+        [
+          -80.8496105,
+          35.2284949
+        ],
+        [
+          -80.8495449,
+          35.2285404
+        ],
+        [
+          -80.8495176,
+          35.2285318
+        ],
+        [
+          -80.8494176,
+          35.2286322
+        ],
+        [
+          -80.8490718,
+          35.228917
+        ],
+        [
+          -80.8490906,
+          35.2289317
+        ],
+        [
+          -80.8490042,
+          35.2290052
+        ],
+        [
+          -80.8489496,
+          35.2289624
+        ],
+        [
+          -80.8490013,
+          35.2289184
+        ],
+        [
+          -80.8489604,
+          35.2288863
+        ],
+        [
+          -80.8488002,
+          35.2290241
+        ],
+        [
+          -80.8484521,
+          35.2291758
+        ],
+        [
+          -80.8484263,
+          35.2291661
+        ],
+        [
+          -80.8484068,
+          35.2292021
+        ],
+        [
+          -80.8483208,
+          35.229171
+        ],
+        [
+          -80.8483412,
+          35.2291335
+        ],
+        [
+          -80.848287,
+          35.2290833
+        ],
+        [
+          -80.8482185,
+          35.2291371
+        ],
+        [
+          -80.848064,
+          35.2290058
+        ],
+        [
+          -80.8481109,
+          35.2289683
+        ],
+        [
+          -80.8477496,
+          35.2286612
+        ],
+        [
+          -80.847776,
+          35.2286382
+        ],
+        [
+          -80.8477602,
+          35.2286029
+        ],
+        [
+          -80.847712,
+          35.2284889
+        ],
+        [
+          -80.8477219,
+          35.2283838
+        ],
+        [
+          -80.8477248,
+          35.2283544
+        ],
+        [
+          -80.8476985,
+          35.2283515
+        ],
+        [
+          -80.847711,
+          35.2282165
+        ],
+        [
+          -80.8477809,
+          35.2281645
+        ],
+        [
+          -80.8477515,
+          35.2281346
+        ],
+        [
+          -80.8480282,
+          35.2279408
+        ],
+        [
+          -80.8480152,
+          35.2279283
+        ],
+        [
+          -80.8480035,
+          35.2279172
+        ],
+        [
+          -80.8482581,
+          35.2277405
+        ],
+        [
+          -80.8483783,
+          35.2276572
+        ],
+        [
+          -80.8486608,
+          35.2274614
+        ],
+        [
+          -80.8488844,
+          35.2275514
+        ],
+        [
+          -80.8489163,
+          35.227497
+        ],
+        [
+          -80.8489897,
+          35.2273716
+        ],
+        [
+          -80.8498545,
+          35.2282185
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "relation",
+    "id": 3417038,
+    "version": 11,
+    "timestamp": "2026-08-31T18:15:47Z",
+    "url": "https://www.openstreetmap.org/relation/3417038"
+  },
+  "additionalOsm": [
+    {
+      "type": "relation",
+      "id": 21303960,
+      "version": 1,
+      "timestamp": "2026-08-31T18:15:47Z",
+      "url": "https://www.openstreetmap.org/relation/21303960"
+    },
+    {
+      "type": "way",
+      "id": 1553955034,
+      "version": 1,
+      "timestamp": "2026-08-31T18:15:47Z",
+      "url": "https://www.openstreetmap.org/way/1553955034"
+    },
+    {
+      "type": "way",
+      "id": 1553955035,
+      "version": 1,
+      "timestamp": "2026-08-31T18:15:47Z",
+      "url": "https://www.openstreetmap.org/way/1553955035"
+    },
+    {
+      "type": "way",
+      "id": 1553955036,
+      "version": 1,
+      "timestamp": "2026-08-31T18:15:47Z",
+      "url": "https://www.openstreetmap.org/way/1553955036"
+    },
+    {
+      "type": "way",
+      "id": 1553955037,
+      "version": 1,
+      "timestamp": "2026-08-31T18:15:47Z",
+      "url": "https://www.openstreetmap.org/way/1553955037"
+    },
+    {
+      "type": "way",
+      "id": 1553955038,
+      "version": 1,
+      "timestamp": "2026-08-31T18:15:47Z",
+      "url": "https://www.openstreetmap.org/way/1553955038"
+    },
+    {
+      "type": "way",
+      "id": 1553955039,
+      "version": 1,
+      "timestamp": "2026-08-31T18:15:47Z",
+      "url": "https://www.openstreetmap.org/way/1553955039"
+    },
+    {
+      "type": "way",
+      "id": 1553955040,
+      "version": 1,
+      "timestamp": "2026-08-31T18:15:47Z",
+      "url": "https://www.openstreetmap.org/way/1553955040"
+    },
+    {
+      "type": "way",
+      "id": 1553955041,
+      "version": 1,
+      "timestamp": "2026-08-31T18:15:47Z",
+      "url": "https://www.openstreetmap.org/way/1553955041"
+    },
+    {
+      "type": "way",
+      "id": 1553955042,
+      "version": 1,
+      "timestamp": "2026-08-31T18:15:47Z",
+      "url": "https://www.openstreetmap.org/way/1553955042"
+    },
+    {
+      "type": "way",
+      "id": 1553955043,
+      "version": 2,
+      "timestamp": "2026-08-31T18:23:06Z",
+      "url": "https://www.openstreetmap.org/way/1553955043"
+    },
+    {
+      "type": "way",
+      "id": 1553955044,
+      "version": 1,
+      "timestamp": "2026-08-31T18:15:47Z",
+      "url": "https://www.openstreetmap.org/way/1553955044"
+    },
+    {
+      "type": "way",
+      "id": 1553955045,
+      "version": 1,
+      "timestamp": "2026-08-31T18:15:47Z",
+      "url": "https://www.openstreetmap.org/way/1553955045"
+    },
+    {
+      "type": "way",
+      "id": 1553955047,
+      "version": 1,
+      "timestamp": "2026-08-31T18:15:47Z",
+      "url": "https://www.openstreetmap.org/way/1553955047"
+    },
+    {
+      "type": "way",
+      "id": 1553955048,
+      "version": 1,
+      "timestamp": "2026-08-31T18:15:47Z",
+      "url": "https://www.openstreetmap.org/way/1553955048"
+    },
+    {
+      "type": "way",
+      "id": 1553955049,
+      "version": 2,
+      "timestamp": "2026-08-31T18:20:06Z",
+      "url": "https://www.openstreetmap.org/way/1553955049"
+    },
+    {
+      "type": "way",
+      "id": 1553955050,
+      "version": 2,
+      "timestamp": "2026-08-31T18:20:06Z",
+      "url": "https://www.openstreetmap.org/way/1553955050"
+    },
+    {
+      "type": "way",
+      "id": 1553955051,
+      "version": 2,
+      "timestamp": "2026-08-31T18:20:06Z",
+      "url": "https://www.openstreetmap.org/way/1553955051"
+    },
+    {
+      "type": "way",
+      "id": 1553955052,
+      "version": 1,
+      "timestamp": "2026-08-31T18:15:47Z",
+      "url": "https://www.openstreetmap.org/way/1553955052"
+    },
+    {
+      "type": "way",
+      "id": 1553955053,
+      "version": 1,
+      "timestamp": "2026-08-31T18:15:47Z",
+      "url": "https://www.openstreetmap.org/way/1553955053"
+    },
+    {
+      "type": "way",
+      "id": 1553955054,
+      "version": 1,
+      "timestamp": "2026-08-31T18:15:47Z",
+      "url": "https://www.openstreetmap.org/way/1553955054"
+    },
+    {
+      "type": "way",
+      "id": 1553955055,
+      "version": 1,
+      "timestamp": "2026-08-31T18:15:47Z",
+      "url": "https://www.openstreetmap.org/way/1553955055"
+    },
+    {
+      "type": "way",
+      "id": 1553955056,
+      "version": 1,
+      "timestamp": "2026-08-31T18:15:47Z",
+      "url": "https://www.openstreetmap.org/way/1553955056"
+    },
+    {
+      "type": "way",
+      "id": 1553955057,
+      "version": 1,
+      "timestamp": "2026-08-31T18:15:47Z",
+      "url": "https://www.openstreetmap.org/way/1553955057"
+    },
+    {
+      "type": "way",
+      "id": 1553955058,
+      "version": 1,
+      "timestamp": "2026-08-31T18:15:47Z",
+      "url": "https://www.openstreetmap.org/way/1553955058"
+    },
+    {
+      "type": "way",
+      "id": 1553955059,
+      "version": 1,
+      "timestamp": "2026-08-31T18:15:47Z",
+      "url": "https://www.openstreetmap.org/way/1553955059"
+    },
+    {
+      "type": "way",
+      "id": 1553955060,
+      "version": 1,
+      "timestamp": "2026-08-31T18:15:47Z",
+      "url": "https://www.openstreetmap.org/way/1553955060"
+    },
+    {
+      "type": "way",
+      "id": 1553955061,
+      "version": 1,
+      "timestamp": "2026-08-31T18:15:47Z",
+      "url": "https://www.openstreetmap.org/way/1553955061"
+    },
+    {
+      "type": "way",
+      "id": 1553955062,
+      "version": 1,
+      "timestamp": "2026-08-31T18:15:47Z",
+      "url": "https://www.openstreetmap.org/way/1553955062"
+    },
+    {
+      "type": "way",
+      "id": 1553955063,
+      "version": 1,
+      "timestamp": "2026-08-31T18:15:47Z",
+      "url": "https://www.openstreetmap.org/way/1553955063"
+    },
+    {
+      "type": "way",
+      "id": 1553955064,
+      "version": 1,
+      "timestamp": "2026-08-31T18:15:47Z",
+      "url": "https://www.openstreetmap.org/way/1553955064"
+    },
+    {
+      "type": "way",
+      "id": 1553955065,
+      "version": 1,
+      "timestamp": "2026-08-31T18:15:47Z",
+      "url": "https://www.openstreetmap.org/way/1553955065"
+    },
+    {
+      "type": "way",
+      "id": 1553955066,
+      "version": 1,
+      "timestamp": "2026-08-31T18:15:47Z",
+      "url": "https://www.openstreetmap.org/way/1553955066"
+    },
+    {
+      "type": "way",
+      "id": 1553955067,
+      "version": 1,
+      "timestamp": "2026-08-31T18:15:47Z",
+      "url": "https://www.openstreetmap.org/way/1553955067"
+    }
+  ],
+  "wikidata": "Q4834718",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/truist-field.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Truist Field (Charlotte Knights, AAA) — procedural, CC0-1.0, no textures. bun generators/truist-field.ts",
+    "Map frame: x across the park (first-base side +x), y from home plate toward centre field, z up, metres. Placed at bearing 83.2°, the line from home plate to second base in OSM (nodes 9602382279 → 9602382281), so the outfield and the Uptown skyline beyond it lie along +y. The anchor is the centroid of the stadium outline (relation/3417038, outer way/255166737). z = 0 is the lowest ground under the outline, the field's level; Mint Street (behind home plate) stands about 3 m higher, Graham Street (third base) about 5 m, the right-field side 4–5 m and the outfield plaza 5–6 m (lidar ground returns), so every part's height is its OSM height above its own street, and its facade detail starts there.",
+    "The park is mapped in detail as building:parts and the model is built from them (the table OSM below): each part's polygon is extruded to its height. What makes it read as itself, from the photos:",
+    "one low bowl of dark green seats wrapping the infield from the third-base corner round to right field (way/1553955043), raked 1.8 → 4.5 m (lidar), with low bleachers behind the outfield wall;",
+    "behind it the grandstand (way/1553955036): a dark open concourse at the top of the seats, the glazed club and suite level above, and a thin white roof reaching out over the back rows at 15–16 m;",
+    "the red brick and tan precast street fronts on Mint and Graham Streets, brick piers with tan caps, shop windows at street level;",
+    "the main gate's flat canopy on its brick piers, the plaza ring over the home-plate entrance, the right-field club and its pyramid-roofed pavilion;",
+    "six tall light standards and the left-centre video board, with the outfield left low so the skyline shows over centre field. The field is the map's (STYLE.md, \"Don't model the ground\").",
+    "Evidence",
+    "OSM: outline relation/3417038 and every building:part (heights).",
+    "Measured, lidar (USGS 3DEP NC Phase 4 Mecklenburg 2016, 1 m, the park opened 2014), in this frame: field 1 m; seats 1–4.5 m; grandstand roof 15–16 m all round from third base to right field; Mint Street block 11–12 m; right-field club 14 m; video board top 17 m; the six light standards' lamp banks, positions and tops (34–40 m, the table LIGHTS).",
+    "Measured, USGS NAIP: plan of the stands, seats, roofs (white over the grandstand) and the video board.",
+    "Published: opened April 2014; capacity 10,200; HOK (now Populous) with Odell (Wikipedia).",
+    "Photos (Wikimedia Commons): Jeffrey Hayes, \"Truist Field - Charlotte Knights\" (CC BY 2.0, the stands and skyline from third base); HangingCurve, \"BB&T Ballpark\", \"BB&T Ballpark right field\", \"BB&T Ballpark scoreboard\" and \"BB&T Ballpark Skyline\" (CC BY-SA 3.0); James Willamor, \"BB&T Ballpark 2\" (CC BY-SA 2.0, the main gate); Dmadeo, \"BB&T Stadium, Charlotte, NC\" (CC BY-SA 3.0, the Mint Street front); Sds1970, \"BB&T Ballpark (Center Field View)\" (CC BY-SA 3.0, the grandstand); City Dweller 2, \"Truist Field Knights Stadium\" (CC BY-SA 4.0, the gate).",
+    "Estimated: the facade bands (photos), the canopy's overhang (3.5 m, NAIP), the bowl's rake between the lidar's front and back rows, the outfield bleachers' height, the lamp banks' size (6 × 4.8 m, photos).",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"truist-field\", model \"truist-field\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/truist-field.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 3025 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the truist-field-glazing finish in the window colour."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

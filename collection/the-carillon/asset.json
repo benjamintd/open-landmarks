@@ -1,0 +1,121 @@
+{
+  "id": "the-carillon",
+  "name": "The Carillon",
+  "anchor": [
+    -80.8453018,
+    35.2285233
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 13,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 62728,
+      "sha256": "ea36addd4b72450d596685705941d2ee35efb22ef91f199b82ed1a97d96758b0"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 62728,
+      "sha256": "ea36addd4b72450d596685705941d2ee35efb22ef91f199b82ed1a97d96758b0"
+    }
+  },
+  "triangles": 1252,
+  "boundsBlenderM": [
+    [
+      -32.062,
+      -32.437,
+      0
+    ],
+    [
+      27.942,
+      32.92,
+      121.5
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.8453708,
+          35.2282311
+        ],
+        [
+          -80.8456546,
+          35.2285014
+        ],
+        [
+          -80.8451998,
+          35.2288201
+        ],
+        [
+          -80.845006,
+          35.2286355
+        ],
+        [
+          -80.8450843,
+          35.2285806
+        ],
+        [
+          -80.8449943,
+          35.2284949
+        ],
+        [
+          -80.8453708,
+          35.2282311
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 90480703,
+    "version": 8,
+    "timestamp": "2025-11-25T20:08:13Z",
+    "url": "https://www.openstreetmap.org/way/90480703"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q5039570",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/carillon-charlotte.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "The Carillon, Charlotte (1991, Murphy/Jahn with LS3P) — original procedural geometry, CC0-1.0. bun generators/carillon-charlotte.ts",
+    "Map frame turned to the building: x runs south-east along West Trade Street's cross streets, y north-east towards Trade, z up, metres. Anchor 35.2285233,-80.8453018 (the centroid of OSM way/90480703); bearing 49.5°, elevation 0.",
+    "Plan: OSM's outline, an L 39.5 × 54.3 m with the plaza corner cut out on Trade. Above an 18 m podium, a central gabled spine (x −7…8) runs the full depth between two flat-topped wings.",
+    "Heights (lidar, Mecklenburg 2016, USGS 3DEP NC Phase 4, 1 m; y = 0 is the street, ~3.5 m above the box's lowest return; the lidar grid sits ~1.5 m east and ~1.2 m north of OSM's outline and is shifted onto it):",
+    "wings: flat roofs at 94 m; a one-floor-lower band (90.5 m) across both wing ends. The north-west wing runs on towards Trade and steps down there, to 87.5 m and then 82.5 m.",
+    "spine: eaves 100.5 m, ridge 109.5 m (a ~50° gable along y).",
+    "two needle spires on the ridge, both reaching 121.5 m: one on the Trade gable's apex, one ~10 m behind it on a stone rib across the roof. Published: 394 ft (120 m), 24 floors. OSM's height=130 is too high.",
+    "a shallow curved glass bay on both gable ends, from the podium to ~90 m, topped by curved stone balconies (lidar shows both).",
+    "What makes it recognisable, each drawn as plain geometry: the steep standing-seam gable roof between flat wings; the stone-framed gable ends, whose frames rise 2.5 m above the ridge to a steeper point, each holding a tall pointed (lancet) window of darker glass in a pale frame; the two slim spires; the full-height curved glass bay on Trade.",
+    "Colours. The granite is a warm tan-pink. The roof is pale green-grey patinated metal in every daylight photo (it only looks copper-red at sunset), so it is a pale patina finish, not red-brown. Punched windows are blue-grey reflective glass, a step lighter than slate; the bay and lancets read lighter still. Windows are one panel per 6 m bay and three floors (two floors still shimmered at 80 px).",
+    "Estimated: the bay's projection and width (lidar, coarse), the lancet's proportions and the spire piers (photos), floor height 3.9 m.",
+    "Photos: Carillon_Tower_Charlotte.jpg (City Dweller 2, CC BY-SA 4.0, Commons; the Trade bay); Carillon_Tower_cropped.jpg (James Willamor, CC BY-SA 2.0, Commons); Carillon_Tower_and_TradeMark.jpg (Andrew Simpson, CC BY 2.0, Commons); Flickr 2946927349 and 2946926759 (James Willamor, CC BY-SA 2.0; the crown, roof colour and spires in daylight). No commercial imagery or 3D tiles were used.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"carillon-charlotte\", model \"carillon-charlotte\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/carillon-charlotte.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

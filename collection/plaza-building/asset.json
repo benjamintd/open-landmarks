@@ -1,0 +1,183 @@
+{
+  "id": "plaza-building",
+  "name": "Plaza Building",
+  "anchor": [
+    -80.8610028,
+    35.2110362
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 29220,
+      "sha256": "e80e6ddace0703df018d09126d5157f533aba414f06041fbafd5f4ffa6f6dfbc"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 29220,
+      "sha256": "e80e6ddace0703df018d09126d5157f533aba414f06041fbafd5f4ffa6f6dfbc"
+    }
+  },
+  "triangles": 494,
+  "boundsBlenderM": [
+    [
+      -56.224,
+      -43.023,
+      0
+    ],
+    [
+      52.974,
+      53.273,
+      12.7
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.8610933,
+          35.211518
+        ],
+        [
+          -80.8604495,
+          35.2112119
+        ],
+        [
+          -80.860594,
+          35.2110157
+        ],
+        [
+          -80.8606152,
+          35.2109874
+        ],
+        [
+          -80.8604465,
+          35.2109079
+        ],
+        [
+          -80.8604701,
+          35.2108772
+        ],
+        [
+          -80.8605535,
+          35.2107693
+        ],
+        [
+          -80.8606474,
+          35.2106475
+        ],
+        [
+          -80.8608096,
+          35.2106655
+        ],
+        [
+          -80.8607631,
+          35.2107258
+        ],
+        [
+          -80.8609567,
+          35.210809
+        ],
+        [
+          -80.8609759,
+          35.2107844
+        ],
+        [
+          -80.8610474,
+          35.2106911
+        ],
+        [
+          -80.8611559,
+          35.2107373
+        ],
+        [
+          -80.8611849,
+          35.2106997
+        ],
+        [
+          -80.8612641,
+          35.2107371
+        ],
+        [
+          -80.8612745,
+          35.2107184
+        ],
+        [
+          -80.8615703,
+          35.2107498
+        ],
+        [
+          -80.8616079,
+          35.2107647
+        ],
+        [
+          -80.8616212,
+          35.2107871
+        ],
+        [
+          -80.8616183,
+          35.2108205
+        ],
+        [
+          -80.8612864,
+          35.211278
+        ],
+        [
+          -80.8612684,
+          35.2112695
+        ],
+        [
+          -80.8610933,
+          35.211518
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 432929160,
+    "version": 7,
+    "timestamp": "2023-08-17T15:59:06Z",
+    "url": "https://www.openstreetmap.org/way/432929160"
+  },
+  "additionalOsm": [],
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/clt-plaza-building.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Plaza Building, Design Center of the Carolinas, 1930 Camden Rd, South End, Charlotte — procedural, CC0-1.0. bun generators/clt-plaza-building.ts",
+    "One of the mill-era brick buildings of the Design Center campus, across the courtyard from the Nebel Knitting Mill (clt-design-center): a broad block of red-orange brick, two storeys at its low (Doggett / Hawkins St) end, flat roofs in several sections behind plain parapets, with low gabled parapets trimmed in white on the courtyard and Camden Rd faces. Its Camden wing holds Hawkers and Shake Shack, with Hawkers' dark steel canopy over a raised deck on the courtyard; the courtyard face is \"The Parachute\" (1930). The ground rises ~6 m from the north-west corner to Tremont Ave, so the south end shows only one storey above the street.",
+    "Evidence: - OSM: way/432929160 (\"Plaza Building\", commercial, 2 levels). No parts. - Lidar, USGS 3DEP NC Phase 4 Mecklenburg 2016, 0.5 m (ground_min under the footprint 219.9 m NAVD88 = y 0, at the north-west corner). Roofs above base: the north section 10.0 m, the middle 10.4 m, the south-west 9.2 m, the south-east 10.3 m; the courtyard gable 11.8 m, the corner gable over Hawkers 12.3 m. Ground: -0.4 m at the NW corner, 4.6 m on Camden Rd, 6.4 m at the south corner. - USGS NAIP (public domain): the roof sections and firewalls, dark grey. - Photos (Wikimedia Commons, City Dweller 2, CC BY-SA 4.0, April 2024): https://commons.wikimedia.org/wiki/File:Hawkers_at_the_Design_Center_Mid-April_2024.jpg (the Camden wing from the courtyard: gables, canopy, brick) https://commons.wikimedia.org/wiki/File:Parachute_and_Hawkers_at_the_Design_Center_Mid-April_2024.jpg (the courtyard face, its low gable and white band) https://commons.wikimedia.org/wiki/File:Design_Center_at_Camden_and_Tremont_Mid-April_2024.jpg (Camden Rd face looking south: gables, Shake Shack) https://commons.wikimedia.org/wiki/File:Design_Center_1930_Camden_Rd_Building_Hawkings_St_entrance_Mid-April_2024.jpg (Hawkins St side: brick colour, a gable end) https://commons.wikimedia.org/wiki/File:Design_Center_Alley_Mid-April_2024.jpg (the alley side: tall plain brick wall)",
+    "Window treatment matches clt-design-center (the Nebel mill): two rows of wide steel windows, 3.4 m on a 4.0 m bay. Estimated: the gable spans and peaks on the Camden face, the canopy (4 m over the courtyard, 6 m deep), the white band at the gables' feet.",
+    "Doubts: the window bays are the Nebel treatment applied to every face; photos show the Camden and courtyard faces, not the Tremont end or the Hawkins St face in full. The brick here is redder and lighter than Nebel's dark brick in every photo, so it gets its own finish.",
+    "Model frame: bearing 30, as clt-design-center (model +y faces 30°, toward Worthington Ave; +x is the Camden Road side); metres above the base.",
+    "Exports the campus helpers used by clt-atrium-building.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"clt-plaza-building\", model \"clt-plaza-building\"), generated by https://github.com/alexwohlbruck/landmarks/blob/a1974bbf738c6994edbe99a7a61818b9d69da9e0/generators/clt-plaza-building.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

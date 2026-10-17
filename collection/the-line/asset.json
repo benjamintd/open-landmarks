@@ -1,0 +1,188 @@
+{
+  "id": "the-line",
+  "name": "The Line",
+  "anchor": [
+    -80.8620071,
+    35.2090565
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 50040,
+      "sha256": "0be906a69f0a07250502a9c65211423b644d74745ffb5d3ffd202162d68b332c"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 50040,
+      "sha256": "0be906a69f0a07250502a9c65211423b644d74745ffb5d3ffd202162d68b332c"
+    }
+  },
+  "triangles": 871,
+  "boundsBlenderM": [
+    [
+      -46.389,
+      -60.061,
+      0
+    ],
+    [
+      53.659,
+      43.64,
+      69
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.8614175,
+          35.2093603
+        ],
+        [
+          -80.8615798,
+          35.2094493
+        ],
+        [
+          -80.8620773,
+          35.2094366
+        ],
+        [
+          -80.8620898,
+          35.2094439
+        ],
+        [
+          -80.8621008,
+          35.2094504
+        ],
+        [
+          -80.8621225,
+          35.2094238
+        ],
+        [
+          -80.8625159,
+          35.2089397
+        ],
+        [
+          -80.862496,
+          35.2089292
+        ],
+        [
+          -80.8624014,
+          35.2087858
+        ],
+        [
+          -80.8623869,
+          35.2087621
+        ],
+        [
+          -80.8622748,
+          35.2086062
+        ],
+        [
+          -80.8620997,
+          35.208513
+        ],
+        [
+          -80.8620413,
+          35.2085855
+        ],
+        [
+          -80.8619334,
+          35.2087228
+        ],
+        [
+          -80.8614175,
+          35.2093603
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 1059972611,
+    "version": 5,
+    "timestamp": "2024-06-13T16:13:09Z",
+    "url": "https://www.openstreetmap.org/way/1059972611"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 1203857912,
+      "version": 3,
+      "timestamp": "2024-06-13T16:13:09Z",
+      "url": "https://www.openstreetmap.org/way/1203857912"
+    },
+    {
+      "type": "way",
+      "id": 1203857913,
+      "version": 4,
+      "timestamp": "2024-06-13T16:13:09Z",
+      "url": "https://www.openstreetmap.org/way/1203857913"
+    },
+    {
+      "type": "way",
+      "id": 1203857916,
+      "version": 3,
+      "timestamp": "2023-12-24T10:42:30Z",
+      "url": "https://www.openstreetmap.org/way/1203857916"
+    },
+    {
+      "type": "way",
+      "id": 1203857917,
+      "version": 1,
+      "timestamp": "2023-08-31T05:46:58Z",
+      "url": "https://www.openstreetmap.org/way/1203857917"
+    },
+    {
+      "type": "way",
+      "id": 1203857918,
+      "version": 1,
+      "timestamp": "2023-08-31T05:46:58Z",
+      "url": "https://www.openstreetmap.org/way/1203857918"
+    },
+    {
+      "type": "way",
+      "id": 1203857919,
+      "version": 1,
+      "timestamp": "2023-08-31T05:46:58Z",
+      "url": "https://www.openstreetmap.org/way/1203857919"
+    }
+  ],
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/clt-the-line.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "The Line, 2151 Hawkins Street, South End, Charlotte — procedural, CC0-1.0. bun generators/clt-the-line.ts",
+    "A 16-storey office building on the Rail Trail (Portman Holdings, opened 2023): an eight-floor glass office block standing on columns over a parking podium. Read from the photos, bottom to top: an open ground floor behind columns; a band of dark bronze perforated screen; three parking levels behind bronze fins and slab edges; a recessed glass amenity floor with pale round columns under the block's overhang; then the office block, glazed in sky-reflecting glass with dark bronze bands that pair the floors (a thick band every two floors, a thin one between). Two notches break the west face: a recessed two-floor terrace at the top south corner and a double-height glazed room at the bottom north corner. A narrower wing steps out to the north.",
+    "Evidence: - OSM way/1059972611 (outline; 16 levels, height 65) and its parts: way/1203857912 (0–8 m), 1203857913 (8–19 m, the garage), 1203857916 (19–26 m), 1203857917 (26–66 m, the office block), 1203857918 and 1203857919 (66–69 m, rooftop penthouses, pale). building:colour #292b2e (dark), roof:colour #f7f4eb (white membrane). - Lidar (2016) predates the building; it gives only the ground, flat to within 1 m across the site. Heights are OSM's. - NAIP (USGS, public domain): white roofs, the penthouse, and a lawn on the 26 m deck east of the office block. - Photos (Commons, City Dweller 2, CC BY-SA 4.0): \"The Line Late August 2023\", \"… Late November 2023\", \"… Late January 2024\", \"… Mid-January 2024\", \"… Early February 2024\", \"… Mid-May 2024\" (the west face, from the lot to the north-west); \"The Line complex Late July 2024\"; \"The Line along South End Rail Trail Mid-April 2024\" (the east arcade); \"Hawkins St near The Line Late April 2024\" (the overhang and its pale soffit); \"Linea and The Line courtyard Late January 2025\" (the south end, garage screen).",
+    "Estimated: the split of the 0–26 m podium between the ground floor, screen, parking levels and amenity floor (photo proportions; see Z1, Z2); the office floors as four pairs of ~4.8 m floors; the notches' size and depth (photos: about 15 m and 17 m wide, two floors tall, ~3 m deep); the lawn's outline (NAIP); the east and south faces' detail (a few photos only), drawn like the west.",
+    "Model frame: bearing 33.7 (model +y runs along the long axis, 33.7° east of north). Coordinates below are in that frame about (-80.86206, 35.20905); the anchor is the outline's centroid.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"clt-the-line\", model \"clt-the-line\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/clt-the-line.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

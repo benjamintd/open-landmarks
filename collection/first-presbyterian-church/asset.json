@@ -1,0 +1,324 @@
+{
+  "id": "first-presbyterian-church",
+  "name": "First Presbyterian Church",
+  "anchor": [
+    -80.843849,
+    35.2291133
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 99584,
+      "sha256": "1ce81a6742e522c0b21ccec0f546f13c4540031ea8076d600bba45079cdf7c21"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 99584,
+      "sha256": "1ce81a6742e522c0b21ccec0f546f13c4540031ea8076d600bba45079cdf7c21"
+    }
+  },
+  "triangles": 2155,
+  "boundsBlenderM": [
+    [
+      -52.372,
+      -37.193,
+      0
+    ],
+    [
+      56.393,
+      57.329,
+      64
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.8437345,
+          35.229293
+        ],
+        [
+          -80.8436365,
+          35.2292048
+        ],
+        [
+          -80.8435463,
+          35.2292717
+        ],
+        [
+          -80.8435076,
+          35.2292368
+        ],
+        [
+          -80.8435001,
+          35.2292423
+        ],
+        [
+          -80.843455,
+          35.2292018
+        ],
+        [
+          -80.8434305,
+          35.2291797
+        ],
+        [
+          -80.8434393,
+          35.2291731
+        ],
+        [
+          -80.8433936,
+          35.2291321
+        ],
+        [
+          -80.8435036,
+          35.2290504
+        ],
+        [
+          -80.8434786,
+          35.2290279
+        ],
+        [
+          -80.8434652,
+          35.2290159
+        ],
+        [
+          -80.843357,
+          35.2290962
+        ],
+        [
+          -80.8432283,
+          35.2289806
+        ],
+        [
+          -80.8433362,
+          35.2289004
+        ],
+        [
+          -80.8433296,
+          35.2288945
+        ],
+        [
+          -80.8433964,
+          35.2288449
+        ],
+        [
+          -80.8434047,
+          35.2288524
+        ],
+        [
+          -80.8435057,
+          35.2287774
+        ],
+        [
+          -80.8436233,
+          35.228883
+        ],
+        [
+          -80.8435084,
+          35.2289684
+        ],
+        [
+          -80.8435308,
+          35.2289885
+        ],
+        [
+          -80.843567,
+          35.2290211
+        ],
+        [
+          -80.8436812,
+          35.2289362
+        ],
+        [
+          -80.8437866,
+          35.2290309
+        ],
+        [
+          -80.8437306,
+          35.2290725
+        ],
+        [
+          -80.8437574,
+          35.2290966
+        ],
+        [
+          -80.8439511,
+          35.2289528
+        ],
+        [
+          -80.8439893,
+          35.2289871
+        ],
+        [
+          -80.8440081,
+          35.2289732
+        ],
+        [
+          -80.8440418,
+          35.2290034
+        ],
+        [
+          -80.8440249,
+          35.2290159
+        ],
+        [
+          -80.8440525,
+          35.2290407
+        ],
+        [
+          -80.8438511,
+          35.2291903
+        ],
+        [
+          -80.8438678,
+          35.2292053
+        ],
+        [
+          -80.8438045,
+          35.2292524
+        ],
+        [
+          -80.8438248,
+          35.2292706
+        ],
+        [
+          -80.8438635,
+          35.2293054
+        ],
+        [
+          -80.8439146,
+          35.2292674
+        ],
+        [
+          -80.8439269,
+          35.2292784
+        ],
+        [
+          -80.8441807,
+          35.2290901
+        ],
+        [
+          -80.8441963,
+          35.2291041
+        ],
+        [
+          -80.8442138,
+          35.2290911
+        ],
+        [
+          -80.8442415,
+          35.2291159
+        ],
+        [
+          -80.8442837,
+          35.2290846
+        ],
+        [
+          -80.8443561,
+          35.2291497
+        ],
+        [
+          -80.8443144,
+          35.2291807
+        ],
+        [
+          -80.8443327,
+          35.2291971
+        ],
+        [
+          -80.8443571,
+          35.2291789
+        ],
+        [
+          -80.8444234,
+          35.2292385
+        ],
+        [
+          -80.8444021,
+          35.2292543
+        ],
+        [
+          -80.8444289,
+          35.2292785
+        ],
+        [
+          -80.8440829,
+          35.2295352
+        ],
+        [
+          -80.8440725,
+          35.2295258
+        ],
+        [
+          -80.8440428,
+          35.2295478
+        ],
+        [
+          -80.8440669,
+          35.2295695
+        ],
+        [
+          -80.8439847,
+          35.2296304
+        ],
+        [
+          -80.843666,
+          35.2293438
+        ],
+        [
+          -80.8437345,
+          35.229293
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 502718740,
+    "version": 4,
+    "timestamp": "2026-01-21T21:54:49Z",
+    "url": "https://www.openstreetmap.org/way/502718740"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q5453546",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/first-presbyterian-charlotte.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "First Presbyterian Church, 200 W Trade St, Charlotte — procedural, CC0-1.0, no textures. bun generators/first-presbyterian-charlotte.ts",
+    "Only the historic church: the 1857 front, narthex and tower, the 1883–84 spire, and the 1894–95 nave, transepts and pulpit end. The Sunday School buildings, Fellowship Hall and the 1961 office wing are plain, quieter blocks that fill out the rest of the OSM outline, which maps the whole complex as one way.",
+    "Map frame: y along the church's axis, +y away from Trade Street (NE), x across it, z up, metres. Placed at bearing 47.9°, the street grid's axis and the outline's long edges, so the tower faces Trade Street on the model's -y side. Origin is on the axis at the middle of the church's own part of the OSM outline (way/502718740, which also covers every later wing).",
+    "Dimensions: the 1857 front is 13.6 m wide (OSM; the nomination gives the 1857 church as 50 × 80 ft), the tower projects 2.2 m from it, the nave runs 40 m from the front to the pulpit end and the transepts sit 24.6–32.3 m back (all OSM). The spire rises 64 m: 187 ft for the 1857 steeple (NRHP nomination) plus the 25 ft the 1884 rebuild added (the church's history). Eaves, ridge and tower stages are scaled from photos.",
+    "Rework (2026): heights checked against lidar (USGS 3DEP NC Phase 4, Mecklenburg 2016), above the lowest ground under the outline: nave eaves 12–13 m and ridge 18 m (unchanged); the Fellowship Hall's ridge 17 m and the Sunday School 18 m, its small tower 20 m, the link and corner blocks 12 m — the old wings were 4–6 m too low. The lidar puts the church about 2.5 m east and south of the OSM outline (an imagery offset in the tracing); the model stays on OSM, which is what it replaces. The spire's pale bands are re-read off the photos (9, 24 and 31 m up the 40 m spire); the corner pinnacles and spikes are slate, as in the photos, not pale.",
+    "Photos: AlexiusHoratius (Commons, CC BY-SA 3.0), Foolish Productions Photography (Commons, CC BY-SA 4.0), Dmadeo (Commons, CC BY-SA 3.0), all of the Trade Street front and the tower; USGS NAIP for the roofs. No licensed photo shows the rear wings close up: their walls are plain and estimated.",
+    "Colours follow the shared palette (STYLE.md): the warm tan stucco of the photos is the identity finish, pulled light; the roofs and the spire share one dark slate grey (dark in the NAIP aerial), the Sunday School's flat roof is pale green (`copper`). Windows are flush slate panels, one per arched opening.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"first-presbyterian-charlotte\", model \"first-presbyterian-charlotte\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/first-presbyterian-charlotte.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

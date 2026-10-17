@@ -1,0 +1,162 @@
+{
+  "id": "atherton-cotton-mill",
+  "name": "Atherton Cotton Mill",
+  "anchor": [
+    -80.861742,
+    35.20767
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 74856,
+      "sha256": "539b3f32e89b605959ca26ba4e7e28ae9623bd6a75b7f1c9198b1d8a5ebcb5be"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 74856,
+      "sha256": "539b3f32e89b605959ca26ba4e7e28ae9623bd6a75b7f1c9198b1d8a5ebcb5be"
+    }
+  },
+  "triangles": 1450,
+  "boundsBlenderM": [
+    [
+      -49.61,
+      -68.22,
+      0
+    ],
+    [
+      48.264,
+      64.323,
+      33
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.8614171,
+          35.2082446
+        ],
+        [
+          -80.8612195,
+          35.2081411
+        ],
+        [
+          -80.8620709,
+          35.2070555
+        ],
+        [
+          -80.8622849,
+          35.2071675
+        ],
+        [
+          -80.8620539,
+          35.207462
+        ],
+        [
+          -80.8621088,
+          35.2074908
+        ],
+        [
+          -80.8620808,
+          35.2075265
+        ],
+        [
+          -80.8620203,
+          35.2074948
+        ],
+        [
+          -80.8616392,
+          35.2079806
+        ],
+        [
+          -80.8616761,
+          35.2079999
+        ],
+        [
+          -80.8617231,
+          35.20794
+        ],
+        [
+          -80.8618426,
+          35.2080025
+        ],
+        [
+          -80.8617825,
+          35.208079
+        ],
+        [
+          -80.86173,
+          35.2080515
+        ],
+        [
+          -80.8616611,
+          35.2081393
+        ],
+        [
+          -80.8615466,
+          35.2080794
+        ],
+        [
+          -80.8614171,
+          35.2082446
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 432937694,
+    "version": 2,
+    "timestamp": "2023-08-31T06:44:26Z",
+    "url": "https://www.openstreetmap.org/way/432937694"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 1196988216,
+      "version": 1,
+      "timestamp": "2023-08-11T04:40:27Z",
+      "url": "https://www.openstreetmap.org/way/1196988216"
+    }
+  ],
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/clt-atherton-cotton-mill.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Atherton Cotton Mill (1892–93), 2108 South Boulevard, South End, Charlotte — procedural, CC0-1.0. bun generators/clt-atherton-cotton-mill.ts",
+    "D. A. Tompkins's mill, the first factory in Dilworth's industrial district, a designated Charlotte-Mecklenburg historic landmark, converted to condominiums (Atherton Lofts, 2006). The Landmarks Commission survey (Mattson & Morrill, 1997) describes it: \"a single building with the longitudinal plan common to nineteenth century textile factories. Oriented north-south ... constructed on a slope, which provided two floors of work space on the west side and a single story on the east, facing South Boulevard ... 498 feet long and 78 feet wide ... pilastered brick exterior walls ... The roof is a shallow pitched gable ... On the north and south elevations, the roof line is defined by stepped parapets, while on the east and west sides, the gable roof ends in exposed wooden rafters ... tall, recessed, segmental arch windows ... The powerhouse and machine shop form one extension from the northwest side of the main mill. On the south side of the powerhouse is a tall, massive square, brick smokestack with flared base and corbeled cap.\" That stack, beside the Rail Trail, is the mill's landmark.",
+    "Identity: Mecklenburg County's LocalHistoricProperty layer records \"Atherton Cotton Mill\", 1893, 2108 South Bv, PID 12103C99, at 35.20774, -80.86197, inside way/432937694; the county's 2108 South Bv address point (-80.861771, 35.207669) and the condominium parcel 12103C99 lie under the outline too (https://hl.mecknc.gov/Properties/Designated-Historic-Landmarks/charlotte/dilworth/atherton-cotton-mills). OSM has no name on the way. The retail centre called \"Atherton Mill\" (way/432937693, 230 m north-east) is the 1919 Parks-Cramer Company Complex, modelled separately as clt-atherton-mill.",
+    "Evidence: - OSM way/432937694 (outline; building:levels 2, height 9) and way/1196988216 (man_made=chimney). No building:parts. - Lidar, USGS 3DEP NC Phase 4 Mecklenburg 2016, 1 m, sampled in this frame. Base (y = 0) is the west (Rail Trail) ground; the South Blvd side is 3 m higher. Mill eaves 7.8 m, ridge 9.4 m on the axis; the north-west extension 7–8 m; the stack 33 m above base, about 3–4 m square (photo proportions give a ~4 m shaft). The canopy at x −36…−24 is trees (ground returns under it), not a building. - NAIP (USGS, public domain): the long roof is a warm dark grey, the north-west extension a separate brown-grey roof. - Photos (Commons, City Dweller 2, CC BY-SA 4.0): \"Atherton Mill along the Rail Trail Late May 2024\" and \"… - 2 Late May 2024\": the west side — red brick, tall windows with pale lintels over half windows, a shallow roof with eaves, the square stack with its corbelled cap. The building those photos show in front of the stack is the powerhouse extension (one row of tall windows); the main mill's west face is screened by trees in them and is drawn with two rows, per the survey. - Published: 498 × 78 ft (survey). OSM/lidar measure 143 × 23 m; the model follows them.",
+    "Estimated: window pitch (3.75 m) and sizes; the step heights of the end parapets (no photo of the ends); the east face (no photo; drawn like the west, main floor only, per the survey); the stack's taper and flare.",
+    "Model frame: bearing 33.1 (model +y runs north-north-east along the mill); origin at the OSM outline's centroid.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"clt-atherton-cotton-mill\", model \"clt-atherton-cotton-mill\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/clt-atherton-cotton-mill.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}
