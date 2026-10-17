@@ -1,0 +1,156 @@
+{
+  "id": "tribune-tower",
+  "name": "Tribune Tower",
+  "anchor": [
+    -87.623308,
+    41.89055
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 169740,
+      "sha256": "b2e43e0972df86fbc43ab33c6441048d2bddebd377d14aaf62de887b582c45a4"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 169740,
+      "sha256": "b2e43e0972df86fbc43ab33c6441048d2bddebd377d14aaf62de887b582c45a4"
+    }
+  },
+  "triangles": 3299,
+  "boundsBlenderM": [
+    [
+      -48.113,
+      -34.556,
+      0
+    ],
+    [
+      44.707,
+      34.704,
+      141
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -87.6235691,
+          41.8902471
+        ],
+        [
+          -87.6238188,
+          41.8902403
+        ],
+        [
+          -87.6238759,
+          41.8902662
+        ],
+        [
+          -87.6238793,
+          41.8904931
+        ],
+        [
+          -87.6238319,
+          41.8905216
+        ],
+        [
+          -87.6236256,
+          41.8905254
+        ],
+        [
+          -87.6236299,
+          41.8906483
+        ],
+        [
+          -87.6238812,
+          41.8906426
+        ],
+        [
+          -87.6238848,
+          41.8907457
+        ],
+        [
+          -87.623888,
+          41.8908395
+        ],
+        [
+          -87.6227931,
+          41.890864
+        ],
+        [
+          -87.6227682,
+          41.8902609
+        ],
+        [
+          -87.6233265,
+          41.8902522
+        ],
+        [
+          -87.6235145,
+          41.8902487
+        ],
+        [
+          -87.6235691,
+          41.8902471
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 150407241,
+    "version": 13,
+    "timestamp": "2025-12-09T16:51:38Z",
+    "url": "https://www.openstreetmap.org/way/150407241"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 127107038,
+      "version": 12,
+      "timestamp": "2024-10-21T03:10:36Z",
+      "url": "https://www.openstreetmap.org/way/127107038"
+    }
+  ],
+  "wikidata": "Q2143136",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/chi-tribune-tower.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Tribune Tower, Chicago (1925, Howells & Hood) — original procedural geometry, CC0-1.0. bun generators/chi-tribune-tower.ts",
+    "Map frame: x east, y north, z up, metres; origin at the anchor on the ground. Anchor = centroid of the OSM outline way/150407241, 41.890550,-87.623308. The outline's edges run at 88.3° / 178.4°, so the catalog bearing is 358.4 and the complex is square to this frame.",
+    "Identity: the pale limestone shaft with its strong vertical piers, and on top of it the octagonal lantern ringed by eight flying buttresses that leap to tall corner piers, all bristling with pinnacles. Second: the lower pinnacled rear wing east of the shaft, and the plain Tribune annex blocks behind.",
+    "Evidence: - plan: OSM. The tower part way/127107038 (30 × 31 m with chamfered corners) is used as drawn for the shaft. The rest of the outline is the 1920s plant/annex; the split into blocks is read from TonyTheTiger's 2018 photo from the east (two blocks, the north one taller) and from NAIP (the north block's pale roof, the Nathan Hale Court notch on Michigan Avenue, which the outline already excludes). The rear wing's east edge at x = -2.5 is the outline's own node on the south side. - heights: 141 m to the top of the crown (OSM height, Wikipedia 462 ft). Crown levels measured on Rycroft's 2022 photo from the south, scaled by the 30 m shaft width and corrected for foreshortening: shaft windows to ≈ 105 m, tracery screen to ≈ 114 m, corner piers to ≈ 124/129 m, lantern parapet ≈ 136 m. Rear wing ≈ 84 m with pinnacles to ≈ 92 m (Rycroft and TonyTheTiger 2007, both from the south-west, ratio to the full height). Annex blocks ≈ 32 m (south) and ≈ 40 m (north) by counting floors on TonyTheTiger's photo from the east; the Michigan Avenue north wing takes OSM's 6 levels (≈ 25 m). Expect ±3 m on the crown and ±4 m on the annex. - estimated: the lantern's size (≈ 15 m across flats, from its face width against the shaft) and that it is centred on the shaft; the north extent of the rear wing (no photo shows it from the north); the annex split line. Heights are from Michigan Avenue's upper level. - colour: grey-buff Indiana limestone throughout, pulled to the palette.",
+    "Photos (Wikimedia Commons): Chicago_in_2022_Tribune_Tower_(52053649770).jpg (Chris Rycroft, CC BY 2.0); 20070513_Tribune_Tower.JPG (TonyTheTiger, CC BY-SA 3.0); 20180427_Tribune_Tower_property_from_eastern_edge_(1).jpg (TonyTheTiger, CC BY-SA 4.0); Chicago_Tribune_Tower_(47090586914).jpg (Bex Walton, CC BY 2.0); 20190323_01_Tribune_Tower_(49490506182).jpg (David Wilson, CC BY 2.0). USGS NAIP for the roof plan. No commercial imagery.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"chi-tribune-tower\", model \"chi-tribune-tower\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/chi-tribune-tower.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 58 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the chi-tribune-tower-glazing finish in the window colour.",
+    "To fit six materials, folded trim into chi-tribune-tower-tribune-limestone (ΔE 7.3)."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

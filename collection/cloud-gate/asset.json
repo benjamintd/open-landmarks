@@ -1,0 +1,183 @@
+{
+  "id": "cloud-gate",
+  "name": "Cloud Gate",
+  "anchor": [
+    -87.623339,
+    41.882686
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 53392,
+      "sha256": "4b3d9322659775b2c99fa86bc28df8abc44d586248a92f93c85e8f316f69fe60"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 53392,
+      "sha256": "4b3d9322659775b2c99fa86bc28df8abc44d586248a92f93c85e8f316f69fe60"
+    }
+  },
+  "triangles": 2808,
+  "boundsBlenderM": [
+    [
+      -6.505,
+      -9.999,
+      0
+    ],
+    [
+      6.505,
+      9.999,
+      10
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -87.6233465,
+          41.882598
+        ],
+        [
+          -87.623319,
+          41.8825982
+        ],
+        [
+          -87.6233001,
+          41.8826056
+        ],
+        [
+          -87.6232848,
+          41.8826143
+        ],
+        [
+          -87.6232718,
+          41.8826287
+        ],
+        [
+          -87.6232581,
+          41.8826498
+        ],
+        [
+          -87.6232516,
+          41.882674
+        ],
+        [
+          -87.6232515,
+          41.8826912
+        ],
+        [
+          -87.6232529,
+          41.8827103
+        ],
+        [
+          -87.6232567,
+          41.8827236
+        ],
+        [
+          -87.6232707,
+          41.8827457
+        ],
+        [
+          -87.6232894,
+          41.8827593
+        ],
+        [
+          -87.6233053,
+          41.8827683
+        ],
+        [
+          -87.6233308,
+          41.8827743
+        ],
+        [
+          -87.6233541,
+          41.882774
+        ],
+        [
+          -87.6233798,
+          41.8827653
+        ],
+        [
+          -87.6234007,
+          41.8827528
+        ],
+        [
+          -87.6234159,
+          41.8827366
+        ],
+        [
+          -87.623424,
+          41.8827174
+        ],
+        [
+          -87.6234298,
+          41.8826885
+        ],
+        [
+          -87.6234228,
+          41.8826563
+        ],
+        [
+          -87.6234077,
+          41.8826284
+        ],
+        [
+          -87.6233789,
+          41.8826064
+        ],
+        [
+          -87.6233465,
+          41.882598
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 137060274,
+    "version": 28,
+    "timestamp": "2026-10-15T17:40:45Z",
+    "url": "https://www.openstreetmap.org/way/137060274"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q589099",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/chi-cloud-gate.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Cloud Gate (\"The Bean\", Anish Kapoor, 2004-06), Millennium Park, Chicago — original procedural geometry, CC0-1.0.",
+    "Map frame: x east, y north, z up, metres; origin at the centroid of the OSM outline way/137060274 (41.882686, -87.623339), on the plaza. The outline's minimum bounding box runs at 89.4° / 179.4°, so the catalog bearing is 359.4 and the bean's long axis is the model's y axis.",
+    "Identity: one smooth, seamless mirror-steel bean, longer than it is wide, with the low arch you walk through from the long (east and west) sides and the concave \"omphalos\" dimple in its underside.",
+    "Form: a loft of closed sections across the long axis. Each section is a superellipse between a bottom height and a top height, so the side view is the published 20 x 10 m silhouette and the arch is simply the sections near the middle starting higher. The omphalos is a dent pushed up into the bottom of the middle sections. Normals come from the smooth surface, so it shades as one piece of polished steel.",
+    "Evidence: - Published (Wikipedia, \"Cloud Gate\"): 33 x 66 x 42 ft (10 x 20 x 13 m), arch 12 ft (3.7 m) high, omphalos apex 27 ft (8.2 m) above the ground. - OSM way/137060274: 19.5 m north-south x 14.8 m east-west, height 10. The published 13 m width is used; OSM's ring looks traced generously. - USGS NAIP orthophoto: the bean's long axis runs north-south, about 17 x 13 m of lit top surface. - Photos (Flickr via Openverse): Giuseppe Milo (CC BY 2.0, flickr 18495946173, from the east, long side); Bert Kaufmann (CC BY 2.0, 4865734246); Ken Lund (CC BY-SA 2.0, 9179488885, 9179492567, 9179495495, 9181706070, from the south-west and south); Rob Young (CC BY 2.0, 5945905545, end view); miamism (CC BY 2.0, 5610750242); Artotem (CC BY 2.0, 3823449453). The arch spans about half the length at the ground, measured off the side views. - Colour: the steel mirrors the sky and the pale plaza, so it reads as a bright pale silver; the arch underside mirrors the shaded plaza and reads darker.",
+    "Estimated: the plan's squareness and the fullness of the top (superellipse exponents), the height of the widest point (4.6 m), the arch's half-span at the ground (5.0 m, about half the length) and its profile, the ends kept round and full down to their ground contact, the contact patches. The section bottom is set to 3.5 m so that, with the rounding of the lips, the opening seen from the side crowns at the published 3.7 m; the omphalos vault is kept to the inner 60% of the width, so it stays a recess rather than raising the arch. Invented: nothing.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"chi-cloud-gate\", model \"chi-cloud-gate\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/chi-cloud-gate.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

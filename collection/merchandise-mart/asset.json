@@ -1,0 +1,361 @@
+{
+  "id": "merchandise-mart",
+  "name": "Merchandise Mart",
+  "anchor": [
+    -87.6353729,
+    41.8885491
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 215884,
+      "sha256": "66698f9c2db39eacea76557ef436751ea7b6adee2105d8ca2e50417d538febb5"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 215884,
+      "sha256": "66698f9c2db39eacea76557ef436751ea7b6adee2105d8ca2e50417d538febb5"
+    }
+  },
+  "triangles": 3928,
+  "boundsBlenderM": [
+    [
+      -120.663,
+      -54.905,
+      0
+    ],
+    [
+      103.326,
+      51.319,
+      104.5
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -87.6353891,
+          41.8880885
+        ],
+        [
+          -87.6354784,
+          41.8880875
+        ],
+        [
+          -87.6354948,
+          41.888087
+        ],
+        [
+          -87.6356736,
+          41.8880848
+        ],
+        [
+          -87.6361364,
+          41.8880798
+        ],
+        [
+          -87.6361462,
+          41.8880739
+        ],
+        [
+          -87.6362527,
+          41.8880728
+        ],
+        [
+          -87.636468,
+          41.8883493
+        ],
+        [
+          -87.6364797,
+          41.8883642
+        ],
+        [
+          -87.636485,
+          41.8883712
+        ],
+        [
+          -87.6364987,
+          41.8883902
+        ],
+        [
+          -87.6368223,
+          41.8888405
+        ],
+        [
+          -87.6368248,
+          41.8889067
+        ],
+        [
+          -87.6368089,
+          41.8889186
+        ],
+        [
+          -87.6367932,
+          41.8889303
+        ],
+        [
+          -87.636773,
+          41.8889456
+        ],
+        [
+          -87.6367622,
+          41.8889537
+        ],
+        [
+          -87.6367435,
+          41.888954
+        ],
+        [
+          -87.6356337,
+          41.8889709
+        ],
+        [
+          -87.635578,
+          41.8889718
+        ],
+        [
+          -87.6355223,
+          41.8889726
+        ],
+        [
+          -87.6354614,
+          41.8889734
+        ],
+        [
+          -87.6354131,
+          41.8889741
+        ],
+        [
+          -87.6347041,
+          41.8889854
+        ],
+        [
+          -87.6343149,
+          41.8889923
+        ],
+        [
+          -87.6342706,
+          41.8889927
+        ],
+        [
+          -87.6342264,
+          41.888993
+        ],
+        [
+          -87.6341956,
+          41.8889716
+        ],
+        [
+          -87.6341721,
+          41.888955
+        ],
+        [
+          -87.6341641,
+          41.8889494
+        ],
+        [
+          -87.6341574,
+          41.888719
+        ],
+        [
+          -87.6341562,
+          41.8886822
+        ],
+        [
+          -87.6341561,
+          41.8886323
+        ],
+        [
+          -87.6341556,
+          41.8886029
+        ],
+        [
+          -87.6341551,
+          41.8885801
+        ],
+        [
+          -87.6341525,
+          41.8885068
+        ],
+        [
+          -87.6341517,
+          41.8884405
+        ],
+        [
+          -87.6341515,
+          41.8884212
+        ],
+        [
+          -87.6341465,
+          41.8881442
+        ],
+        [
+          -87.634204,
+          41.8880968
+        ],
+        [
+          -87.6342963,
+          41.888095
+        ],
+        [
+          -87.6343112,
+          41.8881044
+        ],
+        [
+          -87.6348148,
+          41.8880984
+        ],
+        [
+          -87.6350016,
+          41.8880959
+        ],
+        [
+          -87.6350203,
+          41.8880959
+        ],
+        [
+          -87.6350939,
+          41.888095
+        ],
+        [
+          -87.6351075,
+          41.888082
+        ],
+        [
+          -87.6351375,
+          41.8880814
+        ],
+        [
+          -87.6352406,
+          41.8880795
+        ],
+        [
+          -87.6353508,
+          41.8880773
+        ],
+        [
+          -87.635374,
+          41.8880769
+        ],
+        [
+          -87.6353891,
+          41.8880885
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 28293211,
+    "version": 32,
+    "timestamp": "2025-09-26T04:04:13Z",
+    "url": "https://www.openstreetmap.org/way/28293211"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 1432322251,
+      "version": 3,
+      "timestamp": "2025-09-26T04:04:13Z",
+      "url": "https://www.openstreetmap.org/way/1432322251"
+    },
+    {
+      "type": "way",
+      "id": 1432322252,
+      "version": 2,
+      "timestamp": "2025-09-26T04:04:13Z",
+      "url": "https://www.openstreetmap.org/way/1432322252"
+    },
+    {
+      "type": "way",
+      "id": 1432322253,
+      "version": 2,
+      "timestamp": "2025-09-26T04:04:13Z",
+      "url": "https://www.openstreetmap.org/way/1432322253"
+    },
+    {
+      "type": "way",
+      "id": 1432322254,
+      "version": 2,
+      "timestamp": "2025-09-26T04:04:13Z",
+      "url": "https://www.openstreetmap.org/way/1432322254"
+    },
+    {
+      "type": "way",
+      "id": 1432322255,
+      "version": 2,
+      "timestamp": "2025-09-26T04:04:13Z",
+      "url": "https://www.openstreetmap.org/way/1432322255"
+    },
+    {
+      "type": "way",
+      "id": 1432322256,
+      "version": 2,
+      "timestamp": "2025-09-26T04:04:13Z",
+      "url": "https://www.openstreetmap.org/way/1432322256"
+    },
+    {
+      "type": "way",
+      "id": 1432322257,
+      "version": 2,
+      "timestamp": "2025-09-26T04:04:13Z",
+      "url": "https://www.openstreetmap.org/way/1432322257"
+    },
+    {
+      "type": "way",
+      "id": 1432322258,
+      "version": 1,
+      "timestamp": "2025-09-23T15:40:44Z",
+      "url": "https://www.openstreetmap.org/way/1432322258"
+    },
+    {
+      "type": "way",
+      "id": 1432322259,
+      "version": 1,
+      "timestamp": "2025-09-23T15:40:44Z",
+      "url": "https://www.openstreetmap.org/way/1432322259"
+    }
+  ],
+  "wikidata": "Q1921426",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/chi-merchandise-mart.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Merchandise Mart (222 West Merchandise Mart Plaza, 1930, Graham, Anderson, Probst & White, designer Alfred Shaw), Chicago — original procedural geometry, CC0-1.0. bun generators/chi-merchandise-mart.ts",
+    "This file also exports the small polygon kit the other models by the same builder use (333 Wacker, Union Station, Thompson Center, Harold Washington Library); the Mart itself is only written when this file runs.",
+    "Map frame: x east, y north, z up, metres; origin at the anchor on the ground. Anchor = centroid of the OSM outline way/28293211, 41.8885491,-87.6353729. Its long walls run at 89.0° / 269.0°, so the catalog bearing is 359 and the block is square to this frame.",
+    "Identity, in order: the enormous flat-topped limestone block on the river, two blocks long; the 25-storey central tower over the river front, with chamfered corners, two setbacks and a green hipped roof; the tower-like corner pavilions rising two storeys over the cornice, with a set-back stage and a small green hipped roof (taller pair, four storeys, inboard on the south half); the close vertical ribbon of window slots between piers over a three-storey base, under an attic of arched windows.",
+    "Evidence: - plan: OSM outline (simplified to its eight corners and the straight diagonal west wall along the river's North Branch) and parts: the tower way/1432322251 (32 x 44 m, chamfered, 25 levels, height 104), the four corner turrets way/1432322252..55 (octagons ~16 m across, 19 levels), the two inboard turrets way/1432322256/57 (22 levels), and the two 8-level light-court parts way/1432322258/59. Positions checked on USGS NAIP (the turret domes and the tower roof). - heights: 104 m to the top of the tower (OSM, published 104.5 m / 25 storeys). Measured on Daniel Schwen's view across the river, scaled by the tower (~0.2 m/px at the river front): main cornice ~71 m (18 storeys), tower setbacks ~85 and ~92.5 m, eaves ~98.5 m, so a ~6 m hipped roof, which seligmanwaite's rooftop photo confirms. Pavilion heights follow the OSM level counts (19 and 22) at ~4.2 m a storey; their setback stages and roof heights are estimates. - facade: slot pitch ~4 m on the long faces (counted ~21 slots between the SW pavilion and the tower on JeremyA's view), drawn here at 4.2 m as panels in three-storey groups; punched windows on the pavilions and the tower; the attic's arched windows as one row of panels. - colour: warm grey Bedford limestone, a shade greyer than `stone`; the tower roof and turret domes weathered green copper.",
+    "Photos (Wikimedia Commons): Merchandise_Mart.jpg (Daniel Schwen, CC BY-SA 4.0); Merchandise_Mart_080405.jpg (JeremyA, CC BY-SA 3.0); North_Side_of_the_Merch_Mart.jpg (Robert Werner, CC BY-SA 3.0); Rooftop_-_Chicago_Merchandise_Mart_(43590422992).jpg (seligmanwaite, CC BY 2.0); Chicago_-_Merchandise_Mart_from_Marina_City_(4279842177).jpg (Roger W, CC BY-SA 2.0). USGS NAIP for the plan. No commercial imagery.",
+    "Left out: the light courts (two small wells in the roof), rooftop mechanical penthouses, the chiefs' frieze, the CTA station on the north side (a separate OSM building, not replaced).",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"chi-merchandise-mart\", model \"chi-merchandise-mart\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/chi-merchandise-mart.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 140 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the chi-merchandise-mart-glazing finish in the window colour."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

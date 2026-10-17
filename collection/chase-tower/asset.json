@@ -1,0 +1,281 @@
+{
+  "id": "chase-tower",
+  "name": "Chase Tower",
+  "anchor": [
+    -87.630138,
+    41.881623
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 13,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 85612,
+      "sha256": "4744d5ebe5c104a6c8ca591d5b5073ccd1d02c35fb159bf9d23db1d451b0e355"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 85612,
+      "sha256": "4744d5ebe5c104a6c8ca591d5b5073ccd1d02c35fb159bf9d23db1d451b0e355"
+    }
+  },
+  "triangles": 1650,
+  "boundsBlenderM": [
+    [
+      -48.633,
+      -30.802,
+      0
+    ],
+    [
+      48.647,
+      29.802,
+      259
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -87.6296113,
+          41.8813559
+        ],
+        [
+          -87.6296822,
+          41.8813554
+        ],
+        [
+          -87.6297705,
+          41.8813555
+        ],
+        [
+          -87.629906,
+          41.8813473
+        ],
+        [
+          -87.6299262,
+          41.8813485
+        ],
+        [
+          -87.6299268,
+          41.8813768
+        ],
+        [
+          -87.6300541,
+          41.8813753
+        ],
+        [
+          -87.6300536,
+          41.8813488
+        ],
+        [
+          -87.630073,
+          41.8813485
+        ],
+        [
+          -87.6300735,
+          41.8813742
+        ],
+        [
+          -87.6301369,
+          41.8813735
+        ],
+        [
+          -87.6302012,
+          41.8813727
+        ],
+        [
+          -87.6302007,
+          41.8813482
+        ],
+        [
+          -87.6302164,
+          41.881348
+        ],
+        [
+          -87.6302169,
+          41.8813728
+        ],
+        [
+          -87.6303477,
+          41.8813713
+        ],
+        [
+          -87.6303472,
+          41.8813461
+        ],
+        [
+          -87.6303639,
+          41.881346
+        ],
+        [
+          -87.6304935,
+          41.8813498
+        ],
+        [
+          -87.6305927,
+          41.8813488
+        ],
+        [
+          -87.6306559,
+          41.8813483
+        ],
+        [
+          -87.6306601,
+          41.8814571
+        ],
+        [
+          -87.6306583,
+          41.8814823
+        ],
+        [
+          -87.6306575,
+          41.8815233
+        ],
+        [
+          -87.63072,
+          41.881525
+        ],
+        [
+          -87.6307279,
+          41.8817109
+        ],
+        [
+          -87.6306616,
+          41.8817109
+        ],
+        [
+          -87.6306611,
+          41.8817515
+        ],
+        [
+          -87.6306631,
+          41.8817945
+        ],
+        [
+          -87.630665,
+          41.8818822
+        ],
+        [
+          -87.6301428,
+          41.8818875
+        ],
+        [
+          -87.6296206,
+          41.8818929
+        ],
+        [
+          -87.6296186,
+          41.8818119
+        ],
+        [
+          -87.6296167,
+          41.8817653
+        ],
+        [
+          -87.6296163,
+          41.8817252
+        ],
+        [
+          -87.6295592,
+          41.881724
+        ],
+        [
+          -87.6295535,
+          41.8815369
+        ],
+        [
+          -87.6296153,
+          41.8815359
+        ],
+        [
+          -87.6296138,
+          41.8814971
+        ],
+        [
+          -87.6296145,
+          41.8814691
+        ],
+        [
+          -87.6296113,
+          41.8813559
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 230613007,
+    "version": 9,
+    "timestamp": "2023-08-12T08:49:52Z",
+    "url": "https://www.openstreetmap.org/way/230613007"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 284778256,
+      "version": 2,
+      "timestamp": "2023-05-25T05:54:13Z",
+      "url": "https://www.openstreetmap.org/way/284778256"
+    },
+    {
+      "type": "way",
+      "id": 284778257,
+      "version": 1,
+      "timestamp": "2014-05-28T07:42:44Z",
+      "url": "https://www.openstreetmap.org/way/284778257"
+    },
+    {
+      "type": "way",
+      "id": 284778258,
+      "version": 2,
+      "timestamp": "2023-07-20T03:22:26Z",
+      "url": "https://www.openstreetmap.org/way/284778258"
+    },
+    {
+      "type": "way",
+      "id": 284778259,
+      "version": 2,
+      "timestamp": "2023-07-20T03:22:26Z",
+      "url": "https://www.openstreetmap.org/way/284778259"
+    }
+  ],
+  "wikidata": "Q291304",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/chi-chase-tower.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Chase Tower (10 South Dearborn, 1969, C.F. Murphy Associates and Perkins & Will; built as the First National Bank Building), Chicago — original procedural geometry, CC0-1.0. bun generators/chi-chase-tower.ts",
+    "Map frame: x east, y north, z up, metres; origin at the anchor on the ground. Anchor = centroid of the OSM outline way/230613007, 41.881623,-87.630138. Its walls run at 359.2° / 89.2°, so the catalog bearing is 359.2 and the tower is square to its own frame.",
+    "Identity, in order: the two broad faces (north and south) sweeping inward in one long concave curve from a deep base to a slim top, so the narrow ends read as an A; the plain granite end cores standing straight up the middle of each end; the close vertical piers over dark window bands on the broad faces; the flat top with its mechanical blocks.",
+    "Evidence: - plan: OSM outline and parts. Base 86.6 m E-W (faces at ±43.3) and 59.4 m N-S; the end cores 20.8 m wide, standing 5.1 m out (to ±48.5); at the top the parts give 30 m N-S (strips at ±15). Published: floor plates diminish from about 200 ft (61 m) deep at the base; 60 storeys. - heights: 259 m (850 ft) to the roof, published; OSM 252 m for the main roof and 259 m for the cores and the middle strip, kept as such. - the curve: the depth runs 59.4 m → 30 m as a concave sweep, steepest at the base and nearly plumb at the top (d = 15 + 14.7 (1 − t)^2), fitted by eye to Andrew Horne's view from above (south-west) and the Chicago Architecture Today and SecretName101 views up the faces (estimate: no published profile). - piers: fourteen bays a broad face (GregMcCollum's photo from the north-east, John Picken's from the plaza); the windows are drawn as one panel per bay per four storeys, the piers and a spandrel band between groups showing in granite. - colour: pale grey granite (finish, pulled light), dark window bands.",
+    "Photos (Wikimedia Commons): Chicago-00_(Chase_Tower).jpg (Andrew Horne, CC BY 2.0); Chase_Tower_Chicago_March_29_2025.jpg (GregMcCollum, CC0); Chase_Tower,_Chicago.jpg (John Picken, CC BY 2.0); Chase_Tower_exterior_1 _(7374045476).jpg (Chicago Architecture Today, CC BY 2.0); Chase_Tower_20180613_151408.jpg (SecretName101, CC BY-SA 4.0); Chase_Tower_in_Chicago.jpg (Monika Thorpe, CC BY 2.0); Chase_Tower_060514.jpg (JeremyA, CC BY-SA 2.5). No commercial imagery.",
+    "Left out: the sunken plaza (the map's), the lobby glazing's mullions, the individual floors' window bands.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"chi-chase-tower\", model \"chi-chase-tower\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/chi-chase-tower.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 18247 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the chi-chase-tower-glazing finish in the window colour."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

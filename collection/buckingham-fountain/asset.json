@@ -1,0 +1,314 @@
+{
+  "id": "buckingham-fountain",
+  "name": "Buckingham Fountain",
+  "anchor": [
+    -87.618972,
+    41.875802
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 161820,
+      "sha256": "b948da8161dca884af1100e964305d83f5fb37af45d487a53eec3e22161159f0"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 161820,
+      "sha256": "b948da8161dca884af1100e964305d83f5fb37af45d487a53eec3e22161159f0"
+    }
+  },
+  "triangles": 5520,
+  "boundsBlenderM": [
+    [
+      -44,
+      -44,
+      0
+    ],
+    [
+      44,
+      44,
+      7.6
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -87.6193346,
+          41.8755206
+        ],
+        [
+          -87.619338,
+          41.8755955
+        ],
+        [
+          -87.6193957,
+          41.8756293
+        ],
+        [
+          -87.6194323,
+          41.8756631
+        ],
+        [
+          -87.6194579,
+          41.8756963
+        ],
+        [
+          -87.6194756,
+          41.8757338
+        ],
+        [
+          -87.6194851,
+          41.8757731
+        ],
+        [
+          -87.6194877,
+          41.8758148
+        ],
+        [
+          -87.619481,
+          41.875852
+        ],
+        [
+          -87.6194674,
+          41.8758893
+        ],
+        [
+          -87.6194444,
+          41.8759231
+        ],
+        [
+          -87.6194175,
+          41.8759508
+        ],
+        [
+          -87.6193848,
+          41.8759777
+        ],
+        [
+          -87.6193452,
+          41.8760003
+        ],
+        [
+          -87.6193467,
+          41.8760722
+        ],
+        [
+          -87.6192501,
+          41.8760743
+        ],
+        [
+          -87.6192144,
+          41.8761102
+        ],
+        [
+          -87.6191738,
+          41.8761372
+        ],
+        [
+          -87.6191255,
+          41.8761613
+        ],
+        [
+          -87.6190807,
+          41.8761753
+        ],
+        [
+          -87.6190306,
+          41.8761851
+        ],
+        [
+          -87.6189823,
+          41.8761883
+        ],
+        [
+          -87.6189246,
+          41.8761856
+        ],
+        [
+          -87.6188652,
+          41.8761738
+        ],
+        [
+          -87.6188188,
+          41.8761577
+        ],
+        [
+          -87.6187755,
+          41.8761363
+        ],
+        [
+          -87.6187372,
+          41.8761091
+        ],
+        [
+          -87.6187108,
+          41.8760822
+        ],
+        [
+          -87.6186115,
+          41.8760824
+        ],
+        [
+          -87.6186077,
+          41.8760098
+        ],
+        [
+          -87.6185589,
+          41.8759818
+        ],
+        [
+          -87.6185308,
+          41.8759591
+        ],
+        [
+          -87.6185072,
+          41.8759348
+        ],
+        [
+          -87.6184825,
+          41.8759035
+        ],
+        [
+          -87.6184656,
+          41.8758675
+        ],
+        [
+          -87.6184565,
+          41.8758297
+        ],
+        [
+          -87.6184568,
+          41.8757892
+        ],
+        [
+          -87.6184665,
+          41.8757454
+        ],
+        [
+          -87.6184855,
+          41.8757046
+        ],
+        [
+          -87.6185167,
+          41.8756655
+        ],
+        [
+          -87.6185541,
+          41.8756325
+        ],
+        [
+          -87.6185998,
+          41.8756044
+        ],
+        [
+          -87.6185983,
+          41.8755316
+        ],
+        [
+          -87.6186953,
+          41.8755296
+        ],
+        [
+          -87.6187283,
+          41.8754957
+        ],
+        [
+          -87.6187644,
+          41.8754705
+        ],
+        [
+          -87.6188074,
+          41.8754479
+        ],
+        [
+          -87.6188535,
+          41.8754315
+        ],
+        [
+          -87.6189041,
+          41.875421
+        ],
+        [
+          -87.61896,
+          41.8754156
+        ],
+        [
+          -87.6190116,
+          41.8754179
+        ],
+        [
+          -87.6190617,
+          41.8754271
+        ],
+        [
+          -87.6191135,
+          41.8754426
+        ],
+        [
+          -87.6191616,
+          41.8754645
+        ],
+        [
+          -87.6192006,
+          41.8754913
+        ],
+        [
+          -87.6192365,
+          41.8755229
+        ],
+        [
+          -87.6193346,
+          41.8755206
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 561821879,
+    "version": 8,
+    "timestamp": "2020-01-13T18:58:37Z",
+    "url": "https://www.openstreetmap.org/way/561821879"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q158989",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/chi-buckingham-fountain.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Clarence Buckingham Memorial Fountain (Edward H. Bennett, sculptor Marcel Loyau, 1927), Grant Park, Chicago — original procedural geometry, CC0-1.0.",
+    "Map frame: x east, y north, z up, metres; origin at the fountain's axis, the centre of the OSM pool polygon way/561821879 (41.87580, -87.61897), at the pool's water level. The pool is square to the street grid, so the catalog bearing is 0.",
+    "Identity: the pink marble wedding cake — a broad lower basin, a middle basin, and the upper cup on its short columns — standing in a huge quatrefoil pool with square corners, with the four bronze seahorse groups out in the pool on the diagonals.",
+    "Evidence: - Published (Wikipedia, \"Buckingham Fountain\"): Georgia pink marble; bottom pool 280 ft (85 m) across, lower basin 103 ft (31 m), middle 60 ft (18 m), upper 24 ft (7.3 m); the lip of the upper basin is 25 ft (7.6 m) above the water of the lower pool; four groups of two sea horses. - OSM way/561821879 (the water): lobes of radius 25.8 m centred 16.9 m out on each axis, joined by square corners at about 30.5 m. The OSM corners differ by a metre or so between quadrants; the model takes one quadrant's average and mirrors it, as the real pool is symmetric. - USGS NAIP orthophoto: the same quatrefoil, the pale rim coping about 1.3 m wide, the three basin rings, and the seahorse groups at about (±20.8, ±20.2) m. - Photos (Wikimedia Commons): Buckingham_Fountain.JPG (Adrian104, public domain); BuckinghamFountainCloseUp.jpg (CC BY-SA 3.0); Buckingham Fountain, Chicago, 1940s (Hedrich-Blessing, NBY 3093, public domain); Ken Lund's 9179522737, 9179525679, 9181736412, 9181739434 (CC BY-SA 2.0); Buckingham Al Bundy Fountain Chicago (dronepicr, CC BY 3.0). Tier heights measured off the close-up against the published 7.6 m: lower lip about 2.4 m, middle lip 4.7 m, upper cup 5.6-7.6 m on short columns (also checked on Buckingham_Fountain.JPG, taken from further). - Colour: the marble reads a warm pink-tan, pulled to the palette's lightness; the seahorses are green-patinated bronze.",
+    "Estimated: the basin wall profiles, the number and size of the urn piers (eight on each of the lower two tiers), the cup's columns, the seahorse forms (drawn as bold masses: chest, neck and head, coiled fish tail, and the reed plinth between each pair). Left out: the pool water (the map's), the rococo shells, the jets. The basins' water is drawn (see BASIN).",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"chi-buckingham-fountain\", model \"chi-buckingham-fountain\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/chi-buckingham-fountain.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

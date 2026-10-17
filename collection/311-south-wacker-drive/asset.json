@@ -1,0 +1,318 @@
+{
+  "id": "311-south-wacker-drive",
+  "name": "311 South Wacker Drive",
+  "anchor": [
+    -87.635751,
+    41.877462
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 13,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 208260,
+      "sha256": "c0d59fca653c7b8826dc1d8aafca7c90ba1831b2950402ee7710be094ba09187"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 208260,
+      "sha256": "c0d59fca653c7b8826dc1d8aafca7c90ba1831b2950402ee7710be094ba09187"
+    }
+  },
+  "triangles": 4172,
+  "boundsBlenderM": [
+    [
+      -58.511,
+      -44.211,
+      0
+    ],
+    [
+      33.657,
+      44.682,
+      293
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -87.6355591,
+          41.8777995
+        ],
+        [
+          -87.6355733,
+          41.8777991
+        ],
+        [
+          -87.6355731,
+          41.8777701
+        ],
+        [
+          -87.6355128,
+          41.8777712
+        ],
+        [
+          -87.6354618,
+          41.877772
+        ],
+        [
+          -87.6354243,
+          41.8777727
+        ],
+        [
+          -87.6354123,
+          41.8777729
+        ],
+        [
+          -87.6354003,
+          41.8777731
+        ],
+        [
+          -87.6353637,
+          41.8777737
+        ],
+        [
+          -87.635361,
+          41.8776882
+        ],
+        [
+          -87.6353582,
+          41.8775841
+        ],
+        [
+          -87.6353522,
+          41.8773544
+        ],
+        [
+          -87.6353496,
+          41.8772526
+        ],
+        [
+          -87.6353446,
+          41.8771589
+        ],
+        [
+          -87.6353482,
+          41.8771588
+        ],
+        [
+          -87.6353802,
+          41.8771583
+        ],
+        [
+          -87.6354114,
+          41.877158
+        ],
+        [
+          -87.6354414,
+          41.8771576
+        ],
+        [
+          -87.6354898,
+          41.8771566
+        ],
+        [
+          -87.6355551,
+          41.8771553
+        ],
+        [
+          -87.635555,
+          41.8771299
+        ],
+        [
+          -87.6355377,
+          41.8771296
+        ],
+        [
+          -87.6355364,
+          41.8770964
+        ],
+        [
+          -87.635535,
+          41.8770632
+        ],
+        [
+          -87.635581,
+          41.8770624
+        ],
+        [
+          -87.6356269,
+          41.8770617
+        ],
+        [
+          -87.6356274,
+          41.8770886
+        ],
+        [
+          -87.6356665,
+          41.8771188
+        ],
+        [
+          -87.635898,
+          41.8772832
+        ],
+        [
+          -87.6359629,
+          41.8773272
+        ],
+        [
+          -87.6359627,
+          41.8773639
+        ],
+        [
+          -87.6364529,
+          41.8773568
+        ],
+        [
+          -87.636454,
+          41.8774214
+        ],
+        [
+          -87.6364544,
+          41.8774512
+        ],
+        [
+          -87.6364548,
+          41.877481
+        ],
+        [
+          -87.6364557,
+          41.8775464
+        ],
+        [
+          -87.6359692,
+          41.8775546
+        ],
+        [
+          -87.6359687,
+          41.8775923
+        ],
+        [
+          -87.6359369,
+          41.8776168
+        ],
+        [
+          -87.6356483,
+          41.8778393
+        ],
+        [
+          -87.6356484,
+          41.8778655
+        ],
+        [
+          -87.6356044,
+          41.8778654
+        ],
+        [
+          -87.6355604,
+          41.8778652
+        ],
+        [
+          -87.6355598,
+          41.8778324
+        ],
+        [
+          -87.6355591,
+          41.8777995
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 147350208,
+    "version": 11,
+    "timestamp": "2024-04-02T19:02:48Z",
+    "url": "https://www.openstreetmap.org/way/147350208"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 686318733,
+      "version": 4,
+      "timestamp": "2024-04-02T18:59:37Z",
+      "url": "https://www.openstreetmap.org/way/686318733"
+    },
+    {
+      "type": "way",
+      "id": 686318734,
+      "version": 4,
+      "timestamp": "2024-04-02T19:02:48Z",
+      "url": "https://www.openstreetmap.org/way/686318734"
+    },
+    {
+      "type": "way",
+      "id": 1188678576,
+      "version": 2,
+      "timestamp": "2025-07-07T20:01:19Z",
+      "url": "https://www.openstreetmap.org/way/1188678576"
+    },
+    {
+      "type": "way",
+      "id": 1188678581,
+      "version": 3,
+      "timestamp": "2025-07-07T20:01:19Z",
+      "url": "https://www.openstreetmap.org/way/1188678581"
+    },
+    {
+      "type": "way",
+      "id": 1188678582,
+      "version": 3,
+      "timestamp": "2025-07-07T20:01:19Z",
+      "url": "https://www.openstreetmap.org/way/1188678582"
+    },
+    {
+      "type": "way",
+      "id": 1188678583,
+      "version": 3,
+      "timestamp": "2025-07-07T20:01:19Z",
+      "url": "https://www.openstreetmap.org/way/1188678583"
+    },
+    {
+      "type": "way",
+      "id": 1188678584,
+      "version": 3,
+      "timestamp": "2025-07-07T20:01:19Z",
+      "url": "https://www.openstreetmap.org/way/1188678584"
+    }
+  ],
+  "wikidata": "Q224563",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/chi-311-south-wacker.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "311 South Wacker Drive (1990, Kohn Pedersen Fox), Chicago — original procedural geometry, CC0-1.0. bun generators/chi-311-south-wacker.ts",
+    "Map frame: x east, y north, z up, metres; origin at the anchor on the ground. Anchor = centroid of the OSM outline way/147350208, 41.877462,-87.635751. Its walls run at 358.9° / 88.9°, so the catalog bearing is 358.9 and the model is square to its own frame.",
+    "Identity, in order: the glass cylinder crown, 32 m tall, ringed by four small glass turrets on square piers at the points of the shaft; the shaft itself, a square whose corners step in so each face reads as a broad arm, in rose granite with window bays; the lower wings on its east side, north and south, to about 51 storeys, crenellated at the top; the low podium and the winter garden's glass roof on Wacker.",
+    "Evidence: - plan: OSM. The tower part way/686318733 gives the west faces at 45° and the tips: the shaft's west flat at x −8.4 (±9.6), the wings' east face at x 33 and their ends at y ±34. The crown parts give the centre (11.3, 0.2), the big cylinder r 9.3 (way/1188678576) and the turrets r 3.2 at 16 m from it (way/1188678581–84); so the shaft's flats sit at x −8.4 / 31.0, y ±19.7 (symmetric about the crown). Ingvar-fed's photo straight down from the Willis Tower shows the broad flat faces, the corners stepping in (OSM draws the steps as its 45° lines), a turret over the middle of each face and the north wing on the east side. - heights: 293 m (961 ft) to the top of the crown, published; the crown cylinder is 105 ft (32 m), published, so it starts at ~261 m. Turret piers to ~275 m and turrets to ~284 m, and the wings' top at ~205 m, measured on Hyperion924's view from the north against the shaft's 39 m width (estimates). - podium: OSM way/686318734, three levels (~13 m); the winter garden is 85 ft (26 m) tall, one level below ground (published), so its glass roof is drawn to ~20 m over the west arm (estimate). - colour: rose granite, pulled light (finish); the crown glass.",
+    "Photos (Wikimedia Commons): 311_South_Wacker_Drive_(Chicago,_IL)_from_ the_top_of_the_Willis_Tower_29Nov2007.JPG (Ingvar-fed, CC BY-SA 3.0); 311_S_Wacker_Dr_081307.jpg (Hyperion924, public domain); 311_South_Wacker_Drive.jpg (Potro, CC BY-SA 4.0); 311_South_Wacker_Drive, _Chicago,_Illinois_(9179394139).jpg and ..._from_Willis_Tower_Skydeck_ (9181595420).jpg (Ken Lund, CC BY-SA 2.0); 311_South_Wacker_20190106_ 123753.jpg (SecretName101, CC BY 4.0); Sears_(Willis)_Tower_and_311_ South_Wacker,_2013-09-21.jpg (Cbaile19, CC0). No commercial imagery.",
+    "Left out: the vertical notches in the shaft's faces, mullions, the crown's lantern mast, the podium's detail.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"chi-311-south-wacker\", model \"chi-311-south-wacker\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/chi-311-south-wacker.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 189 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the chi-311-south-wacker-glazing finish in the window colour."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

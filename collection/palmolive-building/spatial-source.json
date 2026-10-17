@@ -1,0 +1,151 @@
+{
+  "id": "palmolive-building",
+  "anchor": [
+    -87.623512,
+    41.899771
+  ],
+  "coordinateSystem": "Local metres about the anchor (equirectangular, WGS84 radius): X east, Y north, Z up. glTF export: X east, Y up, Z south. Heading already baked.",
+  "license": "ODbL-1.0",
+  "footprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -34.832948040801796,
+          15.317561933397167
+        ],
+        [
+          30.864113096412527,
+          16.263777605123945
+        ],
+        [
+          34.54294966345595,
+          16.319437350380056
+        ],
+        [
+          35.28037411035527,
+          -14.950207613441288
+        ],
+        [
+          -34.377236303795144,
+          -16.59773607745157
+        ],
+        [
+          -34.832948040801796,
+          15.317561933397167
+        ]
+      ]
+    ]
+  },
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -87.6239324,
+          41.8999086
+        ],
+        [
+          -87.6231395,
+          41.8999171
+        ],
+        [
+          -87.6230951,
+          41.8999176
+        ],
+        [
+          -87.6230862,
+          41.8996367
+        ],
+        [
+          -87.6239269,
+          41.8996219
+        ],
+        [
+          -87.6239324,
+          41.8999086
+        ]
+      ]
+    ]
+  },
+  "parts": [
+    {
+      "osm": "way/143756601",
+      "tags": {
+        "addr:city": "Chicago",
+        "addr:housenumber": "919",
+        "addr:postcode": "60611",
+        "addr:state": "IL",
+        "addr:street": "North Michigan Avenue",
+        "addr:street:name": "Michigan",
+        "addr:street:prefix": "North",
+        "addr:street:type": "Avenue",
+        "building": "apartments",
+        "building:levels": "37",
+        "chicago:building_id": "837491",
+        "heritage": "yes",
+        "name": "Palmolive Building",
+        "wikidata": "Q3387206",
+        "wikipedia": "en:Palmolive Building"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -34.832948040801796,
+              15.317561933397167
+            ],
+            [
+              30.864113096412527,
+              16.263777605123945
+            ],
+            [
+              34.54294966345595,
+              16.319437350380056
+            ],
+            [
+              35.28037411035527,
+              -14.950207613441288
+            ],
+            [
+              -34.377236303795144,
+              -16.59773607745157
+            ],
+            [
+              -34.832948040801796,
+              15.317561933397167
+            ]
+          ]
+        ]
+      },
+      "version": 9,
+      "timestamp": "2024-05-17T22:18:17Z"
+    }
+  ],
+  "osm": {
+    "type": "way",
+    "id": 143756601,
+    "version": 9,
+    "timestamp": "2024-05-17T22:18:17Z",
+    "url": "https://www.openstreetmap.org/way/143756601"
+  },
+  "additionalOsm": [],
+  "tags": {
+    "addr:city": "Chicago",
+    "addr:housenumber": "919",
+    "addr:postcode": "60611",
+    "addr:state": "IL",
+    "addr:street": "North Michigan Avenue",
+    "addr:street:name": "Michigan",
+    "addr:street:prefix": "North",
+    "addr:street:type": "Avenue",
+    "building": "apartments",
+    "building:levels": "37",
+    "chicago:building_id": "837491",
+    "heritage": "yes",
+    "name": "Palmolive Building",
+    "wikidata": "Q3387206",
+    "wikipedia": "en:Palmolive Building"
+  }
+}

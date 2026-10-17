@@ -1,0 +1,144 @@
+{
+  "id": "flamingo-chicago",
+  "name": "Flamingo",
+  "anchor": [
+    -87.6296809,
+    41.8788065
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 44020,
+      "sha256": "b2270eb154ca6ba137024165b5d2c91a8d09a70ce88d49a21e0238ac5e558cbf"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 44020,
+      "sha256": "b2270eb154ca6ba137024165b5d2c91a8d09a70ce88d49a21e0238ac5e558cbf"
+    }
+  },
+  "triangles": 664,
+  "boundsBlenderM": [
+    [
+      -9.078,
+      -5.089,
+      0
+    ],
+    [
+      8.769,
+      3.486,
+      16.2
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -87.6297904,
+          41.8787839
+        ],
+        [
+          -87.6297896,
+          41.8787813
+        ],
+        [
+          -87.6296982,
+          41.8787608
+        ],
+        [
+          -87.6296949,
+          41.8787619
+        ],
+        [
+          -87.6295773,
+          41.8788157
+        ],
+        [
+          -87.6295758,
+          41.8788165
+        ],
+        [
+          -87.6295751,
+          41.8788172
+        ],
+        [
+          -87.6295753,
+          41.8788177
+        ],
+        [
+          -87.6295768,
+          41.8788215
+        ],
+        [
+          -87.629577,
+          41.878822
+        ],
+        [
+          -87.6295781,
+          41.8788223
+        ],
+        [
+          -87.6297357,
+          41.8788378
+        ],
+        [
+          -87.6297391,
+          41.8788369
+        ],
+        [
+          -87.6297904,
+          41.8787839
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "node",
+    "id": 1299823016,
+    "version": 10,
+    "timestamp": "2024-11-25T20:34:13Z",
+    "url": "https://www.openstreetmap.org/node/1299823016"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q3073296",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/chi-flamingo.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Flamingo (Alexander Calder, 1974), Federal Plaza, Chicago — original procedural geometry, CC0-1.0.",
+    "Map frame: x east, y north, z up, metres; origin at OSM node/1299823016 (tourism=artwork, source=survey, 41.8788065, -87.6296809) on the plaza. OSM has no way or building for it, so the placement replaces nothing. The model is built square to north (bearing 0).",
+    "Identity: a 16 m stabile in vermilion \"Calder red\", all curved and tapered steel plate. One tall pointed arch whose crest is the highest point; a second, lower arch springing from near the crest and falling west into the \"body\", a knot of triangular fins at about two thirds of the height; and from the body, tapered triangular legs splayed to the ground, so the whole stands on five feet and reads as a bird stepping.",
+    "Orientation: the tall arch stands roughly east-west. From the south (Christine Zenino's and Leon Petrosyan's photos, the post office pavilion at the left and the Marquette Building behind) and from the north (JeremyA's, the Kluczynski tower behind) it is seen broadside with the body to the west; from the east (DS1953's, the post office behind) it is nearly edge-on with the fins spread south. NAIP shows the red knot of the body about 4 m west of the OSM node.",
+    "Form: - arches: rectangular box sections swept along the curve, tapering from 1.1 x 0.8 m at the crest to 0.55 m at the feet (the girders are flanged plates; a box is the plain version), smooth enough at 12 segments per leg; - body and legs: flat triangular plates 0.3 m thick, each in the vertical plane through the body and its foot, so it is broad from the side and a blade end-on, as in the photos.",
+    "Evidence: - Published (Wikidata Q3073296; Wikipedia \"Flamingo (sculpture)\"): 53 ft (16.2 m) tall, painted steel, 1974. - OSM node/1299823016 (survey) for the anchor; USGS NAIP for the body's position and the arch's east-west run (its shadow). - Photos (Wikimedia Commons): Calder_Flamingo.jpg (JeremyA, public domain, from the north); Calder-flamingo.jpg (DS1953, public domain, from the east); Flamingo_Chicago.jpg (Leon Petrosyan, CC BY-SA 3.0, from the south); Calders_Flamingo;_1973_(8248157815).jpg (Christine Zenino, CC BY 2.0); Flamingo_Calder.jpg (John Picken, public domain); Lascar_Flamingo_sculpture_(4608071498).jpg (Jorge Láscar, CC BY 2.0); vincent desjardins' series (CC BY 2.0, from the south-east, Willis Tower behind); CalderFlamingo3.jpg (2candle, CC BY-SA 3.0, from a tower above: the plan). - Colour: vermilion, kept clearly red but a little lighter and softer than the paint so it sits with the palette.",
+    "Measured off the north and south photos, scaled to 16.2 m (±1 m): the crest 4.3 m east of the middle, the feet 8.5 m east, 0.5 m east, 2 m and 9 m west, the body at 8.5-9.5 m. Estimated: the north-south spread of the legs (perspective in the east view), the section sizes, the exact fin shapes. The real fins are folded and flanged; these are flat.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"chi-flamingo\", model \"chi-flamingo\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/chi-flamingo.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

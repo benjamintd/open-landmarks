@@ -1,0 +1,182 @@
+{
+  "id": "jewelers-building",
+  "name": "Jewelers Building",
+  "anchor": [
+    -87.626793,
+    41.886527
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 140104,
+      "sha256": "d42e2a12cdbb156350f4808b78b3a60575cd6a681e834c3df7c6c2e4434101a4"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 140104,
+      "sha256": "d42e2a12cdbb156350f4808b78b3a60575cd6a681e834c3df7c6c2e4434101a4"
+    }
+  },
+  "triangles": 3414,
+  "boundsBlenderM": [
+    [
+      -25.32,
+      -21.92,
+      0
+    ],
+    [
+      25.52,
+      22.02,
+      160.65
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -87.6270998,
+          41.8867244
+        ],
+        [
+          -87.627055,
+          41.8867246
+        ],
+        [
+          -87.6268632,
+          41.8867254
+        ],
+        [
+          -87.6267934,
+          41.8867257
+        ],
+        [
+          -87.6267354,
+          41.8867259
+        ],
+        [
+          -87.6265498,
+          41.8867269
+        ],
+        [
+          -87.6264947,
+          41.886727
+        ],
+        [
+          -87.6264933,
+          41.8866941
+        ],
+        [
+          -87.6264886,
+          41.8865799
+        ],
+        [
+          -87.6264857,
+          41.8863866
+        ],
+        [
+          -87.6264852,
+          41.8863696
+        ],
+        [
+          -87.6264848,
+          41.8863566
+        ],
+        [
+          -87.626484,
+          41.8863312
+        ],
+        [
+          -87.6270967,
+          41.8863286
+        ],
+        [
+          -87.6270968,
+          41.8863386
+        ],
+        [
+          -87.6270991,
+          41.8866309
+        ],
+        [
+          -87.6270998,
+          41.8867137
+        ],
+        [
+          -87.6270998,
+          41.8867244
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 124865488,
+    "version": 14,
+    "timestamp": "2024-07-03T22:46:15Z",
+    "url": "https://www.openstreetmap.org/way/124865488"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 686198235,
+      "version": 1,
+      "timestamp": "2019-04-26T21:22:06Z",
+      "url": "https://www.openstreetmap.org/way/686198235"
+    },
+    {
+      "type": "way",
+      "id": 686198236,
+      "version": 1,
+      "timestamp": "2019-04-26T21:22:06Z",
+      "url": "https://www.openstreetmap.org/way/686198236"
+    },
+    {
+      "type": "way",
+      "id": 686198237,
+      "version": 3,
+      "timestamp": "2023-05-31T18:09:38Z",
+      "url": "https://www.openstreetmap.org/way/686198237"
+    }
+  ],
+  "wikidata": "Q2816312",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/chi-jewelers-building.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Jewelers Building (35 East Wacker, 1927, Giaver & Dinkelberg with Thielbar & Fugard), Chicago — original procedural geometry, CC0-1.0. bun generators/chi-jewelers-building.ts",
+    "Map frame: x east, y north, z up, metres; origin at the anchor on the ground. Anchor = centroid of the OSM outline way/124865488, 41.886527,-87.626793. The plan is drawn from OSM's own coordinates (faces at 89.7° / 179.5°), so the catalog bearing is 0.",
+    "Identity, in order: the domed temple on top of the tower, a square colonnaded drum with corner pinnacles under a ribbed dome and lantern; the four round tempietti, little domed colonnades, on the corners of the base's roof; the 23-storey base with the narrower tower centred on it; the cream terracotta all over.",
+    "Evidence: - plan: OSM outline 50.8 × 43.9 m (the base, way/686198237, 23 levels); the tower OSM way/686198235, 22.2 × 25.5 m, 40 levels, 160.65 m; the dome OSM way/686198236, ~12.5 m across. - heights: 160.65 m to the lantern (OSM; published 523 ft, 159 m). The base's cornice at ~88 m (23 floors of ~3.75 m and a taller ground floor) is from the proportions of Cbaile19's elevation from across the river. The tower's cornice is put at ~127 m so that the temple stage can carry what the photos show: a drum ~12 m tall, about as tall as the dome, ~17 m across (three quarters of the tower's top), and a dome ~14 m across (OSM's dome part says 12.5) with its lantern. - temple and tempietti: Cbaile19, Paul R. Burley, Antoine Taveneaux. The tempietti's size (~6.5 m across, ~20 m tall) is measured against the base's width in Cbaile19's photo. - colour: warm buff terracotta (Burley's close-up), a warm finish at the palette's lightness, the dome the same; cornices and colonnades trim.",
+    "Estimated: window bay counts (thirteen a face on the base, six on the tower, in three-storey groups), the temple's proportions within the stage, the corner pavilions' size.",
+    "Photos (Wikimedia Commons): 35_East_Wacker_Drive,_2013-09-21.jpg (Cbaile19, CC0); 35_East_Wacker_Drive_Jewelers_Building_Chicago _2017-12247.jpg (Paul R. Burley, CC BY-SA 4.0); 35_East_Wacker_2.jpg and 35_East_Wacker.JPG (Antoine Taveneaux, CC BY-SA 3.0); 35_East_Wacker,_Chicago_September_2016-41.jpg (Alvesgaspar, CC BY-SA 4.0). No commercial imagery.",
+    "Left out: the arcaded window bands, the clock, the car-lift penthouse glazing on the base's roof, sculpture.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"chi-jewelers-building\", model \"chi-jewelers-building\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/chi-jewelers-building.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

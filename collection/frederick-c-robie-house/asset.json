@@ -1,0 +1,148 @@
+{
+  "id": "frederick-c-robie-house",
+  "name": "Frederick C. Robie House",
+  "anchor": [
+    -87.595947,
+    41.789811
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 25844,
+      "sha256": "c6660bb662c170ecddb009cf18712f917f5261490f9dc3931d86b609973501a4"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 25844,
+      "sha256": "c6660bb662c170ecddb009cf18712f917f5261490f9dc3931d86b609973501a4"
+    }
+  },
+  "triangles": 419,
+  "boundsBlenderM": [
+    [
+      -25.6,
+      -10.75,
+      0
+    ],
+    [
+      22.6,
+      8.9,
+      13
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -87.5956868,
+          41.789879
+        ],
+        [
+          -87.5956862,
+          41.7898259
+        ],
+        [
+          -87.5958124,
+          41.7898241
+        ],
+        [
+          -87.5958105,
+          41.7897545
+        ],
+        [
+          -87.5958942,
+          41.7897528
+        ],
+        [
+          -87.5958938,
+          41.789741
+        ],
+        [
+          -87.5960886,
+          41.7897381
+        ],
+        [
+          -87.5960889,
+          41.7897505
+        ],
+        [
+          -87.5961757,
+          41.7897496
+        ],
+        [
+          -87.5961774,
+          41.7898268
+        ],
+        [
+          -87.5960627,
+          41.7898287
+        ],
+        [
+          -87.5960641,
+          41.7898701
+        ],
+        [
+          -87.5960034,
+          41.7898705
+        ],
+        [
+          -87.5960035,
+          41.7898761
+        ],
+        [
+          -87.5956868,
+          41.789879
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 125667497,
+    "version": 10,
+    "timestamp": "2026-08-21T23:22:40Z",
+    "url": "https://www.openstreetmap.org/way/125667497"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q929965",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/chi-robie-house.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Frederick C. Robie House, Chicago (1909–10, Frank Lloyd Wright) — original procedural geometry, CC0-1.0. bun generators/chi-robie-house.ts",
+    "Map frame: x east, y north, z up, metres; origin at the anchor on the ground. Anchor = centroid of OSM way/125667497, 41.789811, -87.595947. Bearing 0: the house runs east–west along 58th Street (its long edges at 88.7°–89.5°), drawn as it lies.",
+    "Identity: the Prairie house. Long, low horizontal masses of thin roman brick with limestone copings; a continuous band of art-glass windows on the main floor; very shallow hipped tile roofs with deep eaves, the main one cantilevered far past the west porch (the \"prow\"); a smaller third-floor belvedere with its own low hip crossing above; a broad central chimney; the lower service wing and garage court to the north- east; low brick terrace walls with stone caps.",
+    "Abstraction: each roof is one low hip with a thin fascia; the window bands are flush `window` strips between brick piers; the planters, urns, the walled garden's steps and the art-glass pattern are left out.",
+    "Evidence: - plan: OSM way/125667497 (40.7 x 15.6 m overall: the main house x −19.5..10.9, its south bay x −12..4 to y −8.1, the north rooms and the service wing to y 7.5, the garage x 10.8..21.3). Roof plan from USGS NAIP (0.1 m/px): main roof running west past the outline to x ≈ −25 over the porch, belvedere roof x ≈ −7..10, garage roof to the north-east. Wright's cantilever over the west porch is ≈ 6 m (published as about 20 ft). - heights: none in OSM. Estimated from the photos against the brick coursing and the 2 m terrace walls: brick ground storey and terrace copings ≈ 3.2 m, main-floor eaves ≈ 6.6 m, belvedere eaves ≈ 9.8 m, roofs rising ≈ 1.2–1.6 m (a very low pitch), chimney ≈ 13 m. ±1 m. - colour: red-brown roman brick, pulled light; pale limestone copings and cream soffits; red-brown clay tile roofs (salmon-red in NAIP, dark red-brown in the street photos; drawn between the two).",
+    "Doubt: at minzoom 16 this reads as \"a long low brick house with big flat roofs\", which is what the Robie House is; the art glass and the fine horizontal raking of the brick do not survive at map scale.",
+    "Photos (Wikimedia Commons): Frank_Lloyd_Wright_-_Chicago,_IL_-_Frederick_ Robie_House_(A), (F) and (G).jpg (Bmzuckerman, CC BY 4.0); Chicago,_robie_ house_di_frank_lloyd_wright,_1908-1910,_esterno_01.jpg (Sailko, CC BY 3.0); Robie_House_Exterior_05.jpg and _19.jpg (Stilfehler, CC BY-SA 4.0); two Carol M. Highsmith photos (LCCN2011634997, LCCN2011632338; public domain). USGS NAIP. No commercial imagery.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"chi-robie-house\", model \"chi-robie-house\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/chi-robie-house.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

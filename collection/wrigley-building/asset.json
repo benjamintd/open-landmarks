@@ -1,0 +1,239 @@
+{
+  "id": "wrigley-building",
+  "name": "Wrigley Building",
+  "anchor": [
+    -87.624884,
+    41.88974
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 160088,
+      "sha256": "998f9209557aa9a82ed83cc0b0ab4e809dc3db6427fe1efdba3feeabde0ed231"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 160088,
+      "sha256": "998f9209557aa9a82ed83cc0b0ab4e809dc3db6427fe1efdba3feeabde0ed231"
+    }
+  },
+  "triangles": 2770,
+  "boundsBlenderM": [
+    [
+      -27.463,
+      -50.513,
+      0
+    ],
+    [
+      42.192,
+      32.958,
+      133.5
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "MultiPolygon",
+    "coordinates": [
+      [
+        [
+          [
+            -87.6245557,
+            41.8897967
+          ],
+          [
+            -87.6245234,
+            41.8898022
+          ],
+          [
+            -87.6244959,
+            41.8898069
+          ],
+          [
+            -87.6244877,
+            41.8898083
+          ],
+          [
+            -87.6243812,
+            41.8900159
+          ],
+          [
+            -87.6243928,
+            41.890034
+          ],
+          [
+            -87.625028,
+            41.8900186
+          ],
+          [
+            -87.62521,
+            41.8900157
+          ],
+          [
+            -87.625197,
+            41.8897033
+          ],
+          [
+            -87.6251961,
+            41.8896827
+          ],
+          [
+            -87.6248713,
+            41.8897408
+          ],
+          [
+            -87.6248584,
+            41.8897431
+          ],
+          [
+            -87.6248427,
+            41.8897459
+          ],
+          [
+            -87.6245557,
+            41.8897967
+          ]
+        ]
+      ],
+      [
+        [
+          [
+            -87.6246362,
+            41.8896308
+          ],
+          [
+            -87.6246487,
+            41.8896289
+          ],
+          [
+            -87.6246739,
+            41.8896249
+          ],
+          [
+            -87.6247084,
+            41.8896191
+          ],
+          [
+            -87.6248554,
+            41.8895943
+          ],
+          [
+            -87.6248675,
+            41.8895923
+          ],
+          [
+            -87.6248836,
+            41.8895893
+          ],
+          [
+            -87.6251899,
+            41.8895322
+          ],
+          [
+            -87.6251804,
+            41.8893099
+          ],
+          [
+            -87.6251795,
+            41.8892874
+          ],
+          [
+            -87.6249032,
+            41.8893163
+          ],
+          [
+            -87.6248691,
+            41.889354
+          ],
+          [
+            -87.6248245,
+            41.8894033
+          ],
+          [
+            -87.6248041,
+            41.889426
+          ],
+          [
+            -87.624721,
+            41.8895173
+          ],
+          [
+            -87.6246265,
+            41.8896224
+          ],
+          [
+            -87.6246362,
+            41.8896308
+          ]
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "relation",
+    "id": 17460539,
+    "version": 4,
+    "timestamp": "2025-12-09T16:51:38Z",
+    "url": "https://www.openstreetmap.org/relation/17460539"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 686197567,
+      "version": 2,
+      "timestamp": "2024-04-11T20:19:03Z",
+      "url": "https://www.openstreetmap.org/way/686197567"
+    },
+    {
+      "type": "way",
+      "id": 686197572,
+      "version": 5,
+      "timestamp": "2024-04-11T20:19:03Z",
+      "url": "https://www.openstreetmap.org/way/686197572"
+    },
+    {
+      "type": "way",
+      "id": 686197576,
+      "version": 4,
+      "timestamp": "2024-04-11T20:19:03Z",
+      "url": "https://www.openstreetmap.org/way/686197576"
+    }
+  ],
+  "wikidata": "Q1464592",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/chi-wrigley-building.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Wrigley Building, Chicago (1921 south building, 1924 north addition; Graham, Anderson, Probst & White) — original procedural geometry, CC0-1.0. bun generators/chi-wrigley-building.ts",
+    "Map frame: x east, y north, z up, metres; origin at the anchor on the ground. Anchor = area-weighted centroid of the two outer ways of the OSM multipolygon relation/17460539, 41.889740,-87.624884. Bearing 0: both buildings are drawn straight from their OSM outlines, which already carry the Michigan Avenue and river angles.",
+    "Identity: two bright white glazed-terracotta blocks of the same family, the south one carrying the tall clock tower (modelled on the Giralda) at its river corner: square shaft, a clock on each face, a smaller arcaded stage, a round colonnade, a little dome and a spire. The north addition has its own small corner-turreted pavilion. Two bridges cross the plaza between them. Whiteness is the identity, so the body is the whitest colour in the set.",
+    "Evidence: - plan: OSM outer ways 68831071 (north) and 1271821350 (south) and the tower part way/686197567 (12 × 12 m, turned 34°), used as drawn. - heights: tower 133.5 m to the spire (OSM; Wikipedia 425 ft to the lantern). The rest measured on Daderot's photo from the south-east and daryl_mitchell's from the south-west, scaled to that height: south building cornice ≈ 71 m; north addition cornice ≈ 69 m, its pavilion to ≈ 86 m with a finial to ≈ 90 m (OSM gives 89.6 m for the north part, which matches the finial); tower shaft to the clock stage ≈ 96 m, clock centres ≈ 101 m, clock-stage cornice ≈ 108 m, arcaded stage to ≈ 117 m, colonnade to ≈ 123 m, dome to ≈ 126 m. Expect ±3 m. - estimated: the pavilion sits at the middle of the north addition's plaza front (both photos show it near the middle of that face); the two bridges' position along the plaza (3rd and 14th floors are published; the x position is a guess near Michigan Avenue). - colour: glazed white terracotta, as bright as the palette allows.",
+    "Photos (Wikimedia Commons): Wrigley_Building_-_Chicago,_Illinois.JPG (Daderot, CC BY-SA 3.0); Wrigley_Building_1_(31887261212).jpg (daryl_mitchell, CC BY-SA 2.0); The_Wrigley_Building_(52039374040).jpg (Chris Rycroft, CC BY 2.0); Wrigley_Building_(51265926963).jpg (Joe Passe, CC BY-SA 2.0); Wrigley_Building_(53923925274).jpg (Matthew Bellemare, CC BY-SA 2.0); Wrigley_Building_(15439588237).jpg (Tony Hisgett, CC BY 2.0). No commercial imagery.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"chi-wrigley-building\", model \"chi-wrigley-building\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/chi-wrigley-building.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 56 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the chi-wrigley-building-glazing finish in the window colour."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

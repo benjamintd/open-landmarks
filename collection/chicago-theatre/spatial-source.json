@@ -1,0 +1,317 @@
+{
+  "id": "chicago-theatre",
+  "anchor": [
+    -87.627238,
+    41.885396
+  ],
+  "coordinateSystem": "Local metres about the anchor (equirectangular, WGS84 radius): X east, Y north, Z up. glTF export: X east, Y up, Z south. Heading already baked.",
+  "license": "ODbL-1.0",
+  "footprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          27.879260575488978,
+          28.019115832638438
+        ],
+        [
+          28.890339585669526,
+          -23.866898825775447
+        ],
+        [
+          20.23815526954457,
+          -23.80010713130992
+        ],
+        [
+          -12.911976210452483,
+          -23.5218084042384
+        ],
+        [
+          -17.14690550764601,
+          -23.488412557401126
+        ],
+        [
+          -21.522722863509692,
+          -23.53294035344782
+        ],
+        [
+          -39.78844530813892,
+          -23.399356964516763
+        ],
+        [
+          -39.79673284169465,
+          -14.393610159298248
+        ],
+        [
+          -39.813307907628385,
+          -5.398995303289149
+        ],
+        [
+          -19.691178098442233,
+          -5.343335558033039
+        ],
+        [
+          -20.246442800744845,
+          27.774212953195164
+        ],
+        [
+          -16.11096389915373,
+          27.79647685082303
+        ],
+        [
+          -12.613625027178442,
+          27.818740749241858
+        ],
+        [
+          27.879260575488978,
+          28.019115832638438
+        ]
+      ]
+    ]
+  },
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -87.6269016,
+          41.8856477
+        ],
+        [
+          -87.6268894,
+          41.8851816
+        ],
+        [
+          -87.6269938,
+          41.8851822
+        ],
+        [
+          -87.6273938,
+          41.8851847
+        ],
+        [
+          -87.6274449,
+          41.885185
+        ],
+        [
+          -87.6274977,
+          41.8851846
+        ],
+        [
+          -87.6277181,
+          41.8851858
+        ],
+        [
+          -87.6277182,
+          41.8852667
+        ],
+        [
+          -87.6277184,
+          41.8853475
+        ],
+        [
+          -87.6274756,
+          41.885348
+        ],
+        [
+          -87.6274823,
+          41.8856455
+        ],
+        [
+          -87.6274324,
+          41.8856457
+        ],
+        [
+          -87.6273902,
+          41.8856459
+        ],
+        [
+          -87.6269016,
+          41.8856477
+        ]
+      ]
+    ]
+  },
+  "parts": [
+    {
+      "osm": "way/124873919",
+      "tags": {
+        "addr:city": "Chicago",
+        "addr:housenumber": "175",
+        "addr:postcode": "60601",
+        "addr:state": "IL",
+        "addr:street": "North State Street",
+        "addr:street:name": "State",
+        "addr:street:prefix": "North",
+        "addr:street:type": "Street",
+        "amenity": "theatre",
+        "building": "commercial",
+        "building:levels": "6",
+        "chicago:building_id": "814343",
+        "ele": "182",
+        "gnis:feature_id": "1826013",
+        "heritage": "yes",
+        "historic": "building",
+        "image": "https://commons.wikimedia.org/wiki/File:Chicago_Theatre_blend.jpg",
+        "name": "Chicago Theatre",
+        "name:en": "Chicago Theatre",
+        "old_name": "Balaban and Katz Chicago Theatre",
+        "ref:nrhp": "79000822",
+        "source": "USGS Geonames",
+        "start_date": "1921-10-26",
+        "website": "https://www.thechicagotheatre.com",
+        "wikidata": "Q642866",
+        "wikipedia": "en:Chicago Theatre"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              27.879260575488978,
+              28.019115832638438
+            ],
+            [
+              28.890339585669526,
+              -23.866898825775447
+            ],
+            [
+              20.23815526954457,
+              -23.80010713130992
+            ],
+            [
+              -12.911976210452483,
+              -23.5218084042384
+            ],
+            [
+              -17.14690550764601,
+              -23.488412557401126
+            ],
+            [
+              -21.522722863509692,
+              -23.53294035344782
+            ],
+            [
+              -39.78844530813892,
+              -23.399356964516763
+            ],
+            [
+              -39.79673284169465,
+              -14.393610159298248
+            ],
+            [
+              -39.813307907628385,
+              -5.398995303289149
+            ],
+            [
+              -19.691178098442233,
+              -5.343335558033039
+            ],
+            [
+              -20.246442800744845,
+              27.774212953195164
+            ],
+            [
+              -16.11096389915373,
+              27.79647685082303
+            ],
+            [
+              -12.613625027178442,
+              27.818740749241858
+            ],
+            [
+              27.879260575488978,
+              28.019115832638438
+            ]
+          ]
+        ]
+      },
+      "version": 14,
+      "timestamp": "2026-03-04T19:18:23Z"
+    },
+    {
+      "osm": "way/1176843051",
+      "tags": {
+        "building": "roof",
+        "layer": "1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.77762699515857,
+              -5.410127252498565
+            ],
+            [
+              -47.75276439684684,
+              -23.410488913726184
+            ],
+            [
+              -39.78844530813892,
+              -23.399356964516763
+            ],
+            [
+              -39.79673284169465,
+              -14.393610159298248
+            ],
+            [
+              -39.813307907628385,
+              -5.398995303289149
+            ],
+            [
+              -47.77762699515857,
+              -5.410127252498565
+            ]
+          ]
+        ]
+      },
+      "version": 1,
+      "timestamp": "2023-05-28T05:33:59Z"
+    }
+  ],
+  "osm": {
+    "type": "way",
+    "id": 124873919,
+    "version": 14,
+    "timestamp": "2026-03-04T19:18:23Z",
+    "url": "https://www.openstreetmap.org/way/124873919"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 1176843051,
+      "version": 1,
+      "timestamp": "2023-05-28T05:33:59Z",
+      "url": "https://www.openstreetmap.org/way/1176843051"
+    }
+  ],
+  "tags": {
+    "addr:city": "Chicago",
+    "addr:housenumber": "175",
+    "addr:postcode": "60601",
+    "addr:state": "IL",
+    "addr:street": "North State Street",
+    "addr:street:name": "State",
+    "addr:street:prefix": "North",
+    "addr:street:type": "Street",
+    "amenity": "theatre",
+    "building": "commercial",
+    "building:levels": "6",
+    "chicago:building_id": "814343",
+    "ele": "182",
+    "gnis:feature_id": "1826013",
+    "heritage": "yes",
+    "historic": "building",
+    "image": "https://commons.wikimedia.org/wiki/File:Chicago_Theatre_blend.jpg",
+    "name": "Chicago Theatre",
+    "name:en": "Chicago Theatre",
+    "old_name": "Balaban and Katz Chicago Theatre",
+    "ref:nrhp": "79000822",
+    "source": "USGS Geonames",
+    "start_date": "1921-10-26",
+    "website": "https://www.thechicagotheatre.com",
+    "wikidata": "Q642866",
+    "wikipedia": "en:Chicago Theatre"
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "id": "holy-name-cathedral",
+  "name": "Holy Name Cathedral",
+  "anchor": [
+    -87.627533,
+    41.895984
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 41264,
+      "sha256": "9727a219adbfcf7f7ff4ebae8b4835d6db44eeec1828339ac76ae5f7ec0227d6"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 41264,
+      "sha256": "9727a219adbfcf7f7ff4ebae8b4835d6db44eeec1828339ac76ae5f7ec0227d6"
+    }
+  },
+  "triangles": 724,
+  "boundsBlenderM": [
+    [
+      -38.515,
+      -20.373,
+      0
+    ],
+    [
+      35.003,
+      21.489,
+      64
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -87.6279822,
+          41.8960884
+        ],
+        [
+          -87.6276669,
+          41.8960943
+        ],
+        [
+          -87.6276685,
+          41.8961267
+        ],
+        [
+          -87.6273808,
+          41.896131
+        ],
+        [
+          -87.6273826,
+          41.8961736
+        ],
+        [
+          -87.6271692,
+          41.8961782
+        ],
+        [
+          -87.6271686,
+          41.896102
+        ],
+        [
+          -87.6271459,
+          41.8961022
+        ],
+        [
+          -87.6271462,
+          41.896077
+        ],
+        [
+          -87.6271265,
+          41.8960779
+        ],
+        [
+          -87.627124,
+          41.895966
+        ],
+        [
+          -87.6271582,
+          41.895966
+        ],
+        [
+          -87.627155,
+          41.8958381
+        ],
+        [
+          -87.6271776,
+          41.8958049
+        ],
+        [
+          -87.627234,
+          41.895804
+        ],
+        [
+          -87.6272612,
+          41.8958395
+        ],
+        [
+          -87.6276599,
+          41.8958348
+        ],
+        [
+          -87.6276614,
+          41.8958681
+        ],
+        [
+          -87.6279111,
+          41.8958641
+        ],
+        [
+          -87.6279089,
+          41.8958052
+        ],
+        [
+          -87.6279901,
+          41.8958036
+        ],
+        [
+          -87.6279936,
+          41.8959179
+        ],
+        [
+          -87.6279798,
+          41.8959189
+        ],
+        [
+          -87.6279822,
+          41.8960884
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 75684994,
+    "version": 13,
+    "timestamp": "2025-08-26T01:23:47Z",
+    "url": "https://www.openstreetmap.org/way/75684994"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q2942930",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/chi-holy-name-cathedral.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Holy Name Cathedral, Chicago (1874–75, Patrick Keely) — original procedural geometry, CC0-1.0. bun generators/chi-holy-name-cathedral.ts",
+    "Map frame: x east, y north, z up, metres; origin at the anchor on the ground. Anchor = centroid of the OSM outline way/75684994, 41.895984,-87.627533. The outline's edges run at 88.7° / 178.7°, so the catalog bearing is 358.7 and the church is square to this frame. The front faces west onto State Street; the apse is east.",
+    "Identity: the pale limestone gabled west front with its big rose window over the pointed portal, and the single square tower at its south-west corner carrying a tall, dark slate octagonal spire with corner pinnacles. Second: the cruciform roof plan (nave, transepts, apse) in grey slate.",
+    "Evidence: - plan: OSM outline (published 233 × 126 ft, i.e. 71 × 38 m, matches its 72 × 40 m). The roof plan — nave and chancel ≈ 19 m wide under one roof, transept across x ≈ -11 to -1, a rounded apse at the east, lower chapels along the sides — is read off USGS NAIP. - heights: spire 64 m (Wikipedia, 210 ft); interior ceiling 21 m (Wikipedia). The rest measured on AlasdairW's frontal photo from the west, scaled so the spire is 64 m: front gable apex ≈ 32 m, nave eaves ≈ 22 m, aisle and chapel eaves ≈ 13 m, tower cornice ≈ 40 m, belfry lancet ≈ 27.5–34 m, rose window centre ≈ 19 m (radius ≈ 3.9 m). Measured against the OSM front width instead, the same photo gives a spire nearer 70 m; the published figure wins (expect ±3 m on the others). - estimated: the tower is ≈ 11 m square (the photo shows it at 0.6 of the gable's width; OSM's south-west block is 12.7 m wide but only 6.7 m deep, so the tower is taken to run back into the aisle); the east chapels' roofs; the transept ridge height (taken equal to the nave's). - colour: buff-grey limestone, grey slate roofs, near-black slate spire held at charcoal.",
+    "Photos (Wikimedia Commons): DSCN9250_Holy_Name_Cathedral.jpg (AlasdairW, CC BY-SA 3.0); Holy_Name_Cathedral_-_Chicago_01.jpg, _02.jpg (Farragutful, CC BY-SA 4.0); 20190421_03_Superior_St._near_Dearborn_St. _(49699196441).jpg and 20110219_42_Holy_Name_Cathedral_(5498041069).jpg (David Wilson, CC BY 2.0); Holy_Name_Cathedral_Structure.jpg (Raymond Tambunan, CC BY-SA 3.0); Holy_Names_Cathedral,_Chicago,_Illinois _(Landscape_style).jpg (TreShon Woods, CC BY-SA 4.0). USGS NAIP for the roof plan. No commercial imagery.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"chi-holy-name-cathedral\", model \"chi-holy-name-cathedral\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/chi-holy-name-cathedral.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

@@ -1,0 +1,207 @@
+{
+  "id": "harold-washington-library-center",
+  "name": "Harold Washington Library Center",
+  "anchor": [
+    -87.6282122,
+    41.8763227
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 102924,
+      "sha256": "df27a72a3bd7ef048c71f06a92c434f9febde2dd4745b110690ea515c837cc5b"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 102924,
+      "sha256": "df27a72a3bd7ef048c71f06a92c434f9febde2dd4745b110690ea515c837cc5b"
+    }
+  },
+  "triangles": 2218,
+  "boundsBlenderM": [
+    [
+      -33.035,
+      -55.973,
+      0
+    ],
+    [
+      33.541,
+      55.581,
+      63.87
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -87.6285714,
+          41.8758303
+        ],
+        [
+          -87.6285746,
+          41.8759671
+        ],
+        [
+          -87.6285763,
+          41.8760399
+        ],
+        [
+          -87.6285779,
+          41.8761094
+        ],
+        [
+          -87.6285807,
+          41.876232
+        ],
+        [
+          -87.6285849,
+          41.8764129
+        ],
+        [
+          -87.6285866,
+          41.8765378
+        ],
+        [
+          -87.6285882,
+          41.8766142
+        ],
+        [
+          -87.6285895,
+          41.8766755
+        ],
+        [
+          -87.6285923,
+          41.8768034
+        ],
+        [
+          -87.6284647,
+          41.8768049
+        ],
+        [
+          -87.628226,
+          41.8768072
+        ],
+        [
+          -87.6279986,
+          41.8768095
+        ],
+        [
+          -87.6278453,
+          41.8768119
+        ],
+        [
+          -87.6278442,
+          41.8766468
+        ],
+        [
+          -87.6278437,
+          41.8765696
+        ],
+        [
+          -87.6278431,
+          41.8764885
+        ],
+        [
+          -87.6278421,
+          41.8763479
+        ],
+        [
+          -87.6278419,
+          41.8763262
+        ],
+        [
+          -87.6278413,
+          41.8762403
+        ],
+        [
+          -87.6278408,
+          41.8761599
+        ],
+        [
+          -87.6278402,
+          41.8760689
+        ],
+        [
+          -87.6278397,
+          41.8760027
+        ],
+        [
+          -87.6278385,
+          41.8758393
+        ],
+        [
+          -87.6279748,
+          41.8758385
+        ],
+        [
+          -87.6280905,
+          41.8758362
+        ],
+        [
+          -87.6282085,
+          41.8758348
+        ],
+        [
+          -87.6283196,
+          41.8758334
+        ],
+        [
+          -87.628442,
+          41.8758317
+        ],
+        [
+          -87.6285714,
+          41.8758303
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 28292694,
+    "version": 23,
+    "timestamp": "2025-12-12T03:08:53Z",
+    "url": "https://www.openstreetmap.org/way/28292694"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q3127656",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/chi-harold-washington-library.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Harold Washington Library Center (400 South State Street, 1991, Hammond, Beeby and Babka; acroteria 1993, Kent Bloomer with owls by Raymond Kaskey), Chicago — original procedural geometry, CC0-1.0. bun generators/chi-harold-washington-library.ts",
+    "Map frame: x east, y north, z up, metres; origin at the anchor on the ground. Anchor = centroid of the OSM outline way/28292694, 41.8763227,-87.6282122. Its walls run at 359.1° / 89.1°, so the catalog bearing is 359.1 and the block is square to this frame.",
+    "Identity, in order: the seven big green acroteria — owls in foliage on the four corners and the State Street (east) centre, seed pods at the centres of the Van Buren (north) and Congress (south) sides — drawn as bold flat palmettes; the steep green-ribbed glass \"pediment\" roof over a heavy projecting green cornice; the red brick walls with five-storey arched windows (three to the short sides, five to State Street) over a granite base with arched entrances; the glass west wall on Plymouth Court.",
+    "Evidence: - plan: OSM outline, 61.9 x 107.6 m. The roof from USGS NAIP: the glass slope round the edge, a pale vault running north-south down the middle (~24 m wide) and a glass crossing (~32 m square) at its centre with hipped glazing. - heights: OSM gives 10 levels. Measured on Beyond My Ken's view of the south side, scaled by its 61.9 m width: granite base ~12 m, cornice ~44 m, glass roof slope ~9 m. Corner acroteria ~19 m tall, from the same photo and Ken Lund's view of the south-east corner. All estimates within a few metres; no published height was found. Acroteria ~19 m tall including the fan's tip, ~17 m wide at the scrolls. - acroteria positions and subjects: Wikipedia (Exterior section) and the photos. - colour: red brick and pink granite, pulled to the palette's lightness; the cornice, ribs and acroteria in weathered green (patina).",
+    "Photos (Wikimedia Commons): Harold_Washington_Library_from_southeast.jpg, _from_southwest.jpg, _from_east.jpg, _southern_acroterion.jpg (Beyond My Ken, CC BY-SA 4.0); Harold_Washington_Library,_Chicago,_Illinois_ (9181548762).jpg (Ken Lund, CC BY-SA 2.0); Harold_Washington_Library_ Chicago_Acroterion_2019-1533.jpg (Paul R. Burley, CC BY-SA 4.0). USGS NAIP for the roof. No commercial imagery.",
+    "Left out: the rope friezes, garlands and medallions, cornice brackets, the window mullions, the arches' stepped reveals.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"chi-harold-washington-library\", model \"chi-harold-washington-library\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/chi-harold-washington-library.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

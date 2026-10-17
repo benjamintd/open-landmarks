@@ -1,0 +1,283 @@
+{
+  "id": "chicago-board-of-trade-building",
+  "name": "Chicago Board of Trade Building",
+  "anchor": [
+    -87.631869,
+    41.877411
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 134660,
+      "sha256": "0f768b5a8bae2a046649a3c7aa3266d8c0140082f401af1cf9771ac50f03197f"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 134660,
+      "sha256": "0f768b5a8bae2a046649a3c7aa3266d8c0140082f401af1cf9771ac50f03197f"
+    }
+  },
+  "triangles": 2364,
+  "boundsBlenderM": [
+    [
+      -65.188,
+      -49.791,
+      0
+    ],
+    [
+      79.486,
+      70.794,
+      184
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -87.6320122,
+          41.8769675
+        ],
+        [
+          -87.6325046,
+          41.876961
+        ],
+        [
+          -87.6325054,
+          41.876992
+        ],
+        [
+          -87.6325612,
+          41.8769919
+        ],
+        [
+          -87.6325836,
+          41.8769918
+        ],
+        [
+          -87.6326031,
+          41.8769911
+        ],
+        [
+          -87.6326039,
+          41.8770381
+        ],
+        [
+          -87.6326266,
+          41.877037
+        ],
+        [
+          -87.6326468,
+          41.8770372
+        ],
+        [
+          -87.6326543,
+          41.877528
+        ],
+        [
+          -87.6326353,
+          41.877528
+        ],
+        [
+          -87.6325939,
+          41.8775284
+        ],
+        [
+          -87.6326026,
+          41.8780436
+        ],
+        [
+          -87.6323835,
+          41.8780472
+        ],
+        [
+          -87.632288,
+          41.8780476
+        ],
+        [
+          -87.6321925,
+          41.878048
+        ],
+        [
+          -87.6319696,
+          41.8780505
+        ],
+        [
+          -87.6319595,
+          41.8776327
+        ],
+        [
+          -87.6319243,
+          41.8776331
+        ],
+        [
+          -87.6317336,
+          41.8776342
+        ],
+        [
+          -87.6317,
+          41.8776344
+        ],
+        [
+          -87.6317029,
+          41.8776402
+        ],
+        [
+          -87.6309137,
+          41.8776455
+        ],
+        [
+          -87.6309181,
+          41.8776097
+        ],
+        [
+          -87.6309157,
+          41.8773725
+        ],
+        [
+          -87.6309153,
+          41.8773345
+        ],
+        [
+          -87.6309121,
+          41.8770203
+        ],
+        [
+          -87.6309116,
+          41.8769792
+        ],
+        [
+          -87.6316891,
+          41.8769684
+        ],
+        [
+          -87.6316912,
+          41.8770545
+        ],
+        [
+          -87.6317138,
+          41.8770543
+        ],
+        [
+          -87.6317969,
+          41.8770532
+        ],
+        [
+          -87.6318609,
+          41.8770524
+        ],
+        [
+          -87.631887,
+          41.8770521
+        ],
+        [
+          -87.6319288,
+          41.8770514
+        ],
+        [
+          -87.6319277,
+          41.8770169
+        ],
+        [
+          -87.6320134,
+          41.8770155
+        ],
+        [
+          -87.6320122,
+          41.8769675
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 28951633,
+    "version": 24,
+    "timestamp": "2025-07-01T03:43:03Z",
+    "url": "https://www.openstreetmap.org/way/28951633"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 685519266,
+      "version": 4,
+      "timestamp": "2023-07-12T18:38:39Z",
+      "url": "https://www.openstreetmap.org/way/685519266"
+    },
+    {
+      "type": "way",
+      "id": 685519267,
+      "version": 2,
+      "timestamp": "2025-08-29T16:23:47Z",
+      "url": "https://www.openstreetmap.org/way/685519267"
+    },
+    {
+      "type": "way",
+      "id": 685519269,
+      "version": 4,
+      "timestamp": "2025-08-29T16:23:47Z",
+      "url": "https://www.openstreetmap.org/way/685519269"
+    },
+    {
+      "type": "way",
+      "id": 685519270,
+      "version": 3,
+      "timestamp": "2025-08-29T16:23:47Z",
+      "url": "https://www.openstreetmap.org/way/685519270"
+    },
+    {
+      "type": "way",
+      "id": 1425860168,
+      "version": 1,
+      "timestamp": "2025-08-29T16:23:47Z",
+      "url": "https://www.openstreetmap.org/way/1425860168"
+    },
+    {
+      "type": "way",
+      "id": 1425860169,
+      "version": 1,
+      "timestamp": "2025-08-29T16:23:47Z",
+      "url": "https://www.openstreetmap.org/way/1425860169"
+    }
+  ],
+  "wikidata": "Q2224700",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/chi-board-of-trade.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Chicago Board of Trade Building (141 West Jackson, 1930, Holabird & Root), with Helmut Jahn's 1980 annex and the 1997 trading-floor building, which share its OSM outline — original procedural geometry, CC0-1.0. bun generators/chi-board-of-trade.ts",
+    "Also exports the few helpers the other chi- models by the same builder use (Rookery, Chase Tower, Chicago Temple, 311 South Wacker); the CBOT model is only written when this file runs itself.",
+    "Map frame: x east, y north, z up, metres; origin at the anchor on the ground. Anchor = centroid of the OSM outline way/28951633, 41.877411,-87.631869. Its walls run at 359.2° / 89.2°, so the catalog bearing is 359.2 and the model is square to its own frame.",
+    "Identity, in order: the pale limestone tower at the foot of LaSalle Street, stepping in to a steep grey hipped pyramid carrying the aluminium Ceres; the two 21-storey wings flanking a deep court over the base; the base's six tall trading-room windows under the clock; behind it the dark 1980 annex with its own glazed hipped roof.",
+    "Evidence: - plan: OSM outline and parts (way/685519267 tower 40.4 × 18.6 m, way/685519269 the 21-storey mass with the court notched out of its north side, way/1425860169 the annex's hipped top, way/685519266 the 1997 building). Published: the 1930 site is 174 ft (53 m) on Jackson. - heights: 184 m to the top of Ceres (published, OSM). Ceres is 31 ft (9.4 m, published). Measured on TonyTheTiger's long telephoto up LaSalle, scaled by Ceres and the 13 ft clock (~23 px/m, consistent): pyramid eaves ~163 m, its apex ~173 m under Ceres' ~3 m frame, tower setbacks at ~148 m and ~134 m, wing parapets ~95 m (penthouses to ~102 m), clock centre ~51 m. Tower widths from the same photo: 30 m at the top tier (both eaves of the pyramid in frame), 35 m, then the 40.4 m of OSM; the pyramid's ridge is short (~5 m). Depth N-S: OSM says 18.6 m, Paul Sableman's side view of the top suggests ~22 m; the model uses 22.6 m below and 20 m at the top (estimate). - annex: 23 storeys, 275 ft (84 m), published; the hipped glazed roof, ridge north-south, from Ken Lund's view down from the Willis Tower. Its eaves (~70 m) and the side wings (~62 m) are estimates. - 1997 building: five tall trading storeys (published), OSM 7 levels; 34 m is an estimate. - colour: grey Indiana limestone (stone); the pyramid's weathered metal a silvery green-grey finish sampled from the telephoto, shared by the flat roofs; Ceres and the clock ring aluminium; the annex black and silver glass (a dark window variant, pulled to the palette's lightness), its roof glazing in the same.",
+    "Photos (Wikimedia Commons): 20120929_Chicago_Board_of_Trade_Building.JPG (TonyTheTiger, CC BY-SA 3.0); Big_Board_of_Trade_(16914319605).jpg (Amaury Laporte, CC BY 2.0); Board_of_Trade.JPG (Blhayes87, CC BY-SA 3.0); Chicago_Board_of_Trade_Building_(26945016856).jpg (Paul Sableman, CC BY 2.0); Chicago_Board_of_Trade_Building,_Chicago,_Illinois_ (41583872700).jpg (Ken Lund, CC BY-SA 2.0); Three_exchanges_CBOT,_CME, _and_Chicago_Stock_Exchange_(3371956274).jpg (JohnPickenPhoto, CC BY 2.0); Closeup_of_bacskide_of_Board_of_Trade_(2330832267).jpg (Dan Perry, CC BY 2.0). USGS NAIP for the plan. No commercial imagery.",
+    "Left out: the hooded figures at the tower's corners, the bulls, the lettering, mullions, the annex's octagonal ornament.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"chi-board-of-trade\", model \"chi-board-of-trade\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/chi-board-of-trade.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

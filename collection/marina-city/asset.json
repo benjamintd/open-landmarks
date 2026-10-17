@@ -1,0 +1,333 @@
+{
+  "id": "marina-city",
+  "name": "Marina City",
+  "anchor": [
+    -87.6288135,
+    41.888083
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 203492,
+      "sha256": "ca6515afe712ba892bf581b384db03672d6a01b6b2d71ab1afc4fd6b2fab50b4"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 203492,
+      "sha256": "ca6515afe712ba892bf581b384db03672d6a01b6b2d71ab1afc4fd6b2fab50b4"
+    }
+  },
+  "triangles": 6293,
+  "boundsBlenderM": [
+    [
+      -49.75,
+      -33.31,
+      0
+    ],
+    [
+      46.55,
+      33.75,
+      170.5
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -87.6292329,
+          41.8881211
+        ],
+        [
+          -87.6292476,
+          41.8881164
+        ],
+        [
+          -87.6293104,
+          41.8880834
+        ],
+        [
+          -87.629318,
+          41.8880778
+        ],
+        [
+          -87.6293218,
+          41.8880751
+        ],
+        [
+          -87.6293318,
+          41.8880624
+        ],
+        [
+          -87.6293418,
+          41.8880496
+        ],
+        [
+          -87.6293611,
+          41.8880251
+        ],
+        [
+          -87.6293678,
+          41.8880142
+        ],
+        [
+          -87.6293712,
+          41.8879973
+        ],
+        [
+          -87.629379,
+          41.8879584
+        ],
+        [
+          -87.6293799,
+          41.8879465
+        ],
+        [
+          -87.6293791,
+          41.887944
+        ],
+        [
+          -87.6293608,
+          41.8878909
+        ],
+        [
+          -87.6293559,
+          41.8878795
+        ],
+        [
+          -87.6293158,
+          41.8878377
+        ],
+        [
+          -87.6293121,
+          41.8878341
+        ],
+        [
+          -87.6293028,
+          41.8878254
+        ],
+        [
+          -87.6292379,
+          41.8877956
+        ],
+        [
+          -87.6292222,
+          41.8877897
+        ],
+        [
+          -87.6291389,
+          41.8877805
+        ],
+        [
+          -87.6291213,
+          41.8877814
+        ],
+        [
+          -87.6290489,
+          41.887794
+        ],
+        [
+          -87.6290345,
+          41.8877982
+        ],
+        [
+          -87.629007,
+          41.8878123
+        ],
+        [
+          -87.6289773,
+          41.8878276
+        ],
+        [
+          -87.6289705,
+          41.8878311
+        ],
+        [
+          -87.6289588,
+          41.8878406
+        ],
+        [
+          -87.6289419,
+          41.887858
+        ],
+        [
+          -87.6289186,
+          41.8878886
+        ],
+        [
+          -87.6289137,
+          41.887898
+        ],
+        [
+          -87.6289119,
+          41.8879053
+        ],
+        [
+          -87.6289108,
+          41.8879098
+        ],
+        [
+          -87.6289099,
+          41.8879146
+        ],
+        [
+          -87.6289011,
+          41.8879571
+        ],
+        [
+          -87.6289018,
+          41.8879717
+        ],
+        [
+          -87.628917,
+          41.888026
+        ],
+        [
+          -87.6289246,
+          41.8880365
+        ],
+        [
+          -87.6289471,
+          41.8880628
+        ],
+        [
+          -87.6289564,
+          41.8880713
+        ],
+        [
+          -87.6289682,
+          41.8880821
+        ],
+        [
+          -87.6289812,
+          41.8880913
+        ],
+        [
+          -87.6290484,
+          41.8881232
+        ],
+        [
+          -87.6290635,
+          41.8881271
+        ],
+        [
+          -87.6291414,
+          41.8881352
+        ],
+        [
+          -87.6291554,
+          41.8881348
+        ],
+        [
+          -87.6292329,
+          41.8881211
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 1177923716,
+    "version": 6,
+    "timestamp": "2026-03-17T18:30:10Z",
+    "url": "https://www.openstreetmap.org/way/1177923716"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 1177923717,
+      "version": 4,
+      "timestamp": "2024-04-15T19:22:42Z",
+      "url": "https://www.openstreetmap.org/way/1177923717"
+    },
+    {
+      "type": "way",
+      "id": 1177923718,
+      "version": 3,
+      "timestamp": "2024-04-15T19:22:42Z",
+      "url": "https://www.openstreetmap.org/way/1177923718"
+    },
+    {
+      "type": "way",
+      "id": 1177923719,
+      "version": 1,
+      "timestamp": "2023-05-31T16:48:55Z",
+      "url": "https://www.openstreetmap.org/way/1177923719"
+    },
+    {
+      "type": "way",
+      "id": 284822929,
+      "version": 6,
+      "timestamp": "2026-03-17T18:30:10Z",
+      "url": "https://www.openstreetmap.org/way/284822929"
+    },
+    {
+      "type": "way",
+      "id": 284822924,
+      "version": 5,
+      "timestamp": "2024-04-15T19:22:42Z",
+      "url": "https://www.openstreetmap.org/way/284822924"
+    },
+    {
+      "type": "way",
+      "id": 284822930,
+      "version": 1,
+      "timestamp": "2014-05-28T13:21:03Z",
+      "url": "https://www.openstreetmap.org/way/284822930"
+    },
+    {
+      "type": "way",
+      "id": 284822932,
+      "version": 1,
+      "timestamp": "2014-05-28T13:21:03Z",
+      "url": "https://www.openstreetmap.org/way/284822932"
+    },
+    {
+      "type": "way",
+      "id": 1177923721,
+      "version": 6,
+      "timestamp": "2026-06-12T17:43:26Z",
+      "url": "https://www.openstreetmap.org/way/1177923721"
+    }
+  ],
+  "wikidata": "Q653584",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/chi-marina-city.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Marina City, Chicago (1964–68, Bertrand Goldberg) — original procedural geometry, CC0-1.0. bun generators/chi-marina-city.ts",
+    "Map frame: x east, y north, z up, metres; origin at the anchor on the ground. Anchor = midpoint of the two tower centroids (OSM way/1177923716, Marina City 1, and way/284822929, Marina City 2), 41.888083,-87.6288135. Bearing 0: the towers are round and the theatre is drawn from its OSM outline as it lies.",
+    "Identity: twin round concrete \"corncob\" towers. Sixteen semicircular balconies ring every apartment floor, stacked into petals from the 21st floor to the top; below them, a smooth round spiral parking garage whose open floors show as pale slab edges over dark openings; between the two, a recessed service floor. Second: the low theatre (now House of Blues) between the towers, with its humped slate roof and pale rim.",
+    "The towers are abstracted: one scalloped balcony drum stands for about three to four apartment floors (12 drums for floors 21–60), with a narrow dark gap between drums so the stack reads as a dense cob; the garage keeps one white slab edge per two parking levels. The 16 semicircular petals and the plan are real. A slab per apartment floor would cost ~25k triangles.",
+    "Evidence: - plan: OSM. Tower outlines 39.5 m across the balcony tips with 16 lobes, tips at multiples of 22.5° (read off the outline's nodes; NAIP shows the same 16 scallops). Body/glass part way/1177923718 (≈ 33 m). Theatre outline way/1177923721, used as drawn. - heights: balconies to 167.5 m (OSM); 65 floors, garage on floors 1–19, apartments 21–60 (Wikipedia). Garage top ≈ 52 m and the service floor 52–55.5 m follow from those floor counts and Rycroft's photos of the parking levels. Theatre height measured against the garage floors in the Chicago Architecture Today photo (estimate, ±2 m). Its roof is drawn as a gentle saddle, ≈ 16 m at the ends and ≈ 12 m mid-length; the real shell is more complex. - the roof: flat, with a low penthouse 3 m over the top balcony ring, as the photos show it. OSM's lift-core part way/1177923719 says 179.2 m and Wikipedia gives 179 m (587 ft) overall; nothing that tall shows over the top ring in any photo, so the published figure presumably counts rooftop plant or a mast and is not modelled. - y = 0 is the plaza / street level; the river-level marina and restaurants under the plaza are separate OSM buildings and are left alone. - colour: pale cream concrete (OSM building:colour #FEF0C9 agrees), dark glazing behind the balconies, dark garage interiors, grey slate theatre.",
+    "Photos (Wikimedia Commons): Chicago_in_2022_Marina_City_tower_(52051544860) and Chicago_in_2022_Top_of_the_Marina_City_tower_(52049999707) (Chris Rycroft, CC BY 2.0); Corn_Cobs_copy.jpg (Victor Grigas, CC BY-SA 4.0); Chicago_-_\"Corn_Cob_Towers\"_(302029774).jpg (Tony Webster, CC BY 2.0); Chicago_Jetsons_(3536341617).jpg (Mobilus In Mobili, CC BY 2.0); House_of_Blues_-_Exterior_3_(8400395917).jpg (Chicago Architecture Today, CC BY 2.0); House_of_Blues_(24253613608).jpg (Olivier Bruchez, CC BY-SA 2.0). USGS NAIP for the plan. No commercial imagery.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"chi-marina-city\", model \"chi-marina-city\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/chi-marina-city.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 22287 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the chi-marina-city-glazing finish in the window colour."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

@@ -1,0 +1,168 @@
+{
+  "id": "carbide-carbon-building",
+  "name": "Carbide & Carbon Building",
+  "anchor": [
+    -87.625008,
+    41.886526
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 124040,
+      "sha256": "ae18eafcd6716de34800a18217f3b81a71b8bef3d44bbd02c4786506c71ba6c1"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 124040,
+      "sha256": "ae18eafcd6716de34800a18217f3b81a71b8bef3d44bbd02c4786506c71ba6c1"
+    }
+  },
+  "triangles": 2190,
+  "boundsBlenderM": [
+    [
+      -20.173,
+      -22.345,
+      0
+    ],
+    [
+      20.183,
+      22.138,
+      153.2
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -87.6252434,
+          41.8863273
+        ],
+        [
+          -87.625246,
+          41.8864922
+        ],
+        [
+          -87.6252499,
+          41.8867211
+        ],
+        [
+          -87.6252144,
+          41.8867214
+        ],
+        [
+          -87.6250632,
+          41.8867228
+        ],
+        [
+          -87.6250572,
+          41.8867229
+        ],
+        [
+          -87.625016,
+          41.8867233
+        ],
+        [
+          -87.6249748,
+          41.8867237
+        ],
+        [
+          -87.6247728,
+          41.8867255
+        ],
+        [
+          -87.624771,
+          41.8866154
+        ],
+        [
+          -87.6247689,
+          41.8864962
+        ],
+        [
+          -87.6247686,
+          41.8864809
+        ],
+        [
+          -87.6247684,
+          41.8864658
+        ],
+        [
+          -87.6247668,
+          41.8863625
+        ],
+        [
+          -87.6247663,
+          41.8863314
+        ],
+        [
+          -87.6252434,
+          41.8863273
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 148544831,
+    "version": 11,
+    "timestamp": "2024-01-09T19:01:41Z",
+    "url": "https://www.openstreetmap.org/way/148544831"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 147400407,
+      "version": 8,
+      "timestamp": "2024-01-09T19:01:41Z",
+      "url": "https://www.openstreetmap.org/way/147400407"
+    },
+    {
+      "type": "way",
+      "id": 148544830,
+      "version": 4,
+      "timestamp": "2024-01-04T02:58:29Z",
+      "url": "https://www.openstreetmap.org/way/148544830"
+    }
+  ],
+  "wikidata": "Q1925179",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/chi-carbide-carbon.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Carbide & Carbon Building (230 North Michigan, 1929, Burnham Brothers; now the Pendry hotel), Chicago — original procedural geometry, CC0-1.0. bun generators/chi-carbide-carbon.ts",
+    "Map frame: x east, y north, z up, metres; origin at the anchor on the ground. Anchor = centroid of the OSM outline way/148544831, 41.886526,-87.625008 (the hotel outline, which takes in the five-storey 222 North Michigan to the south as part way/148544830). Its faces run at 89.3° / 179.3°, so the catalog bearing is 359.",
+    "Identity, in order: the gold lantern on top, the \"champagne cork\"; the dark green tower with its gold-tipped corner pinnacles and gold frieze; the slab it rises from; the black granite base.",
+    "Evidence: - plan: the Carbide & Carbon part, OSM way/147400407, 39.5 × 25.3 m, at the north end of the outline. The five-storey south part (OSM way/148544830, building:levels 5) is drawn as a plain stone block so the outline is covered. - heights: 153 m to the top of the lantern and 37 floors (published, Wikipedia, Emporis). The slab's top at ~88 m (24 floors), the tower's parapet at ~139 m and the lantern's 14 m are in the proportions of David Brossard's straightened telephoto (tower 2.75 widths tall above the slab, lantern 0.67 widths) and Teemu008's view up Michigan Avenue. - tower plan ~17 m square, set to the Michigan Avenue side and centred north-south: estimated from the same photos (the tower's east face nearly continues the avenue front in Teemu008's view). - crown: corner piers notched and rising as gold-capped pinnacles; a gold frieze band two floors under the parapet and another at the parapet; the lantern with stepped shoulders and a rounded top (Traveler100, Tony Hisgett, Brossard). - colour: black granite base (charcoal, the darkest STYLE.md allows); dark green terracotta pulled to a muted green; gold leaf as a muted gold finish; the slab's party walls are the same green here (their real buff brick shows only from the south).",
+    "Photos (Wikimedia Commons): Carbide_&_Carbon_Building_(7185086785).jpg (Teemu008, CC BY-SA 2.0); Carbon_and_Carbide_Building_-_Chicago_21 (3225183176)_straighten.jpg (David Brossard, CC BY-SA 4.0); Carbide&CarbonBuildingTop-01.jpg (Traveler100, CC BY-SA 4.0); Chicago_Buildings_3_(15613607781).jpg (Tony Hisgett, CC BY 2.0); Carbide_&_Carbon_Building.jpg (Juan Lanzagorta Vallín, CC BY-SA 3.0). No commercial imagery.",
+    "Left out: the terracotta piers' gold tips down the slab, the lettering and canopy at the entrance, the setback ledges of the slab's rear.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"chi-carbide-carbon\", model \"chi-carbide-carbon\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/chi-carbide-carbon.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 564 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the chi-carbide-carbon-glazing finish in the window colour.",
+    "To fit six materials, folded roof into chi-carbide-carbon-cc-green-terracotta (ΔE 16.8)."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

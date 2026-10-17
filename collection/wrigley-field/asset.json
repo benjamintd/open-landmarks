@@ -1,0 +1,509 @@
+{
+  "id": "wrigley-field",
+  "name": "Wrigley Field",
+  "anchor": [
+    -87.655543,
+    41.948193
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 230172,
+      "sha256": "fd13a9c27501533dedda678ff4723f220e099c718a6c30bff769efb00d64c43f"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 230172,
+      "sha256": "fd13a9c27501533dedda678ff4723f220e099c718a6c30bff769efb00d64c43f"
+    }
+  },
+  "triangles": 4779,
+  "boundsBlenderM": [
+    [
+      -97.609,
+      -99.2,
+      0
+    ],
+    [
+      93.43,
+      89.071,
+      38.174
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -87.6565956,
+          41.9486922
+        ],
+        [
+          -87.6566127,
+          41.9484896
+        ],
+        [
+          -87.6566235,
+          41.9483717
+        ],
+        [
+          -87.6567167,
+          41.9483742
+        ],
+        [
+          -87.656722,
+          41.9482815
+        ],
+        [
+          -87.6567226,
+          41.9482176
+        ],
+        [
+          -87.6567216,
+          41.9481515
+        ],
+        [
+          -87.6567124,
+          41.9480552
+        ],
+        [
+          -87.6566344,
+          41.9480561
+        ],
+        [
+          -87.6566208,
+          41.9478581
+        ],
+        [
+          -87.6566135,
+          41.9477709
+        ],
+        [
+          -87.6566059,
+          41.9477367
+        ],
+        [
+          -87.6565953,
+          41.9477029
+        ],
+        [
+          -87.6565818,
+          41.9476697
+        ],
+        [
+          -87.6565654,
+          41.9476373
+        ],
+        [
+          -87.6565477,
+          41.9476027
+        ],
+        [
+          -87.6565245,
+          41.9475695
+        ],
+        [
+          -87.6565032,
+          41.9475418
+        ],
+        [
+          -87.6564746,
+          41.9475143
+        ],
+        [
+          -87.6564252,
+          41.9474742
+        ],
+        [
+          -87.6563673,
+          41.9474333
+        ],
+        [
+          -87.6563333,
+          41.9474156
+        ],
+        [
+          -87.6562941,
+          41.9473953
+        ],
+        [
+          -87.6562429,
+          41.947373
+        ],
+        [
+          -87.6561797,
+          41.9473504
+        ],
+        [
+          -87.6561361,
+          41.9473382
+        ],
+        [
+          -87.6560914,
+          41.9473281
+        ],
+        [
+          -87.656046,
+          41.9473203
+        ],
+        [
+          -87.656,
+          41.9473146
+        ],
+        [
+          -87.6559536,
+          41.9473112
+        ],
+        [
+          -87.6559174,
+          41.9473111
+        ],
+        [
+          -87.6558639,
+          41.9473122
+        ],
+        [
+          -87.6554943,
+          41.9473252
+        ],
+        [
+          -87.655413,
+          41.9473369
+        ],
+        [
+          -87.6552794,
+          41.9473739
+        ],
+        [
+          -87.6545668,
+          41.9475749
+        ],
+        [
+          -87.6545036,
+          41.9475936
+        ],
+        [
+          -87.6545273,
+          41.9476379
+        ],
+        [
+          -87.6544724,
+          41.947654
+        ],
+        [
+          -87.6544137,
+          41.9476711
+        ],
+        [
+          -87.6544171,
+          41.9477935
+        ],
+        [
+          -87.6544194,
+          41.9478766
+        ],
+        [
+          -87.6544207,
+          41.9479235
+        ],
+        [
+          -87.654422,
+          41.947972
+        ],
+        [
+          -87.6544233,
+          41.9480039
+        ],
+        [
+          -87.6544252,
+          41.9480357
+        ],
+        [
+          -87.6544256,
+          41.9480542
+        ],
+        [
+          -87.6544263,
+          41.9480901
+        ],
+        [
+          -87.6544296,
+          41.9482398
+        ],
+        [
+          -87.654436,
+          41.9485399
+        ],
+        [
+          -87.6544376,
+          41.9486167
+        ],
+        [
+          -87.6544407,
+          41.9487599
+        ],
+        [
+          -87.6544427,
+          41.948852
+        ],
+        [
+          -87.6544456,
+          41.9488561
+        ],
+        [
+          -87.6544539,
+          41.948866
+        ],
+        [
+          -87.6544627,
+          41.9488764
+        ],
+        [
+          -87.654476,
+          41.9488903
+        ],
+        [
+          -87.6544886,
+          41.9489064
+        ],
+        [
+          -87.6544978,
+          41.9489149
+        ],
+        [
+          -87.654508,
+          41.9489231
+        ],
+        [
+          -87.65452,
+          41.9489343
+        ],
+        [
+          -87.6545307,
+          41.9489415
+        ],
+        [
+          -87.6545385,
+          41.9489467
+        ],
+        [
+          -87.6545571,
+          41.948959
+        ],
+        [
+          -87.6545785,
+          41.9489726
+        ],
+        [
+          -87.6546066,
+          41.9489851
+        ],
+        [
+          -87.6546313,
+          41.9489949
+        ],
+        [
+          -87.6546446,
+          41.9489998
+        ],
+        [
+          -87.6549904,
+          41.9489938
+        ],
+        [
+          -87.6550743,
+          41.9489923
+        ],
+        [
+          -87.6551464,
+          41.948991
+        ],
+        [
+          -87.6554779,
+          41.9489852
+        ],
+        [
+          -87.6557435,
+          41.9489806
+        ],
+        [
+          -87.6560332,
+          41.9489756
+        ],
+        [
+          -87.6560955,
+          41.9489745
+        ],
+        [
+          -87.6562762,
+          41.9489711
+        ],
+        [
+          -87.6563194,
+          41.9489703
+        ],
+        [
+          -87.65643,
+          41.9489682
+        ],
+        [
+          -87.6565025,
+          41.9489668
+        ],
+        [
+          -87.6565068,
+          41.9489263
+        ],
+        [
+          -87.6565097,
+          41.9489012
+        ],
+        [
+          -87.6565123,
+          41.9488781
+        ],
+        [
+          -87.6565641,
+          41.9488804
+        ],
+        [
+          -87.6565956,
+          41.9486922
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "relation",
+    "id": 17238872,
+    "version": 4,
+    "timestamp": "2024-03-24T11:43:12Z",
+    "url": "https://www.openstreetmap.org/relation/17238872"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 1265638385,
+      "version": 7,
+      "timestamp": "2026-07-19T15:18:01Z",
+      "url": "https://www.openstreetmap.org/way/1265638385"
+    },
+    {
+      "type": "way",
+      "id": 1265638386,
+      "version": 3,
+      "timestamp": "2024-05-22T21:30:16Z",
+      "url": "https://www.openstreetmap.org/way/1265638386"
+    },
+    {
+      "type": "way",
+      "id": 1265761900,
+      "version": 2,
+      "timestamp": "2024-05-21T22:12:01Z",
+      "url": "https://www.openstreetmap.org/way/1265761900"
+    },
+    {
+      "type": "way",
+      "id": 1265761901,
+      "version": 4,
+      "timestamp": "2024-10-25T17:40:10Z",
+      "url": "https://www.openstreetmap.org/way/1265761901"
+    },
+    {
+      "type": "way",
+      "id": 1265761902,
+      "version": 2,
+      "timestamp": "2024-03-24T11:48:44Z",
+      "url": "https://www.openstreetmap.org/way/1265761902"
+    },
+    {
+      "type": "way",
+      "id": 1265781812,
+      "version": 1,
+      "timestamp": "2024-03-24T11:48:44Z",
+      "url": "https://www.openstreetmap.org/way/1265781812"
+    }
+  ],
+  "wikidata": "Q1052807",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Wrigley Field NE.jpg",
+      "author": "Sea Cow",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Wrigley_Field_NE.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Wrigley Field S.jpg",
+      "author": "Sea Cow",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Wrigley_Field_S.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Wrigley Field in line with home plate.jpg",
+      "author": "Sea Cow",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Wrigley_Field_in_line_with_home_plate.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Wrigley Field in line with sign.jpg",
+      "author": "Sea Cow",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Wrigley_Field_in_line_with_sign.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/chi-wrigley-field.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Wrigley Field, Chicago — procedural, CC0-1.0, no textures. bun generators/chi-wrigley-field.ts",
+    "Map frame: x east, y north, z up, metres, bearing 0. The ballpark sits on the street grid, so the model is built in true north rather than along the diamond. The anchor (-87.655543, 41.948193) is the area centroid of the outer ring of the building multipolygon relation/17238872.",
+    "Evidence",
+    "OSM (measured): building relation/17238872 (outer ring = the ballpark's whole outline, inner ring = the field wall); building:part way/1265638385 (the 1914 outer band of the grandstand, to the upper deck's back wall); way/1265638386 (the upper deck roof, back wall to front edge); way/1265761900 (centre-field bleacher block) and way/1265761901 (the scoreboard's D-shaped plan); way/1265781812 and way/1265761902 (the left and right field video boards); node/6421453599 (the marquee).",
+    "Published: City of Chicago Landmark Designation Report (2004): the Addison and Clark facades are a 56 ft (17 m), three-storey open steel frame, with the 1927-28 upper deck, \"one and a half storeys\", set back behind it and floodlight frames (1988) on its roof; scoreboard 27 x 75 ft (8.2 x 22.9 m) over the centre-field bleachers; brick outfield wall 11.5 ft (3.5 m). Wikipedia: left-field video board 3,990 sq ft, right field 2,400 sq ft; marquee (1934) red since 1960.",
+    "Photos (Wikimedia Commons, all checked for this model): drone views by Sea Cow (CC BY-SA 4.0) \"Wrigley Field NE.jpg\", \"Wrigley Field S.jpg\", \"Wrigley Field in line with home plate.jpg\", \"Wrigley Field in line with sign.jpg\"; street views by David Wilson (CC BY 2.0) \"20170915 06 Wrigley Field\", \"20170915 03 Wrigley Field\"; GabboT (CC BY-SA 2.0) \"Cubs 008\", \"Cubs 017\", \"Cubs 036\"; Brian Crawford (CC BY 2.0) \"Dead and Company Wrigley Field 2019-06-14\".",
+    "USGS NAIP orthophoto (public domain): the light rigs on the first-base roof, at x = -15, 13 and 52 m.",
+    "Estimated",
+    "Upper-deck roof at 26.4 m: the 17 m facade plus the published one and a half storeys, checked against the drone photos (roof depth about twice the back wall's height).",
+    "Upper and lower deck rakes and the deck front 3 m ahead of the roof edge, from the drone photos.",
+    "Light rigs: 10 m frames on the back edge of the roof (photos). The three third-base rigs are placed from the photos at y = 2, 32, 58 m.",
+    "Bleachers: back rising from 8.5 m at the foul poles to 12 m in centre field; scoreboard 15 to 23.2 m with the clock above; left-field board 9 to 27 m and right-field board 9 to 24 m, all read off the photos.",
+    "Marquee 13.5 x 7.5 m, its bottom 4.6 m up, scaled from the windows below it in the street photos and from the facade in the drone view.",
+    "Exceptions: the marquee carries its lettering (\"WRIGLEY FIELD\", \"HOME OF\", \"CHICAGO CUBS\") as flat block letters on the panel, as STYLE.md allows for a famous sign. The field, the grass and the warning track are the map's.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"chi-wrigley-field\", model \"chi-wrigley-field\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/chi-wrigley-field.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 61 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the chi-wrigley-field-glazing finish in the window colour.",
+    "To fit six materials, folded chi-wrigley-field-glazing into chi-wrigley-field-wrigley-roof (ΔE 11.7)."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

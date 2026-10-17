@@ -1,0 +1,132 @@
+{
+  "id": "chicago-picasso",
+  "anchor": [
+    -87.629979,
+    41.883623
+  ],
+  "coordinateSystem": "Local metres about the anchor (equirectangular, WGS84 radius): X east, Y north, Z up. glTF export: X east, Y up, Z south. Heading already baked.",
+  "license": "ODbL-1.0",
+  "footprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -5.204715070698806,
+          3.0946818438330213
+        ],
+        [
+          5.138412968284944,
+          3.1726054875079637
+        ],
+        [
+          5.188139545978662,
+          -3.1280776914612702
+        ],
+        [
+          -5.154988493005089,
+          -3.2171332835546567
+        ],
+        [
+          -5.204715070698806,
+          3.0946818438330213
+        ]
+      ]
+    ]
+  },
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -87.6300418,
+          41.8836508
+        ],
+        [
+          -87.629917,
+          41.8836515
+        ],
+        [
+          -87.6299164,
+          41.8835949
+        ],
+        [
+          -87.6300412,
+          41.8835941
+        ],
+        [
+          -87.6300418,
+          41.8836508
+        ]
+      ]
+    ]
+  },
+  "parts": [
+    {
+      "osm": "way/124865476",
+      "tags": {
+        "area": "yes",
+        "artist_name": "Pablo Picasso",
+        "artwork_type": "sculpture",
+        "material": "metal",
+        "name": "Chicago Picasso",
+        "start_date": "1967",
+        "tourism": "artwork",
+        "wheelchair": "yes",
+        "wheelchair:description": "Braille explanation",
+        "wikidata": "Q5095736",
+        "wikipedia": "en:Chicago Picasso"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -5.204715070698806,
+              3.0946818438330213
+            ],
+            [
+              5.138412968284944,
+              3.1726054875079637
+            ],
+            [
+              5.188139545978662,
+              -3.1280776914612702
+            ],
+            [
+              -5.154988493005089,
+              -3.2171332835546567
+            ],
+            [
+              -5.204715070698806,
+              3.0946818438330213
+            ]
+          ]
+        ]
+      },
+      "version": 8,
+      "timestamp": "2023-05-23T23:08:38Z"
+    }
+  ],
+  "osm": {
+    "type": "way",
+    "id": 124865476,
+    "version": 8,
+    "timestamp": "2023-05-23T23:08:38Z",
+    "url": "https://www.openstreetmap.org/way/124865476"
+  },
+  "additionalOsm": [],
+  "tags": {
+    "area": "yes",
+    "artist_name": "Pablo Picasso",
+    "artwork_type": "sculpture",
+    "material": "metal",
+    "name": "Chicago Picasso",
+    "start_date": "1967",
+    "tourism": "artwork",
+    "wheelchair": "yes",
+    "wheelchair:description": "Braille explanation",
+    "wikidata": "Q5095736",
+    "wikipedia": "en:Chicago Picasso"
+  },
+  "note": "This landmark replaces no mapped building; the OSM feature cited is the one that names it."
+}

@@ -1,0 +1,285 @@
+{
+  "id": "frederick-c-robie-house",
+  "anchor": [
+    -87.595947,
+    41.789811
+  ],
+  "coordinateSystem": "Local metres about the anchor (equirectangular, WGS84 radius): X east, Y north, Z up. glTF export: X east, Y up, Z south. Heading already baked.",
+  "license": "ODbL-1.0",
+  "footprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          21.596392394124916,
+          7.569725373814225
+        ],
+        [
+          21.646191914805232,
+          1.6586604124287294
+        ],
+        [
+          11.17169260629304,
+          1.458285329032152
+        ],
+        [
+          11.329391090413193,
+          -6.289551229759819
+        ],
+        [
+          4.3823578717653495,
+          -6.478794363946979
+        ],
+        [
+          4.41555755300522,
+          -7.792364355629634
+        ],
+        [
+          -11.752687022093328,
+          -8.115190878747848
+        ],
+        [
+          -11.777586782433483,
+          -6.734829193390637
+        ],
+        [
+          -18.981917527741597,
+          -6.83501673469344
+        ],
+        [
+          -19.12301617124181,
+          1.7588479545225046
+        ],
+        [
+          -9.603007687170743,
+          1.9703549871284987
+        ],
+        [
+          -9.719206570330803,
+          6.578981906040753
+        ],
+        [
+          -4.681155000565204,
+          6.623509702087446
+        ],
+        [
+          -4.689454920285428,
+          7.246898850696011
+        ],
+        [
+          21.596392394124916,
+          7.569725373814225
+        ]
+      ]
+    ]
+  },
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -87.5956868,
+          41.789879
+        ],
+        [
+          -87.5956862,
+          41.7898259
+        ],
+        [
+          -87.5958124,
+          41.7898241
+        ],
+        [
+          -87.5958105,
+          41.7897545
+        ],
+        [
+          -87.5958942,
+          41.7897528
+        ],
+        [
+          -87.5958938,
+          41.789741
+        ],
+        [
+          -87.5960886,
+          41.7897381
+        ],
+        [
+          -87.5960889,
+          41.7897505
+        ],
+        [
+          -87.5961757,
+          41.7897496
+        ],
+        [
+          -87.5961774,
+          41.7898268
+        ],
+        [
+          -87.5960627,
+          41.7898287
+        ],
+        [
+          -87.5960641,
+          41.7898701
+        ],
+        [
+          -87.5960034,
+          41.7898705
+        ],
+        [
+          -87.5960035,
+          41.7898761
+        ],
+        [
+          -87.5956868,
+          41.789879
+        ]
+      ]
+    ]
+  },
+  "parts": [
+    {
+      "osm": "way/125667497",
+      "tags": {
+        "addr:city": "Chicago",
+        "addr:housenumber": "5757",
+        "addr:postcode": "60637",
+        "addr:state": "IL",
+        "addr:street": "South Woodlawn Avenue",
+        "addr:street:name": "Woodlawn",
+        "addr:street:prefix": "South",
+        "addr:street:type": "Avenue",
+        "architect": "Frank Lloyd Wright",
+        "architect:wikidata": "Q5604",
+        "architect:wikipedia": "en:Frank Lloyd Wright",
+        "building": "detached",
+        "building:architecture": "prairie_school",
+        "chicago:building_id": "497046",
+        "heritage": "2",
+        "heritage:operator": "nrhp",
+        "heritage:website": "https://npgallery.nps.gov/NRHP/AssetDetail/7475e81f-3634-4a9e-87c7-e3c35f8556a0",
+        "historic": "heritage",
+        "name": "Frederick C. Robie House",
+        "nrhp:criteria": "C",
+        "nrhp:inscription_date": "1966-10-15",
+        "nrhp:nhl": "yes",
+        "ref:nrhp": "66000316",
+        "start_date": "1909",
+        "tourism": "attraction",
+        "wikidata": "Q929965",
+        "wikimedia_commons": "File:Frederick C. Robie House.JPG",
+        "wikipedia": "en:Robie House"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              21.596392394124916,
+              7.569725373814225
+            ],
+            [
+              21.646191914805232,
+              1.6586604124287294
+            ],
+            [
+              11.17169260629304,
+              1.458285329032152
+            ],
+            [
+              11.329391090413193,
+              -6.289551229759819
+            ],
+            [
+              4.3823578717653495,
+              -6.478794363946979
+            ],
+            [
+              4.41555755300522,
+              -7.792364355629634
+            ],
+            [
+              -11.752687022093328,
+              -8.115190878747848
+            ],
+            [
+              -11.777586782433483,
+              -6.734829193390637
+            ],
+            [
+              -18.981917527741597,
+              -6.83501673469344
+            ],
+            [
+              -19.12301617124181,
+              1.7588479545225046
+            ],
+            [
+              -9.603007687170743,
+              1.9703549871284987
+            ],
+            [
+              -9.719206570330803,
+              6.578981906040753
+            ],
+            [
+              -4.681155000565204,
+              6.623509702087446
+            ],
+            [
+              -4.689454920285428,
+              7.246898850696011
+            ],
+            [
+              21.596392394124916,
+              7.569725373814225
+            ]
+          ]
+        ]
+      },
+      "version": 10,
+      "timestamp": "2026-08-21T23:22:40Z"
+    }
+  ],
+  "osm": {
+    "type": "way",
+    "id": 125667497,
+    "version": 10,
+    "timestamp": "2026-08-21T23:22:40Z",
+    "url": "https://www.openstreetmap.org/way/125667497"
+  },
+  "additionalOsm": [],
+  "tags": {
+    "addr:city": "Chicago",
+    "addr:housenumber": "5757",
+    "addr:postcode": "60637",
+    "addr:state": "IL",
+    "addr:street": "South Woodlawn Avenue",
+    "addr:street:name": "Woodlawn",
+    "addr:street:prefix": "South",
+    "addr:street:type": "Avenue",
+    "architect": "Frank Lloyd Wright",
+    "architect:wikidata": "Q5604",
+    "architect:wikipedia": "en:Frank Lloyd Wright",
+    "building": "detached",
+    "building:architecture": "prairie_school",
+    "chicago:building_id": "497046",
+    "heritage": "2",
+    "heritage:operator": "nrhp",
+    "heritage:website": "https://npgallery.nps.gov/NRHP/AssetDetail/7475e81f-3634-4a9e-87c7-e3c35f8556a0",
+    "historic": "heritage",
+    "name": "Frederick C. Robie House",
+    "nrhp:criteria": "C",
+    "nrhp:inscription_date": "1966-10-15",
+    "nrhp:nhl": "yes",
+    "ref:nrhp": "66000316",
+    "start_date": "1909",
+    "tourism": "attraction",
+    "wikidata": "Q929965",
+    "wikimedia_commons": "File:Frederick C. Robie House.JPG",
+    "wikipedia": "en:Robie House"
+  }
+}

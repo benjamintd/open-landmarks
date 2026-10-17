@@ -1,0 +1,331 @@
+{
+  "id": "baha-i-house-of-worship",
+  "name": "Baháʼí House of Worship",
+  "anchor": [
+    -87.68429,
+    42.074437
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 97116,
+      "sha256": "a0677ded8b6e4f7c68dfa1fc572168238c1179e42efe613b04e43143cff3564d"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 97116,
+      "sha256": "a0677ded8b6e4f7c68dfa1fc572168238c1179e42efe613b04e43143cff3564d"
+    }
+  },
+  "triangles": 2014,
+  "boundsBlenderM": [
+    [
+      -27.237,
+      -27.253,
+      0
+    ],
+    [
+      26.442,
+      26.393,
+      58.2
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -87.6845411,
+          42.0743918
+        ],
+        [
+          -87.6845182,
+          42.0743682
+        ],
+        [
+          -87.6845137,
+          42.074362
+        ],
+        [
+          -87.6845072,
+          42.074353
+        ],
+        [
+          -87.6844947,
+          42.07433
+        ],
+        [
+          -87.6844884,
+          42.0743089
+        ],
+        [
+          -87.6844915,
+          42.0742871
+        ],
+        [
+          -87.6844649,
+          42.0742861
+        ],
+        [
+          -87.6844413,
+          42.0742829
+        ],
+        [
+          -87.684421,
+          42.0742782
+        ],
+        [
+          -87.6844045,
+          42.0742732
+        ],
+        [
+          -87.6843795,
+          42.0742657
+        ],
+        [
+          -87.6843431,
+          42.0742462
+        ],
+        [
+          -87.6843158,
+          42.0742287
+        ],
+        [
+          -87.6842788,
+          42.0742454
+        ],
+        [
+          -87.6842426,
+          42.0742579
+        ],
+        [
+          -87.6842274,
+          42.074261
+        ],
+        [
+          -87.6842061,
+          42.0742652
+        ],
+        [
+          -87.684171,
+          42.0742657
+        ],
+        [
+          -87.6841305,
+          42.074261
+        ],
+        [
+          -87.6841214,
+          42.0742853
+        ],
+        [
+          -87.6841106,
+          42.0743063
+        ],
+        [
+          -87.6840923,
+          42.0743298
+        ],
+        [
+          -87.6840896,
+          42.0743322
+        ],
+        [
+          -87.6840698,
+          42.0743496
+        ],
+        [
+          -87.6840544,
+          42.0743626
+        ],
+        [
+          -87.6840368,
+          42.0743716
+        ],
+        [
+          -87.6840164,
+          42.0743788
+        ],
+        [
+          -87.6840352,
+          42.0744087
+        ],
+        [
+          -87.6840477,
+          42.0744472
+        ],
+        [
+          -87.6840479,
+          42.0744595
+        ],
+        [
+          -87.6840485,
+          42.0744845
+        ],
+        [
+          -87.6840456,
+          42.0745008
+        ],
+        [
+          -87.6840337,
+          42.0745279
+        ],
+        [
+          -87.6840583,
+          42.0745356
+        ],
+        [
+          -87.6840834,
+          42.0745449
+        ],
+        [
+          -87.6841099,
+          42.0745607
+        ],
+        [
+          -87.684121,
+          42.0745688
+        ],
+        [
+          -87.6841394,
+          42.0745821
+        ],
+        [
+          -87.6841526,
+          42.074599
+        ],
+        [
+          -87.6841687,
+          42.0746323
+        ],
+        [
+          -87.6841905,
+          42.0746251
+        ],
+        [
+          -87.6842293,
+          42.0746186
+        ],
+        [
+          -87.684271,
+          42.0746175
+        ],
+        [
+          -87.6843086,
+          42.0746217
+        ],
+        [
+          -87.6843304,
+          42.0746285
+        ],
+        [
+          -87.6843692,
+          42.0746407
+        ],
+        [
+          -87.6843929,
+          42.0746129
+        ],
+        [
+          -87.6844168,
+          42.074593
+        ],
+        [
+          -87.684434,
+          42.0745831
+        ],
+        [
+          -87.6844456,
+          42.0745764
+        ],
+        [
+          -87.6844781,
+          42.0745644
+        ],
+        [
+          -87.6845239,
+          42.0745568
+        ],
+        [
+          -87.6845186,
+          42.0745253
+        ],
+        [
+          -87.6845193,
+          42.0745055
+        ],
+        [
+          -87.684526,
+          42.074485
+        ],
+        [
+          -87.6845298,
+          42.0744732
+        ],
+        [
+          -87.6845516,
+          42.0744414
+        ],
+        [
+          -87.6845611,
+          42.0744282
+        ],
+        [
+          -87.6845694,
+          42.0744167
+        ],
+        [
+          -87.6845411,
+          42.0743918
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 369160462,
+    "version": 10,
+    "timestamp": "2024-06-09T16:12:40Z",
+    "url": "https://www.openstreetmap.org/way/369160462"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q4843063",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/chi-bahai-temple.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Bahá'í House of Worship for North America, Wilmette (1953, Louis Bourgeois) — original procedural geometry, CC0-1.0. bun generators/chi-bahai-temple.ts",
+    "Map frame: x east, y north, z up, metres; origin at the anchor on the ground. Anchor = centroid of OSM way/369160462, 42.074437, -87.684290. Bearing 0: the nine faces are drawn at their real bearings.",
+    "Identity: a white, nine-sided temple of lace-like cast concrete. From the ground up: broad stairs on all sides to a raised floor; a nine-sided ground storey with a great arched entrance in every face and a tall pylon at every corner; a smaller nine-sided gallery storey of tall tracery windows with its own nine pylons; a short clerestory drum; and a tall, slightly pointed dome with nine ribs, crowned by a small finial. White is the identity, so the body is a near-white finish; the dome's lacework (glass behind pierced concrete) reads a shade greyer than the ribs, which is how the photos show it.",
+    "Abstraction: the ornament (tracery, the religious symbols on the pylons, inscriptions) is left out. Each face's entrance is one arched `window` panel (the entrances are glazed and lit at night); the gallery's tracery windows are one tall arched panel per face; the clerestory has two small arched windows per face. The stairs are one sloped nine-sided skirt.",
+    "Evidence: - plan: OSM way/369160462, a nine-lobed outline ≈ 20–22 m in radius. The nine entrance nodes all lie 20.0–20.4 m from the centroid at bearings 4.8° + 40°·k (fitted), so the ground storey's faces are drawn with a 20.2 m apothem facing those bearings. - published: 58.2 m tall; floor to dome ceiling 42 m; interior dome 22 m across (Wikipedia); exterior dome ≈ 90 ft (27 m) across. - measured in the photos (Purpy Pupple's frontal view, scaled by the ground storey's 42.6 m width; the drone view for the dome's shape): raised floor ≈ 5 m, ground storey cornice ≈ 18 m, its pylons ≈ 23 m; gallery storey corner radius ≈ 13.5 m, to ≈ 31 m, its pylons ≈ 34 m; drum to 36 m; dome 18.5 m high (1.37 × its radius), finial to 58.2 m. Estimates, ± 2 m. - OSM height=14 is taken as the ground storey above its floor.",
+    "Photos (Wikimedia Commons): Wilmette_Bahai_Temple.jpg (WikiTome, CC BY-SA 3.0); Bahai_Temple_from_drone.jpg (Joshua Hoffman, CC BY-SA 4.0); Bahai_House_of_Worship_Wilmette_SL15_05R04L_small.jpg (VasuVR, CC BY-SA 4.0); Bahai_Wilmette_Alt.jpg (Purpy Pupple, CC BY 3.0); Bahai_Temple_ (20365734404).jpg (Ashley Frillman, CC BY-SA 2.0); The_Baháʼí_House_of_ Worship.jpg (Ritwik Chattopadhyay, CC BY-SA 4.0). USGS NAIP for the plan. No commercial imagery.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"chi-bahai-temple\", model \"chi-bahai-temple\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/chi-bahai-temple.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

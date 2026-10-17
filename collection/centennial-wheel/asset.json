@@ -1,0 +1,148 @@
+{
+  "id": "centennial-wheel",
+  "name": "Centennial Wheel",
+  "anchor": [
+    -87.607475,
+    41.891702
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 228456,
+      "sha256": "9e64e9a68c68140c62f932e16fc4c5018dcde6dc769c111a9519759a72f90ac9"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 228456,
+      "sha256": "9e64e9a68c68140c62f932e16fc4c5018dcde6dc769c111a9519759a72f90ac9"
+    }
+  },
+  "triangles": 4928,
+  "boundsBlenderM": [
+    [
+      -6.184,
+      -28.438,
+      0
+    ],
+    [
+      11.818,
+      28.438,
+      59.694
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -87.6075015,
+          41.8919653
+        ],
+        [
+          -87.6074995,
+          41.8918934
+        ],
+        [
+          -87.6074951,
+          41.8917349
+        ],
+        [
+          -87.6074933,
+          41.8916708
+        ],
+        [
+          -87.607489,
+          41.8915117
+        ],
+        [
+          -87.6074877,
+          41.8914661
+        ],
+        [
+          -87.6074869,
+          41.8914375
+        ],
+        [
+          -87.6074485,
+          41.8914381
+        ],
+        [
+          -87.6074492,
+          41.8914656
+        ],
+        [
+          -87.6074506,
+          41.8915134
+        ],
+        [
+          -87.607455,
+          41.8916723
+        ],
+        [
+          -87.6074567,
+          41.8917351
+        ],
+        [
+          -87.6074611,
+          41.8918933
+        ],
+        [
+          -87.6074631,
+          41.8919659
+        ],
+        [
+          -87.6075015,
+          41.8919653
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 686996484,
+    "version": 7,
+    "timestamp": "2026-06-03T22:05:55Z",
+    "url": "https://www.openstreetmap.org/way/686996484"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q43153888",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/chi-centennial-wheel.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Centennial Wheel, Navy Pier, Chicago (2016, Dutch Wheels DW60) — original procedural geometry, CC0-1.0. bun generators/chi-centennial-wheel.ts",
+    "Map frame: x east, y north, z up, metres; origin on the pier deck under the axle. The wheel turns in the y–z plane, so its axle runs east–west. Placed at bearing 358.8°: OSM's outline of the wheel (way/686996484) is a strip 58 m long and 3–4 m wide whose long sides run 358.8°/178.8°, and NAIP shows the same: the wheel's plane runs north–south across the pier, so it is seen face-on from the lake and from the city end, nearly edge-on from the pier's sides.",
+    "Identity: a 60 m white wheel with a bold silver rim, a ring of 42 dark navy gondolas that read as beads around it, white truss spokes, a big round hub with a logo disc on each face, and four white tube legs: a near-vertical A-frame on the west side and two long back-stays splayed out to the east (the X that NAIP shows east of the wheel).",
+    "Abstraction (STYLE.md: no thin ribs): each face's rim truss is one solid band; the many lattice spokes are twenty-one members per face; each gondola is a rounded box. The gondolas hang between the two faces of the rim, as on the real wheel, so nothing passes through anything else.",
+    "It turns (experimental; see \"Animation\" in STYLE.md). The wheel is a glTF node at the axle; each gondola is a child node at its pivot on the rim, turned back by as much as the wheel turns so it hangs plumb. The real wheel makes three turns in a 12-minute ride (4 minutes a turn); that is too slow to see on a map, so this loop is 90 s a turn, like the Wonder Wheel's. Frame 0 is the static model.",
+    "Evidence: - plan and placement: OSM way/686996484 (attraction=big_wheel, height=59.74). Anchor = its centroid. Replaces that way only. - published: 196 ft (60 m) tall, 42 gondolas, DW60 by Dutch Wheels, opened May 2016 (Wikipedia, \"Navy Pier\"; navypier.org). - measured: outline length 58.3 m → rim ≈ 55.6 m across its outer edge (centre line radius 27 m); axle at 32 m so the rim top meets OSM's 59.7 m and the lowest gondola clears the boarding deck by ~2 m. - estimated from photos: wheel depth (faces 4 m apart, from the 3–4 m outline and the photos), gondola size (≈3 m along the rim and 2.8 m tall, from their width against the 4.1 m spacing in face-on photos), hub and disc size, leg thickness. Leg feet: the east back-stays land ≈ 9 m east and ±19 m north/south of the axle (NAIP, allowing for the wheel's lean in the image); the west A-frame feet ±12 m, 4 m west (photos; hidden under the wheel in NAIP). - colour: white structure and spokes, pale silver rim, dark navy gondolas (pulled up to about charcoal per STYLE.md).",
+    "Photos (Wikimedia Commons): Centennial_Wheel_en_Navy_Pier_en_Chicago.jpg (Javierleiva, CC BY-SA 4.0); Ferris_Wheel_at_Navy_Pier,_Chicago_ (49687527151).jpg (Matt Kieffer, CC BY-SA 2.0); Ferris_Wheel_ (30507624327).jpg (Marlin Keesler, CC BY 2.0); Chicago_(24247249958).jpg (Olivier Bruchez, CC BY-SA 2.0); Navy_Pier_from_360_Chicago_Observation_ Deck_(49687064233).jpg (Matt Kieffer, CC BY-SA 2.0); Navy_Pier_Drone_ shot.jpg (Moses8910, CC BY-SA 4.0). USGS NAIP for the plan. No commercial imagery.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"chi-centennial-wheel\", model \"chi-centennial-wheel\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/chi-centennial-wheel.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

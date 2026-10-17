@@ -1,0 +1,318 @@
+{
+  "id": "art-institute-of-chicago-modern-wing",
+  "name": "Art Institute of Chicago Modern Wing",
+  "anchor": [
+    -87.622027,
+    41.880287
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 79340,
+      "sha256": "8d0f3e98a49d15b389e301bb6466d47d204baa2a303caaa7551f226ec578dbb5"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 79340,
+      "sha256": "8d0f3e98a49d15b389e301bb6466d47d204baa2a303caaa7551f226ec578dbb5"
+    }
+  },
+  "triangles": 1408,
+  "boundsBlenderM": [
+    [
+      -40.967,
+      -68.612,
+      0
+    ],
+    [
+      61.398,
+      50.321,
+      24.85
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -87.6213189,
+          41.8805943
+        ],
+        [
+          -87.6213874,
+          41.8805934
+        ],
+        [
+          -87.6213875,
+          41.8806674
+        ],
+        [
+          -87.6219721,
+          41.880657
+        ],
+        [
+          -87.621972,
+          41.8806301
+        ],
+        [
+          -87.6219977,
+          41.8806297
+        ],
+        [
+          -87.6220917,
+          41.8806291
+        ],
+        [
+          -87.6221331,
+          41.8806281
+        ],
+        [
+          -87.622134,
+          41.8806565
+        ],
+        [
+          -87.6221415,
+          41.8806567
+        ],
+        [
+          -87.6221396,
+          41.8806218
+        ],
+        [
+          -87.6221897,
+          41.8806215
+        ],
+        [
+          -87.6222439,
+          41.8806212
+        ],
+        [
+          -87.6222451,
+          41.8806631
+        ],
+        [
+          -87.622348,
+          41.8806615
+        ],
+        [
+          -87.622423,
+          41.8806603
+        ],
+        [
+          -87.6224211,
+          41.8805919
+        ],
+        [
+          -87.6224587,
+          41.8805918
+        ],
+        [
+          -87.6224578,
+          41.8805751
+        ],
+        [
+          -87.6224912,
+          41.8805751
+        ],
+        [
+          -87.6225205,
+          41.8805745
+        ],
+        [
+          -87.6225172,
+          41.8803898
+        ],
+        [
+          -87.622472,
+          41.8803918
+        ],
+        [
+          -87.6224716,
+          41.8803811
+        ],
+        [
+          -87.622472,
+          41.8803674
+        ],
+        [
+          -87.6224703,
+          41.8803405
+        ],
+        [
+          -87.6224701,
+          41.8803251
+        ],
+        [
+          -87.6224683,
+          41.88029
+        ],
+        [
+          -87.6224145,
+          41.8802914
+        ],
+        [
+          -87.6224059,
+          41.879935
+        ],
+        [
+          -87.6224582,
+          41.8799343
+        ],
+        [
+          -87.6224947,
+          41.8799338
+        ],
+        [
+          -87.6224925,
+          41.8798444
+        ],
+        [
+          -87.6224515,
+          41.879845
+        ],
+        [
+          -87.6224472,
+          41.879667
+        ],
+        [
+          -87.6224187,
+          41.8796674
+        ],
+        [
+          -87.6222099,
+          41.8796701
+        ],
+        [
+          -87.6222131,
+          41.8797888
+        ],
+        [
+          -87.6221125,
+          41.8797902
+        ],
+        [
+          -87.6219361,
+          41.8797929
+        ],
+        [
+          -87.6219363,
+          41.8798031
+        ],
+        [
+          -87.6219413,
+          41.8800724
+        ],
+        [
+          -87.6219425,
+          41.8801277
+        ],
+        [
+          -87.6220048,
+          41.880127
+        ],
+        [
+          -87.6220791,
+          41.8801262
+        ],
+        [
+          -87.6220809,
+          41.8801461
+        ],
+        [
+          -87.6220826,
+          41.8802924
+        ],
+        [
+          -87.6213835,
+          41.8803003
+        ],
+        [
+          -87.6213855,
+          41.8803543
+        ],
+        [
+          -87.621349,
+          41.8803546
+        ],
+        [
+          -87.6213125,
+          41.880355
+        ],
+        [
+          -87.6213189,
+          41.8805943
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 765296571,
+    "version": 10,
+    "timestamp": "2025-08-28T21:00:24Z",
+    "url": "https://www.openstreetmap.org/way/765296571"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 943374848,
+      "version": 2,
+      "timestamp": "2025-08-28T21:00:24Z",
+      "url": "https://www.openstreetmap.org/way/943374848"
+    },
+    {
+      "type": "way",
+      "id": 943374852,
+      "version": 2,
+      "timestamp": "2025-08-28T20:18:47Z",
+      "url": "https://www.openstreetmap.org/way/943374852"
+    },
+    {
+      "type": "way",
+      "id": 1425669058,
+      "version": 1,
+      "timestamp": "2025-08-28T21:00:24Z",
+      "url": "https://www.openstreetmap.org/way/1425669058"
+    }
+  ],
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/chi-art-institute-modern-wing.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Art Institute of Chicago, the Modern Wing (Renzo Piano Building Workshop, 2009), Monroe Street at Columbus Drive — original procedural geometry, CC0-1.0.",
+    "A second placement beside chi-art-institute (the 1893 building on Michigan Avenue): the two are separated by the railway cut and the older wings over it, which are not modelled.",
+    "Map frame: x east, y north, z up, metres; origin at the centroid of the OSM part way/765296571 \"Modern Wing\" (41.880287, -87.622027). Its walls run at 359.1° like the rest of the museum, so the model is built square and placed at bearing 359.1; the OSM points below are turned 0.88° to match.",
+    "Identity: the \"flying carpet\", a broad, thin, white sunshade of aluminium blades floating above the east pavilion on slender white posts and overhanging it, most of all over the Monroe Street entrance; under it a three-storey glass pavilion, its bays of pale glass with fine white fins between buff limestone piers. West of it, the long lower west wing along the railway, with Griffin Court's glass roof running down its length, and the stone and glass west pavilion on Monroe Street.",
+    "Evidence: - OSM: way/765296571 (the wing's part, west arm and east pavilion), way/943374848 (building:part=roof, roof:colour=white, 3 levels: the flying carpet, 66 x 66 m), way/943374852 (the small entrance canopy), way/1425669058 (Ryan Learning Center, the pavilion's ground floor). - USGS NAIP: the white square of the carpet, and the west arm's roof with the darker glazed strip of Griffin Court along it. - Heights: nothing is published that I found. Measured off TonyTheTiger's photo from the Lurie Garden, scaled by the pavilion's width: pavilion roof ≈ 21 m, carpet ≈ 24.5 m; the west wing ≈ 18 m (Fetchcomms' photo from Monroe and Columbus, against the pavilion). Expect ±2 m. - Photos (Wikimedia Commons): 20080602_Art_Institute_of_Chicago_Modern _Wing_From_Lurie_Garden.JPG (TonyTheTiger, CC BY-SA 3.0, north); Art_Institute_of_Chicago_Modern_Wing.jpg (Fetchcomms, CC BY-SA 3.0, north-east); Art_Institute_of_Chicago,_Chicago,_Illinois_(9181712330) .jpg (Ken Lund, CC BY-SA 2.0, from the garden above the north side); Art_Institute_of_Chicago_Modern_wing.jpg (Alanscottwalker, CC BY-SA 3.0, north-west, with the Nichols Bridgeway); Modern_Wing_of_Art _Institute_-_panoramio.jpg (Bohao Zhao, CC BY 3.0, night); Art_Institute_of_Chicago,_Illinois,_Estados_Unidos,_2012-10-20,_DD_03 .jpg (Diego Delso, CC BY-SA 3.0). No commercial imagery.",
+    "Simplified: the carpet is a solid thin slab (its blades are too fine to draw); the glass's many fins are drawn as five pale lines per bay; the Nichols Bridgeway over Monroe Street (no OSM building) is not drawn. The west wing's south end, against the older wings, is drawn to the OSM outline at one height.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"chi-art-institute-modern-wing\", model \"chi-art-institute-modern-wing\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/chi-art-institute-modern-wing.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 808 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the chi-art-institute-modern-wing-glazing finish in the window colour.",
+    "To fit six materials, folded glass into chi-art-institute-modern-wing-window-2 (ΔE 3.7)."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

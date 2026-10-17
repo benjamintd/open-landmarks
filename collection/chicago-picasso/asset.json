@@ -1,0 +1,107 @@
+{
+  "id": "chicago-picasso",
+  "name": "Chicago Picasso",
+  "anchor": [
+    -87.629979,
+    41.883623
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 54812,
+      "sha256": "4299b4d659b23e14fe6b7dcf59379ef292c22c09b4b626c52b3f5bb90479ff87"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 54812,
+      "sha256": "4299b4d659b23e14fe6b7dcf59379ef292c22c09b4b626c52b3f5bb90479ff87"
+    }
+  },
+  "triangles": 834,
+  "boundsBlenderM": [
+    [
+      -5.226,
+      -3.045,
+      0
+    ],
+    [
+      5.226,
+      3.389,
+      15.204
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -87.6300418,
+          41.8836508
+        ],
+        [
+          -87.629917,
+          41.8836515
+        ],
+        [
+          -87.6299164,
+          41.8835949
+        ],
+        [
+          -87.6300412,
+          41.8835941
+        ],
+        [
+          -87.6300418,
+          41.8836508
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 124865476,
+    "version": 8,
+    "timestamp": "2023-05-23T23:08:38Z",
+    "url": "https://www.openstreetmap.org/way/124865476"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q5095736",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/chi-picasso.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "The Chicago Picasso (Pablo Picasso, 1967), Daley Plaza, Chicago — original procedural geometry, CC0-1.0.",
+    "Map frame: x east, y north, z up, metres; origin at the centroid of the OSM area way/124865476 (tourism=artwork, 41.883623, -87.629979), on the plaza. The area's edges run at 89.6° / 179.5°, so the catalog bearing is 359.5. The face looks south, towards Washington Street, with the Daley Center behind it: the front photos have the Daley Center's Cor-ten frame behind the sculpture, and the Mapillary frames from Washington Street west of the plaza (looking east) show the face on the right, the south.",
+    "Identity: a 15 m Cor-ten \"head\" of flat steel plates. From the front, a pale long face plate with a narrow neck over a bell-shaped chest, framed by two tall rounded lobes (the hair or ears) that meet at the top; between the lobes and the neck a web of steel rods. From the side and back, the lobes are one curved plate with a heart-shaped hole, bowed back like a crescent, rising from a broad sloping base that people slide down.",
+    "Form, all flat plates, each a closed slab with thickness: - plinth: the dark low block under the base, set back from its edges; - base: a solid whose top slopes from the low front edge up to the back, where its edge rises into the two shoulder humps the front views show; - chest, neck and face: one front-facing plate, its outline taken off the front photo (bell, diamond at the throat, snout widening to the forehead), with a narrow profile plate (the spine) behind it; - hair: two lobes joined at the top, outer and inner outlines off the front and back photos, bent back as they fall (the crescent the side views show); - web: per the brief, the rods are drawn as one thin flat plate per side, from the hair's inner edge to the spine, in a paler steel so the hole still reads as open.",
+    "Evidence: - Published (Wikipedia, \"Chicago Picasso\"): 50 ft (15.2 m) tall, Cor-ten steel, 162 short tons. - OSM way/124865476: the artwork area, 10.3 m east-west x 6.3 m north-south. USGS NAIP shows a dark block of about 10 x 6 m there. - Photos (Wikimedia Commons): 20071027_Chicago_Picasso_with_kids.JPG (TonyTheTiger, public domain, front); Chicago_Picasso,_Loop,_Chicago,_IL .jpg (Bait30, public domain, front at night — the outline measurements); 2004-09-07_1800x2400_chicago_picasso.jpg (J. Crocker, public domain, front-left three-quarter); Chicago_Picasso_at_Daley_Plaza,_July_2011 _(6176191387).jpg (EightySixFilms, CC BY 2.0); Chicago_Picasso _(September_2024)_2 and _4 (Nairn McWilliams, CC BY-SA 2.0, back and back three-quarter: the heart-shaped hole and the base's back wall); 1998-D027003 (Joe+Jeanette Archie, CC BY 2.0, profile from the west). Mapillary street frames on Washington Street for the orientation. - Colour: the weathered Cor-ten reads a dark brown with a grey cast; pulled lighter towards the palette.",
+    "Measured off photos (±0.5 m): the outlines of the face, neck, chest, lobes and shoulders, scaled to the published 15.2 m. Estimated: the lobes' backward bend (from the side views), the base's slope, the plinth's 0.9 m. The lobes are drawn symmetric; the real ones differ a little. Invented: nothing.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"chi-picasso\", model \"chi-picasso\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/chi-picasso.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

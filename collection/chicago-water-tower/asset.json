@@ -1,0 +1,290 @@
+{
+  "id": "chicago-water-tower",
+  "name": "Chicago Water Tower",
+  "anchor": [
+    -87.624437,
+    41.897171
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 175232,
+      "sha256": "c29306547774a3f5512d6d30bce05a9df95b5ec1a7813f1210d5f6cd092e3a4d"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 175232,
+      "sha256": "c29306547774a3f5512d6d30bce05a9df95b5ec1a7813f1210d5f6cd092e3a4d"
+    }
+  },
+  "triangles": 3179,
+  "boundsBlenderM": [
+    [
+      -8.234,
+      -8.234,
+      0
+    ],
+    [
+      8.234,
+      8.234,
+      55.6
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -87.6245269,
+          41.897237
+        ],
+        [
+          -87.6245187,
+          41.8972387
+        ],
+        [
+          -87.6245096,
+          41.8972362
+        ],
+        [
+          -87.6245065,
+          41.8972302
+        ],
+        [
+          -87.6244645,
+          41.897231
+        ],
+        [
+          -87.6244414,
+          41.8972316
+        ],
+        [
+          -87.6244196,
+          41.897232
+        ],
+        [
+          -87.624373,
+          41.897233
+        ],
+        [
+          -87.6243691,
+          41.8972393
+        ],
+        [
+          -87.6243609,
+          41.897241
+        ],
+        [
+          -87.6243518,
+          41.8972385
+        ],
+        [
+          -87.6243487,
+          41.8972325
+        ],
+        [
+          -87.6243509,
+          41.8972261
+        ],
+        [
+          -87.6243594,
+          41.8972226
+        ],
+        [
+          -87.6243553,
+          41.8971206
+        ],
+        [
+          -87.6243462,
+          41.8971181
+        ],
+        [
+          -87.6243431,
+          41.8971121
+        ],
+        [
+          -87.6243454,
+          41.8971057
+        ],
+        [
+          -87.624354,
+          41.897102
+        ],
+        [
+          -87.6243651,
+          41.8971055
+        ],
+        [
+          -87.6243673,
+          41.8971122
+        ],
+        [
+          -87.6244157,
+          41.8971113
+        ],
+        [
+          -87.6244374,
+          41.8971109
+        ],
+        [
+          -87.6244599,
+          41.8971105
+        ],
+        [
+          -87.6245019,
+          41.8971097
+        ],
+        [
+          -87.6245041,
+          41.8971034
+        ],
+        [
+          -87.6245128,
+          41.8970996
+        ],
+        [
+          -87.6245239,
+          41.8971031
+        ],
+        [
+          -87.6245262,
+          41.8971102
+        ],
+        [
+          -87.6245223,
+          41.8971165
+        ],
+        [
+          -87.6245141,
+          41.8971182
+        ],
+        [
+          -87.6245152,
+          41.897151
+        ],
+        [
+          -87.6245157,
+          41.897168
+        ],
+        [
+          -87.6245162,
+          41.8971834
+        ],
+        [
+          -87.6245174,
+          41.8972201
+        ],
+        [
+          -87.6245285,
+          41.8972236
+        ],
+        [
+          -87.6245308,
+          41.8972307
+        ],
+        [
+          -87.6245269,
+          41.897237
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 130147025,
+    "version": 17,
+    "timestamp": "2024-05-14T20:22:22Z",
+    "url": "https://www.openstreetmap.org/way/130147025"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 1283005798,
+      "version": 1,
+      "timestamp": "2024-05-14T20:22:22Z",
+      "url": "https://www.openstreetmap.org/way/1283005798"
+    },
+    {
+      "type": "way",
+      "id": 1283005799,
+      "version": 1,
+      "timestamp": "2024-05-14T20:22:22Z",
+      "url": "https://www.openstreetmap.org/way/1283005799"
+    },
+    {
+      "type": "way",
+      "id": 1283005800,
+      "version": 1,
+      "timestamp": "2024-05-14T20:22:22Z",
+      "url": "https://www.openstreetmap.org/way/1283005800"
+    },
+    {
+      "type": "way",
+      "id": 1283005801,
+      "version": 1,
+      "timestamp": "2024-05-14T20:22:22Z",
+      "url": "https://www.openstreetmap.org/way/1283005801"
+    },
+    {
+      "type": "way",
+      "id": 1283005802,
+      "version": 1,
+      "timestamp": "2024-05-14T20:22:22Z",
+      "url": "https://www.openstreetmap.org/way/1283005802"
+    },
+    {
+      "type": "way",
+      "id": 1283005803,
+      "version": 1,
+      "timestamp": "2024-05-14T20:22:22Z",
+      "url": "https://www.openstreetmap.org/way/1283005803"
+    },
+    {
+      "type": "way",
+      "id": 1283005804,
+      "version": 1,
+      "timestamp": "2024-05-14T20:22:22Z",
+      "url": "https://www.openstreetmap.org/way/1283005804"
+    }
+  ],
+  "wikidata": "Q862890",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/chi-water-tower.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Chicago Water Tower (1869, W. W. Boyington) — original procedural geometry, CC0-1.0. bun generators/chi-water-tower.ts",
+    "Map frame: x east, y north, z up, metres; origin at the anchor on the ground. Anchor = centroid of the OSM outline way/130147025, 41.897171,-87.624437. The outline's edges run at 88.5° / 178.5°, so the catalog bearing is 358.5 and the tower is square to this frame.",
+    "Identity: the castellated square base with an octagonal turret at each corner; the second stage with its round corner turrets and a steep gable on every face; the corbelled, crenellated band with corner bartizans where the square turns octagonal; the tall tapering octagonal shaft; the crenellated crown with its pinnacles; the lantern and the dark bell dome.",
+    "Evidence: - Every dimension is from the HABS measured drawings, IL-1041 (Paul Berry, 1994, public domain; Wikimedia Commons, sheets 2 and 3): structure 51 ft (15.5 m) square over the corner turrets, building 43 ft (13.1 m), corner turrets 8 ft octagons centred 21.4 ft from the axis; second stage 20 ft with corner towers to 25 ft; octagon 15'6\" at 92 ft; observation floor 151'6\", cupola base 161'6\", cupola top 173'6\", mast 182'6\" (55.6 m overall; OSM height 55.4 agrees, Wikipedia 56 m). Heights not dimensioned on the sheet (parapets, turret tops, the stage-2 gable, the bartizan band, the crown) were measured off the south elevation against its own scale bar, to about ±0.3 m. - OSM building:parts (way/1283005798-804) agree with the HABS plan: the base, the four corner turrets, the stage-2 block and the shaft. - Portals: N, S and W have the gabled entrance bay (HABS plan A-A); the east front lost its steps when Michigan Avenue was widened in 1920 and shows a window (Daniel Schwen's photo), so it is drawn plain. - Colour: buff Joliet limestone, cream-grey in every photo, a warm finish near `stone`; the dome reads dark grey (all photos; OSM's roof:colour #9db8a2 is not borne out), drawn at charcoal.",
+    "Photos (Wikimedia Commons): Chicago_Water_Tower_2.jpg (Daniel Schwen, CC BY-SA 4.0); Chicago_Water_Tower_view_from_west.jpeg (Dough4872, CC BY-SA 4.0); Chicago_Water_Tower,_Michigan_Avenue,_Streeterville (w_lemay, CC0); Chicago_water_tower_as_seen_from_Hancock_Tower.jpg (NoTalentHack, CC BY-SA 3.0). No commercial imagery.",
+    "Left out: the rusticated stonework, the small pinnacles beside the portals, the finial poles on the gables, the corner beads of the shaft.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"chi-water-tower\", model \"chi-water-tower\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/chi-water-tower.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 16 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the chi-water-tower-glazing finish in the window colour."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

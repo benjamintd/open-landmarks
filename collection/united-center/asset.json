@@ -1,0 +1,382 @@
+{
+  "id": "united-center",
+  "name": "United Center",
+  "anchor": [
+    -87.674184,
+    41.88068
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 83588,
+      "sha256": "f5e806529e3250cbd35cd52ff5979dbf4d9bad90716bae3687bf305e1364d141"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 83588,
+      "sha256": "f5e806529e3250cbd35cd52ff5979dbf4d9bad90716bae3687bf305e1364d141"
+    }
+  },
+  "triangles": 1917,
+  "boundsBlenderM": [
+    [
+      -82.644,
+      -66.744,
+      0
+    ],
+    [
+      106.839,
+      66.744,
+      35.625
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -87.67477,
+          41.8812059
+        ],
+        [
+          -87.6749765,
+          41.8812014
+        ],
+        [
+          -87.6749765,
+          41.8811577
+        ],
+        [
+          -87.6750697,
+          41.8811549
+        ],
+        [
+          -87.6750665,
+          41.8810845
+        ],
+        [
+          -87.6751247,
+          41.8810835
+        ],
+        [
+          -87.6751213,
+          41.8809067
+        ],
+        [
+          -87.6751045,
+          41.8809059
+        ],
+        [
+          -87.6751251,
+          41.880863
+        ],
+        [
+          -87.6751394,
+          41.8808257
+        ],
+        [
+          -87.6751489,
+          41.8807822
+        ],
+        [
+          -87.6751797,
+          41.8807801
+        ],
+        [
+          -87.6751798,
+          41.880742
+        ],
+        [
+          -87.6751793,
+          41.8806667
+        ],
+        [
+          -87.6751787,
+          41.8805914
+        ],
+        [
+          -87.6751783,
+          41.8805493
+        ],
+        [
+          -87.6751433,
+          41.8805515
+        ],
+        [
+          -87.6751315,
+          41.880507
+        ],
+        [
+          -87.6751099,
+          41.88046
+        ],
+        [
+          -87.6750901,
+          41.8804259
+        ],
+        [
+          -87.6751039,
+          41.8804218
+        ],
+        [
+          -87.6751026,
+          41.8802453
+        ],
+        [
+          -87.6750487,
+          41.8802461
+        ],
+        [
+          -87.6750452,
+          41.8801744
+        ],
+        [
+          -87.674946,
+          41.8801757
+        ],
+        [
+          -87.674944,
+          41.8801349
+        ],
+        [
+          -87.6747422,
+          41.8801377
+        ],
+        [
+          -87.6747404,
+          41.8801168
+        ],
+        [
+          -87.6745116,
+          41.8801182
+        ],
+        [
+          -87.6744887,
+          41.8801185
+        ],
+        [
+          -87.6741683,
+          41.8801222
+        ],
+        [
+          -87.6738561,
+          41.8801272
+        ],
+        [
+          -87.6738273,
+          41.8801276
+        ],
+        [
+          -87.6736013,
+          41.880133
+        ],
+        [
+          -87.6736009,
+          41.8801553
+        ],
+        [
+          -87.6733931,
+          41.8801572
+        ],
+        [
+          -87.6733934,
+          41.8801987
+        ],
+        [
+          -87.6732935,
+          41.8801987
+        ],
+        [
+          -87.6732932,
+          41.8802746
+        ],
+        [
+          -87.673254,
+          41.8802751
+        ],
+        [
+          -87.6732418,
+          41.8802752
+        ],
+        [
+          -87.6732444,
+          41.8803695
+        ],
+        [
+          -87.6732463,
+          41.8804429
+        ],
+        [
+          -87.6732466,
+          41.8804545
+        ],
+        [
+          -87.6732624,
+          41.8804614
+        ],
+        [
+          -87.6732309,
+          41.8805264
+        ],
+        [
+          -87.6732178,
+          41.8805842
+        ],
+        [
+          -87.6731872,
+          41.8805849
+        ],
+        [
+          -87.6731914,
+          41.8806994
+        ],
+        [
+          -87.6731956,
+          41.8808138
+        ],
+        [
+          -87.6732321,
+          41.8808143
+        ],
+        [
+          -87.6732468,
+          41.8808786
+        ],
+        [
+          -87.6732757,
+          41.8809307
+        ],
+        [
+          -87.6732548,
+          41.8809367
+        ],
+        [
+          -87.6732605,
+          41.8810346
+        ],
+        [
+          -87.673263,
+          41.8811141
+        ],
+        [
+          -87.6733225,
+          41.8811145
+        ],
+        [
+          -87.6733225,
+          41.8811803
+        ],
+        [
+          -87.6734223,
+          41.8811814
+        ],
+        [
+          -87.6734213,
+          41.8812263
+        ],
+        [
+          -87.6736269,
+          41.8812231
+        ],
+        [
+          -87.6736263,
+          41.8812413
+        ],
+        [
+          -87.673884,
+          41.8812408
+        ],
+        [
+          -87.6742133,
+          41.8812393
+        ],
+        [
+          -87.674519,
+          41.8812295
+        ],
+        [
+          -87.6747693,
+          41.881226
+        ],
+        [
+          -87.67477,
+          41.8812059
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 205221993,
+    "version": 15,
+    "timestamp": "2024-07-23T21:38:21Z",
+    "url": "https://www.openstreetmap.org/way/205221993"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 750458683,
+      "version": 3,
+      "timestamp": "2023-12-14T16:22:31Z",
+      "url": "https://www.openstreetmap.org/way/750458683"
+    },
+    {
+      "type": "way",
+      "id": 750458680,
+      "version": 3,
+      "timestamp": "2026-04-22T19:53:25Z",
+      "url": "https://www.openstreetmap.org/way/750458680"
+    },
+    {
+      "type": "way",
+      "id": 750458681,
+      "version": 3,
+      "timestamp": "2026-04-22T20:00:06Z",
+      "url": "https://www.openstreetmap.org/way/750458681"
+    }
+  ],
+  "wikidata": "Q639975",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/chi-united-center.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "United Center, Chicago — procedural, CC0-1.0, no textures. bun generators/chi-united-center.ts",
+    "Map frame: x east, y north, z up, metres, built square to the arena and placed at bearing 359°: the long north and south faces run at bearing 89° in OSM. The anchor (-87.674184, 41.880680) is the area centroid of the outline way/205221993. The arena is symmetrical about both axes, so its outline is the OSM ring's north-east quarter mirrored round; the east atrium (way/750458683, 2017) is the one asymmetric part.",
+    "Evidence",
+    "OSM (measured): outline way/205221993 (165 x 124 m, stepped corners, bowed east and west ends); the atrium way/750458683; the entrance canopies way/750458680 and way/750458681 on Madison Street and the south side.",
+    "Published (Wikipedia): HOK Sport, 1994, 960,000 sq ft; the exterior echoes Chicago Stadium; the glass east atrium opened in 2017.",
+    "Photos (Wikimedia Commons): Arvell Dorsey Jr. (CC BY 2.0) \"United Center (17136283953)\" (Madison Street front, square on); Brule Laker (CC BY 2.0) \"United Center 2014\"; JeremyA (CC BY-SA 2.5) \"United Center 060716\"; Alacoolwiki (CC BY-SA 4.0) \"United Center 1\"; Brandon Zeman (CC BY-SA 2.0) \"2017 NHL Entry Draft (35346024092)\" and Ryan Dickey (CC BY 2.0) \"2017 NHL draft (35341702522)\" (the atrium).",
+    "USGS NAIP orthophoto (public domain): the white roof, a superellipse over nearly the whole footprint.",
+    "Measured from the square-on front photo, scaled by its 2.4 m doors: the central block 48 m wide and 28.5 m tall, its two pylons 30 m, the flanks 27 m; the two groups of six tall windows from 5.8 to 20.8 m between white pilasters, with a row of square windows over them.",
+    "Estimated: the stepped side blocks (26 and 25 m), the end blocks and stair towers, the drum's glass band (25 to 30 m) and the dome's 6 m rise, from the oblique photos; the atrium 21 m. The photos show the walls as warm grey precast, not the red brick of the old Chicago Stadium.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"chi-united-center\", model \"chi-united-center\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/chi-united-center.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 269 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the chi-united-center-glazing finish in the window colour.",
+    "To fit six materials, folded chi-united-center-window-2 into glass (ΔE 3.7)."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

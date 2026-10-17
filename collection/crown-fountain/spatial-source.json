@@ -1,0 +1,184 @@
+{
+  "id": "crown-fountain",
+  "anchor": [
+    -87.623744,
+    41.881486
+  ],
+  "coordinateSystem": "Local metres about the anchor (equirectangular, WGS84 radius): X east, Y north, Z up. glTF export: X east, Y up, Z south. Heading already baked.",
+  "license": "ODbL-1.0",
+  "footprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -4.152308059365059,
+          27.885532443707383
+        ],
+        [
+          2.5858684918763073,
+          28.00798388342902
+        ],
+        [
+          2.677036932785774,
+          23.399356964516763
+        ],
+        [
+          -0.7376355632896427,
+          23.332565270051237
+        ],
+        [
+          -4.069427659180709,
+          23.27690552479513
+        ],
+        [
+          -4.152308059365059,
+          27.885532443707383
+        ]
+      ]
+    ]
+  },
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -87.6237941,
+          41.8817365
+        ],
+        [
+          -87.6237128,
+          41.8817376
+        ],
+        [
+          -87.6237117,
+          41.8816962
+        ],
+        [
+          -87.6237529,
+          41.8816956
+        ],
+        [
+          -87.6237931,
+          41.8816951
+        ],
+        [
+          -87.6237941,
+          41.8817365
+        ]
+      ]
+    ]
+  },
+  "parts": [
+    {
+      "osm": "way/126945440",
+      "tags": {
+        "architect": "Jaume Plensa",
+        "building": "yes",
+        "height": "15.24",
+        "historic": "yes",
+        "name": "Crown Fountain",
+        "not:brand:wikidata": "Q5189323"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -4.152308059365059,
+              27.885532443707383
+            ],
+            [
+              2.5858684918763073,
+              28.00798388342902
+            ],
+            [
+              2.677036932785774,
+              23.399356964516763
+            ],
+            [
+              -0.7376355632896427,
+              23.332565270051237
+            ],
+            [
+              -4.069427659180709,
+              23.27690552479513
+            ],
+            [
+              -4.152308059365059,
+              27.885532443707383
+            ]
+          ]
+        ]
+      },
+      "version": 10,
+      "timestamp": "2024-01-12T17:03:10Z"
+    },
+    {
+      "osm": "way/126945441",
+      "tags": {
+        "architect": "Jaume Plensa",
+        "building": "yes",
+        "height": "15.24",
+        "name": "Crown Fountain",
+        "not:brand:wikidata": "Q5189323"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -2.602444572148738,
+              -23.53294035423879
+            ],
+            [
+              0.8536681240188542,
+              -23.488412557401126
+            ],
+            [
+              3.9865472589963575,
+              -23.43275281214501
+            ],
+            [
+              4.052851578908279,
+              -27.807608800823413
+            ],
+            [
+              -2.5361402522368177,
+              -27.90779634212622
+            ],
+            [
+              -2.602444572148738,
+              -23.53294035423879
+            ]
+          ]
+        ]
+      },
+      "version": 10,
+      "timestamp": "2024-01-12T17:03:10Z"
+    }
+  ],
+  "osm": {
+    "type": "way",
+    "id": 126945440,
+    "version": 10,
+    "timestamp": "2024-01-12T17:03:10Z",
+    "url": "https://www.openstreetmap.org/way/126945440"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 126945441,
+      "version": 10,
+      "timestamp": "2024-01-12T17:03:10Z",
+      "url": "https://www.openstreetmap.org/way/126945441"
+    }
+  ],
+  "tags": {
+    "architect": "Jaume Plensa",
+    "building": "yes",
+    "height": "15.24",
+    "historic": "yes",
+    "name": "Crown Fountain",
+    "not:brand:wikidata": "Q5189323"
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "id": "jay-pritzker-pavilion",
+  "name": "Jay Pritzker Pavilion",
+  "anchor": [
+    -87.621892,
+    41.883512
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 83996,
+      "sha256": "14a06f7bf15a035567ff11d5b65274fac63adc66ad9747852c31e49e3169406b"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 83996,
+      "sha256": "14a06f7bf15a035567ff11d5b65274fac63adc66ad9747852c31e49e3169406b"
+    }
+  },
+  "triangles": 2948,
+  "boundsBlenderM": [
+    [
+      -46.553,
+      -32.292,
+      0
+    ],
+    [
+      46.932,
+      11.015,
+      42.676
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -87.6216965,
+          41.8836049
+        ],
+        [
+          -87.6213327,
+          41.8836054
+        ],
+        [
+          -87.6213276,
+          41.8834733
+        ],
+        [
+          -87.6213272,
+          41.883465
+        ],
+        [
+          -87.6213261,
+          41.883442
+        ],
+        [
+          -87.6215199,
+          41.8834393
+        ],
+        [
+          -87.6215955,
+          41.8834383
+        ],
+        [
+          -87.6216276,
+          41.8834379
+        ],
+        [
+          -87.6216281,
+          41.8834169
+        ],
+        [
+          -87.6216956,
+          41.8834162
+        ],
+        [
+          -87.622105,
+          41.8834119
+        ],
+        [
+          -87.6221653,
+          41.8834113
+        ],
+        [
+          -87.6221657,
+          41.8834292
+        ],
+        [
+          -87.6222051,
+          41.8834287
+        ],
+        [
+          -87.622283,
+          41.8834277
+        ],
+        [
+          -87.6224508,
+          41.8834256
+        ],
+        [
+          -87.6224517,
+          41.8834632
+        ],
+        [
+          -87.6224546,
+          41.8835911
+        ],
+        [
+          -87.6220927,
+          41.8835994
+        ],
+        [
+          -87.6216965,
+          41.8836049
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 126978545,
+    "version": 16,
+    "timestamp": "2025-03-21T18:24:11Z",
+    "url": "https://www.openstreetmap.org/way/126978545"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 764598205,
+      "version": 4,
+      "timestamp": "2024-05-01T04:08:29Z",
+      "url": "https://www.openstreetmap.org/way/764598205"
+    },
+    {
+      "type": "way",
+      "id": 764598206,
+      "version": 2,
+      "timestamp": "2024-07-08T15:42:01Z",
+      "url": "https://www.openstreetmap.org/way/764598206"
+    },
+    {
+      "type": "way",
+      "id": 764598207,
+      "version": 5,
+      "timestamp": "2025-12-24T15:57:15Z",
+      "url": "https://www.openstreetmap.org/way/764598207"
+    },
+    {
+      "type": "way",
+      "id": 764598208,
+      "version": 4,
+      "timestamp": "2024-07-08T15:42:01Z",
+      "url": "https://www.openstreetmap.org/way/764598208"
+    },
+    {
+      "type": "way",
+      "id": 764598209,
+      "version": 4,
+      "timestamp": "2024-07-08T15:42:01Z",
+      "url": "https://www.openstreetmap.org/way/764598209"
+    }
+  ],
+  "wikidata": "Q3180096",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/chi-pritzker-pavilion.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Jay Pritzker Pavilion (Frank Gehry, 2004), Millennium Park, Chicago — original procedural geometry, CC0-1.0.",
+    "Map frame: x east, y north, z up, metres; origin at the centroid of the OSM outline way/126978545 (41.883512, -87.621892), on the ground. The outline's edges run at 89° / 179°, so the catalog bearing is 359. The stage faces south (-y), over the seating bowl and the Great Lawn.",
+    "Identity: the brushed-steel \"headdress\" — a crown of huge curled ribbons peeling back from the stage opening and rising to about 40 m — over the tall glass proscenium doors, with folded steel wings sweeping down to the ground on either side, all in front of a plain, wide, flat-roofed stage house.",
+    "Form: each curl is a solid lobe wrapped by a thick peeling sheet (part of a tilted cylinder, flaring and turning as it rises; outside bright, inside a shade darker), the curls overlapping into one crown on a massed core, over a concave canopy panel that frames the stage opening. The wings are folded steel wedges. The stage house is the OSM outline as three blocks.",
+    "Evidence: - Published (Wikipedia, \"Jay Pritzker Pavilion\"): proscenium framed by the steel headdress, about 120-139 ft (37-42 m) tall; glass proscenium doors about 50 ft (15 m) tall and 100 ft (30 m) wide; orchestra shell 100 ft wide, 50 ft tall; trellis 600 x 300 ft of crossing pipes 12-20 in across. - OSM way/126978545: the stage building, 93 x 21 m (NAIP shows the centre 34 m of roof distinct). OSM also traces the headdress in plan (way/764598205, silver metal roof, reaching 27-38 m south of the outline's centre) and the steel wings (764598206-209). Traced from imagery, those lean forward with height, so the model's headdress reaches about 28 m south and only the wings follow OSM closely. - USGS NAIP orthophoto: the stage house roof, the ribbons projecting south of it, the seating bowl and the trellis south of that. - Photos (Wikimedia Commons): Jay Pritzker Pavilion, Chicago ... DD 01, DD 02, DD 04 (Diego Delso, CC BY-SA 3.0; DD 04 is square-on from the seats); Jay_Pritzker_Pavilion_Oct_2022_1/2/3 (Sea Cow, CC BY-SA 4.0, aerials from the south); 2005-10-13 chicago above millennium park (J. Crocker, attribution; from above, showing the stage house roof and the ribbons' bracing behind); Jay_Pritzker_Pavilion_Chicago_HiRes.jpg (Andreborgeslopes, CC BY-SA 3.0). Ribbon sizes and positions are measured off DD 04 against the 30 m doors, and off the aerials.",
+    "Estimated: the stage house heights (21 m centre, 7 m wings), every curl's size, lean and turn (drawn as eight solid curls, each wrapped by a peeling sheet, on a massed core over a concave canopy: far fewer than the real crowd of panels), the wings' folds. Left out: the trellis over the lawn — at 0.3-0.5 m its pipes vanish at map scale, and as bolder bands across 180 m of lawn it would misdraw the park; the seating; the lawn; the bracing behind the ribbons; the loudspeaker rig.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"chi-pritzker-pavilion\", model \"chi-pritzker-pavilion\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/chi-pritzker-pavilion.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

@@ -1,0 +1,330 @@
+{
+  "id": "900-north-michigan",
+  "name": "900 North Michigan",
+  "anchor": [
+    -87.62559,
+    41.899615
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 137840,
+      "sha256": "cad2eef5bd0bc07a67de0c6c049cbc08796467b43179929e5c15f4b36208551b"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 137840,
+      "sha256": "cad2eef5bd0bc07a67de0c6c049cbc08796467b43179929e5c15f4b36208551b"
+    }
+  },
+  "triangles": 2499,
+  "boundsBlenderM": [
+    [
+      -114.555,
+      -36.571,
+      0
+    ],
+    [
+      102.445,
+      32.578,
+      265.4
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -87.6259727,
+          41.8992944
+        ],
+        [
+          -87.6260558,
+          41.8992932
+        ],
+        [
+          -87.6261258,
+          41.8992923
+        ],
+        [
+          -87.6263829,
+          41.8992886
+        ],
+        [
+          -87.6266994,
+          41.8992842
+        ],
+        [
+          -87.6268097,
+          41.8995197
+        ],
+        [
+          -87.6269467,
+          41.8998121
+        ],
+        [
+          -87.6269723,
+          41.8998668
+        ],
+        [
+          -87.6268956,
+          41.8998682
+        ],
+        [
+          -87.6266552,
+          41.8998725
+        ],
+        [
+          -87.6264313,
+          41.8998765
+        ],
+        [
+          -87.6264021,
+          41.899877
+        ],
+        [
+          -87.6263293,
+          41.8998784
+        ],
+        [
+          -87.626249,
+          41.8998798
+        ],
+        [
+          -87.626242,
+          41.8998655
+        ],
+        [
+          -87.6262006,
+          41.8998663
+        ],
+        [
+          -87.6261592,
+          41.899867
+        ],
+        [
+          -87.6261595,
+          41.8998771
+        ],
+        [
+          -87.6261062,
+          41.8998781
+        ],
+        [
+          -87.6256513,
+          41.8998865
+        ],
+        [
+          -87.6255309,
+          41.8998887
+        ],
+        [
+          -87.6252034,
+          41.8998948
+        ],
+        [
+          -87.6252031,
+          41.8998846
+        ],
+        [
+          -87.6251191,
+          41.8998861
+        ],
+        [
+          -87.6251195,
+          41.8998975
+        ],
+        [
+          -87.624992,
+          41.8998996
+        ],
+        [
+          -87.6248193,
+          41.8999026
+        ],
+        [
+          -87.6246606,
+          41.8999055
+        ],
+        [
+          -87.6246604,
+          41.8998993
+        ],
+        [
+          -87.6246046,
+          41.8999
+        ],
+        [
+          -87.624604,
+          41.8999062
+        ],
+        [
+          -87.6243695,
+          41.8999097
+        ],
+        [
+          -87.6243642,
+          41.8997113
+        ],
+        [
+          -87.6243607,
+          41.8995794
+        ],
+        [
+          -87.6243538,
+          41.8993195
+        ],
+        [
+          -87.6245864,
+          41.899316
+        ],
+        [
+          -87.6245867,
+          41.8993265
+        ],
+        [
+          -87.6246519,
+          41.8993256
+        ],
+        [
+          -87.6246517,
+          41.8993159
+        ],
+        [
+          -87.6246972,
+          41.8993152
+        ],
+        [
+          -87.6247736,
+          41.8993142
+        ],
+        [
+          -87.6251235,
+          41.8993094
+        ],
+        [
+          -87.6251236,
+          41.8993163
+        ],
+        [
+          -87.6251825,
+          41.8993155
+        ],
+        [
+          -87.6251819,
+          41.899308
+        ],
+        [
+          -87.6251952,
+          41.8993078
+        ],
+        [
+          -87.6253403,
+          41.8993057
+        ],
+        [
+          -87.6254203,
+          41.8993046
+        ],
+        [
+          -87.6254224,
+          41.8993849
+        ],
+        [
+          -87.6254234,
+          41.899422
+        ],
+        [
+          -87.625586,
+          41.8994197
+        ],
+        [
+          -87.6256091,
+          41.8994757
+        ],
+        [
+          -87.6259796,
+          41.8994717
+        ],
+        [
+          -87.6260171,
+          41.8994616
+        ],
+        [
+          -87.6260497,
+          41.8994528
+        ],
+        [
+          -87.6260425,
+          41.8994381
+        ],
+        [
+          -87.6259727,
+          41.8992944
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 31064552,
+    "version": 16,
+    "timestamp": "2026-06-02T18:54:09Z",
+    "url": "https://www.openstreetmap.org/way/31064552"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 153966972,
+      "version": 13,
+      "timestamp": "2024-07-08T16:29:03Z",
+      "url": "https://www.openstreetmap.org/way/153966972"
+    },
+    {
+      "type": "way",
+      "id": 1283045515,
+      "version": 2,
+      "timestamp": "2025-02-06T19:41:38Z",
+      "url": "https://www.openstreetmap.org/way/1283045515"
+    }
+  ],
+  "wikidata": "Q275936",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/chi-900-north-michigan.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "900 North Michigan (1989, Kohn Pedersen Fox with Perkins & Will), Chicago — original procedural geometry, CC0-1.0. bun generators/chi-900-north-michigan.ts",
+    "Map frame: x east, y north, z up, metres; origin at the anchor on the ground. Anchor = centroid of the OSM outline way/31064552, 41.899615,-87.625590. The outline's edges run at 88.9° / 178.9°, so the catalog bearing is 358.9; the outline is turned by 1.1° into this frame.",
+    "Identity: the pale limestone tower standing behind the Michigan Avenue podium, long side north-south; green glass in tall vertical bays between stone piers; the crenellated cornice where the office floors give way to the narrower upper shaft; the four corner pavilions at the top, each with a glass lantern under a pale metal pyramid and finial.",
+    "Evidence: - plan: the OSM outline (the whole block: mall podium, parking garage to Rush Street) and the tower part way/153966972, whose tower rectangle is 37.8 × 65.2 m at x 39.6-77.4. - height 265 m (871 ft, Wikipedia; OSM 265.4), 66 floors. - podium 38 m: estimated, the eight-storey Michigan front in Marketing900's street photo (the 12-storey garage behind reads about the same height). - tower massing, measured on the two aerials from 875 N Michigan (Roman Boed; anonymous 2004) and Marketing900's frontal photo, scaled by the 65.2 m east face: office block to the crenellated band at ≈ 112 m (floor 28, Wikipedia's office floors 8-28); the upper shaft set in ≈ 2.5 m, its corners notched 2.5 m all the way up; the central roof at ≈ 236 m; the corner pavilions ≈ 14 m square, notched the same, to ≈ 244.5 m, the lanterns 10 m square, glass to ≈ 253.5 m and the pyramids to ≈ 262 m, finials to 265 m. Expect ±4 m on the breaks. - colour: cream limestone near `stone`; green-tinted glass drawn as a green-slate window; the lantern roofs pale silver metal.",
+    "Photos (Wikimedia Commons): 900_North_Michigan_Avenue.jpg (Marketing900, CC BY-SA 4.0); Chicago_900_North_Michigan_Avenue_(27940356553).jpg and 900_North_Michigan_(14903590855).jpg (Roman Boed, CC BY 2.0); 900_North_Michigan_top_from_John_Hancock_2004-11_img_2627.jpg (CC BY 2.0); Hancock_View_14_(3539430653).jpg (Jaysin Trevino, CC BY 2.0). No commercial imagery.",
+    "Left out: the podium's round window and shopfronts, the roof garden on the podium, the pavilions' open loggias and red merlon caps.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"chi-900-north-michigan\", model \"chi-900-north-michigan\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/chi-900-north-michigan.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

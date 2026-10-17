@@ -1,0 +1,151 @@
+{
+  "id": "mather-tower",
+  "name": "Mather Tower",
+  "anchor": [
+    -87.625442,
+    41.887616
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 93264,
+      "sha256": "6549b84b016bbb9b68c6d40a6fea665607b02e7e077645f3fa118efe487fd576"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 93264,
+      "sha256": "6549b84b016bbb9b68c6d40a6fea665607b02e7e077645f3fa118efe487fd576"
+    }
+  },
+  "triangles": 1692,
+  "boundsBlenderM": [
+    [
+      -18.188,
+      -16.973,
+      0
+    ],
+    [
+      18.188,
+      16.973,
+      158
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -87.6256653,
+          41.8876152
+        ],
+        [
+          -87.6256531,
+          41.8876283
+        ],
+        [
+          -87.6256077,
+          41.8876771
+        ],
+        [
+          -87.6255945,
+          41.8876913
+        ],
+        [
+          -87.6255814,
+          41.8877054
+        ],
+        [
+          -87.6255359,
+          41.8877543
+        ],
+        [
+          -87.6255259,
+          41.8877651
+        ],
+        [
+          -87.6253725,
+          41.8876891
+        ],
+        [
+          -87.6252191,
+          41.887613
+        ],
+        [
+          -87.6253578,
+          41.8874676
+        ],
+        [
+          -87.6254797,
+          41.8875261
+        ],
+        [
+          -87.6256653,
+          41.8876152
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 147399564,
+    "version": 10,
+    "timestamp": "2023-09-30T09:37:33Z",
+    "url": "https://www.openstreetmap.org/way/147399564"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 592122465,
+      "version": 2,
+      "timestamp": "2019-04-26T21:27:46Z",
+      "url": "https://www.openstreetmap.org/way/592122465"
+    },
+    {
+      "type": "way",
+      "id": 686198765,
+      "version": 3,
+      "timestamp": "2023-09-30T09:37:33Z",
+      "url": "https://www.openstreetmap.org/way/686198765"
+    }
+  ],
+  "wikidata": "Q3117510",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/chi-mather-tower.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Mather Tower (75 East Wacker, 1928, Herbert Hugh Riddle; now a Club Quarters hotel), Chicago — original procedural geometry, CC0-1.0. bun generators/chi-mather-tower.ts",
+    "Map frame: x east, y north, z up, metres; origin at the anchor on the ground. Anchor = centroid of the OSM outline way/147399564, 41.887616,-87.625442. The building stands square to the bend of Wacker Drive: its short faces run at 34.9°, so the catalog bearing is 34.9 and the model is built square to its own frame (the Wacker front is the west face here).",
+    "Identity, in order: the slim octagonal tower on the slab, stepping in by stages to a crenellated lantern — the \"pencil\"; the white terracotta; the slab's three tall window bays between plain end piers.",
+    "Evidence: - plan: OSM outline, 30.4 × 20.6 m; the octagon OSM way/592122465, ~11 m across, a little off the slab's centre (kept where OSM has it). - heights: 158 m (OSM, published 521 ft) and 41 floors. The slab is 24 floors (OSM part way/686198765 says 23 levels; published 24), its middle at ~88 m, the end piers a storey lower, so the parapet steps (Tony Hisgett). The octagon rises in four stages, each tapering slightly and set back at a ledge (to ~101, 123, 134 and 144 m, 11.2, 9.9, 8.4 and 7.3 m across), then the crenellated lantern (5.6 m) to ~154 m and its small open frame to 158 m. Widths are in the ratios of Hisgett's telephoto; heights are his photo's divisions corrected roughly for its upward view, so they are estimates. - colour: white glazed terracotta, the palette stone with trim for the copings and the lantern; windows the palette window.",
+    "Photos (Wikimedia Commons): Mather_Tower,_Chicago_in_May_2016.jpg (MusikAnimal, CC BY-SA 4.0); Chicago_Buildings_15_(15430932830).jpg and 15a (Tony Hisgett, CC BY 2.0); Mather_Tower_(9043777245).jpg (Teemu008, CC BY-SA 2.0); Mather_Tower_3.JPG (Thshriver, CC BY-SA 3.0); Mather Tower.jpg (Antoine Taveneaux, CC BY-SA 3.0). No commercial imagery.",
+    "Left out: the Gothic tracery and the octagon's buttress piers, the cast iron of the shopfronts.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"chi-mather-tower\", model \"chi-mather-tower\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/chi-mather-tower.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 429 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the chi-mather-tower-glazing finish in the window colour."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

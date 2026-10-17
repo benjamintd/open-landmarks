@@ -1,0 +1,582 @@
+{
+  "id": "willis-tower",
+  "name": "Willis Tower",
+  "anchor": [
+    -87.6359459,
+    41.8787278
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 13,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 187748,
+      "sha256": "d3dc1d666cf64bc54abe0926a85aa68af987fbe504c05b5d45d5b05b02363a3f"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 187748,
+      "sha256": "d3dc1d666cf64bc54abe0926a85aa68af987fbe504c05b5d45d5b05b02363a3f"
+    }
+  },
+  "triangles": 3902,
+  "boundsBlenderM": [
+    [
+      -48.451,
+      -59.302,
+      0
+    ],
+    [
+      45.823,
+      60.765,
+      527
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -87.6354196,
+          41.8792768
+        ],
+        [
+          -87.6355736,
+          41.8792746
+        ],
+        [
+          -87.6356626,
+          41.8792733
+        ],
+        [
+          -87.6362092,
+          41.8792666
+        ],
+        [
+          -87.6362714,
+          41.8792658
+        ],
+        [
+          -87.6362942,
+          41.8792655
+        ],
+        [
+          -87.6363162,
+          41.8792652
+        ],
+        [
+          -87.6365297,
+          41.8792624
+        ],
+        [
+          -87.6365293,
+          41.8792178
+        ],
+        [
+          -87.6365256,
+          41.8790843
+        ],
+        [
+          -87.6365249,
+          41.8790626
+        ],
+        [
+          -87.6365243,
+          41.8790451
+        ],
+        [
+          -87.6365236,
+          41.8790257
+        ],
+        [
+          -87.636522,
+          41.8789754
+        ],
+        [
+          -87.6364289,
+          41.8789769
+        ],
+        [
+          -87.6364283,
+          41.8789572
+        ],
+        [
+          -87.6364274,
+          41.878921
+        ],
+        [
+          -87.6364262,
+          41.8788777
+        ],
+        [
+          -87.6364251,
+          41.8788362
+        ],
+        [
+          -87.636424,
+          41.8787977
+        ],
+        [
+          -87.6364236,
+          41.87878
+        ],
+        [
+          -87.6364646,
+          41.8787794
+        ],
+        [
+          -87.6365166,
+          41.8787786
+        ],
+        [
+          -87.6365152,
+          41.8787328
+        ],
+        [
+          -87.6365151,
+          41.8787284
+        ],
+        [
+          -87.6365147,
+          41.8787143
+        ],
+        [
+          -87.6365143,
+          41.8786947
+        ],
+        [
+          -87.6365113,
+          41.8785663
+        ],
+        [
+          -87.6365109,
+          41.878548
+        ],
+        [
+          -87.6365104,
+          41.8785285
+        ],
+        [
+          -87.6365103,
+          41.8785242
+        ],
+        [
+          -87.6365076,
+          41.878405
+        ],
+        [
+          -87.6365071,
+          41.8783863
+        ],
+        [
+          -87.6365067,
+          41.8783672
+        ],
+        [
+          -87.6365047,
+          41.87828
+        ],
+        [
+          -87.6365031,
+          41.8782364
+        ],
+        [
+          -87.6365024,
+          41.8781922
+        ],
+        [
+          -87.6364099,
+          41.8781938
+        ],
+        [
+          -87.6361824,
+          41.8781964
+        ],
+        [
+          -87.6361541,
+          41.8781968
+        ],
+        [
+          -87.6360187,
+          41.8781991
+        ],
+        [
+          -87.6360198,
+          41.8782351
+        ],
+        [
+          -87.6359939,
+          41.8782354
+        ],
+        [
+          -87.6359365,
+          41.8782361
+        ],
+        [
+          -87.6358822,
+          41.8782368
+        ],
+        [
+          -87.6358232,
+          41.8782376
+        ],
+        [
+          -87.6357728,
+          41.8782382
+        ],
+        [
+          -87.6357461,
+          41.8782386
+        ],
+        [
+          -87.6357452,
+          41.8782017
+        ],
+        [
+          -87.6356821,
+          41.8782026
+        ],
+        [
+          -87.6356574,
+          41.8782029
+        ],
+        [
+          -87.6356343,
+          41.8782033
+        ],
+        [
+          -87.6353939,
+          41.8782065
+        ],
+        [
+          -87.6353972,
+          41.8783395
+        ],
+        [
+          -87.6354002,
+          41.8784603
+        ],
+        [
+          -87.6354006,
+          41.8784789
+        ],
+        [
+          -87.6354011,
+          41.8784981
+        ],
+        [
+          -87.6354043,
+          41.878628
+        ],
+        [
+          -87.6354049,
+          41.8786491
+        ],
+        [
+          -87.6354053,
+          41.8786653
+        ],
+        [
+          -87.6354063,
+          41.8787061
+        ],
+        [
+          -87.6354067,
+          41.8787241
+        ],
+        [
+          -87.6354072,
+          41.8787433
+        ],
+        [
+          -87.6354082,
+          41.8787823
+        ],
+        [
+          -87.6354788,
+          41.8787855
+        ],
+        [
+          -87.6354794,
+          41.8788096
+        ],
+        [
+          -87.6354803,
+          41.878851
+        ],
+        [
+          -87.6354813,
+          41.8788924
+        ],
+        [
+          -87.6354823,
+          41.8789349
+        ],
+        [
+          -87.6354833,
+          41.8789763
+        ],
+        [
+          -87.6354838,
+          41.8789965
+        ],
+        [
+          -87.6354132,
+          41.8789955
+        ],
+        [
+          -87.6354166,
+          41.8791634
+        ],
+        [
+          -87.6354171,
+          41.8791805
+        ],
+        [
+          -87.6354176,
+          41.8792011
+        ],
+        [
+          -87.6354196,
+          41.8792768
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 380868216,
+    "version": 39,
+    "timestamp": "2025-10-17T01:00:58Z",
+    "url": "https://www.openstreetmap.org/way/380868216"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 137162289,
+      "version": 7,
+      "timestamp": "2023-06-02T00:25:17Z",
+      "url": "https://www.openstreetmap.org/way/137162289"
+    },
+    {
+      "type": "way",
+      "id": 137162290,
+      "version": 7,
+      "timestamp": "2023-06-02T02:28:40Z",
+      "url": "https://www.openstreetmap.org/way/137162290"
+    },
+    {
+      "type": "way",
+      "id": 137162293,
+      "version": 6,
+      "timestamp": "2023-06-02T00:25:17Z",
+      "url": "https://www.openstreetmap.org/way/137162293"
+    },
+    {
+      "type": "way",
+      "id": 137162295,
+      "version": 6,
+      "timestamp": "2023-06-02T00:25:17Z",
+      "url": "https://www.openstreetmap.org/way/137162295"
+    },
+    {
+      "type": "way",
+      "id": 137162296,
+      "version": 9,
+      "timestamp": "2023-06-02T04:26:13Z",
+      "url": "https://www.openstreetmap.org/way/137162296"
+    },
+    {
+      "type": "way",
+      "id": 137162297,
+      "version": 6,
+      "timestamp": "2023-06-02T00:25:17Z",
+      "url": "https://www.openstreetmap.org/way/137162297"
+    },
+    {
+      "type": "way",
+      "id": 137162298,
+      "version": 7,
+      "timestamp": "2023-06-02T02:28:40Z",
+      "url": "https://www.openstreetmap.org/way/137162298"
+    },
+    {
+      "type": "way",
+      "id": 137162299,
+      "version": 6,
+      "timestamp": "2023-06-02T00:25:17Z",
+      "url": "https://www.openstreetmap.org/way/137162299"
+    },
+    {
+      "type": "way",
+      "id": 233918141,
+      "version": 5,
+      "timestamp": "2018-06-20T16:46:38Z",
+      "url": "https://www.openstreetmap.org/way/233918141"
+    },
+    {
+      "type": "way",
+      "id": 233918220,
+      "version": 4,
+      "timestamp": "2018-06-20T16:46:38Z",
+      "url": "https://www.openstreetmap.org/way/233918220"
+    },
+    {
+      "type": "way",
+      "id": 1178243970,
+      "version": 1,
+      "timestamp": "2023-06-02T04:26:13Z",
+      "url": "https://www.openstreetmap.org/way/1178243970"
+    },
+    {
+      "type": "way",
+      "id": 1178243971,
+      "version": 1,
+      "timestamp": "2023-06-02T04:26:13Z",
+      "url": "https://www.openstreetmap.org/way/1178243971"
+    },
+    {
+      "type": "way",
+      "id": 1178243972,
+      "version": 1,
+      "timestamp": "2023-06-02T04:26:13Z",
+      "url": "https://www.openstreetmap.org/way/1178243972"
+    },
+    {
+      "type": "way",
+      "id": 1178243973,
+      "version": 1,
+      "timestamp": "2023-06-02T04:26:13Z",
+      "url": "https://www.openstreetmap.org/way/1178243973"
+    },
+    {
+      "type": "way",
+      "id": 1178226299,
+      "version": 3,
+      "timestamp": "2024-01-24T23:28:07Z",
+      "url": "https://www.openstreetmap.org/way/1178226299"
+    },
+    {
+      "type": "way",
+      "id": 1007423276,
+      "version": 2,
+      "timestamp": "2023-06-02T00:25:17Z",
+      "url": "https://www.openstreetmap.org/way/1007423276"
+    },
+    {
+      "type": "way",
+      "id": 1178212992,
+      "version": 3,
+      "timestamp": "2023-06-02T04:26:13Z",
+      "url": "https://www.openstreetmap.org/way/1178212992"
+    },
+    {
+      "type": "way",
+      "id": 1178212993,
+      "version": 3,
+      "timestamp": "2023-06-02T04:26:13Z",
+      "url": "https://www.openstreetmap.org/way/1178212993"
+    },
+    {
+      "type": "way",
+      "id": 1178212994,
+      "version": 4,
+      "timestamp": "2023-06-02T04:26:13Z",
+      "url": "https://www.openstreetmap.org/way/1178212994"
+    },
+    {
+      "type": "way",
+      "id": 1178212995,
+      "version": 4,
+      "timestamp": "2025-09-26T04:00:29Z",
+      "url": "https://www.openstreetmap.org/way/1178212995"
+    },
+    {
+      "type": "way",
+      "id": 1178212996,
+      "version": 2,
+      "timestamp": "2023-06-02T02:28:40Z",
+      "url": "https://www.openstreetmap.org/way/1178212996"
+    },
+    {
+      "type": "way",
+      "id": 1178212997,
+      "version": 4,
+      "timestamp": "2025-07-07T15:23:40Z",
+      "url": "https://www.openstreetmap.org/way/1178212997"
+    },
+    {
+      "type": "way",
+      "id": 1178212998,
+      "version": 3,
+      "timestamp": "2023-06-02T04:26:13Z",
+      "url": "https://www.openstreetmap.org/way/1178212998"
+    },
+    {
+      "type": "way",
+      "id": 1178212999,
+      "version": 4,
+      "timestamp": "2023-06-02T04:26:13Z",
+      "url": "https://www.openstreetmap.org/way/1178212999"
+    },
+    {
+      "type": "way",
+      "id": 1178213001,
+      "version": 4,
+      "timestamp": "2023-06-02T04:26:13Z",
+      "url": "https://www.openstreetmap.org/way/1178213001"
+    },
+    {
+      "type": "way",
+      "id": 1178226263,
+      "version": 2,
+      "timestamp": "2023-06-02T04:26:13Z",
+      "url": "https://www.openstreetmap.org/way/1178226263"
+    },
+    {
+      "type": "way",
+      "id": 1178226264,
+      "version": 2,
+      "timestamp": "2023-06-02T04:26:13Z",
+      "url": "https://www.openstreetmap.org/way/1178226264"
+    }
+  ],
+  "wikidata": "Q29294",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/chi-willis-tower.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Willis Tower (Sears Tower, 1973, SOM: Bruce Graham, Fazlur Khan), Chicago — original procedural geometry, CC0-1.0. bun generators/chi-willis-tower.ts",
+    "Map frame: x east, y north, z up, metres; origin at the anchor on the ground. The anchor is the centroid of the OSM outline (way/380868216), 41.8787278,-87.6359459. The tube grid in OSM is turned 1.07° anticlockwise from true north (mean of 29 tube edges), so the catalog bearing is 358.93° and the tubes are square to this frame.",
+    "Identity: nine 75 ft (22.86 m) square tubes in a 3×3 bundle, 225 ft (68.58 m) a side (Wikipedia, citing SOM/CTBUH). The NW and SE tubes stop at the 50th floor, the NE and SW at the 66th, the N, E and S at the 90th; the W and centre tubes rise to the 108-storey roof at 442 m. That termination pattern is exact (Wikipedia; OSM building:parts agree tube for tube).",
+    "Heights: - roof 442 m: published (442.1 m) and OSM. - setback roofs 206 / 268 / 366 m: estimated. OSM tags 200 / 260 / 355, but in a distant telephoto from the lake (Chris6d, PD), scaled by the known 85 m from roof to the west antenna tip and cross-checked against the tube widths, the steps measure ≈209 / ≈266 / ≈365 m, and scaling 442 m by floor count (50, 66, 90 of 108) gives 205 / 270 / 368 m. OSM reads about 3% low on all three, so the measured values are used. - west antenna tip 527 m (1,729 ft, published, after the 2000 extension); east antenna 521 m, measured from the Chinatown telephoto (Daniel Schwen, CC BY-SA 4.0), where the west tip stands ~5 m higher. The antenna profiles (stepped white masts, two slim outboard poles each) and the ~4 m roof penthouse are from the same photo. - mechanical floors 29–32, 64–65, 88–89, 104–108 (Wikipedia floor list) show in every photo as solid black bands without glazing; they are drawn as the frame showing between window groups. Every tube top also reads as a dark two-storey band (photos), so the 50-storey tubes get one. - antenna positions: OSM (way/233918141, way/233918220), ±13.4 m either side of the 108-storey block's centre on its centreline. - the four white drums on the 50- and 66-storey roofs: OSM parts (way/1178243970-73), r ≈ 4 m, 5 m tall. - podium: OSM building:parts (the 2020 three-level annex with its roof garden, the glass-roofed Jackson atrium and Wacker entrance), heights as tagged, outlines simplified to 0.35 m.",
+    "Facade: perimeter columns at 15 ft (Wikipedia), so five bays per tube face. One slate window panel per bay per group of about four floors, the black aluminium frame showing between as piers and spandrels, a wider pier at every tube line. Colours: the body is black anodised aluminium with bronze-tinted glass; per STYLE.md it is pulled up to charcoal #4a4f57 and the glass to a warm slate a step lighter, which is how it reads in sun.",
+    "Left out: the Skydeck's glass ledge boxes on the west face at 412 m (they project 1.3 m and vanish at map scale), the antennas' cross-arms and dishes.",
+    "Photos (Wikimedia Commons): Willis_Tower_From_Lake.jpg (Chris6d, PD); Willis_Tower_Chinatown.jpg, Chicago_Sears_Tower.jpg, Willis_Tower.jpg (Daniel Schwen, CC BY-SA); Willis_Tower,_Chicago_September_2016-26.jpg (Alvesgaspar, CC BY-SA 4.0); Sears_Tower_(1795363412).jpg (Jeramey Jannene, CC BY 2.0); Willis_Tower_antennas_(12889516014).jpg (Jaysin Trevino, CC BY 2.0); Chicago_in_2022_Top_of_the_Willis_Tower (Chris Rycroft, CC BY 2.0); Carol M. Highsmith aerials (PD). No commercial imagery or 3D tiles were used.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"chi-willis-tower\", model \"chi-willis-tower\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/chi-willis-tower.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

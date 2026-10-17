@@ -1,0 +1,237 @@
+{
+  "id": "875-north-michigan-avenue",
+  "name": "875 North Michigan Avenue",
+  "anchor": [
+    -87.623095,
+    41.898818
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 13,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 110264,
+      "sha256": "b17b05d92242ceb0662ede0809d43114f6615cc56be6cf457f5b8ffd4eea4956"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 110264,
+      "sha256": "b17b05d92242ceb0662ede0809d43114f6615cc56be6cf457f5b8ffd4eea4956"
+    }
+  },
+  "triangles": 1964,
+  "boundsBlenderM": [
+    [
+      -41.972,
+      -27.335,
+      0
+    ],
+    [
+      41.972,
+      27.335,
+      457
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -87.6225927,
+          41.8985884
+        ],
+        [
+          -87.6225934,
+          41.8986166
+        ],
+        [
+          -87.6225938,
+          41.898634
+        ],
+        [
+          -87.6225945,
+          41.8986654
+        ],
+        [
+          -87.6225949,
+          41.8986798
+        ],
+        [
+          -87.6226038,
+          41.8990608
+        ],
+        [
+          -87.6226779,
+          41.8990599
+        ],
+        [
+          -87.6228752,
+          41.8990573
+        ],
+        [
+          -87.6229908,
+          41.8990558
+        ],
+        [
+          -87.6230908,
+          41.8990545
+        ],
+        [
+          -87.6231768,
+          41.8990534
+        ],
+        [
+          -87.6232598,
+          41.8990523
+        ],
+        [
+          -87.6235966,
+          41.899048
+        ],
+        [
+          -87.6235954,
+          41.8989931
+        ],
+        [
+          -87.6235944,
+          41.8989509
+        ],
+        [
+          -87.6235911,
+          41.8988117
+        ],
+        [
+          -87.6235879,
+          41.8986759
+        ],
+        [
+          -87.6235855,
+          41.8985754
+        ],
+        [
+          -87.6232507,
+          41.8985798
+        ],
+        [
+          -87.6231721,
+          41.8985808
+        ],
+        [
+          -87.6230271,
+          41.8985827
+        ],
+        [
+          -87.6229311,
+          41.898584
+        ],
+        [
+          -87.6225927,
+          41.8985884
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 31064573,
+    "version": 28,
+    "timestamp": "2025-12-25T00:49:43Z",
+    "url": "https://www.openstreetmap.org/way/31064573"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 232905278,
+      "version": 24,
+      "timestamp": "2024-05-14T21:54:48Z",
+      "url": "https://www.openstreetmap.org/way/232905278"
+    },
+    {
+      "type": "way",
+      "id": 232905280,
+      "version": 18,
+      "timestamp": "2024-05-14T21:54:48Z",
+      "url": "https://www.openstreetmap.org/way/232905280"
+    },
+    {
+      "type": "way",
+      "id": 232905283,
+      "version": 9,
+      "timestamp": "2024-05-12T21:45:30Z",
+      "url": "https://www.openstreetmap.org/way/232905283"
+    },
+    {
+      "type": "way",
+      "id": 232906397,
+      "version": 18,
+      "timestamp": "2024-05-14T21:54:48Z",
+      "url": "https://www.openstreetmap.org/way/232906397"
+    },
+    {
+      "type": "way",
+      "id": 232914185,
+      "version": 17,
+      "timestamp": "2024-05-14T21:54:48Z",
+      "url": "https://www.openstreetmap.org/way/232914185"
+    },
+    {
+      "type": "way",
+      "id": 1282265474,
+      "version": 2,
+      "timestamp": "2025-06-25T10:40:13Z",
+      "url": "https://www.openstreetmap.org/way/1282265474"
+    },
+    {
+      "type": "way",
+      "id": 279951771,
+      "version": 3,
+      "timestamp": "2021-12-12T16:30:42Z",
+      "url": "https://www.openstreetmap.org/way/279951771"
+    },
+    {
+      "type": "way",
+      "id": 279951772,
+      "version": 3,
+      "timestamp": "2021-12-12T16:30:42Z",
+      "url": "https://www.openstreetmap.org/way/279951772"
+    }
+  ],
+  "wikidata": "Q217727",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/chi-875-north-michigan.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "875 North Michigan Avenue (John Hancock Center, 1969, SOM: Bruce Graham, Fazlur Khan), Chicago — original procedural geometry, CC0-1.0. bun generators/chi-875-north-michigan.ts",
+    "Map frame: x east, y north, z up, metres; origin at the anchor on the ground. Anchor = centroid of the OSM outline way/31064573, 41.898818,-87.623095. The outline's long edges run at 89.0° / 179.0°, so the catalog bearing is 359 and the tower is square to this frame.",
+    "Identity, in order: the tapering obelisk; the stacked X braces on every face, with the horizontal ties where the diagonals meet the corners; the pale louvred band of the top mechanical floors; the two antennas, the west one shorter.",
+    "Evidence: - plan at the base 82.4 × 52.6 m: OSM outline (published 265 × 165 ft, 80.8 × 50.3 m). Plan at the roof 48.8 × 31.0 m: OSM flat roof part way/232905283 (published 160 × 100 ft, 48.8 × 30.5 m). The four sloped OSM parts (way/232905278, -280, -397, 232914185) are the tapering faces. - main roof 337 m: OSM parts; penthouse to 343.7 m: OSM way/1282265474, footprint simplified to its bounding box. Published roof 344 m. - antennas: positions from OSM (way/279951771 west, way/279951772 east); east tip 457 m (1,500 ft, published); west tip 442 m, measured from the James Willamor telephoto (scaled by the 48.8 m top width), which agrees with the commonly quoted 1,449 ft. White lower drums ~20 m and the slimmer mast above: measured from the same photo and Roman Boed's. - X bracing: counted on the north face (Roman Boed, full resolution) and the south face (James Willamor): five full X's stacked from the ground, then a Λ from the top tie to the middle of the top band. The ties lie at the same floors on the broad and narrow faces (Joe Ravi's corner view), so the narrow faces carry steeper X's of the same height. Tie spacing 60 m (~18 floors) is from the photos' ratio of the top partial X (0.45 of a full one) to the braced height; the Λ's apex meets the top band ~10 m below the roof (dark mechanical floors under a pale glazed strip at the very top, north photo). - bays: the broad faces read as four bays between strong columns (north photo), the narrow faces as three (estimated, foreshortened in every photo). - colour: black anodised aluminium and bronze glass, pulled to charcoal #4a4f57 with a warm slate window a step lighter, as Willis is drawn. The braces are a lighter grey so they read as they do in sun (Joe Ravi, TheFrog001): the bracing is the identity.",
+    "Ground: the sunken plaza lies along Michigan Avenue outside the outline; y = 0 is the lowest ground under the tower and the map finds it.",
+    "Photos (Wikimedia Commons): 875_North_Michigan_Avenue,_Chicago,_IL.jpg (James Willamor, CC BY-SA 2.0); Chicago_John_Hancock_Center_(28386228340) (Roman Boed, CC BY 2.0); John_Hancock_Center_2.jpg (Joe Ravi, CC BY-SA 3.0); John_Hancock_Center,_July_2017.jpg (TheFrog001, CC0); Hancock_tower_day.jpg (David Salz, CC BY-SA 3.0). No commercial imagery.",
+    "Left out: the floor-by-floor window grid, the antennas' dishes, the observatory's tilt windows, the low podium and garage ramps.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"chi-875-north-michigan\", model \"chi-875-north-michigan\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/chi-875-north-michigan.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

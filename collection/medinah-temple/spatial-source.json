@@ -1,0 +1,193 @@
+{
+  "id": "medinah-temple",
+  "anchor": [
+    -87.627205,
+    41.892894
+  ],
+  "coordinateSystem": "Local metres about the anchor (equirectangular, WGS84 radius): X east, Y north, Z up. glTF export: X east, Y up, Z south. Heading already baked.",
+  "license": "ODbL-1.0",
+  "footprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -34.91127808147953,
+          -17.85564632308715
+        ],
+        [
+          -35.20959424828204,
+          14.827756173719655
+        ],
+        [
+          -18.429309862991456,
+          14.983603461069535
+        ],
+        [
+          -18.595041066378098,
+          32.972833173087736
+        ],
+        [
+          27.213063664857607,
+          33.406979187509144
+        ],
+        [
+          27.826269119036805,
+          -33.006229019925016
+        ],
+        [
+          -16.167078931111387,
+          -33.41811113592759
+        ],
+        [
+          -16.316237013923843,
+          -17.688667086527847
+        ],
+        [
+          -34.91127808147953,
+          -17.85564632308715
+        ]
+      ]
+    ]
+  },
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -87.6276263,
+          41.8927336
+        ],
+        [
+          -87.6276299,
+          41.8930272
+        ],
+        [
+          -87.6274274,
+          41.8930286
+        ],
+        [
+          -87.6274294,
+          41.8931902
+        ],
+        [
+          -87.6268766,
+          41.8931941
+        ],
+        [
+          -87.6268692,
+          41.8925975
+        ],
+        [
+          -87.6274001,
+          41.8925938
+        ],
+        [
+          -87.6274019,
+          41.8927351
+        ],
+        [
+          -87.6276263,
+          41.8927336
+        ]
+      ]
+    ]
+  },
+  "parts": [
+    {
+      "osm": "way/210680454",
+      "tags": {
+        "addr:city": "Chicago",
+        "addr:housenumber": "600",
+        "addr:postcode": "60611",
+        "addr:state": "IL",
+        "addr:street": "North Wabash Avenue",
+        "addr:street:name": "Wabash",
+        "addr:street:prefix": "North",
+        "addr:street:type": "Avenue",
+        "building": "retail",
+        "building:levels": "5",
+        "chicago:building_id": "815083",
+        "ele": "179",
+        "gnis:feature_id": "1831089",
+        "historic": "building",
+        "name": "Former Medinah Temple",
+        "old_name": "Medinah Temple",
+        "wikidata": "Q14687867",
+        "wikipedia": "en:Medinah Temple"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -34.91127808147953,
+              -17.85564632308715
+            ],
+            [
+              -35.20959424828204,
+              14.827756173719655
+            ],
+            [
+              -18.429309862991456,
+              14.983603461069535
+            ],
+            [
+              -18.595041066378098,
+              32.972833173087736
+            ],
+            [
+              27.213063664857607,
+              33.406979187509144
+            ],
+            [
+              27.826269119036805,
+              -33.006229019925016
+            ],
+            [
+              -16.167078931111387,
+              -33.41811113592759
+            ],
+            [
+              -16.316237013923843,
+              -17.688667086527847
+            ],
+            [
+              -34.91127808147953,
+              -17.85564632308715
+            ]
+          ]
+        ]
+      },
+      "version": 10,
+      "timestamp": "2024-08-23T11:25:39Z"
+    }
+  ],
+  "osm": {
+    "type": "way",
+    "id": 210680454,
+    "version": 10,
+    "timestamp": "2024-08-23T11:25:39Z",
+    "url": "https://www.openstreetmap.org/way/210680454"
+  },
+  "additionalOsm": [],
+  "tags": {
+    "addr:city": "Chicago",
+    "addr:housenumber": "600",
+    "addr:postcode": "60611",
+    "addr:state": "IL",
+    "addr:street": "North Wabash Avenue",
+    "addr:street:name": "Wabash",
+    "addr:street:prefix": "North",
+    "addr:street:type": "Avenue",
+    "building": "retail",
+    "building:levels": "5",
+    "chicago:building_id": "815083",
+    "ele": "179",
+    "gnis:feature_id": "1831089",
+    "historic": "building",
+    "name": "Former Medinah Temple",
+    "old_name": "Medinah Temple",
+    "wikidata": "Q14687867",
+    "wikipedia": "en:Medinah Temple"
+  }
+}

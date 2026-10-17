@@ -1,0 +1,237 @@
+{
+  "id": "the-rookery",
+  "anchor": [
+    -87.63183,
+    41.879082
+  ],
+  "coordinateSystem": "Local metres about the anchor (equirectangular, WGS84 radius): X east, Y north, Z up. glTF export: X east, Y up, Z south. Heading already baked.",
+  "license": "ODbL-1.0",
+  "footprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -24.947939054164824,
+          -27.662893461891976
+        ],
+        [
+          25.801639292990096,
+          -26.872525077515082
+        ],
+        [
+          25.16343620112046,
+          27.807608800823413
+        ],
+        [
+          21.359082703961583,
+          27.71855320793906
+        ],
+        [
+          10.567648601648644,
+          27.484782276914228
+        ],
+        [
+          -10.998642899093454,
+          27.028372364864964
+        ],
+        [
+          -26.033713146185203,
+          26.70554584174675
+        ],
+        [
+          -25.619295553802022,
+          5.732953776407751
+        ],
+        [
+          -25.494970275262578,
+          -0.400750166793155
+        ],
+        [
+          -25.32920323878044,
+          -8.749711975774856
+        ],
+        [
+          -25.055687627642644,
+          -22.18597451492788
+        ],
+        [
+          -24.947939054164824,
+          -27.662893461891976
+        ]
+      ]
+    ]
+  },
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -87.632131,
+          41.8788335
+        ],
+        [
+          -87.6315187,
+          41.8788406
+        ],
+        [
+          -87.6315264,
+          41.8793318
+        ],
+        [
+          -87.6315723,
+          41.879331
+        ],
+        [
+          -87.6317025,
+          41.8793289
+        ],
+        [
+          -87.6319627,
+          41.8793248
+        ],
+        [
+          -87.6321441,
+          41.8793219
+        ],
+        [
+          -87.6321391,
+          41.8791335
+        ],
+        [
+          -87.6321376,
+          41.8790784
+        ],
+        [
+          -87.6321356,
+          41.8790034
+        ],
+        [
+          -87.6321323,
+          41.8788827
+        ],
+        [
+          -87.632131,
+          41.8788335
+        ]
+      ]
+    ]
+  },
+  "parts": [
+    {
+      "osm": "way/73706154",
+      "tags": {
+        "addr:city": "Chicago",
+        "addr:housenumber": "209",
+        "addr:postcode": "60604",
+        "addr:state": "IL",
+        "addr:street": "South LaSalle Street",
+        "addr:street:name": "La Salle",
+        "addr:street:prefix": "South",
+        "addr:street:type": "Street",
+        "building": "office",
+        "building:levels": "12",
+        "chicago:building_id": "358774",
+        "ele": "181",
+        "gnis:feature_id": "1832905",
+        "height": "55",
+        "heritage": "2",
+        "heritage:operator": "nrhp",
+        "historic": "building",
+        "name": "The Rookery",
+        "name:en": "The Rookery",
+        "ref:nrhp": "70000238",
+        "wikidata": "Q3441853",
+        "wikipedia": "en:Rookery Building"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -24.947939054164824,
+              -27.662893461891976
+            ],
+            [
+              25.801639292990096,
+              -26.872525077515082
+            ],
+            [
+              25.16343620112046,
+              27.807608800823413
+            ],
+            [
+              21.359082703961583,
+              27.71855320793906
+            ],
+            [
+              10.567648601648644,
+              27.484782276914228
+            ],
+            [
+              -10.998642899093454,
+              27.028372364864964
+            ],
+            [
+              -26.033713146185203,
+              26.70554584174675
+            ],
+            [
+              -25.619295553802022,
+              5.732953776407751
+            ],
+            [
+              -25.494970275262578,
+              -0.400750166793155
+            ],
+            [
+              -25.32920323878044,
+              -8.749711975774856
+            ],
+            [
+              -25.055687627642644,
+              -22.18597451492788
+            ],
+            [
+              -24.947939054164824,
+              -27.662893461891976
+            ]
+          ]
+        ]
+      },
+      "version": 17,
+      "timestamp": "2025-12-31T14:15:09Z"
+    }
+  ],
+  "osm": {
+    "type": "way",
+    "id": 73706154,
+    "version": 17,
+    "timestamp": "2025-12-31T14:15:09Z",
+    "url": "https://www.openstreetmap.org/way/73706154"
+  },
+  "additionalOsm": [],
+  "tags": {
+    "addr:city": "Chicago",
+    "addr:housenumber": "209",
+    "addr:postcode": "60604",
+    "addr:state": "IL",
+    "addr:street": "South LaSalle Street",
+    "addr:street:name": "La Salle",
+    "addr:street:prefix": "South",
+    "addr:street:type": "Street",
+    "building": "office",
+    "building:levels": "12",
+    "chicago:building_id": "358774",
+    "ele": "181",
+    "gnis:feature_id": "1832905",
+    "height": "55",
+    "heritage": "2",
+    "heritage:operator": "nrhp",
+    "historic": "building",
+    "name": "The Rookery",
+    "name:en": "The Rookery",
+    "ref:nrhp": "70000238",
+    "wikidata": "Q3441853",
+    "wikipedia": "en:Rookery Building"
+  }
+}

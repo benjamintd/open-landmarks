@@ -1,0 +1,331 @@
+{
+  "id": "fourth-presbyterian-church",
+  "name": "Fourth Presbyterian Church",
+  "anchor": [
+    -87.624753,
+    41.898995
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 27992,
+      "sha256": "4f20e6795a098b0c83b1773ac23f4fa53fe320ec4a622d84208f2984944eba9f"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 27992,
+      "sha256": "4f20e6795a098b0c83b1773ac23f4fa53fe320ec4a622d84208f2984944eba9f"
+    }
+  },
+  "triangles": 473,
+  "boundsBlenderM": [
+    [
+      -27.472,
+      -12.112,
+      0
+    ],
+    [
+      30.024,
+      10.863,
+      51
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -87.6249922,
+          41.8990808
+        ],
+        [
+          -87.6249923,
+          41.8990863
+        ],
+        [
+          -87.6247766,
+          41.8990896
+        ],
+        [
+          -87.6247762,
+          41.899074
+        ],
+        [
+          -87.6247242,
+          41.8990748
+        ],
+        [
+          -87.6247245,
+          41.8990839
+        ],
+        [
+          -87.6247011,
+          41.8990843
+        ],
+        [
+          -87.6247009,
+          41.8990752
+        ],
+        [
+          -87.6246631,
+          41.8990758
+        ],
+        [
+          -87.6246634,
+          41.8990844
+        ],
+        [
+          -87.6246395,
+          41.8990848
+        ],
+        [
+          -87.6246392,
+          41.8990758
+        ],
+        [
+          -87.6246014,
+          41.8990765
+        ],
+        [
+          -87.6246017,
+          41.8990848
+        ],
+        [
+          -87.6245792,
+          41.8990852
+        ],
+        [
+          -87.6245789,
+          41.8990765
+        ],
+        [
+          -87.6245309,
+          41.8990774
+        ],
+        [
+          -87.6245315,
+          41.8990955
+        ],
+        [
+          -87.624446,
+          41.8990971
+        ],
+        [
+          -87.6244446,
+          41.8990565
+        ],
+        [
+          -87.6244068,
+          41.8990572
+        ],
+        [
+          -87.6244028,
+          41.898942
+        ],
+        [
+          -87.6244151,
+          41.8989383
+        ],
+        [
+          -87.6244256,
+          41.8989309
+        ],
+        [
+          -87.6244471,
+          41.8989305
+        ],
+        [
+          -87.624446,
+          41.8988978
+        ],
+        [
+          -87.6245219,
+          41.8988964
+        ],
+        [
+          -87.6245225,
+          41.8989144
+        ],
+        [
+          -87.6245746,
+          41.8989135
+        ],
+        [
+          -87.6245743,
+          41.8989048
+        ],
+        [
+          -87.6245937,
+          41.8989044
+        ],
+        [
+          -87.6245939,
+          41.8989123
+        ],
+        [
+          -87.6246339,
+          41.8989116
+        ],
+        [
+          -87.6246337,
+          41.8989026
+        ],
+        [
+          -87.6246557,
+          41.8989022
+        ],
+        [
+          -87.624656,
+          41.898911
+        ],
+        [
+          -87.6246957,
+          41.8989103
+        ],
+        [
+          -87.6246954,
+          41.8989011
+        ],
+        [
+          -87.6247167,
+          41.8989008
+        ],
+        [
+          -87.624717,
+          41.89891
+        ],
+        [
+          -87.6247711,
+          41.8989091
+        ],
+        [
+          -87.6247707,
+          41.8988947
+        ],
+        [
+          -87.6249736,
+          41.8988914
+        ],
+        [
+          -87.6249737,
+          41.8988979
+        ],
+        [
+          -87.625048,
+          41.8988967
+        ],
+        [
+          -87.6250494,
+          41.8989472
+        ],
+        [
+          -87.6250696,
+          41.8989469
+        ],
+        [
+          -87.6250721,
+          41.8990341
+        ],
+        [
+          -87.6251311,
+          41.8990331
+        ],
+        [
+          -87.6251326,
+          41.8990849
+        ],
+        [
+          -87.6251216,
+          41.8990851
+        ],
+        [
+          -87.6251214,
+          41.899079
+        ],
+        [
+          -87.625085,
+          41.8990796
+        ],
+        [
+          -87.6250851,
+          41.8990852
+        ],
+        [
+          -87.6250748,
+          41.8990854
+        ],
+        [
+          -87.6250747,
+          41.8990796
+        ],
+        [
+          -87.6250419,
+          41.8990801
+        ],
+        [
+          -87.6250421,
+          41.8990855
+        ],
+        [
+          -87.6250321,
+          41.8990857
+        ],
+        [
+          -87.625032,
+          41.8990802
+        ],
+        [
+          -87.6249922,
+          41.8990808
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 129575948,
+    "version": 13,
+    "timestamp": "2026-03-17T18:28:11Z",
+    "url": "https://www.openstreetmap.org/way/129575948"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q4290682",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/chi-fourth-presbyterian.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Fourth Presbyterian Church, Chicago (1914, Ralph Adams Cram) — original procedural geometry, CC0-1.0. bun generators/chi-fourth-presbyterian.ts",
+    "Map frame: x east, y north, z up, metres; origin at the anchor on the ground. Anchor = centroid of the OSM outline way/129575948, 41.898995,-87.624753. The outline's edges run at 88.7° / 178.7°, so the catalog bearing is 358.7 and the church is square to this frame.",
+    "Identity: the tall gabled east front facing Michigan Avenue, with its great pointed window over the arched portal; the square tower at its south-east corner, its belfry of paired lancets and the crocketed stone spire with corner pinnacles; the long steep tiled nave roof over buttressed walls.",
+    "Evidence: - plan: OSM outline (church only; the parish house, cloister and Gratz Center are other OSM buildings and are not modelled). The front block (x 25.4-29.0, y -5.8-6.9), the tower (x 19.2-25.4, y -10.9 to -4.9), the aisle walls at y ±9.2 with buttresses at the OSM notches, and the wider western bays (x -18 to -1.5) are read off the outline. - heights: nothing is published, so all are measured from the frontal photos (Golbez 2008, hibino, GualdimG), scaled by the 12.7 m width of the OSM front: front eaves ≈ 29.5 m, gable apex ≈ 35.5 m, tower shaft to ≈ 29 m, belfry to ≈ 36 m, spire tip ≈ 51 m (the ground-level photos foreshorten the top, so the spire is taken ~2 m over the raw 48.7 m). Aisle and nave eaves are estimated from the north-side photo (Ken Lund). Expect ±2 m. - the western bays' heights are estimated from the 1910s postcard (PHS, public domain) and Smallbones' photo from the cloister. - left out: the gabled block seen south of the tower from Michigan Avenue stands outside this outline (it belongs to the parish house and cloister, other OSM buildings), as do the cloister arcades. - colour: warm tan-grey limestone (a finish near `stone`); the roofs are red-brown tile in Ken Lund's photo, drawn as a muted brown finish; the front and tower are covered in ivy in summer, which is left out (it changes with the season and would hide the forms).",
+    "Photos (Wikimedia Commons): Fourth_Presbyterian_Church_June_8_08.jpg (Golbez, CC BY-SA 3.0); A_Church_at_the_front_of_John_Hancock_Center (hibino, CC BY 2.0); Fourth_Presbyterian_Church_of_Chicago_01.jpg (GualdimG, CC BY-SA 4.0); Fourth_Presbyterian_Church,_Chicago,_Illinois (41568846850) (Ken Lund, CC BY-SA 2.0); 4th_Presby_Chicago.JPG (Smallbones, PD); Chicago_IL_4th_Presby_PHS945.jpg (postcard, PD). USGS NAIP for the roof plan. No commercial imagery.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"chi-fourth-presbyterian\", model \"chi-fourth-presbyterian\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/chi-fourth-presbyterian.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 50 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the chi-fourth-presbyterian-glazing finish in the window colour."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

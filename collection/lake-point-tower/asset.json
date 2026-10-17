@@ -1,0 +1,134 @@
+{
+  "id": "lake-point-tower",
+  "name": "Lake Point Tower",
+  "anchor": [
+    -87.612315,
+    41.891497
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 13,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 140776,
+      "sha256": "8e66db889101a239588284bdb9c50ff402391ca5a3f502ba4ef73bb2556b51ae"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 140776,
+      "sha256": "8e66db889101a239588284bdb9c50ff402391ca5a3f502ba4ef73bb2556b51ae"
+    }
+  },
+  "triangles": 4374,
+  "boundsBlenderM": [
+    [
+      -129.1,
+      -41.6,
+      0
+    ],
+    [
+      36.5,
+      35.295,
+      197.5
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -87.6137793,
+          41.8918134
+        ],
+        [
+          -87.6127898,
+          41.8918303
+        ],
+        [
+          -87.6125315,
+          41.8918337
+        ],
+        [
+          -87.6117946,
+          41.8918443
+        ],
+        [
+          -87.6117806,
+          41.8912569
+        ],
+        [
+          -87.6123264,
+          41.8912438
+        ],
+        [
+          -87.6137601,
+          41.891218
+        ],
+        [
+          -87.6137793,
+          41.8918134
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "relation",
+    "id": 19385699,
+    "version": 2,
+    "timestamp": "2026-03-17T18:28:11Z",
+    "url": "https://www.openstreetmap.org/relation/19385699"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 150408224,
+      "version": 12,
+      "timestamp": "2025-07-07T20:03:38Z",
+      "url": "https://www.openstreetmap.org/way/150408224"
+    },
+    {
+      "type": "way",
+      "id": 284814462,
+      "version": 3,
+      "timestamp": "2025-07-07T20:03:38Z",
+      "url": "https://www.openstreetmap.org/way/284814462"
+    }
+  ],
+  "wikidata": "Q1801054",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/chi-lake-point-tower.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Lake Point Tower, Chicago (1968, Schipporeit and Heinrich) — original procedural geometry, CC0-1.0. bun generators/chi-lake-point-tower.ts",
+    "Map frame: x east, y north, z up, metres; origin at the anchor on the ground. Anchor = centroid of the tower outline (OSM way/150408224), 41.891497, -87.612315. Bearing 0: the plan is drawn as it lies.",
+    "Identity: the only skyscraper east of Lake Shore Drive, a 70-storey three-lobed (Y / trefoil) tower wrapped in a continuous, softly curving dark bronze glass curtain wall with fine horizontal floor lines, a small round penthouse drum on the roof, standing on a low dark podium (the garage) whose roof is a 2.5-acre park.",
+    "Abstraction: the plan is three capsule-shaped wings 19 m wide, smoothly filleted where they meet, so the wall curves continuously as it does in the photos. The curtain wall is `window` glass (the tower is residential and lit at night) in a bronze-grey pulled light per STYLE.md but still clearly \"the dark one\", with a slightly lighter bronze floor band every five storeys in place of the real per-floor spandrels. The open column-lined base storey is a dark recessed band. The podium's rooftop park is a muted green roof; its trees, pool and lagoon are left out.",
+    "Evidence: - plan: OSM way/150408224. Wing tips 35.0–35.6 m from the centroid at bearings ≈ -1°, 111° and 246° (OSM); NAIP gives -2°, 112°, 239°. The wings are drawn at -1°, 112° and 244°, 35.3 m long, 9.6 m in radius (the north wing's measured half-width), with a 7 m fillet between wings to match OSM's inner corners ≈ 19 m from the centre. - heights: roof 191 m with 69 levels on the outline; the round roof part way/284814462 (r ≈ 12.5 m) to 197.5 m. Published height 197 m, 70 floors (Wikipedia). Podium relation/19385699 height 12 (OSM), roof:material grass. Base storey 12–16 m measured against the podium wall in Schwen's photo (estimate). - podium: OSM relation/19385699 outer way/150408223, as drawn. Its inner ring (a round opening ≈ 28 m across in the park, west of the tower) is not cut out of the roof; at map scale it reads as part of the park. - colour: dark bronze glass and bronze mullions (photos; OSM building:colour #4D5143), dark brown-grey podium walls.",
+    "Photos (Wikimedia Commons): Lake_Point_Tower.jpg (Daniel Schwen, CC BY-SA 4.0); 20220909_Lake_Point_Tower_from_St._Regis_Chicago.jpg (TonyTheTiger, CC BY-SA 4.0); Chicago_in_2022_Lake_Point_Tower_Condominium_ (52059721783).jpg (Chris Rycroft, CC BY 2.0); Lake_Point_Tower,_Chicago_ (5215523025).jpg (JohnPickenPhoto, CC BY 2.0); Lakefront_Trail_at_Lake_ Point_Tower_-_Chicago,_IL_-_July_2021.jpg (AlphaBeta135, CC BY 4.0); Lake_Point_Tower,_Streeterville,_Chicago,_Illinois_(11004424056).jpg (Ken Lund, CC BY-SA 2.0). USGS NAIP for the plan. No commercial imagery.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"chi-lake-point-tower\", model \"chi-lake-point-tower\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/chi-lake-point-tower.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

@@ -1,0 +1,469 @@
+{
+  "id": "field-museum",
+  "name": "Field Museum",
+  "anchor": [
+    -87.6170432,
+    41.8662113
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 229420,
+      "sha256": "7e26b61e4469c576fe5ffa22d3f579b190267364c96a3b75082c4e00e5b89fad"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 229420,
+      "sha256": "7e26b61e4469c576fe5ffa22d3f579b190267364c96a3b75082c4e00e5b89fad"
+    }
+  },
+  "triangles": 4747,
+  "boundsBlenderM": [
+    [
+      -109.28,
+      -75.008,
+      0
+    ],
+    [
+      132.327,
+      75.008,
+      28.9
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -87.6183455,
+          41.8666475
+        ],
+        [
+          -87.6182309,
+          41.8666491
+        ],
+        [
+          -87.6181162,
+          41.8666506
+        ],
+        [
+          -87.6181155,
+          41.866625
+        ],
+        [
+          -87.6180855,
+          41.8666255
+        ],
+        [
+          -87.6176255,
+          41.8666324
+        ],
+        [
+          -87.6174367,
+          41.8666352
+        ],
+        [
+          -87.6174194,
+          41.8666351
+        ],
+        [
+          -87.6173984,
+          41.8666349
+        ],
+        [
+          -87.617399,
+          41.8666573
+        ],
+        [
+          -87.6174013,
+          41.866736
+        ],
+        [
+          -87.617402,
+          41.8667607
+        ],
+        [
+          -87.6172774,
+          41.8667627
+        ],
+        [
+          -87.6172768,
+          41.8667795
+        ],
+        [
+          -87.6172756,
+          41.8668173
+        ],
+        [
+          -87.61727,
+          41.8668174
+        ],
+        [
+          -87.6170593,
+          41.8668212
+        ],
+        [
+          -87.6168526,
+          41.866825
+        ],
+        [
+          -87.6168419,
+          41.8668252
+        ],
+        [
+          -87.6168406,
+          41.8667829
+        ],
+        [
+          -87.6168401,
+          41.866768
+        ],
+        [
+          -87.6167138,
+          41.8667693
+        ],
+        [
+          -87.6167131,
+          41.8667458
+        ],
+        [
+          -87.6167108,
+          41.8666652
+        ],
+        [
+          -87.6167102,
+          41.8666435
+        ],
+        [
+          -87.6166836,
+          41.866644
+        ],
+        [
+          -87.615984,
+          41.8666568
+        ],
+        [
+          -87.615984,
+          41.8666795
+        ],
+        [
+          -87.6157586,
+          41.8666802
+        ],
+        [
+          -87.6157438,
+          41.8663403
+        ],
+        [
+          -87.6157401,
+          41.8662977
+        ],
+        [
+          -87.615723,
+          41.8662985
+        ],
+        [
+          -87.615723,
+          41.8663406
+        ],
+        [
+          -87.6156793,
+          41.8663412
+        ],
+        [
+          -87.6156673,
+          41.8663413
+        ],
+        [
+          -87.6156115,
+          41.8663421
+        ],
+        [
+          -87.6156024,
+          41.8663422
+        ],
+        [
+          -87.6155878,
+          41.8663424
+        ],
+        [
+          -87.6155723,
+          41.8663426
+        ],
+        [
+          -87.6155738,
+          41.8664163
+        ],
+        [
+          -87.6155627,
+          41.8664171
+        ],
+        [
+          -87.6155193,
+          41.8664181
+        ],
+        [
+          -87.6155198,
+          41.8663433
+        ],
+        [
+          -87.6154534,
+          41.8663433
+        ],
+        [
+          -87.6154507,
+          41.8662426
+        ],
+        [
+          -87.6154477,
+          41.8661322
+        ],
+        [
+          -87.615518,
+          41.8661309
+        ],
+        [
+          -87.615518,
+          41.8660623
+        ],
+        [
+          -87.6155547,
+          41.8660617
+        ],
+        [
+          -87.6155635,
+          41.8660617
+        ],
+        [
+          -87.6155653,
+          41.8661301
+        ],
+        [
+          -87.6155808,
+          41.8661298
+        ],
+        [
+          -87.6155961,
+          41.8661295
+        ],
+        [
+          -87.6156036,
+          41.8661294
+        ],
+        [
+          -87.6156133,
+          41.8661292
+        ],
+        [
+          -87.6156358,
+          41.8661288
+        ],
+        [
+          -87.6156619,
+          41.8661284
+        ],
+        [
+          -87.6156693,
+          41.8661282
+        ],
+        [
+          -87.615719,
+          41.8661274
+        ],
+        [
+          -87.6157205,
+          41.8661707
+        ],
+        [
+          -87.6157369,
+          41.8661704
+        ],
+        [
+          -87.61573,
+          41.8657864
+        ],
+        [
+          -87.6159607,
+          41.8657824
+        ],
+        [
+          -87.6159607,
+          41.8658064
+        ],
+        [
+          -87.6159817,
+          41.8658061
+        ],
+        [
+          -87.6159914,
+          41.8658059
+        ],
+        [
+          -87.6161775,
+          41.865803
+        ],
+        [
+          -87.6164853,
+          41.8657981
+        ],
+        [
+          -87.6166778,
+          41.8657951
+        ],
+        [
+          -87.6166903,
+          41.8657949
+        ],
+        [
+          -87.6166892,
+          41.8657682
+        ],
+        [
+          -87.6166883,
+          41.8656651
+        ],
+        [
+          -87.616813,
+          41.8656631
+        ],
+        [
+          -87.6168129,
+          41.8656012
+        ],
+        [
+          -87.6168942,
+          41.8656
+        ],
+        [
+          -87.6170268,
+          41.8655996
+        ],
+        [
+          -87.6171738,
+          41.865597
+        ],
+        [
+          -87.6172409,
+          41.8655969
+        ],
+        [
+          -87.6172428,
+          41.8656606
+        ],
+        [
+          -87.6173769,
+          41.8656566
+        ],
+        [
+          -87.617379,
+          41.8657565
+        ],
+        [
+          -87.6173796,
+          41.8657824
+        ],
+        [
+          -87.6176913,
+          41.8657772
+        ],
+        [
+          -87.6177442,
+          41.8657763
+        ],
+        [
+          -87.6178,
+          41.8657753
+        ],
+        [
+          -87.6180931,
+          41.8657704
+        ],
+        [
+          -87.6180931,
+          41.8657445
+        ],
+        [
+          -87.6182084,
+          41.8657425
+        ],
+        [
+          -87.6183081,
+          41.8657407
+        ],
+        [
+          -87.6183211,
+          41.8657405
+        ],
+        [
+          -87.6183267,
+          41.8659798
+        ],
+        [
+          -87.6183297,
+          41.8661092
+        ],
+        [
+          -87.6183319,
+          41.8662004
+        ],
+        [
+          -87.6183339,
+          41.866286
+        ],
+        [
+          -87.6183455,
+          41.8666475
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 24825537,
+    "version": 42,
+    "timestamp": "2025-12-22T18:17:21Z",
+    "url": "https://www.openstreetmap.org/way/24825537"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q1122595",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/chi-field-museum.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Field Museum of Natural History (1400 South DuSable Lake Shore Drive, 1921, Daniel Burnham's office / Graham, Anderson, Probst & White), Chicago — original procedural geometry, CC0-1.0. bun generators/chi-field-museum.ts",
+    "This file also exports the small kit the other Museum Campus models by the same builder use (Shedd Aquarium, Adler Planetarium, Soldier Field); the museum itself is only written when this file runs.",
+    "Map frame: x east, y north, z up, metres; origin at the anchor on the ground. The OSM outline way/24825537 has its long walls at 88.8°, so the catalog bearing is 358.8 and the building is square to this frame. The anchor is the building's own axis of symmetry (3.5 m west of the outline's area centroid, which the low east vestibule pulls east), so the model can be exactly symmetrical about x = 0 and y = 0.",
+    "Identity, in order: the long white-marble temple of a building, 215 m by 95 m, on a ground-floor plinth; the central pavilion with its pedimented Ionic portico (four columns in antis between broad piers) on both the north and the south front; the raised central hall (Stanley Field Hall) running right through behind the porticos, its low gabled roof carrying a long skylight; the long wings of engaged Ionic columns; the pedimented end pavilions with two columns in antis at all four corners.",
+    "Evidence: - plan: OSM outline way/24825537 (no parts, building:levels 3): main body 214 x 95 m, end pavilions 19 m wide projecting ~4 m, central pavilion 57 m wide projecting 13 m, porticos 36 m wide projecting a further 6.7 m, the low east vestibule 24 x 39 m. Checked on USGS NAIP: the central hall's roof is a 36 m strip running the full depth, with an ~18 x 80 m skylight; the end pavilions show as full-depth strips too. - heights: none in OSM or published that I found. Measured on Paul Sableman's square-on view of the north portico, scaled by the 36 m portico width (23 px/m): columns 11.2 m, entablature 2.8 m, attic 3.7 m, cornice 1.7 m, pediment 4.3 m. The porch floor is ~5 m above the lowest ground (Sea Cow's aerial of the south front; an estimate). So the pediment apex is ~28.7 m. Wings: the wing order is shorter than the portico's and its top is level with the portico's entablature (~19.5 m) on the 1940s north view and the aerial; end pavilion cornice ~17.2 m and pediment ~21 m, measured on the aerial crop against the wing columns. All heights are estimates to ~1 m. - facade: ~14 engaged columns per wing between the central and end pavilions (aerial, 1940s view); windows in two tiers between them over a band of ground-floor windows; the east and west ends carry the same colonnade (Shruti Kansara's view of the east entrance). - colour: white Georgia marble, weathered pale grey-cream; the hall roof's skylight `glass`.",
+    "Photos (Wikimedia Commons): Field_Museum_N.jpg (Sea Cow, CC BY-SA 4.0, aerial of the south front); Field_Museum_(30292342835).jpg (Paul Sableman, CC BY 2.0, north portico); FieldMuseumOfNaturalHistory-2/-4/-5 .jpg (Omkarjpathak, CC BY-SA 4.0, south-west and south-east); Field_Museum,_Chicago,_1940s_(NBY_3028).jpg (DeVoe Photo Studio, public domain, north-west); Field_Museum_Back_Entrance_Oct_2020.jpg (Shruti Kansara, CC BY-SA 4.0, east end); Museum_Of_History_..._panoramio.jpg (leamsi.setroc, CC BY-SA 3.0). USGS NAIP for the plan. No commercial imagery.",
+    "Left out: rooftop mechanical penthouses and the roofed-over light courts, the caryatid porches, acroteria, the wing frieze's medallions, the tabernacle doors either side of the porticos, the outdoor terraces.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"chi-field-museum\", model \"chi-field-museum\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/chi-field-museum.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 18 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the chi-field-museum-glazing finish in the window colour."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

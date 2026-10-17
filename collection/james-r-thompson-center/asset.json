@@ -1,0 +1,257 @@
+{
+  "id": "james-r-thompson-center",
+  "name": "James R. Thompson Center",
+  "anchor": [
+    -87.6317257,
+    41.8851748
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 42276,
+      "sha256": "c369bfbac65ac931a234134dfc7850dc371b951c2d0f87819704b18d7220686d"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 42276,
+      "sha256": "c369bfbac65ac931a234134dfc7850dc371b951c2d0f87819704b18d7220686d"
+    }
+  },
+  "triangles": 822,
+  "boundsBlenderM": [
+    [
+      -46.843,
+      -63.745,
+      0
+    ],
+    [
+      54.03,
+      51.416,
+      95.402
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -87.632139,
+          41.8846013
+        ],
+        [
+          -87.632035,
+          41.8846104
+        ],
+        [
+          -87.6320111,
+          41.884614
+        ],
+        [
+          -87.6319169,
+          41.8846281
+        ],
+        [
+          -87.6317716,
+          41.8846605
+        ],
+        [
+          -87.6316194,
+          41.8847088
+        ],
+        [
+          -87.6315808,
+          41.8847257
+        ],
+        [
+          -87.6314972,
+          41.8847624
+        ],
+        [
+          -87.6314423,
+          41.8847912
+        ],
+        [
+          -87.6313873,
+          41.8848201
+        ],
+        [
+          -87.6313364,
+          41.8848518
+        ],
+        [
+          -87.6312837,
+          41.8848867
+        ],
+        [
+          -87.631238,
+          41.8849241
+        ],
+        [
+          -87.6312024,
+          41.8849532
+        ],
+        [
+          -87.6311922,
+          41.8849615
+        ],
+        [
+          -87.6311238,
+          41.8850261
+        ],
+        [
+          -87.6311173,
+          41.8850323
+        ],
+        [
+          -87.6310946,
+          41.885058
+        ],
+        [
+          -87.6310734,
+          41.8850819
+        ],
+        [
+          -87.6310786,
+          41.8852651
+        ],
+        [
+          -87.6310841,
+          41.8854744
+        ],
+        [
+          -87.6310879,
+          41.8855958
+        ],
+        [
+          -87.6310892,
+          41.8856401
+        ],
+        [
+          -87.6311075,
+          41.8856398
+        ],
+        [
+          -87.6313885,
+          41.8856353
+        ],
+        [
+          -87.6316731,
+          41.8856307
+        ],
+        [
+          -87.6316898,
+          41.8856305
+        ],
+        [
+          -87.6317175,
+          41.8856301
+        ],
+        [
+          -87.6317461,
+          41.8856298
+        ],
+        [
+          -87.6317558,
+          41.8856296
+        ],
+        [
+          -87.6318394,
+          41.8856285
+        ],
+        [
+          -87.6320539,
+          41.8856246
+        ],
+        [
+          -87.6322903,
+          41.8856208
+        ],
+        [
+          -87.6322891,
+          41.8855746
+        ],
+        [
+          -87.6322846,
+          41.8854098
+        ],
+        [
+          -87.6322825,
+          41.8853308
+        ],
+        [
+          -87.6322781,
+          41.8851681
+        ],
+        [
+          -87.6322757,
+          41.8850793
+        ],
+        [
+          -87.6322715,
+          41.8849235
+        ],
+        [
+          -87.6322658,
+          41.8847129
+        ],
+        [
+          -87.6322627,
+          41.884598
+        ],
+        [
+          -87.632139,
+          41.8846013
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 230926922,
+    "version": 23,
+    "timestamp": "2026-05-10T21:43:19Z",
+    "url": "https://www.openstreetmap.org/way/230926922"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q3161356",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/chi-thompson-center.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "James R. Thompson Center (100 West Randolph, 1985, Murphy/Jahn — Helmut Jahn), Chicago — original procedural geometry, CC0-1.0. bun generators/chi-thompson-center.ts",
+    "Being renovated for Google (2024–2027): the curtain wall is being reglazed and the atrium refitted, but the form (the leaning curved front, the stepped bands and the sloped rotunda top) is kept. This model draws that form as built and as it stands; the colours follow the 1985 building, and the base's red and white arcade may change when the work ends.",
+    "Map frame: x east, y north, z up, metres; origin at the anchor on the ground. Anchor = centroid of the OSM outline way/230926922, 41.8851748,-87.6317257. Its straight walls run at 358.8° / 88.8°, so the catalog bearing is 358.8 and the block is square to this frame.",
+    "Identity, in order: the leaning, curved glass front that sweeps round the plaza at Clark and Randolph — a quarter cone centred on the block's north-west corner — banded by dark recessed storeys into three tiers; the flat cut where that cone meets the straight Clark Street wall; the truncated glass cylinder of the rotunda, its top sloping down to the front; the red-columned arcade under the overhang.",
+    "Evidence: - plan: OSM outline. The curved front fits a circle of radius 113.9 m centred at (-41.4, 51.0), within a metre of every outline vertex on the curve; that centre is the block's north-west corner, so the front is drawn as a cone about it. On USGS NAIP the roof's curved edge lies ~80-84 m from the same centre; 84 m is used at the roof, so the front leans back ~30 m over its height. The rotunda's skylight is a circle of ~26 m radius at (-13, 0) on NAIP, its edge touching the roof edge. - heights: 94 m overall (OSM height; the rotunda's slanted cut is drawn to ~95.5 m so the slant reads, within the uncertainty of the shadow measurement); 17 storeys (published). Main roof ~79 m, the arcade ~11.5 m, and the dark bands at about a third and two thirds of the front, from Ken Lund's and ajay_suresh's views of the front; estimates. - rotunda top: the sloping cut, high at the back (~95.5 m; OSM gives 94) and down to the roof at the front, from the shadow it casts on NAIP and the views from the plaza; the exact slope is an estimate. - colour: pale silver panels with blocks of lighter sky-blue glass (two light window colours), dark bands, the base's salmon-red columns and spandrels pulled to the palette's lightness.",
+    "Photos (Wikimedia Commons): James_R._Thompson_Center,_Chicago,_Illinois _(9179428785).jpg and (9179432271).jpg (Ken Lund, CC BY-SA 2.0); James_R._Thompson_Center_(51573845537).jpg (ajay_suresh, CC BY 2.0); James_R._Thompson_Center_Corner_View,_Chicago,_Illinois.jpg (Pokemonprime, CC BY 4.0); James_R._Thompson_Center.JPG (Primeromundo, public domain); James_R_Thompson_Center_behind_Chicago_City_Hall.JPG (CC BY-SA 2.5). USGS NAIP for the plan. No commercial imagery.",
+    "Left out: the mullion grid and the coloured panel pattern, the Dubuffet sculpture, the pedway and CTA entrances, rooftop plant.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"chi-thompson-center\", model \"chi-thompson-center\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/chi-thompson-center.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 7410 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the chi-thompson-center-glazing finish in the window colour."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

@@ -1,0 +1,185 @@
+{
+  "id": "art-institute-of-chicago",
+  "name": "Art Institute of Chicago",
+  "anchor": [
+    -87.62366,
+    41.879567
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 196188,
+      "sha256": "3b4717da6f8fdd4a4b01a94a2915c79fd971b290d4b32ac179334e9ffab14408"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 196188,
+      "sha256": "3b4717da6f8fdd4a4b01a94a2915c79fd971b290d4b32ac179334e9ffab14408"
+    }
+  },
+  "triangles": 4031,
+  "boundsBlenderM": [
+    [
+      -33.524,
+      -49.951,
+      0
+    ],
+    [
+      32.414,
+      49.915,
+      26
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -87.6240116,
+          41.880005
+        ],
+        [
+          -87.6233536,
+          41.8800129
+        ],
+        [
+          -87.6233526,
+          41.8798727
+        ],
+        [
+          -87.6232902,
+          41.8798728
+        ],
+        [
+          -87.623276,
+          41.8792799
+        ],
+        [
+          -87.6233405,
+          41.8792798
+        ],
+        [
+          -87.6233357,
+          41.8791309
+        ],
+        [
+          -87.6234999,
+          41.8791281
+        ],
+        [
+          -87.623514,
+          41.8791275
+        ],
+        [
+          -87.6236508,
+          41.8791256
+        ],
+        [
+          -87.6237173,
+          41.8791248
+        ],
+        [
+          -87.6239941,
+          41.8791213
+        ],
+        [
+          -87.6240007,
+          41.8794305
+        ],
+        [
+          -87.6240523,
+          41.8794295
+        ],
+        [
+          -87.6240526,
+          41.8794367
+        ],
+        [
+          -87.6240532,
+          41.8795517
+        ],
+        [
+          -87.6240545,
+          41.8796872
+        ],
+        [
+          -87.6240031,
+          41.8796883
+        ],
+        [
+          -87.6240073,
+          41.8798582
+        ],
+        [
+          -87.6240116,
+          41.880005
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 765296570,
+    "version": 4,
+    "timestamp": "2025-08-28T21:00:24Z",
+    "url": "https://www.openstreetmap.org/way/765296570"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 765296577,
+      "version": 2,
+      "timestamp": "2025-08-28T21:00:24Z",
+      "url": "https://www.openstreetmap.org/way/765296577"
+    },
+    {
+      "type": "way",
+      "id": 765296578,
+      "version": 6,
+      "timestamp": "2025-08-28T21:00:24Z",
+      "url": "https://www.openstreetmap.org/way/765296578"
+    }
+  ],
+  "wikidata": "Q239303",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/chi-art-institute.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Art Institute of Chicago, the 1893 Allerton Building (Shepley, Rutan and Coolidge, built as the World's Congress Auxiliary Building), Michigan Avenue — original procedural geometry, CC0-1.0.",
+    "Only the original Beaux-Arts building on Michigan Avenue. The later wings east of it (Gunsaulus Hall over the railway, the Rice and Morton wings, the Modern Wing) are separate in OSM and are not drawn here.",
+    "Map frame: x east, y north, z up, metres; origin at the centroid of the OSM outline way/765296570 (41.879567, -87.623660). The outline's long walls run at 359.1°, so the model is built square and placed at bearing 359.1.",
+    "Identity: a long, low limestone palazzo. On Michigan Avenue, a central pavilion under a broad pediment, its three arched entrances below a loggia of three tall arched openings; either side, long wings with a plain ground floor of square windows and, above, a blind arcade of round arches under a deep frieze and cornice. From above, the gallery wings ring two light courts under low hipped roofs with long glass skylights along their ridges, and a glass lantern over the grand staircase in the middle.",
+    "Evidence: - OSM: way/765296570 (outline: 54.5 x 97.6 m main block, the 28.5 m pavilion projecting 4.2 m on Michigan Avenue, a 5 m projection on the east), way/765296577 (Fullerton Hall) and way/765296578 (Ryerson & Burnham Libraries), both drawn as buildings inside it. - USGS NAIP: the two courts (≈ 28 x 20 m each, Fullerton Hall in the north one, the library's flat roof in the south one), the cross wing with the stair hall's glazed roof between them, and the glass strips along the wings' roofs. - Heights: nothing is published. Measured off GualdimG's frontal photo, scaled by the pavilion's 28.5 m width: cornice ≈ 17.5 m above the sidewalk, pediment apex ≈ 26 m; ground storey ≈ 6.5 m. The hipped roofs' 19.6 m and the courts' 13 m inner blocks are estimates (NAIP shadows and the roof seen in Alanscottwalker's photo). - Photos (Wikimedia Commons): Art_Institute_of_Chicago_Fachada_02.jpg (GualdimG, CC BY-SA 4.0, west front); Art_Institute_of_Chicago_from _south.jpg (Beyond My Ken, CC BY-SA 4.0); 20070622_Art_Institute_of _Chicago_Original_Building.JPG (TonyTheTiger, CC BY-SA 3.0, from the south-west); Art_Institute_of_Chicago_(7415244162).jpg (Teemu008, CC BY-SA 2.0, from the north-west); Art_Institute_of_Chicago_Michigan _Avenue.jpg (Alanscottwalker, CC BY-SA 3.0, the roof and skylights); Art_Institute_of_Chicago,_Illinois,_Estados_Unidos,_2012-10-20,_DD_02 .jpg (Diego Delso, CC BY-SA 3.0, south front at night). No commercial imagery.",
+    "Ground: y = 0 is the Michigan Avenue sidewalk. The east wall stands over the railway cut, a few metres lower; the walls are not carried down into it because the map's terrain does not have the cut.",
+    "Simplified: the blind arcade's arches are flat panels in a slightly darker stone; columns, the frieze's carved names, the steps and the lions (separate OSM objects) are left out. The east front (over the tracks) is drawn with the same rhythm as the others, from the aerial only.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"chi-art-institute\", model \"chi-art-institute\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/chi-art-institute.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 437 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the chi-art-institute-glazing finish in the window colour.",
+    "To fit six materials, folded chi-art-institute-aic-stone-recess into stone (ΔE 8.6)."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

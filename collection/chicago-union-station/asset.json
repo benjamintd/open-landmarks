@@ -1,0 +1,231 @@
+{
+  "id": "chicago-union-station",
+  "name": "Chicago Union Station",
+  "anchor": [
+    -87.6404074,
+    41.8786657
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 84608,
+      "sha256": "4cbbd8d730a0b38c16b3f3e2737641603dcd1bc6ddc378f399a63efa09561fbc"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 84608,
+      "sha256": "4cbbd8d730a0b38c16b3f3e2737641603dcd1bc6ddc378f399a63efa09561fbc"
+    }
+  },
+  "triangles": 2378,
+  "boundsBlenderM": [
+    [
+      -48.006,
+      -59.045,
+      0
+    ],
+    [
+      48.104,
+      59.147,
+      42.7
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -87.6409806,
+          41.8791794
+        ],
+        [
+          -87.6409789,
+          41.8791213
+        ],
+        [
+          -87.6409768,
+          41.8790464
+        ],
+        [
+          -87.6409763,
+          41.8790275
+        ],
+        [
+          -87.6409757,
+          41.8790056
+        ],
+        [
+          -87.6409747,
+          41.8789722
+        ],
+        [
+          -87.6409698,
+          41.8788019
+        ],
+        [
+          -87.6409659,
+          41.8786669
+        ],
+        [
+          -87.6409619,
+          41.8785272
+        ],
+        [
+          -87.6409588,
+          41.8783773
+        ],
+        [
+          -87.6409572,
+          41.8783203
+        ],
+        [
+          -87.6409553,
+          41.878291
+        ],
+        [
+          -87.6409547,
+          41.878265
+        ],
+        [
+          -87.6409531,
+          41.8782209
+        ],
+        [
+          -87.6409502,
+          41.8781389
+        ],
+        [
+          -87.6403906,
+          41.8781437
+        ],
+        [
+          -87.6403293,
+          41.8781443
+        ],
+        [
+          -87.6398307,
+          41.8781556
+        ],
+        [
+          -87.6398401,
+          41.8784241
+        ],
+        [
+          -87.6398419,
+          41.878476
+        ],
+        [
+          -87.6398429,
+          41.8785028
+        ],
+        [
+          -87.6398438,
+          41.8785286
+        ],
+        [
+          -87.6398447,
+          41.8785563
+        ],
+        [
+          -87.6398465,
+          41.8786112
+        ],
+        [
+          -87.6398473,
+          41.8786294
+        ],
+        [
+          -87.6398511,
+          41.8787351
+        ],
+        [
+          -87.6398518,
+          41.8787539
+        ],
+        [
+          -87.6398546,
+          41.8788362
+        ],
+        [
+          -87.6398554,
+          41.8788573
+        ],
+        [
+          -87.6398565,
+          41.878888
+        ],
+        [
+          -87.6398583,
+          41.8789405
+        ],
+        [
+          -87.6398624,
+          41.8790604
+        ],
+        [
+          -87.6398627,
+          41.8790615
+        ],
+        [
+          -87.6398673,
+          41.8791951
+        ],
+        [
+          -87.6403672,
+          41.8791881
+        ],
+        [
+          -87.6409806,
+          41.8791794
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 203442440,
+    "version": 61,
+    "timestamp": "2025-11-10T15:46:21Z",
+    "url": "https://www.openstreetmap.org/way/203442440"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q1155989",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/chi-union-station.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Chicago Union Station headhouse (210 South Canal Street, 1925, Graham, Burnham & Co. and Graham, Anderson, Probst & White) — original procedural geometry, CC0-1.0. bun generators/chi-union-station.ts",
+    "Map frame: x east, y north, z up, metres; origin at the anchor on the ground. Anchor = centroid of the OSM outline way/203442440, 41.8786657,-87.6404074. Its walls run at 358.7° / 88.7°, so the catalog bearing is 358.7 and the block is square to this frame. The underground station relation/17581411 (layer -2) is not replaced: the model is the headhouse only, and the platforms and sheds are not drawn.",
+    "Identity, in order: the full-block limestone mass, a tall classical base under a plainer office attic; the colossal colonnade along Canal Street (east) between corner pavilions with arched doorways; the set-back upper office storeys round the central light well; the Great Hall's barrel-vaulted glass skylight in the well.",
+    "Evidence: - plan: OSM outline, a 92.7 x 115.3 m rectangle. The upper block's setbacks (deepest, ~8 m, on Canal Street), the light well (~44 x 62 m) and the skylight (~35 x 58 m, its vault running north-south) measured on USGS NAIP; the north-south setbacks there are blurred by building lean and are estimates to ~2 m. - heights: OSM gives 8 levels; the Great Hall is 34 m high inside (published, 110 ft). Proportions from Bohao Zhao's view of the long side, scaled to ~39 m overall: base cornice ~22 m, attic band to ~26 m, upper office storeys to ~38.5 m. Estimates, not measurements. - colonnade: ~18 columns between the corner pavilions on Charles O'Rear's and Cards84664's views of the south-east corner; column diameter (~2 m) and pitch (~4.6 m) estimated from the same photos. - colour: grey-buff Bedford limestone (published); the skylight `glass`.",
+    "Photos (Wikimedia Commons): Union_Station_from_South_-_panoramio.jpg (Bohao Zhao, CC BY 3.0); Chicago_Union_Station_exterior,_July_2019.jpg (Cards84664, CC BY-SA 4.0); CHICAGO'S_UNION_STATION_IN_THE_HEART_OF_THE_ CITY..._NARA_556077.jpg (Charles O'Rear, public domain); Chicago_Union_Station_outside.jpg (Addis Wang, CC BY-SA 4.0). USGS NAIP for the plan and the skylight. No commercial imagery.",
+    "Left out: the clocks, lettering, cornice dentils, the arched doorways' detail, the rooftop mechanical plant.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"chi-union-station\", model \"chi-union-station\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/chi-union-station.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

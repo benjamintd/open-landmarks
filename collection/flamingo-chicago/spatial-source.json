@@ -1,0 +1,184 @@
+{
+  "id": "flamingo-chicago",
+  "anchor": [
+    -87.6296809,
+    41.8788065
+  ],
+  "coordinateSystem": "Local metres about the anchor (equirectangular, WGS84 radius): X east, Y north, Z up. glTF export: X east, Y up, Z south. Heading already baked.",
+  "license": "ODbL-1.0",
+  "footprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -9.075784397718985,
+          -2.5158204920621214
+        ],
+        [
+          -9.009477296326208,
+          -2.8052511683430574
+        ],
+        [
+          -1.433891051717861,
+          -5.0873007293803525
+        ],
+        [
+          -1.1603742614172745,
+          -4.9648492896587175
+        ],
+        [
+          8.58676953024757,
+          1.0241393146107478
+        ],
+        [
+          8.711095343592254,
+          1.1131949074951064
+        ],
+        [
+          8.76911405672201,
+          1.1911185511700486
+        ],
+        [
+          8.752537281373815,
+          1.2467782964261578
+        ],
+        [
+          8.62821146802913,
+          1.6697923616381458
+        ],
+        [
+          8.611634692680935,
+          1.7254521068942552
+        ],
+        [
+          8.520462428854792,
+          1.7588479545225046
+        ],
+        [
+          -4.54203639240208,
+          3.48430006141676
+        ],
+        [
+          -4.823841569787838,
+          3.3841125201139572
+        ],
+        [
+          -9.075784397718985,
+          -2.5158204920621214
+        ]
+      ]
+    ]
+  },
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -87.6297904,
+          41.8787839
+        ],
+        [
+          -87.6297896,
+          41.8787813
+        ],
+        [
+          -87.6296982,
+          41.8787608
+        ],
+        [
+          -87.6296949,
+          41.8787619
+        ],
+        [
+          -87.6295773,
+          41.8788157
+        ],
+        [
+          -87.6295758,
+          41.8788165
+        ],
+        [
+          -87.6295751,
+          41.8788172
+        ],
+        [
+          -87.6295753,
+          41.8788177
+        ],
+        [
+          -87.6295768,
+          41.8788215
+        ],
+        [
+          -87.629577,
+          41.878822
+        ],
+        [
+          -87.6295781,
+          41.8788223
+        ],
+        [
+          -87.6297357,
+          41.8788378
+        ],
+        [
+          -87.6297391,
+          41.8788369
+        ],
+        [
+          -87.6297904,
+          41.8787839
+        ]
+      ]
+    ]
+  },
+  "parts": [
+    {
+      "osm": "node/1299823016",
+      "tags": {
+        "artist_name": "Alexander Calder",
+        "artwork_type": "sculpture",
+        "layer": "4",
+        "material": "steel",
+        "name": "Flamingo",
+        "source": "survey",
+        "start_date": "1974",
+        "tourism": "artwork",
+        "wheelchair": "yes",
+        "wikidata": "Q3073296",
+        "wikipedia": "en:Flamingo (sculpture)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "version": 10,
+      "timestamp": "2024-11-25T20:34:13Z"
+    }
+  ],
+  "osm": {
+    "type": "node",
+    "id": 1299823016,
+    "version": 10,
+    "timestamp": "2024-11-25T20:34:13Z",
+    "url": "https://www.openstreetmap.org/node/1299823016"
+  },
+  "additionalOsm": [],
+  "tags": {
+    "artist_name": "Alexander Calder",
+    "artwork_type": "sculpture",
+    "layer": "4",
+    "material": "steel",
+    "name": "Flamingo",
+    "source": "survey",
+    "start_date": "1974",
+    "tourism": "artwork",
+    "wheelchair": "yes",
+    "wikidata": "Q3073296",
+    "wikipedia": "en:Flamingo (sculpture)"
+  },
+  "note": "This landmark replaces no mapped building; the OSM feature cited is the one that names it."
+}

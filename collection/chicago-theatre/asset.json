@@ -1,0 +1,153 @@
+{
+  "id": "chicago-theatre",
+  "name": "Chicago Theatre",
+  "anchor": [
+    -87.627238,
+    41.885396
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 75000,
+      "sha256": "e82c0eac24c6fe2a00d3d912d3d043e3960e190b498998dd71d8307f2a1d16b7"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 75000,
+      "sha256": "e82c0eac24c6fe2a00d3d912d3d043e3960e190b498998dd71d8307f2a1d16b7"
+    }
+  },
+  "triangles": 1448,
+  "boundsBlenderM": [
+    [
+      -45.969,
+      -24.312,
+      0
+    ],
+    [
+      29.024,
+      28.046,
+      33.6
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -87.6269016,
+          41.8856477
+        ],
+        [
+          -87.6268894,
+          41.8851816
+        ],
+        [
+          -87.6269938,
+          41.8851822
+        ],
+        [
+          -87.6273938,
+          41.8851847
+        ],
+        [
+          -87.6274449,
+          41.885185
+        ],
+        [
+          -87.6274977,
+          41.8851846
+        ],
+        [
+          -87.6277181,
+          41.8851858
+        ],
+        [
+          -87.6277182,
+          41.8852667
+        ],
+        [
+          -87.6277184,
+          41.8853475
+        ],
+        [
+          -87.6274756,
+          41.885348
+        ],
+        [
+          -87.6274823,
+          41.8856455
+        ],
+        [
+          -87.6274324,
+          41.8856457
+        ],
+        [
+          -87.6273902,
+          41.8856459
+        ],
+        [
+          -87.6269016,
+          41.8856477
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 124873919,
+    "version": 14,
+    "timestamp": "2026-03-04T19:18:23Z",
+    "url": "https://www.openstreetmap.org/way/124873919"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 1176843051,
+      "version": 1,
+      "timestamp": "2023-05-28T05:33:59Z",
+      "url": "https://www.openstreetmap.org/way/1176843051"
+    }
+  ],
+  "wikidata": "Q642866",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/chi-chicago-theatre.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Chicago Theatre (1921, Rapp and Rapp), 175 N State Street, Chicago — original procedural geometry, CC0-1.0.",
+    "Map frame: x east, y north, z up, metres; origin at the centroid of the OSM outline way/124873919 (41.885396, -87.627238). The outline's edges run at 359.9° / 89.7°, so the model is built square and placed at bearing 359.7. The outline is an L: the lobby block on State Street (x -39.8..-19.7, 18 m of frontage) and the auditorium behind it, east of the Page Brothers Building, to x = 28.4.",
+    "Identity, in order: the vertical C-H-I-C-A-G-O blade sign at the north end of the facade; the long marquee across the front with its round CHICAGO medallion and the word in letters on top; the cream terracotta facade with one great round-arched window (the Arc de Triomphe motif) between narrow piers, a deep main cornice and an attic storey. The auditorium behind is plain brick massing, as the brief asks.",
+    "Lettering: STYLE.md rules out lettering except where the sign is the landmark. This is that exception: the vertical sign's letters, and the smaller CHICAGO on the marquee, are simple extruded block letters on a flat red panel, not a texture. They are in the `entrance` material, which is their real cream bulb colour by day and glows at night like the sign.",
+    "Evidence: - OSM: way/124873919 (outline, 6 levels), way/1176843051 (building=roof, the marquee: 8 m deep across the 18 m frontage; the photos show about 6 m, which is used), way/124873930 (Page Brothers, north neighbour). - Heights: nothing is published. Measured off Rob Young's photo from the south-west, scaled by the 18 m frontage and checked against the seven storeys of the Page Brothers Building beside it: main cornice ≈ 26.8 m, attic top ≈ 30 m, arch window ≈ 7 m wide springing at ≈ 14 m, marquee ≈ 5.0-8.4 m, sign ≈ 10-33.6 m with letters ≈ 2.8 m tall, projecting ≈ 4.6 m. Expect ±2 m. - Auditorium: the big flat roof in USGS NAIP (x -20..15.7) and a separate strip at the east end, read as the stage house. Their heights (24 m and 29 m) are estimates: the photos show the auditorium's south wall about level with the lobby's cornice, and a plain block rising just behind the facade. - Photos (Wikimedia Commons): Balaban_and_Katz_Chicago_Theatre_(5945866075) .jpg (Rob Young, CC BY 2.0, south-west); Balaban_and_Katz_Chicago _Theatre.jpg (Jeff Jondahl, CC BY-SA 3.0, west); Chicago_Theater_-_day .jpg (Wally Gobetz, CC BY 2.0, south-west); Balaban_and_Katz_Chicago _Theater.JPG (JABullinger, CC BY-SA 3.0, night); Chicago_(2836745244) .jpg (Banalities, CC BY 2.0, elevated, from the north-west); 20120825_View_of_State_Street_from_Wit_Roof_Bar.JPG (TonyTheTiger, CC BY-SA 3.0, from above). No commercial imagery.",
+    "Invented or simplified: the marquee's scrollwork and bulb borders (plain red frame), the sign's gold border and its steel bracing to the roof (left out), the fire escape on the south wall (left out).",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"chi-chicago-theatre\", model \"chi-chicago-theatre\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/chi-chicago-theatre.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 59 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the chi-chicago-theatre-glazing finish in the window colour.",
+    "To fit six materials, folded entrance into stone (ΔE 10.1)."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

@@ -1,0 +1,306 @@
+{
+  "id": "aqua-chicago",
+  "name": "Aqua",
+  "anchor": [
+    -87.619901,
+    41.88631
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 13,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 163448,
+      "sha256": "8dca210ea0699b6dacf05d49d0e857d23c42b36ba50b39185e9a43aaf8f4f242"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 163448,
+      "sha256": "8dca210ea0699b6dacf05d49d0e857d23c42b36ba50b39185e9a43aaf8f4f242"
+    }
+  },
+  "triangles": 3902,
+  "boundsBlenderM": [
+    [
+      -50.18,
+      -46.4,
+      0
+    ],
+    [
+      49.3,
+      49.8,
+      262
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -87.619326,
+          41.8867602
+        ],
+        [
+          -87.6193248,
+          41.8867113
+        ],
+        [
+          -87.6193218,
+          41.8865847
+        ],
+        [
+          -87.6193163,
+          41.8863523
+        ],
+        [
+          -87.6193138,
+          41.8862495
+        ],
+        [
+          -87.619311,
+          41.8861317
+        ],
+        [
+          -87.6193076,
+          41.8859864
+        ],
+        [
+          -87.6193056,
+          41.8859041
+        ],
+        [
+          -87.6193915,
+          41.8859031
+        ],
+        [
+          -87.6194476,
+          41.8859024
+        ],
+        [
+          -87.6200566,
+          41.8858941
+        ],
+        [
+          -87.6200678,
+          41.8858939
+        ],
+        [
+          -87.6200915,
+          41.8858943
+        ],
+        [
+          -87.6201088,
+          41.8858945
+        ],
+        [
+          -87.6201459,
+          41.8858951
+        ],
+        [
+          -87.6204536,
+          41.8858906
+        ],
+        [
+          -87.6204911,
+          41.88589
+        ],
+        [
+          -87.6204922,
+          41.8859779
+        ],
+        [
+          -87.6204961,
+          41.8862869
+        ],
+        [
+          -87.6204965,
+          41.8863189
+        ],
+        [
+          -87.6204998,
+          41.8866092
+        ],
+        [
+          -87.6204877,
+          41.8866508
+        ],
+        [
+          -87.6204601,
+          41.8866843
+        ],
+        [
+          -87.6204348,
+          41.8867026
+        ],
+        [
+          -87.6204273,
+          41.8867081
+        ],
+        [
+          -87.620397,
+          41.8867255
+        ],
+        [
+          -87.6203413,
+          41.88674
+        ],
+        [
+          -87.6202778,
+          41.8867411
+        ],
+        [
+          -87.620054,
+          41.8867091
+        ],
+        [
+          -87.6198063,
+          41.8866736
+        ],
+        [
+          -87.6197802,
+          41.8866771
+        ],
+        [
+          -87.6197647,
+          41.8866891
+        ],
+        [
+          -87.6197474,
+          41.8867024
+        ],
+        [
+          -87.6197284,
+          41.886717
+        ],
+        [
+          -87.6196856,
+          41.88675
+        ],
+        [
+          -87.6196625,
+          41.8867548
+        ],
+        [
+          -87.6194504,
+          41.8867582
+        ],
+        [
+          -87.619326,
+          41.8867602
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 95486962,
+    "version": 19,
+    "timestamp": "2023-07-17T17:14:54Z",
+    "url": "https://www.openstreetmap.org/way/95486962"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 686330072,
+      "version": 5,
+      "timestamp": "2023-07-17T17:14:54Z",
+      "url": "https://www.openstreetmap.org/way/686330072"
+    },
+    {
+      "type": "way",
+      "id": 1178533833,
+      "version": 1,
+      "timestamp": "2023-06-03T09:21:42Z",
+      "url": "https://www.openstreetmap.org/way/1178533833"
+    },
+    {
+      "type": "way",
+      "id": 1178533841,
+      "version": 1,
+      "timestamp": "2023-06-03T09:21:42Z",
+      "url": "https://www.openstreetmap.org/way/1178533841"
+    },
+    {
+      "type": "way",
+      "id": 1178533854,
+      "version": 1,
+      "timestamp": "2023-06-03T09:21:42Z",
+      "url": "https://www.openstreetmap.org/way/1178533854"
+    },
+    {
+      "type": "way",
+      "id": 1178533855,
+      "version": 1,
+      "timestamp": "2023-06-03T09:21:42Z",
+      "url": "https://www.openstreetmap.org/way/1178533855"
+    },
+    {
+      "type": "way",
+      "id": 1178533856,
+      "version": 1,
+      "timestamp": "2023-06-03T09:21:42Z",
+      "url": "https://www.openstreetmap.org/way/1178533856"
+    },
+    {
+      "type": "way",
+      "id": 1178533857,
+      "version": 1,
+      "timestamp": "2023-06-03T09:21:42Z",
+      "url": "https://www.openstreetmap.org/way/1178533857"
+    },
+    {
+      "type": "way",
+      "id": 1178533858,
+      "version": 1,
+      "timestamp": "2023-06-03T09:21:42Z",
+      "url": "https://www.openstreetmap.org/way/1178533858"
+    },
+    {
+      "type": "way",
+      "id": 1178533859,
+      "version": 1,
+      "timestamp": "2023-06-03T09:21:42Z",
+      "url": "https://www.openstreetmap.org/way/1178533859"
+    }
+  ],
+  "wikidata": "Q622895",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/chi-aqua.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Aqua (2009, Jeanne Gang / Studio Gang), Chicago — original procedural geometry, CC0-1.0. bun generators/chi-aqua.ts [out.glb]",
+    "Map frame: x east, y north, z up, metres; origin at the anchor on the ground. The anchor is the area centroid of the OSM outline (way/95486962), 41.88631, -87.619901: the podium, which fills the block. Bearing 0.",
+    "Form: a plain rectangular glass tower whose white concrete floor slabs reach out as balconies by up to 3.7 m (12 ft, Wikipedia), each floor's outline a little different, so the facade ripples like a contour map. Where the balconies pull back to the glass, still \"pools\" of blue glass open up the face. The tower stands on the north-west corner of a podium whose roof is one of the city's largest roof gardens.",
+    "Drawn as: the glass box, and one slab every three floors (26 in all), each a ring offset from the box by a smooth wave field. Slab edges are thin (0.4 m in the pools, 2.1 m at full reach) against 9.3 m of glass between them, so the tower reads as aqua glass crossed by rippling white lines, with the pools as open glass. Full reach is drawn 4.2 m against the real 3.7 m so the ripple still reads at phone size. The wave field is invented: the real outlines are bespoke per floor; the field is tuned so the pools are tall ovals in the middle of each face, a storey band to two thirds of a face wide, like the photos.",
+    "Sources: - Podium: OSM outline way/95486962 (and its identical 2-level part way/686330072). OSM tags no height; 20 m is estimated from photos (about four storeys above the park-level drive on the east). - Tower: OSM has no tower part. Its plan is measured on the USGS NAIP orthophoto: the roof, balconies included, spans x −49…8 m, y 6…39 m from the anchor. The glass box is that less 3 m all round, 51 × 26.5 m, which matches the published ~16,000 sq ft floor plate (Wikipedia). - Height 262 m, 82 storeys (Wikipedia, 261.8 m). - Colours: white concrete slabs (photos); the glass Aqua's aqua-green tint (#7fb4b8), held near the palette's window lightness.",
+    "Photos (Wikimedia Commons): Aqua_(Building).jpg (Potro, CC BY-SA 4.0, from the west on Columbus Drive); Aqua_(5192333603).jpg (vxla, CC BY 2.0, looking up a face); Aqua_(29028743675).jpg (Tomošius, CC BY 2.0); Aqua_(9567856351).jpg (Chetiya Sahabandu, CC BY 2.0, the crown); Aqua_(107284131).jpeg (Michael Davis, CC BY 3.0, from the south-west); 2020-01-01_4904x7356_chicago_aqua.jpg (J. Crocker, attribution, from the south-east with the podium); Aqua_(3869860926).jpg (Ethan Kan, CC BY-SA 2.0). USGS NAIP for the plan. No commercial imagery or 3D tiles.",
+    "Replaces the podium outline, its 2-level part and the eight small building=roof cabanas mapped on the podium roof.",
+    "Left out: balcony railings, the podium pool, cabanas and paths, the Aqua Parkhomes (separate OSM buildings east of the podium, not replaced).",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"chi-aqua\", model \"chi-aqua\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/chi-aqua.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 20190 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the chi-aqua-glazing finish in the window colour."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

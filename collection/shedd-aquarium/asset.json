@@ -1,0 +1,598 @@
+{
+  "id": "shedd-aquarium",
+  "name": "Shedd Aquarium",
+  "anchor": [
+    -87.6140757,
+    41.8676081
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 111440,
+      "sha256": "80a32791e413f912543e9f8b98bf8440a11768deb7e585e367c6d1b8674ef443"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 111440,
+      "sha256": "80a32791e413f912543e9f8b98bf8440a11768deb7e585e367c6d1b8674ef443"
+    }
+  },
+  "triangles": 2164,
+  "boundsBlenderM": [
+    [
+      -54.481,
+      -68.787,
+      0
+    ],
+    [
+      113.616,
+      70.005,
+      31.5
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -87.6143971,
+          41.8672761
+        ],
+        [
+          -87.6143612,
+          41.8672499
+        ],
+        [
+          -87.6143587,
+          41.8671962
+        ],
+        [
+          -87.6143241,
+          41.8671964
+        ],
+        [
+          -87.6143095,
+          41.8671967
+        ],
+        [
+          -87.6142733,
+          41.8671976
+        ],
+        [
+          -87.6142722,
+          41.8671834
+        ],
+        [
+          -87.614194,
+          41.8671845
+        ],
+        [
+          -87.6141919,
+          41.8671995
+        ],
+        [
+          -87.6139293,
+          41.8672057
+        ],
+        [
+          -87.6139282,
+          41.8671871
+        ],
+        [
+          -87.6138469,
+          41.867189
+        ],
+        [
+          -87.6138499,
+          41.8672076
+        ],
+        [
+          -87.6138167,
+          41.8672084
+        ],
+        [
+          -87.6137976,
+          41.8672089
+        ],
+        [
+          -87.6137547,
+          41.8672099
+        ],
+        [
+          -87.6136567,
+          41.8672104
+        ],
+        [
+          -87.6136472,
+          41.867201
+        ],
+        [
+          -87.6136257,
+          41.8671796
+        ],
+        [
+          -87.6136013,
+          41.8671554
+        ],
+        [
+          -87.6136065,
+          41.867152
+        ],
+        [
+          -87.6135394,
+          41.8670832
+        ],
+        [
+          -87.6135345,
+          41.8670863
+        ],
+        [
+          -87.6135181,
+          41.8670967
+        ],
+        [
+          -87.6134539,
+          41.8670363
+        ],
+        [
+          -87.6134345,
+          41.8670461
+        ],
+        [
+          -87.613368,
+          41.8669857
+        ],
+        [
+          -87.6133268,
+          41.8670071
+        ],
+        [
+          -87.6132531,
+          41.8670621
+        ],
+        [
+          -87.6131864,
+          41.8671265
+        ],
+        [
+          -87.6130983,
+          41.8670814
+        ],
+        [
+          -87.6129955,
+          41.8671395
+        ],
+        [
+          -87.6129903,
+          41.8671423
+        ],
+        [
+          -87.6129643,
+          41.8671635
+        ],
+        [
+          -87.6129467,
+          41.8671774
+        ],
+        [
+          -87.6129291,
+          41.8671912
+        ],
+        [
+          -87.6129009,
+          41.8672155
+        ],
+        [
+          -87.6128348,
+          41.8672805
+        ],
+        [
+          -87.6127875,
+          41.8673531
+        ],
+        [
+          -87.6127495,
+          41.8674193
+        ],
+        [
+          -87.6127258,
+          41.8674855
+        ],
+        [
+          -87.6127105,
+          41.8675793
+        ],
+        [
+          -87.6127114,
+          41.8676732
+        ],
+        [
+          -87.6127313,
+          41.8677628
+        ],
+        [
+          -87.6127654,
+          41.8678388
+        ],
+        [
+          -87.6128116,
+          41.8679158
+        ],
+        [
+          -87.6128659,
+          41.8679775
+        ],
+        [
+          -87.6129265,
+          41.868035
+        ],
+        [
+          -87.612949,
+          41.8680513
+        ],
+        [
+          -87.6129685,
+          41.8680654
+        ],
+        [
+          -87.612987,
+          41.8680788
+        ],
+        [
+          -87.6130564,
+          41.8681208
+        ],
+        [
+          -87.6131238,
+          41.8681537
+        ],
+        [
+          -87.6132146,
+          41.8681053
+        ],
+        [
+          -87.6133014,
+          41.8681806
+        ],
+        [
+          -87.6133015,
+          41.8681807
+        ],
+        [
+          -87.6133971,
+          41.8682462
+        ],
+        [
+          -87.6134033,
+          41.8682403
+        ],
+        [
+          -87.6134542,
+          41.8681925
+        ],
+        [
+          -87.6134603,
+          41.8681869
+        ],
+        [
+          -87.61348,
+          41.8681978
+        ],
+        [
+          -87.6135358,
+          41.8681413
+        ],
+        [
+          -87.6135447,
+          41.8681323
+        ],
+        [
+          -87.6135551,
+          41.8681378
+        ],
+        [
+          -87.6135654,
+          41.8681433
+        ],
+        [
+          -87.6135656,
+          41.8681432
+        ],
+        [
+          -87.6136238,
+          41.8680833
+        ],
+        [
+          -87.6136329,
+          41.868074
+        ],
+        [
+          -87.6136326,
+          41.8680738
+        ],
+        [
+          -87.6136232,
+          41.8680688
+        ],
+        [
+          -87.613676,
+          41.8680139
+        ],
+        [
+          -87.6137255,
+          41.868013
+        ],
+        [
+          -87.6137749,
+          41.8680121
+        ],
+        [
+          -87.6137748,
+          41.86802
+        ],
+        [
+          -87.6138157,
+          41.8680194
+        ],
+        [
+          -87.6142116,
+          41.8680135
+        ],
+        [
+          -87.6142939,
+          41.8680122
+        ],
+        [
+          -87.614384,
+          41.8680109
+        ],
+        [
+          -87.6143837,
+          41.8679629
+        ],
+        [
+          -87.6143837,
+          41.8679572
+        ],
+        [
+          -87.6143933,
+          41.8679492
+        ],
+        [
+          -87.6144036,
+          41.8679406
+        ],
+        [
+          -87.6144204,
+          41.8679278
+        ],
+        [
+          -87.6144383,
+          41.867914
+        ],
+        [
+          -87.6144674,
+          41.8678905
+        ],
+        [
+          -87.6145448,
+          41.8678284
+        ],
+        [
+          -87.6146241,
+          41.8678265
+        ],
+        [
+          -87.6146195,
+          41.8676975
+        ],
+        [
+          -87.6146479,
+          41.8676974
+        ],
+        [
+          -87.6146478,
+          41.8676911
+        ],
+        [
+          -87.6146474,
+          41.8676768
+        ],
+        [
+          -87.6146461,
+          41.8675989
+        ],
+        [
+          -87.6146447,
+          41.8675207
+        ],
+        [
+          -87.6146469,
+          41.8675068
+        ],
+        [
+          -87.6146468,
+          41.8675013
+        ],
+        [
+          -87.6146161,
+          41.8675028
+        ],
+        [
+          -87.614611,
+          41.8673734
+        ],
+        [
+          -87.6145352,
+          41.8673768
+        ],
+        [
+          -87.6144946,
+          41.8673464
+        ],
+        [
+          -87.6145666,
+          41.8672937
+        ],
+        [
+          -87.614591,
+          41.8672986
+        ],
+        [
+          -87.6146118,
+          41.8672986
+        ],
+        [
+          -87.6146276,
+          41.8672948
+        ],
+        [
+          -87.6146365,
+          41.8672894
+        ],
+        [
+          -87.6146394,
+          41.8672847
+        ],
+        [
+          -87.6146407,
+          41.8672693
+        ],
+        [
+          -87.6146399,
+          41.8672479
+        ],
+        [
+          -87.6146249,
+          41.8672295
+        ],
+        [
+          -87.6146043,
+          41.8672105
+        ],
+        [
+          -87.6145883,
+          41.8672006
+        ],
+        [
+          -87.6145813,
+          41.867196
+        ],
+        [
+          -87.6145545,
+          41.8671806
+        ],
+        [
+          -87.614495,
+          41.8671682
+        ],
+        [
+          -87.6144773,
+          41.8671705
+        ],
+        [
+          -87.6144726,
+          41.8671718
+        ],
+        [
+          -87.6144634,
+          41.8671786
+        ],
+        [
+          -87.6144589,
+          41.8671888
+        ],
+        [
+          -87.6144599,
+          41.8672043
+        ],
+        [
+          -87.614469,
+          41.8672252
+        ],
+        [
+          -87.6143971,
+          41.8672761
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "relation",
+    "id": 17430414,
+    "version": 4,
+    "timestamp": "2025-04-17T02:15:26Z",
+    "url": "https://www.openstreetmap.org/relation/17430414"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 766506552,
+      "version": 11,
+      "timestamp": "2025-04-17T19:47:51Z",
+      "url": "https://www.openstreetmap.org/way/766506552"
+    },
+    {
+      "type": "way",
+      "id": 766511382,
+      "version": 2,
+      "timestamp": "2023-11-22T19:00:40Z",
+      "url": "https://www.openstreetmap.org/way/766511382"
+    },
+    {
+      "type": "way",
+      "id": 766511383,
+      "version": 2,
+      "timestamp": "2023-11-22T19:00:40Z",
+      "url": "https://www.openstreetmap.org/way/766511383"
+    },
+    {
+      "type": "way",
+      "id": 766511381,
+      "version": 5,
+      "timestamp": "2023-11-22T19:00:40Z",
+      "url": "https://www.openstreetmap.org/way/766511381"
+    }
+  ],
+  "wikidata": "Q2166515",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/chi-shedd-aquarium.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "John G. Shedd Aquarium (1200 South DuSable Lake Shore Drive, 1930, Graham, Anderson, Probst & White; Abbott Oceanarium 1991, Lohan Associates), Chicago — original procedural geometry, CC0-1.0. bun generators/chi-shedd-aquarium.ts",
+    "Map frame: x east, y north, z up, metres; origin at the anchor on the ground. The anchor is the area centroid of the 1930 building's OSM part way/766506552 (41.8676081, -87.6140757), which is also the centre of its octagonal dome; that part's walls run at 88.7° / 178.7°, so the catalog bearing is 358.7. Everything else is placed from OSM in that frame.",
+    "Identity, in order: the white marble Beaux-Arts building on a cross-shaped octagonal plan, its arms ending in low pediments; the west front's Doric portico in antis with a full pediment, raised over the walls; the octagonal drum in the middle carrying a low octagonal roof of grey-green glazing in three steps, with a small lantern and finial; on the lake side, the Oceanarium: a fan of curved glass wall between slim white piers under a white fascia.",
+    "Evidence: - plan: OSM relation/17430414 (outer ways 24825568 and 1378225190, the whole complex) and its parts: the 1930 building way/766506552 (93 x 90 m, arms 50 m wide, diagonals chamfered), the dome's octagon way/766511382 (~25 m across), the Oceanarium way/766511383 (a fan ~62 m deep, its outer face an arc), the Phelps Theater way/766511381. The remainder of the outline (the link between the old building and the Oceanarium, service yards) is drawn as a low base. No heights in OSM (building:levels 1). - heights: estimates from photos, scaled by the portico (~22 m wide in OSM, ~27 px/m): on Tony Hisgett's square-on view of the west front the porch is ~4.5 m up its steps, the columns ~9-10 m, the entablature ~3 m, the pediment apex ~22 m, well over the walls' parapet at ~13 m. The drum rises to ~21.6 m; the glazed roof steps up ~6 m more and the lantern and finial reach ~30 m, their top standing ~6 m over the pediment in the same photo (Kelly Martin's views from the north-west and south-west agree, against the wall height). The Oceanarium's top is level with the old walls (~12.5 m) and its glass is about three quarters of that (TonyTheTiger's view across the harbour from the south-east). - colour: white Georgia marble; the central roof's grey-green glazing (Hisgett's west view; it reads teal at dusk in Kelly Martin's); the Oceanarium's glass dark green-grey between white piers.",
+    "Photos (Wikimedia Commons): John_G_Shedd_Aquarium_(15613710221).jpg (Tony Hisgett, CC BY 2.0, west front); Acuario_Shedd,_Chicago,..._DD_02/03.jpg (Diego Delso, CC BY-SA 3.0, south and south-west); KM_5866_shedd_aquarium_august_2007.jpg and KM_5998_... (Kelly Martin, CC BY-SA 3.0, south-west and north-west); 20070110_Shedd_Aquarium.JPG (TonyTheTiger, CC BY-SA 3.0, Oceanarium from the south-east); Behind_the_Shedd_Aquarium_2018.jpg (Dnino1, CC BY-SA 4.0, Oceanarium from the north). USGS NAIP for the plan and the Oceanarium's roof lights. No commercial imagery.",
+    "Left out: the parapet's anthemion cresting, the bronze doors and aquatic ornament, the roof's ridge railings, the plaza and its steps beyond the podium, the outdoor terraces by the lake.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"chi-shedd-aquarium\", model \"chi-shedd-aquarium\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/chi-shedd-aquarium.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 2758 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the chi-shedd-aquarium-glazing finish in the window colour.",
+    "To fit six materials, folded trim into chi-shedd-aquarium-shedd-marble (ΔE 6.8)."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

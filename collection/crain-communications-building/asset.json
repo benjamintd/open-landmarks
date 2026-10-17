@@ -1,0 +1,177 @@
+{
+  "id": "crain-communications-building",
+  "name": "Crain Communications Building",
+  "anchor": [
+    -87.624977,
+    41.88483
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 57548,
+      "sha256": "bf34e5ce5ea97e9fe4f2ebd6005c31a1db23924d149231cd25e0ea361f02cbac"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 57548,
+      "sha256": "bf34e5ce5ea97e9fe4f2ebd6005c31a1db23924d149231cd25e0ea361f02cbac"
+    }
+  },
+  "triangles": 978,
+  "boundsBlenderM": [
+    [
+      -19.217,
+      -23.318,
+      0
+    ],
+    [
+      20.1,
+      22.618,
+      177.396
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -87.6251984,
+          41.8846185
+        ],
+        [
+          -87.6252086,
+          41.8849637
+        ],
+        [
+          -87.6251849,
+          41.884981
+        ],
+        [
+          -87.6251613,
+          41.8849983
+        ],
+        [
+          -87.6252038,
+          41.8850292
+        ],
+        [
+          -87.6247448,
+          41.8850344
+        ],
+        [
+          -87.624744,
+          41.8850059
+        ],
+        [
+          -87.6247427,
+          41.8849565
+        ],
+        [
+          -87.6247379,
+          41.8847857
+        ],
+        [
+          -87.6247375,
+          41.8847566
+        ],
+        [
+          -87.6248159,
+          41.8846976
+        ],
+        [
+          -87.6248301,
+          41.884687
+        ],
+        [
+          -87.6248227,
+          41.8846815
+        ],
+        [
+          -87.6247345,
+          41.8846233
+        ],
+        [
+          -87.624814,
+          41.8846217
+        ],
+        [
+          -87.624879,
+          41.8846221
+        ],
+        [
+          -87.6251984,
+          41.8846185
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 210671717,
+    "version": 14,
+    "timestamp": "2024-10-21T03:14:16Z",
+    "url": "https://www.openstreetmap.org/way/210671717"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 284816227,
+      "version": 2,
+      "timestamp": "2023-05-28T07:17:07Z",
+      "url": "https://www.openstreetmap.org/way/284816227"
+    },
+    {
+      "type": "way",
+      "id": 284816228,
+      "version": 2,
+      "timestamp": "2023-05-28T07:17:07Z",
+      "url": "https://www.openstreetmap.org/way/284816228"
+    },
+    {
+      "type": "way",
+      "id": 284816229,
+      "version": 2,
+      "timestamp": "2023-05-28T07:17:07Z",
+      "url": "https://www.openstreetmap.org/way/284816229"
+    }
+  ],
+  "wikidata": "Q2444330",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/chi-smurfit-stone.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Crain Communications Building (150 North Michigan, 1984, A. Epstein & Sons; long the Smurfit-Stone Building), Chicago — original procedural geometry, CC0-1.0. bun generators/chi-smurfit-stone.ts",
+    "Map frame: x east, y north, z up, metres; origin at the anchor on the ground. Anchor = centroid of the OSM outline way/210671717, 41.884830,-87.624977. The plan is drawn from OSM's own coordinates, so the catalog bearing is 0.",
+    "Identity, in order: the top sliced off by one steep plane falling to the south-east, which reads from Michigan Avenue and Millennium Park as a diamond of glass; the cleft that splits the building on the diagonal, a V notch running the full height at the south-east corner and a slot through the top at the north-west; the white bands of the facade, a ribbon window to every floor.",
+    "Evidence: - plan: OSM parts way/284816228 (south-west half), way/284816229 (north-east half) and way/284816227 (the slot at the north-west, flat at 152.5 m). The V notches in the outline at the south-east and north-west corners are the cleft's two ends. - the slope: OSM tags both halves as skillions facing 133°, the south- west half 172.4 m high with a 75 m roof, the north-east 177.4 m with 73 m. Those roof heights look like estimates: the glass face drops only 30-36% of the height in TonyTheTiger's photo from the south-east and Tony Hisgett's from the south. One plane is used for both halves, through OSM's 177.4 m at the north-west and ~112 m at the south-east corner (65 m, from the photos), falling 1.10 m per metre (48°) to 133°. Published height 177 m, 41 floors. - facade: continuous ribbon windows between white spandrels, one per floor (every photo); ~4.1 m floors from 41 floors in 168 m above a taller lobby. - colour: white aluminium spandrels, a cool white finish; the ribbons the palette window; the slope is glass (structural glazing, unlit).",
+    "Photos (Wikimedia Commons): 20080602_Park_Grill_Plaza_and_Smurfit_Stone _Building.JPG (TonyTheTiger, CC BY-SA 3.0); Crain_Communications_Building _(15626441032).jpg (Tony Hisgett, CC BY 2.0); -chicago_-illinois _-building_-skyscrapers_(33933842361).jpg (grego1402, CC BY 2.0); 2_Prudential_13_(14814971009).jpg (Jaysin Trevino, CC BY 2.0, from above). No commercial imagery.",
+    "Left out: the lobby's set-back glazing at street level, mullions.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"chi-smurfit-stone\", model \"chi-smurfit-stone\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/chi-smurfit-stone.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

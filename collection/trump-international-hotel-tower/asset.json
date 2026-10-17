@@ -1,0 +1,346 @@
+{
+  "id": "trump-international-hotel-tower",
+  "name": "Trump International Hotel & Tower",
+  "anchor": [
+    -87.626459,
+    41.888875
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 13,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 56184,
+      "sha256": "9302c1f1d3b0187766024fc12026547a37e6c25f51045a4f651aa8dbffae8923"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 56184,
+      "sha256": "9302c1f1d3b0187766024fc12026547a37e6c25f51045a4f651aa8dbffae8923"
+    }
+  },
+  "triangles": 1377,
+  "boundsBlenderM": [
+    [
+      -38.42,
+      -47.9,
+      0
+    ],
+    [
+      38.736,
+      47.4,
+      423
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -87.626917,
+          41.8886724
+        ],
+        [
+          -87.6269212,
+          41.8887817
+        ],
+        [
+          -87.6269223,
+          41.8888113
+        ],
+        [
+          -87.6267821,
+          41.888915
+        ],
+        [
+          -87.6266737,
+          41.8889918
+        ],
+        [
+          -87.6265913,
+          41.8890502
+        ],
+        [
+          -87.6265594,
+          41.8890728
+        ],
+        [
+          -87.6265013,
+          41.8891117
+        ],
+        [
+          -87.6264325,
+          41.8891623
+        ],
+        [
+          -87.6262598,
+          41.8892792
+        ],
+        [
+          -87.6262328,
+          41.8892927
+        ],
+        [
+          -87.6262037,
+          41.8893004
+        ],
+        [
+          -87.6261684,
+          41.8893036
+        ],
+        [
+          -87.6261359,
+          41.8892998
+        ],
+        [
+          -87.6261044,
+          41.8892925
+        ],
+        [
+          -87.6260792,
+          41.8892808
+        ],
+        [
+          -87.6260683,
+          41.8892735
+        ],
+        [
+          -87.6260538,
+          41.8892637
+        ],
+        [
+          -87.626036,
+          41.8892453
+        ],
+        [
+          -87.6260245,
+          41.8892263
+        ],
+        [
+          -87.6260206,
+          41.8892031
+        ],
+        [
+          -87.6260148,
+          41.8890778
+        ],
+        [
+          -87.6259934,
+          41.889066
+        ],
+        [
+          -87.6259932,
+          41.8890415
+        ],
+        [
+          -87.6259931,
+          41.8890173
+        ],
+        [
+          -87.6259929,
+          41.8889909
+        ],
+        [
+          -87.6259928,
+          41.8889814
+        ],
+        [
+          -87.6259927,
+          41.888963
+        ],
+        [
+          -87.6259926,
+          41.8889496
+        ],
+        [
+          -87.6259925,
+          41.8889364
+        ],
+        [
+          -87.6262804,
+          41.8887353
+        ],
+        [
+          -87.6266819,
+          41.888455
+        ],
+        [
+          -87.6267065,
+          41.8884465
+        ],
+        [
+          -87.6267381,
+          41.888442
+        ],
+        [
+          -87.6267425,
+          41.8884422
+        ],
+        [
+          -87.6267753,
+          41.888444
+        ],
+        [
+          -87.6268083,
+          41.8884518
+        ],
+        [
+          -87.6268189,
+          41.8884558
+        ],
+        [
+          -87.6268408,
+          41.888464
+        ],
+        [
+          -87.626862,
+          41.8884815
+        ],
+        [
+          -87.6268817,
+          41.8885007
+        ],
+        [
+          -87.6268861,
+          41.8885082
+        ],
+        [
+          -87.6268891,
+          41.8885135
+        ],
+        [
+          -87.6268919,
+          41.8885183
+        ],
+        [
+          -87.6268936,
+          41.8885213
+        ],
+        [
+          -87.6268973,
+          41.8885366
+        ],
+        [
+          -87.6268986,
+          41.888542
+        ],
+        [
+          -87.6268989,
+          41.8885488
+        ],
+        [
+          -87.6268999,
+          41.8885747
+        ],
+        [
+          -87.6269009,
+          41.8886018
+        ],
+        [
+          -87.6269033,
+          41.8886622
+        ],
+        [
+          -87.626917,
+          41.8886724
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 64594680,
+    "version": 26,
+    "timestamp": "2026-06-02T18:54:09Z",
+    "url": "https://www.openstreetmap.org/way/64594680"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 188338549,
+      "version": 11,
+      "timestamp": "2026-06-02T18:54:09Z",
+      "url": "https://www.openstreetmap.org/way/188338549"
+    },
+    {
+      "type": "way",
+      "id": 188338550,
+      "version": 8,
+      "timestamp": "2024-04-11T20:19:03Z",
+      "url": "https://www.openstreetmap.org/way/188338550"
+    },
+    {
+      "type": "way",
+      "id": 188338548,
+      "version": 10,
+      "timestamp": "2024-04-11T20:19:03Z",
+      "url": "https://www.openstreetmap.org/way/188338548"
+    },
+    {
+      "type": "way",
+      "id": 188338859,
+      "version": 8,
+      "timestamp": "2024-04-11T20:19:03Z",
+      "url": "https://www.openstreetmap.org/way/188338859"
+    },
+    {
+      "type": "way",
+      "id": 188356529,
+      "version": 3,
+      "timestamp": "2014-05-28T06:59:14Z",
+      "url": "https://www.openstreetmap.org/way/188356529"
+    },
+    {
+      "type": "way",
+      "id": 284773992,
+      "version": 1,
+      "timestamp": "2014-05-28T06:59:12Z",
+      "url": "https://www.openstreetmap.org/way/284773992"
+    },
+    {
+      "type": "way",
+      "id": 284773991,
+      "version": 1,
+      "timestamp": "2014-05-28T06:59:12Z",
+      "url": "https://www.openstreetmap.org/way/284773991"
+    }
+  ],
+  "wikidata": "Q546221",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/chi-trump-tower.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Trump International Hotel & Tower (2009, Adrian Smith / SOM), Chicago — original procedural geometry, CC0-1.0. bun generators/chi-trump-tower.ts [out.glb]",
+    "Map frame: x east, y north, z up, metres; origin at the anchor on the ground. The anchor is the area centroid of the OSM outline (way/64594680), 41.888875, -87.626459. Bearing 0: the tiers are drawn straight from their OSM outlines, which already sit at the tower's real angle to the river.",
+    "Form: a riverfront podium and three stacked tiers whose setbacks line up with the Wrigley Building cornice, River Plaza / Marina City and 330 N Wabash (Wikipedia). Every tier has rounded ends and chamfered corners; a rounded drum rises a storey above the main roof at the north-east end and carries the spire. The curtain wall is clear low-e glass behind polished stainless wing mullions, so it reads pale silver-blue in daylight, with a band of brushed stainless spandrel at each setback (photos).",
+    "Sources: - Plans: OSM building:parts, exact as mapped (2 dp of a metre lost in rounding): outline/podium way/64594680; tiers way/188338549 (120 m), way/188338550 (200 m), way/188338548 (345 m); crown drum way/188338859 (357 m); spire way/188356529, way/284773992, way/284773991 (380, 400, 423 m). - Heights: OSM tags, which agree with Wikipedia (roof 356 m, spire tip 423.2 m). Podium 60 m is OSM; photos put the stainless band at the podium top level with the first setback's Wrigley line. - Body raised 9 m over the Wabash entrance on round columns (Wikipedia, photos): drawn as a recessed dark storey under the glass, 0–8 m. - Estimated: steel band depths (about two floors, from photos), mullion spacing (drawn every ~5 m, real is ~1.5 m), spire radii (OSM rings are 1.5, 1.1 and 0.7 m; kept slightly fatter so it survives at 200 px). - y = 0 is taken at the riverwalk side; the body heights are OSM's, measured from the street. That 6–9 m of ambiguity is within the podium's recessed base.",
+    "Photos (Wikimedia Commons, all daylight): Trump_International_Hotel_and_ Tower,_Chicago,_September_2016-2.jpg (Alvesgaspar, CC BY-SA 4.0, from the east); Chicago_in_2022_Trump_International_Hotel_&_Tower_(52051289679).jpg (Chris Rycroft, CC BY 2.0); Trump_International_Chicago_2023.jpg (Antony-22, CC BY-SA 4.0, from the river to the south-east); 02_Trump_Hotel_&_Tower_Chicago_April_2015.JPG (Potro, CC BY-SA 4.0, from Wabash to the west). USGS NAIP orthophoto for the plan. No commercial imagery or 3D tiles were used.",
+    "Left out: the TRUMP letters (signage, not architecture), the Terrace 16 planting, the riverwalk steps.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"chi-trump-tower\", model \"chi-trump-tower\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/chi-trump-tower.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 2022 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the chi-trump-tower-glazing finish in the window colour."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

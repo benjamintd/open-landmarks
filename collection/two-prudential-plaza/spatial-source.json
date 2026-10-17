@@ -1,0 +1,189 @@
+{
+  "id": "two-prudential-plaza",
+  "anchor": [
+    -87.62272,
+    41.885419
+  ],
+  "coordinateSystem": "Local metres about the anchor (equirectangular, WGS84 radius): X east, Y north, Z up. glTF export: X east, Y up, Z south. Heading already baked.",
+  "license": "ODbL-1.0",
+  "footprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          20.884575314388734,
+          -27.406858633239285
+        ],
+        [
+          19.790621369534392,
+          28.141567272360074
+        ],
+        [
+          17.47011300126898,
+          28.09703947631338
+        ],
+        [
+          -20.84313766506057,
+          27.785344902404585
+        ],
+        [
+          -20.138697624126454,
+          -0.6233891486085653
+        ],
+        [
+          -20.10554750419284,
+          -20.761085032733007
+        ],
+        [
+          -19.84863407765163,
+          -28.3753382033849
+        ],
+        [
+          -16.50875953379365,
+          -28.297414559709956
+        ],
+        [
+          20.884575314388734,
+          -27.406858633239285
+        ]
+      ]
+    ]
+  },
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -87.622468,
+          41.8851728
+        ],
+        [
+          -87.6224812,
+          41.8856718
+        ],
+        [
+          -87.6225092,
+          41.8856714
+        ],
+        [
+          -87.6229715,
+          41.8856686
+        ],
+        [
+          -87.622963,
+          41.8854134
+        ],
+        [
+          -87.6229626,
+          41.8852325
+        ],
+        [
+          -87.6229595,
+          41.8851641
+        ],
+        [
+          -87.6229192,
+          41.8851648
+        ],
+        [
+          -87.622468,
+          41.8851728
+        ]
+      ]
+    ]
+  },
+  "parts": [
+    {
+      "osm": "way/64388666",
+      "tags": {
+        "addr:city": "Chicago",
+        "addr:housenumber": "180",
+        "addr:postcode": "60601",
+        "addr:state": "IL",
+        "addr:street": "North Stetson Avenue",
+        "addr:street:name": "Stetson",
+        "addr:street:prefix": "North",
+        "addr:street:type": "Avenue",
+        "building": "office",
+        "building:levels": "64",
+        "building:use": "office",
+        "chicago:building_id": "815725",
+        "height": "303",
+        "name": "Two Prudential Plaza",
+        "wikidata": "Q1121971",
+        "wikipedia": "en:Two Prudential Plaza"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20.884575314388734,
+              -27.406858633239285
+            ],
+            [
+              19.790621369534392,
+              28.141567272360074
+            ],
+            [
+              17.47011300126898,
+              28.09703947631338
+            ],
+            [
+              -20.84313766506057,
+              27.785344902404585
+            ],
+            [
+              -20.138697624126454,
+              -0.6233891486085653
+            ],
+            [
+              -20.10554750419284,
+              -20.761085032733007
+            ],
+            [
+              -19.84863407765163,
+              -28.3753382033849
+            ],
+            [
+              -16.50875953379365,
+              -28.297414559709956
+            ],
+            [
+              20.884575314388734,
+              -27.406858633239285
+            ]
+          ]
+        ]
+      },
+      "version": 11,
+      "timestamp": "2023-06-04T03:29:02Z"
+    }
+  ],
+  "osm": {
+    "type": "way",
+    "id": 64388666,
+    "version": 11,
+    "timestamp": "2023-06-04T03:29:02Z",
+    "url": "https://www.openstreetmap.org/way/64388666"
+  },
+  "additionalOsm": [],
+  "tags": {
+    "addr:city": "Chicago",
+    "addr:housenumber": "180",
+    "addr:postcode": "60601",
+    "addr:state": "IL",
+    "addr:street": "North Stetson Avenue",
+    "addr:street:name": "Stetson",
+    "addr:street:prefix": "North",
+    "addr:street:type": "Avenue",
+    "building": "office",
+    "building:levels": "64",
+    "building:use": "office",
+    "chicago:building_id": "815725",
+    "height": "303",
+    "name": "Two Prudential Plaza",
+    "wikidata": "Q1121971",
+    "wikipedia": "en:Two Prudential Plaza"
+  }
+}

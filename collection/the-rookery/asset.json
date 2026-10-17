@@ -1,0 +1,137 @@
+{
+  "id": "the-rookery",
+  "name": "The Rookery",
+  "anchor": [
+    -87.63183,
+    41.879082
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 77336,
+      "sha256": "077d357cdd2d95c4d4b420a6085ca445c324b2a337b5b0089396ff17212cff4a"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 77336,
+      "sha256": "077d357cdd2d95c4d4b420a6085ca445c324b2a337b5b0089396ff17212cff4a"
+    }
+  },
+  "triangles": 1816,
+  "boundsBlenderM": [
+    [
+      -26.953,
+      -27.853,
+      0
+    ],
+    [
+      26.278,
+      27.853,
+      55
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -87.632131,
+          41.8788335
+        ],
+        [
+          -87.6315187,
+          41.8788406
+        ],
+        [
+          -87.6315264,
+          41.8793318
+        ],
+        [
+          -87.6315723,
+          41.879331
+        ],
+        [
+          -87.6317025,
+          41.8793289
+        ],
+        [
+          -87.6319627,
+          41.8793248
+        ],
+        [
+          -87.6321441,
+          41.8793219
+        ],
+        [
+          -87.6321391,
+          41.8791335
+        ],
+        [
+          -87.6321376,
+          41.8790784
+        ],
+        [
+          -87.6321356,
+          41.8790034
+        ],
+        [
+          -87.6321323,
+          41.8788827
+        ],
+        [
+          -87.632131,
+          41.8788335
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 73706154,
+    "version": 17,
+    "timestamp": "2025-12-31T14:15:09Z",
+    "url": "https://www.openstreetmap.org/way/73706154"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q3441853",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/chi-rookery.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "The Rookery (209 South LaSalle, 1888, Burnham & Root), Chicago — original procedural geometry, CC0-1.0. bun generators/chi-rookery.ts",
+    "Map frame: x east, y north, z up, metres; origin at the anchor on the ground. Anchor = centroid of the OSM outline way/73706154, 41.879082,-87.631830. Its walls run at 359.1° / 89.1°, so the catalog bearing is 359.1 and the block is square to its own frame.",
+    "Identity, in order: the square red block with its open light court; the rough granite base with the big round-arched entrances on LaSalle (west) and Adams (north); the central pavilions on those fronts, flanked by round turrets with conical caps above the parapet; the tiers of arched windows (two arcades, each three storeys) between brick piers; the glazed hipped skylight over the lobby at the bottom of the court.",
+    "Evidence: - plan: OSM outline, 51.0 × 54.2 m, the same as HABS ILL-1030's 167'6\" × 177'8\". The light court from HABS sheet 3 (third floor plan): 19.2 m E-W, 22.1 m N-S, centred N-S, 16.2 m from LaSalle, with its west corners cut and the oriel stair (6.8 m across) on its west wall. - heights, all from HABS sheet 4 (photogrammetric west elevation, 1967): granite base 30.50 ft (9.3 m), belt courses at 57.75 ft (17.6 m) and 96.18 ft (29.3 m), main parapet 160.57 ft (48.9 m), pavilion parapet ~166 ft (50.6 m), turret finials 180.5 ft (55.0 m; published 181 ft). Bays, window widths and the arch radii are measured on the same sheet (5.0 px/ft): four bays a side either side of a 13.6 m pavilion. - the north front has its own projecting centre bay and arched entrance but no turrets (Teemu008's and Sknuteson's photos from the north-west). The south and east walls are given the same window rhythm without the pavilions; no photo here shows them closely (estimate). - colour: red-brown brick and terracotta (finish, pulled light from the photos' #a87566), the base a lighter rock-faced red granite; the court's white glazed brick is trim.",
+    "Photos (Wikimedia Commons): Rookery_Building_(6038513231).jpg (Teemu008, CC BY-SA 2.0); Rookery_Building_2014.jpg (Sknuteson, CC BY-SA 4.0); Chicago_-_S_LaSalle_St_-_Rookery_-_01.jpg and _02 (HaSt, CC BY-SA 4.0); Rookery_Building,_Chicago,_Illinois_(11004246306).jpg (Ken Lund, CC BY-SA 2.0); HABS ILL,16-CHIG,31-1 (Cervin Robinson, 1963, public domain) and HABS ILL-1030 sheets 2–4 (public domain). No commercial imagery.",
+    "Left out: the cresting, the colonnettes and carved birds, the balconies, the oriel bays' mullions, the flagpole.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"chi-rookery\", model \"chi-rookery\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/chi-rookery.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 140 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the chi-rookery-glazing finish in the window colour.",
+    "To fit six materials, folded chi-rookery-rookery-granite into chi-rookery-rookery-brick (ΔE 11.2)."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

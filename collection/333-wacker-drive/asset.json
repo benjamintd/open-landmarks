@@ -1,0 +1,191 @@
+{
+  "id": "333-wacker-drive",
+  "name": "333 Wacker Drive",
+  "anchor": [
+    -87.6359245,
+    41.8860954
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 36808,
+      "sha256": "3df29c506f58a51de67adee43f82b80cfaa8aef182a9503495444b2c5c4be330"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 36808,
+      "sha256": "3df29c506f58a51de67adee43f82b80cfaa8aef182a9503495444b2c5c4be330"
+    }
+  },
+  "triangles": 618,
+  "boundsBlenderM": [
+    [
+      -38.169,
+      -28.36,
+      0
+    ],
+    [
+      28.36,
+      38.57,
+      148
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -87.6363847,
+          41.8858399
+        ],
+        [
+          -87.6363534,
+          41.885907
+        ],
+        [
+          -87.6363489,
+          41.8859184
+        ],
+        [
+          -87.6363208,
+          41.8859672
+        ],
+        [
+          -87.6362876,
+          41.8860156
+        ],
+        [
+          -87.63625,
+          41.8860623
+        ],
+        [
+          -87.6361893,
+          41.8861286
+        ],
+        [
+          -87.6360856,
+          41.8862175
+        ],
+        [
+          -87.6360373,
+          41.88625
+        ],
+        [
+          -87.6359786,
+          41.8862896
+        ],
+        [
+          -87.6358824,
+          41.8863404
+        ],
+        [
+          -87.6357914,
+          41.8863802
+        ],
+        [
+          -87.6357138,
+          41.8864071
+        ],
+        [
+          -87.6355877,
+          41.8864435
+        ],
+        [
+          -87.6355829,
+          41.88609
+        ],
+        [
+          -87.6356345,
+          41.886051
+        ],
+        [
+          -87.635649,
+          41.8860404
+        ],
+        [
+          -87.6356623,
+          41.8860307
+        ],
+        [
+          -87.6356767,
+          41.8860201
+        ],
+        [
+          -87.6357462,
+          41.8859654
+        ],
+        [
+          -87.6358163,
+          41.8859111
+        ],
+        [
+          -87.6358328,
+          41.8858985
+        ],
+        [
+          -87.6358491,
+          41.885886
+        ],
+        [
+          -87.6358626,
+          41.8858756
+        ],
+        [
+          -87.6359056,
+          41.8858409
+        ],
+        [
+          -87.6363847,
+          41.8858399
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 116017092,
+    "version": 14,
+    "timestamp": "2025-09-25T14:16:04Z",
+    "url": "https://www.openstreetmap.org/way/116017092"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q225835",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/chi-333-wacker.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "333 Wacker Drive (1983, Kohn Pedersen Fox), Chicago — original procedural geometry, CC0-1.0. bun generators/chi-333-wacker.ts",
+    "Map frame: x east, y north, z up, metres; origin at the anchor on the ground. Anchor = centroid of the OSM outline way/116017092, 41.8860954,-87.6359245. Its back walls run at 179.4° and 269.8°, so the catalog bearing is 0 and the frame is true north.",
+    "Identity, in order: the great curved wall of green reflective glass following the bend of the river, its top edge rising towards the south-west end, where it slots into a taller block; the flat back faces on the city side, with the 45° south-east face cut by a full-height V notch and the top stepping down towards the south; the dark granite base with green marble stripes; one bronze band around the back high up.",
+    "Evidence: - plan: OSM outline. The river face is redrawn as a circular arc through the outline's two ends and its middle, 16 segments. - height: 148 m (OSM; published 148.4 m, 36 storeys) to the back block's top. Measured on MusikAnimal's and Alvesgaspar's views square to the curve, scaled by the 148 m back: the curve's top edge ~143 m at the south-west end falling to ~137 m at the north-east end (the photos from Wolf Point put the taller, slotted end on the right, the south-west), the stepped back ~144.5 m, base ~12 m (three storeys of granite). - back: the V notch and the stepped top from Jaysin Trevino's view up the south-east face and Elisa.rolle's from the south; the notch depth (3 m) and the bronze band's height (~112 m) are estimates. - colour: pale green glass as it reads in daylight (a light window colour, per STYLE); the base a warm grey granite.",
+    "Photos (Wikimedia Commons): 333_Wacker_Drive,_Chicago_in_May_2016.jpg (MusikAnimal, CC BY-SA 4.0); Chicago_2007-15.jpg (Alvesgaspar, CC BY-SA 3.0); 333_West_Wacker_Drive.JPG (FTSKfan, public domain); 333_Wacker_Dr.jpg (Adsitm, CC BY-SA 3.0); 333_West_Wacker_1_(6573419471) .jpg and 333_West_Wacker_2_(6573421275).jpg (Jaysin Trevino, CC BY 2.0); 333_West_Wacker_Drive,_2000.JPG (Elisa.rolle, CC BY-SA 3.0). No commercial imagery.",
+    "Left out: mullion grid, the round vents and the arcade in the base, the rooftop sign.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"chi-333-wacker\", model \"chi-333-wacker\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/chi-333-wacker.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

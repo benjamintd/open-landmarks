@@ -1,0 +1,111 @@
+{
+  "id": "chicago-temple-building",
+  "name": "Chicago Temple Building",
+  "anchor": [
+    -87.630615,
+    41.882859
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 73212,
+      "sha256": "9bb20bfd5e4db6aa8fd659668b3fea26353be71cf1888a16f7191e893c189a40"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 73212,
+      "sha256": "9bb20bfd5e4db6aa8fd659668b3fea26353be71cf1888a16f7191e893c189a40"
+    }
+  },
+  "triangles": 1192,
+  "boundsBlenderM": [
+    [
+      -14.052,
+      -27.91,
+      0
+    ],
+    [
+      13.785,
+      29.019,
+      173.2
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -87.6307704,
+          41.8831096
+        ],
+        [
+          -87.6304648,
+          41.8831117
+        ],
+        [
+          -87.6304604,
+          41.8827473
+        ],
+        [
+          -87.6304588,
+          41.8826087
+        ],
+        [
+          -87.6307644,
+          41.8826067
+        ],
+        [
+          -87.6307704,
+          41.8831096
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 137060374,
+    "version": 15,
+    "timestamp": "2024-12-11T06:22:48Z",
+    "url": "https://www.openstreetmap.org/way/137060374"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q14687499",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/chi-chicago-temple.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Chicago Temple Building (77 West Washington, 1924, Holabird & Roche), home of the First United Methodist Church — original procedural geometry, CC0-1.0. bun generators/chi-chicago-temple.ts",
+    "Map frame: x east, y north, z up, metres; origin at the anchor on the ground. Anchor = centroid of the OSM outline way/137060374, 41.882859,-87.630615. Its walls run at 359.5° / 89.5°, so the catalog bearing is 359.5 and the block is square to its own frame.",
+    "Identity, in order: the pale limestone office slab carrying, at its Washington Street (north) end, an openwork Gothic lantern ringed with pinnacles and a tall slender octagonal spire; the pinnacled Gothic parapet round the top of that north end; the plain slab below with its window columns.",
+    "Evidence: - plan: OSM outline, 25.4 × 55.6 m. The raised north end, the lantern and the spire stand over the northern ~25 m (USGS NAIP shows the lantern's octagon and pinnacles there, the rest of the roof flat and lower). - heights: 173 m (568 ft) to the top of the cross, published. Sky Chapel \"at the base of the steeple\" at 400 ft (122 m), with the three-floor parsonage below it in the lantern, published; so the lantern runs from the top of the north end (~92 m) to ~130 m and the spire ~130–172 m. The main slab’s parapet (~86 m) and the north end’s (~92 m) are read off DS1953's and Antoine Taveneaux's photos from the north-east against that total (estimates). - widths: the lantern ~16 m across, the spire’s base ~11 m, against the 25.4 m north face in the same photos (estimates). - colour: grey-white Indiana limestone, the palette stone; the spire is a pale stone, trim.",
+    "Photos (Wikimedia Commons): Chicago_Temple_Building.jpg (DS1953, CC BY-SA 2.5); Chicago_Temple_Building5.jpg (Antoine Taveneaux, CC BY-SA 3.0); Chicago_-_Temple_-_01.jpg (HaSt, CC BY-SA 4.0); Methodist_Temple_ (Chicago).jpg (Chris Light, CC BY-SA 4.0); Chicago_Temple_Building_01.jpg (Sailko, public domain); Chicago_Temple_Building_(First_United_Methodist_ Church).jpg (Cameron Murray, CC BY-SA 4.0); Atop_Chicago_(5394336267).jpg (edward stojakovic, CC BY 2.0). No commercial imagery.",
+    "Left out: the tracery, crockets and gargoyles; the pointed-arch ground floor; the cross is a slim post.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"chi-chicago-temple\", model \"chi-chicago-temple\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/chi-chicago-temple.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}
