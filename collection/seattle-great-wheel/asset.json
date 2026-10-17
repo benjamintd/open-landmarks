@@ -1,0 +1,113 @@
+{
+  "id": "seattle-great-wheel",
+  "name": "Seattle Great Wheel",
+  "anchor": [
+    -122.3424857,
+    47.6061437
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 209992,
+      "sha256": "a90108b66da1ffb2dc698ab10193597ce3214161baf06d5905e484fe40e8dcef"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 209992,
+      "sha256": "a90108b66da1ffb2dc698ab10193597ce3214161baf06d5905e484fe40e8dcef"
+    }
+  },
+  "triangles": 4760,
+  "boundsBlenderM": [
+    [
+      -23.953,
+      -12.097,
+      0
+    ],
+    [
+      23.953,
+      13.577,
+      54.15
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -122.3426845,
+          47.6062153
+        ],
+        [
+          -122.3424615,
+          47.6062837
+        ],
+        [
+          -122.3423525,
+          47.6061223
+        ],
+        [
+          -122.3425755,
+          47.6060539
+        ],
+        [
+          -122.3426845,
+          47.6062153
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 396606878,
+    "version": 2,
+    "timestamp": "2023-03-06T01:05:03Z",
+    "url": "https://www.openstreetmap.org/way/396606878"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q7442108",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/sea-great-wheel.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Seattle Great Wheel, Pier 57 — procedural, CC0-1.0. bun generators/sea-great-wheel.ts",
+    "Map frame: x east, y north, z up, metres; origin on the pier deck under the hub. The wheel turns in the x–z plane, so its axle runs along y. Placed at bearing 336.2°: the lidar shows the wheel's plane running 66.2°/246.2°, along Pier 57, so the model's x axis is turned onto 66.2°.",
+    "A 2012 Dutch-built observation wheel (Chance/Dutch Wheels design), 175 ft (53 m) tall, with 42 enclosed gondolas, 21 trussed spokes, a twin-chord truss rim and a white dimpled ball over the hub, carried on two white A-frames of tubular legs, one each side of the wheel. A curved glass canopy covers the boarding platform under it.",
+    "Evidence:",
+    "Published: 175 ft / 53 m tall, 42 gondolas of 8 seats, opened 29 June 2012 (Wikipedia, Q7442108).",
+    "Lidar (USGS 3DEP WA_KingCo_1_2021, 0.5 m): top of the top gondola 54.1 m above the deck; the wheel's plane at bearing 66.2°, 3.5 m thick with the gondolas; gondolas reach ±26 m either side of the hub; the A-frame feet stand ±9.5 m along the plane and ±8.2 m off it, the legs meeting ±3 m off the plane at ~29 m; the canopy is ~7.4 m high over a platform about 24 m along the plane and 16 m across it.",
+    "Derived from those: hub at 28 m, rim centre line at 23.6 m radius, the gondolas' centres at 24.9 m.",
+    "Photos (credits in /tmp/city/sea/work/sea-great-wheel/credits.txt, Commons, CC BY / CC BY-SA): the four legs, the hub ball (~5 m across, measured against the wheel in two face-on photos), the gondolas' dark glass with white tops and floors, the canopy's arch seen face-on.",
+    "Estimated: gondola size (2.3 m wide, 1.8 m deep, 2.5 m tall, from photos); the rim's section; leg diameter (1.3 m, from the view along the plane).",
+    "Simplified: the rim and spokes are trusses; each is drawn as broad solid members (STYLE.md: no thin ribs). The cable spokes and thin inner ring are left out. The LED light show is not modelled.",
+    "It turns (experimental; see \"Animation\" in STYLE.md), as the Wonder Wheel does: the wheel is a glTF node at the hub, each gondola a child node at its own centre turned back by as much as the wheel turns, so it stays plumb.",
+    "Replaces the canopy's outline (way/396606878, building=roof): the model draws the canopy itself. The wheel is a node in OSM; Pier 57 is a man_made=pier area the map draws, so the deck isn't modelled. The terrain tiles carry the pier at 4–5 m, close to the 4.9 m deck the lidar reads, so elevation stays 0.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"sea-great-wheel\", model \"sea-great-wheel\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/sea-great-wheel.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

@@ -1,0 +1,154 @@
+{
+  "id": "seattle-tower",
+  "name": "Seattle Tower",
+  "anchor": [
+    -122.335457,
+    47.6076875
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 57120,
+      "sha256": "413ca3021c1954fc5f9dfb487fdb4005bd35843ac5dfb8859333abd3d5e8eda3"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 57120,
+      "sha256": "413ca3021c1954fc5f9dfb487fdb4005bd35843ac5dfb8859333abd3d5e8eda3"
+    }
+  },
+  "triangles": 972,
+  "boundsBlenderM": [
+    [
+      -23.145,
+      -23.563,
+      0
+    ],
+    [
+      23.145,
+      23.624,
+      99.5
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -122.3355147,
+          47.6074724
+        ],
+        [
+          -122.3357681,
+          47.6077494
+        ],
+        [
+          -122.3355441,
+          47.6078425
+        ],
+        [
+          -122.3353994,
+          47.6079027
+        ],
+        [
+          -122.3353249,
+          47.6078212
+        ],
+        [
+          -122.3352206,
+          47.6077073
+        ],
+        [
+          -122.335146,
+          47.6076257
+        ],
+        [
+          -122.3352907,
+          47.6075655
+        ],
+        [
+          -122.3355147,
+          47.6074724
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 335417547,
+    "version": 7,
+    "timestamp": "2021-02-25T11:41:24Z",
+    "url": "https://www.openstreetmap.org/way/335417547"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 232079588,
+      "version": 8,
+      "timestamp": "2024-03-29T02:19:38Z",
+      "url": "https://www.openstreetmap.org/way/232079588"
+    },
+    {
+      "type": "way",
+      "id": 417915158,
+      "version": 3,
+      "timestamp": "2024-03-29T02:19:40Z",
+      "url": "https://www.openstreetmap.org/way/417915158"
+    },
+    {
+      "type": "way",
+      "id": 417915157,
+      "version": 3,
+      "timestamp": "2024-03-29T02:19:40Z",
+      "url": "https://www.openstreetmap.org/way/417915157"
+    },
+    {
+      "type": "way",
+      "id": 417915159,
+      "version": 3,
+      "timestamp": "2024-03-29T02:19:40Z",
+      "url": "https://www.openstreetmap.org/way/417915159"
+    }
+  ],
+  "wikidata": "Q7442196",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/sea-seattle-tower.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Seattle Tower (Northern Life Tower, 1929, Albertson, Wilson & Richardson), Seattle — original procedural geometry, CC0-1.0. bun generators/sea-seattle-tower.ts [out.glb]",
+    "Map frame: x east, y north, z up, metres; origin at the anchor (the OSM outline's area centroid, -122.3354570, 47.6076875) on the lowest ground under the footprint (37.7 m NAVD88, on 3rd Avenue). Built in the street grid's frame: the model's x axis runs along University Street (ENE, away from 3rd Avenue), y up the avenues (NNW); placement bearing 328.8°.",
+    "Form: an art-deco setback tower in brick shaded from dark brown at the foot to pale buff at the top. The 27-storey shaft stands on the 3rd Avenue side, ribbed with deep brick piers, and steps in three times above 86 m to a small top at 100 m; low wings of 15-23 m flank it on 3rd Avenue. On the east side a symmetrical block: wings of 58 m either side of a 67 m centre bay.",
+    "Sources",
+    "OSM: outline way/335417547; parts way/232079588 (the shaft, 100 m, its outline traced pier by pier), way/417915158 (top, 106 m, tagged mansard; drawn as a brick tier, as the photos show), way/417915157 (front centre bay, 65 m), way/417915159 (front wings, 50 m). The pier positions are OSM's.",
+    "Lidar (measured, USGS 3DEP WA_KingCo_1_2021, above 37.7 m NAVD88): piers 86 m; crown tiers 93-94 m and 96-97 m; top 99-100 m; front centre bay 67 m; front wings 57-58 m; west low wings 15 m and 22-24 m. OSM's 50 and 65 m front heights are low by ~7 m and the 106 m top high; lidar used.",
+    "Published: 27 storeys, 96 m to the roof (Wikipedia, \"Seattle Tower\").",
+    "Photos (Wikimedia Commons): SounderBruce 2017 (from Russell Investments Center, the crown and the colour gradient), Visitor7 2013 (3rd Avenue and University Street corner), Joe Mabel (the 3rd Avenue front). Estimated: the three brick bands' heights and colours (the real shading is continuous, in about ten steps), the window panels' storey groups (four storeys), the low wings' facades.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"sea-seattle-tower\", model \"sea-seattle-tower\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/sea-seattle-tower.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

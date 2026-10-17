@@ -1,0 +1,226 @@
+{
+  "id": "king-street-station",
+  "name": "King Street Station",
+  "anchor": [
+    -122.3299103,
+    47.5984251
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 58224,
+      "sha256": "022e701e3a44bbe34b85a3e0ed3c0bf505e24ec1a311ac73e3a953bd15bf7ffa"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 58224,
+      "sha256": "022e701e3a44bbe34b85a3e0ed3c0bf505e24ec1a311ac73e3a953bd15bf7ffa"
+    }
+  },
+  "triangles": 1266,
+  "boundsBlenderM": [
+    [
+      -24.7,
+      -28.75,
+      0
+    ],
+    [
+      19.3,
+      33.77,
+      73.8
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -122.3302313,
+          47.5983857
+        ],
+        [
+          -122.3301614,
+          47.5983848
+        ],
+        [
+          -122.3301374,
+          47.5983845
+        ],
+        [
+          -122.3301195,
+          47.5983842
+        ],
+        [
+          -122.3301186,
+          47.5984155
+        ],
+        [
+          -122.3301167,
+          47.5984781
+        ],
+        [
+          -122.3300549,
+          47.5984773
+        ],
+        [
+          -122.3300011,
+          47.5984767
+        ],
+        [
+          -122.3300004,
+          47.5985483
+        ],
+        [
+          -122.3300539,
+          47.5985488
+        ],
+        [
+          -122.3300487,
+          47.5987266
+        ],
+        [
+          -122.3300426,
+          47.5987266
+        ],
+        [
+          -122.330016,
+          47.5987265
+        ],
+        [
+          -122.32967,
+          47.5987219
+        ],
+        [
+          -122.3296712,
+          47.5986768
+        ],
+        [
+          -122.3296858,
+          47.5981745
+        ],
+        [
+          -122.3296947,
+          47.5981746
+        ],
+        [
+          -122.3297483,
+          47.5981753
+        ],
+        [
+          -122.3298154,
+          47.5981762
+        ],
+        [
+          -122.3298541,
+          47.5981767
+        ],
+        [
+          -122.3298958,
+          47.5981773
+        ],
+        [
+          -122.3299634,
+          47.5981782
+        ],
+        [
+          -122.3299712,
+          47.5981783
+        ],
+        [
+          -122.3301239,
+          47.5981804
+        ],
+        [
+          -122.3301855,
+          47.5981812
+        ],
+        [
+          -122.3302373,
+          47.5981819
+        ],
+        [
+          -122.3302313,
+          47.5983857
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 4725281,
+    "version": 27,
+    "timestamp": "2026-03-22T02:19:57Z",
+    "url": "https://www.openstreetmap.org/way/4725281"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 442511849,
+      "version": 4,
+      "timestamp": "2017-05-05T00:53:52Z",
+      "url": "https://www.openstreetmap.org/way/442511849"
+    },
+    {
+      "type": "way",
+      "id": 442511850,
+      "version": 5,
+      "timestamp": "2017-05-21T05:42:07Z",
+      "url": "https://www.openstreetmap.org/way/442511850"
+    },
+    {
+      "type": "way",
+      "id": 442511851,
+      "version": 7,
+      "timestamp": "2023-10-30T19:02:59Z",
+      "url": "https://www.openstreetmap.org/way/442511851"
+    },
+    {
+      "type": "way",
+      "id": 442511852,
+      "version": 11,
+      "timestamp": "2023-10-30T19:31:13Z",
+      "url": "https://www.openstreetmap.org/way/442511852"
+    }
+  ],
+  "wikidata": "Q536131",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/sea-king-street-station.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "King Street Station (1906, Reed & Stem), Seattle: procedural, CC0-1.0. bun generators/sea-king-street-station.ts",
+    "Map frame: x east, y north, z up, metres; bearing 0 (the walls run within a degree of true north in the lidar). The origin is the area centroid of OSM way/4725281 (the outline); y = 0 is the ground around the building (5.3 m NAVD88), which is flat on all four sides (lidar ground returns).",
+    "Form: an L-shaped, three-storey red-brick block under one hipped roof of green tile, a long wing running north-south and a shorter one running west along the south end, with the campanile (after St Mark's in Venice) in the inside corner of the L: a brick shaft with recessed panels, an arcaded belfry, a heavy cornice, a narrower clock stage with a clock on each face, and a steep slate pyramid. A flat-roofed one-storey annex runs along the north end and up the west side of the long wing.",
+    "Measured (USGS 3DEP WA_KingCo_1_2021, 0.5 m surface model, heights above the ground; OSM sits ~1 m west of the lidar, so the plan is taken from the lidar):",
+    "roof eaves at 16.6-16.8 m, both ridges at 23.0 m (lidar max 23.0); eave lines x -6.3..19.3 (long wing) and y -28.75..-3.2 (south wing);",
+    "the annex roof at 10.5 m;",
+    "the tower: 11 m square at its belfry cornice, 50.7 m; the clock stage 8.5-9 m across with its cornice at 60.4 m; the pyramid rising from there, lidar points to 74.6 m near the tip (finial). Published: tower 242 ft (73.8 m) to the finial (Wikipedia, \"King Street Station\"); OSM part way/442511849 74 m. From photos: the tower's stage proportions (belfry 4.6 m, clock stage 8.5 m, pyramid base 0.56 of the shaft's width and 1.65 times as tall), the clock diameter (about 0.4 of the clock stage), three belfry arches and three shaft panels a face, the white cornice and stone base of the hall, the bay rhythm (about 4.3 m), colours. Estimated: wall lines 0.8 m inside the lidar eaves; the window grouping (one panel per bay for the ground floor, one for the two upper floors). Left out: the platform canopies and the Jackson Street plaza deck (not the building), the lettering on the cornice (signage), the pyramid's small dormers and railings, the clock hands (too thin to read).",
+    "Photos: see /tmp/city/sea/work/sea-king-street-station/credits.txt (\"Amtrak: King Street Station\" by Loco Steve, CC BY 2.0, from the north-west; \"Fourth Avenue South (brighter)\", Dominikosaurus, CC BY-SA 3.0, from the south-east; \"Seattle - King Street Station 03\" and \"08\", Joe Mabel, CC BY-SA 3.0, from the north and south; \"King Street Station and Seattle skyline from I-90 ramp\", SounderBruce, CC BY-SA 4.0, from the south; \"KING STREET STATION SEATTLE WA - panoramio\", Loco Steve, CC BY 3.0, from the south along the tracks).",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"sea-king-street-station\", model \"sea-king-street-station\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/sea-king-street-station.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

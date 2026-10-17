@@ -1,0 +1,289 @@
+{
+  "id": "seattle-municipal-tower",
+  "name": "Seattle Municipal Tower",
+  "anchor": [
+    -122.3296022,
+    47.6050394
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 13,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 74988,
+      "sha256": "02242da5b6ada2240a866da1678488ac169780b2dede1ddad547904835c06f34"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 74988,
+      "sha256": "02242da5b6ada2240a866da1678488ac169780b2dede1ddad547904835c06f34"
+    }
+  },
+  "triangles": 1197,
+  "boundsBlenderM": [
+    [
+      -40.878,
+      -33.155,
+      0
+    ],
+    [
+      50.592,
+      42.981,
+      213.58
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -122.3293467,
+          47.6047377
+        ],
+        [
+          -122.3293702,
+          47.6047417
+        ],
+        [
+          -122.3293748,
+          47.604726
+        ],
+        [
+          -122.3295162,
+          47.6047467
+        ],
+        [
+          -122.3295411,
+          47.6047765
+        ],
+        [
+          -122.3295556,
+          47.6047939
+        ],
+        [
+          -122.3295474,
+          47.6048122
+        ],
+        [
+          -122.3295623,
+          47.6048314
+        ],
+        [
+          -122.3295463,
+          47.6048827
+        ],
+        [
+          -122.3296161,
+          47.6048942
+        ],
+        [
+          -122.329643,
+          47.6048814
+        ],
+        [
+          -122.3296559,
+          47.6048438
+        ],
+        [
+          -122.3297143,
+          47.6048549
+        ],
+        [
+          -122.3297022,
+          47.6048918
+        ],
+        [
+          -122.3297184,
+          47.6049118
+        ],
+        [
+          -122.3297093,
+          47.6049404
+        ],
+        [
+          -122.3297931,
+          47.604906
+        ],
+        [
+          -122.3298207,
+          47.6049107
+        ],
+        [
+          -122.3298336,
+          47.604872
+        ],
+        [
+          -122.3298926,
+          47.6048822
+        ],
+        [
+          -122.3299158,
+          47.6048185
+        ],
+        [
+          -122.3298047,
+          47.6047997
+        ],
+        [
+          -122.3298323,
+          47.6047174
+        ],
+        [
+          -122.329782,
+          47.6047092
+        ],
+        [
+          -122.3297686,
+          47.6047469
+        ],
+        [
+          -122.3297135,
+          47.6047379
+        ],
+        [
+          -122.3297269,
+          47.6047003
+        ],
+        [
+          -122.329649,
+          47.6046876
+        ],
+        [
+          -122.3296733,
+          47.6046056
+        ],
+        [
+          -122.3297232,
+          47.6045821
+        ],
+        [
+          -122.3297918,
+          47.6045938
+        ],
+        [
+          -122.329832,
+          47.6046006
+        ],
+        [
+          -122.3301988,
+          47.6049842
+        ],
+        [
+          -122.3302865,
+          47.605096
+        ],
+        [
+          -122.3302164,
+          47.6050869
+        ],
+        [
+          -122.3301806,
+          47.6051592
+        ],
+        [
+          -122.3300629,
+          47.6052071
+        ],
+        [
+          -122.3297669,
+          47.6053273
+        ],
+        [
+          -122.3295729,
+          47.6054067
+        ],
+        [
+          -122.3294249,
+          47.605467
+        ],
+        [
+          -122.3293311,
+          47.6053623
+        ],
+        [
+          -122.3292455,
+          47.6052668
+        ],
+        [
+          -122.3292368,
+          47.6052571
+        ],
+        [
+          -122.3289252,
+          47.6049094
+        ],
+        [
+          -122.3292483,
+          47.6047778
+        ],
+        [
+          -122.3293467,
+          47.6047377
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 107124286,
+    "version": 22,
+    "timestamp": "2026-02-27T23:26:55Z",
+    "url": "https://www.openstreetmap.org/way/107124286"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 331321180,
+      "version": 10,
+      "timestamp": "2026-02-27T01:05:53Z",
+      "url": "https://www.openstreetmap.org/way/331321180"
+    },
+    {
+      "type": "way",
+      "id": 331321181,
+      "version": 7,
+      "timestamp": "2026-02-27T23:26:55Z",
+      "url": "https://www.openstreetmap.org/way/331321181"
+    }
+  ],
+  "wikidata": "Q3177235",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/sea-municipal-tower.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Seattle Municipal Tower (1990, Bassetti Architects), Seattle — original procedural geometry, CC0-1.0. bun generators/sea-municipal-tower.ts [out.glb]",
+    "Map frame: x east, y north, z up, metres; origin at the anchor (the OSM outline's area centroid) on the lowest ground under the tower, at its west corner on 4th Avenue (50.8 m NAVD88). Built with the tower's long axis on the model's y axis; placed at bearing 59°.",
+    "Form: a rose-granite shaft on a long octagonal plan (69 x 39 m, the ends chamfered), banded with dark window ribbons, under a tall barrel vault of green glass that runs the length of the tower. At the south-west end the vault stops in an arched gable and the end of the shaft steps down in terraces; at the north-east end the vault runs on over the chamfers. A 14-storey annex (OSM part way/331321181) stands against the south-east face.",
+    "Sources",
+    "OSM: outline way/107124286; parts way/331321180 (the shaft: 62 floors, 220 m, roof:shape round) and way/331321181 (the annex, 14 floors). The shaft's plan is used as tagged; it is symmetric to a few decimetres.",
+    "Lidar (measured): USGS 3DEP WA_KingCo_1_2021, heights above the lowest ground under the tower: vault eaves 188 m, ridge 212–215 m, the profile in between (z 196 at 3.5 m in from the eave, 206 at 9.5 m); south-west terraces 181, 177, 174, 170 m, each ~3 m deep; annex roof ~35 m. The south part of the OSM outline is a plaza at street level and is left to the map.",
+    "Published: 220 m, 62 storeys (Wikipedia, \"Seattle Municipal Tower\").",
+    "Photos (Wikimedia Commons): the granite and window bands from the street, the vault and the terraced end from Columbia Center; credits in the batch report. Estimated: window grouping (ribbons of three storeys of 3.7 m), the serrations of the chamfered corners (three teeth each, from photos), the annex's facade.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"sea-municipal-tower\", model \"sea-municipal-tower\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/sea-municipal-tower.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 636 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the sea-municipal-tower-glazing finish in the window colour."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

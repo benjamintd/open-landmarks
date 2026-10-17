@@ -1,0 +1,284 @@
+{
+  "id": "husky-stadium",
+  "name": "Husky Stadium",
+  "anchor": [
+    -122.301596,
+    47.650316
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 88596,
+      "sha256": "3688618095ecbc2eded7a75133401b7fdeb620dcf842f93056e86c2b58cbd4cf"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 88596,
+      "sha256": "3688618095ecbc2eded7a75133401b7fdeb620dcf842f93056e86c2b58cbd4cf"
+    }
+  },
+  "triangles": 1679,
+  "boundsBlenderM": [
+    [
+      -135.469,
+      -116.114,
+      0
+    ],
+    [
+      99.934,
+      128.968,
+      59.7
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -122.3032551,
+          47.6497539
+        ],
+        [
+          -122.3030016,
+          47.6496555
+        ],
+        [
+          -122.3028626,
+          47.6496081
+        ],
+        [
+          -122.3027406,
+          47.6495664
+        ],
+        [
+          -122.3024729,
+          47.6494869
+        ],
+        [
+          -122.3021993,
+          47.6494172
+        ],
+        [
+          -122.3019205,
+          47.6493575
+        ],
+        [
+          -122.3016374,
+          47.649308
+        ],
+        [
+          -122.3013507,
+          47.6492688
+        ],
+        [
+          -122.3010612,
+          47.6492399
+        ],
+        [
+          -122.300968,
+          47.6496622
+        ],
+        [
+          -122.3009036,
+          47.6498799
+        ],
+        [
+          -122.3006712,
+          47.6498007
+        ],
+        [
+          -122.3005917,
+          47.6499067
+        ],
+        [
+          -122.3005252,
+          47.6500166
+        ],
+        [
+          -122.3004721,
+          47.6501298
+        ],
+        [
+          -122.3004326,
+          47.6502456
+        ],
+        [
+          -122.3004071,
+          47.6503631
+        ],
+        [
+          -122.3006596,
+          47.6503841
+        ],
+        [
+          -122.3002661,
+          47.650858
+        ],
+        [
+          -122.3004059,
+          47.6509022
+        ],
+        [
+          -122.3002488,
+          47.6511228
+        ],
+        [
+          -122.3004568,
+          47.6511901
+        ],
+        [
+          -122.3006684,
+          47.651252
+        ],
+        [
+          -122.3008128,
+          47.6512901
+        ],
+        [
+          -122.3008832,
+          47.6513086
+        ],
+        [
+          -122.3011011,
+          47.6513597
+        ],
+        [
+          -122.3013217,
+          47.6514053
+        ],
+        [
+          -122.3015447,
+          47.6514453
+        ],
+        [
+          -122.3017697,
+          47.6514796
+        ],
+        [
+          -122.3019965,
+          47.6515083
+        ],
+        [
+          -122.3020401,
+          47.6513673
+        ],
+        [
+          -122.3024378,
+          47.6514114
+        ],
+        [
+          -122.3026336,
+          47.6513068
+        ],
+        [
+          -122.3027953,
+          47.6512195
+        ],
+        [
+          -122.3029349,
+          47.6511308
+        ],
+        [
+          -122.3030595,
+          47.6510325
+        ],
+        [
+          -122.3031676,
+          47.6509256
+        ],
+        [
+          -122.3032579,
+          47.6508115
+        ],
+        [
+          -122.3033295,
+          47.6506915
+        ],
+        [
+          -122.3033814,
+          47.650567
+        ],
+        [
+          -122.303413,
+          47.6504395
+        ],
+        [
+          -122.303424,
+          47.6503104
+        ],
+        [
+          -122.3034142,
+          47.6501813
+        ],
+        [
+          -122.3033839,
+          47.6500536
+        ],
+        [
+          -122.3033626,
+          47.6500564
+        ],
+        [
+          -122.3033081,
+          47.649903
+        ],
+        [
+          -122.3032551,
+          47.6497539
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "relation",
+    "id": 3389103,
+    "version": 17,
+    "timestamp": "2022-10-16T00:04:33Z",
+    "url": "https://www.openstreetmap.org/relation/3389103"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q1136463",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/sea-husky-stadium.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Husky Stadium (1920; rebuilt 2011-13 by 360 Architecture), University of Washington, Seattle: procedural, CC0-1.0. bun generators/sea-husky-stadium.ts",
+    "Map frame: x along the field towards the open east end and Union Bay, y across it towards the north stand, z up, metres; bearing 16 (the field and both roofs' edges run at 106 degrees in the lidar). The origin is the middle of the field; y = 0 is the field, the lowest ground the stadium touches (9.7 m NAVD88). The ground outside stands 5-12 m higher on the north, south and west, so the outer walls sink into it there.",
+    "Form: a horseshoe of pale aluminium benches round the field, open to the east; a tall stand along each sideline, each under a big flat cantilevered roof 55-60 m up, held on deep steel trusses that show under the roof and in the open band above each stand's back wall; a band of suites between the lower bowl and each upper deck; a concourse rim round the west end; low east end-zone seats and the video board beyond them.",
+    "Measured (USGS 3DEP WA_KingCo_1_2021, 1 m surface model):",
+    "the field 120 x 71 m; the lower bowl rising to 7 m (south), 10 m (north) and 17-19 m (west end), the west rim 25-28 m and 25-28 m deep;",
+    "the south roof: inner edge 58.5 m south of the centre line at mid-field and 52 m at its ends, outer edge 109.5 / 103 m (a gentle bow), x -73..71; 56.2 m high at the inner edge rising to 59.7 m at the back, the back rounding down to about 52 m;",
+    "the north roof: inner edge 72 m north (67 m at the ends), outer edge 122 / 117 m, x -62..70; 54.5 m at the inner edge rising to 58.7 m;",
+    "the corner blocks 19-23 m; the east seats rising 4 to 13 m over x 62..88; the video board 36 m wide, top 26.5 m, at x 95-99. Published: capacity 70,138 (OSM, Wikipedia \"Husky Stadium\"); the 2013 rebuild kept the 1987 north upper deck and its roof. From photos: the roofs' pale fascia and dark trussed undersides, the truss band above the south stand's back wall, the suites band, the pale benches, the grey concrete. Estimated: everything under the roofs (upper deck rakes from 20-22 m up to 44-47 m, back walls to 42-46 m, the suites band), the truss spacing (16 m) and their depth, the board's base. Left out: the field and track (the map's), lettering and the purple seat blocks (signage/colour detail), light towers, stairs and the steel frame of the south stand's east end, which is drawn as a closed end. OSM: relation/3389103 (building=stadium) is the stands' outline, sharing its outer ways with relation/5636648 (leisure=stadium, not a building) and with the field as its inner ring; the model covers it. No other building or building:part lies inside.",
+    "Photos: /tmp/city/sea/work/sea-husky-stadium/credits.txt.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"sea-husky-stadium\", model \"sea-husky-stadium\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/sea-husky-stadium.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 6293 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the sea-husky-stadium-glazing finish in the window colour.",
+    "To fit six materials, folded roof into sea-husky-stadium-husky-seats (ΔE 10.4)."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

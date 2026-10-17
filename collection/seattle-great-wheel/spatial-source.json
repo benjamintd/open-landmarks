@@ -1,0 +1,119 @@
+{
+  "id": "seattle-great-wheel",
+  "anchor": [
+    -122.3424857,
+    47.6061437
+  ],
+  "coordinateSystem": "Local metres about the anchor (equirectangular, WGS84 radius): X east, Y north, Z up. glTF export: X east, Y up, Z south. Heading already baked.",
+  "license": "ODbL-1.0",
+  "footprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -14.920771658606391,
+          7.970475541398353
+        ],
+        [
+          1.8163112379516293,
+          15.584728711259269
+        ],
+        [
+          9.997217227160752,
+          -2.3822371023400972
+        ],
+        [
+          -6.739865668330684,
+          -9.996490272991988
+        ],
+        [
+          -14.920771658606391,
+          7.970475541398353
+        ]
+      ]
+    ]
+  },
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -122.3426845,
+          47.6062153
+        ],
+        [
+          -122.3424615,
+          47.6062837
+        ],
+        [
+          -122.3423525,
+          47.6061223
+        ],
+        [
+          -122.3425755,
+          47.6060539
+        ],
+        [
+          -122.3426845,
+          47.6062153
+        ]
+      ]
+    ]
+  },
+  "parts": [
+    {
+      "osm": "way/396606878",
+      "tags": {
+        "building": "roof",
+        "building:levels": "3",
+        "building:material": "glass",
+        "layer": "1",
+        "roof:material": "glass"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -14.920771658606391,
+              7.970475541398353
+            ],
+            [
+              1.8163112379516293,
+              15.584728711259269
+            ],
+            [
+              9.997217227160752,
+              -2.3822371023400972
+            ],
+            [
+              -6.739865668330684,
+              -9.996490272991988
+            ],
+            [
+              -14.920771658606391,
+              7.970475541398353
+            ]
+          ]
+        ]
+      },
+      "version": 2,
+      "timestamp": "2023-03-06T01:05:03Z"
+    }
+  ],
+  "osm": {
+    "type": "way",
+    "id": 396606878,
+    "version": 2,
+    "timestamp": "2023-03-06T01:05:03Z",
+    "url": "https://www.openstreetmap.org/way/396606878"
+  },
+  "additionalOsm": [],
+  "tags": {
+    "building": "roof",
+    "building:levels": "3",
+    "building:material": "glass",
+    "layer": "1",
+    "roof:material": "glass"
+  }
+}

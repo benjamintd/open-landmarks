@@ -1,0 +1,498 @@
+{
+  "id": "pacific-science-center",
+  "name": "Pacific Science Center",
+  "anchor": [
+    -122.351292,
+    47.6194238
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 239488,
+      "sha256": "50b139744bb9765bbfc922793e341f28e865b3812f125ade2e61381272bd0409"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 239488,
+      "sha256": "50b139744bb9765bbfc922793e341f28e865b3812f125ade2e61381272bd0409"
+    }
+  },
+  "triangles": 5382,
+  "boundsBlenderM": [
+    [
+      -92.1,
+      -67.7,
+      0
+    ],
+    [
+      75.2,
+      67.1,
+      37.9
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -122.3502518,
+          47.6197878
+        ],
+        [
+          -122.350255,
+          47.6198123
+        ],
+        [
+          -122.3502629,
+          47.6198362
+        ],
+        [
+          -122.3502754,
+          47.6198593
+        ],
+        [
+          -122.3502923,
+          47.6198811
+        ],
+        [
+          -122.3503132,
+          47.6199012
+        ],
+        [
+          -122.3503378,
+          47.6199192
+        ],
+        [
+          -122.3503658,
+          47.619935
+        ],
+        [
+          -122.3503965,
+          47.6199482
+        ],
+        [
+          -122.3504297,
+          47.6199586
+        ],
+        [
+          -122.3504293,
+          47.6200279
+        ],
+        [
+          -122.350876,
+          47.6200292
+        ],
+        [
+          -122.3508765,
+          47.6199532
+        ],
+        [
+          -122.350877,
+          47.6198763
+        ],
+        [
+          -122.3512698,
+          47.6198776
+        ],
+        [
+          -122.3512965,
+          47.6198777
+        ],
+        [
+          -122.351297,
+          47.619806
+        ],
+        [
+          -122.3512972,
+          47.6197775
+        ],
+        [
+          -122.3512974,
+          47.6197468
+        ],
+        [
+          -122.3512989,
+          47.6195459
+        ],
+        [
+          -122.3512695,
+          47.6195458
+        ],
+        [
+          -122.3511228,
+          47.6195453
+        ],
+        [
+          -122.3511246,
+          47.6192944
+        ],
+        [
+          -122.3511265,
+          47.6190216
+        ],
+        [
+          -122.3515168,
+          47.6190228
+        ],
+        [
+          -122.3516589,
+          47.6190233
+        ],
+        [
+          -122.3516573,
+          47.6191603
+        ],
+        [
+          -122.3520842,
+          47.6191625
+        ],
+        [
+          -122.3520846,
+          47.6191412
+        ],
+        [
+          -122.352148,
+          47.6191414
+        ],
+        [
+          -122.3521741,
+          47.6191415
+        ],
+        [
+          -122.3521711,
+          47.6195513
+        ],
+        [
+          -122.3519305,
+          47.6195497
+        ],
+        [
+          -122.3519303,
+          47.6195681
+        ],
+        [
+          -122.3519293,
+          47.6196396
+        ],
+        [
+          -122.3519289,
+          47.6196684
+        ],
+        [
+          -122.3519285,
+          47.6196975
+        ],
+        [
+          -122.3519259,
+          47.6198785
+        ],
+        [
+          -122.3519808,
+          47.6198788
+        ],
+        [
+          -122.3519799,
+          47.6199996
+        ],
+        [
+          -122.3520401,
+          47.6199998
+        ],
+        [
+          -122.3520399,
+          47.6200292
+        ],
+        [
+          -122.3523561,
+          47.6200302
+        ],
+        [
+          -122.3523566,
+          47.6199243
+        ],
+        [
+          -122.3523567,
+          47.6199008
+        ],
+        [
+          -122.3523557,
+          47.6198812
+        ],
+        [
+          -122.3523603,
+          47.6195525
+        ],
+        [
+          -122.352516,
+          47.6195524
+        ],
+        [
+          -122.3525196,
+          47.6190719
+        ],
+        [
+          -122.3520851,
+          47.6190705
+        ],
+        [
+          -122.3520874,
+          47.6188864
+        ],
+        [
+          -122.3520436,
+          47.6188861
+        ],
+        [
+          -122.3518506,
+          47.6188851
+        ],
+        [
+          -122.3516605,
+          47.6188841
+        ],
+        [
+          -122.351661,
+          47.6188132
+        ],
+        [
+          -122.3511287,
+          47.6188115
+        ],
+        [
+          -122.3511276,
+          47.618928
+        ],
+        [
+          -122.3504355,
+          47.6189257
+        ],
+        [
+          -122.3504315,
+          47.6195178
+        ],
+        [
+          -122.3504309,
+          47.6196086
+        ],
+        [
+          -122.3504177,
+          47.6196118
+        ],
+        [
+          -122.3503854,
+          47.6196232
+        ],
+        [
+          -122.3503556,
+          47.6196373
+        ],
+        [
+          -122.3503288,
+          47.6196539
+        ],
+        [
+          -122.3503054,
+          47.6196727
+        ],
+        [
+          -122.3502859,
+          47.6196934
+        ],
+        [
+          -122.3502705,
+          47.6197157
+        ],
+        [
+          -122.3502596,
+          47.6197391
+        ],
+        [
+          -122.3502533,
+          47.6197633
+        ],
+        [
+          -122.3502518,
+          47.6197878
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 394955903,
+    "version": 14,
+    "timestamp": "2026-08-26T06:39:24Z",
+    "url": "https://www.openstreetmap.org/way/394955903"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 394955876,
+      "version": 5,
+      "timestamp": "2017-05-05T00:53:45Z",
+      "url": "https://www.openstreetmap.org/way/394955876"
+    },
+    {
+      "type": "way",
+      "id": 394955877,
+      "version": 4,
+      "timestamp": "2017-05-05T00:53:45Z",
+      "url": "https://www.openstreetmap.org/way/394955877"
+    },
+    {
+      "type": "way",
+      "id": 394955878,
+      "version": 6,
+      "timestamp": "2022-01-24T15:28:32Z",
+      "url": "https://www.openstreetmap.org/way/394955878"
+    },
+    {
+      "type": "way",
+      "id": 394955882,
+      "version": 6,
+      "timestamp": "2026-01-04T02:27:54Z",
+      "url": "https://www.openstreetmap.org/way/394955882"
+    },
+    {
+      "type": "way",
+      "id": 394955883,
+      "version": 6,
+      "timestamp": "2026-01-03T20:05:06Z",
+      "url": "https://www.openstreetmap.org/way/394955883"
+    },
+    {
+      "type": "way",
+      "id": 394955887,
+      "version": 5,
+      "timestamp": "2017-05-05T00:53:46Z",
+      "url": "https://www.openstreetmap.org/way/394955887"
+    },
+    {
+      "type": "way",
+      "id": 394955890,
+      "version": 6,
+      "timestamp": "2026-01-04T02:27:54Z",
+      "url": "https://www.openstreetmap.org/way/394955890"
+    },
+    {
+      "type": "way",
+      "id": 394955894,
+      "version": 5,
+      "timestamp": "2017-05-05T00:53:46Z",
+      "url": "https://www.openstreetmap.org/way/394955894"
+    },
+    {
+      "type": "way",
+      "id": 394955898,
+      "version": 5,
+      "timestamp": "2017-05-05T00:53:46Z",
+      "url": "https://www.openstreetmap.org/way/394955898"
+    },
+    {
+      "type": "way",
+      "id": 394955899,
+      "version": 6,
+      "timestamp": "2026-01-03T20:05:06Z",
+      "url": "https://www.openstreetmap.org/way/394955899"
+    }
+  ],
+  "wikidata": "Q3848341",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Pacific Science Center arches.jpg",
+      "author": "Ron Clausen",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Pacific_Science_Center_arches.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Pacific Science Center arches, Seattle WA.jpg",
+      "author": "Ron Clausen",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Pacific_Science_Center_arches,_Seattle_WA.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Pacific Science Center 01.jpg",
+      "author": "Ɱ",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Pacific_Science_Center_01.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Seattle (WA, USA), Pacific Science Center -- 2022 -- 1531.jpg",
+      "author": "Dietmar Rabich",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Seattle_(WA,_USA),_Pacific_Science_Center_--_2022_--_1531.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Pacific Science Center Seattle 2.jpg",
+      "author": "Thayne Tuason",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Pacific_Science_Center_Seattle_2.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Pacific Science Center, 1968.jpg",
+      "author": "Seattle Municipal Archives",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Pacific_Science_Center,_1968.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/sea-pacific-science-center.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Pacific Science Center, Seattle Center: procedural, CC0-1.0. bun generators/sea-pacific-science-center.ts",
+    "Map frame: x east, y north, z up, metres; bearing 0. The origin is the centroid of OSM way/394955903 (the outline). y = 0 is the lowest ground the walls touch, on the south (Denny Way) side, 37.9 m NAVD88; the site rises about 9 m to the north-west, so walls there sink into the hill.",
+    "Minoru Yamasaki, 1962 (the United States Science Pavilion of the World's Fair). Five white lattice arches rise over the courtyard pools, ringed by low white precast buildings whose walls are lined with slender pointed arches and open, at the courtyard, in pointed-arch arcades.",
+    "Measured (USGS 3DEP WA_KingCo_1_2021 lidar, 0.5-1 m; heights above y = 0):",
+    "the arches: five squares about 8.3 m a side, each turned 45 degrees, centred at (-17.5, 51.0), (-11.3, 38.5), (-23.5, 32.6), (-36.0, 26.8) and (-30.3, 14.3); crowns 37.9 m, standing on the courtyard at 6.7 m (so 31.2 m tall; published 110 ft, 33.5 m, from the pool floor);",
+    "flat roofs: the north-east and north-west halls 22.6 / 22.4 m, the south-west hall 21.9 m, the west, south and east halls 16.5-16.6 m, the north-west annex 12.3 m, the east wing round the dome 14.6 m; the dome (the Laser Dome / IMAX, 36 m across) crown 22.1 m, its ring 10.8 m.",
+    "OSM: way/394955903 (outline) and its building:parts 394955876, -877, -878, -882, -883, -887, -890, -894, -898, -899, all covered by the model.",
+    "From photos: the arch form (four legs rising straight to about two thirds of their height, a lancet arch on each face, tracery thickening toward the crown); the walls' lancet relief and the courtyard arcades; the dome's glazed ring.",
+    "Estimated: the lancet curvature (radius 1.6 times the span), rib and leg sizes (1.5 m, drawn a little heavy so the lattice reads at map scale), the relief's bay (4.2 m) and the arcade's height (6.5 m above the courtyard), the dome's profile between the lidar's ring and crown. Left out: the pools and their fountains (water), the raised walkways over them, the lamps hung in the arches, rooftop plant.",
+    "Photos (Wikimedia Commons):",
+    "\"Pacific Science Center arches.jpg\", Ron Clausen, CC BY-SA 4.0",
+    "\"Pacific Science Center arches, Seattle WA.jpg\", Ron Clausen, CC BY-SA 4.0",
+    "\"Pacific Science Center 01.jpg\", Ɱ, CC BY-SA 4.0 (aerial from the north)",
+    "\"Seattle (WA, USA), Pacific Science Center -- 2022 -- 1531.jpg\" and \"-- 1530.jpg\", Dietmar Rabich, CC BY-SA 4.0",
+    "\"Pacific Science Center Seattle 2.jpg\", Thayne Tuason, CC BY-SA 4.0",
+    "\"Pacific Science Center, 1968.jpg\", Seattle Municipal Archives, CC BY 2.0",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"sea-pacific-science-center\", model \"sea-pacific-science-center\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/sea-pacific-science-center.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 874 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the sea-pacific-science-center-glazing finish in the window colour."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

@@ -1,0 +1,368 @@
+{
+  "id": "rainier-square-tower",
+  "name": "Rainier Square Tower",
+  "anchor": [
+    -122.3348815,
+    47.6090211
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 13,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 36548,
+      "sha256": "f6b894c792d07ea08b362baf1348953e8709faa60351e9a4edd43ff0f592b524"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 36548,
+      "sha256": "f6b894c792d07ea08b362baf1348953e8709faa60351e9a4edd43ff0f592b524"
+    }
+  },
+  "triangles": 720,
+  "boundsBlenderM": [
+    [
+      -50.109,
+      -71.113,
+      0
+    ],
+    [
+      45.188,
+      59.396,
+      259.5
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -122.3355528,
+          47.6092072
+        ],
+        [
+          -122.3352969,
+          47.6089246
+        ],
+        [
+          -122.3352647,
+          47.608889
+        ],
+        [
+          -122.3352516,
+          47.6088745
+        ],
+        [
+          -122.3351749,
+          47.6087897
+        ],
+        [
+          -122.334846,
+          47.6084264
+        ],
+        [
+          -122.3348012,
+          47.608377
+        ],
+        [
+          -122.334434,
+          47.6085281
+        ],
+        [
+          -122.3347664,
+          47.6088952
+        ],
+        [
+          -122.3342766,
+          47.6090967
+        ],
+        [
+          -122.3343947,
+          47.6092271
+        ],
+        [
+          -122.3346959,
+          47.6095598
+        ],
+        [
+          -122.3347264,
+          47.6095472
+        ],
+        [
+          -122.3347595,
+          47.6095336
+        ],
+        [
+          -122.3347919,
+          47.6095203
+        ],
+        [
+          -122.3348215,
+          47.6095081
+        ],
+        [
+          -122.3348925,
+          47.6094789
+        ],
+        [
+          -122.3350481,
+          47.6094149
+        ],
+        [
+          -122.3350726,
+          47.6094048
+        ],
+        [
+          -122.3350964,
+          47.609395
+        ],
+        [
+          -122.3351156,
+          47.6093871
+        ],
+        [
+          -122.335139,
+          47.6093775
+        ],
+        [
+          -122.3354178,
+          47.6092628
+        ],
+        [
+          -122.3355528,
+          47.6092072
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 686348108,
+    "version": 4,
+    "timestamp": "2026-01-16T04:19:52Z",
+    "url": "https://www.openstreetmap.org/way/686348108"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 686348092,
+      "version": 2,
+      "timestamp": "2019-04-27T21:02:33Z",
+      "url": "https://www.openstreetmap.org/way/686348092"
+    },
+    {
+      "type": "way",
+      "id": 686348093,
+      "version": 2,
+      "timestamp": "2019-04-27T21:02:33Z",
+      "url": "https://www.openstreetmap.org/way/686348093"
+    },
+    {
+      "type": "way",
+      "id": 686348094,
+      "version": 2,
+      "timestamp": "2019-04-27T21:02:33Z",
+      "url": "https://www.openstreetmap.org/way/686348094"
+    },
+    {
+      "type": "way",
+      "id": 686348095,
+      "version": 2,
+      "timestamp": "2019-04-27T21:02:33Z",
+      "url": "https://www.openstreetmap.org/way/686348095"
+    },
+    {
+      "type": "way",
+      "id": 686348096,
+      "version": 1,
+      "timestamp": "2019-04-27T21:01:56Z",
+      "url": "https://www.openstreetmap.org/way/686348096"
+    },
+    {
+      "type": "way",
+      "id": 686348097,
+      "version": 1,
+      "timestamp": "2019-04-27T21:01:56Z",
+      "url": "https://www.openstreetmap.org/way/686348097"
+    },
+    {
+      "type": "way",
+      "id": 686348098,
+      "version": 2,
+      "timestamp": "2026-01-16T04:19:52Z",
+      "url": "https://www.openstreetmap.org/way/686348098"
+    },
+    {
+      "type": "way",
+      "id": 686348099,
+      "version": 1,
+      "timestamp": "2019-04-27T21:01:57Z",
+      "url": "https://www.openstreetmap.org/way/686348099"
+    },
+    {
+      "type": "way",
+      "id": 686348100,
+      "version": 2,
+      "timestamp": "2019-12-20T11:48:55Z",
+      "url": "https://www.openstreetmap.org/way/686348100"
+    },
+    {
+      "type": "way",
+      "id": 686348101,
+      "version": 1,
+      "timestamp": "2019-04-27T21:01:57Z",
+      "url": "https://www.openstreetmap.org/way/686348101"
+    },
+    {
+      "type": "way",
+      "id": 686348102,
+      "version": 2,
+      "timestamp": "2019-12-20T11:48:55Z",
+      "url": "https://www.openstreetmap.org/way/686348102"
+    },
+    {
+      "type": "way",
+      "id": 686348103,
+      "version": 2,
+      "timestamp": "2019-12-20T11:48:55Z",
+      "url": "https://www.openstreetmap.org/way/686348103"
+    },
+    {
+      "type": "way",
+      "id": 686348104,
+      "version": 2,
+      "timestamp": "2019-12-20T11:48:55Z",
+      "url": "https://www.openstreetmap.org/way/686348104"
+    },
+    {
+      "type": "way",
+      "id": 686348105,
+      "version": 1,
+      "timestamp": "2019-04-27T21:01:57Z",
+      "url": "https://www.openstreetmap.org/way/686348105"
+    },
+    {
+      "type": "way",
+      "id": 686348106,
+      "version": 1,
+      "timestamp": "2019-04-27T21:01:57Z",
+      "url": "https://www.openstreetmap.org/way/686348106"
+    },
+    {
+      "type": "way",
+      "id": 686348107,
+      "version": 1,
+      "timestamp": "2019-04-27T21:01:58Z",
+      "url": "https://www.openstreetmap.org/way/686348107"
+    },
+    {
+      "type": "way",
+      "id": 686348109,
+      "version": 1,
+      "timestamp": "2019-04-27T21:01:58Z",
+      "url": "https://www.openstreetmap.org/way/686348109"
+    },
+    {
+      "type": "way",
+      "id": 686348110,
+      "version": 2,
+      "timestamp": "2019-05-06T14:33:22Z",
+      "url": "https://www.openstreetmap.org/way/686348110"
+    },
+    {
+      "type": "way",
+      "id": 686348111,
+      "version": 1,
+      "timestamp": "2019-04-27T21:01:58Z",
+      "url": "https://www.openstreetmap.org/way/686348111"
+    },
+    {
+      "type": "way",
+      "id": 686348112,
+      "version": 1,
+      "timestamp": "2019-04-27T21:01:58Z",
+      "url": "https://www.openstreetmap.org/way/686348112"
+    },
+    {
+      "type": "way",
+      "id": 686348113,
+      "version": 1,
+      "timestamp": "2019-04-27T21:01:58Z",
+      "url": "https://www.openstreetmap.org/way/686348113"
+    },
+    {
+      "type": "way",
+      "id": 686348114,
+      "version": 1,
+      "timestamp": "2019-04-27T21:01:59Z",
+      "url": "https://www.openstreetmap.org/way/686348114"
+    },
+    {
+      "type": "way",
+      "id": 686348115,
+      "version": 2,
+      "timestamp": "2021-01-13T03:14:51Z",
+      "url": "https://www.openstreetmap.org/way/686348115"
+    },
+    {
+      "type": "way",
+      "id": 686348116,
+      "version": 2,
+      "timestamp": "2022-06-28T16:20:00Z",
+      "url": "https://www.openstreetmap.org/way/686348116"
+    },
+    {
+      "type": "way",
+      "id": 686348117,
+      "version": 2,
+      "timestamp": "2021-01-13T03:14:51Z",
+      "url": "https://www.openstreetmap.org/way/686348117"
+    },
+    {
+      "type": "way",
+      "id": 686348118,
+      "version": 3,
+      "timestamp": "2022-06-28T16:20:00Z",
+      "url": "https://www.openstreetmap.org/way/686348118"
+    }
+  ],
+  "wikidata": "Q30634662",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/sea-rainier-square-tower.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Rainier Square Tower (2020, NBBJ), Seattle — original procedural geometry, CC0-1.0. bun generators/sea-rainier-square-tower.ts [out.glb]",
+    "Map frame: x east, y north, z up, metres; origin at the anchor (the OSM outline's area centroid, -122.3348815, 47.6090211) on the lowest ground under the footprint (4th Avenue, 40.7 m NAVD88). Built in the street grid's frame: the model's y axis runs up 4th Avenue (NNW) and x along Union Street (ENE), so the placement bearing is 328.8°.",
+    "Form: a square silver-glass tower at the corner of 4th Avenue and Union Street whose east side flares out toward the base in a stack of one-storey setbacks, the \"skirt\" that steps down toward the Rainier Tower's pedestal. The flare is concave: shallow near the top (a couple of metres between 147 and 97 m) and widening fast below 90 m, out to 5th Avenue at the podium. The south face leans out by a few metres over the same height; the 4th Avenue corner is scooped by a concave curve below 89 m. A white comb of fins crowns the roof. South of the tower along 4th Avenue a 12-storey block and low retail fill the rest of the outline.",
+    "Sources",
+    "OSM (exact, and checked against the lidar): outline way/686348108 and its 29 parts way/686348092..686348118. The skirt is mapped floor by floor (4.19 m storeys); every step's height and east edge here is OSM's.",
+    "Lidar (measured, USGS 3DEP WA_KingCo_1_2021, heights above 40.7 m): roof 255 m, crown fins to 260-261 m; the skirt's east edge matches the OSM steps to about a metre (59 m at x 24, 43 m at x 31, 27 m at x 39.5); podium deck 15-16 m; the 4th Avenue block 44 m with a 50 m penthouse; low retail 13-15 m. OSM's 37.4/40.7 m for that block are 5-10 m low, so the lidar heights are used there.",
+    "Published: 259 m (850 ft), 58 storeys, completed 2020 (Wikipedia, \"Rainier Square Tower\").",
+    "Photos (Wikimedia Commons, see the batch report): Dietmar Rabich 2022 (crown fins, silver glass), SounderBruce 2019/2020 (the stepped skirt under construction and finished), Yuri Levchenko (the skirt's serrated edge from the north-east). Estimated: storey grouping of the panels (three office floors per panel in the skirt, about four residential floors above 147 m), the crown fins' spacing, the 4th Avenue block's facade (no clear photo; drawn plainly).",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"sea-rainier-square-tower\", model \"sea-rainier-square-tower\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/sea-rainier-square-tower.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

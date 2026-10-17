@@ -1,0 +1,303 @@
+{
+  "id": "the-spheres",
+  "name": "The Spheres",
+  "anchor": [
+    -122.3394654,
+    47.615663
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 160976,
+      "sha256": "144bd16e0208ee361ab34ec9da282111b7fde284cc5bc9fa437879847c825873"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 160976,
+      "sha256": "144bd16e0208ee361ab34ec9da282111b7fde284cc5bc9fa437879847c825873"
+    }
+  },
+  "triangles": 4426,
+  "boundsBlenderM": [
+    [
+      -23.839,
+      -31.282,
+      0
+    ],
+    [
+      29.182,
+      27.293,
+      28.561
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -122.3397136,
+          47.6157754
+        ],
+        [
+          -122.3396701,
+          47.6158022
+        ],
+        [
+          -122.3396188,
+          47.6158218
+        ],
+        [
+          -122.3395623,
+          47.6158332
+        ],
+        [
+          -122.3395035,
+          47.6158358
+        ],
+        [
+          -122.3394646,
+          47.6158317
+        ],
+        [
+          -122.3394404,
+          47.6158583
+        ],
+        [
+          -122.339402,
+          47.6158828
+        ],
+        [
+          -122.3393555,
+          47.6158998
+        ],
+        [
+          -122.3393041,
+          47.6159081
+        ],
+        [
+          -122.3392512,
+          47.6159071
+        ],
+        [
+          -122.3392005,
+          47.615897
+        ],
+        [
+          -122.3391554,
+          47.6158783
+        ],
+        [
+          -122.339119,
+          47.6158525
+        ],
+        [
+          -122.3390938,
+          47.6158211
+        ],
+        [
+          -122.3390815,
+          47.6157865
+        ],
+        [
+          -122.3390829,
+          47.6157508
+        ],
+        [
+          -122.339098,
+          47.6157166
+        ],
+        [
+          -122.3391257,
+          47.6156862
+        ],
+        [
+          -122.3391641,
+          47.6156617
+        ],
+        [
+          -122.3392105,
+          47.6156447
+        ],
+        [
+          -122.3392556,
+          47.6156375
+        ],
+        [
+          -122.3392618,
+          47.6156112
+        ],
+        [
+          -122.3392838,
+          47.6155744
+        ],
+        [
+          -122.3393174,
+          47.6155417
+        ],
+        [
+          -122.3393609,
+          47.6155149
+        ],
+        [
+          -122.3394122,
+          47.6154953
+        ],
+        [
+          -122.3394428,
+          47.6154892
+        ],
+        [
+          -122.3394454,
+          47.6154712
+        ],
+        [
+          -122.3394635,
+          47.6154409
+        ],
+        [
+          -122.3394935,
+          47.6154152
+        ],
+        [
+          -122.3395331,
+          47.6153962
+        ],
+        [
+          -122.3395789,
+          47.6153856
+        ],
+        [
+          -122.3396274,
+          47.6153841
+        ],
+        [
+          -122.3396745,
+          47.6153918
+        ],
+        [
+          -122.3397165,
+          47.6154082
+        ],
+        [
+          -122.3397499,
+          47.6154319
+        ],
+        [
+          -122.3397721,
+          47.615461
+        ],
+        [
+          -122.3397812,
+          47.6154931
+        ],
+        [
+          -122.3397765,
+          47.6155257
+        ],
+        [
+          -122.3397585,
+          47.615556
+        ],
+        [
+          -122.3397419,
+          47.6155702
+        ],
+        [
+          -122.3397576,
+          47.6155889
+        ],
+        [
+          -122.3397746,
+          47.615627
+        ],
+        [
+          -122.3397785,
+          47.6156666
+        ],
+        [
+          -122.3397692,
+          47.6157059
+        ],
+        [
+          -122.3397472,
+          47.6157428
+        ],
+        [
+          -122.3397136,
+          47.6157754
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 868099742,
+    "version": 5,
+    "timestamp": "2024-07-22T08:17:44Z",
+    "url": "https://www.openstreetmap.org/way/868099742"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 491817111,
+      "version": 8,
+      "timestamp": "2020-11-07T19:56:02Z",
+      "url": "https://www.openstreetmap.org/way/491817111"
+    },
+    {
+      "type": "way",
+      "id": 398816077,
+      "version": 7,
+      "timestamp": "2020-11-07T19:56:02Z",
+      "url": "https://www.openstreetmap.org/way/398816077"
+    },
+    {
+      "type": "way",
+      "id": 491817110,
+      "version": 4,
+      "timestamp": "2020-11-07T19:56:02Z",
+      "url": "https://www.openstreetmap.org/way/491817110"
+    }
+  ],
+  "wikidata": "Q48596158",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/sea-amazon-spheres.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "The Spheres (2018, NBBJ), Amazon's conservatories, Seattle — original procedural geometry, CC0-1.0. bun generators/sea-amazon-spheres.ts [out.glb]",
+    "Map frame: x east, y north, z up, metres; origin at the anchor (the OSM outline's area centroid, -122.3394654, 47.6156630) on the lowest ground under the footprint (28.9 m NAVD88, at the 6th Avenue / Lenora Street corner; the south-west sphere stands about 4 m higher). Bearing 0.",
+    "Form: three intersecting glass spheres, each a steel-framed pentagonal hexecontahedron cut off below its equator. Drawn as faceted glass (a geodesic sphere of 180 flat facets each) carrying the frame's main steel members: the pentagonal net of the hexecontahedron's 60 faces, as raised silver strips 0.85 m wide (the finer sub-triangulation inside each pentagon is left out), plus bold seams where the spheres meet.",
+    "Sources",
+    "OSM: outline way/868099742; parts way/491817111 (the large sphere), way/398816077 (north-east), way/491817110 (south-west). Centres and radii by least-squares circle fits to their outlines: large (-3.8, -0.5) r 19.7 m; north-east (13.8, 12.1) r 15.1 m; south-west (-10.9, -18.2) r 12.8 m.",
+    "Lidar (measured, USGS 3DEP WA_KingCo_1_2021, above 28.9 m NAVD88; glass gives sparse returns): tops 28.4 m (large), 24.4 m (north-east), 22.5 m (south-west).",
+    "Published: the largest sphere is 90 ft (27 m) tall and 130 ft (40 m) across; frame a pentagonal hexecontahedron (Wikipedia, \"The Spheres\").",
+    "Photos (Wikimedia Commons): Sea Cow 2022 (from above, from the west and north-west), SounderBruce 2020 (from 6th Avenue), Biodin 2018, Joe Mabel. Estimated: the net is an even-edged pentagonal net (the real hexecontahedron has long and short edges), turned arbitrarily per sphere; the glass under it is a geodesic sphere, the seams' width (1 m), the glass colour (pale silver-green of glass plus white steel, from the photos).",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"sea-amazon-spheres\", model \"sea-amazon-spheres\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/sea-amazon-spheres.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

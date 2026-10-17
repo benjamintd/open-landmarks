@@ -1,0 +1,255 @@
+{
+  "id": "tacoma-union-station",
+  "name": "Tacoma Union Station",
+  "anchor": [
+    -122.4362869,
+    47.246369
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 113368,
+      "sha256": "1b5e5f4af60233fcb18e450f6cff8236ce523a590d18b6f8e9d9381b47beea51"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 113368,
+      "sha256": "1b5e5f4af60233fcb18e450f6cff8236ce523a590d18b6f8e9d9381b47beea51"
+    }
+  },
+  "triangles": 2712,
+  "boundsBlenderM": [
+    [
+      -30.597,
+      -78.173,
+      0
+    ],
+    [
+      34.354,
+      68.012,
+      37.42
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -122.4361169,
+          47.2459202
+        ],
+        [
+          -122.4361,
+          47.2458485
+        ],
+        [
+          -122.4361163,
+          47.2458467
+        ],
+        [
+          -122.4360847,
+          47.2457124
+        ],
+        [
+          -122.4365239,
+          47.2456648
+        ],
+        [
+          -122.4365546,
+          47.2457949
+        ],
+        [
+          -122.4365968,
+          47.2457903
+        ],
+        [
+          -122.4366663,
+          47.2460856
+        ],
+        [
+          -122.4366378,
+          47.2460887
+        ],
+        [
+          -122.4366667,
+          47.2462118
+        ],
+        [
+          -122.4361776,
+          47.2462649
+        ],
+        [
+          -122.4362267,
+          47.2464735
+        ],
+        [
+          -122.4366234,
+          47.2464305
+        ],
+        [
+          -122.4367299,
+          47.2468832
+        ],
+        [
+          -122.4364872,
+          47.2469096
+        ],
+        [
+          -122.4364903,
+          47.2469228
+        ],
+        [
+          -122.4359594,
+          47.2469803
+        ],
+        [
+          -122.4358583,
+          47.2465502
+        ],
+        [
+          -122.4359016,
+          47.2465455
+        ],
+        [
+          -122.4358791,
+          47.2464333
+        ],
+        [
+          -122.4358835,
+          47.246408
+        ],
+        [
+          -122.435895,
+          47.2463837
+        ],
+        [
+          -122.4359134,
+          47.2463614
+        ],
+        [
+          -122.4359379,
+          47.246342
+        ],
+        [
+          -122.4359675,
+          47.2463263
+        ],
+        [
+          -122.4360011,
+          47.2463148
+        ],
+        [
+          -122.4360887,
+          47.2463016
+        ],
+        [
+          -122.436033,
+          47.2460799
+        ],
+        [
+          -122.4360157,
+          47.2460808
+        ],
+        [
+          -122.4359814,
+          47.246077
+        ],
+        [
+          -122.4359654,
+          47.2460724
+        ],
+        [
+          -122.4359375,
+          47.2460584
+        ],
+        [
+          -122.4359264,
+          47.2460493
+        ],
+        [
+          -122.4359111,
+          47.2460282
+        ],
+        [
+          -122.4359062,
+          47.2460048
+        ],
+        [
+          -122.4359124,
+          47.2459816
+        ],
+        [
+          -122.4359194,
+          47.2459708
+        ],
+        [
+          -122.4359405,
+          47.2459521
+        ],
+        [
+          -122.4359691,
+          47.2459388
+        ],
+        [
+          -122.4359854,
+          47.2459347
+        ],
+        [
+          -122.4361169,
+          47.2459202
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 24656596,
+    "version": 15,
+    "timestamp": "2025-05-19T20:07:42Z",
+    "url": "https://www.openstreetmap.org/way/24656596"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q7886107",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/sea-tacoma-union-station.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Tacoma Union Station (1911, Reed & Stem), now the United States Courthouse, Tacoma: procedural, CC0-1.0. bun generators/sea-tacoma-union-station.ts [out.glb]",
+    "Map frame: x east, y north, z up, metres; built in the station's own frame, whose y axis runs along Pacific Avenue (bearing 351°, the OSM walls run 350.9°). The origin is the area centroid of OSM way/24656596 (-122.4362869, 47.2463690); y = 0 is the lowest ground the outline touches (6.9 m NAVD88), on the east side, where the site falls away from Pacific Avenue towards the old track level. Pacific Avenue, along the west front, is 9.5 m higher, so the street front is one tall storey and the east side has a stone basement under it.",
+    "Form: a square domed hall on Pacific Avenue with a big semicircular brick gable on each face (the four barrel vaults of a Greek cross), the west and east ones holding the great arched portal with its white stone archivolt; on the crossing, a dark copper dome with a flat crown ring, four segmental fan lunettes over the vaults and four green cartouches on the diagonals. Long, flat-roofed brick wings with tall arched windows run north and south from the hall. Behind, the 1992 courthouse addition: a three-storey brick block with a stone base around a courtyard, joined to the station's east front by a glazed atrium.",
+    "Sources",
+    "OSM: way/24656596 (the whole complex, one outline, no parts). Its plan sits 2-3 m west of the lidar, so the walls here follow the lidar.",
+    "Lidar (measured, USGS 3DEP WA_PierceCounty_1_2020, 1 m surface model, heights above y = 0): hall x -31.5..9.5, y -61..-26; wings x -27.5..6.5, y -74.5..-61 and -25..-12.5, flat at 19.0-19.5; hall corners 22; the gables' crowns 26.3-26.5, falling to 22.5 at 10 m either side (a semicircle of 15.5 m radius); dome base radius 13.5, profile (r, z) = (12.5, 28.5), (11, 31.5), (9, 33), (7, 35.5), crown ring radius ~5 at 37.5, top 37.9; Pacific Avenue 9.5; addition flat at 14.5 (13.5 on its south part), two raised roof panels at 17.5; atrium 13.5.",
+    "Published: opened 1 May 1911, Reed & Stem; renovated for the federal courts 1989-92 with a three-storey addition (Wikipedia, \"Union Station (Tacoma, Washington)\"; Q7886107).",
+    "Photos (Wikimedia Commons; credits in /tmp/city/sea/work/sea-tacoma-union-station/credits.txt): Bmzuckerman 2021 (west front from the south-west; the portal), Steve Morgan 2008 (south-west), David Ackerman 2002 (north-west), Tomincal (from the north along Pacific Avenue, above), Loco Steve (from the south-east, above), Keith D. Tyler (east front with the addition), ZhengZhou (east, from the Bridge of Glass), Kira Picabo (the dome). From photos: the portal (inner radius 7, stone band 1.5, springing 4.4 m above the street), the lunettes' size (12.5 m chord, 4.2 m rise; they are segmental, not semicircles), the cartouches on the diagonals, the wings' window rhythm, the stone basement on the east, colours: red-brown brick, white stone, a dark grey copper dome (photos since the 1990s restoration show it dark grey-bronze, not green; only the ornaments and the lunette ribs are green). Estimated: the vault roofs' extent behind the gables, the dome's surface between the lidar rings (an ellipse through them), the addition's windows (one panel per bay and storey pair), the atrium's glazing. Left out: the dome's fine ribs, portholes and crown ornaments, the \"UNION STATION\" letters (signage), the entrance canopy, lamps, fences, the addition's stairs.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"sea-tacoma-union-station\", model \"sea-tacoma-union-station\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/sea-tacoma-union-station.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 237 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the sea-tacoma-union-station-glazing finish in the window colour.",
+    "To fit six materials, folded sea-tacoma-union-station-glazing into sea-tacoma-union-station-tus-dome (ΔE 13)."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

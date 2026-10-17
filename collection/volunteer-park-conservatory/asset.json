@@ -1,0 +1,222 @@
+{
+  "id": "volunteer-park-conservatory",
+  "name": "Volunteer Park Conservatory",
+  "anchor": [
+    -122.3157366,
+    47.6321078
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 117176,
+      "sha256": "ab9568d698e7c6bba24b5a854ebdd6f67e125e5e76f8f0f79cfe2c11fa375b69"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 117176,
+      "sha256": "ab9568d698e7c6bba24b5a854ebdd6f67e125e5e76f8f0f79cfe2c11fa375b69"
+    }
+  },
+  "triangles": 2204,
+  "boundsBlenderM": [
+    [
+      -30.797,
+      -11.3,
+      0
+    ],
+    [
+      31.047,
+      10.6,
+      10.568
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -122.3153287,
+          47.6321474
+        ],
+        [
+          -122.3153256,
+          47.6320171
+        ],
+        [
+          -122.3153723,
+          47.6320167
+        ],
+        [
+          -122.3153991,
+          47.6320164
+        ],
+        [
+          -122.3153994,
+          47.6320312
+        ],
+        [
+          -122.3154235,
+          47.6320309
+        ],
+        [
+          -122.3154246,
+          47.6320797
+        ],
+        [
+          -122.3156276,
+          47.6320775
+        ],
+        [
+          -122.3156273,
+          47.6320676
+        ],
+        [
+          -122.3157076,
+          47.6320667
+        ],
+        [
+          -122.3157073,
+          47.632052
+        ],
+        [
+          -122.3157325,
+          47.6320517
+        ],
+        [
+          -122.315758,
+          47.6320514
+        ],
+        [
+          -122.3157583,
+          47.6320655
+        ],
+        [
+          -122.3158374,
+          47.6320647
+        ],
+        [
+          -122.3158376,
+          47.6320754
+        ],
+        [
+          -122.3160421,
+          47.6320732
+        ],
+        [
+          -122.3160409,
+          47.6320236
+        ],
+        [
+          -122.3160709,
+          47.6320232
+        ],
+        [
+          -122.3160706,
+          47.6320101
+        ],
+        [
+          -122.3160965,
+          47.6320098
+        ],
+        [
+          -122.3161185,
+          47.6320096
+        ],
+        [
+          -122.3161189,
+          47.6320227
+        ],
+        [
+          -122.31614,
+          47.6320225
+        ],
+        [
+          -122.3161427,
+          47.6321371
+        ],
+        [
+          -122.3158709,
+          47.63214
+        ],
+        [
+          -122.3158724,
+          47.6322033
+        ],
+        [
+          -122.3157946,
+          47.6322041
+        ],
+        [
+          -122.3157943,
+          47.632192
+        ],
+        [
+          -122.3156644,
+          47.6321934
+        ],
+        [
+          -122.3156636,
+          47.6321548
+        ],
+        [
+          -122.3156323,
+          47.6321552
+        ],
+        [
+          -122.315632,
+          47.6321442
+        ],
+        [
+          -122.3153287,
+          47.6321474
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 40790435,
+    "version": 17,
+    "timestamp": "2025-05-11T03:34:19Z",
+    "url": "https://www.openstreetmap.org/way/40790435"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q7941038",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/sea-volunteer-park-conservatory.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Volunteer Park Conservatory (1912, after Lord & Burnham's catalogue designs), Seattle: procedural, CC0-1.0. bun generators/sea-volunteer-park-conservatory.ts",
+    "Map frame: x east, y north, z up, metres; bearing 0 (the long axis runs within a degree of east-west). The origin is the area centroid of OSM way/40790435; y = 0 is the lowest ground the building touches, on its north side (133.3 m NAVD88); the entrance side to the south stands 1.4 m higher.",
+    "Form: a Victorian glasshouse in a line: the central Palm House, a curvilinear hipped glass roof over low glass walls with a glazed lantern on top and an entrance porch under a semicircular fanlight gable on the south; a lower glass wing to each side with curved eaves and a ridge, and at each end a gabled pavilion turned north-south with a small gabled porch. Glass with bold white ribs, white eave bands and a pale concrete plinth.",
+    "Measured (USGS 3DEP WA_KingCo_1_2021, 0.5 m surface model, heights above y = 0): the Palm House's eaves 5.4 m, lantern sides 7.5 m, top 10.5 m; the wings' ridges 6.3 m and eaves about 4.4 m at 3.5 m either side of the ridge; the end pavilions' ridges 6.1-6.4 m; the porch's fanlight 6.7 m; the north annexes 5.0 and 2.6 m. Plan from OSM, which matches the lidar's edges to half a metre. Published: built 1912 (Wikipedia, \"Volunteer Park Conservatory\"). From photos: the curvilinear profiles, the lantern, the fanlight gable, the rib spacing (drawn bolder and wider apart, about one rib per 2.6 m), the white lattice band at the eaves (drawn as a plain band), the plinth. Estimated: the curve radii; the north annexes' form (no photos). Left out: glazing bars, the lattice work, vents, signage, the Seward statue and the gardens.",
+    "Photos: /tmp/city/sea/work/sea-volunteer-park-conservatory/credits.txt.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"sea-volunteer-park-conservatory\", model \"sea-volunteer-park-conservatory\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/sea-volunteer-park-conservatory.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

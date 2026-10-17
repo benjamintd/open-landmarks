@@ -1,0 +1,171 @@
+{
+  "id": "seattle-central-library",
+  "name": "Seattle Central Library",
+  "anchor": [
+    -122.3326627,
+    47.6066885
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 45396,
+      "sha256": "4fd676d38ec0a803d8df40d566fc1b44e7735790e149efc9eb388598a656a492"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 45396,
+      "sha256": "4fd676d38ec0a803d8df40d566fc1b44e7735790e149efc9eb388598a656a492"
+    }
+  },
+  "triangles": 836,
+  "boundsBlenderM": [
+    [
+      -51.019,
+      -45.217,
+      0
+    ],
+    [
+      50.66,
+      45.818,
+      59.3
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -122.3325946,
+          47.6070912
+        ],
+        [
+          -122.3332937,
+          47.6067985
+        ],
+        [
+          -122.3333097,
+          47.6067469
+        ],
+        [
+          -122.3331133,
+          47.6065307
+        ],
+        [
+          -122.333058,
+          47.6064699
+        ],
+        [
+          -122.3329112,
+          47.6063737
+        ],
+        [
+          -122.3326897,
+          47.6062919
+        ],
+        [
+          -122.3321152,
+          47.6065331
+        ],
+        [
+          -122.331995,
+          47.6065836
+        ],
+        [
+          -122.3320862,
+          47.6066815
+        ],
+        [
+          -122.3323726,
+          47.606989
+        ],
+        [
+          -122.3324368,
+          47.6070579
+        ],
+        [
+          -122.3325946,
+          47.6070912
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 37056442,
+    "version": 32,
+    "timestamp": "2026-08-16T21:20:26Z",
+    "url": "https://www.openstreetmap.org/way/37056442"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 458203290,
+      "version": 1,
+      "timestamp": "2016-12-07T04:30:35Z",
+      "url": "https://www.openstreetmap.org/way/458203290"
+    },
+    {
+      "type": "way",
+      "id": 458203294,
+      "version": 1,
+      "timestamp": "2016-12-07T04:30:36Z",
+      "url": "https://www.openstreetmap.org/way/458203294"
+    },
+    {
+      "type": "way",
+      "id": 458203296,
+      "version": 1,
+      "timestamp": "2016-12-07T04:30:36Z",
+      "url": "https://www.openstreetmap.org/way/458203296"
+    },
+    {
+      "type": "way",
+      "id": 458203299,
+      "version": 1,
+      "timestamp": "2016-12-07T04:30:36Z",
+      "url": "https://www.openstreetmap.org/way/458203299"
+    }
+  ],
+  "wikidata": "Q2531939",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/sea-central-library.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Seattle Central Library — procedural, CC0-1.0. bun generators/sea-central-library.ts (GRID=0 for the plain skin)",
+    "Map frame: x east, y north, z up, metres; origin at the OSM outline's centroid, on the lowest ground under the footprint (the 4th Avenue and Madison Street corner). Built in the block's own frame: x runs from 4th Avenue to 5th Avenue, y from Madison Street to Spring Street, and the model is placed at bearing 328.3° so those line up with the street grid.",
+    "OMA / Rem Koolhaas with LMN, 2004. Platforms stacked off-centre (the glazed base, the living room, the mixing chamber, the book spiral, the reading room and the offices on top) with one diamond-grid glass skin pulled taut between their edges, so the envelope is a set of flat facets: roofs that slope down to the street, undersides that lean out over it, and cantilevers on every side.",
+    "The model is that envelope as five overlapping volumes, each a stack of horizontal sections lofted into one another, and the skin's diamond grid drawn coarsely as broad flush steel strips on every facet.",
+    "Evidence:",
+    "Lidar (USGS 3DEP WA_KingCo_1_2021, 0.5 m), every upward-facing surface: the roof plateau at 54 m above the tile's lowest ground (51.3 m model), 43 m x 55 m; the reading room's glass roof sloping down 12–13 m to edges at 42 m on the 4th Avenue and Spring Street sides, its south corner chamfered; the mixing-chamber ledge at 24 m standing 3 m proud of the 4th Avenue face from Spring to two-thirds of the way to Madison; the living room's skin on Madison sloping from 22 m down to 14 m at the street edge; the penthouse at 62 m. The ground falls 10 m from 5th Avenue to 4th Avenue, so the base is two storeys on 4th and buried under 5th.",
+    "OSM way/37056442 (outline, height 60) and its four roof parts: the outermost extents, 71 m x 74 m, and the south corner's chamfer.",
+    "Photos (credits in /tmp/city/sea/work/sea-central-library/credits.txt): the faces lidar can't see — the glazed base, the undersides of the offices' cantilever over 5th Avenue and Madison, the book spiral's set-back faces, the tall glass triangle at the south corner — read from views at the 4th/Madison, 5th/Madison and 4th/Spring corners and up 5th Avenue. Those heights and set-backs are estimates, good to a few metres.",
+    "Simplified: the chamfered corners are square except the south one; the skin's grid (real diamonds about 2.5 m x 4 m) is drawn at about 7 m x 12 m so it reads without shimmering.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"sea-central-library\", model \"sea-central-library\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/sea-central-library.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

@@ -1,0 +1,201 @@
+{
+  "id": "columbia-center",
+  "name": "Columbia Center",
+  "anchor": [
+    -122.3307466,
+    47.6045019
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 13,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 71836,
+      "sha256": "47365f1f5e531b19ff764b434fc8800ee4fca9b969c4fe1ec8eeb4bd14762288"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 71836,
+      "sha256": "47365f1f5e531b19ff764b434fc8800ee4fca9b969c4fe1ec8eeb4bd14762288"
+    }
+  },
+  "triangles": 1756,
+  "boundsBlenderM": [
+    [
+      -48.44,
+      -32.65,
+      0
+    ],
+    [
+      52.76,
+      44.8,
+      286
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -122.3306507,
+          47.6047713
+        ],
+        [
+          -122.3306283,
+          47.6047461
+        ],
+        [
+          -122.3306008,
+          47.6047233
+        ],
+        [
+          -122.3305686,
+          47.6047035
+        ],
+        [
+          -122.3305322,
+          47.6046874
+        ],
+        [
+          -122.3304926,
+          47.6046751
+        ],
+        [
+          -122.3304507,
+          47.604667
+        ],
+        [
+          -122.3304075,
+          47.6046634
+        ],
+        [
+          -122.3303639,
+          47.6046642
+        ],
+        [
+          -122.3302909,
+          47.6046654
+        ],
+        [
+          -122.3302478,
+          47.604659
+        ],
+        [
+          -122.3300432,
+          47.604439
+        ],
+        [
+          -122.3307178,
+          47.6041537
+        ],
+        [
+          -122.3308721,
+          47.6040884
+        ],
+        [
+          -122.3309479,
+          47.6041619
+        ],
+        [
+          -122.3313915,
+          47.6046467
+        ],
+        [
+          -122.3310816,
+          47.6047778
+        ],
+        [
+          -122.3307767,
+          47.6049067
+        ],
+        [
+          -122.3306507,
+          47.6047713
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 107124288,
+    "version": 22,
+    "timestamp": "2026-02-27T23:26:55Z",
+    "url": "https://www.openstreetmap.org/way/107124288"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 418132525,
+      "version": 5,
+      "timestamp": "2024-03-29T02:19:40Z",
+      "url": "https://www.openstreetmap.org/way/418132525"
+    },
+    {
+      "type": "way",
+      "id": 418132517,
+      "version": 4,
+      "timestamp": "2024-03-29T02:19:40Z",
+      "url": "https://www.openstreetmap.org/way/418132517"
+    },
+    {
+      "type": "way",
+      "id": 418132520,
+      "version": 5,
+      "timestamp": "2024-03-29T02:19:40Z",
+      "url": "https://www.openstreetmap.org/way/418132520"
+    },
+    {
+      "type": "way",
+      "id": 418132515,
+      "version": 4,
+      "timestamp": "2024-03-29T02:19:40Z",
+      "url": "https://www.openstreetmap.org/way/418132515"
+    },
+    {
+      "type": "way",
+      "id": 331293871,
+      "version": 10,
+      "timestamp": "2024-03-29T02:19:40Z",
+      "url": "https://www.openstreetmap.org/way/331293871"
+    }
+  ],
+  "wikidata": "Q908703",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/sea-columbia-center.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Columbia Center (1985, Chester Lindsey Architects), Seattle — original procedural geometry, CC0-1.0. bun generators/sea-columbia-center.ts [out.glb]",
+    "Map frame: x east, y north, z up, metres; origin at the anchor (the OSM outline's centroid) on the lowest ground under the footprint, the corner of 4th Avenue and Columbia Street (34.75 m NAVD88). Placed at bearing 0: the plan has no single axis, so it is drawn straight from OSM's local coordinates.",
+    "Form: three dark-glass towers of 43, 61 and 76 storeys locked together. The plan alternates three concave curved faces (west, south-east, north-east) with three flat faces (north-north-west, south-south-west, east), and each flat face is split by a notch where one tower meets the next. The tallest tower is the western one; the 61-storey tower wraps its south-south-west face and the 43-storey tower wraps the north-east, so the building steps down in a spiral. The concave faces read as horizontal bands (pale spandrels between dark glass); the flat faces as a square grid. A terraced granite podium fills the block, at grade on 5th Avenue and a storey or so above 4th Avenue.",
+    "Sources",
+    "OSM: outline way/107124288; tower parts way/418132525 (west, 76 floors), way/418132520 (south-east, 61 floors), way/331293871 (north-east, 43 floors) and the roof steps way/418132517, way/418132515. Their plans are used as they are: they agree with the lidar edges to about a metre.",
+    "Lidar (measured): USGS 3DEP WA_KingCo_1_2021 surface model, heights above the lowest ground under the footprint: west tower edge 282 m with a roof step inset ~4 m to 286 m; south-east tower 225 m, step to 229 m; north-east tower 162 m. Podium deck ~17 m above the 4th Avenue corner (flush with 5th Avenue), a raised west wing ~26 m, an open stepped plaza at the south corner (left as ground).",
+    "Published: 284 m to the roof, 76 storeys, setbacks at floors 43 and 61 (Wikipedia, \"Columbia Center\").",
+    "Photos (Wikimedia Commons): see the batch report; colours are from them. Estimated: the podium's terrace outlines (traced from the lidar at 1 m), the storey grouping of the window panels (four floors of 3.74 m).",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"sea-columbia-center\", model \"sea-columbia-center\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/sea-columbia-center.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

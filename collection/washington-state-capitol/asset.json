@@ -1,0 +1,254 @@
+{
+  "id": "washington-state-capitol",
+  "name": "Washington State Capitol",
+  "anchor": [
+    -122.9048534,
+    47.0357611
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 182412,
+      "sha256": "5ab2ab5bbb5f39eb6ce74f1ca5ca6bd799657563559aff0a587011be9889029c"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 182412,
+      "sha256": "5ab2ab5bbb5f39eb6ce74f1ca5ca6bd799657563559aff0a587011be9889029c"
+    }
+  },
+  "triangles": 5642,
+  "boundsBlenderM": [
+    [
+      -53.1,
+      -40.9,
+      0
+    ],
+    [
+      53.1,
+      50,
+      87
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -122.9041692,
+          47.0360097
+        ],
+        [
+          -122.9041692,
+          47.0359666
+        ],
+        [
+          -122.9041595,
+          47.0359666
+        ],
+        [
+          -122.9041593,
+          47.0355781
+        ],
+        [
+          -122.9041593,
+          47.0355579
+        ],
+        [
+          -122.9041678,
+          47.0355579
+        ],
+        [
+          -122.9041677,
+          47.0355135
+        ],
+        [
+          -122.9046073,
+          47.0355132
+        ],
+        [
+          -122.9046073,
+          47.0354953
+        ],
+        [
+          -122.9046431,
+          47.0354953
+        ],
+        [
+          -122.9046431,
+          47.0354763
+        ],
+        [
+          -122.9046431,
+          47.0354586
+        ],
+        [
+          -122.9046883,
+          47.0354586
+        ],
+        [
+          -122.9050184,
+          47.0354585
+        ],
+        [
+          -122.9050635,
+          47.0354586
+        ],
+        [
+          -122.9050634,
+          47.035473
+        ],
+        [
+          -122.9050633,
+          47.0354927
+        ],
+        [
+          -122.9051,
+          47.0354928
+        ],
+        [
+          -122.9050999,
+          47.0355113
+        ],
+        [
+          -122.9055386,
+          47.0355124
+        ],
+        [
+          -122.9055384,
+          47.0355573
+        ],
+        [
+          -122.9055453,
+          47.0355573
+        ],
+        [
+          -122.9055445,
+          47.0359655
+        ],
+        [
+          -122.9055366,
+          47.0359655
+        ],
+        [
+          -122.9055366,
+          47.0360109
+        ],
+        [
+          -122.9050993,
+          47.0360109
+        ],
+        [
+          -122.9050993,
+          47.0360278
+        ],
+        [
+          -122.9050642,
+          47.0360278
+        ],
+        [
+          -122.9050642,
+          47.0360474
+        ],
+        [
+          -122.9050244,
+          47.0360474
+        ],
+        [
+          -122.9050244,
+          47.0360688
+        ],
+        [
+          -122.9048419,
+          47.0360689
+        ],
+        [
+          -122.9046858,
+          47.0360689
+        ],
+        [
+          -122.9046858,
+          47.0360404
+        ],
+        [
+          -122.9046515,
+          47.0360404
+        ],
+        [
+          -122.9046515,
+          47.0360213
+        ],
+        [
+          -122.9046184,
+          47.0360213
+        ],
+        [
+          -122.9046184,
+          47.0360096
+        ],
+        [
+          -122.9041692,
+          47.0360097
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 31494476,
+    "version": 29,
+    "timestamp": "2026-06-05T18:40:52Z",
+    "url": "https://www.openstreetmap.org/way/31494476"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 612617948,
+      "version": 1,
+      "timestamp": "2018-07-31T11:34:25Z",
+      "url": "https://www.openstreetmap.org/way/612617948"
+    }
+  ],
+  "wikidata": "Q2620186",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/sea-washington-state-capitol.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Washington State Capitol, the Legislative Building (1928, Wilder & White), Olympia: procedural, CC0-1.0. bun generators/sea-washington-state-capitol.ts [out.glb]",
+    "Map frame: x east, y north, z up, metres; bearing 0 (the OSM walls run exactly north-south and east-west). The origin is the area centroid of OSM way/31494476 (-122.9048534, 47.0357611), which is also the dome's axis; y = 0 is the drive at the foot of the north steps.",
+    "Olympia lies outside both public lidar surveys used for the Seattle batch (King and Pierce counties), so nothing here is measured from lidar: the plan is OSM's, the heights are the published 87 m to the lantern's tip and the 42 north steps, and everything else is scaled from photos.",
+    "Form: a long sandstone block on a rusticated base storey, wrapped in a giant Doric colonnade (second and third floors) under a cornice that runs round the whole building; a central pavilion with a Corinthian portico and pediment on the north (over the 42 steps) and the south (over the vehicle ramp, deeper); over the centre a square attic block with a sculpted pedestal at each corner, then the dome: a plain lower drum, a peristyle of 32 Corinthian columns in pairs, a heavy cornice, a stepped attic, the ribbed masonry dome and a columned lantern with a spire.",
+    "Sources",
+    "OSM: way/31494476 (outline, 6 levels, Q2620186): wings x ±52.6, y ±27.5; central pavilion x ±18.7, y ±29.5; north portico to y 34; way/612617948 (roof, x ±13, y -41..-33): the south portico's porte-cochère.",
+    "Published: dome 287 ft (87 m) on the exterior, the tallest self-supporting masonry dome in North America; 42 granite steps to the north entrance; north and south porticoes of eight Corinthian columns; Doric colonnade on the second and third floors; four small sandstone domes round the dome; Wilkeson sandstone (Wikipedia, \"Washington State Capitol\").",
+    "Photos (Wikimedia Commons; credits in /tmp/city/sea/work/sea-washington-state-capitol/credits.txt). Joe Mabel's frontal panorama of the north front gives the elevation, scaled to the 87 m total and the 6.3 m of steps: base storey 6.3, colonnade to 21.3, cornice 24.9, portico columns to 22.4, pediment 30.5, attic block 34.5, lower drum to 46.4, peristyle to 56.7, cornice 58.8, attic 63.5, dome to its crown ring at 74, lantern to 82.4, spire 87. Widths from the same photo: drum radius 14.8, dome radius 11.6, lantern radius 3. OceanLoop's 2025 close view of the dome gives its profile (very nearly a hemisphere: rise 0.95 of the radius to the crown ring), 24 ribs, the paired columns (16 pairs) and the stepped attic. Estimated: every height and width above (photo scaling, perhaps ±1.5 m), the wing colonnades' spacing (2.8 m), the south porte-cochère's columns, the wing roofs' low hipped skylight blocks (from a 1938 aerial). Left out: the base storey's small windows (a dot row at map scale), the pediment sculpture, capitals, the corner pedestals' carving (drawn as small domes), balustrades, lamps. The north steps are one smooth flight (16 m deep, 42 m wide between cheek walls, estimated from the panorama).",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"sea-washington-state-capitol\", model \"sea-washington-state-capitol\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/sea-washington-state-capitol.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 134 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the sea-washington-state-capitol-glazing finish in the window colour."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

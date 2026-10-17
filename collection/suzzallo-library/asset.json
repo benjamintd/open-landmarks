@@ -1,0 +1,262 @@
+{
+  "id": "suzzallo-library",
+  "name": "Suzzallo Library",
+  "anchor": [
+    -122.308168,
+    47.655773
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 96128,
+      "sha256": "fc5d310dff21af36b63c671cbe9a3189d17822ad6660ac04327093f0cff777d6"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 96128,
+      "sha256": "fc5d310dff21af36b63c671cbe9a3189d17822ad6660ac04327093f0cff777d6"
+    }
+  },
+  "triangles": 1771,
+  "boundsBlenderM": [
+    [
+      -45.053,
+      -46.194,
+      0
+    ],
+    [
+      59.242,
+      45.765,
+      37.5
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -122.3074772,
+          47.6555261
+        ],
+        [
+          -122.3078978,
+          47.6555789
+        ],
+        [
+          -122.3078922,
+          47.6556046
+        ],
+        [
+          -122.3079265,
+          47.6556086
+        ],
+        [
+          -122.3079331,
+          47.655594
+        ],
+        [
+          -122.3080857,
+          47.6555445
+        ],
+        [
+          -122.3080655,
+          47.6555152
+        ],
+        [
+          -122.3081007,
+          47.6555042
+        ],
+        [
+          -122.3081214,
+          47.6554977
+        ],
+        [
+          -122.3081396,
+          47.655492
+        ],
+        [
+          -122.3081596,
+          47.655521
+        ],
+        [
+          -122.3086424,
+          47.6553669
+        ],
+        [
+          -122.3086645,
+          47.655374
+        ],
+        [
+          -122.3087179,
+          47.6554499
+        ],
+        [
+          -122.3087348,
+          47.6554739
+        ],
+        [
+          -122.308761,
+          47.6555048
+        ],
+        [
+          -122.3087645,
+          47.6555144
+        ],
+        [
+          -122.3087673,
+          47.6555373
+        ],
+        [
+          -122.3087705,
+          47.6555676
+        ],
+        [
+          -122.3086928,
+          47.6558644
+        ],
+        [
+          -122.308618,
+          47.6561547
+        ],
+        [
+          -122.3085662,
+          47.6561489
+        ],
+        [
+          -122.3085646,
+          47.6561582
+        ],
+        [
+          -122.3085153,
+          47.6561904
+        ],
+        [
+          -122.3084487,
+          47.6561819
+        ],
+        [
+          -122.3084194,
+          47.6561407
+        ],
+        [
+          -122.3084213,
+          47.6561325
+        ],
+        [
+          -122.3083651,
+          47.6561253
+        ],
+        [
+          -122.3083675,
+          47.6561159
+        ],
+        [
+          -122.3083516,
+          47.6561142
+        ],
+        [
+          -122.3083447,
+          47.6561135
+        ],
+        [
+          -122.3083435,
+          47.6561171
+        ],
+        [
+          -122.307887,
+          47.6560621
+        ],
+        [
+          -122.3079129,
+          47.6559548
+        ],
+        [
+          -122.3073774,
+          47.6558897
+        ],
+        [
+          -122.3074772,
+          47.6555261
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "relation",
+    "id": 2955450,
+    "version": 15,
+    "timestamp": "2026-08-23T03:24:19Z",
+    "url": "https://www.openstreetmap.org/relation/2955450"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 1104202902,
+      "version": 9,
+      "timestamp": "2024-04-14T02:00:20Z",
+      "url": "https://www.openstreetmap.org/way/1104202902"
+    },
+    {
+      "type": "way",
+      "id": 1104202901,
+      "version": 5,
+      "timestamp": "2023-02-28T03:41:32Z",
+      "url": "https://www.openstreetmap.org/way/1104202901"
+    },
+    {
+      "type": "way",
+      "id": 445398678,
+      "version": 6,
+      "timestamp": "2023-02-25T21:38:52Z",
+      "url": "https://www.openstreetmap.org/way/445398678"
+    },
+    {
+      "type": "way",
+      "id": 1104202900,
+      "version": 4,
+      "timestamp": "2024-04-14T02:00:20Z",
+      "url": "https://www.openstreetmap.org/way/1104202900"
+    }
+  ],
+  "wikidata": "Q7651462",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/sea-suzzallo-library.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Suzzallo Library (1926 west wing and 1935 south wing by Bebb & Gould; 1963 east addition), University of Washington, Seattle: procedural, CC0-1.0. bun generators/sea-suzzallo-library.ts",
+    "Map frame: x east, y north, z up, metres; bearing 10 (the west wing's long walls run at 10 degrees). The origin is the area centroid of OSM relation/2955450's outer ring. y = 0 is the lowest ground the building touches, on the south side (44.9 m NAVD88); Red Square, in front of the west front, is 4 m higher, so the facade's detail starts there.",
+    "Form: the Collegiate Gothic west wing, an 18.5 m wide block 67 m long under a steep hipped slate roof, its Red Square front of eleven bays: a cast-stone ground storey with an arched window in each bay and three entrance porches in the middle, the reading room's tall pointed windows in brick above, stone buttresses between the bays rising into pinnacles over the parapet, a corner tower at each end, a polygonal stair bay at the north end. The 1935 south wing, narrower and lower, runs off at 65 degrees from the south end under a gabled slate roof, its gable facing the square. The 1963 addition fills the angle behind with flat-roofed blocks. Allen Library (east) is a separate building and not drawn.",
+    "Measured (USGS 3DEP WA_KingCo_1_2021, 0.5 m surface model, heights above y = 0): the west wing's front wall at x = -39, the back at -20.5; parapet 29 m, ridge 37.5 m (a narrow flat ridge at x -29.75), roof planes about 50 degrees; the south wing 12 m wide, eaves 19.5 m, ridge 26 m; the addition's roofs at 28 m (middle block), 24.5 m (north) and 20.5 m (east); the north stair bay to 29 m; the link at the south-west corner 20 m. Published: built 1926, 1935, 1963 (Wikipedia, \"Suzzallo Library\"). From photos (west front only): bay count (eleven), storey proportions, the window and arch shapes, the brick and stone colours, the green-grey slate. Estimated: the east and north faces (no photos), the south wing's side windows, the addition's window bands, pinnacle heights (32-35 m). Left out: tracery, statues, the openwork parapet, lettering, steps.",
+    "OSM: relation/2955450 (outline), parts way/1104202902 (the L of the old wings), way/1104202901 (the 1963 addition), way/445398678 (the south-west link), way/1104202900 (a small roof part on the south side).",
+    "Photos: /tmp/city/sea/work/sea-suzzallo-library/credits.txt.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"sea-suzzallo-library\", model \"sea-suzzallo-library\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/sea-suzzallo-library.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 26 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the sea-suzzallo-library-glazing finish in the window colour.",
+    "To fit six materials, folded sea-suzzallo-library-suzzallo-slate into roof (ΔE 8.8)."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

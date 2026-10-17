@@ -1,0 +1,348 @@
+{
+  "id": "two-union-square",
+  "name": "Two Union Square",
+  "anchor": [
+    -122.3320767,
+    47.6104347
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 13,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 76252,
+      "sha256": "db02d22b9fe107a5947a8940f3e5e30ab79721998b1092dddc15b2bbeeccc443"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 76252,
+      "sha256": "db02d22b9fe107a5947a8940f3e5e30ab79721998b1092dddc15b2bbeeccc443"
+    }
+  },
+  "triangles": 1796,
+  "boundsBlenderM": [
+    [
+      -29.201,
+      -28.463,
+      0
+    ],
+    [
+      24.945,
+      28.885,
+      225.499
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -122.3317408,
+          47.6103896
+        ],
+        [
+          -122.3317555,
+          47.6103615
+        ],
+        [
+          -122.3317726,
+          47.6103413
+        ],
+        [
+          -122.3318022,
+          47.6103222
+        ],
+        [
+          -122.3318509,
+          47.6102903
+        ],
+        [
+          -122.3318769,
+          47.6102753
+        ],
+        [
+          -122.3319033,
+          47.6102614
+        ],
+        [
+          -122.3319589,
+          47.6102353
+        ],
+        [
+          -122.3320176,
+          47.6102124
+        ],
+        [
+          -122.3320691,
+          47.6101959
+        ],
+        [
+          -122.3320789,
+          47.6101928
+        ],
+        [
+          -122.3321179,
+          47.6101824
+        ],
+        [
+          -122.3321418,
+          47.6101767
+        ],
+        [
+          -122.3321662,
+          47.6101735
+        ],
+        [
+          -122.3321832,
+          47.6101712
+        ],
+        [
+          -122.3322131,
+          47.6101726
+        ],
+        [
+          -122.3322336,
+          47.6101755
+        ],
+        [
+          -122.3322765,
+          47.6101959
+        ],
+        [
+          -122.3323034,
+          47.6102096
+        ],
+        [
+          -122.3323136,
+          47.6102157
+        ],
+        [
+          -122.3323443,
+          47.6102367
+        ],
+        [
+          -122.3323721,
+          47.6102595
+        ],
+        [
+          -122.3323969,
+          47.6102838
+        ],
+        [
+          -122.3324186,
+          47.6103094
+        ],
+        [
+          -122.3324368,
+          47.6103362
+        ],
+        [
+          -122.3324516,
+          47.610364
+        ],
+        [
+          -122.3324634,
+          47.6103899
+        ],
+        [
+          -122.3324682,
+          47.6104094
+        ],
+        [
+          -122.3324696,
+          47.6104273
+        ],
+        [
+          -122.3324676,
+          47.610441
+        ],
+        [
+          -122.3324599,
+          47.6104621
+        ],
+        [
+          -122.332408,
+          47.6105018
+        ],
+        [
+          -122.3324133,
+          47.6105077
+        ],
+        [
+          -122.3323553,
+          47.6105345
+        ],
+        [
+          -122.3323078,
+          47.610555
+        ],
+        [
+          -122.3323101,
+          47.6105574
+        ],
+        [
+          -122.3323129,
+          47.6105603
+        ],
+        [
+          -122.3322882,
+          47.610571
+        ],
+        [
+          -122.3322637,
+          47.6105816
+        ],
+        [
+          -122.3322609,
+          47.6105786
+        ],
+        [
+          -122.3322587,
+          47.6105763
+        ],
+        [
+          -122.3322128,
+          47.6105962
+        ],
+        [
+          -122.3319277,
+          47.6107196
+        ],
+        [
+          -122.3318953,
+          47.6107196
+        ],
+        [
+          -122.3318772,
+          47.6107178
+        ],
+        [
+          -122.3318558,
+          47.6107121
+        ],
+        [
+          -122.3318329,
+          47.6106972
+        ],
+        [
+          -122.3318202,
+          47.6106842
+        ],
+        [
+          -122.3317842,
+          47.6106393
+        ],
+        [
+          -122.3317568,
+          47.6105916
+        ],
+        [
+          -122.3317386,
+          47.610542
+        ],
+        [
+          -122.3317298,
+          47.6104913
+        ],
+        [
+          -122.3317305,
+          47.6104402
+        ],
+        [
+          -122.3317408,
+          47.6103896
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 331281880,
+    "version": 17,
+    "timestamp": "2024-03-27T00:35:48Z",
+    "url": "https://www.openstreetmap.org/way/331281880"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 491467380,
+      "version": 4,
+      "timestamp": "2017-05-19T23:31:54Z",
+      "url": "https://www.openstreetmap.org/way/491467380"
+    },
+    {
+      "type": "way",
+      "id": 491467379,
+      "version": 5,
+      "timestamp": "2025-04-09T07:08:45Z",
+      "url": "https://www.openstreetmap.org/way/491467379"
+    },
+    {
+      "type": "way",
+      "id": 491467381,
+      "version": 6,
+      "timestamp": "2025-04-09T07:08:45Z",
+      "url": "https://www.openstreetmap.org/way/491467381"
+    },
+    {
+      "type": "way",
+      "id": 494784395,
+      "version": 1,
+      "timestamp": "2017-05-19T23:31:54Z",
+      "url": "https://www.openstreetmap.org/way/494784395"
+    },
+    {
+      "type": "way",
+      "id": 456870610,
+      "version": 5,
+      "timestamp": "2017-05-05T00:53:53Z",
+      "url": "https://www.openstreetmap.org/way/456870610"
+    },
+    {
+      "type": "way",
+      "id": 456870609,
+      "version": 5,
+      "timestamp": "2017-05-05T00:53:53Z",
+      "url": "https://www.openstreetmap.org/way/456870609"
+    }
+  ],
+  "wikidata": "Q3049315",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/sea-two-union-square.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Two Union Square (1989, NBBJ), Seattle — original procedural geometry, CC0-1.0. bun generators/sea-two-union-square.ts [out.glb]",
+    "Map frame: x east, y north, z up, metres; origin at the anchor (the OSM outline's area centroid, -122.3320767, 47.6104347) on the lowest ground under the footprint (48.5 m NAVD88, on the north-west side; the east side is about 3.5 m higher). Built in the street grid's frame: the model's x axis runs along Union Street (ENE), y up the avenues (NNW); placement bearing 328.8°.",
+    "Form: a glass core with a convex curved east end, wrapped on three sides by lower slabs of white bands and dark ribbon windows that bow outward: north and south slabs to 200 m, a west one to 188 m. Where a slab stops short of the core's corner the glass shows full height, the notched corners. The core's glass rises to 211 m; on top, a white drum with a round west end (217 m) and a white box (to 226 m) whose east face follows the curve. The curved east face is banded for its lowest dozen storeys. The glass carries a coarse copper grid; drawn as a faint band every eight storeys.",
+    "Sources",
+    "OSM: outline way/331281880; parts way/491467380 (the core), way/491467379 and way/491467381 (south and north slabs), way/494784395 (west slab), way/456870610 (drum), way/456870609 (box). Plans from OSM, smoothed into arcs through its points.",
+    "Lidar (measured, USGS 3DEP WA_KingCo_1_2021, above 48.5 m NAVD88): core roof 211 m; north and south slabs 199-200 m; west slab 188-189 m; drum 215-218 m; box 221.5 m on its west side rising to 224-226 m on the east. OSM's 214 m slabs and 202 m west slab are 12-14 m high; lidar used.",
+    "Published: 226 m (741 ft), 56 storeys (Wikipedia, \"Two Union Square\").",
+    "Photos (Wikimedia Commons): Cumulus Clouds 2008 x2 (from the east: curved glass face, banded foot, white south slab), Atomic Taco 2009 (from Columbia Center: drum, box, slab tops, notched corner), Joe Mabel (from the north-west, overcast), Atomic Taco \"The two tallest\" (crown from the west). Estimated: storey grouping of the bands (three storeys per ribbon), the height of the banded foot on the east face (42 m), the box's plan inside the curve, colours pulled to the palette.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"sea-two-union-square\", model \"sea-two-union-square\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/sea-two-union-square.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

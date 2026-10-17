@@ -1,0 +1,420 @@
+{
+  "id": "pacific-tower",
+  "name": "Pacific Tower",
+  "anchor": [
+    -122.31571,
+    47.59286
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 73436,
+      "sha256": "6ec9b705d914120b1a7aeb3845e4e04014a685d54cca1957f70c96d43afa4a9c"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 73436,
+      "sha256": "6ec9b705d914120b1a7aeb3845e4e04014a685d54cca1957f70c96d43afa4a9c"
+    }
+  },
+  "triangles": 1358,
+  "boundsBlenderM": [
+    [
+      -61.02,
+      -26,
+      0
+    ],
+    [
+      49.5,
+      26,
+      68
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -122.3152438,
+          47.5930634
+        ],
+        [
+          -122.3152438,
+          47.5930214
+        ],
+        [
+          -122.3150689,
+          47.5930214
+        ],
+        [
+          -122.3150689,
+          47.5928249
+        ],
+        [
+          -122.3150689,
+          47.5927331
+        ],
+        [
+          -122.315069,
+          47.5926251
+        ],
+        [
+          -122.315157,
+          47.5926251
+        ],
+        [
+          -122.315157,
+          47.5926309
+        ],
+        [
+          -122.3152966,
+          47.5926309
+        ],
+        [
+          -122.3153258,
+          47.5926309
+        ],
+        [
+          -122.3153258,
+          47.5926623
+        ],
+        [
+          -122.3154436,
+          47.5926624
+        ],
+        [
+          -122.3154436,
+          47.5927437
+        ],
+        [
+          -122.3154835,
+          47.5927437
+        ],
+        [
+          -122.3154835,
+          47.5926514
+        ],
+        [
+          -122.3156054,
+          47.5926514
+        ],
+        [
+          -122.3156054,
+          47.5926733
+        ],
+        [
+          -122.3156573,
+          47.5926734
+        ],
+        [
+          -122.3156573,
+          47.5927158
+        ],
+        [
+          -122.3156573,
+          47.5927198
+        ],
+        [
+          -122.3156571,
+          47.5927421
+        ],
+        [
+          -122.3158997,
+          47.5927414
+        ],
+        [
+          -122.3158997,
+          47.5927262
+        ],
+        [
+          -122.3159229,
+          47.5927264
+        ],
+        [
+          -122.3159309,
+          47.5927263
+        ],
+        [
+          -122.3159309,
+          47.592706
+        ],
+        [
+          -122.3160062,
+          47.592706
+        ],
+        [
+          -122.3160908,
+          47.5927061
+        ],
+        [
+          -122.3160913,
+          47.5927257
+        ],
+        [
+          -122.3161137,
+          47.592726
+        ],
+        [
+          -122.3161137,
+          47.5927429
+        ],
+        [
+          -122.3163624,
+          47.5927433
+        ],
+        [
+          -122.3163625,
+          47.5927208
+        ],
+        [
+          -122.3163625,
+          47.5927085
+        ],
+        [
+          -122.3163625,
+          47.5927047
+        ],
+        [
+          -122.3163626,
+          47.5926707
+        ],
+        [
+          -122.3164106,
+          47.5926708
+        ],
+        [
+          -122.3164107,
+          47.5926483
+        ],
+        [
+          -122.3165325,
+          47.5926485
+        ],
+        [
+          -122.316532,
+          47.5927825
+        ],
+        [
+          -122.3165319,
+          47.592821
+        ],
+        [
+          -122.3165318,
+          47.5928478
+        ],
+        [
+          -122.3164145,
+          47.5928476
+        ],
+        [
+          -122.316361,
+          47.5928475
+        ],
+        [
+          -122.3163609,
+          47.5928641
+        ],
+        [
+          -122.3163604,
+          47.5930193
+        ],
+        [
+          -122.3163105,
+          47.5930192
+        ],
+        [
+          -122.3163104,
+          47.5930454
+        ],
+        [
+          -122.3162074,
+          47.5930452
+        ],
+        [
+          -122.3162074,
+          47.5930524
+        ],
+        [
+          -122.3161056,
+          47.5930523
+        ],
+        [
+          -122.3161055,
+          47.5930721
+        ],
+        [
+          -122.3160775,
+          47.5930721
+        ],
+        [
+          -122.3160774,
+          47.5930833
+        ],
+        [
+          -122.316004,
+          47.5930832
+        ],
+        [
+          -122.3159384,
+          47.5930832
+        ],
+        [
+          -122.3159384,
+          47.5930736
+        ],
+        [
+          -122.3159094,
+          47.5930736
+        ],
+        [
+          -122.3159095,
+          47.5930571
+        ],
+        [
+          -122.3158005,
+          47.593057
+        ],
+        [
+          -122.3158005,
+          47.593022
+        ],
+        [
+          -122.3156604,
+          47.593022
+        ],
+        [
+          -122.3156604,
+          47.5930635
+        ],
+        [
+          -122.3156131,
+          47.5930635
+        ],
+        [
+          -122.3152438,
+          47.5930634
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 4712871,
+    "version": 13,
+    "timestamp": "2026-08-21T23:22:40Z",
+    "url": "https://www.openstreetmap.org/way/4712871"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 1510326610,
+      "version": 1,
+      "timestamp": "2026-05-07T16:33:04Z",
+      "url": "https://www.openstreetmap.org/way/1510326610"
+    },
+    {
+      "type": "way",
+      "id": 1510326611,
+      "version": 1,
+      "timestamp": "2026-05-07T16:33:04Z",
+      "url": "https://www.openstreetmap.org/way/1510326611"
+    },
+    {
+      "type": "way",
+      "id": 1510326612,
+      "version": 1,
+      "timestamp": "2026-05-07T16:33:04Z",
+      "url": "https://www.openstreetmap.org/way/1510326612"
+    },
+    {
+      "type": "way",
+      "id": 1510326613,
+      "version": 1,
+      "timestamp": "2026-05-07T16:33:04Z",
+      "url": "https://www.openstreetmap.org/way/1510326613"
+    },
+    {
+      "type": "way",
+      "id": 1510326614,
+      "version": 1,
+      "timestamp": "2026-05-07T16:33:04Z",
+      "url": "https://www.openstreetmap.org/way/1510326614"
+    },
+    {
+      "type": "way",
+      "id": 1510326615,
+      "version": 1,
+      "timestamp": "2026-05-07T16:33:04Z",
+      "url": "https://www.openstreetmap.org/way/1510326615"
+    },
+    {
+      "type": "way",
+      "id": 1510326616,
+      "version": 1,
+      "timestamp": "2026-05-07T16:33:04Z",
+      "url": "https://www.openstreetmap.org/way/1510326616"
+    },
+    {
+      "type": "way",
+      "id": 1510326617,
+      "version": 1,
+      "timestamp": "2026-05-07T16:33:04Z",
+      "url": "https://www.openstreetmap.org/way/1510326617"
+    },
+    {
+      "type": "way",
+      "id": 1510326618,
+      "version": 1,
+      "timestamp": "2026-05-07T16:33:04Z",
+      "url": "https://www.openstreetmap.org/way/1510326618"
+    },
+    {
+      "type": "way",
+      "id": 1510326619,
+      "version": 1,
+      "timestamp": "2026-05-07T16:33:04Z",
+      "url": "https://www.openstreetmap.org/way/1510326619"
+    }
+  ],
+  "wikidata": "Q7122556",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/sea-pacific-tower.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Pacific Tower (US Marine Hospital, 1932, Bebb & Gould with John Graham; later PacMed), Beacon Hill, Seattle — original procedural geometry, CC0-1.0. bun generators/sea-pacific-tower.ts [out.glb]",
+    "Map frame: x east, y north, z up, metres; origin at the anchor (-122.31571, 47.59286, the lidar tile's centre, 1.6 m east of the OSM outline's centroid) on the lowest ground under the footprint (78.9 m NAVD88, on the north side). The hill falls 7 m from the south forecourt to the north, so the south front's walls run 7 m into the ground and its facade starts there. The building is square to the compass; bearing 0.",
+    "Form: an art-deco setback hospital in tan brick, symmetric about the entrance axis on the south front: a 16-storey central tower whose centre bay rises highest, flanked by a 12-13 storey slab, with lower wings stepping forward at both ends (their outer corners rounded, their brick banded darker). Behind, a stepped north wing with the glass bays of the later addition, and low wings and service blocks to the north and east.",
+    "Sources",
+    "OSM: outline way/4712871 (Pacific Tower) and its parts way/1510326610..1510326619 (levels 3-16). The plan follows OSM, checked against the lidar (they agree to about a metre after the anchor shift).",
+    "Lidar (measured, USGS 3DEP WA_KingCo_1_2021, above 78.9 m): tower 61 m, its upper stage 65, the centre bays 68; slab 52, its middle 55; south wings 36; north wing 35 / 40.5 / spine 48; low north wings 18-19; east blocks 9-13. South forecourt ground 7 m above the north side.",
+    "Published: completed 1932 as the US Marine Hospital, 16 storeys (Wikipedia, \"Pacific Tower (Seattle)\").",
+    "Photos (Wikimedia Commons, credits in the batch report): Joe Mabel (the south front pano; from the Buddhist Church and Mount Baker Ridge, the north and west sides), Vladimir Menkov (south-west). Estimated: the window bays' widths and storey grouping (three storeys a panel), the north wing's glass bays (simplified to one glazed face), the east service blocks' facades (plain).",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"sea-pacific-tower\", model \"sea-pacific-tower\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/sea-pacific-tower.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

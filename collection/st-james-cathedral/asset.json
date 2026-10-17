@@ -1,0 +1,281 @@
+{
+  "id": "st-james-cathedral",
+  "name": "St. James Cathedral",
+  "anchor": [
+    -122.3258402,
+    47.6076789
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 122828,
+      "sha256": "c532e9cb7334f85058fa08d9400a13ad1012cf25e66445d7ba8e14ae07e2ab46"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 122828,
+      "sha256": "c532e9cb7334f85058fa08d9400a13ad1012cf25e66445d7ba8e14ae07e2ab46"
+    }
+  },
+  "triangles": 2688,
+  "boundsBlenderM": [
+    [
+      -38.357,
+      -33.297,
+      0
+    ],
+    [
+      34.524,
+      28.95,
+      49.6
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -122.3258593,
+          47.6078521
+        ],
+        [
+          -122.3258253,
+          47.607866
+        ],
+        [
+          -122.3256245,
+          47.6079483
+        ],
+        [
+          -122.3255696,
+          47.6078874
+        ],
+        [
+          -122.3255675,
+          47.607885
+        ],
+        [
+          -122.3255272,
+          47.6078732
+        ],
+        [
+          -122.3254836,
+          47.6078426
+        ],
+        [
+          -122.3254606,
+          47.6078031
+        ],
+        [
+          -122.3254616,
+          47.6077676
+        ],
+        [
+          -122.325461,
+          47.607767
+        ],
+        [
+          -122.3253866,
+          47.6076844
+        ],
+        [
+          -122.3254675,
+          47.6076512
+        ],
+        [
+          -122.325426,
+          47.6076051
+        ],
+        [
+          -122.3255866,
+          47.6075393
+        ],
+        [
+          -122.3256376,
+          47.6075959
+        ],
+        [
+          -122.3256449,
+          47.6075929
+        ],
+        [
+          -122.3256455,
+          47.607583
+        ],
+        [
+          -122.3256636,
+          47.6075568
+        ],
+        [
+          -122.3256953,
+          47.6075373
+        ],
+        [
+          -122.3257355,
+          47.6075274
+        ],
+        [
+          -122.3257784,
+          47.6075287
+        ],
+        [
+          -122.3258172,
+          47.6075409
+        ],
+        [
+          -122.3258198,
+          47.6075429
+        ],
+        [
+          -122.3258234,
+          47.6075414
+        ],
+        [
+          -122.3258619,
+          47.6075256
+        ],
+        [
+          -122.3258851,
+          47.6075514
+        ],
+        [
+          -122.3260633,
+          47.6074777
+        ],
+        [
+          -122.3260154,
+          47.607424
+        ],
+        [
+          -122.3261074,
+          47.6073867
+        ],
+        [
+          -122.3261625,
+          47.6074485
+        ],
+        [
+          -122.3263083,
+          47.607609
+        ],
+        [
+          -122.3263603,
+          47.6076656
+        ],
+        [
+          -122.3262706,
+          47.607703
+        ],
+        [
+          -122.3262271,
+          47.6076558
+        ],
+        [
+          -122.3260565,
+          47.6077259
+        ],
+        [
+          -122.3260782,
+          47.6077501
+        ],
+        [
+          -122.3260288,
+          47.6077703
+        ],
+        [
+          -122.3260326,
+          47.6077775
+        ],
+        [
+          -122.3260308,
+          47.6078063
+        ],
+        [
+          -122.3260126,
+          47.6078325
+        ],
+        [
+          -122.325981,
+          47.607852
+        ],
+        [
+          -122.3259407,
+          47.6078619
+        ],
+        [
+          -122.3258979,
+          47.6078606
+        ],
+        [
+          -122.3258593,
+          47.6078521
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 108384951,
+    "version": 19,
+    "timestamp": "2026-06-04T10:04:25Z",
+    "url": "https://www.openstreetmap.org/way/108384951"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 1363023932,
+      "version": 1,
+      "timestamp": "2025-02-26T06:09:57Z",
+      "url": "https://www.openstreetmap.org/way/1363023932"
+    },
+    {
+      "type": "way",
+      "id": 1363023933,
+      "version": 1,
+      "timestamp": "2025-02-26T06:09:57Z",
+      "url": "https://www.openstreetmap.org/way/1363023933"
+    }
+  ],
+  "wikidata": "Q7588439",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/sea-st-james-cathedral.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "St. James Cathedral (1907, Heins & LaFarge), First Hill, Seattle — original procedural geometry, CC0-1.0. bun generators/sea-st-james-cathedral.ts [out.glb]",
+    "Map frame: x east, y north, z up, metres; origin at the anchor (the OSM outline's area centroid, -122.3258402, 47.6076789) on the lowest ground under the footprint (97.0 m NAVD88, at the west front's terrace). Built in the street grid's frame: the model's x axis runs along the nave from the west front on 9th Avenue to the apse (ENE, 58.8°), y across it (NNW); placement bearing 328.8°.",
+    "Form: an Italian Renaissance revival basilica in buff brick and white stone. Two square towers 7.8 m wide flank the west front, each face carved into three tall blind arches, topped by a white belfry stage and a small green copper dome and lantern. Between them the front's great arched lunette window sits in a white stone arch under a cornice and pediment. Behind, a gabled tile-roofed nave with low aisles, a flat-roofed crossing (the dome that stood there fell in the snow of 1916 and was never rebuilt), low rounded transept ends, a tall gabled choir and a big semicircular apse with tall arched windows. Low flat-roofed wings flank the choir.",
+    "Sources",
+    "OSM: outline way/108384951 (cathedral, 22 m) and towers way/1363023932, way/1363023933 (50.2 m). The plan is OSM's, moved 1 m across the nave (-y) to sit on the lidar, which puts the nave's ridge and both towers symmetric about y = 0.",
+    "Lidar (measured, USGS 3DEP WA_KingCo_1_2021, above 97.0 m): towers 7.8 m square, shaft cornice 37.5, belfry 42.5, dome 46.5, lantern 49.5; front parapet 19.5, pediment 22.5; nave eaves 17.5 and ridge 21.5, aisles 11.5; crossing flat at 21 (no returns over its central skylight); transept drums 18-19, 7 m radius; choir eaves 21.5, ridge 24.5; apse drum 8.5 m radius, 21 m; choir wings 8.5 m. The site is nearly level (1.5 m).",
+    "USGS NAIP orthophoto (public domain): red-brown tile roofs on the nave and choir, the pale flat crossing roof, the apse's copper rim.",
+    "Published: dedicated 1907; dome collapsed 2 Feb 1916 under snow, not rebuilt (Wikipedia, \"St. James Cathedral (Seattle)\").",
+    "Photos (Wikimedia Commons, credits in the batch report): Joe Mabel (west front pano, 9th Ave), Farragutful 2019 (north side and apse; north tower), Patches.OHoulahan (towers from the east, roofs), Visitor7 (apse, towers), Another Believer 2023 (the lunette). Estimated: the lunette's and doors' sizes (from the photos scaled to the lidar parapet), the blind arches' widths, window counts on the sides no photo shows square-on (south), the wings' facades (drawn plain).",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"sea-st-james-cathedral\", model \"sea-st-james-cathedral\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/sea-st-james-cathedral.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

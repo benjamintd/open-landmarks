@@ -1,0 +1,253 @@
+{
+  "id": "museum-of-glass",
+  "name": "Museum of Glass",
+  "anchor": [
+    -122.4340127,
+    47.2459117
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 24888,
+      "sha256": "e8c3f9bfcf4fe6d0b2ba98695b262740f3f047ef3de1d92715e750835eddaee5"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 24888,
+      "sha256": "e8c3f9bfcf4fe6d0b2ba98695b262740f3f047ef3de1d92715e750835eddaee5"
+    }
+  },
+  "triangles": 519,
+  "boundsBlenderM": [
+    [
+      -29.762,
+      -57.385,
+      0
+    ],
+    [
+      28.608,
+      59.037,
+      30.185
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -122.4343268,
+          47.2463952
+        ],
+        [
+          -122.4338679,
+          47.2464424
+        ],
+        [
+          -122.4337918,
+          47.2460861
+        ],
+        [
+          -122.4336335,
+          47.2460238
+        ],
+        [
+          -122.4337446,
+          47.2458856
+        ],
+        [
+          -122.4337058,
+          47.2457119
+        ],
+        [
+          -122.433663,
+          47.2456937
+        ],
+        [
+          -122.4336934,
+          47.2456547
+        ],
+        [
+          -122.4336605,
+          47.2455319
+        ],
+        [
+          -122.4337958,
+          47.245515
+        ],
+        [
+          -122.4338179,
+          47.24546
+        ],
+        [
+          -122.4338449,
+          47.2454353
+        ],
+        [
+          -122.4339282,
+          47.2453866
+        ],
+        [
+          -122.4339837,
+          47.2453708
+        ],
+        [
+          -122.43402,
+          47.2453666
+        ],
+        [
+          -122.4340627,
+          47.2453702
+        ],
+        [
+          -122.4341003,
+          47.2453816
+        ],
+        [
+          -122.4340946,
+          47.245405
+        ],
+        [
+          -122.4341117,
+          47.2454107
+        ],
+        [
+          -122.4341298,
+          47.2454167
+        ],
+        [
+          -122.4341652,
+          47.2454027
+        ],
+        [
+          -122.4341889,
+          47.2454212
+        ],
+        [
+          -122.4342204,
+          47.2454488
+        ],
+        [
+          -122.4342366,
+          47.245479
+        ],
+        [
+          -122.4342457,
+          47.2455323
+        ],
+        [
+          -122.4342041,
+          47.2455776
+        ],
+        [
+          -122.4342228,
+          47.2456614
+        ],
+        [
+          -122.4342259,
+          47.2456752
+        ],
+        [
+          -122.434229,
+          47.245689
+        ],
+        [
+          -122.434235,
+          47.2457155
+        ],
+        [
+          -122.4342388,
+          47.2457319
+        ],
+        [
+          -122.4342465,
+          47.2457309
+        ],
+        [
+          -122.4342912,
+          47.245725
+        ],
+        [
+          -122.4342988,
+          47.2457582
+        ],
+        [
+          -122.4343045,
+          47.2457828
+        ],
+        [
+          -122.4342622,
+          47.2457869
+        ],
+        [
+          -122.4342515,
+          47.2457879
+        ],
+        [
+          -122.434268,
+          47.2458602
+        ],
+        [
+          -122.4343528,
+          47.2462293
+        ],
+        [
+          -122.434292,
+          47.2462359
+        ],
+        [
+          -122.4343268,
+          47.2463952
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 30679724,
+    "version": 8,
+    "timestamp": "2023-03-16T21:26:59Z",
+    "url": "https://www.openstreetmap.org/way/30679724"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q2894440",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/sea-museum-of-glass.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Museum of Glass (2002, Arthur Erickson), Thea Foss Waterway, Tacoma: procedural, CC0-1.0. bun generators/sea-museum-of-glass.ts [out.glb]",
+    "Map frame: x east, y north, z up, metres; built in the street grid's frame (bearing 351°, the OSM walls run 351.1-351.5°). The origin is the area centroid of OSM way/30679724 (-122.4340127, 47.2459117); y = 0 is the lowest ground the outline touches (3.7 m NAVD88). Dock Street and the plaza the cone stands on are 3 m higher; the west side, along the freeway, is about 2 m up.",
+    "Form: the hot shop's cone, a right circular cone of stainless steel shingles 30 m across at the base whose axis leans 17° (here towards the north-east, as the lidar shows), cut off square to its axis near the top, where a dark ventilation band rings the opening. North of it, the low museum: a concrete block whose roof is a public plaza (the east half lower than the west), a translucent glass box beside the cone, a second raised box at the north end, and a long ramp running down from the plaza past the cone's east side to Dock Street.",
+    "Sources",
+    "OSM: way/30679724 (outline, 2 levels, Q2894440). way/24656705 is the museum's site (tourism=museum), not a building. The cone's base is the rounded south end of the outline (centre (-8, -43), radius ~16).",
+    "Lidar (measured, USGS 3DEP WA_PierceCounty_1_2020, 1 m surface model; the steel returns are sparse): cone foot x -22..6, y -56..-27 (base square to the axis: centre (-7, -40), radius 14), on the plaza at 3.0; its tip 29.6 above y = 0 (26.6 above the plaza) at (-1.5, -34.5), so the axis leans 7.8 m towards the north-east over its height, 16.5°; the steep side faces north-east, the long slope south-west. Museum roofs: east half 10.0, west half 12.1, glass box 17.1 (x -21..-10, y -24..-4), north box 16.1 (x -15..-3, y 33..56); the ramp falling from 9.8 at y -30 to 3.5 at y -55 along x 8..20; a low terrace on the north-east at 6.6 (3.5 m over Dock Street).",
+    "Published: the cone is 90 ft (27 m) tall, 100 ft (30 m) across at the base, tilted 17°, clad in 2,800 diamond-shaped stainless panels; 75,000 sq ft; opened 6 July 2002 (Wikipedia, \"Museum of Glass\"; museumofglass.org).",
+    "Photos (Wikimedia Commons; credits in /tmp/city/sea/work/sea-museum-of-glass/credits.txt): Chris Light (from the west across the freeway, two), Loco Steve (from the west), Visitor7 (the cone and its door; the glass box), Joe Mabel (from UW Tacoma, from the south-west), ZhengZhou (the cone from below at sunset), Deathgleaner (the roof plaza and its ramp), Corsario CL (the cone from the plaza). From photos: the dark band under the cone's rim (about 2.4 m), the silver steel, the translucent green-white glass box, the dark glazing along the west front, the pale concrete plaza and walls. Estimated: the half-angle of the cone (25°, from the base radius and the top opening, about 4 m across, in the photos), the glazing's extent, the ramp's walls. Left out: the diamond shingle joints (too fine; they would read as a grid), the cone's door, the Bridge of Glass and its canopy (not this building), the outdoor steps down to Dock Street (landscape, on grade), railings and lamps.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"sea-museum-of-glass\", model \"sea-museum-of-glass\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/sea-museum-of-glass.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

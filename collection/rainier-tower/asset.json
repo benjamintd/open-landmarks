@@ -1,0 +1,124 @@
+{
+  "id": "rainier-tower",
+  "name": "Rainier Tower",
+  "anchor": [
+    -122.3343526,
+    47.6088171
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 13,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 24944,
+      "sha256": "b19613272134d9164aec773a7d7edb545060c384b2d69e645c4c0f3d3908f492"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 24944,
+      "sha256": "b19613272134d9164aec773a7d7edb545060c384b2d69e645c4c0f3d3908f492"
+    }
+  },
+  "triangles": 388,
+  "boundsBlenderM": [
+    [
+      -29.424,
+      -27.47,
+      0
+    ],
+    [
+      27.222,
+      29.176,
+      160.7
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -122.3344388,
+          47.6085408
+        ],
+        [
+          -122.3339487,
+          47.6087425
+        ],
+        [
+          -122.3342664,
+          47.6090934
+        ],
+        [
+          -122.3347565,
+          47.6088918
+        ],
+        [
+          -122.3344388,
+          47.6085408
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 35824879,
+    "version": 16,
+    "timestamp": "2024-03-29T02:19:27Z",
+    "url": "https://www.openstreetmap.org/way/35824879"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 686348090,
+      "version": 1,
+      "timestamp": "2019-04-27T21:01:55Z",
+      "url": "https://www.openstreetmap.org/way/686348090"
+    },
+    {
+      "type": "way",
+      "id": 686348091,
+      "version": 1,
+      "timestamp": "2019-04-27T21:01:56Z",
+      "url": "https://www.openstreetmap.org/way/686348091"
+    }
+  ],
+  "wikidata": "Q7284914",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/sea-rainier-tower.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Rainier Tower (1977, Minoru Yamasaki with NBBJ), Seattle — original procedural geometry, CC0-1.0. bun generators/sea-rainier-tower.ts [out.glb]",
+    "Map frame: x east, y north, z up, metres; origin at the anchor (the OSM outline's area centroid, -122.3343526, 47.6088171) on the lowest ground under the footprint (46.6 m NAVD88; the plaza rises about 3 m across it). Built in the street grid's frame, like Rainier Square Tower next door: the model's y axis runs up 5th Avenue (NNW), so the placement bearing is 328.8°.",
+    "Form: a 42 m square office shaft of pale aluminium cut by narrow dark window slots, with a plain band at the roof and at its foot, standing on a square concrete pedestal half its width. The pedestal's four faces are concave: plumb near the ground, sweeping out ever faster to meet the shaft's underside almost horizontally (Yamasaki's \"golf tee\").",
+    "Sources",
+    "OSM: outline way/35824879; parts way/686348090 (shaft, 41 floors) and way/686348091 (pedestal, 11 floors, 21.4 m square, 37 m).",
+    "Lidar (measured, USGS 3DEP WA_KingCo_1_2021): shaft 43-44 m square in the 1 m surface model (so 42 m, allowing a cell each side), centred on OSM's shaft; roof 160.7 m above the lowest ground, with sunken roof wells at 150 m (not modelled) and small plant to 163 m.",
+    "Published: 156 m (514 ft) roof, 41 storeys, the 11-storey (121 ft) pedestal (Wikipedia, \"Rainier Tower\"). The measured roof is used.",
+    "Photos (Wikimedia Commons): Cumulus Clouds 2008 and Joe Mabel 2010 (from 1201 Third Avenue, high, from the west and south-west), Rsocol 2008 (from the north-west, high): the pedestal's curve, the slot rhythm, the bands. Estimated: the pedestal's profile (a quarter-ellipse over its upper two thirds, read from the photos; the shaft hides it from the lidar); its top at 38 m (37 m published, from the plaza); slots drawn as 8 broad panels a face, grouped about seven storeys high (the real shaft has about 24 slots).",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"sea-rainier-tower\", model \"sea-rainier-tower\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/sea-rainier-tower.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

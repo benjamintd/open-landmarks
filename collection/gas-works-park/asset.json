@@ -1,0 +1,379 @@
+{
+  "id": "gas-works-park",
+  "name": "Gas Works Park",
+  "anchor": [
+    -122.3348334,
+    47.6451277
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 103836,
+      "sha256": "686361a459686b0309a36b9d38a2aab6560d8647fd98f703396f0683e94bc1cc"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 103836,
+      "sha256": "686361a459686b0309a36b9d38a2aab6560d8647fd98f703396f0683e94bc1cc"
+    }
+  },
+  "triangles": 2938,
+  "boundsBlenderM": [
+    [
+      -31.132,
+      -36.7,
+      0
+    ],
+    [
+      136.6,
+      113.4,
+      30
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -122.3347604,
+          47.645185
+        ],
+        [
+          -122.3347428,
+          47.6451877
+        ],
+        [
+          -122.334728,
+          47.6451946
+        ],
+        [
+          -122.3347183,
+          47.6452049
+        ],
+        [
+          -122.3347152,
+          47.6452169
+        ],
+        [
+          -122.3347191,
+          47.6452287
+        ],
+        [
+          -122.3347294,
+          47.6452387
+        ],
+        [
+          -122.3347447,
+          47.6452453
+        ],
+        [
+          -122.3347624,
+          47.6452474
+        ],
+        [
+          -122.3347801,
+          47.6452447
+        ],
+        [
+          -122.3347949,
+          47.6452378
+        ],
+        [
+          -122.3348046,
+          47.6452275
+        ],
+        [
+          -122.3348077,
+          47.6452155
+        ],
+        [
+          -122.3348038,
+          47.6452036
+        ],
+        [
+          -122.3347934,
+          47.6451937
+        ],
+        [
+          -122.3347782,
+          47.6451871
+        ],
+        [
+          -122.3347604,
+          47.645185
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 191328724,
+    "version": 4,
+    "timestamp": "2016-10-27T03:45:16Z",
+    "url": "https://www.openstreetmap.org/way/191328724"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 191328729,
+      "version": 4,
+      "timestamp": "2016-10-27T03:45:16Z",
+      "url": "https://www.openstreetmap.org/way/191328729"
+    },
+    {
+      "type": "way",
+      "id": 191328731,
+      "version": 4,
+      "timestamp": "2016-10-27T03:45:16Z",
+      "url": "https://www.openstreetmap.org/way/191328731"
+    },
+    {
+      "type": "way",
+      "id": 191328732,
+      "version": 4,
+      "timestamp": "2016-10-27T03:45:16Z",
+      "url": "https://www.openstreetmap.org/way/191328732"
+    },
+    {
+      "type": "way",
+      "id": 191328734,
+      "version": 4,
+      "timestamp": "2016-10-27T03:45:16Z",
+      "url": "https://www.openstreetmap.org/way/191328734"
+    },
+    {
+      "type": "way",
+      "id": 191328736,
+      "version": 4,
+      "timestamp": "2016-10-27T03:45:16Z",
+      "url": "https://www.openstreetmap.org/way/191328736"
+    },
+    {
+      "type": "way",
+      "id": 986412515,
+      "version": 1,
+      "timestamp": "2021-09-23T18:21:04Z",
+      "url": "https://www.openstreetmap.org/way/986412515"
+    },
+    {
+      "type": "way",
+      "id": 449626306,
+      "version": 1,
+      "timestamp": "2016-10-27T03:45:14Z",
+      "url": "https://www.openstreetmap.org/way/449626306"
+    },
+    {
+      "type": "way",
+      "id": 449626307,
+      "version": 1,
+      "timestamp": "2016-10-27T03:45:14Z",
+      "url": "https://www.openstreetmap.org/way/449626307"
+    },
+    {
+      "type": "way",
+      "id": 449626308,
+      "version": 1,
+      "timestamp": "2016-10-27T03:45:14Z",
+      "url": "https://www.openstreetmap.org/way/449626308"
+    },
+    {
+      "type": "way",
+      "id": 449626309,
+      "version": 1,
+      "timestamp": "2016-10-27T03:45:14Z",
+      "url": "https://www.openstreetmap.org/way/449626309"
+    },
+    {
+      "type": "way",
+      "id": 449626310,
+      "version": 1,
+      "timestamp": "2016-10-27T03:45:15Z",
+      "url": "https://www.openstreetmap.org/way/449626310"
+    },
+    {
+      "type": "way",
+      "id": 449626311,
+      "version": 1,
+      "timestamp": "2016-10-27T03:45:15Z",
+      "url": "https://www.openstreetmap.org/way/449626311"
+    },
+    {
+      "type": "way",
+      "id": 449626312,
+      "version": 1,
+      "timestamp": "2016-10-27T03:45:15Z",
+      "url": "https://www.openstreetmap.org/way/449626312"
+    },
+    {
+      "type": "way",
+      "id": 449626313,
+      "version": 1,
+      "timestamp": "2016-10-27T03:45:15Z",
+      "url": "https://www.openstreetmap.org/way/449626313"
+    },
+    {
+      "type": "way",
+      "id": 449626314,
+      "version": 1,
+      "timestamp": "2016-10-27T03:45:15Z",
+      "url": "https://www.openstreetmap.org/way/449626314"
+    },
+    {
+      "type": "way",
+      "id": 449626315,
+      "version": 1,
+      "timestamp": "2016-10-27T03:45:15Z",
+      "url": "https://www.openstreetmap.org/way/449626315"
+    },
+    {
+      "type": "way",
+      "id": 406480498,
+      "version": 1,
+      "timestamp": "2016-03-29T18:51:37Z",
+      "url": "https://www.openstreetmap.org/way/406480498"
+    },
+    {
+      "type": "way",
+      "id": 406480499,
+      "version": 1,
+      "timestamp": "2016-03-29T18:51:37Z",
+      "url": "https://www.openstreetmap.org/way/406480499"
+    },
+    {
+      "type": "way",
+      "id": 406480500,
+      "version": 1,
+      "timestamp": "2016-03-29T18:51:37Z",
+      "url": "https://www.openstreetmap.org/way/406480500"
+    },
+    {
+      "type": "way",
+      "id": 406480501,
+      "version": 1,
+      "timestamp": "2016-03-29T18:51:37Z",
+      "url": "https://www.openstreetmap.org/way/406480501"
+    },
+    {
+      "type": "way",
+      "id": 406480502,
+      "version": 1,
+      "timestamp": "2016-03-29T18:51:37Z",
+      "url": "https://www.openstreetmap.org/way/406480502"
+    },
+    {
+      "type": "way",
+      "id": 52137309,
+      "version": 8,
+      "timestamp": "2024-06-29T01:48:11Z",
+      "url": "https://www.openstreetmap.org/way/52137309"
+    },
+    {
+      "type": "way",
+      "id": 52137316,
+      "version": 4,
+      "timestamp": "2021-09-23T18:21:04Z",
+      "url": "https://www.openstreetmap.org/way/52137316"
+    },
+    {
+      "type": "way",
+      "id": 191328710,
+      "version": 2,
+      "timestamp": "2016-01-25T20:32:09Z",
+      "url": "https://www.openstreetmap.org/way/191328710"
+    },
+    {
+      "type": "way",
+      "id": 191328713,
+      "version": 3,
+      "timestamp": "2025-07-28T14:34:23Z",
+      "url": "https://www.openstreetmap.org/way/191328713"
+    },
+    {
+      "type": "way",
+      "id": 191328715,
+      "version": 2,
+      "timestamp": "2016-01-25T20:32:09Z",
+      "url": "https://www.openstreetmap.org/way/191328715"
+    },
+    {
+      "type": "way",
+      "id": 191328723,
+      "version": 2,
+      "timestamp": "2016-01-25T20:32:09Z",
+      "url": "https://www.openstreetmap.org/way/191328723"
+    },
+    {
+      "type": "way",
+      "id": 191328727,
+      "version": 4,
+      "timestamp": "2025-07-28T14:34:23Z",
+      "url": "https://www.openstreetmap.org/way/191328727"
+    },
+    {
+      "type": "way",
+      "id": 1418097788,
+      "version": 1,
+      "timestamp": "2025-07-28T14:34:23Z",
+      "url": "https://www.openstreetmap.org/way/1418097788"
+    },
+    {
+      "type": "way",
+      "id": 406480504,
+      "version": 1,
+      "timestamp": "2016-03-29T18:51:37Z",
+      "url": "https://www.openstreetmap.org/way/406480504"
+    },
+    {
+      "type": "way",
+      "id": 406480505,
+      "version": 1,
+      "timestamp": "2016-03-29T18:51:37Z",
+      "url": "https://www.openstreetmap.org/way/406480505"
+    },
+    {
+      "type": "way",
+      "id": 406480506,
+      "version": 1,
+      "timestamp": "2016-03-29T18:51:37Z",
+      "url": "https://www.openstreetmap.org/way/406480506"
+    }
+  ],
+  "wikidata": "Q5526323",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/sea-gas-works.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Gas Works Park: the Seattle Gas Light Company's gasification plant (1906-1956), kept as ruins when the park was made (Richard Haag, 1975): procedural, CC0-1.0. bun generators/sea-gas-works.ts",
+    "Map frame: x east, y north, z up, metres; bearing 0. The origin is the middle of the generator towers' cluster. y = 0 is the lowest ground under the model, by the Play Barn (7.8 m NAVD88); the towers stand on ground 2.7 m higher, so their bases run down into it.",
+    "Form: two groups of rusted generator towers in a north-south line. The north group is four squat domed generators in a row on a deck, with slim scrubber cylinders beside them and a tall tower standing in front (west); the south group is two taller domed towers in a steel frame with their stacks. Overhead pipes at 4-9 m tie them together and run west and south. East of them stand a tall column and smaller vessels joined by a sloping pipe, and beyond those the two long gabled sheds of the old exhauster and boiler houses (now the Play Barn and picnic shelter).",
+    "Measured (USGS 3DEP WA_KingCo_1_2021, 0.5 m surface model): every vessel's position, diameter and top (generators: shells to 10.6 m above their ground, domes to 14.2 m and their hatches to 15.3 m; the south towers' domes to 20.5-22 m, their frame to 17 m, the stacks to 22, 22.7 and 27.3 m; the tall west tower 22.2 m; the east column 25 m); the pipes' runs and heights; the sheds' eaves and ridges (south shed ridge 12.6 m, north shed 10.2 m with its 14 m west end). OSM: the vessels' footprints (ways 191328724-736, 449626306-315), the pipelines (191328710-727, 1418097788, 406480504-506), the sheds (52137309, 52137316); OSM sits about 2 m west of the lidar at the pipes, so the lidar positions are used. Published: plant built 1906, closed 1956; NRHP 2013 (Wikipedia, \"Gas Works Park\"). From photos: the dark weathered rust (#6b4a3e) and darker iron (#594640) colours, kept above charcoal, the domes, the frames round the south towers, the decks between the generators, the pipe runs. Estimated: frame and deck layout (bold simplified), pipe diameters (1.4-1.5 m, a little over the real ones so they read), the sheds' walls and openings (from one aerial only). A thin stack north-west of the generators in older photos does not show in the 2021 lidar and is left out. Left out: ladders, railings, catwalk grating, valves, graffiti, the fence, Kite Hill and the ground (the map's).",
+    "Photos: /tmp/city/sea/work/sea-gas-works/credits.txt.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"sea-gas-works\", model \"sea-gas-works\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/sea-gas-works.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

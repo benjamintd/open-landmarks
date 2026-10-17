@@ -1,0 +1,418 @@
+{
+  "id": "space-needle",
+  "name": "Space Needle",
+  "anchor": [
+    -122.349286,
+    47.620504
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 13,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 213848,
+      "sha256": "1d19fa3fdfd46de78c3a0aca1bd2886c1ef6e7a4fe93a8df972b588979f57cad"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 213848,
+      "sha256": "1d19fa3fdfd46de78c3a0aca1bd2886c1ef6e7a4fe93a8df972b588979f57cad"
+    }
+  },
+  "triangles": 5786,
+  "boundsBlenderM": [
+    [
+      -21,
+      -21,
+      0
+    ],
+    [
+      21,
+      21,
+      184.6
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -122.3493136,
+          47.6203364
+        ],
+        [
+          -122.3492649,
+          47.6203383
+        ],
+        [
+          -122.3492176,
+          47.6203465
+        ],
+        [
+          -122.3491735,
+          47.6203607
+        ],
+        [
+          -122.3491343,
+          47.6203803
+        ],
+        [
+          -122.3491015,
+          47.6204047
+        ],
+        [
+          -122.3490762,
+          47.6204329
+        ],
+        [
+          -122.3490595,
+          47.6204638
+        ],
+        [
+          -122.3490519,
+          47.6204963
+        ],
+        [
+          -122.3490538,
+          47.6205292
+        ],
+        [
+          -122.349065,
+          47.6205612
+        ],
+        [
+          -122.3490852,
+          47.6205912
+        ],
+        [
+          -122.3491135,
+          47.620618
+        ],
+        [
+          -122.349149,
+          47.6206406
+        ],
+        [
+          -122.3491903,
+          47.6206582
+        ],
+        [
+          -122.3492358,
+          47.62067
+        ],
+        [
+          -122.3492882,
+          47.620676
+        ],
+        [
+          -122.3493412,
+          47.6206744
+        ],
+        [
+          -122.3493926,
+          47.6206654
+        ],
+        [
+          -122.3494401,
+          47.6206493
+        ],
+        [
+          -122.3494815,
+          47.6206269
+        ],
+        [
+          -122.349515,
+          47.6205992
+        ],
+        [
+          -122.3495391,
+          47.6205673
+        ],
+        [
+          -122.3495529,
+          47.6205327
+        ],
+        [
+          -122.3495555,
+          47.620497
+        ],
+        [
+          -122.349547,
+          47.6204616
+        ],
+        [
+          -122.3495278,
+          47.6204283
+        ],
+        [
+          -122.3494986,
+          47.6203984
+        ],
+        [
+          -122.3494607,
+          47.6203733
+        ],
+        [
+          -122.3494159,
+          47.6203541
+        ],
+        [
+          -122.3493661,
+          47.6203416
+        ],
+        [
+          -122.3493136,
+          47.6203364
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 12903132,
+    "version": 44,
+    "timestamp": "2026-06-07T04:00:06Z",
+    "url": "https://www.openstreetmap.org/way/12903132"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 394254329,
+      "version": 2,
+      "timestamp": "2016-01-29T01:40:29Z",
+      "url": "https://www.openstreetmap.org/way/394254329"
+    },
+    {
+      "type": "way",
+      "id": 394254331,
+      "version": 2,
+      "timestamp": "2016-01-29T01:40:29Z",
+      "url": "https://www.openstreetmap.org/way/394254331"
+    },
+    {
+      "type": "way",
+      "id": 394254332,
+      "version": 2,
+      "timestamp": "2016-01-29T01:40:29Z",
+      "url": "https://www.openstreetmap.org/way/394254332"
+    },
+    {
+      "type": "way",
+      "id": 394254333,
+      "version": 2,
+      "timestamp": "2016-01-29T01:40:29Z",
+      "url": "https://www.openstreetmap.org/way/394254333"
+    },
+    {
+      "type": "way",
+      "id": 394254334,
+      "version": 2,
+      "timestamp": "2016-01-29T01:40:30Z",
+      "url": "https://www.openstreetmap.org/way/394254334"
+    },
+    {
+      "type": "way",
+      "id": 394254335,
+      "version": 2,
+      "timestamp": "2016-01-29T01:40:30Z",
+      "url": "https://www.openstreetmap.org/way/394254335"
+    },
+    {
+      "type": "way",
+      "id": 394254336,
+      "version": 2,
+      "timestamp": "2016-01-29T01:40:30Z",
+      "url": "https://www.openstreetmap.org/way/394254336"
+    },
+    {
+      "type": "way",
+      "id": 394254337,
+      "version": 2,
+      "timestamp": "2016-01-29T01:40:30Z",
+      "url": "https://www.openstreetmap.org/way/394254337"
+    },
+    {
+      "type": "way",
+      "id": 394254484,
+      "version": 2,
+      "timestamp": "2016-01-29T01:40:30Z",
+      "url": "https://www.openstreetmap.org/way/394254484"
+    },
+    {
+      "type": "way",
+      "id": 394254485,
+      "version": 2,
+      "timestamp": "2016-01-29T01:40:31Z",
+      "url": "https://www.openstreetmap.org/way/394254485"
+    },
+    {
+      "type": "way",
+      "id": 394254486,
+      "version": 2,
+      "timestamp": "2016-01-29T01:40:31Z",
+      "url": "https://www.openstreetmap.org/way/394254486"
+    },
+    {
+      "type": "way",
+      "id": 394254487,
+      "version": 2,
+      "timestamp": "2016-01-29T01:40:31Z",
+      "url": "https://www.openstreetmap.org/way/394254487"
+    },
+    {
+      "type": "way",
+      "id": 394254488,
+      "version": 2,
+      "timestamp": "2016-01-29T01:40:31Z",
+      "url": "https://www.openstreetmap.org/way/394254488"
+    },
+    {
+      "type": "way",
+      "id": 394956342,
+      "version": 1,
+      "timestamp": "2016-01-30T19:25:46Z",
+      "url": "https://www.openstreetmap.org/way/394956342"
+    },
+    {
+      "type": "way",
+      "id": 394956343,
+      "version": 1,
+      "timestamp": "2016-01-30T19:25:46Z",
+      "url": "https://www.openstreetmap.org/way/394956343"
+    },
+    {
+      "type": "way",
+      "id": 394956344,
+      "version": 1,
+      "timestamp": "2016-01-30T19:25:46Z",
+      "url": "https://www.openstreetmap.org/way/394956344"
+    }
+  ],
+  "wikidata": "Q5317",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Space Needle - Oct, 2023.jpg",
+      "author": "Davidralphhughes",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Space_Needle_-_Oct,_2023.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Space Needle on January 12, 2019.jpg",
+      "author": "Ron Clausen",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Space_Needle_on_January_12,_2019.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Space Needle 2025.jpg",
+      "author": "Antony-22",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Space_Needle_2025.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Space Needle, Seattle, Washington, 2024.jpg",
+      "author": "Another Believer",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Space_Needle,_Seattle,_Washington,_2024.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Sunny Day for Space Needle Standing.jpg",
+      "author": "Rozulafi",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Sunny_Day_for_Space_Needle_Standing.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Space Needle-2021.jpg",
+      "author": "Sandgrounder1974",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Space_Needle-2021.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Space Needle (4-27-24) 3086.jpg",
+      "author": "Chris Light",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Space_Needle_(4-27-24)_3086.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Aerial Space Needle and EMP - November 2011.JPG",
+      "author": "Jelson25",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Aerial_Space_Needle_and_EMP_-_November_2011.JPG",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/sea-space-needle.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Space Needle, Seattle Center: procedural, CC0-1.0. bun generators/sea-space-needle.ts",
+    "Map frame: x east, y north, z up, metres; bearing 0, built in true orientation. The origin is the axis of the top house, found from the 2021 King County lidar (USGS 3DEP WA_KingCo_1_2021) as the centre of the saucer's returns; OSM's parts sit about 1.8 m west of it, an imagery offset, so their shapes are used centred on the lidar axis. y = 0 is the lowest lidar ground return under the saucer (41.4 m NAVD88).",
+    "Built in 1962 (John Graham & Co., Victor Steinbrueck); the top house as renovated in 2018 (outward-leaning glass barrier on the open deck, glass Loupe level). Three pairs of legs pinch in to an hourglass waist and flare out under the saucer round a dark central core.",
+    "Published (Wikipedia; ASCE Civil Engineering, July 2024):",
+    "605 ft (184.4 m) to the spire tip; 138 ft (42 m) wide.",
+    "legs on a 102 ft (31 m) circle at the base, waist at about 373 ft (113.7 m), a 50 ft spire.",
+    "SkyLine level at 100 ft (30 m); tie level at 200 ft (61 m).",
+    "paint: \"Astronaut White\" legs and top house; the roof's \"Galaxy Gold\" was a 1962/2012 anniversary scheme. 2023-25 photos show the roof white, so it is white here.",
+    "Measured (lidar, heights above y = 0). The 0.5 m surface model gives the top house; the raw returns, which the scanner's slant carries in under the saucer, give the legs, the core and the lower levels:",
+    "spire tip 184.8 m (the model uses 184.6, between this and the published 184.4);",
+    "halo rim 157.4 m; its returns reach r 21.5, which half a 0.5 m cell inflates, so the published 42 m (r 21.0) is used;",
+    "roof: eave 161.2 m at r 16, a straight shallow cone to 163.9 m at r 8; the spool's flange top 168.2 m at r 7; the dark machine band to 170 m at r 5.5; the cap 171.9 m;",
+    "legs at bearings 60, 180 and 300 (as OSM has them). Their outer faces run straight from r 14.1 at 20 m to r 6.7 at 85 m, ease into the waist (r 5.0 from about 95 to 115 m), and are hidden by the saucer above. Each pair spans 6 m along the tangent below 75 m, narrowing to 4.4 m where the two columns merge at about 90 m;",
+    "the SkyLine level's plan (wings to r 15, corners to r 16.5) and the 200 ft level, a triangle with its corners just outside the legs;",
+    "the core: returns out to r 3.5-4.5, which includes the elevator rails.",
+    "From photos (heights scaled between the lidar levels; radii from the halo's 42 m):",
+    "restaurant (Loupe) glass r 15.8, 152.3-155.3 m; observation deck floor 157.6 m, indoor glass wall r 15.6, glass barrier r 18.2-18.8 up to 160.9 m; the spool, a bowl under a flange, waist r 5.2 at 165.7 m.",
+    "the underside dish from the leg ring (r 9.6, 149.6 m) to its rim (r 17.2, 152.3 m), with about 36 white radial fins.",
+    "the legs: ladders of two columns with rungs below the merge, one flat column through the waist, a Y opening from about 123 m to the ring (photos from the south-east, 2023 and 2025, and from Elliott Bay, 2019, overlaid on renders from the same bearings).",
+    "OSM: way/12903132 (outline, circle 38 m), building:parts for the levels: SkyLine (30.5-36.6 m: a clipped triangle plus three 16.4 x 7.8 m wings), the 200 ft level (61-64 m), the 6.5 m core, the 19 m glass base (6.1 m), the legs. All within the outline, so all are replaced.",
+    "Estimated: the legs' depth (1.5 m, 2 m through the waist) and the Y's spread at the ring, rung spacing, the SkyLine underside's depth, fin count and depth, the halo's thickness, the core drawn 5.8 m across (photos read it narrower than lidar's rails). Left out: elevator cars, railings, the stair, the lattice of the core (drawn solid and dark), the Pavilion ring outside the outline.",
+    "Photos (Wikimedia Commons):",
+    "\"Space Needle - Oct, 2023.jpg\", Davidralphhughes, CC BY-SA 4.0 (south-east, telephoto)",
+    "\"Space Needle on January 12, 2019.jpg\", Ron Clausen, CC BY-SA 4.0 (Elliott Bay)",
+    "\"Space Needle 2025.jpg\", Antony-22, CC BY-SA 4.0 (base, SkyLine)",
+    "\"Space Needle, Seattle, Washington, 2024.jpg\", Another Believer, CC BY-SA 4.0",
+    "\"Sunny Day for Space Needle Standing.jpg\", Rozulafi, CC BY-SA 4.0",
+    "\"Space Needle-2021.jpg\", Sandgrounder1974, CC BY-SA 4.0 (underside, legs)",
+    "\"Space Needle (4-27-24) 3086.jpg\", Chris Light, CC BY-SA 4.0",
+    "\"Aerial Space Needle and EMP - November 2011.JPG\", Jelson25, CC BY-SA 3.0",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"sea-space-needle\", model \"sea-space-needle\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/sea-space-needle.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 1707 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the sea-space-needle-glazing finish in the window colour."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

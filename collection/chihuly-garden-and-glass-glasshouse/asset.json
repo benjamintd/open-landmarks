@@ -1,0 +1,127 @@
+{
+  "id": "chihuly-garden-and-glass-glasshouse",
+  "name": "Chihuly Garden and Glass Glasshouse",
+  "anchor": [
+    -122.3500188,
+    47.6206252
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 32796,
+      "sha256": "00cf9f0502ef7bd782753081c3c1ab5f382f2747c031046d76d5b11882937c82"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 32796,
+      "sha256": "00cf9f0502ef7bd782753081c3c1ab5f382f2747c031046d76d5b11882937c82"
+    }
+  },
+  "triangles": 808,
+  "boundsBlenderM": [
+    [
+      -12.127,
+      -17.296,
+      0
+    ],
+    [
+      12.127,
+      17.296,
+      13.283
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -122.3501751,
+          47.6207396
+        ],
+        [
+          -122.3500819,
+          47.6205458
+        ],
+        [
+          -122.3500458,
+          47.6204707
+        ],
+        [
+          -122.3498626,
+          47.6205107
+        ],
+        [
+          -122.3499919,
+          47.6207797
+        ],
+        [
+          -122.3501751,
+          47.6207396
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 329416207,
+    "version": 4,
+    "timestamp": "2017-05-05T00:53:36Z",
+    "url": "https://www.openstreetmap.org/way/329416207"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q5097315",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Chihuly Garden and Glass 2014 09.JPG",
+      "author": "Jllm06",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Chihuly_Garden_and_Glass_2014_09.JPG",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Chihuly Garden and Glass Seattle Washington19.jpg",
+      "author": "Burley Packwood",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Chihuly_Garden_and_Glass_Seattle_Washington19.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/sea-chihuly-glasshouse.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Chihuly Garden and Glass: the Glasshouse, Seattle Center: procedural, CC0-1.0. bun generators/sea-chihuly-glasshouse.ts",
+    "Map frame: x east, y north, z up, metres; placed at bearing 0, the hall itself turned to 342 degrees (OSM way/329416207's long sides) in the geometry. The origin is that outline's centroid. y = 0 is the garden ground round it, 42.4 m NAVD88 (flat to 0.2 m).",
+    "Owen Richards Architects with Dale Chihuly, 2012: a glass-and-steel conservatory after Sainte-Chapelle and the Crystal Palace, 40 ft tall, 4,500 sq ft (Chihuly Garden and Glass; the plaque in the Glasshouse). Its section is a lopsided pointed arch, carried the length of the hall: the west side rises almost sheer and turns over near the middle, the east side sweeps down in a long curve; white steel frames on the glass.",
+    "OSM: way/329416207 (Glasshouse, height 10, roof:shape gambrel): 14.4 m by 31.3 m. The model replaces it. Measured (USGS 3DEP WA_KingCo_1_2021 lidar, 0.5 m): the crown returns 11.6-13.6 m above y = 0 along the whole length, centred 1-1.5 m west of the hall's middle; the glass flanks return almost nothing. The model's apex is 13.0 m, between the lidar and the published 40 ft (12.2 m), and 2.6 m west of the middle: the south-end photo puts it about a quarter of the way across, the lidar's crown band nearer the middle. From photos: the section (the south end, from the garden, with the Sun sculpture before it), the white end frames, the hall's arched ribs. Estimated: the two arcs (each struck from a centre on the ground line, so both meet the ground upright), the ribs' spacing and size. Left out: the suspended glass sculpture inside, the doors and the link to the Galleries building (way/329416198, not modelled).",
+    "Photos: \"Glasshouse\" (DoNotLick, Flickr, CC BY 2.0, three interior views of the ribs); \"'The Sun' and the Glasshouse\" (sfoskett, Flickr, CC BY-NC-SA 2.0, the south end: look-only, shape described not copied); \"Chihuly Garden and Glass 2014 09.JPG\" (Jllm06, CC BY-SA 4.0, from the Space Needle); \"Chihuly Garden and Glass Seattle Washington19.jpg\" (Burley Packwood, CC BY-SA 4.0).",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"sea-chihuly-glasshouse\", model \"sea-chihuly-glasshouse\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/sea-chihuly-glasshouse.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

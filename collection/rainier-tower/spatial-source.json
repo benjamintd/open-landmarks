@@ -1,0 +1,241 @@
+{
+  "id": "rainier-tower",
+  "anchor": [
+    -122.3343526,
+    47.6088171
+  ],
+  "coordinateSystem": "Local metres about the anchor (equirectangular, WGS84 radius): X east, Y north, Z up. glTF export: X east, Y up, Z south. Heading already baked.",
+  "license": "ODbL-1.0",
+  "footprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -6.4693399374073595,
+          -30.757575306515964
+        ],
+        [
+          30.312835276417545,
+          -8.304434013725981
+        ],
+        [
+          6.4693399374073595,
+          30.757575305725
+        ],
+        [
+          -30.312835275351016,
+          8.315565962144426
+        ],
+        [
+          -6.4693399374073595,
+          -30.757575306515964
+        ]
+      ]
+    ]
+  },
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -122.3344388,
+          47.6085408
+        ],
+        [
+          -122.3339487,
+          47.6087425
+        ],
+        [
+          -122.3342664,
+          47.6090934
+        ],
+        [
+          -122.3347565,
+          47.6088918
+        ],
+        [
+          -122.3344388,
+          47.6085408
+        ]
+      ]
+    ]
+  },
+  "parts": [
+    {
+      "osm": "way/35824879",
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "1301",
+        "addr:postcode": "98101",
+        "addr:state": "WA",
+        "addr:street": "5th Avenue",
+        "building": "office",
+        "height": "156",
+        "name": "Rainier Tower",
+        "source": "King County GIS;data.seattle.gov",
+        "start_date": "1977",
+        "wikidata": "Q7284914",
+        "wikipedia": "en:Rainier Tower"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.4693399374073595,
+              -30.757575306515964
+            ],
+            [
+              30.312835276417545,
+              -8.304434013725981
+            ],
+            [
+              6.4693399374073595,
+              30.757575305725
+            ],
+            [
+              -30.312835275351016,
+              8.315565962144426
+            ],
+            [
+              -6.4693399374073595,
+              -30.757575306515964
+            ]
+          ]
+        ]
+      },
+      "version": 16,
+      "timestamp": "2024-03-29T02:19:27Z"
+    },
+    {
+      "osm": "way/686348090",
+      "tags": {
+        "building:levels": "41",
+        "building:material": "glass",
+        "building:min_level": "11",
+        "building:part": "yes",
+        "height": "157"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.454329867771325,
+              -27.00610846644613
+            ],
+            [
+              26.62786322289894,
+              -6.81275283706558
+            ],
+            [
+              26.807984056398297,
+              -5.154092423845878
+            ],
+            [
+              6.394289590293717,
+              28.297414558918987
+            ],
+            [
+              4.330405039335859,
+              28.80948421701533
+            ],
+            [
+              -28.744283017049653,
+              8.627260536053221
+            ],
+            [
+              -28.946918954469798,
+              6.957468174415075
+            ],
+            [
+              -8.525719453013934,
+              -26.50517075835017
+            ],
+            [
+              -6.454329867771325,
+              -27.00610846644613
+            ]
+          ]
+        ]
+      },
+      "version": 1,
+      "timestamp": "2019-04-27T21:01:55Z"
+    },
+    {
+      "osm": "way/686348091",
+      "tags": {
+        "building:levels": "11",
+        "building:material": "concrete",
+        "building:part": "yes",
+        "height": "37"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -4.7957171927202875,
+              -13.647769571759023
+            ],
+            [
+              -15.798098106883652,
+              4.374855987887428
+            ],
+            [
+              2.4916715307854633,
+              15.540200914421604
+            ],
+            [
+              13.494052444948826,
+              -2.482424645224845
+            ],
+            [
+              -4.7957171927202875,
+              -13.647769571759023
+            ]
+          ]
+        ]
+      },
+      "version": 1,
+      "timestamp": "2019-04-27T21:01:56Z"
+    }
+  ],
+  "osm": {
+    "type": "way",
+    "id": 35824879,
+    "version": 16,
+    "timestamp": "2024-03-29T02:19:27Z",
+    "url": "https://www.openstreetmap.org/way/35824879"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 686348090,
+      "version": 1,
+      "timestamp": "2019-04-27T21:01:55Z",
+      "url": "https://www.openstreetmap.org/way/686348090"
+    },
+    {
+      "type": "way",
+      "id": 686348091,
+      "version": 1,
+      "timestamp": "2019-04-27T21:01:56Z",
+      "url": "https://www.openstreetmap.org/way/686348091"
+    }
+  ],
+  "tags": {
+    "addr:city": "Seattle",
+    "addr:housenumber": "1301",
+    "addr:postcode": "98101",
+    "addr:state": "WA",
+    "addr:street": "5th Avenue",
+    "building": "office",
+    "height": "156",
+    "name": "Rainier Tower",
+    "source": "King County GIS;data.seattle.gov",
+    "start_date": "1977",
+    "wikidata": "Q7284914",
+    "wikipedia": "en:Rainier Tower"
+  }
+}

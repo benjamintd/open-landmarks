@@ -1,0 +1,137 @@
+{
+  "id": "chihuly-garden-and-glass-glasshouse",
+  "anchor": [
+    -122.3500188,
+    47.6206252
+  ],
+  "coordinateSystem": "Local metres about the anchor (equirectangular, WGS84 radius): X east, Y north, Z up. glTF export: X east, Y up, Z south. Heading already baked.",
+  "license": "ODbL-1.0",
+  "footprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -11.727720699956198,
+          12.734949746869518
+        ],
+        [
+          -4.734607653423163,
+          -8.838767568659215
+        ],
+        [
+          -2.025901848571757,
+          -17.198861327641307
+        ],
+        [
+          11.720217360222566,
+          -12.746081696078935
+        ],
+        [
+          2.0183985077718347,
+          17.198861327641307
+        ],
+        [
+          -11.727720699956198,
+          12.734949746869518
+        ]
+      ]
+    ]
+  },
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -122.3501751,
+          47.6207396
+        ],
+        [
+          -122.3500819,
+          47.6205458
+        ],
+        [
+          -122.3500458,
+          47.6204707
+        ],
+        [
+          -122.3498626,
+          47.6205107
+        ],
+        [
+          -122.3499919,
+          47.6207797
+        ],
+        [
+          -122.3501751,
+          47.6207396
+        ]
+      ]
+    ]
+  },
+  "parts": [
+    {
+      "osm": "way/329416207",
+      "tags": {
+        "building": "yes",
+        "building:material": "glass",
+        "height": "10",
+        "name": "Glasshouse",
+        "note": "Appx height",
+        "roof:height": "10",
+        "roof:material": "glass",
+        "roof:shape": "gambrel"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -11.727720699956198,
+              12.734949746869518
+            ],
+            [
+              -4.734607653423163,
+              -8.838767568659215
+            ],
+            [
+              -2.025901848571757,
+              -17.198861327641307
+            ],
+            [
+              11.720217360222566,
+              -12.746081696078935
+            ],
+            [
+              2.0183985077718347,
+              17.198861327641307
+            ],
+            [
+              -11.727720699956198,
+              12.734949746869518
+            ]
+          ]
+        ]
+      },
+      "version": 4,
+      "timestamp": "2017-05-05T00:53:36Z"
+    }
+  ],
+  "osm": {
+    "type": "way",
+    "id": 329416207,
+    "version": 4,
+    "timestamp": "2017-05-05T00:53:36Z",
+    "url": "https://www.openstreetmap.org/way/329416207"
+  },
+  "additionalOsm": [],
+  "tags": {
+    "building": "yes",
+    "building:material": "glass",
+    "height": "10",
+    "name": "Glasshouse",
+    "note": "Appx height",
+    "roof:height": "10",
+    "roof:material": "glass",
+    "roof:shape": "gambrel"
+  }
+}

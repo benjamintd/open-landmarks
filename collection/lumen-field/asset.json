@@ -1,0 +1,368 @@
+{
+  "id": "lumen-field",
+  "name": "Lumen Field",
+  "anchor": [
+    -122.3316267,
+    47.595151
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 159360,
+      "sha256": "bf219fc4a27516b623ce17cefe09e4193d545827319ca5ee003d92b21a3d41df"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 159360,
+      "sha256": "bf219fc4a27516b623ce17cefe09e4193d545827319ca5ee003d92b21a3d41df"
+    }
+  },
+  "triangles": 3112,
+  "boundsBlenderM": [
+    [
+      -114.5,
+      -130,
+      0
+    ],
+    [
+      114.5,
+      130,
+      80
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -122.3323947,
+          47.5961538
+        ],
+        [
+          -122.3324524,
+          47.5961538
+        ],
+        [
+          -122.3325771,
+          47.5960923
+        ],
+        [
+          -122.3325999,
+          47.5960802
+        ],
+        [
+          -122.3327123,
+          47.5960205
+        ],
+        [
+          -122.3327286,
+          47.5960118
+        ],
+        [
+          -122.3327474,
+          47.5960039
+        ],
+        [
+          -122.332834,
+          47.5959385
+        ],
+        [
+          -122.332861,
+          47.5959203
+        ],
+        [
+          -122.3329194,
+          47.5958449
+        ],
+        [
+          -122.3329321,
+          47.5958274
+        ],
+        [
+          -122.3329652,
+          47.5957814
+        ],
+        [
+          -122.3329928,
+          47.5957441
+        ],
+        [
+          -122.3330013,
+          47.595726
+        ],
+        [
+          -122.3330679,
+          47.595584
+        ],
+        [
+          -122.3330738,
+          47.5955654
+        ],
+        [
+          -122.3331137,
+          47.5954398
+        ],
+        [
+          -122.3331201,
+          47.5954195
+        ],
+        [
+          -122.3331296,
+          47.5953896
+        ],
+        [
+          -122.3331401,
+          47.5953245
+        ],
+        [
+          -122.3331431,
+          47.5953055
+        ],
+        [
+          -122.3331596,
+          47.5952033
+        ],
+        [
+          -122.3331595,
+          47.5951924
+        ],
+        [
+          -122.333159,
+          47.5950947
+        ],
+        [
+          -122.3331545,
+          47.5950739
+        ],
+        [
+          -122.3331141,
+          47.5948844
+        ],
+        [
+          -122.3331096,
+          47.5948632
+        ],
+        [
+          -122.3331055,
+          47.5948442
+        ],
+        [
+          -122.3330747,
+          47.5947637
+        ],
+        [
+          -122.3330641,
+          47.5947393
+        ],
+        [
+          -122.3330166,
+          47.5946313
+        ],
+        [
+          -122.3330049,
+          47.5946046
+        ],
+        [
+          -122.3329693,
+          47.5945538
+        ],
+        [
+          -122.3329368,
+          47.5945051
+        ],
+        [
+          -122.3329181,
+          47.5944777
+        ],
+        [
+          -122.3328694,
+          47.5944065
+        ],
+        [
+          -122.3328133,
+          47.5943638
+        ],
+        [
+          -122.3327905,
+          47.5943462
+        ],
+        [
+          -122.3327487,
+          47.5943142
+        ],
+        [
+          -122.3326835,
+          47.5942757
+        ],
+        [
+          -122.3326575,
+          47.594263
+        ],
+        [
+          -122.3324699,
+          47.5941732
+        ],
+        [
+          -122.3324352,
+          47.5941574
+        ],
+        [
+          -122.3324041,
+          47.5941433
+        ],
+        [
+          -122.3324022,
+          47.5941629
+        ],
+        [
+          -122.3323592,
+          47.594718
+        ],
+        [
+          -122.3323405,
+          47.5951447
+        ],
+        [
+          -122.3323533,
+          47.5955838
+        ],
+        [
+          -122.3323919,
+          47.5961129
+        ],
+        [
+          -122.3323947,
+          47.5961538
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 635152550,
+    "version": 4,
+    "timestamp": "2023-12-24T05:01:10Z",
+    "url": "https://www.openstreetmap.org/way/635152550"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 635152551,
+      "version": 2,
+      "timestamp": "2024-10-01T08:43:15Z",
+      "url": "https://www.openstreetmap.org/way/635152551"
+    },
+    {
+      "type": "way",
+      "id": 458208106,
+      "version": 9,
+      "timestamp": "2025-11-21T15:16:37Z",
+      "url": "https://www.openstreetmap.org/way/458208106"
+    },
+    {
+      "type": "way",
+      "id": 458208107,
+      "version": 7,
+      "timestamp": "2025-11-21T15:16:37Z",
+      "url": "https://www.openstreetmap.org/way/458208107"
+    },
+    {
+      "type": "way",
+      "id": 458208103,
+      "version": 2,
+      "timestamp": "2016-12-20T03:59:02Z",
+      "url": "https://www.openstreetmap.org/way/458208103"
+    },
+    {
+      "type": "way",
+      "id": 458208112,
+      "version": 3,
+      "timestamp": "2017-11-04T05:27:48Z",
+      "url": "https://www.openstreetmap.org/way/458208112"
+    },
+    {
+      "type": "way",
+      "id": 458208102,
+      "version": 1,
+      "timestamp": "2016-12-07T05:22:54Z",
+      "url": "https://www.openstreetmap.org/way/458208102"
+    },
+    {
+      "type": "way",
+      "id": 458208104,
+      "version": 1,
+      "timestamp": "2016-12-07T05:22:54Z",
+      "url": "https://www.openstreetmap.org/way/458208104"
+    },
+    {
+      "type": "way",
+      "id": 458208105,
+      "version": 1,
+      "timestamp": "2016-12-07T05:22:54Z",
+      "url": "https://www.openstreetmap.org/way/458208105"
+    },
+    {
+      "type": "way",
+      "id": 458208114,
+      "version": 1,
+      "timestamp": "2016-12-07T05:22:55Z",
+      "url": "https://www.openstreetmap.org/way/458208114"
+    },
+    {
+      "type": "way",
+      "id": 458208115,
+      "version": 2,
+      "timestamp": "2026-06-08T19:14:17Z",
+      "url": "https://www.openstreetmap.org/way/458208115"
+    },
+    {
+      "type": "way",
+      "id": 458208116,
+      "version": 1,
+      "timestamp": "2016-12-07T05:22:55Z",
+      "url": "https://www.openstreetmap.org/way/458208116"
+    }
+  ],
+  "wikidata": "Q612736",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/sea-lumen-field.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Lumen Field (2002, Ellerbe Becket with LMN), Seattle: procedural, CC0-1.0. bun generators/sea-lumen-field.ts",
+    "Map frame: x east, y north, z up, metres; bearing 0 (the roofs' inner edges run true north-south in the lidar). The origin is the centre of the bowl, which the lidar puts at the middle of the playing field; y = 0 is the street and plaza level around it (5.1 m NAVD88), which is flat.",
+    "A stadium is its stands, roofs and towers, so the field is left to the map. Form: an oval bowl, its outer wall in pink-red concrete with tall glazed bays; two crescent roofs over the long sideline stands, each hanging from a white arched truss that springs from a pink pylon at each corner and rises 20 m over the roof's inner edge; a tall upper deck closing the south end; the low Hawks Nest stand and the video board at the open north end, which faces downtown.",
+    "Measured (USGS 3DEP WA_KingCo_1_2021, 1 m surface model, heights above y = 0):",
+    "the bowl's outer edge: 226 m east-west, 242 m north-south, close to a superellipse (exponent 3.3); the field and its margins 92 x 126 m;",
+    "the roofs: inner edges 53 m either side of the centre line, ends 118 m north and south of centre; 62 m high at the middle of the inner edge, falling to 54 m at the outer edge and about 50 m at the tips;",
+    "the arches: 60 m either side of the centre line, crown 80 m (top of the truss) at the field's mid-line, landing at 44 m on the corner pylons 124-126 m north and south of centre (a circular arc fits the lidar to a metre at 60 and 100 m out); hanger nubs about every 11-14 m;",
+    "the south upper deck to 48-49 m; the north corners to 28-30 m; the Hawks Nest rising to 24 m; the video board's top 73-74 m. Published: arches span 720 ft; seating 68,740 (Wikipedia, \"Lumen Field\"). From photos: the pink concrete and glazed bays of the outer wall, the white arches and their struts, the pale grey roof membrane with its white fascia, the dark seating, the pylons, the board on its legs. Estimated: the outer wall's height (24 m) and the recessed band above it; the single rake of each stand; the arch truss section (4.5 x 6 m, drawn solid and a little deeper than the real open truss so it reads at phone size); the hanger section; the board's legs and depth. Left out: the field (the map's), the roof logo (signage), seats' detail, the Event Center and its garage to the south (separate buildings).",
+    "Photos: /tmp/city/sea/work/sea-lumen-field/credits.txt (\"Aerial Qwest Field Aug 2009\", Jelson25, public domain, from the west; \"Aerial CenturyLink Field November 2011\", Jelson25, CC BY-SA 3.0; \"CenturyLink Field Seattle WA\", SounderBruce, CC BY-SA 2.0; \"CenturyLink Field from the east - from Jose Rizal Bridge in 2014\", Steve Morgan, CC BY-SA 4.0).",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"sea-lumen-field\", model \"sea-lumen-field\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/sea-lumen-field.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

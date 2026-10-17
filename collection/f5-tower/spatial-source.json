@@ -1,0 +1,195 @@
+{
+  "id": "f5-tower",
+  "anchor": [
+    -122.3310654,
+    47.6052122
+  ],
+  "coordinateSystem": "Local metres about the anchor (equirectangular, WGS84 radius): X east, Y north, Z up. glTF export: X east, Y up, Z south. Heading already baked.",
+  "license": "ODbL-1.0",
+  "footprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -26.502104101564317,
+          5.888801062966662
+        ],
+        [
+          -23.334761159111768,
+          0.6790488938646747
+        ],
+        [
+          -6.950141149458695,
+          -26.2380039796971
+        ],
+        [
+          -6.432258061474131,
+          -25.926309405788302
+        ],
+        [
+          26.509609654182416,
+          -5.888801062966662
+        ],
+        [
+          6.950141149458695,
+          26.249135929697488
+        ],
+        [
+          -1.1183272473019743,
+          21.339946385294883
+        ],
+        [
+          -16.196981210199702,
+          12.156088395098621
+        ],
+        [
+          -26.502104101564317,
+          5.888801062966662
+        ]
+      ]
+    ]
+  },
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -122.3314185,
+          47.6052651
+        ],
+        [
+          -122.3313763,
+          47.6052183
+        ],
+        [
+          -122.331158,
+          47.6049765
+        ],
+        [
+          -122.3311511,
+          47.6049793
+        ],
+        [
+          -122.3307122,
+          47.6051593
+        ],
+        [
+          -122.3309728,
+          47.605448
+        ],
+        [
+          -122.3310803,
+          47.6054039
+        ],
+        [
+          -122.3312812,
+          47.6053214
+        ],
+        [
+          -122.3314185,
+          47.6052651
+        ]
+      ]
+    ]
+  },
+  "parts": [
+    {
+      "osm": "way/333212849",
+      "tags": {
+        "addr:city": "Seattle",
+        "addr:housenumber": "801",
+        "addr:postcode": "98104",
+        "addr:state": "WA",
+        "addr:street": "5th Avenue",
+        "alt_name": "The Mark",
+        "building": "office",
+        "building:levels": "44",
+        "building:material": "glass",
+        "height": "201",
+        "max_level": "47",
+        "name": "F5 Tower",
+        "non_existent_levels": "17-19;44",
+        "roof:material": "glass",
+        "source": "King County GIS;data.seattle.gov",
+        "start_date": "2018",
+        "website": "https://www.f5.com/",
+        "wikidata": "Q5447583",
+        "wikipedia": "en:F5 Tower"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -26.502104101564317,
+              5.888801062966662
+            ],
+            [
+              -23.334761159111768,
+              0.6790488938646747
+            ],
+            [
+              -6.950141149458695,
+              -26.2380039796971
+            ],
+            [
+              -6.432258061474131,
+              -25.926309405788302
+            ],
+            [
+              26.509609654182416,
+              -5.888801062966662
+            ],
+            [
+              6.950141149458695,
+              26.249135929697488
+            ],
+            [
+              -1.1183272473019743,
+              21.339946385294883
+            ],
+            [
+              -16.196981210199702,
+              12.156088395098621
+            ],
+            [
+              -26.502104101564317,
+              5.888801062966662
+            ]
+          ]
+        ]
+      },
+      "version": 14,
+      "timestamp": "2026-03-11T19:52:50Z"
+    }
+  ],
+  "osm": {
+    "type": "way",
+    "id": 333212849,
+    "version": 14,
+    "timestamp": "2026-03-11T19:52:50Z",
+    "url": "https://www.openstreetmap.org/way/333212849"
+  },
+  "additionalOsm": [],
+  "tags": {
+    "addr:city": "Seattle",
+    "addr:housenumber": "801",
+    "addr:postcode": "98104",
+    "addr:state": "WA",
+    "addr:street": "5th Avenue",
+    "alt_name": "The Mark",
+    "building": "office",
+    "building:levels": "44",
+    "building:material": "glass",
+    "height": "201",
+    "max_level": "47",
+    "name": "F5 Tower",
+    "non_existent_levels": "17-19;44",
+    "roof:material": "glass",
+    "source": "King County GIS;data.seattle.gov",
+    "start_date": "2018",
+    "website": "https://www.f5.com/",
+    "wikidata": "Q5447583",
+    "wikipedia": "en:F5 Tower"
+  }
+}

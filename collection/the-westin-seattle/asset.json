@@ -1,0 +1,276 @@
+{
+  "id": "the-westin-seattle",
+  "name": "The Westin Seattle",
+  "anchor": [
+    -122.3382051,
+    47.6137035
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 212312,
+      "sha256": "062118aaa07f3951b93334ad6d30615996303256aaf073b73328f16747f855f3"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 212312,
+      "sha256": "062118aaa07f3951b93334ad6d30615996303256aaf073b73328f16747f855f3"
+    }
+  },
+  "triangles": 4338,
+  "boundsBlenderM": [
+    [
+      -52.3,
+      -60.7,
+      0
+    ],
+    [
+      41,
+      60.1,
+      147.5
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -122.3388042,
+          47.6136632
+        ],
+        [
+          -122.3388592,
+          47.6137107
+        ],
+        [
+          -122.338883,
+          47.613769
+        ],
+        [
+          -122.3388717,
+          47.6138288
+        ],
+        [
+          -122.3388274,
+          47.6138811
+        ],
+        [
+          -122.3387893,
+          47.6139056
+        ],
+        [
+          -122.3387777,
+          47.6139145
+        ],
+        [
+          -122.3383456,
+          47.6142467
+        ],
+        [
+          -122.3377353,
+          47.6138861
+        ],
+        [
+          -122.3377805,
+          47.6138514
+        ],
+        [
+          -122.3377283,
+          47.6138214
+        ],
+        [
+          -122.3376664,
+          47.6134503
+        ],
+        [
+          -122.3376896,
+          47.6134398
+        ],
+        [
+          -122.3376803,
+          47.6133787
+        ],
+        [
+          -122.3376886,
+          47.613341
+        ],
+        [
+          -122.3376621,
+          47.6133302
+        ],
+        [
+          -122.3376589,
+          47.6133065
+        ],
+        [
+          -122.337676,
+          47.6132921
+        ],
+        [
+          -122.3377009,
+          47.6132913
+        ],
+        [
+          -122.3377014,
+          47.6132708
+        ],
+        [
+          -122.3377238,
+          47.6132541
+        ],
+        [
+          -122.3377496,
+          47.6132543
+        ],
+        [
+          -122.3377509,
+          47.6132339
+        ],
+        [
+          -122.3377739,
+          47.6132167
+        ],
+        [
+          -122.3378008,
+          47.6132219
+        ],
+        [
+          -122.3378001,
+          47.6131972
+        ],
+        [
+          -122.337827,
+          47.6131772
+        ],
+        [
+          -122.3378626,
+          47.613176
+        ],
+        [
+          -122.3378946,
+          47.6131921
+        ],
+        [
+          -122.3378935,
+          47.6132273
+        ],
+        [
+          -122.3379492,
+          47.6132302
+        ],
+        [
+          -122.3379518,
+          47.6131663
+        ],
+        [
+          -122.3379657,
+          47.6131541
+        ],
+        [
+          -122.3381389,
+          47.613252
+        ],
+        [
+          -122.3381204,
+          47.613269
+        ],
+        [
+          -122.3388042,
+          47.6136632
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 331291911,
+    "version": 21,
+    "timestamp": "2025-07-18T18:03:28Z",
+    "url": "https://www.openstreetmap.org/way/331291911"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 331281882,
+      "version": 8,
+      "timestamp": "2024-03-27T00:35:48Z",
+      "url": "https://www.openstreetmap.org/way/331281882"
+    },
+    {
+      "type": "way",
+      "id": 331281881,
+      "version": 6,
+      "timestamp": "2024-03-27T00:35:48Z",
+      "url": "https://www.openstreetmap.org/way/331281881"
+    },
+    {
+      "type": "way",
+      "id": 488733959,
+      "version": 2,
+      "timestamp": "2017-05-05T00:53:57Z",
+      "url": "https://www.openstreetmap.org/way/488733959"
+    },
+    {
+      "type": "way",
+      "id": 488733958,
+      "version": 2,
+      "timestamp": "2017-05-05T00:53:56Z",
+      "url": "https://www.openstreetmap.org/way/488733958"
+    },
+    {
+      "type": "way",
+      "id": 770565574,
+      "version": 1,
+      "timestamp": "2020-02-07T05:36:19Z",
+      "url": "https://www.openstreetmap.org/way/770565574"
+    },
+    {
+      "type": "way",
+      "id": 770565573,
+      "version": 1,
+      "timestamp": "2020-02-07T05:36:19Z",
+      "url": "https://www.openstreetmap.org/way/770565573"
+    }
+  ],
+  "wikidata": "Q7988924",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/sea-westin-towers.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "The Westin Seattle (south tower 1969, north tower 1982; John Graham & Company), Seattle — original procedural geometry, CC0-1.0. bun generators/sea-westin-towers.ts [out.glb]",
+    "Map frame: x east, y north, z up, metres; origin at the anchor (the OSM outline's area centroid, -122.3382051, 47.6137035) on the lowest ground under the footprint (30.8 m NAVD88, on Westlake Avenue at the east corner; 5th Avenue on the west is about 5 m higher). Bearing 0: the towers are round, and the podium is drawn in true coordinates.",
+    "Form: two round hotel towers on a shared podium. Each tower's wall is a ring of 16 shallow bowed lobes, the scalloped \"corncob\" outline, wrapped by continuous window ribbons between concrete balcony bands; each is capped by a flared cantilevered cornice ring and a round penthouse drum. The north tower is the taller. The podium steps from a 27 m block between the towers down to 21, 14 and 8 m around them.",
+    "Sources",
+    "OSM: outline way/331291911; parts way/331281882 (north tower), way/331281881 (south tower), way/488733959 and way/488733958 (their drums), way/770565574 (the main podium block), way/770565573 (the low podium). Tower centres and radii from OSM (north r 17.0 m, south 16.7 m).",
+    "Lidar (measured, USGS 3DEP WA_KingCo_1_2021, above 30.8 m NAVD88): north tower cornice 140.5 m, roof inside it 138.7 m, drum 147.5 m; south tower cornice 119.5 m, roof 117.7 m, drum 124 m; podium block 26.7 m, the lower podium 21 m, east strip 14.5 m, south edge 6-8 m.",
+    "Published: north tower 47 storeys, south tower 40 storeys (Wikipedia, \"Westin Seattle\").",
+    "Photos (Wikimedia Commons): Davidphogan74 (both crowns from below), SounderBruce (both towers from the Hyatt at Olive 8), Joe Mabel (south tower from the south), John Martinez Pavliga (north tower from the Space Needle), Chris06 (both towers), Guilhem Vellut. Estimated: the lobe count (16 around; the real towers have about 18-20 narrower bays, drawn broader as the style asks), the lobes' bulge (1.6 m), window ribbons grouped three storeys, the concrete colour (warm taupe from the daylight photos, lightened), the cornice profile, the podium's plan simplified to four levels.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"sea-westin-towers\", model \"sea-westin-towers\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/sea-westin-towers.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

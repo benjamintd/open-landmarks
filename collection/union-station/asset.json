@@ -1,0 +1,170 @@
+{
+  "id": "union-station",
+  "name": "Union Station",
+  "anchor": [
+    -122.3285424,
+    47.5986081
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 32160,
+      "sha256": "e1ee09ce1856c2459de89dd91af3448898c159599bbc6d8984207b89c845d42b"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 32160,
+      "sha256": "e1ee09ce1856c2459de89dd91af3448898c159599bbc6d8984207b89c845d42b"
+    }
+  },
+  "triangles": 614,
+  "boundsBlenderM": [
+    [
+      -22.7,
+      -35.22,
+      0
+    ],
+    [
+      22.7,
+      39,
+      31.2
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -122.3288323,
+          47.5989198
+        ],
+        [
+          -122.3287049,
+          47.5989199
+        ],
+        [
+          -122.3287049,
+          47.5989249
+        ],
+        [
+          -122.3283689,
+          47.598925
+        ],
+        [
+          -122.3283689,
+          47.5989181
+        ],
+        [
+          -122.3282466,
+          47.5989182
+        ],
+        [
+          -122.3282448,
+          47.5988362
+        ],
+        [
+          -122.3282503,
+          47.5988362
+        ],
+        [
+          -122.3282521,
+          47.5984929
+        ],
+        [
+          -122.328246,
+          47.598493
+        ],
+        [
+          -122.3282463,
+          47.5984135
+        ],
+        [
+          -122.3282792,
+          47.5984135
+        ],
+        [
+          -122.3282791,
+          47.5984031
+        ],
+        [
+          -122.328279,
+          47.5983809
+        ],
+        [
+          -122.3282792,
+          47.5982896
+        ],
+        [
+          -122.3288331,
+          47.5982894
+        ],
+        [
+          -122.3288345,
+          47.5984984
+        ],
+        [
+          -122.3288269,
+          47.5984986
+        ],
+        [
+          -122.3288249,
+          47.5988351
+        ],
+        [
+          -122.3288336,
+          47.5988349
+        ],
+        [
+          -122.3288323,
+          47.5989198
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 45569666,
+    "version": 17,
+    "timestamp": "2026-09-04T00:32:22Z",
+    "url": "https://www.openstreetmap.org/way/45569666"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q7886102",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/sea-union-station.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Union Station (Oregon-Washington Station, 1911, Daniel J. Patterson), Seattle: procedural, CC0-1.0. bun generators/sea-union-station.ts",
+    "Map frame: x east, y north, z up, metres; bearing 0 (the walls run true north-south in the lidar). The origin is the area centroid of OSM way/45569666. y = 0 is the lowest ground the walls touch, on the 4th Avenue side to the east (6.2 m NAVD88); the ground rises to the west and to the Jackson Street plaza on the north, 6-7 m higher, so the west and north walls sink into the slope and their detail starts at that level.",
+    "Form: a great hall under a gable roof (barrel-vaulted inside) running north-south, flanked by three-storey brick office wings with white stone bands and cornices under low hipped red-tile roofs. On the north, the entrance pavilion stands taller, its gable front carrying a white pediment with a round clock window, three tall windows and a marquee over three doors. The south gable end holds the hall's great semicircular window in a brick arch, above a low white two-storey addition.",
+    "Measured (USGS 3DEP WA_KingCo_1_2021, 0.5 m surface model, heights above y = 0): the hall's eaves 23.2 m and ridge 27.2 m, 22 m wide; the pavilion 24 m wide and 10 m deep, eaves 27.2 m and ridge 31.2 m, its front cornice 20.2 m; the wings 10.8-11.2 m wide, eaves 22.2 m, rising to 24.2 m; the south addition 13.2 m; the marquee 12.2 m; the plaza 7 m and the west sidewalk 6.2 m above the 4th Avenue side. Published: 1911; 1999 restoration (Wikipedia, \"Union Station (Seattle)\"). From photos: the pediment, clock window and three-bay front; the white band over the second storey and the cornice of the wings; the brick arch and window in the south gable (about three quarters of the hall's width, rising nearly to the eaves); the addition's arched windows; the red tile of the wing roofs; the bay rhythm (about 4 m). Estimated: the arch's radius and springing, the pediment's pitch, window grouping (the lower storeys in one panel per bay, the top storey in another), the marquee's depth. Left out: the lettering on the marquee (signage), balustrades and dentils, the glass office tower east of the addition (another building).",
+    "Photos: /tmp/city/sea/work/sea-union-station/credits.txt (Joe Mabel, CC BY-SA 3.0, the north front and the south-east; Steve Morgan, CC BY-SA 4.0; Adam Moss, CC BY-SA 2.0; SounderBruce, CC BY-SA 4.0, from above).",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"sea-union-station\", model \"sea-union-station\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/sea-union-station.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

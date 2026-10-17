@@ -1,0 +1,270 @@
+{
+  "id": "benaroya-hall",
+  "name": "Benaroya Hall",
+  "anchor": [
+    -122.3369718,
+    47.6081067
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 20796,
+      "sha256": "5d3499cbcc40923c50dbc39d5643cbb4cd89f23a48dbf122c5e9df1240a4c1c2"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 20796,
+      "sha256": "5d3499cbcc40923c50dbc39d5643cbb4cd89f23a48dbf122c5e9df1240a4c1c2"
+    }
+  },
+  "triangles": 472,
+  "boundsBlenderM": [
+    [
+      -60.106,
+      -52.73,
+      0
+    ],
+    [
+      54.425,
+      56.603,
+      33.2
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -122.3375337,
+          47.6083782
+        ],
+        [
+          -122.3375414,
+          47.6083867
+        ],
+        [
+          -122.3371416,
+          47.6085513
+        ],
+        [
+          -122.3371326,
+          47.6085413
+        ],
+        [
+          -122.3370553,
+          47.6085731
+        ],
+        [
+          -122.3370595,
+          47.6085778
+        ],
+        [
+          -122.3370128,
+          47.608597
+        ],
+        [
+          -122.3369646,
+          47.6086168
+        ],
+        [
+          -122.3368688,
+          47.608511
+        ],
+        [
+          -122.3362488,
+          47.6078263
+        ],
+        [
+          -122.3362864,
+          47.6078108
+        ],
+        [
+          -122.3363437,
+          47.6077873
+        ],
+        [
+          -122.3366356,
+          47.6076671
+        ],
+        [
+          -122.3366768,
+          47.6076575
+        ],
+        [
+          -122.336718,
+          47.6076494
+        ],
+        [
+          -122.3367606,
+          47.6076453
+        ],
+        [
+          -122.3368036,
+          47.6076451
+        ],
+        [
+          -122.3368494,
+          47.6076495
+        ],
+        [
+          -122.3368683,
+          47.6076178
+        ],
+        [
+          -122.336907,
+          47.6076285
+        ],
+        [
+          -122.3369491,
+          47.6076397
+        ],
+        [
+          -122.3369311,
+          47.6076698
+        ],
+        [
+          -122.3369638,
+          47.6076831
+        ],
+        [
+          -122.3369972,
+          47.6077014
+        ],
+        [
+          -122.3370265,
+          47.6077226
+        ],
+        [
+          -122.3370512,
+          47.6077463
+        ],
+        [
+          -122.3370681,
+          47.6077645
+        ],
+        [
+          -122.3370736,
+          47.6077626
+        ],
+        [
+          -122.3372152,
+          47.607919
+        ],
+        [
+          -122.3373667,
+          47.6080862
+        ],
+        [
+          -122.3373798,
+          47.6080808
+        ],
+        [
+          -122.3374729,
+          47.6081485
+        ],
+        [
+          -122.3376043,
+          47.6080944
+        ],
+        [
+          -122.3376446,
+          47.6081389
+        ],
+        [
+          -122.3377724,
+          47.60828
+        ],
+        [
+          -122.3375337,
+          47.6083782
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 69273374,
+    "version": 22,
+    "timestamp": "2024-02-24T19:16:40Z",
+    "url": "https://www.openstreetmap.org/way/69273374"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 417918253,
+      "version": 4,
+      "timestamp": "2017-05-06T20:24:49Z",
+      "url": "https://www.openstreetmap.org/way/417918253"
+    },
+    {
+      "type": "way",
+      "id": 417918254,
+      "version": 4,
+      "timestamp": "2017-05-06T20:10:00Z",
+      "url": "https://www.openstreetmap.org/way/417918254"
+    },
+    {
+      "type": "way",
+      "id": 417918255,
+      "version": 5,
+      "timestamp": "2017-05-06T20:10:00Z",
+      "url": "https://www.openstreetmap.org/way/417918255"
+    },
+    {
+      "type": "way",
+      "id": 417918256,
+      "version": 4,
+      "timestamp": "2017-05-06T20:10:00Z",
+      "url": "https://www.openstreetmap.org/way/417918256"
+    },
+    {
+      "type": "way",
+      "id": 417918257,
+      "version": 5,
+      "timestamp": "2017-05-06T20:10:00Z",
+      "url": "https://www.openstreetmap.org/way/417918257"
+    }
+  ],
+  "wikidata": "Q3892069",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/sea-benaroya-hall.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Benaroya Hall, Seattle — procedural, CC0-1.0. bun generators/sea-benaroya-hall.ts",
+    "Map frame: x east, y north, z up, metres; origin at the OSM outline's centroid, on the lowest ground under the footprint (2nd Avenue at University Street). Built in the block's frame: x runs from 2nd Avenue to 3rd Avenue, y from University Street to Union Street; placed at bearing 328.3° so those line up with the street grid.",
+    "LMN Architects, 1998. A tall sandstone box holding the concert hall, its roof sloping up toward University Street, wrapped on three sides by lower lobby wings; at the University Street end the Grand Lobby, a half-drum of glass three storeys tall on a granite base, under a thin overhanging roof disc. Offices and the recital hall fill the Union Street end; a lower stone range runs along 3rd Avenue.",
+    "Evidence:",
+    "Lidar (USGS 3DEP WA_KingCo_1_2021, 0.5 m), heights above the tile's lowest ground (2nd Avenue is 1–5 m above it, 3rd Avenue 11–16 m): the hall's roof rising from 28.5 m at its Union end to 35.5 m at its University end; the drum and the lobby wings at 28 m; the drum reaching 55 m from the outline's centroid along the block; the Union end at 28.5 m with a 23 m step on 2nd Avenue; the 3rd Avenue range at 23 m.",
+    "OSM way/69273374 (outline) and its five building:parts: the plan, the drum's centre and radius (23.5 m), the hall box.",
+    "Photos (credits in /tmp/city/sea/work/sea-benaroya-hall/credits.txt): the drum's bays (nine across the half circle, round silver columns between), three glazed storeys over a one-storey granite base, the roof disc, the tan sandstone of the hall and wings.",
+    "Estimated: the drum's base height (12 m above the tile minimum, about one storey over University Street), the roof disc's overhang (1.5 m).",
+    "Not modelled: the Garden of Remembrance terraces, signage, canopies.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"sea-benaroya-hall\", model \"sea-benaroya-hall\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/sea-benaroya-hall.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

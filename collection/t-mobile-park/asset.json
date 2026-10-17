@@ -1,0 +1,278 @@
+{
+  "id": "t-mobile-park",
+  "name": "T-Mobile Park",
+  "anchor": [
+    -122.33251,
+    47.5914
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 189108,
+      "sha256": "28b268e648fbe616815a9dfd894c24a3fcdfb4c5c361e03a5963eeb1bd0cb094"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 189108,
+      "sha256": "28b268e648fbe616815a9dfd894c24a3fcdfb4c5c361e03a5963eeb1bd0cb094"
+    }
+  },
+  "triangles": 3768,
+  "boundsBlenderM": [
+    [
+      -107.963,
+      -109.505,
+      0
+    ],
+    [
+      198.415,
+      98,
+      82.399
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -122.3312806,
+          47.5914704
+        ],
+        [
+          -122.3312734,
+          47.5914955
+        ],
+        [
+          -122.3311966,
+          47.5914889
+        ],
+        [
+          -122.3312211,
+          47.5916029
+        ],
+        [
+          -122.3313367,
+          47.5917792
+        ],
+        [
+          -122.3315858,
+          47.5917165
+        ],
+        [
+          -122.331443,
+          47.591487
+        ],
+        [
+          -122.3312806,
+          47.5914704
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 1451834508,
+    "version": 5,
+    "timestamp": "2025-11-24T16:29:50Z",
+    "url": "https://www.openstreetmap.org/way/1451834508"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 1451834509,
+      "version": 5,
+      "timestamp": "2025-11-24T16:29:50Z",
+      "url": "https://www.openstreetmap.org/way/1451834509"
+    },
+    {
+      "type": "way",
+      "id": 1451834510,
+      "version": 1,
+      "timestamp": "2025-11-18T23:14:05Z",
+      "url": "https://www.openstreetmap.org/way/1451834510"
+    },
+    {
+      "type": "way",
+      "id": 1451834511,
+      "version": 1,
+      "timestamp": "2025-11-18T23:14:05Z",
+      "url": "https://www.openstreetmap.org/way/1451834511"
+    },
+    {
+      "type": "way",
+      "id": 1451834512,
+      "version": 5,
+      "timestamp": "2025-11-24T16:29:50Z",
+      "url": "https://www.openstreetmap.org/way/1451834512"
+    },
+    {
+      "type": "way",
+      "id": 1451834513,
+      "version": 3,
+      "timestamp": "2025-11-24T16:29:50Z",
+      "url": "https://www.openstreetmap.org/way/1451834513"
+    },
+    {
+      "type": "way",
+      "id": 1451834514,
+      "version": 4,
+      "timestamp": "2025-11-24T16:29:50Z",
+      "url": "https://www.openstreetmap.org/way/1451834514"
+    },
+    {
+      "type": "way",
+      "id": 1451834515,
+      "version": 4,
+      "timestamp": "2025-11-24T16:29:50Z",
+      "url": "https://www.openstreetmap.org/way/1451834515"
+    },
+    {
+      "type": "way",
+      "id": 1451834516,
+      "version": 3,
+      "timestamp": "2025-11-24T16:29:50Z",
+      "url": "https://www.openstreetmap.org/way/1451834516"
+    },
+    {
+      "type": "way",
+      "id": 1451834517,
+      "version": 3,
+      "timestamp": "2025-11-24T16:29:50Z",
+      "url": "https://www.openstreetmap.org/way/1451834517"
+    },
+    {
+      "type": "way",
+      "id": 1451834518,
+      "version": 3,
+      "timestamp": "2025-11-24T16:29:50Z",
+      "url": "https://www.openstreetmap.org/way/1451834518"
+    },
+    {
+      "type": "way",
+      "id": 1451834519,
+      "version": 3,
+      "timestamp": "2025-11-24T16:29:50Z",
+      "url": "https://www.openstreetmap.org/way/1451834519"
+    },
+    {
+      "type": "way",
+      "id": 1451834520,
+      "version": 3,
+      "timestamp": "2025-11-24T16:29:50Z",
+      "url": "https://www.openstreetmap.org/way/1451834520"
+    },
+    {
+      "type": "way",
+      "id": 1451834521,
+      "version": 3,
+      "timestamp": "2026-08-07T20:07:42Z",
+      "url": "https://www.openstreetmap.org/way/1451834521"
+    },
+    {
+      "type": "way",
+      "id": 1451834522,
+      "version": 3,
+      "timestamp": "2026-08-07T20:07:42Z",
+      "url": "https://www.openstreetmap.org/way/1451834522"
+    },
+    {
+      "type": "way",
+      "id": 1451834523,
+      "version": 1,
+      "timestamp": "2025-11-18T23:14:05Z",
+      "url": "https://www.openstreetmap.org/way/1451834523"
+    },
+    {
+      "type": "way",
+      "id": 1453289445,
+      "version": 1,
+      "timestamp": "2025-11-24T09:41:46Z",
+      "url": "https://www.openstreetmap.org/way/1453289445"
+    },
+    {
+      "type": "way",
+      "id": 1453289446,
+      "version": 1,
+      "timestamp": "2025-11-24T09:41:46Z",
+      "url": "https://www.openstreetmap.org/way/1453289446"
+    },
+    {
+      "type": "way",
+      "id": 1453289447,
+      "version": 1,
+      "timestamp": "2025-11-24T09:41:46Z",
+      "url": "https://www.openstreetmap.org/way/1453289447"
+    },
+    {
+      "type": "way",
+      "id": 1453289448,
+      "version": 1,
+      "timestamp": "2025-11-24T09:41:46Z",
+      "url": "https://www.openstreetmap.org/way/1453289448"
+    },
+    {
+      "type": "way",
+      "id": 1453289449,
+      "version": 1,
+      "timestamp": "2025-11-24T09:41:46Z",
+      "url": "https://www.openstreetmap.org/way/1453289449"
+    },
+    {
+      "type": "way",
+      "id": 1453289450,
+      "version": 1,
+      "timestamp": "2025-11-24T09:41:46Z",
+      "url": "https://www.openstreetmap.org/way/1453289450"
+    },
+    {
+      "type": "way",
+      "id": 1453289451,
+      "version": 1,
+      "timestamp": "2025-11-24T09:41:46Z",
+      "url": "https://www.openstreetmap.org/way/1453289451"
+    }
+  ],
+  "wikidata": "Q1193117",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/sea-t-mobile-park.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "T-Mobile Park (1999, NBBJ), Seattle: procedural, CC0-1.0. bun generators/sea-t-mobile-park.ts",
+    "Map frame: x east, y north, z up, metres; bearing 0, built straight in the lidar's frame. The origin is the point given for the stadium in the batch plan (-122.33251, 47.59140), near the middle of the field; y = 0 is the street level around the ballpark (5.0 m NAVD88). The field sits 1.4 m below it.",
+    "A stadium is its stands, roofs and towers, so the field is left to the map. Form: a grandstand wrapping the field from the left-field corner round home plate (south-west) to right field, its upper deck under a steel canopy; a low brick block and the big scoreboard behind left field (north); low stands in right field. The retractable roof is shown open, as in most daylight aerials: its three panels parked one above another over the railway east of right field, a shallow barrel 66 m high crossed by four great arched trusses that run north-south and stand on tall legs at each end, rolling on elevated runways along the north and south.",
+    "Measured (USGS 3DEP WA_KingCo_1_2021, 1 m surface model, heights above y = 0; the 2021 flight caught the roof open):",
+    "the parked roof: from y -107 to 97, its west and east edges skewed 7.4 degrees east of north (x = 81 and 164.5 m at y = 0, plus 0.13 m per metre north); its skin 66 m at the crown falling to 48-49 m at the ends (a circular arc fits within a metre at 60 m out); curved skirts bulging up to 13 m beyond its east side and 5 m beyond its west at mid-length, dropping to 44 m;",
+    "the four trusses at x = 86, 112, 139 and 164 at y = 0 (the same skew), their top chords 81 m at the crown and 54 m at the ends;",
+    "the runways under the roof's ends at 10-17 m;",
+    "the grandstand: outer concourse roof 23 m, the upper deck's canopy 37-41 m over the band OSM maps as way/1451834523, the suite level 20 m in front of it, the lower deck down to the field wall;",
+    "the left-field block 18 m; the scoreboard's top 41 m; right-field stands about 16 m (OSM's 20 m steps). Published: roof 9 acres, 22 million lb, three panels (Wikipedia, \"T-Mobile Park\"). From photos: the arched lattice trusses on the roof and their legs, the dark steel, the tan-grey roof membrane, the red brick and dark green steel of the grandstand, the canopy over the upper deck, the dark green seats. Estimated: the stand cross-section between the lidar's levels; the trusses drawn as a top chord with bold diagonals rather than the full lattice; the legs' and runways' sections; the right-field stands under the roof (no view from above); the skirts' outline. Left out: the field (the map's), the lettering on the roof (signage), light towers, the garage south of the ballpark (another building).",
+    "Photos: /tmp/city/sea/work/sea-t-mobile-park/credits.txt (brewbooks, CC BY-SA 2.0, the closed roof from above; TheConduqtor, CC BY-SA 3.0, the parked roof from the east; Ron Clausen, CC BY-SA 4.0; Visitor7, CC BY-SA 3.0; MyName (Cacophony), CC BY-SA 3.0, the roof's edge from inside).",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"sea-t-mobile-park\", model \"sea-t-mobile-park\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/sea-t-mobile-park.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

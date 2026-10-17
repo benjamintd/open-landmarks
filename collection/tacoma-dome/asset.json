@@ -1,0 +1,352 @@
+{
+  "id": "tacoma-dome",
+  "name": "Tacoma Dome",
+  "anchor": [
+    -122.4270038,
+    47.2368426
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 51404,
+      "sha256": "7616a531458464209fdecbfd0e0b542ada04eff87cedb24994994c50b9b6b9a4"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 51404,
+      "sha256": "7616a531458464209fdecbfd0e0b542ada04eff87cedb24994994c50b9b6b9a4"
+    }
+  },
+  "triangles": 1072,
+  "boundsBlenderM": [
+    [
+      -76.476,
+      -100.564,
+      0
+    ],
+    [
+      86.559,
+      111.438,
+      50
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -122.4262161,
+          47.2372322
+        ],
+        [
+          -122.4261326,
+          47.2371706
+        ],
+        [
+          -122.4260549,
+          47.2371031
+        ],
+        [
+          -122.4259893,
+          47.2370299
+        ],
+        [
+          -122.4259365,
+          47.2369521
+        ],
+        [
+          -122.4258974,
+          47.2368707
+        ],
+        [
+          -122.4258723,
+          47.2367867
+        ],
+        [
+          -122.4258617,
+          47.2367013
+        ],
+        [
+          -122.4258657,
+          47.2366157
+        ],
+        [
+          -122.4258843,
+          47.2365309
+        ],
+        [
+          -122.425907,
+          47.2364738
+        ],
+        [
+          -122.4259171,
+          47.2364482
+        ],
+        [
+          -122.4259638,
+          47.2363686
+        ],
+        [
+          -122.4260236,
+          47.2362932
+        ],
+        [
+          -122.426096,
+          47.236223
+        ],
+        [
+          -122.426128,
+          47.2361985
+        ],
+        [
+          -122.4261798,
+          47.2361589
+        ],
+        [
+          -122.4262739,
+          47.2361019
+        ],
+        [
+          -122.4263771,
+          47.2360525
+        ],
+        [
+          -122.4264879,
+          47.2360117
+        ],
+        [
+          -122.4265062,
+          47.2360067
+        ],
+        [
+          -122.426605,
+          47.2359797
+        ],
+        [
+          -122.4267268,
+          47.2359572
+        ],
+        [
+          -122.4268515,
+          47.2359444
+        ],
+        [
+          -122.4269777,
+          47.2359414
+        ],
+        [
+          -122.4270512,
+          47.2359455
+        ],
+        [
+          -122.4271034,
+          47.2359484
+        ],
+        [
+          -122.4272272,
+          47.2359651
+        ],
+        [
+          -122.4272785,
+          47.2359764
+        ],
+        [
+          -122.4273472,
+          47.2359915
+        ],
+        [
+          -122.427462,
+          47.2360271
+        ],
+        [
+          -122.42757,
+          47.2360714
+        ],
+        [
+          -122.4275987,
+          47.2360865
+        ],
+        [
+          -122.4276697,
+          47.2361239
+        ],
+        [
+          -122.4277598,
+          47.2361839
+        ],
+        [
+          -122.4278391,
+          47.2362506
+        ],
+        [
+          -122.4278559,
+          47.2362687
+        ],
+        [
+          -122.4279065,
+          47.236323
+        ],
+        [
+          -122.4279486,
+          47.2363825
+        ],
+        [
+          -122.4279612,
+          47.2364002
+        ],
+        [
+          -122.4280023,
+          47.2364812
+        ],
+        [
+          -122.4280294,
+          47.2365649
+        ],
+        [
+          -122.4280393,
+          47.2366316
+        ],
+        [
+          -122.4280421,
+          47.2366501
+        ],
+        [
+          -122.4280402,
+          47.2367358
+        ],
+        [
+          -122.4280238,
+          47.2368207
+        ],
+        [
+          -122.427993,
+          47.2369038
+        ],
+        [
+          -122.4279483,
+          47.2369839
+        ],
+        [
+          -122.4278903,
+          47.23706
+        ],
+        [
+          -122.4278137,
+          47.2371317
+        ],
+        [
+          -122.4278354,
+          47.2372223
+        ],
+        [
+          -122.4278762,
+          47.2373926
+        ],
+        [
+          -122.4278786,
+          47.2374026
+        ],
+        [
+          -122.4278451,
+          47.2374063
+        ],
+        [
+          -122.427922,
+          47.2377275
+        ],
+        [
+          -122.4267979,
+          47.2378515
+        ],
+        [
+          -122.4267133,
+          47.2374982
+        ],
+        [
+          -122.4266822,
+          47.2375016
+        ],
+        [
+          -122.4266754,
+          47.2374732
+        ],
+        [
+          -122.4262841,
+          47.2375164
+        ],
+        [
+          -122.4262412,
+          47.2373369
+        ],
+        [
+          -122.4262161,
+          47.2372322
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 32660308,
+    "version": 9,
+    "timestamp": "2026-04-19T18:35:56Z",
+    "url": "https://www.openstreetmap.org/way/32660308"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 1352265453,
+      "version": 1,
+      "timestamp": "2025-01-18T05:24:32Z",
+      "url": "https://www.openstreetmap.org/way/1352265453"
+    },
+    {
+      "type": "way",
+      "id": 1352265454,
+      "version": 1,
+      "timestamp": "2025-01-18T05:24:32Z",
+      "url": "https://www.openstreetmap.org/way/1352265454"
+    }
+  ],
+  "wikidata": "Q1570942",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/sea-tacoma-dome.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Tacoma Dome (1983, McGranahan Messenger Associates; Western Wood Structures' Varax timber dome), Tacoma: procedural, CC0-1.0. bun generators/sea-tacoma-dome.ts [out.glb]",
+    "Map frame: x east, y north, z up, metres; built in the street grid's frame (bearing 351°, the OSM walls of the north hall run 350.7-350.9°), which only matters for the hall: the dome is round. The origin is the area centroid of OSM way/32660308 (-122.4270038, 47.2368426); the dome's centre is 2.0 m east and 19.6 m south of it. y = 0 is the lowest ground the outline touches (31.3 m NAVD88), on the north, where the site falls away from the plaza that rings the dome's south side (9 m higher).",
+    "Form: a shallow spherical dome of triangulated timber panels, white since its repainting, on a low round base of dark brown panels with a dark band under the eave, crowned by a flat lid over a short drum. North of it a concourse deck joins a flat-roofed exhibition hall.",
+    "Sources",
+    "OSM: way/32660308 (outline, stadium, Q1570942) and its parts way/1352265453 (the dome, 44 m) and way/1352265454 (the crown, 45 m); the outline also takes in the deck and the hall to the north.",
+    "Lidar (measured, USGS 3DEP WA_PierceCounty_1_2020, 1 m surface model, radial profile about the centre): the roof is a sphere of radius 115.5 m to within 0.04 m RMS from r = 17 to r = 81; eave at r = 81, 14.3 above y = 0; the sphere would peak at 47.4; the crown lid is flat at 50.0 out to r ~12, its edge at r 13-14; ground 9 m on the south and east, 0-5 m on the north and west; the deck at 7.5, the hall's roof at 10 (x -53..33, y 71.5..107.5).",
+    "Published: 530 ft (161.5 m) across, 152 ft (46 m) high; one of the largest wood-domed structures (Wikipedia, \"Tacoma Dome\").",
+    "Photos (Wikimedia Commons; credits in /tmp/city/sea/work/sea-tacoma-dome/credits.txt): Joe Mabel 2021-22 (from Interstate 5, west and north), SounderBruce 2024 (from the Pacific Avenue overpass, the white roof), Chris Light (from the north-west, two), Visitor7 (the base), Murphpics (aerial), Broran28 (from the north, before the repainting). From photos: the roof is now white (it was blue-grey before 2018); its panels read as rings of large flat triangles, shown here as a flat-shaded geodesic (seven rings, 30 panels round at the eave down to 12 under the crown, every other node 2 m proud of the measured sphere so neighbouring panels tilt apart and catch the light differently) rather than lines; the base's dark brown panels with the dark band under the eave; the crown's white lid over a grey drum. Estimated: the facet layout (a regular tiered triangulation, not the real Varax pattern), the base's band heights, the hall's walls (plain). Left out: the \"TACOMA DOME\" sign (signage), the flagpole, the entrance canopies and stairs.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"sea-tacoma-dome\", model \"sea-tacoma-dome\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/sea-tacoma-dome.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}
