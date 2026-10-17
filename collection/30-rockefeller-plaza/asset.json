@@ -1,0 +1,251 @@
+{
+  "id": "30-rockefeller-plaza",
+  "name": "30 Rockefeller Plaza",
+  "anchor": [
+    -73.9796355,
+    40.7591554
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 13,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 149176,
+      "sha256": "b9561fa30de9e8183165bf3b351fde36275031695bfee31a13efaeac4656638a"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 149176,
+      "sha256": "b9561fa30de9e8183165bf3b351fde36275031695bfee31a13efaeac4656638a"
+    }
+  },
+  "triangles": 4392,
+  "boundsBlenderM": [
+    [
+      -83.666,
+      -62.412,
+      0
+    ],
+    [
+      81.892,
+      59.404,
+      260
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -73.9806306,
+          40.7593309
+        ],
+        [
+          -73.9804249,
+          40.7592442
+        ],
+        [
+          -73.9804495,
+          40.7592088
+        ],
+        [
+          -73.9789922,
+          40.7585852
+        ],
+        [
+          -73.9789227,
+          40.758684
+        ],
+        [
+          -73.9789038,
+          40.7586759
+        ],
+        [
+          -73.9788656,
+          40.7587265
+        ],
+        [
+          -73.978754,
+          40.7588774
+        ],
+        [
+          -73.9787168,
+          40.7589294
+        ],
+        [
+          -73.9787357,
+          40.7589375
+        ],
+        [
+          -73.9786619,
+          40.7590376
+        ],
+        [
+          -73.9801077,
+          40.7596545
+        ],
+        [
+          -73.9801387,
+          40.7596157
+        ],
+        [
+          -73.9801481,
+          40.7596028
+        ],
+        [
+          -73.980364,
+          40.7596938
+        ],
+        [
+          -73.9806037,
+          40.7593671
+        ],
+        [
+          -73.9806306,
+          40.7593309
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 487519790,
+    "version": 6,
+    "timestamp": "2024-09-01T19:22:31Z",
+    "url": "https://www.openstreetmap.org/way/487519790"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 771918436,
+      "version": 2,
+      "timestamp": "2020-06-02T02:27:27Z",
+      "url": "https://www.openstreetmap.org/way/771918436"
+    },
+    {
+      "type": "way",
+      "id": 145341279,
+      "version": 5,
+      "timestamp": "2014-05-19T13:54:02Z",
+      "url": "https://www.openstreetmap.org/way/145341279"
+    },
+    {
+      "type": "way",
+      "id": 145341265,
+      "version": 5,
+      "timestamp": "2014-05-19T13:54:01Z",
+      "url": "https://www.openstreetmap.org/way/145341265"
+    },
+    {
+      "type": "way",
+      "id": 145341264,
+      "version": 4,
+      "timestamp": "2014-05-19T13:56:54Z",
+      "url": "https://www.openstreetmap.org/way/145341264"
+    },
+    {
+      "type": "way",
+      "id": 145341294,
+      "version": 9,
+      "timestamp": "2020-06-02T02:27:26Z",
+      "url": "https://www.openstreetmap.org/way/145341294"
+    },
+    {
+      "type": "way",
+      "id": 145341256,
+      "version": 8,
+      "timestamp": "2023-08-20T14:44:58Z",
+      "url": "https://www.openstreetmap.org/way/145341256"
+    },
+    {
+      "type": "way",
+      "id": 145341286,
+      "version": 5,
+      "timestamp": "2014-05-19T13:54:02Z",
+      "url": "https://www.openstreetmap.org/way/145341286"
+    },
+    {
+      "type": "way",
+      "id": 145341288,
+      "version": 6,
+      "timestamp": "2014-05-19T13:54:03Z",
+      "url": "https://www.openstreetmap.org/way/145341288"
+    },
+    {
+      "type": "way",
+      "id": 145341276,
+      "version": 5,
+      "timestamp": "2014-05-19T13:54:02Z",
+      "url": "https://www.openstreetmap.org/way/145341276"
+    },
+    {
+      "type": "way",
+      "id": 145341282,
+      "version": 6,
+      "timestamp": "2014-05-19T13:54:02Z",
+      "url": "https://www.openstreetmap.org/way/145341282"
+    },
+    {
+      "type": "way",
+      "id": 145341268,
+      "version": 5,
+      "timestamp": "2014-05-19T13:54:02Z",
+      "url": "https://www.openstreetmap.org/way/145341268"
+    },
+    {
+      "type": "way",
+      "id": 145341275,
+      "version": 7,
+      "timestamp": "2023-12-03T20:54:11Z",
+      "url": "https://www.openstreetmap.org/way/145341275"
+    },
+    {
+      "type": "way",
+      "id": 145341266,
+      "version": 5,
+      "timestamp": "2014-05-19T13:54:01Z",
+      "url": "https://www.openstreetmap.org/way/145341266"
+    },
+    {
+      "type": "way",
+      "id": 145341259,
+      "version": 5,
+      "timestamp": "2014-05-19T13:54:01Z",
+      "url": "https://www.openstreetmap.org/way/145341259"
+    }
+  ],
+  "wikidata": "Q680614",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/30-rockefeller-plaza.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "30 Rockefeller Plaza (Comcast Building) — original procedural geometry, CC0-1.0. bun generators/30-rockefeller-plaza.ts",
+    "Built in the street-grid frame: x along the cross streets (Manhattan \"east\", true bearing 119°), y along the avenues (Manhattan \"north\", bearing 29°), z up, metres. The catalog places it with bearing 29°. Anchor is the centroid of OSM outline way/487519790; every tier below is the footprint of one of its OSM building:parts, measured in this frame.",
+    "The look is the limestone piers running unbroken up the slab with dark window bands recessed between them, so window bands are laid on one global grid per axis and merged across tiers wherever a face carries straight on: a stripe only stops where the face it is on actually steps back.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"30-rockefeller-plaza\", model \"30-rockefeller-plaza\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/30-rockefeller-plaza.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

@@ -1,0 +1,291 @@
+{
+  "id": "deutsche-bank-center",
+  "name": "Deutsche Bank Center",
+  "anchor": [
+    -73.982817,
+    40.768278
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 13,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 143688,
+      "sha256": "1ba08052cedddb62737aa438797f40259d62bf57a56f24730e644bcc706d0778"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 143688,
+      "sha256": "1ba08052cedddb62737aa438797f40259d62bf57a56f24730e644bcc706d0778"
+    }
+  },
+  "triangles": 2852,
+  "boundsBlenderM": [
+    [
+      -99.071,
+      -75.895,
+      0
+    ],
+    [
+      37.891,
+      106.901,
+      230
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -73.9825273,
+          40.768482
+        ],
+        [
+          -73.9824939,
+          40.7684689
+        ],
+        [
+          -73.9824365,
+          40.7685148
+        ],
+        [
+          -73.9823944,
+          40.7685416
+        ],
+        [
+          -73.9823697,
+          40.7685587
+        ],
+        [
+          -73.9823682,
+          40.7688734
+        ],
+        [
+          -73.9824667,
+          40.768918
+        ],
+        [
+          -73.9831203,
+          40.7691891
+        ],
+        [
+          -73.9831475,
+          40.7692002
+        ],
+        [
+          -73.983212,
+          40.7692283
+        ],
+        [
+          -73.9832547,
+          40.769247
+        ],
+        [
+          -73.9833294,
+          40.769148
+        ],
+        [
+          -73.9839136,
+          40.7683411
+        ],
+        [
+          -73.9839934,
+          40.7682288
+        ],
+        [
+          -73.9839421,
+          40.7682075
+        ],
+        [
+          -73.98387,
+          40.7681776
+        ],
+        [
+          -73.9831103,
+          40.7678572
+        ],
+        [
+          -73.9826121,
+          40.7676518
+        ],
+        [
+          -73.982463,
+          40.7675903
+        ],
+        [
+          -73.9824387,
+          40.7676203
+        ],
+        [
+          -73.9825217,
+          40.7676715
+        ],
+        [
+          -73.9824891,
+          40.7676923
+        ],
+        [
+          -73.9825137,
+          40.7677206
+        ],
+        [
+          -73.9825547,
+          40.7677706
+        ],
+        [
+          -73.982587,
+          40.7678124
+        ],
+        [
+          -73.9826192,
+          40.7678652
+        ],
+        [
+          -73.9826356,
+          40.7679083
+        ],
+        [
+          -73.982652,
+          40.7679586
+        ],
+        [
+          -73.9826585,
+          40.7680213
+        ],
+        [
+          -73.9826619,
+          40.7680733
+        ],
+        [
+          -73.9826613,
+          40.7681248
+        ],
+        [
+          -73.9826545,
+          40.7681837
+        ],
+        [
+          -73.9826369,
+          40.7682493
+        ],
+        [
+          -73.9826829,
+          40.7682661
+        ],
+        [
+          -73.9826016,
+          40.768379
+        ],
+        [
+          -73.9825273,
+          40.768482
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 167923911,
+    "version": 45,
+    "timestamp": "2026-09-22T19:59:46Z",
+    "url": "https://www.openstreetmap.org/way/167923911"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 183199498,
+      "version": 3,
+      "timestamp": "2014-06-11T14:39:57Z",
+      "url": "https://www.openstreetmap.org/way/183199498"
+    },
+    {
+      "type": "way",
+      "id": 183199499,
+      "version": 3,
+      "timestamp": "2014-06-11T14:39:57Z",
+      "url": "https://www.openstreetmap.org/way/183199499"
+    },
+    {
+      "type": "way",
+      "id": 183199500,
+      "version": 3,
+      "timestamp": "2014-06-11T14:39:57Z",
+      "url": "https://www.openstreetmap.org/way/183199500"
+    },
+    {
+      "type": "way",
+      "id": 183199501,
+      "version": 3,
+      "timestamp": "2014-06-11T14:39:58Z",
+      "url": "https://www.openstreetmap.org/way/183199501"
+    },
+    {
+      "type": "way",
+      "id": 183199502,
+      "version": 3,
+      "timestamp": "2014-06-11T14:39:58Z",
+      "url": "https://www.openstreetmap.org/way/183199502"
+    },
+    {
+      "type": "way",
+      "id": 183199503,
+      "version": 4,
+      "timestamp": "2014-06-11T14:39:58Z",
+      "url": "https://www.openstreetmap.org/way/183199503"
+    },
+    {
+      "type": "way",
+      "id": 183199504,
+      "version": 3,
+      "timestamp": "2014-06-11T14:39:58Z",
+      "url": "https://www.openstreetmap.org/way/183199504"
+    },
+    {
+      "type": "way",
+      "id": 183199505,
+      "version": 3,
+      "timestamp": "2014-06-11T14:39:58Z",
+      "url": "https://www.openstreetmap.org/way/183199505"
+    }
+  ],
+  "wikidata": "Q842578",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/nyc-deutsche-bank-center.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Deutsche Bank Center (formerly Time Warner Center), 10 Columbus Circle — procedural, CC0-1.0, no textures. bun generators/nyc-deutsche-bank-center.ts",
+    "Map frame: x = model east (toward Columbus Circle), y = model north (West 60th Street), z up, metres. Placed at bearing 29°, the Manhattan grid. Anchor: the centroid of the OSM outline way/167923911's vertices.",
+    "Evidence",
+    "OSM: the outline way/167923911 (whole block, 45 m, its east front following the curve of Columbus Circle) and building:parts 183199498– 183199505: the two towers (…499 north, …505 south) are parallelograms about 29.5 m across the grid and 34.5 m deep, their long sides slanting 31° off the grid; the lower glass wings (…500, …501, …502, …504), the 80 m block on 60th Street (…498) and the 55 m middle (…503).",
+    "Lidar: USGS 3DEP NY_NewYorkCity (2017), 2 m. Heights above the lowest street (21.8 m NAVD88): towers 229–231 m; the south glass wing 106–115 m (OSM says 105/125; the lidar is used: 110 m); the north wings 100 m; the 60th Street block 79 m; the circle front 45–48 m; a 59 m strip along 58th Street and the 59 m middle; a 37 m strip on 60th Street.",
+    "Published: 229 m, two 55-storey towers, Skidmore, Owings & Merrill (David Childs), completed 2003 (Wikipedia).",
+    "Photos (Wikimedia Commons), credits in /tmp/city/nyc/work/nyc-deutsche-bank-center/photos/credits.txt: Ajay Suresh (CC BY 4.0, from the south-east on the circle), Tdorante10 (CC BY-SA 4.0), Martin Furtschegger (CC BY 3.0), Kidfly182 (CC BY-SA 4.0 and CC BY 4.0), Fletcher (CC BY 4.0, from Central Park), Jakob von Raumer (CC BY 3.0, from the park), Steven Lek (CC BY-SA 4.0).",
+    "What makes it read: the twin parallelogram towers with their stepped crowns (four bold notches stepping down northward), the lower glass wings stepping off each tower, and the pale stone base curving round the circle with the glass atrium between the towers. Glass treatment: broad glass bays between pale fins, four storeys to a panel, in a light sky glass (the towers read bright silver-blue in daylight), no floor lines.",
+    "Estimated: bay width (6.6 m), storey height (4.1 m), the crown's steps (from the photos, drawn as solid steps though the lidar's roof reads ~230 m over most of each top; see the towers' comment), the atrium's extent on the curved front (from the photos), the stone base's window rhythm. The mechanical notches at the towers' acute corners (lidar ~196 m) are left out.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"nyc-deutsche-bank-center\", model \"nyc-deutsche-bank-center\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/nyc-deutsche-bank-center.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

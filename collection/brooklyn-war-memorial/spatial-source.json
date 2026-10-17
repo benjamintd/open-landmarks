@@ -1,0 +1,133 @@
+{
+  "id": "brooklyn-war-memorial",
+  "anchor": [
+    -73.990626,
+    40.698443
+  ],
+  "coordinateSystem": "Local metres about the anchor (equirectangular, WGS84 radius): X east, Y north, Z up. glTF export: X east, Y up, Z south. Heading already baked.",
+  "license": "ODbL-1.0",
+  "footprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          15.132400187463556,
+          -8.749711975774856
+        ],
+        [
+          -15.680981342988659,
+          -7.7812324064202185
+        ],
+        [
+          -15.157719317423336,
+          8.849899518659603
+        ],
+        [
+          15.655662213028878,
+          7.881419948513995
+        ],
+        [
+          15.132400187463556,
+          -8.749711975774856
+        ]
+      ]
+    ]
+  },
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -73.9904467,
+          40.6983644
+        ],
+        [
+          -73.9908118,
+          40.6983731
+        ],
+        [
+          -73.9908056,
+          40.6985225
+        ],
+        [
+          -73.9904405,
+          40.6985138
+        ],
+        [
+          -73.9904467,
+          40.6983644
+        ]
+      ]
+    ]
+  },
+  "parts": [
+    {
+      "osm": "way/250373213",
+      "tags": {
+        "addr:city": "Brooklyn",
+        "addr:housenumber": "172",
+        "addr:postcode": "11201",
+        "addr:street": "Cadman Plaza East",
+        "building": "yes",
+        "height": "11.2",
+        "historic": "memorial",
+        "memorial": "war_memorial",
+        "name": "Brooklyn War Memorial",
+        "nycdoitt:bin": "3335882",
+        "start_date": "1951",
+        "website": "https://www.nycgovparks.org/parks/cadman-plaza-park-and-brooklyn-war-memorial/monuments/177"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              15.132400187463556,
+              -8.749711975774856
+            ],
+            [
+              -15.680981342988659,
+              -7.7812324064202185
+            ],
+            [
+              -15.157719317423336,
+              8.849899518659603
+            ],
+            [
+              15.655662213028878,
+              7.881419948513995
+            ],
+            [
+              15.132400187463556,
+              -8.749711975774856
+            ]
+          ]
+        ]
+      },
+      "version": 5,
+      "timestamp": "2023-08-08T15:51:42Z"
+    }
+  ],
+  "osm": {
+    "type": "way",
+    "id": 250373213,
+    "version": 5,
+    "timestamp": "2023-08-08T15:51:42Z",
+    "url": "https://www.openstreetmap.org/way/250373213"
+  },
+  "additionalOsm": [],
+  "tags": {
+    "addr:city": "Brooklyn",
+    "addr:housenumber": "172",
+    "addr:postcode": "11201",
+    "addr:street": "Cadman Plaza East",
+    "building": "yes",
+    "height": "11.2",
+    "historic": "memorial",
+    "memorial": "war_memorial",
+    "name": "Brooklyn War Memorial",
+    "nycdoitt:bin": "3335882",
+    "start_date": "1951",
+    "website": "https://www.nycgovparks.org/parks/cadman-plaza-park-and-brooklyn-war-memorial/monuments/177"
+  }
+}

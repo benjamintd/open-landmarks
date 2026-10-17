@@ -1,0 +1,613 @@
+{
+  "id": "70-pine-street",
+  "name": "70 Pine Street",
+  "anchor": [
+    -74.0077211,
+    40.7064716
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 13,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 184204,
+      "sha256": "e4941983a478ac9119306eb48083f5e9c00b8f4b0ba3bc1269d7c3a059735e18"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 184204,
+      "sha256": "e4941983a478ac9119306eb48083f5e9c00b8f4b0ba3bc1269d7c3a059735e18"
+    }
+  },
+  "triangles": 3396,
+  "boundsBlenderM": [
+    [
+      -41.669,
+      -39.527,
+      0
+    ],
+    [
+      42.824,
+      38.244,
+      290
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -74.0080315,
+          40.7067095
+        ],
+        [
+          -74.0080489,
+          40.7067191
+        ],
+        [
+          -74.0080288,
+          40.7067385
+        ],
+        [
+          -74.0080127,
+          40.7067542
+        ],
+        [
+          -74.0079964,
+          40.7067698
+        ],
+        [
+          -74.0079797,
+          40.7067859
+        ],
+        [
+          -74.0079588,
+          40.7068064
+        ],
+        [
+          -74.0079336,
+          40.706829
+        ],
+        [
+          -74.0079134,
+          40.706816
+        ],
+        [
+          -74.0077875,
+          40.7067354
+        ],
+        [
+          -74.0075951,
+          40.7066121
+        ],
+        [
+          -74.0075225,
+          40.7065658
+        ],
+        [
+          -74.0074737,
+          40.7065347
+        ],
+        [
+          -74.0072237,
+          40.7063739
+        ],
+        [
+          -74.0074885,
+          40.7061278
+        ],
+        [
+          -74.0077169,
+          40.7062561
+        ],
+        [
+          -74.0077424,
+          40.7062705
+        ],
+        [
+          -74.0077955,
+          40.7063002
+        ],
+        [
+          -74.0078128,
+          40.7063099
+        ],
+        [
+          -74.0078711,
+          40.7063425
+        ],
+        [
+          -74.0079951,
+          40.706412
+        ],
+        [
+          -74.0082143,
+          40.7065348
+        ],
+        [
+          -74.0081961,
+          40.706552
+        ],
+        [
+          -74.0081789,
+          40.7065685
+        ],
+        [
+          -74.0081615,
+          40.7065851
+        ],
+        [
+          -74.0081441,
+          40.7066019
+        ],
+        [
+          -74.0081277,
+          40.7066179
+        ],
+        [
+          -74.0081098,
+          40.7066349
+        ],
+        [
+          -74.0080315,
+          40.7067095
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 278069587,
+    "version": 10,
+    "timestamp": "2024-12-02T21:45:29Z",
+    "url": "https://www.openstreetmap.org/way/278069587"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 286032699,
+      "version": 1,
+      "timestamp": "2014-06-03T08:29:42Z",
+      "url": "https://www.openstreetmap.org/way/286032699"
+    },
+    {
+      "type": "way",
+      "id": 286032700,
+      "version": 1,
+      "timestamp": "2014-06-03T08:29:42Z",
+      "url": "https://www.openstreetmap.org/way/286032700"
+    },
+    {
+      "type": "way",
+      "id": 286032701,
+      "version": 1,
+      "timestamp": "2014-06-03T08:29:42Z",
+      "url": "https://www.openstreetmap.org/way/286032701"
+    },
+    {
+      "type": "way",
+      "id": 286032702,
+      "version": 1,
+      "timestamp": "2014-06-03T08:29:42Z",
+      "url": "https://www.openstreetmap.org/way/286032702"
+    },
+    {
+      "type": "way",
+      "id": 286032703,
+      "version": 1,
+      "timestamp": "2014-06-03T08:29:43Z",
+      "url": "https://www.openstreetmap.org/way/286032703"
+    },
+    {
+      "type": "way",
+      "id": 286032704,
+      "version": 1,
+      "timestamp": "2014-06-03T08:29:43Z",
+      "url": "https://www.openstreetmap.org/way/286032704"
+    },
+    {
+      "type": "way",
+      "id": 286032705,
+      "version": 1,
+      "timestamp": "2014-06-03T08:29:43Z",
+      "url": "https://www.openstreetmap.org/way/286032705"
+    },
+    {
+      "type": "way",
+      "id": 286032706,
+      "version": 1,
+      "timestamp": "2014-06-03T08:29:43Z",
+      "url": "https://www.openstreetmap.org/way/286032706"
+    },
+    {
+      "type": "way",
+      "id": 286032707,
+      "version": 1,
+      "timestamp": "2014-06-03T08:29:43Z",
+      "url": "https://www.openstreetmap.org/way/286032707"
+    },
+    {
+      "type": "way",
+      "id": 286032708,
+      "version": 1,
+      "timestamp": "2014-06-03T08:29:43Z",
+      "url": "https://www.openstreetmap.org/way/286032708"
+    },
+    {
+      "type": "way",
+      "id": 286032709,
+      "version": 1,
+      "timestamp": "2014-06-03T08:29:43Z",
+      "url": "https://www.openstreetmap.org/way/286032709"
+    },
+    {
+      "type": "way",
+      "id": 286032710,
+      "version": 2,
+      "timestamp": "2023-08-18T22:49:54Z",
+      "url": "https://www.openstreetmap.org/way/286032710"
+    },
+    {
+      "type": "way",
+      "id": 286032711,
+      "version": 3,
+      "timestamp": "2024-11-14T15:31:10Z",
+      "url": "https://www.openstreetmap.org/way/286032711"
+    },
+    {
+      "type": "way",
+      "id": 286032712,
+      "version": 2,
+      "timestamp": "2024-07-31T15:14:30Z",
+      "url": "https://www.openstreetmap.org/way/286032712"
+    },
+    {
+      "type": "way",
+      "id": 286032713,
+      "version": 1,
+      "timestamp": "2014-06-03T08:29:44Z",
+      "url": "https://www.openstreetmap.org/way/286032713"
+    },
+    {
+      "type": "way",
+      "id": 286032714,
+      "version": 2,
+      "timestamp": "2023-08-18T22:49:54Z",
+      "url": "https://www.openstreetmap.org/way/286032714"
+    },
+    {
+      "type": "way",
+      "id": 286032715,
+      "version": 2,
+      "timestamp": "2024-11-21T09:39:48Z",
+      "url": "https://www.openstreetmap.org/way/286032715"
+    },
+    {
+      "type": "way",
+      "id": 286032716,
+      "version": 2,
+      "timestamp": "2023-08-18T22:49:54Z",
+      "url": "https://www.openstreetmap.org/way/286032716"
+    },
+    {
+      "type": "way",
+      "id": 286032717,
+      "version": 1,
+      "timestamp": "2014-06-03T08:29:44Z",
+      "url": "https://www.openstreetmap.org/way/286032717"
+    },
+    {
+      "type": "way",
+      "id": 286032718,
+      "version": 1,
+      "timestamp": "2014-06-03T08:29:44Z",
+      "url": "https://www.openstreetmap.org/way/286032718"
+    },
+    {
+      "type": "way",
+      "id": 286032719,
+      "version": 2,
+      "timestamp": "2023-08-18T22:49:54Z",
+      "url": "https://www.openstreetmap.org/way/286032719"
+    },
+    {
+      "type": "way",
+      "id": 286032720,
+      "version": 2,
+      "timestamp": "2023-08-18T22:49:54Z",
+      "url": "https://www.openstreetmap.org/way/286032720"
+    },
+    {
+      "type": "way",
+      "id": 286032721,
+      "version": 2,
+      "timestamp": "2023-08-18T22:49:54Z",
+      "url": "https://www.openstreetmap.org/way/286032721"
+    },
+    {
+      "type": "way",
+      "id": 286032722,
+      "version": 2,
+      "timestamp": "2023-08-18T22:49:54Z",
+      "url": "https://www.openstreetmap.org/way/286032722"
+    },
+    {
+      "type": "way",
+      "id": 286032723,
+      "version": 1,
+      "timestamp": "2014-06-03T08:29:45Z",
+      "url": "https://www.openstreetmap.org/way/286032723"
+    },
+    {
+      "type": "way",
+      "id": 286032724,
+      "version": 1,
+      "timestamp": "2014-06-03T08:29:45Z",
+      "url": "https://www.openstreetmap.org/way/286032724"
+    },
+    {
+      "type": "way",
+      "id": 286032725,
+      "version": 1,
+      "timestamp": "2014-06-03T08:29:45Z",
+      "url": "https://www.openstreetmap.org/way/286032725"
+    },
+    {
+      "type": "way",
+      "id": 286032726,
+      "version": 1,
+      "timestamp": "2014-06-03T08:29:45Z",
+      "url": "https://www.openstreetmap.org/way/286032726"
+    },
+    {
+      "type": "way",
+      "id": 286032727,
+      "version": 1,
+      "timestamp": "2014-06-03T08:29:45Z",
+      "url": "https://www.openstreetmap.org/way/286032727"
+    },
+    {
+      "type": "way",
+      "id": 286032728,
+      "version": 1,
+      "timestamp": "2014-06-03T08:29:45Z",
+      "url": "https://www.openstreetmap.org/way/286032728"
+    },
+    {
+      "type": "way",
+      "id": 286032729,
+      "version": 1,
+      "timestamp": "2014-06-03T08:29:45Z",
+      "url": "https://www.openstreetmap.org/way/286032729"
+    },
+    {
+      "type": "way",
+      "id": 286032730,
+      "version": 1,
+      "timestamp": "2014-06-03T08:29:46Z",
+      "url": "https://www.openstreetmap.org/way/286032730"
+    },
+    {
+      "type": "way",
+      "id": 286032731,
+      "version": 1,
+      "timestamp": "2014-06-03T08:29:46Z",
+      "url": "https://www.openstreetmap.org/way/286032731"
+    },
+    {
+      "type": "way",
+      "id": 286032732,
+      "version": 1,
+      "timestamp": "2014-06-03T08:29:46Z",
+      "url": "https://www.openstreetmap.org/way/286032732"
+    },
+    {
+      "type": "way",
+      "id": 286032733,
+      "version": 4,
+      "timestamp": "2024-11-14T15:45:39Z",
+      "url": "https://www.openstreetmap.org/way/286032733"
+    },
+    {
+      "type": "way",
+      "id": 286032734,
+      "version": 1,
+      "timestamp": "2014-06-03T08:29:46Z",
+      "url": "https://www.openstreetmap.org/way/286032734"
+    },
+    {
+      "type": "way",
+      "id": 286032735,
+      "version": 1,
+      "timestamp": "2014-06-03T08:29:46Z",
+      "url": "https://www.openstreetmap.org/way/286032735"
+    },
+    {
+      "type": "way",
+      "id": 286032736,
+      "version": 1,
+      "timestamp": "2014-06-03T08:29:46Z",
+      "url": "https://www.openstreetmap.org/way/286032736"
+    },
+    {
+      "type": "way",
+      "id": 286032737,
+      "version": 1,
+      "timestamp": "2014-06-03T08:29:47Z",
+      "url": "https://www.openstreetmap.org/way/286032737"
+    },
+    {
+      "type": "way",
+      "id": 286032738,
+      "version": 1,
+      "timestamp": "2014-06-03T08:29:47Z",
+      "url": "https://www.openstreetmap.org/way/286032738"
+    },
+    {
+      "type": "way",
+      "id": 286032739,
+      "version": 1,
+      "timestamp": "2014-06-03T08:29:47Z",
+      "url": "https://www.openstreetmap.org/way/286032739"
+    },
+    {
+      "type": "way",
+      "id": 286032740,
+      "version": 2,
+      "timestamp": "2023-08-18T22:49:54Z",
+      "url": "https://www.openstreetmap.org/way/286032740"
+    },
+    {
+      "type": "way",
+      "id": 286032741,
+      "version": 1,
+      "timestamp": "2014-06-03T08:29:47Z",
+      "url": "https://www.openstreetmap.org/way/286032741"
+    },
+    {
+      "type": "way",
+      "id": 286032742,
+      "version": 2,
+      "timestamp": "2023-08-18T22:49:54Z",
+      "url": "https://www.openstreetmap.org/way/286032742"
+    },
+    {
+      "type": "way",
+      "id": 286032743,
+      "version": 2,
+      "timestamp": "2023-08-18T22:49:54Z",
+      "url": "https://www.openstreetmap.org/way/286032743"
+    },
+    {
+      "type": "way",
+      "id": 286032744,
+      "version": 1,
+      "timestamp": "2014-06-03T08:29:47Z",
+      "url": "https://www.openstreetmap.org/way/286032744"
+    },
+    {
+      "type": "way",
+      "id": 286032745,
+      "version": 1,
+      "timestamp": "2014-06-03T08:29:47Z",
+      "url": "https://www.openstreetmap.org/way/286032745"
+    },
+    {
+      "type": "way",
+      "id": 286032746,
+      "version": 2,
+      "timestamp": "2024-07-31T15:14:30Z",
+      "url": "https://www.openstreetmap.org/way/286032746"
+    },
+    {
+      "type": "way",
+      "id": 286032747,
+      "version": 1,
+      "timestamp": "2014-06-03T08:29:48Z",
+      "url": "https://www.openstreetmap.org/way/286032747"
+    },
+    {
+      "type": "way",
+      "id": 286032748,
+      "version": 1,
+      "timestamp": "2014-06-03T08:29:48Z",
+      "url": "https://www.openstreetmap.org/way/286032748"
+    },
+    {
+      "type": "way",
+      "id": 286032749,
+      "version": 1,
+      "timestamp": "2014-06-03T08:29:48Z",
+      "url": "https://www.openstreetmap.org/way/286032749"
+    },
+    {
+      "type": "way",
+      "id": 286032750,
+      "version": 1,
+      "timestamp": "2014-06-03T08:29:48Z",
+      "url": "https://www.openstreetmap.org/way/286032750"
+    },
+    {
+      "type": "way",
+      "id": 286032751,
+      "version": 1,
+      "timestamp": "2014-06-03T08:29:48Z",
+      "url": "https://www.openstreetmap.org/way/286032751"
+    },
+    {
+      "type": "way",
+      "id": 286032752,
+      "version": 1,
+      "timestamp": "2014-06-03T08:29:48Z",
+      "url": "https://www.openstreetmap.org/way/286032752"
+    },
+    {
+      "type": "way",
+      "id": 286032753,
+      "version": 1,
+      "timestamp": "2014-06-03T08:29:48Z",
+      "url": "https://www.openstreetmap.org/way/286032753"
+    },
+    {
+      "type": "way",
+      "id": 286032754,
+      "version": 1,
+      "timestamp": "2014-06-03T08:29:48Z",
+      "url": "https://www.openstreetmap.org/way/286032754"
+    },
+    {
+      "type": "way",
+      "id": 286032755,
+      "version": 1,
+      "timestamp": "2014-06-03T08:29:48Z",
+      "url": "https://www.openstreetmap.org/way/286032755"
+    },
+    {
+      "type": "way",
+      "id": 286032756,
+      "version": 1,
+      "timestamp": "2014-06-03T08:29:49Z",
+      "url": "https://www.openstreetmap.org/way/286032756"
+    }
+  ],
+  "wikidata": "Q262041",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/nyc-70-pine.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "70 Pine Street (former Cities Service / AIG Building) — procedural, CC0-1.0, no textures. bun generators/nyc-70-pine.ts",
+    "Also a small kit for the downtown group of the New York batch (nyc-40-wall-street, nyc-8-spruce, nyc-municipal-building import `SplitPart` and `Box` helpers from here). The model itself is only written when this file is run directly.",
+    "Map frame: x = model east (Pearl Street side), y = model north (Pine Street), z up, metres. Placed at bearing 38°, the axis of the tower's walls. Anchor: area centroid of the OSM outline way/278069587.",
+    "Evidence",
+    "OSM way/278069587 (outline, 77 × 38 m) and its 58 building:part ways 286032699…286032756, which map every setback of the base and the cruciform tower; their plans are used, squared to the 38° axis and mirrored about the tower's centre (x 5.5, y −0.6), where they are already symmetric to within half a metre.",
+    "Lidar: USGS 3DEP NY_NewYorkCity, flown 2017, resampled into the model frame. OSM's stage heights are low on the west wing: lidar gives 56/71/79/96/107/117/126 m for OSM's 45/50/70/75/90/100/112 m stages, and the tower's main roof at 237 m (OSM 242), its E/W wings 232 m, the corner ledges 216 m and the outer wing tips 200–212 m; the crown steps at 245–247, ~253, ~258–261 m and the lantern to 267 m.",
+    "Published: 290 m to the spire tip, 67 floors, Clinton & Russell with Holton & George, 1932 (Wikipedia; NYC LPC designation 2011). Limestone and buff brick shading lighter towards the top; a glass-enclosed observation solarium under the spire.",
+    "Photos (Wikimedia Commons): /tmp/city/nyc/work/nyc-70-pine/photos/credits.txt",
+    "Estimated: the crown tiers' exact plans (OSM's, rounded); the glass lantern's height (~6 m); the spire's taper. The base's darker shade is a simplification of the graded brick into two tones (below and above the 126 m west wing roof).",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"nyc-70-pine\", model \"nyc-70-pine\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/nyc-70-pine.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

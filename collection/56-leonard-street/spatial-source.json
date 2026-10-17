@@ -1,0 +1,189 @@
+{
+  "id": "56-leonard-street",
+  "anchor": [
+    -74.0062596,
+    40.7176453
+  ],
+  "coordinateSystem": "Local metres about the anchor (equirectangular, WGS84 radius): X east, Y north, Z up. glTF export: X east, Y up, Z south. Heading already baked.",
+  "license": "ODbL-1.0",
+  "footprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -7.787606525225576,
+          24.801982548292806
+        ],
+        [
+          -25.784318030892504,
+          -5.410127252498565
+        ],
+        [
+          -19.144181155314758,
+          -9.128198244940153
+        ],
+        [
+          -5.442043563082269,
+          -17.310180818153526
+        ],
+        [
+          3.25678886222683,
+          -22.497669089627653
+        ],
+        [
+          5.003305168122397,
+          -19.558834532353544
+        ],
+        [
+          9.812552968390174,
+          -22.430877395162128
+        ],
+        [
+          25.88556535418979,
+          4.497307427609064
+        ],
+        [
+          -7.787606525225576,
+          24.801982548292806
+        ]
+      ]
+    ]
+  },
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -74.0063519,
+          40.7178681
+        ],
+        [
+          -74.0065652,
+          40.7175967
+        ],
+        [
+          -74.0064865,
+          40.7175633
+        ],
+        [
+          -74.0063241,
+          40.7174898
+        ],
+        [
+          -74.006221,
+          40.7174432
+        ],
+        [
+          -74.0062003,
+          40.7174696
+        ],
+        [
+          -74.0061433,
+          40.7174438
+        ],
+        [
+          -74.0059528,
+          40.7176857
+        ],
+        [
+          -74.0063519,
+          40.7178681
+        ]
+      ]
+    ]
+  },
+  "parts": [
+    {
+      "osm": "way/261499928",
+      "tags": {
+        "addr:city": "New York",
+        "addr:housenumber": "56",
+        "addr:postcode": "10013",
+        "addr:state": "NY",
+        "addr:street": "Leonard Street",
+        "alt_name": "56 Leonard Street",
+        "building": "apartments",
+        "building:flats": "145",
+        "building:levels": "60",
+        "height": "250",
+        "material": "glass",
+        "name": "Jenga Building",
+        "start_date": "2016",
+        "website": "https://www.jengabuildingnyc.com/",
+        "wikidata": "Q244358",
+        "wikipedia": "en:56 Leonard Street"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -7.787606525225576,
+              24.801982548292806
+            ],
+            [
+              -25.784318030892504,
+              -5.410127252498565
+            ],
+            [
+              -19.144181155314758,
+              -9.128198244940153
+            ],
+            [
+              -5.442043563082269,
+              -17.310180818153526
+            ],
+            [
+              3.25678886222683,
+              -22.497669089627653
+            ],
+            [
+              5.003305168122397,
+              -19.558834532353544
+            ],
+            [
+              9.812552968390174,
+              -22.430877395162128
+            ],
+            [
+              25.88556535418979,
+              4.497307427609064
+            ],
+            [
+              -7.787606525225576,
+              24.801982548292806
+            ]
+          ]
+        ]
+      },
+      "version": 11,
+      "timestamp": "2026-07-22T07:01:33Z"
+    }
+  ],
+  "osm": {
+    "type": "way",
+    "id": 261499928,
+    "version": 11,
+    "timestamp": "2026-07-22T07:01:33Z",
+    "url": "https://www.openstreetmap.org/way/261499928"
+  },
+  "additionalOsm": [],
+  "tags": {
+    "addr:city": "New York",
+    "addr:housenumber": "56",
+    "addr:postcode": "10013",
+    "addr:state": "NY",
+    "addr:street": "Leonard Street",
+    "alt_name": "56 Leonard Street",
+    "building": "apartments",
+    "building:flats": "145",
+    "building:levels": "60",
+    "height": "250",
+    "material": "glass",
+    "name": "Jenga Building",
+    "start_date": "2016",
+    "website": "https://www.jengabuildingnyc.com/",
+    "wikidata": "Q244358",
+    "wikipedia": "en:56 Leonard Street"
+  }
+}

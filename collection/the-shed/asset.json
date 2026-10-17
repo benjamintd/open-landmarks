@@ -1,0 +1,178 @@
+{
+  "id": "the-shed",
+  "name": "The Shed",
+  "anchor": [
+    -74.0027245,
+    40.7532544
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 104712,
+      "sha256": "eb9ea5dcd711d6b171f0ce200632aff019d06531f4a1e16b0bc90da1641e7f1e"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 104712,
+      "sha256": "eb9ea5dcd711d6b171f0ce200632aff019d06531f4a1e16b0bc90da1641e7f1e"
+    }
+  },
+  "triangles": 1810,
+  "boundsBlenderM": [
+    [
+      -50.136,
+      -37.637,
+      0
+    ],
+    [
+      53.302,
+      41.28,
+      36.4
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -74.0029642,
+          40.7536275
+        ],
+        [
+          -74.00294,
+          40.7536176
+        ],
+        [
+          -74.0026038,
+          40.7534798
+        ],
+        [
+          -74.0021096,
+          40.7532772
+        ],
+        [
+          -74.0021076,
+          40.7532702
+        ],
+        [
+          -74.0021489,
+          40.7532141
+        ],
+        [
+          -74.0023135,
+          40.7529845
+        ],
+        [
+          -74.0023529,
+          40.7529296
+        ],
+        [
+          -74.0023618,
+          40.7529279
+        ],
+        [
+          -74.0027039,
+          40.7530702
+        ],
+        [
+          -74.0027637,
+          40.7530951
+        ],
+        [
+          -74.0028065,
+          40.7531123
+        ],
+        [
+          -74.0028085,
+          40.7531096
+        ],
+        [
+          -74.0029065,
+          40.7529769
+        ],
+        [
+          -74.0029334,
+          40.7529881
+        ],
+        [
+          -74.0033192,
+          40.753149
+        ],
+        [
+          -74.0032197,
+          40.7532853
+        ],
+        [
+          -74.0029642,
+          40.7536275
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 681503639,
+    "version": 15,
+    "timestamp": "2023-11-04T21:23:03Z",
+    "url": "https://www.openstreetmap.org/way/681503639"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 1220655932,
+      "version": 2,
+      "timestamp": "2023-11-04T11:19:11Z",
+      "url": "https://www.openstreetmap.org/way/1220655932"
+    },
+    {
+      "type": "way",
+      "id": 1220614724,
+      "version": 2,
+      "timestamp": "2023-11-04T02:12:59Z",
+      "url": "https://www.openstreetmap.org/way/1220614724"
+    }
+  ],
+  "wikidata": "Q15961661",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/nyc-the-shed.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "The Shed (Bloomberg Building) — procedural, CC0-1.0, no textures. bun generators/nyc-the-shed.ts",
+    "Map frame: x = model east (the Shed Plaza), y = model north, z up, metres. Placed at bearing 29°, the Manhattan grid. Anchor: area centroid of the OSM outline way/681503639, which takes in both the fixed building and the plaza the shell rolls out over.",
+    "Drawn with the shell deployed over the plaza, as the photos, the NAIP orthophoto and OSM all show it: the fixed eight-storey glass building at the west end of the lot against 15 Hudson Yards, and the telescoping shell beside it to the east. The shell is a long vault with strongly rounded shoulders, clad in broad diamond-quilted pillows of ETFE (drawn as leaning diamonds, each a shallow pyramid so the flat-shaded facets read as pillows), its gable ends framed by a rounded steel rim; its skin pinches down to the bogies at the corners and mid-sides over a glazed ground floor.",
+    "Evidence",
+    "OSM way/681503639 (outline, 40 m) and parts 1220655932 (40–48 m, the shell's roof over the plaza: x −3.2…44.8, y −17…27 here, the shell's plan) and 1220614724 (5.5 m, the low strip on the south side under the High Line spur). The fixed building is the rest of the outline, x −38…−3.",
+    "USGS NAIP orthophoto (/tmp/city/nyc/work/nyc-the-shed/naip.png): the pale shell roof over the plaza, about 46 × 43 m, rounded at its edges.",
+    "Published: eight storeys; shell of exposed steel clad in ETFE, rolling on eight bogies along rails onto the plaza to enclose the McCourt; Diller Scofidio + Renfro with Rockwell Group, 2019 (Wikipedia).",
+    "The 2017 USGS lidar predates the building (the lot reads as construction).",
+    "Photos (Wikimedia Commons, daylight; from the plaza to the north-east and north, from the High Line to the south-east, close-ups of the pillows): /tmp/city/nyc/work/nyc-the-shed/photos/credits.txt.",
+    "Estimated: the shell's height (35 m, from the photos' length-to-height ratio; OSM's 40–48 m reads too tall against them), its 8 m shoulder radius, the diamond size and lean, the pillow depth, the 8 m opening under the shell and the legs; the fixed building's height (28 m: in the photos from the plaza it stands well below the shell) and its glazing. The gable ends' pinwheel quilting is drawn as a plain diamond quilt.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"nyc-the-shed\", model \"nyc-the-shed\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/nyc-the-shed.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

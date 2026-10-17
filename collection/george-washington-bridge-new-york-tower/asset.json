@@ -1,0 +1,129 @@
+{
+  "id": "george-washington-bridge-new-york-tower",
+  "name": "George Washington Bridge (New York tower)",
+  "anchor": [
+    -73.946519,
+    40.8504589
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 13,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 226556,
+      "sha256": "7a003af007f7fa144c97466b18eb1f183c8151fa3a85aca7bf68e4cbf59308f4"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 226556,
+      "sha256": "7a003af007f7fa144c97466b18eb1f183c8151fa3a85aca7bf68e4cbf59308f4"
+    }
+  },
+  "triangles": 4398,
+  "boundsBlenderM": [
+    [
+      -22.364,
+      -38.345,
+      0
+    ],
+    [
+      22.364,
+      38.345,
+      184
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -73.9465798,
+          40.8508164
+        ],
+        [
+          -73.9466367,
+          40.8506512
+        ],
+        [
+          -73.9467445,
+          40.8503385
+        ],
+        [
+          -73.9467989,
+          40.8501807
+        ],
+        [
+          -73.9464819,
+          40.8501182
+        ],
+        [
+          -73.9464268,
+          40.8502781
+        ],
+        [
+          -73.9463191,
+          40.8505907
+        ],
+        [
+          -73.9462629,
+          40.8507539
+        ],
+        [
+          -73.9465798,
+          40.8508164
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 741784700,
+    "version": 3,
+    "timestamp": "2023-04-24T23:57:41Z",
+    "url": "https://www.openstreetmap.org/way/741784700"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q125821",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/nyc-george-washington-bridge.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "George Washington Bridge towers (1931; Othmar Ammann, Cass Gilbert) — procedural, CC0-1.0, no textures. bun generators/nyc-george-washington-bridge.ts",
+    "One tower, placed twice (New Jersey and New York; OSM maps both with the same 72.5 x 28 m outline). Map frame: x across the bridge, y along it (toward New Jersey), z up, metres; origin at the tower's centre on the water. Placed at bearing 284.4°, the line from the New York tower's centroid to the New Jersey one's (1,064 m apart; the published main span is 3,500 ft, 1,067 m). Only the tower and its pier: no cables, and the deck is a stub no longer than the tower is deep, so the map's bridge line carries the span.",
+    "What makes it the George Washington Bridge: the never-clad steel frame. Two square lattice legs, every face filled with big X panels, joined by a tall semicircular arch over the roadway with lattice spandrels above it, a second arch under the deck, and a deep open attic band across the top. Pale grey paint.",
+    "Sources:",
+    "OSM: tower outlines way/741784699 (New Jersey) and way/741784700 (New York), bridge:support=pylon, height 184: 72.5 x 28 m in the bridge frame, which is the pier.",
+    "Lidar (USGS 3DEP NY_NewYorkCity 2017, point cloud cropped to each tower, heights above the river at about -0.7 m NAVD88): top 184 m (NJ 183.5– 184.4, NY 182–185); legs |x| 16–31 (each about 15 m square, 15.5 m deep along the bridge), the opening between them about 31 m; the arch crown (outer edge) about 145 m; cross members under the attic at 176–178 m and in the spandrel at about 151 and 165 m; the upper roadway's top 71.5 m (NY) to 77 m (NJ) at the towers; the NY pier about 5 m. The tower centres sit 0.5 m off the OSM centroids across the bridge and 1.2 m along it; the placements use the lidar centres.",
+    "Published: towers 604 ft (184 m) above the water; deck clearance 213 ft (65 m) at mid-span; the lower level added 1962 (Wikipedia \"George Washington Bridge\"; Port Authority of NY & NJ).",
+    "Photos (Wikimedia Commons): \"George Washington Bridge (tower structure)\" (Frederika Eilers, CC BY-SA 3.0; the attic, spandrel X panels and arch ring face-on); \"George Washington Bridge west tower and south sidewalk seen from the west\" (Beyond My Ken, CC BY-SA 4.0; the NJ tower's portal and the legs' inner faces); \"2015 George Washington Bridge east tower from south\" (Beyond My Ken, CC BY-SA 4.0; a leg's side face, the arch under the deck); \"George Washington Bridge from Englewood Basin NJ2\" (Acroterion, CC BY-SA 4.0; the NY tower whole, three-quarter from the north-west); HAER NY-129-18 \"George Washington Bridge New York roadway and tower\" (Jet Lowe, public domain; portal face-on from the roadway); \"George Washington Bridge from Ft Tryon Park 06\" (Jay Dobkin, CC BY-SA 4.0; the NY tower from the south-east, for the paint).",
+    "Estimated from photos: the lower arch (crown about 45 m), the panel rhythm (four X panels per face below the deck, seven above, square-ish as in the photos), the attic's ten openings, the deck stub (62–74 m).",
+    "Colour: lit steel in daylight photos reads #acb3bd to #e0e2e6, a pale grey with a faint blue; pulled to the palette's lightness, the bracing a shade deeper so the X panels read against the posts.",
+    "y = 0 is the river. The New Jersey tower stands at the shore's edge on rock a few metres up; the map puts y = 0 at the lowest ground under it.",
+    "The lattice is drawn as broad plates: corner posts, horizontal struts at each panel line, and one X of two wide plates per panel, on every face of each leg, so the legs stay see-through as the real frame is.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"nyc-george-washington-bridge-new-york\", model \"nyc-george-washington-bridge\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/nyc-george-washington-bridge.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

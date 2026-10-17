@@ -1,0 +1,351 @@
+{
+  "id": "hoboken-terminal",
+  "name": "Hoboken Terminal",
+  "anchor": [
+    -74.028196,
+    40.7350212
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 116052,
+      "sha256": "2eef8b3c54a8759374ec1406870e663a98bc88d0a1e7ed50ac739bdbe196316f"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 116052,
+      "sha256": "2eef8b3c54a8759374ec1406870e663a98bc88d0a1e7ed50ac739bdbe196316f"
+    }
+  },
+  "triangles": 2288,
+  "boundsBlenderM": [
+    [
+      -164.075,
+      -64.442,
+      0
+    ],
+    [
+      174.877,
+      106.002,
+      66
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -74.0301409,
+          40.7353708
+        ],
+        [
+          -74.0291545,
+          40.735378
+        ],
+        [
+          -74.0288049,
+          40.7353806
+        ],
+        [
+          -74.028724,
+          40.7353816
+        ],
+        [
+          -74.0286942,
+          40.735382
+        ],
+        [
+          -74.028079,
+          40.7353894
+        ],
+        [
+          -74.0280024,
+          40.7353903
+        ],
+        [
+          -74.0279815,
+          40.7354371
+        ],
+        [
+          -74.0280379,
+          40.7354448
+        ],
+        [
+          -74.0280097,
+          40.7355186
+        ],
+        [
+          -74.0279648,
+          40.7355089
+        ],
+        [
+          -74.0279546,
+          40.7355283
+        ],
+        [
+          -74.0278414,
+          40.7355084
+        ],
+        [
+          -74.0277707,
+          40.735496
+        ],
+        [
+          -74.0277661,
+          40.7353781
+        ],
+        [
+          -74.0277595,
+          40.7352095
+        ],
+        [
+          -74.0275652,
+          40.735213
+        ],
+        [
+          -74.0274503,
+          40.7352151
+        ],
+        [
+          -74.0268477,
+          40.7359802
+        ],
+        [
+          -74.0264676,
+          40.7359022
+        ],
+        [
+          -74.0261458,
+          40.7358234
+        ],
+        [
+          -74.0261627,
+          40.7357868
+        ],
+        [
+          -74.026334,
+          40.7354164
+        ],
+        [
+          -74.0265592,
+          40.7350368
+        ],
+        [
+          -74.0268109,
+          40.7346838
+        ],
+        [
+          -74.0268425,
+          40.7346352
+        ],
+        [
+          -74.0269296,
+          40.7346753
+        ],
+        [
+          -74.0270883,
+          40.7344484
+        ],
+        [
+          -74.0271969,
+          40.7344981
+        ],
+        [
+          -74.0271904,
+          40.7345488
+        ],
+        [
+          -74.027327,
+          40.7345515
+        ],
+        [
+          -74.0273268,
+          40.734466
+        ],
+        [
+          -74.0278164,
+          40.7344671
+        ],
+        [
+          -74.0278389,
+          40.7344672
+        ],
+        [
+          -74.0280702,
+          40.7344624
+        ],
+        [
+          -74.0280726,
+          40.7344478
+        ],
+        [
+          -74.0280713,
+          40.7344328
+        ],
+        [
+          -74.0280768,
+          40.734341
+        ],
+        [
+          -74.0281112,
+          40.7343412
+        ],
+        [
+          -74.0281222,
+          40.7343412
+        ],
+        [
+          -74.0281876,
+          40.7343425
+        ],
+        [
+          -74.0282255,
+          40.7343419
+        ],
+        [
+          -74.028228,
+          40.7344003
+        ],
+        [
+          -74.0282307,
+          40.7344655
+        ],
+        [
+          -74.0301205,
+          40.7344341
+        ],
+        [
+          -74.0301207,
+          40.734441
+        ],
+        [
+          -74.0301222,
+          40.7345109
+        ],
+        [
+          -74.030124,
+          40.7345932
+        ],
+        [
+          -74.0301248,
+          40.7346319
+        ],
+        [
+          -74.0301267,
+          40.7347151
+        ],
+        [
+          -74.0301272,
+          40.7347405
+        ],
+        [
+          -74.0301292,
+          40.734833
+        ],
+        [
+          -74.03013,
+          40.7348676
+        ],
+        [
+          -74.0301318,
+          40.7349508
+        ],
+        [
+          -74.0301326,
+          40.7349874
+        ],
+        [
+          -74.0301344,
+          40.7350697
+        ],
+        [
+          -74.0301351,
+          40.7351022
+        ],
+        [
+          -74.030137,
+          40.73519
+        ],
+        [
+          -74.0301377,
+          40.7352231
+        ],
+        [
+          -74.0301391,
+          40.7352887
+        ],
+        [
+          -74.0301409,
+          40.7353708
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 26808027,
+    "version": 27,
+    "timestamp": "2021-10-03T00:08:11Z",
+    "url": "https://www.openstreetmap.org/way/26808027"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 331072207,
+      "version": 1,
+      "timestamp": "2015-03-03T14:00:44Z",
+      "url": "https://www.openstreetmap.org/way/331072207"
+    },
+    {
+      "type": "way",
+      "id": 331072208,
+      "version": 1,
+      "timestamp": "2015-03-03T14:00:44Z",
+      "url": "https://www.openstreetmap.org/way/331072208"
+    }
+  ],
+  "wikidata": "Q6128305",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/nyc-hoboken-terminal.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Hoboken Terminal (Erie Lackawanna Terminal), Hoboken NJ — procedural, CC0-1.0, no textures. bun generators/nyc-hoboken-terminal.ts",
+    "Map frame: x = model east (the Hudson), y = model north, z up, metres. Placed at bearing -1°, the train shed's tracks (the outline's dominant edges). Anchor: area centroid of the OSM outline way/26808027.",
+    "Evidence",
+    "OSM way/26808027 (one outline over the whole terminal: the Bush train shed x -163…35, y -62…40.5; the head house and waiting room; the ferry building along the river at ~30°) and parts 331072207/208 (the waiting room). No heights in OSM.",
+    "Lidar: USGS 3DEP NY_NewYorkCity (2017), in the model frame (/tmp/city/nyc/work/nyc-hoboken-terminal/bandsE.png), above the lowest ground (-0.35 m NAVD88): the train shed 7.9 m; the head house (x 35…68, y -27…20) and the block north of it 18.5 m, the waiting room's roof (x 41…60, y -27…7) to 24.5 m; the ferry building's long ridge 20 m over eaves of ~13.5 m, 74 m deep and ~170 m along the river; the clock tower at x 64…74, y -14…-5, its roof to 62.3 m (the 2008 rebuild is in the 2017 flight).",
+    "Published: 1907, Kenneth Murchison, Beaux-Arts; copper-clad; the ferry slips' arched facade with \"LACKAWANNA\" on it; the Lincoln Bush train shed; the clock tower, removed in the 1950s and rebuilt in 2008 (Wikipedia; NRHP 73001102).",
+    "Photos, credits in /tmp/city/nyc/work/nyc-hoboken-terminal/photos/credits.txt: the river front (Jakub Hałun, CC BY 4.0; King of Hearts, CC BY-SA 4.0; Earnest B, CC BY-SA 3.0), the clock tower and waiting room from the tracks and the street (GK tramrunner RU, CC BY-SA 4.0), the shed from above (Andy Atzert, CC BY 2.0), the ferry facade (ThirstyNollij, CC BY-SA 4.0).",
+    "Colours: the ferry front and the tower are painted the dark copper red of the 2011 restoration with green copper trim (2023 photos); the waiting room's street front is green copper, its track sides copper red.",
+    "Estimated: the arches' size and count (two on each of the three river faces north of the tower, six in all), the facade's parapet (16 m) and the sign's frieze (18.4 m), the pinnacles, the tower's stages (shaft to 43.5 m, clock centre 39.5 m, belfry 46–51 m, pyramid to 62.3 m, rod to 66 m, from a photo scaled to the lidar), the waiting room's windows, the shed's ridge rows (one per pair of tracks). Lettering: \"LACKAWANNA\" on the ferry front is kept, drawn as block strokes, because the sign is part of the landmark.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"nyc-hoboken-terminal\", model \"nyc-hoboken-terminal\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/nyc-hoboken-terminal.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 228 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the nyc-hoboken-terminal-glazing finish in the window colour.",
+    "To fit six materials, folded nyc-hoboken-terminal-hoboken-shed-roof into roof (ΔE 15.1)."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

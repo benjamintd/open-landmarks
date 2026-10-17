@@ -1,0 +1,229 @@
+{
+  "id": "bank-of-america-tower",
+  "name": "Bank of America Tower",
+  "anchor": [
+    -73.9847166,
+    40.7555573
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 13,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 180508,
+      "sha256": "59430936b68c9afca32ce891c0f0810d82249793772f0bf8e75a167b69962def"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 180508,
+      "sha256": "59430936b68c9afca32ce891c0f0810d82249793772f0bf8e75a167b69962def"
+    }
+  },
+  "triangles": 3247,
+  "boundsBlenderM": [
+    [
+      -69.888,
+      -47.56,
+      0
+    ],
+    [
+      69.308,
+      55.032,
+      366
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -73.9855693,
+          40.7556002
+        ],
+        [
+          -73.9853568,
+          40.7558917
+        ],
+        [
+          -73.9852163,
+          40.7560845
+        ],
+        [
+          -73.9851597,
+          40.7560608
+        ],
+        [
+          -73.9840752,
+          40.7556013
+        ],
+        [
+          -73.9838616,
+          40.7555108
+        ],
+        [
+          -73.9842172,
+          40.7550316
+        ],
+        [
+          -73.9846075,
+          40.7551958
+        ],
+        [
+          -73.9855115,
+          40.7555764
+        ],
+        [
+          -73.9855693,
+          40.7556002
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 86121621,
+    "version": 34,
+    "timestamp": "2023-08-22T03:35:49Z",
+    "url": "https://www.openstreetmap.org/way/86121621"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 260153997,
+      "version": 2,
+      "timestamp": "2014-05-06T06:55:52Z",
+      "url": "https://www.openstreetmap.org/way/260153997"
+    },
+    {
+      "type": "way",
+      "id": 260153998,
+      "version": 4,
+      "timestamp": "2014-07-08T14:22:36Z",
+      "url": "https://www.openstreetmap.org/way/260153998"
+    },
+    {
+      "type": "way",
+      "id": 279687416,
+      "version": 2,
+      "timestamp": "2014-07-08T14:22:36Z",
+      "url": "https://www.openstreetmap.org/way/279687416"
+    },
+    {
+      "type": "way",
+      "id": 279687417,
+      "version": 2,
+      "timestamp": "2014-05-06T07:28:11Z",
+      "url": "https://www.openstreetmap.org/way/279687417"
+    },
+    {
+      "type": "way",
+      "id": 279687418,
+      "version": 1,
+      "timestamp": "2014-05-06T06:55:51Z",
+      "url": "https://www.openstreetmap.org/way/279687418"
+    },
+    {
+      "type": "way",
+      "id": 279687419,
+      "version": 2,
+      "timestamp": "2014-05-06T07:28:11Z",
+      "url": "https://www.openstreetmap.org/way/279687419"
+    },
+    {
+      "type": "way",
+      "id": 279687420,
+      "version": 3,
+      "timestamp": "2026-01-25T20:15:31Z",
+      "url": "https://www.openstreetmap.org/way/279687420"
+    },
+    {
+      "type": "way",
+      "id": 279691503,
+      "version": 3,
+      "timestamp": "2022-06-08T22:34:01Z",
+      "url": "https://www.openstreetmap.org/way/279691503"
+    },
+    {
+      "type": "way",
+      "id": 279691506,
+      "version": 2,
+      "timestamp": "2022-06-08T22:34:01Z",
+      "url": "https://www.openstreetmap.org/way/279691506"
+    },
+    {
+      "type": "way",
+      "id": 279691507,
+      "version": 2,
+      "timestamp": "2022-06-08T22:34:01Z",
+      "url": "https://www.openstreetmap.org/way/279691507"
+    },
+    {
+      "type": "way",
+      "id": 279691508,
+      "version": 1,
+      "timestamp": "2014-05-06T07:28:10Z",
+      "url": "https://www.openstreetmap.org/way/279691508"
+    },
+    {
+      "type": "way",
+      "id": 279691511,
+      "version": 1,
+      "timestamp": "2014-05-06T07:28:11Z",
+      "url": "https://www.openstreetmap.org/way/279691511"
+    },
+    {
+      "type": "way",
+      "id": 291927532,
+      "version": 1,
+      "timestamp": "2014-07-08T14:22:35Z",
+      "url": "https://www.openstreetmap.org/way/291927532"
+    },
+    {
+      "type": "way",
+      "id": 291927536,
+      "version": 1,
+      "timestamp": "2014-07-08T14:22:35Z",
+      "url": "https://www.openstreetmap.org/way/291927536"
+    }
+  ],
+  "wikidata": "Q328505",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/nyc-bank-of-america-tower.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Bank of America Tower (One Bryant Park) — procedural, CC0-1.0, no textures. bun generators/nyc-bank-of-america-tower.ts",
+    "Map frame: x = model east (Sixth Avenue), y = model north (West 43rd Street), z up, metres. Placed at bearing 29°, the Manhattan grid. Anchor: area centroid of the OSM outline way/86121621, which covers the whole block front from Sixth Avenue to 4 Times Square, podium included.",
+    "The tower is two crystalline shards, each a convex hull of measured points: vertical walls that break into leaning facets near the top, and the south shard's roof a single plane rising to the east. Each facet is broad light glass bays between pale vertical fins, three storeys a panel; the leaning folds are whole planes of a slightly deeper glass shade, so the crystalline facets read.",
+    "Evidence",
+    "OSM way/86121621 and parts 260153997 (spire, 366 m), 260153998, 279687416–420 and 279691503–511 (the two shards' tops, skillion facets), 291927532 (15 m) and 291927536 (30 m podium). OSM's top heights (236–279 m) are low against the lidar and were not used.",
+    "Lidar: USGS 3DEP NY_NewYorkCity (2017), sliced at 60/120/180/230/250/ 270 m in the model frame (/tmp/city/nyc/work/nyc-bank-of-america-tower/ slices.txt). Street ≈ 18.3 m NAVD88. Measured above it: - north shard x −1.5…64, y 2.2…27.5; walls plumb to ≈ 120 m, then the Sixth Avenue face leans in to x ≈ 50 at the 249 m roof and the north-east corner is cut by a big facet falling from 248 m at x 14 to ≈ 105 m at the Sixth Avenue corner; - south shard x 3.5…60.5 at 43rd/the middle, east face running diagonally to x 53 at 42nd Street, y −25…2.2; west face plumb to ≈ 185 m then leaning to x 12 at the roof; the roof a plane rising from ≈ 250 m at the west to 286 m at the north-east corner; the south-west corner bevelled down to ≈ 168 m; - a lower west wing x −5.5…3.5, y −24…−2, roof ≈ 108–150 m rising east; - the spire at x 36.5, y −10, tip 366 m; podium 45 m (31 m along 43rd Street, 38 m strip on 42nd); the 15 m OSM part along Sixth Avenue and 42nd Street reads as open ground in the lidar and is not modelled.",
+    "Published: 366 m with spire, 288 m roof, 55 floors, Cook+Fox, 2009; faceted glass curtain wall with fritted bands; a lattice spire of 77 m (Wikipedia; CTBUH).",
+    "Photos (Wikimedia Commons, daylight): see /tmp/city/nyc/work/nyc-bank-of-america-tower/photos/credits.txt.",
+    "Estimated: the exact facet vertices (from 2–3 m lidar slices), the north face's top edge, the wing's roof, the spire's base width (5 m) and its drawing as a solid tapering mast rather than a lattice.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"nyc-bank-of-america-tower\", model \"nyc-bank-of-america-tower\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/nyc-bank-of-america-tower.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

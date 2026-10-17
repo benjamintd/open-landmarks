@@ -1,0 +1,224 @@
+{
+  "id": "general-electric-building",
+  "name": "General Electric Building",
+  "anchor": [
+    -73.9724489,
+    40.7570846
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 81908,
+      "sha256": "a5a542d7c835ef536a1d433e37bfacaf6e67c4d44735a1522cdeedb752c3a3bc"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 81908,
+      "sha256": "a5a542d7c835ef536a1d433e37bfacaf6e67c4d44735a1522cdeedb752c3a3bc"
+    }
+  },
+  "triangles": 1512,
+  "boundsBlenderM": [
+    [
+      -32.041,
+      -27.745,
+      0
+    ],
+    [
+      30.769,
+      27.307,
+      197
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -73.9726359,
+          40.7573331
+        ],
+        [
+          -73.9726465,
+          40.7573187
+        ],
+        [
+          -73.9728166,
+          40.757087
+        ],
+        [
+          -73.9725789,
+          40.7569861
+        ],
+        [
+          -73.9725927,
+          40.7569673
+        ],
+        [
+          -73.9725324,
+          40.7569416
+        ],
+        [
+          -73.9723848,
+          40.7568788
+        ],
+        [
+          -73.9723485,
+          40.7568633
+        ],
+        [
+          -73.972328,
+          40.7568546
+        ],
+        [
+          -73.9723003,
+          40.7568428
+        ],
+        [
+          -73.9722756,
+          40.7568323
+        ],
+        [
+          -73.9721039,
+          40.7570684
+        ],
+        [
+          -73.9721016,
+          40.7570724
+        ],
+        [
+          -73.972099,
+          40.7570811
+        ],
+        [
+          -73.9720991,
+          40.7570872
+        ],
+        [
+          -73.9721008,
+          40.7570944
+        ],
+        [
+          -73.9721056,
+          40.7571027
+        ],
+        [
+          -73.972109,
+          40.7571064
+        ],
+        [
+          -73.972113,
+          40.7571097
+        ],
+        [
+          -73.9721225,
+          40.7571152
+        ],
+        [
+          -73.9726359,
+          40.7573331
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 137885993,
+    "version": 14,
+    "timestamp": "2024-03-24T18:09:29Z",
+    "url": "https://www.openstreetmap.org/way/137885993"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 137887333,
+      "version": 6,
+      "timestamp": "2014-05-20T12:15:21Z",
+      "url": "https://www.openstreetmap.org/way/137887333"
+    },
+    {
+      "type": "way",
+      "id": 137887335,
+      "version": 7,
+      "timestamp": "2014-05-20T12:15:21Z",
+      "url": "https://www.openstreetmap.org/way/137887335"
+    },
+    {
+      "type": "way",
+      "id": 137887345,
+      "version": 7,
+      "timestamp": "2014-05-20T12:15:21Z",
+      "url": "https://www.openstreetmap.org/way/137887345"
+    },
+    {
+      "type": "way",
+      "id": 137887870,
+      "version": 6,
+      "timestamp": "2014-05-20T12:15:22Z",
+      "url": "https://www.openstreetmap.org/way/137887870"
+    },
+    {
+      "type": "way",
+      "id": 137887871,
+      "version": 6,
+      "timestamp": "2014-05-20T12:15:22Z",
+      "url": "https://www.openstreetmap.org/way/137887871"
+    },
+    {
+      "type": "way",
+      "id": 137889011,
+      "version": 3,
+      "timestamp": "2014-05-20T12:15:22Z",
+      "url": "https://www.openstreetmap.org/way/137889011"
+    },
+    {
+      "type": "way",
+      "id": 668481028,
+      "version": 2,
+      "timestamp": "2020-02-23T21:42:05Z",
+      "url": "https://www.openstreetmap.org/way/668481028"
+    }
+  ],
+  "wikidata": "Q244391",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/nyc-570-lexington.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "General Electric Building (570 Lexington Avenue) — procedural, CC0-1.0, no textures. bun generators/nyc-570-lexington.ts",
+    "Also the shared kit for the Grand Central group of the New York batch (nyc-one-vanderbilt, nyc-metlife-building, nyc-helmsley-building, nyc-chanin-building import `massing`, `prism`, `facade` and friends from here). The model itself is only written when this file is run directly.",
+    "Map frame: x = model east, y = model north (Lexington Avenue is +x, East 51st Street is +y), z up, metres. Placed at bearing 29°, the Manhattan grid. Anchor: area centroid of the OSM outline way/137885993.",
+    "Evidence",
+    "OSM way/137885993 (outline, 53.4 × 33.7 m) and its parts 137887333, 137887335, 137887345, 137887870, 137887871, 137889011 (crown circle, 195 m), 668481028 (the ground-floor food hall).",
+    "Lidar: USGS 3DEP NY_NewYorkCity, flown 2017, resampled into the model frame (/tmp/city/nyc/work/g2/rot.py). Measured: tower shaft u −10…+8, v −12…+8, parapet 182 m, crown tracery to 193–195 m; the base steps back towards 51st Street and Lexington in 11 m stages (47, 58, 69, 80, 91 m); the west wing stands at 90 m; a low 11 m strip along the west edge.",
+    "Published: 195 m, 50 floors, Cross & Cross, 1931 (Wikipedia; NRHP 03001515). Orange-brown brick and terracotta, crown of Gothic tracery with a radio-wave/lightning sculpture.",
+    "Photos (Wikimedia Commons, daylight, several sides): see /tmp/city/nyc/work/nyc-570-lexington/photos/credits.txt.",
+    "Estimated: the chamfer of the tower's corners (photos: broad bevelled corners reading as an elongated octagon near the top), the crown's spike count and heights, the panel rhythm (3 floors per panel). The zigzag chevron piers of the base are drawn as the stepped setbacks only.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"nyc-570-lexington\", model \"nyc-570-lexington\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/nyc-570-lexington.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

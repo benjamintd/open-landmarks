@@ -1,0 +1,239 @@
+{
+  "id": "arthur-ashe-stadium",
+  "anchor": [
+    -73.8470437,
+    40.7498907
+  ],
+  "coordinateSystem": "Local metres about the anchor (equirectangular, WGS84 radius): X east, Y north, Z up. glTF export: X east, Y up, Z south. Heading already baked.",
+  "license": "ODbL-1.0",
+  "footprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          67.69320563266801,
+          -56.06049556369571
+        ],
+        [
+          31.902752822511403,
+          -71.41145334393015
+        ],
+        [
+          -4.629820591653426,
+          -88.40993958817488
+        ],
+        [
+          -55.62531261496169,
+          -68.21658395800335
+        ],
+        [
+          -72.00256505506249,
+          -30.40135293576951
+        ],
+        [
+          -87.33410209708097,
+          5.020509034914826
+        ],
+        [
+          -67.65947287870301,
+          56.09389141053298
+        ],
+        [
+          4.064796949257189,
+          87.9980574721723
+        ],
+        [
+          14.960476740014377,
+          83.75678487242496
+        ],
+        [
+          52.218304383002554,
+          69.2518552226145
+        ],
+        [
+          55.633745803153346,
+          67.92715328172241
+        ],
+        [
+          87.53649862566475,
+          -3.807126585325945
+        ],
+        [
+          67.69320563266801,
+          -56.06049556369571
+        ]
+      ]
+    ]
+  },
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -73.846241,
+          40.7493871
+        ],
+        [
+          -73.8466654,
+          40.7492492
+        ],
+        [
+          -73.8470986,
+          40.7490965
+        ],
+        [
+          -73.8477033,
+          40.7492779
+        ],
+        [
+          -73.8478975,
+          40.7496176
+        ],
+        [
+          -73.8480793,
+          40.7499358
+        ],
+        [
+          -73.847846,
+          40.7503946
+        ],
+        [
+          -73.8469955,
+          40.7506812
+        ],
+        [
+          -73.8468663,
+          40.7506431
+        ],
+        [
+          -73.8464245,
+          40.7505128
+        ],
+        [
+          -73.846384,
+          40.7505009
+        ],
+        [
+          -73.8460057,
+          40.7498565
+        ],
+        [
+          -73.846241,
+          40.7493871
+        ]
+      ]
+    ]
+  },
+  "parts": [
+    {
+      "osm": "way/284859611",
+      "tags": {
+        "addr:city": "Flushing",
+        "addr:housenumber": "122-02",
+        "addr:postcode": "11368",
+        "addr:state": "NY",
+        "addr:street": "Roosevelt Avenue",
+        "building": "stadium",
+        "capacity": "23771",
+        "height": "17.6",
+        "leisure": "stadium",
+        "name": "Arthur Ashe Stadium",
+        "nycdoitt:bin": "4458807",
+        "operator": "United States Tennis Association",
+        "operator:type": "ngo",
+        "sport": "tennis",
+        "wikidata": "Q609551",
+        "wikimedia_commons": "File:Arthur_Ashe_Stadium_(48613684807).jpg",
+        "wikipedia": "en:Arthur Ashe Stadium"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              67.69320563266801,
+              -56.06049556369571
+            ],
+            [
+              31.902752822511403,
+              -71.41145334393015
+            ],
+            [
+              -4.629820591653426,
+              -88.40993958817488
+            ],
+            [
+              -55.62531261496169,
+              -68.21658395800335
+            ],
+            [
+              -72.00256505506249,
+              -30.40135293576951
+            ],
+            [
+              -87.33410209708097,
+              5.020509034914826
+            ],
+            [
+              -67.65947287870301,
+              56.09389141053298
+            ],
+            [
+              4.064796949257189,
+              87.9980574721723
+            ],
+            [
+              14.960476740014377,
+              83.75678487242496
+            ],
+            [
+              52.218304383002554,
+              69.2518552226145
+            ],
+            [
+              55.633745803153346,
+              67.92715328172241
+            ],
+            [
+              87.53649862566475,
+              -3.807126585325945
+            ],
+            [
+              67.69320563266801,
+              -56.06049556369571
+            ]
+          ]
+        ]
+      },
+      "version": 16,
+      "timestamp": "2026-09-02T09:35:14Z"
+    }
+  ],
+  "osm": {
+    "type": "way",
+    "id": 284859611,
+    "version": 16,
+    "timestamp": "2026-09-02T09:35:14Z",
+    "url": "https://www.openstreetmap.org/way/284859611"
+  },
+  "additionalOsm": [],
+  "tags": {
+    "addr:city": "Flushing",
+    "addr:housenumber": "122-02",
+    "addr:postcode": "11368",
+    "addr:state": "NY",
+    "addr:street": "Roosevelt Avenue",
+    "building": "stadium",
+    "capacity": "23771",
+    "height": "17.6",
+    "leisure": "stadium",
+    "name": "Arthur Ashe Stadium",
+    "nycdoitt:bin": "4458807",
+    "operator": "United States Tennis Association",
+    "operator:type": "ngo",
+    "sport": "tennis",
+    "wikidata": "Q609551",
+    "wikimedia_commons": "File:Arthur_Ashe_Stadium_(48613684807).jpg",
+    "wikipedia": "en:Arthur Ashe Stadium"
+  }
+}

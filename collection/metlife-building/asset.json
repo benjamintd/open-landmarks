@@ -1,0 +1,239 @@
+{
+  "id": "metlife-building",
+  "name": "MetLife Building",
+  "anchor": [
+    -73.976653,
+    40.7535134
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 13,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 180056,
+      "sha256": "8ae0233eda91ac8b249331d14227343a36a6e379ad538e1bf4de637f3a9cf466"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 180056,
+      "sha256": "8ae0233eda91ac8b249331d14227343a36a6e379ad538e1bf4de637f3a9cf466"
+    }
+  },
+  "triangles": 3024,
+  "boundsBlenderM": [
+    [
+      -62.424,
+      -69.198,
+      0
+    ],
+    [
+      66.217,
+      70.358,
+      243
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -73.9768003,
+          40.7541425
+        ],
+        [
+          -73.9767963,
+          40.7541479
+        ],
+        [
+          -73.9763351,
+          40.7539527
+        ],
+        [
+          -73.9758701,
+          40.7537559
+        ],
+        [
+          -73.9758747,
+          40.7537497
+        ],
+        [
+          -73.9758674,
+          40.7537466
+        ],
+        [
+          -73.9761122,
+          40.7534103
+        ],
+        [
+          -73.9761691,
+          40.7533322
+        ],
+        [
+          -73.9763378,
+          40.7531011
+        ],
+        [
+          -73.9764189,
+          40.7529932
+        ],
+        [
+          -73.9764809,
+          40.7530195
+        ],
+        [
+          -73.9765311,
+          40.7529509
+        ],
+        [
+          -73.9765768,
+          40.7528885
+        ],
+        [
+          -73.9767238,
+          40.7529507
+        ],
+        [
+          -73.9772638,
+          40.7531781
+        ],
+        [
+          -73.9773935,
+          40.7532342
+        ],
+        [
+          -73.9773447,
+          40.7533011
+        ],
+        [
+          -73.9772986,
+          40.753364
+        ],
+        [
+          -73.9773484,
+          40.7533851
+        ],
+        [
+          -73.9773461,
+          40.7533883
+        ],
+        [
+          -73.9773562,
+          40.7533925
+        ],
+        [
+          -73.9772756,
+          40.7535044
+        ],
+        [
+          -73.9771159,
+          40.7537225
+        ],
+        [
+          -73.9768056,
+          40.7541448
+        ],
+        [
+          -73.9768003,
+          40.7541425
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 137564642,
+    "version": 16,
+    "timestamp": "2026-03-12T10:11:09Z",
+    "url": "https://www.openstreetmap.org/way/137564642"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 137564641,
+      "version": 10,
+      "timestamp": "2026-05-29T17:17:52Z",
+      "url": "https://www.openstreetmap.org/way/137564641"
+    },
+    {
+      "type": "way",
+      "id": 137565295,
+      "version": 4,
+      "timestamp": "2026-03-12T10:11:09Z",
+      "url": "https://www.openstreetmap.org/way/137565295"
+    },
+    {
+      "type": "way",
+      "id": 1487962789,
+      "version": 1,
+      "timestamp": "2026-03-12T10:11:09Z",
+      "url": "https://www.openstreetmap.org/way/1487962789"
+    },
+    {
+      "type": "way",
+      "id": 1487962790,
+      "version": 1,
+      "timestamp": "2026-03-12T10:11:09Z",
+      "url": "https://www.openstreetmap.org/way/1487962790"
+    },
+    {
+      "type": "way",
+      "id": 1487962791,
+      "version": 1,
+      "timestamp": "2026-03-12T10:11:09Z",
+      "url": "https://www.openstreetmap.org/way/1487962791"
+    },
+    {
+      "type": "way",
+      "id": 1487962792,
+      "version": 1,
+      "timestamp": "2026-03-12T10:11:09Z",
+      "url": "https://www.openstreetmap.org/way/1487962792"
+    },
+    {
+      "type": "way",
+      "id": 1487962793,
+      "version": 1,
+      "timestamp": "2026-03-12T10:11:09Z",
+      "url": "https://www.openstreetmap.org/way/1487962793"
+    }
+  ],
+  "wikidata": "Q464482",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/nyc-metlife-building.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "MetLife Building (200 Park Avenue, the former Pan Am Building) — procedural, CC0-1.0, no textures. bun generators/nyc-metlife-building.ts",
+    "Map frame: x = model east (Lexington side), y = model north (up Park Avenue), z up, metres. Placed at bearing 29°, the Manhattan grid. Anchor: area centroid of the OSM outline way/137564642. The tower's long axis runs across Park Avenue, east–west in the model frame. Kit from nyc-570-lexington.ts.",
+    "Evidence",
+    "OSM: outline way/137564642; tower part way/137564641 (the elongated octagon, 90.8 × 42 m, its long faces each broken into three facets); base parts 137565295 and 1487962793; four small 30–38 m piers 1487962789–92.",
+    "Lidar: USGS 3DEP NY_NewYorkCity, flown 2017, resampled into the model frame. Measured: tower roof 242–243 m above the lowest ground at the footprint, parapet points to 246 m; the base podium 37 m at its edge, a raised inner block at 45 m and a mechanical block at 49 m north of the tower.",
+    "Published: 246 m, 59 floors, Emery Roth & Sons with Walter Gropius and Pietro Belluschi, 1963 (Wikipedia). Precast concrete curtain wall, two recessed mechanical floors as dark horizontal bands, a louvred mechanical crown under the roof carrying the MetLife sign.",
+    "Photos (Wikimedia Commons): /tmp/city/nyc/work/nyc-metlife-building/photos/credits.txt",
+    "Estimated: mechanical band heights (from photos: about a third and two thirds up the shaft, and the top 9 m), panel rhythm. The sign and the Park Avenue viaduct portals through the podium are left out.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"nyc-metlife-building\", model \"nyc-metlife-building\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/nyc-metlife-building.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

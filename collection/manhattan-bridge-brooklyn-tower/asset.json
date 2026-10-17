@@ -1,0 +1,241 @@
+{
+  "id": "manhattan-bridge-brooklyn-tower",
+  "name": "Manhattan Bridge (Brooklyn tower)",
+  "anchor": [
+    -73.989436,
+    40.7051153
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 131596,
+      "sha256": "286e6b8c05edf21073d5d05431ba4f27580b614beaa987eee27118b1ce92648d"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 131596,
+      "sha256": "286e6b8c05edf21073d5d05431ba4f27580b614beaa987eee27118b1ce92648d"
+    }
+  },
+  "triangles": 2936,
+  "boundsBlenderM": [
+    [
+      -23.352,
+      -17.392,
+      0
+    ],
+    [
+      23.352,
+      17.392,
+      103.7
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -73.989633,
+          40.7050885
+        ],
+        [
+          -73.989593,
+          40.7051014
+        ],
+        [
+          -73.9895896,
+          40.7050953
+        ],
+        [
+          -73.9895368,
+          40.7051123
+        ],
+        [
+          -73.9895398,
+          40.7051176
+        ],
+        [
+          -73.9895026,
+          40.7051297
+        ],
+        [
+          -73.9894995,
+          40.7051242
+        ],
+        [
+          -73.9894014,
+          40.7051558
+        ],
+        [
+          -73.9894056,
+          40.7051633
+        ],
+        [
+          -73.9893655,
+          40.7051763
+        ],
+        [
+          -73.9893618,
+          40.7051697
+        ],
+        [
+          -73.9893134,
+          40.7051853
+        ],
+        [
+          -73.9893173,
+          40.7051922
+        ],
+        [
+          -73.989274,
+          40.7052061
+        ],
+        [
+          -73.9892654,
+          40.7051907
+        ],
+        [
+          -73.9892478,
+          40.7051964
+        ],
+        [
+          -73.9892299,
+          40.7051645
+        ],
+        [
+          -73.98925,
+          40.705158
+        ],
+        [
+          -73.9892406,
+          40.7051411
+        ],
+        [
+          -73.9892796,
+          40.7051286
+        ],
+        [
+          -73.9892829,
+          40.7051345
+        ],
+        [
+          -73.9893349,
+          40.7051178
+        ],
+        [
+          -73.9893315,
+          40.7051119
+        ],
+        [
+          -73.9893699,
+          40.7050995
+        ],
+        [
+          -73.9893731,
+          40.7051053
+        ],
+        [
+          -73.9894674,
+          40.7050749
+        ],
+        [
+          -73.9894642,
+          40.7050691
+        ],
+        [
+          -73.9895061,
+          40.7050556
+        ],
+        [
+          -73.9895093,
+          40.7050614
+        ],
+        [
+          -73.9895593,
+          40.7050453
+        ],
+        [
+          -73.9895559,
+          40.7050394
+        ],
+        [
+          -73.9895986,
+          40.7050256
+        ],
+        [
+          -73.989606,
+          40.7050388
+        ],
+        [
+          -73.9896236,
+          40.7050331
+        ],
+        [
+          -73.9896431,
+          40.7050679
+        ],
+        [
+          -73.9896247,
+          40.7050738
+        ],
+        [
+          -73.989633,
+          40.7050885
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 317352033,
+    "version": 5,
+    "timestamp": "2024-02-29T19:33:14Z",
+    "url": "https://www.openstreetmap.org/way/317352033"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q125050",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/nyc-manhattan-bridge.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Manhattan Bridge towers (1909; Leon Moisseiff, Gustav Lindenthal; portal design by Carrère and Hastings) — procedural, CC0-1.0, no textures. bun generators/nyc-manhattan-bridge.ts",
+    "One tower, placed twice (Manhattan and Brooklyn; OSM maps both with the same 37-node outline, identical to 0.1 m). Map frame: x across the bridge, y along it, z up, metres; origin at the centre of the pier on the water. Placed at bearing 337.0°, the line from the Brooklyn tower's centroid to the Manhattan one's (443.9 m apart; the published main span is 448 m). Only the tower and its pier: no cables, and the deck is a stub no deeper than the tower, so the map's own bridge line carries the span.",
+    "What makes it the Manhattan Bridge: four slender steel columns in one plane, the outer pairs filled with stacked X bracing, the open centre bay topped by a tall semicircular arch, a heavy cornice across the top with four ball finials, columns flaring out onto a granite pier, blue-grey paint.",
+    "Sources:",
+    "OSM: tower outlines way/1255353996 (Manhattan) and way/317352033 (Brooklyn), bridge:support=pylon, height 102, colour #8eb4d2; piers way/1255353997 and way/1016640944 (man_made=pier, 42.7 x 20.3 m). Plan from the outline in the bridge frame: 36.2 x 7.6 m, columns at |x| 4.4–8.1 and 12.5–16.5, the bays between them set in 0.8 m.",
+    "Lidar (USGS 3DEP NY_NewYorkCity 2017, 0.5 m, Manhattan tower; heights above the water at -0.84 m NAVD88): cornice top 98.6 m, 36 m across; finial tops 103.7 m over each column, pier top 6–8 m, the lower level's outer paths 42.7 m and the upper roadways 48.9 m.",
+    "Published: towers 336 ft (102 m) above mean high water; 135 ft (41 m) navigational clearance (Wikipedia \"Manhattan Bridge\"; NYC DOT).",
+    "Photos (Wikimedia Commons): \"Manhattan Bridge tower, Dumbo, Brooklyn, New York\" (Christian David, CC BY-SA 4.0; the Brooklyn tower three- quarter, flared column feet, pier); \"NYC Manhattan Bridge detail\" (Arnoldius, CC BY-SA 3.0; portal face end-on: X bays, arch, cornice, finials); \"Manhattan Bridge and One Manhattan Square from Brooklyn Bridge, 20231005\" (Jakub Hałun, CC BY-SA 4.0; the Manhattan tower face-on from the south-west); \"Manhattan Bridge from the Brooklyn Bridge (6214687229)\" (Tony Hisgett, CC BY 2.0; side view); HAER NY,31-NEYO,164-11 \"Manhattan tower looking northwest\" (Jet Lowe, public domain; portal from above).",
+    "Column centre lines from the lidar's finial peaks (|x| 6.1 and 14.55); column width 3.4 m from the end-on photo (OSM draws 3.7–4.0 m, which leaves the X bays narrower than the photos show).",
+    "Estimated from photos: five X panels above the deck and two below, the arch spring (85 m, about 73% of the way from the upper roadway to the cornice), the lattice frieze (92–96.6 m) and the cornice projecting about 2 m past the outer columns, the column feet's flare (to about 1.8x the column depth at the pier), the finial pedestals and balls.",
+    "Colour: the blue-grey paint from sunlit daylight photos (#7f97a6 to #93a8b4), pulled to the palette's lightness; the bracing a shade deeper so the X panels read against the columns; the pier's granite buff.",
+    "The geometry helpers below are shared with the Williamsburg and Queensboro bridge generators.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"nyc-manhattan-bridge-brooklyn\", model \"nyc-manhattan-bridge\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/nyc-manhattan-bridge.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

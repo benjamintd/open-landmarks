@@ -1,0 +1,787 @@
+{
+  "id": "one-world-trade-center",
+  "anchor": [
+    -74.0131893,
+    40.713
+  ],
+  "coordinateSystem": "Local metres about the anchor (equirectangular, WGS84 radius): X east, Y north, Z up. glTF export: X east, Y up, Z south. Heading already baked.",
+  "license": "ODbL-1.0",
+  "footprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -14.049046166437973,
+          43.826483524922146
+        ],
+        [
+          14.825329797908593,
+          28.876275911480857
+        ],
+        [
+          43.944403862306565,
+          13.803616858317932
+        ],
+        [
+          29.127511930661253,
+          -14.827756173719655
+        ],
+        [
+          14.032170433911414,
+          -43.99346276148145
+        ],
+        [
+          -15.070027900358188,
+          -28.94306760673736
+        ],
+        [
+          -43.96971745989731,
+          -13.992859992505094
+        ],
+        [
+          -28.84906236795491,
+          15.21737439130339
+        ],
+        [
+          -14.049046166437973,
+          43.826483524922146
+        ]
+      ]
+    ]
+  },
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -74.0133558,
+          40.7133937
+        ],
+        [
+          -74.0130136,
+          40.7132594
+        ],
+        [
+          -74.0126685,
+          40.713124
+        ],
+        [
+          -74.0128441,
+          40.7128668
+        ],
+        [
+          -74.013023,
+          40.7126048
+        ],
+        [
+          -74.0133679,
+          40.71274
+        ],
+        [
+          -74.0137104,
+          40.7128743
+        ],
+        [
+          -74.0135312,
+          40.7131367
+        ],
+        [
+          -74.0133558,
+          40.7133937
+        ]
+      ]
+    ]
+  },
+  "parts": [
+    {
+      "osm": "way/713565776",
+      "tags": {
+        "addr:city": "New York",
+        "addr:housenumber": "285",
+        "addr:postcode": "10048",
+        "addr:state": "NY",
+        "addr:street": "Fulton Street",
+        "alt_name": "Freedom Tower",
+        "architect": "David Childs",
+        "building": "commercial",
+        "building:material": "glass",
+        "check_date": "2026-08-04",
+        "description": "The World Trade Center is the tallest building in New York State and New York City. its 1,776 feet is an astonishing achievement of engineering. built after the 9/11 terrorist attacks it's a symbol of freedom and remembrence.",
+        "height": "417",
+        "landmark": "12",
+        "name": "One World Trade Center",
+        "name:ar": "برج الحرية",
+        "name:bg": "Световен търговски център 1",
+        "name:de": "One World Trade Center",
+        "name:en": "One World Trade Center",
+        "name:he": "מרכז הסחר העולמי החדש",
+        "name:hi": "१ वर्ल्ड ट्रेड सेंटर",
+        "name:ja": "1 ワールドトレードセンター",
+        "name:kk": "1 Дүниежүзілік Сауда Орталығы",
+        "name:kn": "ವರ್ಲ್ಡ್ ಟ್ರೇಡ್ ಸೆಂಟರ್",
+        "name:lt": "One World Trade Center",
+        "name:ml": "1 വേൾഡ് ട്രേഡ് സെന്റർ",
+        "name:pl": "1 World Trade Center",
+        "name:ru": "Всемирный торговый центр 1",
+        "name:uk": "Всесвітній торговий центр 1",
+        "name:zh": "世界貿易中心一號大樓",
+        "name:zh-Hans": "世界贸易中心一号大楼",
+        "nycdoitt:bin": "1088469",
+        "roof:material": "concrete",
+        "roof:shape": "flat",
+        "short_name": "OWTC;1 WTC",
+        "start_date": "2014-11-03",
+        "tourism": "attraction",
+        "website": "https://www.wtc.com/",
+        "wikidata": "Q11245",
+        "wikipedia": "en:One World Trade Center"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -14.049046166437973,
+              43.826483524922146
+            ],
+            [
+              14.825329797908593,
+              28.876275911480857
+            ],
+            [
+              43.944403862306565,
+              13.803616858317932
+            ],
+            [
+              29.127511930661253,
+              -14.827756173719655
+            ],
+            [
+              14.032170433911414,
+              -43.99346276148145
+            ],
+            [
+              -15.070027900358188,
+              -28.94306760673736
+            ],
+            [
+              -43.96971745989731,
+              -13.992859992505094
+            ],
+            [
+              -28.84906236795491,
+              15.21737439130339
+            ],
+            [
+              -14.049046166437973,
+              43.826483524922146
+            ]
+          ]
+        ]
+      },
+      "version": 43,
+      "timestamp": "2026-09-11T05:48:53Z"
+    },
+    {
+      "osm": "way/241029253",
+      "tags": {
+        "building:colour": "#5d8bd5",
+        "building:levels": "94",
+        "building:material": "glass",
+        "building:part": "yes",
+        "check_date": "2021-04-22",
+        "height": "417",
+        "layer": "1",
+        "roof:colour": "#858585",
+        "roof:material": "concrete",
+        "roof:shape": "flat"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -15.070027900358188,
+              -28.94306760673736
+            ],
+            [
+              29.127511930661253,
+              -14.827756173719655
+            ],
+            [
+              14.825329797908593,
+              28.876275911480857
+            ],
+            [
+              -28.84906236795491,
+              15.21737439130339
+            ],
+            [
+              -15.070027900358188,
+              -28.94306760673736
+            ]
+          ]
+        ]
+      },
+      "version": 16,
+      "timestamp": "2026-08-04T23:28:47Z"
+    },
+    {
+      "osm": "way/783285127",
+      "tags": {
+        "building:colour": "#5d8bd5",
+        "building:material": "glass",
+        "building:part": "yes",
+        "height": "417",
+        "roof:colour": "#5d8bd5",
+        "roof:direction": "164",
+        "roof:height": "362",
+        "roof:material": "glass",
+        "roof:shape": "skillion"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -15.070027900358188,
+              -28.94306760673736
+            ],
+            [
+              29.127511930661253,
+              -14.827756173719655
+            ],
+            [
+              14.032170433911414,
+              -43.99346276148145
+            ],
+            [
+              -15.070027900358188,
+              -28.94306760673736
+            ]
+          ]
+        ]
+      },
+      "version": 11,
+      "timestamp": "2026-08-05T02:08:40Z"
+    },
+    {
+      "osm": "way/783285128",
+      "tags": {
+        "building:colour": "#5d8bd5",
+        "building:material": "glass",
+        "building:part": "yes",
+        "height": "417",
+        "roof:colour": "#5d8bd5",
+        "roof:direction": "74",
+        "roof:height": "362",
+        "roof:material": "glass",
+        "roof:shape": "skillion"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              29.127511930661253,
+              -14.827756173719655
+            ],
+            [
+              14.825329797908593,
+              28.876275911480857
+            ],
+            [
+              43.944403862306565,
+              13.803616858317932
+            ],
+            [
+              29.127511930661253,
+              -14.827756173719655
+            ]
+          ]
+        ]
+      },
+      "version": 11,
+      "timestamp": "2026-08-05T02:08:40Z"
+    },
+    {
+      "osm": "way/783285129",
+      "tags": {
+        "building:colour": "#5d8bd5",
+        "building:material": "glass",
+        "building:part": "yes",
+        "height": "417",
+        "roof:colour": "#5d8bd5",
+        "roof:direction": "344",
+        "roof:height": "362",
+        "roof:material": "glass",
+        "roof:shape": "skillion"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -28.84906236795491,
+              15.21737439130339
+            ],
+            [
+              -14.049046166437973,
+              43.826483524922146
+            ],
+            [
+              14.825329797908593,
+              28.876275911480857
+            ],
+            [
+              -28.84906236795491,
+              15.21737439130339
+            ]
+          ]
+        ]
+      },
+      "version": 11,
+      "timestamp": "2026-08-05T02:08:40Z"
+    },
+    {
+      "osm": "way/783285130",
+      "tags": {
+        "building:colour": "#5d8bd5",
+        "building:material": "glass",
+        "building:part": "yes",
+        "height": "417",
+        "roof:colour": "#5d8bd5",
+        "roof:direction": "254",
+        "roof:height": "362",
+        "roof:material": "glass",
+        "roof:shape": "skillion"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.96971745989731,
+              -13.992859992505094
+            ],
+            [
+              -28.84906236795491,
+              15.21737439130339
+            ],
+            [
+              -15.070027900358188,
+              -28.94306760673736
+            ],
+            [
+              -43.96971745989731,
+              -13.992859992505094
+            ]
+          ]
+        ]
+      },
+      "version": 15,
+      "timestamp": "2026-08-05T02:08:40Z"
+    },
+    {
+      "osm": "way/241029248",
+      "tags": {
+        "building:colour": "#858585",
+        "building:material": "concrete",
+        "building:part": "yes",
+        "height": "420",
+        "min_height": "417",
+        "roof:colour": "#858585",
+        "roof:material": "concrete",
+        "roof:shape": "flat"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -3.940483219996964,
+              17.52168785075952
+            ],
+            [
+              -6.708103125325626,
+              16.619999975079434
+            ],
+            [
+              -9.290089987251271,
+              15.261902187350083
+            ],
+            [
+              -11.618940884061322,
+              13.514186182036998
+            ],
+            [
+              -13.63559075431101,
+              11.410247805977447
+            ],
+            [
+              -15.28097453895376,
+              9.005746805218516
+            ],
+            [
+              -16.51290291146955,
+              6.367474873434759
+            ],
+            [
+              -17.30606227426764,
+              3.562223705091702
+            ],
+            [
+              -17.62670116589218,
+              0.6679169446552584
+            ],
+            [
+              -17.47481958634319,
+              -2.2375217649906016
+            ],
+            [
+              -16.858855399485748,
+              -5.0873007293803525
+            ],
+            [
+              -15.78724647278223,
+              -7.792364355629634
+            ],
+            [
+              -14.285306402624292,
+              -10.297052898482342
+            ],
+            [
+              -12.40366238179522,
+              -12.51231076505411
+            ],
+            [
+              -10.184503738014142,
+              -14.404742108507666
+            ],
+            [
+              -7.686895530327633,
+              -15.907555234377483
+            ],
+            [
+              -4.978340684045552,
+              -16.987354295035313
+            ],
+            [
+              -2.134779988342848,
+              -17.610743443643877
+            ],
+            [
+              0.7762836314706214,
+              -17.75545878178434
+            ],
+            [
+              3.6704715199566267,
+              -17.443764207084577
+            ],
+            [
+              6.471842887940216,
+              -16.653395822707683
+            ],
+            [
+              9.112894810111534,
+              -15.428881423909386
+            ],
+            [
+              11.146420410489595,
+              -14.081915585389455
+            ],
+            [
+              12.977437238535362,
+              -12.467782969007416
+            ],
+            [
+              14.572193830394811,
+              -10.631011370809968
+            ],
+            [
+              15.896938724612111,
+              -8.582732740006529
+            ],
+            [
+              16.934796188660698,
+              -6.3786068226441754
+            ],
+            [
+              17.668890492412203,
+              -4.052029464769215
+            ],
+            [
+              18.07390803947498,
+              -1.6475284640102856
+            ],
+            [
+              18.14984882984902,
+              0.7903683843768937
+            ],
+            [
+              17.896712863534333,
+              3.20600133434524
+            ],
+            [
+              17.314500139331823,
+              5.577106488266893
+            ],
+            [
+              16.411648523504763,
+              7.836892151676329
+            ],
+            [
+              15.22190947870809,
+              9.96309442615471
+            ],
+            [
+              13.745283004941795,
+              11.90005356565496
+            ],
+            [
+              12.015520563661724,
+              13.625505673340186
+            ],
+            [
+              10.074811483786078,
+              15.094922951581756
+            ],
+            [
+              7.956907226770693,
+              16.29717345196122
+            ],
+            [
+              5.6871213902063165,
+              17.18772937843189
+            ],
+            [
+              3.3160811668762444,
+              17.76659073020279
+            ],
+            [
+              0.8944137495637796,
+              18.011493610437032
+            ],
+            [
+              -1.5441293990761498,
+              17.93356996676209
+            ],
+            [
+              -3.940483219996964,
+              17.52168785075952
+            ]
+          ]
+        ]
+      },
+      "version": 13,
+      "timestamp": "2026-07-20T23:46:37Z"
+    },
+    {
+      "osm": "way/241029247",
+      "tags": {
+        "building:colour": "gray",
+        "building:material": "metal",
+        "building:part": "yes",
+        "height": "541",
+        "man_made": "tower",
+        "min_height": "420",
+        "roof:colour": "gray",
+        "roof:height": "80",
+        "roof:shape": "pyramidal",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1.265679833971626,
+              2.949966505692553
+            ],
+            [
+              0.3712660844078463,
+              3.1392096398797142
+            ],
+            [
+              -0.531585531419212,
+              3.0390220985769116
+            ],
+            [
+              -1.3669342219364125,
+              2.6716677786210337
+            ],
+            [
+              -2.041963467840433,
+              2.0594105792218844
+            ],
+            [
+              -2.4976082076865085,
+              1.2801741440544072
+            ],
+            [
+              -2.7001169812178962,
+              0.38961821758373855
+            ],
+            [
+              -2.6073004607154804,
+              -0.5232016065147902
+            ],
+            [
+              -2.2444722413718208,
+              -1.3580977877293494
+            ],
+            [
+              -1.6453837858418436,
+              -2.0371466815940242
+            ],
+            [
+              -0.8606622881079434,
+              -2.504688542852705
+            ],
+            [
+              0.033751461455836046,
+              -2.7050636262492826
+            ],
+            [
+              0.9534788086103588,
+              -2.6271399825743402
+            ],
+            [
+              1.7972653653908381,
+              -2.2597856634094344
+            ],
+            [
+              2.4891703414232302,
+              -1.6475284640102856
+            ],
+            [
+              2.9532529475325844,
+              -0.8460281304239757
+            ],
+            [
+              3.1473238548006934,
+              0.055659745256109436
+            ],
+            [
+              3.054507334298278,
+              0.968479570145611
+            ],
+            [
+              2.6748033836271525,
+              1.8033757505691976
+            ],
+            [
+              2.0588391967697115,
+              2.493556593643289
+            ],
+            [
+              1.265679833971626,
+              2.949966505692553
+            ]
+          ]
+        ]
+      },
+      "version": 13,
+      "timestamp": "2025-06-20T14:22:53Z"
+    }
+  ],
+  "osm": {
+    "type": "way",
+    "id": 713565776,
+    "version": 43,
+    "timestamp": "2026-09-11T05:48:53Z",
+    "url": "https://www.openstreetmap.org/way/713565776"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 241029253,
+      "version": 16,
+      "timestamp": "2026-08-04T23:28:47Z",
+      "url": "https://www.openstreetmap.org/way/241029253"
+    },
+    {
+      "type": "way",
+      "id": 783285127,
+      "version": 11,
+      "timestamp": "2026-08-05T02:08:40Z",
+      "url": "https://www.openstreetmap.org/way/783285127"
+    },
+    {
+      "type": "way",
+      "id": 783285128,
+      "version": 11,
+      "timestamp": "2026-08-05T02:08:40Z",
+      "url": "https://www.openstreetmap.org/way/783285128"
+    },
+    {
+      "type": "way",
+      "id": 783285129,
+      "version": 11,
+      "timestamp": "2026-08-05T02:08:40Z",
+      "url": "https://www.openstreetmap.org/way/783285129"
+    },
+    {
+      "type": "way",
+      "id": 783285130,
+      "version": 15,
+      "timestamp": "2026-08-05T02:08:40Z",
+      "url": "https://www.openstreetmap.org/way/783285130"
+    },
+    {
+      "type": "way",
+      "id": 241029248,
+      "version": 13,
+      "timestamp": "2026-07-20T23:46:37Z",
+      "url": "https://www.openstreetmap.org/way/241029248"
+    },
+    {
+      "type": "way",
+      "id": 241029247,
+      "version": 13,
+      "timestamp": "2025-06-20T14:22:53Z",
+      "url": "https://www.openstreetmap.org/way/241029247"
+    }
+  ],
+  "tags": {
+    "addr:city": "New York",
+    "addr:housenumber": "285",
+    "addr:postcode": "10048",
+    "addr:state": "NY",
+    "addr:street": "Fulton Street",
+    "alt_name": "Freedom Tower",
+    "architect": "David Childs",
+    "building": "commercial",
+    "building:material": "glass",
+    "check_date": "2026-08-04",
+    "description": "The World Trade Center is the tallest building in New York State and New York City. its 1,776 feet is an astonishing achievement of engineering. built after the 9/11 terrorist attacks it's a symbol of freedom and remembrence.",
+    "height": "417",
+    "landmark": "12",
+    "name": "One World Trade Center",
+    "name:ar": "برج الحرية",
+    "name:bg": "Световен търговски център 1",
+    "name:de": "One World Trade Center",
+    "name:en": "One World Trade Center",
+    "name:he": "מרכז הסחר העולמי החדש",
+    "name:hi": "१ वर्ल्ड ट्रेड सेंटर",
+    "name:ja": "1 ワールドトレードセンター",
+    "name:kk": "1 Дүниежүзілік Сауда Орталығы",
+    "name:kn": "ವರ್ಲ್ಡ್ ಟ್ರೇಡ್ ಸೆಂಟರ್",
+    "name:lt": "One World Trade Center",
+    "name:ml": "1 വേൾഡ് ട്രേഡ് സെന്റർ",
+    "name:pl": "1 World Trade Center",
+    "name:ru": "Всемирный торговый центр 1",
+    "name:uk": "Всесвітній торговий центр 1",
+    "name:zh": "世界貿易中心一號大樓",
+    "name:zh-Hans": "世界贸易中心一号大楼",
+    "nycdoitt:bin": "1088469",
+    "roof:material": "concrete",
+    "roof:shape": "flat",
+    "short_name": "OWTC;1 WTC",
+    "start_date": "2014-11-03",
+    "tourism": "attraction",
+    "website": "https://www.wtc.com/",
+    "wikidata": "Q11245",
+    "wikipedia": "en:One World Trade Center"
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "id": "williamsburg-bridge-brooklyn-tower",
+  "anchor": [
+    -73.9694585,
+    40.7127579
+  ],
+  "coordinateSystem": "Local metres about the anchor (equirectangular, WGS84 radius): X east, Y north, Z up. glTF export: X east, Y up, Z south. Heading already baked.",
+  "license": "ODbL-1.0",
+  "footprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          12.488086443962809,
+          14.838888122929069
+        ],
+        [
+          1.215057059257039,
+          19.34732749974755
+        ],
+        [
+          -12.488086443962809,
+          -14.827756173719655
+        ],
+        [
+          -1.2066191635118224,
+          -19.34732749974755
+        ],
+        [
+          12.488086443962809,
+          14.838888122929069
+        ]
+      ]
+    ]
+  },
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -73.9693105,
+          40.7128912
+        ],
+        [
+          -73.9694441,
+          40.7129317
+        ],
+        [
+          -73.9696065,
+          40.7126247
+        ],
+        [
+          -73.9694728,
+          40.7125841
+        ],
+        [
+          -73.9693105,
+          40.7128912
+        ]
+      ]
+    ]
+  },
+  "parts": [
+    {
+      "osm": "way/1016434035",
+      "tags": {
+        "bridge:support": "pylon",
+        "building": "yes",
+        "height": "94",
+        "material": "metal"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.488086443962809,
+              14.838888122929069
+            ],
+            [
+              1.215057059257039,
+              19.34732749974755
+            ],
+            [
+              -12.488086443962809,
+              -14.827756173719655
+            ],
+            [
+              -1.2066191635118224,
+              -19.34732749974755
+            ],
+            [
+              12.488086443962809,
+              14.838888122929069
+            ]
+          ]
+        ]
+      },
+      "version": 1,
+      "timestamp": "2021-12-29T02:32:13Z"
+    }
+  ],
+  "osm": {
+    "type": "way",
+    "id": 1016434035,
+    "version": 1,
+    "timestamp": "2021-12-29T02:32:13Z",
+    "url": "https://www.openstreetmap.org/way/1016434035"
+  },
+  "additionalOsm": [],
+  "tags": {
+    "bridge:support": "pylon",
+    "building": "yes",
+    "height": "94",
+    "material": "metal"
+  }
+}

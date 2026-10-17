@@ -1,0 +1,209 @@
+{
+  "id": "arthur-ashe-stadium",
+  "name": "Arthur Ashe Stadium",
+  "anchor": [
+    -73.8470437,
+    40.7498907
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 79724,
+      "sha256": "1942385f4e8ec8f85213ac447af23d80cf2263b74a47f98320456ec265c6d7dd"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 79724,
+      "sha256": "1942385f4e8ec8f85213ac447af23d80cf2263b74a47f98320456ec265c6d7dd"
+    }
+  },
+  "triangles": 1728,
+  "boundsBlenderM": [
+    [
+      -87.526,
+      -87.8,
+      0
+    ],
+    [
+      87.526,
+      87.4,
+      59.6
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -73.846241,
+          40.7493871
+        ],
+        [
+          -73.8466654,
+          40.7492492
+        ],
+        [
+          -73.8470986,
+          40.7490965
+        ],
+        [
+          -73.8477033,
+          40.7492779
+        ],
+        [
+          -73.8478975,
+          40.7496176
+        ],
+        [
+          -73.8480793,
+          40.7499358
+        ],
+        [
+          -73.847846,
+          40.7503946
+        ],
+        [
+          -73.8469955,
+          40.7506812
+        ],
+        [
+          -73.8468663,
+          40.7506431
+        ],
+        [
+          -73.8464245,
+          40.7505128
+        ],
+        [
+          -73.846384,
+          40.7505009
+        ],
+        [
+          -73.8460057,
+          40.7498565
+        ],
+        [
+          -73.846241,
+          40.7493871
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 284859611,
+    "version": 16,
+    "timestamp": "2026-09-02T09:35:14Z",
+    "url": "https://www.openstreetmap.org/way/284859611"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q609551",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Arthur Ashe Stadium, July 7, 2018.jpg",
+      "author": "D. Benjamin Miller",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Arthur_Ashe_Stadium,_July_7,_2018.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Arthur Ashe Stadium with retractible roof.jpg",
+      "author": "Richiekim",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Arthur_Ashe_Stadium_with_retractible_roof.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Flushing Meadows (43370810850).jpg",
+      "author": "Carine06 from UK",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Flushing_Meadows_(43370810850).jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Arthur Ashe Stadium with the roof closed (32938595438).jpg",
+      "author": "Carine06 from UK",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Arthur_Ashe_Stadium_with_the_roof_closed_(32938595438).jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Arthur Ashe roof (39934812963).jpg",
+      "author": "Carine06 from UK",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Arthur_Ashe_roof_(39934812963).jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Roof closing (46174774644).jpg",
+      "author": "Carine06 from UK",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Roof_closing_(46174774644).jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Arthur Ashe Stadium Exterior.jpg",
+      "author": "Alexisrael",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Arthur_Ashe_Stadium_Exterior.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Arthur Ashe Stadium in 2018.jpg",
+      "author": "Whoisjohngalt",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Arthur_Ashe_Stadium_in_2018.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/nyc-arthur-ashe-stadium.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Arthur Ashe Stadium (1997, roof 2016), USTA Billie Jean King National Tennis Center, Queens. The octagonal bowl of blue seats on a red-brick base with its pale raked underside, and the 2016 retractable roof: a white fabric ring on a deep blue steel truss, carried on eight branching columns standing outside the bowl, with its two vaulted panels parked open on either side of the square opening. Original procedural geometry, CC0-1.0. bun generators/nyc-arthur-ashe-stadium.ts",
+    "Stadium rule (STYLE.md \"Ground\"): the court and the plazas are the map's; the neighbouring courts and Louis Armstrong Stadium are not touched.",
+    "Frame: BEARING 0, x east, y north, z up, metres. Origin = area centroid of the OSM outline way/284859611 (-73.8470437, 40.7498907). z = 0 is the ground round the stadium, 3.9 m NAVD88 (lidar ground returns); the court is about 1 m above it, so this is not a sunken bowl and elevation is 0.",
+    "Evidence",
+    "OSM way/284859611 (building=stadium, \"Arthur Ashe Stadium\", height 17.6, capacity 23,771, Q609551). The outline is the roof's octagon: about 175 m across the corners and 160 m across the flats, its sides alternating long (80 m) and short (54 m), which matches the published 520 by 520 ft plan. OSM's height (17.6) is wrong; it is not used.",
+    "USGS 3DEP lidar NY_NewYorkCity at 0.5 m (/tmp/city/nyc/work/ nyc-arthur-ashe-stadium/lid.json). It shows the bowl but not the roof (only the old rim light poles), so it was flown before the roof went up. The bowl: the same octagon at 0.85 scale (rim radius 70-77 m), seats rising almost evenly from the court edge at radius 22-26 (z 3) to the rim (z 35), with a level ring at z 20 around radius 50.",
+    "Published (Wikipedia; Architect Magazine, AECOM, ENR via web search): roof by Rossetti, structure WSP, completed 2016; an octagonal roof 520 by 520 ft in plan with a 250 by 250 ft opening; two PTFE fabric panels on glides; a stand-alone superstructure on eight columns round the stadium, rising 150 ft (46 m) above the ground.",
+    "Photos (Wikimedia Commons, credits in /tmp/city/nyc/work/ nyc-arthur-ashe-stadium/photos/credits.txt): \"Arthur Ashe Stadium, July 7, 2018.jpg\" (D. Benjamin Miller, CC0: the roof open, the two vaulted panels parked either side, the blue truss and inclined columns, the brick base); \"Arthur Ashe Stadium with retractible roof.jpg\" (Richiekim, CC BY-SA 4.0); \"Flushing Meadows (43370810850).jpg\", \"Arthur Ashe Stadium with the roof closed (32938595438).jpg\", \"Arthur Ashe roof (39934812963).jpg\", \"Roof closing (46174774644).jpg\" (Carine06, CC BY-SA 2.0: the columns, the truss from below, the blue seats); \"Arthur Ashe Stadium Exterior.jpg\" (Alexisrael, CC BY-SA 3.0, the brick entrance front); \"Arthur Ashe Stadium in 2018.jpg\" (Whoisjohngalt, CC BY-SA 4.0). USGS NAIP (roof closed) for the panels' size and the direction they slide: along the axis square to the long sides facing north-east and south-west.",
+    "Estimated from the photos: the truss band's depth (38.5-45 m) and the fabric ring's rise to the opening (51.5 m); the panels' vault (crown 59.6 m); the columns as eight trunks at the octagon's corners branching into two legs; the brick base's height (15 m) and the pale underside above it. Signs and lettering are left out.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"nyc-arthur-ashe-stadium\", model \"nyc-arthur-ashe-stadium\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/nyc-arthur-ashe-stadium.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 720 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the nyc-arthur-ashe-stadium-glazing finish in the window colour.",
+    "To fit six materials, folded stone into trim (ΔE 4.8)."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

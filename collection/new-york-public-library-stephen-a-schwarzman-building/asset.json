@@ -1,0 +1,282 @@
+{
+  "id": "new-york-public-library-stephen-a-schwarzman-building",
+  "name": "New York Public Library, Stephen A. Schwarzman Building",
+  "anchor": [
+    -73.9822362,
+    40.753215
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 180468,
+      "sha256": "a565d555f012370005f9487b4e5f1dd0b09481161d3e94430d3e93e69d514064"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 180468,
+      "sha256": "a565d555f012370005f9487b4e5f1dd0b09481161d3e94430d3e93e69d514064"
+    }
+  },
+  "triangles": 4127,
+  "boundsBlenderM": [
+    [
+      -70.297,
+      -84.199,
+      0
+    ],
+    [
+      75.391,
+      74.353,
+      42
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -73.9819696,
+          40.7536841
+        ],
+        [
+          -73.9819656,
+          40.7536896
+        ],
+        [
+          -73.9819051,
+          40.7536644
+        ],
+        [
+          -73.9818442,
+          40.7536392
+        ],
+        [
+          -73.9818482,
+          40.7536337
+        ],
+        [
+          -73.9815082,
+          40.7534906
+        ],
+        [
+          -73.9817211,
+          40.7531984
+        ],
+        [
+          -73.9817606,
+          40.7531446
+        ],
+        [
+          -73.9816942,
+          40.7531158
+        ],
+        [
+          -73.9818541,
+          40.7528973
+        ],
+        [
+          -73.9819179,
+          40.7529241
+        ],
+        [
+          -73.9819668,
+          40.752858
+        ],
+        [
+          -73.982157,
+          40.7525994
+        ],
+        [
+          -73.9825202,
+          40.7527526
+        ],
+        [
+          -73.9826105,
+          40.7527907
+        ],
+        [
+          -73.9829827,
+          40.752948
+        ],
+        [
+          -73.9829495,
+          40.7529913
+        ],
+        [
+          -73.9829481,
+          40.752993
+        ],
+        [
+          -73.9829564,
+          40.7529964
+        ],
+        [
+          -73.9828968,
+          40.753078
+        ],
+        [
+          -73.9828865,
+          40.7530737
+        ],
+        [
+          -73.9824544,
+          40.7536694
+        ],
+        [
+          -73.9824614,
+          40.7536727
+        ],
+        [
+          -73.9824021,
+          40.7537539
+        ],
+        [
+          -73.9823952,
+          40.7537509
+        ],
+        [
+          -73.9823919,
+          40.7537554
+        ],
+        [
+          -73.9823315,
+          40.7538369
+        ],
+        [
+          -73.9819696,
+          40.7536841
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 265302076,
+    "version": 47,
+    "timestamp": "2026-06-17T22:18:24Z",
+    "url": "https://www.openstreetmap.org/way/265302076"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 292055454,
+      "version": 2,
+      "timestamp": "2014-07-09T12:21:41Z",
+      "url": "https://www.openstreetmap.org/way/292055454"
+    },
+    {
+      "type": "way",
+      "id": 292055455,
+      "version": 4,
+      "timestamp": "2026-09-26T15:54:23Z",
+      "url": "https://www.openstreetmap.org/way/292055455"
+    },
+    {
+      "type": "way",
+      "id": 292055456,
+      "version": 1,
+      "timestamp": "2014-07-09T12:15:13Z",
+      "url": "https://www.openstreetmap.org/way/292055456"
+    },
+    {
+      "type": "way",
+      "id": 292055457,
+      "version": 2,
+      "timestamp": "2014-07-09T12:21:41Z",
+      "url": "https://www.openstreetmap.org/way/292055457"
+    },
+    {
+      "type": "way",
+      "id": 292055458,
+      "version": 2,
+      "timestamp": "2014-07-09T12:21:41Z",
+      "url": "https://www.openstreetmap.org/way/292055458"
+    },
+    {
+      "type": "way",
+      "id": 292055802,
+      "version": 1,
+      "timestamp": "2014-07-09T12:21:40Z",
+      "url": "https://www.openstreetmap.org/way/292055802"
+    },
+    {
+      "type": "way",
+      "id": 292055803,
+      "version": 1,
+      "timestamp": "2014-07-09T12:21:40Z",
+      "url": "https://www.openstreetmap.org/way/292055803"
+    },
+    {
+      "type": "way",
+      "id": 292055804,
+      "version": 1,
+      "timestamp": "2014-07-09T12:21:40Z",
+      "url": "https://www.openstreetmap.org/way/292055804"
+    },
+    {
+      "type": "way",
+      "id": 292055805,
+      "version": 1,
+      "timestamp": "2014-07-09T12:21:40Z",
+      "url": "https://www.openstreetmap.org/way/292055805"
+    },
+    {
+      "type": "way",
+      "id": 292055806,
+      "version": 2,
+      "timestamp": "2026-09-26T15:54:23Z",
+      "url": "https://www.openstreetmap.org/way/292055806"
+    },
+    {
+      "type": "way",
+      "id": 292055807,
+      "version": 1,
+      "timestamp": "2014-07-09T12:21:40Z",
+      "url": "https://www.openstreetmap.org/way/292055807"
+    }
+  ],
+  "wikidata": "Q7013887",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/nyc-nypl.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "New York Public Library, Stephen A. Schwarzman Building, Fifth Avenue at 42nd Street — procedural, CC0-1.0, no textures. bun generators/nyc-nypl.ts",
+    "Map frame: x = model east (Fifth Avenue), y = model north (42nd Street), z up, metres. Placed at bearing 29°, the Manhattan grid. Anchor: area centroid of the OSM outline way/265302076.",
+    "Identifying features (from the photos): 1. The Fifth Avenue portico: three tall round arches between free-standing Corinthian columns, paired between the arches and single at the ends, under an entablature and a high attic with six statues, the low pediment of the central block showing above it. 2. The broad stairs and terraces in front, up from the avenue to the portico. 3. The long, lower wings either side: a giant order of engaged columns between the bays, arched windows below, square ones above, a balustrade, and end pavilions at 40th and 42nd Streets. 4. The Rose Main Reading Room along the whole west side: a tall block with a row of fifteen great arched windows over Bryant Park, the stack windows (tall narrow slits) below them, and a long grey hipped roof. 5. White Vermont marble throughout.",
+    "Evidence",
+    "OSM way/265302076 (outline, 86 × 113 m) and its parts 292055454–458, 292055802–807 (wings 22 m, reading room and central block 35 m with hipped and gabled roofs, the courts 15 m).",
+    "Lidar: USGS 3DEP NY_NewYorkCity (2017), resampled in the model frame (/tmp/city/nyc/work/nyc-nypl/rot.png), above the Fifth Avenue sidewalk (the lowest ground): the building spans x −43.5…43 and y −64…59.5 (the OSM outline sits 4–7 m inside it to the east and south; the lidar's 123 m matches the published 390 ft front, so the model follows the lidar); the portico projects to x = 49 between y −19.5 and 14, its attic about 24–26 m; the wings 23–25 m with low roofs to 28 m; the reading room block eaves 36 m, ridge 42 m, over x −43.5…−7, y −51…47; the central block a gable along x to a 37 m ridge, ending at x = 29.5; the north court 12–15 m, the south court roofed at 25 m; the terraces about 2 m above the avenue.",
+    "Published: Carrère and Hastings, 1911; 390 × 270 ft; the reading room 297 × 78 ft (Wikipedia; NRHP 66000547).",
+    "Photos (Wikimedia Commons), credits in /tmp/city/nyc/work/nyc-nypl/photos/credits.txt: the Fifth Avenue front head-on (ajay_suresh, CC BY 2.0; New York Public Library panorama, CC BY-SA 4.0), the portico (bryansjs, CC BY-SA 2.0; Another Believer, CC BY-SA 3.0), the west front over Bryant Park (Beyond My Ken, CC BY-SA 4.0).",
+    "Estimated: the portico's storeys (photos scaled to the lidar's attic, 3.5 m podium, 12.7 m columns, 3.8 m entablature, 6 m attic), column spacing and size, the wings' bay rhythm, the end pavilions' width, the stack windows, the terraces' depth and the stair (both outside the OSM outline, as the real ones are). No licensed photo of the 40th or 42nd Street fronts was used; they carry the wings' order. The lions, urns, fountains and flagpoles are left out.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"nyc-nypl\", model \"nyc-nypl\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/nyc-nypl.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 128 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the nyc-nypl-glazing finish in the window colour.",
+    "To fit six materials, folded nyc-nypl-nypl-terrace-roof into stone (ΔE 9.7)."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

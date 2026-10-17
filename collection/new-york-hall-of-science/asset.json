@@ -1,0 +1,476 @@
+{
+  "id": "new-york-hall-of-science",
+  "name": "New York Hall of Science",
+  "anchor": [
+    -73.8516846,
+    40.7472904
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 134936,
+      "sha256": "8dbd167c82806363065b7f833757491de9506065f100833006387b93a2812b93"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 134936,
+      "sha256": "8dbd167c82806363065b7f833757491de9506065f100833006387b93a2812b93"
+    }
+  },
+  "triangles": 3822,
+  "boundsBlenderM": [
+    [
+      -61.1,
+      -57.2,
+      0
+    ],
+    [
+      49.5,
+      96,
+      33.2
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -73.8517972,
+          40.7479078
+        ],
+        [
+          -73.8517075,
+          40.7479236
+        ],
+        [
+          -73.8516352,
+          40.7477701
+        ],
+        [
+          -73.8516246,
+          40.7477689
+        ],
+        [
+          -73.8516212,
+          40.7477838
+        ],
+        [
+          -73.8516185,
+          40.7477911
+        ],
+        [
+          -73.851615,
+          40.7477982
+        ],
+        [
+          -73.8516062,
+          40.7478117
+        ],
+        [
+          -73.8515948,
+          40.7478241
+        ],
+        [
+          -73.8515812,
+          40.7478351
+        ],
+        [
+          -73.8515736,
+          40.74784
+        ],
+        [
+          -73.8515572,
+          40.7478484
+        ],
+        [
+          -73.8515393,
+          40.747855
+        ],
+        [
+          -73.8515299,
+          40.7478575
+        ],
+        [
+          -73.8515203,
+          40.7478595
+        ],
+        [
+          -73.8515007,
+          40.7478618
+        ],
+        [
+          -73.8514808,
+          40.747862
+        ],
+        [
+          -73.8514709,
+          40.7478612
+        ],
+        [
+          -73.8514515,
+          40.747858
+        ],
+        [
+          -73.8514329,
+          40.7478528
+        ],
+        [
+          -73.851412,
+          40.7478447
+        ],
+        [
+          -73.8514021,
+          40.74784
+        ],
+        [
+          -73.8513836,
+          40.7478291
+        ],
+        [
+          -73.8513751,
+          40.747823
+        ],
+        [
+          -73.8513597,
+          40.7478097
+        ],
+        [
+          -73.8513466,
+          40.7477949
+        ],
+        [
+          -73.8513361,
+          40.747779
+        ],
+        [
+          -73.8513246,
+          40.7477537
+        ],
+        [
+          -73.8513217,
+          40.7477449
+        ],
+        [
+          -73.8513179,
+          40.7477271
+        ],
+        [
+          -73.8513172,
+          40.747718
+        ],
+        [
+          -73.8513178,
+          40.7476999
+        ],
+        [
+          -73.8513193,
+          40.747691
+        ],
+        [
+          -73.8513244,
+          40.7476733
+        ],
+        [
+          -73.8513323,
+          40.7476563
+        ],
+        [
+          -73.8513373,
+          40.747648
+        ],
+        [
+          -73.8513433,
+          40.7476409
+        ],
+        [
+          -73.8513572,
+          40.7476278
+        ],
+        [
+          -73.8513736,
+          40.7476164
+        ],
+        [
+          -73.8513921,
+          40.747607
+        ],
+        [
+          -73.851402,
+          40.7476032
+        ],
+        [
+          -73.8510974,
+          40.7470483
+        ],
+        [
+          -73.8513257,
+          40.7468261
+        ],
+        [
+          -73.8513373,
+          40.7467734
+        ],
+        [
+          -73.8519351,
+          40.7468361
+        ],
+        [
+          -73.8519462,
+          40.7468247
+        ],
+        [
+          -73.8519598,
+          40.7468149
+        ],
+        [
+          -73.8519755,
+          40.7468072
+        ],
+        [
+          -73.8519927,
+          40.7468017
+        ],
+        [
+          -73.8520018,
+          40.7467999
+        ],
+        [
+          -73.8520224,
+          40.7467993
+        ],
+        [
+          -73.8520429,
+          40.7468012
+        ],
+        [
+          -73.8520628,
+          40.7468054
+        ],
+        [
+          -73.8520816,
+          40.746812
+        ],
+        [
+          -73.8520988,
+          40.7468207
+        ],
+        [
+          -73.8521067,
+          40.7468258
+        ],
+        [
+          -73.8521207,
+          40.7468373
+        ],
+        [
+          -73.8521323,
+          40.7468504
+        ],
+        [
+          -73.852137,
+          40.7468573
+        ],
+        [
+          -73.8521949,
+          40.7468634
+        ],
+        [
+          -73.8522912,
+          40.7470391
+        ],
+        [
+          -73.8522323,
+          40.7470918
+        ],
+        [
+          -73.8522463,
+          40.7471
+        ],
+        [
+          -73.8522525,
+          40.7471047
+        ],
+        [
+          -73.8522582,
+          40.7471099
+        ],
+        [
+          -73.8522677,
+          40.7471212
+        ],
+        [
+          -73.8522745,
+          40.7471336
+        ],
+        [
+          -73.8522768,
+          40.74714
+        ],
+        [
+          -73.8522783,
+          40.7471466
+        ],
+        [
+          -73.8522791,
+          40.74716
+        ],
+        [
+          -73.8522784,
+          40.7471667
+        ],
+        [
+          -73.8522746,
+          40.7471798
+        ],
+        [
+          -73.8522679,
+          40.7471922
+        ],
+        [
+          -73.8522585,
+          40.7472035
+        ],
+        [
+          -73.8522466,
+          40.7472135
+        ],
+        [
+          -73.8522327,
+          40.7472216
+        ],
+        [
+          -73.8522171,
+          40.7472279
+        ],
+        [
+          -73.8522088,
+          40.7472302
+        ],
+        [
+          -73.8522275,
+          40.7472566
+        ],
+        [
+          -73.85221,
+          40.7472622
+        ],
+        [
+          -73.8521915,
+          40.7472653
+        ],
+        [
+          -73.852182,
+          40.7472658
+        ],
+        [
+          -73.852163,
+          40.747265
+        ],
+        [
+          -73.8521547,
+          40.7472974
+        ],
+        [
+          -73.852128,
+          40.7472933
+        ],
+        [
+          -73.8521021,
+          40.7472866
+        ],
+        [
+          -73.8520775,
+          40.7472776
+        ],
+        [
+          -73.8520546,
+          40.7472663
+        ],
+        [
+          -73.8520439,
+          40.7472599
+        ],
+        [
+          -73.8520063,
+          40.7472961
+        ],
+        [
+          -73.852023,
+          40.7473061
+        ],
+        [
+          -73.851865,
+          40.7474583
+        ],
+        [
+          -73.8518475,
+          40.7474478
+        ],
+        [
+          -73.8517949,
+          40.7474985
+        ],
+        [
+          -73.8520819,
+          40.7480175
+        ],
+        [
+          -73.8518864,
+          40.7480731
+        ],
+        [
+          -73.8517972,
+          40.7479078
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 284860788,
+    "version": 6,
+    "timestamp": "2023-08-11T13:10:37Z",
+    "url": "https://www.openstreetmap.org/way/284860788"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q2306200",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/new-york-hall-of-science.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "New York Hall of Science, Flushing Meadows–Corona Park — original procedural geometry, CC0-1.0. bun generators/new-york-hall-of-science.ts",
+    "Map frame: x east, y north, z up, metres. Bearing 0, so x/y are true east/north. Origin is the centroid of OSM way 284860788 (40.7472904, -73.8516846); that single outline (31.5 m, no building:parts) is the whole complex, so the model covers all of it:",
+    "the 1964 Great Hall (Harrison & Abramovitz): an undulating, lobed concrete drum, 31.5 m tall, its walls a grid of cobalt dalle-de-verre panels, drawn as a few broad rows of recessed blue cells;",
+    "the later wings, plain: a low brick podium over the rest of the outline, the brick entrance rotunda on 111th Street and the sloped 2004 north wing;",
+    "Rocket Park to the north-west: the Mercury-Atlas and Gemini-Titan II, at their OSM positions, as simple white rockets.",
+    "The Great Hall's plan (about 29 x 42 m) is taken from aerial imagery, registered to OSM on the entrance rotunda.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"new-york-hall-of-science\", model \"new-york-hall-of-science\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/new-york-hall-of-science.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "To fit six materials, folded new-york-hall-of-science-great-hall-concrete into new-york-hall-of-science-roofs (ΔE 5.1), new-york-hall-of-science-rocket-white into new-york-hall-of-science-pale-metal (ΔE 9.3)."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

@@ -1,0 +1,326 @@
+{
+  "id": "helmsley-building",
+  "name": "Helmsley Building",
+  "anchor": [
+    -73.9761107,
+    40.7543877
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 170956,
+      "sha256": "06d46dcc9a5f115009666136a8640b808711c1ac11a723ca5ea53683075c85e2"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 170956,
+      "sha256": "06d46dcc9a5f115009666136a8640b808711c1ac11a723ca5ea53683075c85e2"
+    }
+  },
+  "triangles": 2942,
+  "boundsBlenderM": [
+    [
+      -59.685,
+      -51.176,
+      0
+    ],
+    [
+      60.928,
+      52.323,
+      172
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -73.97574,
+          40.7539278
+        ],
+        [
+          -73.9757487,
+          40.7539315
+        ],
+        [
+          -73.9758148,
+          40.7539599
+        ],
+        [
+          -73.9758776,
+          40.7539866
+        ],
+        [
+          -73.9759909,
+          40.7540346
+        ],
+        [
+          -73.9764005,
+          40.7542076
+        ],
+        [
+          -73.9766968,
+          40.754335
+        ],
+        [
+          -73.9767624,
+          40.7543632
+        ],
+        [
+          -73.9768179,
+          40.7543878
+        ],
+        [
+          -73.9766934,
+          40.7545541
+        ],
+        [
+          -73.9765888,
+          40.7546943
+        ],
+        [
+          -73.9764649,
+          40.75486
+        ],
+        [
+          -73.976077,
+          40.7546936
+        ],
+        [
+          -73.9760818,
+          40.7546823
+        ],
+        [
+          -73.9760822,
+          40.7546678
+        ],
+        [
+          -73.97608,
+          40.7546583
+        ],
+        [
+          -73.9760735,
+          40.7546503
+        ],
+        [
+          -73.9760676,
+          40.7546459
+        ],
+        [
+          -73.9760626,
+          40.7546422
+        ],
+        [
+          -73.9760273,
+          40.7546274
+        ],
+        [
+          -73.9759842,
+          40.7546092
+        ],
+        [
+          -73.9758926,
+          40.7545707
+        ],
+        [
+          -73.9758007,
+          40.7545319
+        ],
+        [
+          -73.9757585,
+          40.7545141
+        ],
+        [
+          -73.9757162,
+          40.7544963
+        ],
+        [
+          -73.975673,
+          40.7544781
+        ],
+        [
+          -73.9756584,
+          40.7544744
+        ],
+        [
+          -73.9756503,
+          40.7544739
+        ],
+        [
+          -73.9756338,
+          40.7544766
+        ],
+        [
+          -73.975617,
+          40.7544835
+        ],
+        [
+          -73.9756057,
+          40.7544921
+        ],
+        [
+          -73.9753878,
+          40.7543989
+        ],
+        [
+          -73.9754238,
+          40.7543506
+        ],
+        [
+          -73.9754563,
+          40.754307
+        ],
+        [
+          -73.9755029,
+          40.7542442
+        ],
+        [
+          -73.9756248,
+          40.7540812
+        ],
+        [
+          -73.9757332,
+          40.7539368
+        ],
+        [
+          -73.97574,
+          40.7539278
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 73850655,
+    "version": 21,
+    "timestamp": "2024-01-18T12:41:31Z",
+    "url": "https://www.openstreetmap.org/way/73850655"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 264734070,
+      "version": 1,
+      "timestamp": "2014-03-06T10:20:48Z",
+      "url": "https://www.openstreetmap.org/way/264734070"
+    },
+    {
+      "type": "way",
+      "id": 264734071,
+      "version": 1,
+      "timestamp": "2014-03-06T10:20:48Z",
+      "url": "https://www.openstreetmap.org/way/264734071"
+    },
+    {
+      "type": "way",
+      "id": 264734072,
+      "version": 1,
+      "timestamp": "2014-03-06T10:20:48Z",
+      "url": "https://www.openstreetmap.org/way/264734072"
+    },
+    {
+      "type": "way",
+      "id": 264734073,
+      "version": 2,
+      "timestamp": "2014-07-03T14:39:51Z",
+      "url": "https://www.openstreetmap.org/way/264734073"
+    },
+    {
+      "type": "way",
+      "id": 264734074,
+      "version": 2,
+      "timestamp": "2014-07-03T14:39:51Z",
+      "url": "https://www.openstreetmap.org/way/264734074"
+    },
+    {
+      "type": "way",
+      "id": 264734075,
+      "version": 4,
+      "timestamp": "2024-01-11T23:33:12Z",
+      "url": "https://www.openstreetmap.org/way/264734075"
+    },
+    {
+      "type": "way",
+      "id": 291189622,
+      "version": 6,
+      "timestamp": "2024-01-11T23:31:08Z",
+      "url": "https://www.openstreetmap.org/way/291189622"
+    },
+    {
+      "type": "way",
+      "id": 291189624,
+      "version": 2,
+      "timestamp": "2024-01-11T23:31:08Z",
+      "url": "https://www.openstreetmap.org/way/291189624"
+    },
+    {
+      "type": "way",
+      "id": 291189626,
+      "version": 2,
+      "timestamp": "2026-06-08T13:39:54Z",
+      "url": "https://www.openstreetmap.org/way/291189626"
+    },
+    {
+      "type": "way",
+      "id": 291189628,
+      "version": 1,
+      "timestamp": "2014-07-03T14:39:51Z",
+      "url": "https://www.openstreetmap.org/way/291189628"
+    },
+    {
+      "type": "way",
+      "id": 291189630,
+      "version": 4,
+      "timestamp": "2024-01-11T23:31:08Z",
+      "url": "https://www.openstreetmap.org/way/291189630"
+    },
+    {
+      "type": "way",
+      "id": 668477452,
+      "version": 6,
+      "timestamp": "2025-06-16T01:39:16Z",
+      "url": "https://www.openstreetmap.org/way/668477452"
+    }
+  ],
+  "wikidata": "Q1603308",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/nyc-helmsley-building.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Helmsley Building (230 Park Avenue, the former New York Central Building) — procedural, CC0-1.0, no textures. bun generators/nyc-helmsley-building.ts",
+    "Map frame: x = model east (Lexington side), y = model north (up Park Avenue), z up, metres. Placed at bearing 29°, the Manhattan grid. Anchor: area centroid of the OSM outline way/73850655. Park Avenue's viaduct runs through the middle of the building along y. Kit from nyc-570-lexington.ts.",
+    "Evidence",
+    "OSM: outline way/73850655 and parts 264734070–75 (tower 130 m, hip roof to 150 m, cupola rings 151–160 m, spire 172 m), 291189622–30 (the wings at 65 m and the low 21 m middle sections), 668477452 (Vanderbilt Market, inside the west wing).",
+    "Lidar: USGS 3DEP NY_NewYorkCity, flown 2017, resampled into the model frame. Measured: tower cornice 124–126 m, the hip roof to ~146 m round the cupola, cupola and spire 153–174 m; wings 63–73 m (68 m north, 65–70 m south); the middle sections of the wings 21–29 m.",
+    "Published: 172 m, 35 floors, Warren & Wetmore, 1929 (Wikipedia; NYC landmark 1987). Tan brick and limestone tower, green copper hip roof with dormers, gilded cupola and lantern; two road portals carry Park Avenue through the base, with pedestrian arches beside them.",
+    "Photos (Wikimedia Commons): /tmp/city/nyc/work/nyc-helmsley-building/photos/credits.txt",
+    "Estimated: the roof pitch and the cupola's profile (photos and the lidar heights), the portal size (≈ 9 × 13 m, from the Park Avenue photos), the panel rhythm. Dormers, the clock and its sculpture group are left out.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"nyc-helmsley-building\", model \"nyc-helmsley-building\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/nyc-helmsley-building.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

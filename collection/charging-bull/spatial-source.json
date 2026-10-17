@@ -1,0 +1,190 @@
+{
+  "id": "charging-bull",
+  "anchor": [
+    -74.0134462,
+    40.7055641
+  ],
+  "coordinateSystem": "Local metres about the anchor (equirectangular, WGS84 radius): X east, Y north, Z up. glTF export: X east, Y up, Z south. Heading already baked.",
+  "license": "ODbL-1.0",
+  "footprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -1.7299556061762258,
+          -1.8924313434535562
+        ],
+        [
+          -1.6877615670889445,
+          -2.0260147323846076
+        ],
+        [
+          -0.962024092868938,
+          -2.4490287968056226
+        ],
+        [
+          -0.8354419756070932,
+          -2.482424644433872
+        ],
+        [
+          -0.700421049808256,
+          -2.3711051531306806
+        ],
+        [
+          -0.32067469802272164,
+          -1.9035632918719998
+        ],
+        [
+          2.0506303053981743,
+          1.5807367695447598
+        ],
+        [
+          2.075946728610698,
+          1.992618885547331
+        ],
+        [
+          2.0590691127359397,
+          2.0037508347567474
+        ],
+        [
+          0.7004210510074828,
+          2.7941192191336413
+        ],
+        [
+          0.6835434351327248,
+          2.7941192191336413
+        ],
+        [
+          0.32911350655971394,
+          2.549216339690371
+        ],
+        [
+          -1.4936689875272946,
+          -1.2245143980073254
+        ],
+        [
+          -1.7046391829637024,
+          -1.7922438013597812
+        ],
+        [
+          -1.7299556061762258,
+          -1.8924313434535562
+        ]
+      ]
+    ]
+  },
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -74.0134667,
+          40.7055471
+        ],
+        [
+          -74.0134662,
+          40.7055459
+        ],
+        [
+          -74.0134576,
+          40.7055421
+        ],
+        [
+          -74.0134561,
+          40.7055418
+        ],
+        [
+          -74.0134545,
+          40.7055428
+        ],
+        [
+          -74.01345,
+          40.705547
+        ],
+        [
+          -74.0134219,
+          40.7055783
+        ],
+        [
+          -74.0134216,
+          40.705582
+        ],
+        [
+          -74.0134218,
+          40.7055821
+        ],
+        [
+          -74.0134379,
+          40.7055892
+        ],
+        [
+          -74.0134381,
+          40.7055892
+        ],
+        [
+          -74.0134423,
+          40.705587
+        ],
+        [
+          -74.0134639,
+          40.7055531
+        ],
+        [
+          -74.0134664,
+          40.705548
+        ],
+        [
+          -74.0134667,
+          40.7055471
+        ]
+      ]
+    ]
+  },
+  "parts": [
+    {
+      "osm": "node/373069793",
+      "tags": {
+        "artist_name": "Arturo Di Modica",
+        "artwork_type": "sculpture",
+        "material": "bronze",
+        "name": "Charging Bull",
+        "name:fr": "Taureau de Wall Street",
+        "tourism": "artwork",
+        "website": "https://chargingbull.com/",
+        "wheelchair": "limited",
+        "wikidata": "Q860129",
+        "wikipedia": "en:Charging Bull"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "version": 20,
+      "timestamp": "2023-11-04T11:56:06Z"
+    }
+  ],
+  "osm": {
+    "type": "node",
+    "id": 373069793,
+    "version": 20,
+    "timestamp": "2023-11-04T11:56:06Z",
+    "url": "https://www.openstreetmap.org/node/373069793"
+  },
+  "additionalOsm": [],
+  "tags": {
+    "artist_name": "Arturo Di Modica",
+    "artwork_type": "sculpture",
+    "material": "bronze",
+    "name": "Charging Bull",
+    "name:fr": "Taureau de Wall Street",
+    "tourism": "artwork",
+    "website": "https://chargingbull.com/",
+    "wheelchair": "limited",
+    "wikidata": "Q860129",
+    "wikipedia": "en:Charging Bull"
+  },
+  "note": "This landmark replaces no mapped building; the OSM feature cited is the one that names it."
+}

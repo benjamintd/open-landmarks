@@ -1,0 +1,227 @@
+{
+  "id": "flatiron-building",
+  "name": "Flatiron Building",
+  "anchor": [
+    -73.9896529,
+    40.7410024
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 99956,
+      "sha256": "d914f1814fd3b9749bb8dbb25b39c316b35f895797ab63e87b076c87b7361f82"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 99956,
+      "sha256": "d914f1814fd3b9749bb8dbb25b39c316b35f895797ab63e87b076c87b7361f82"
+    }
+  },
+  "triangles": 2860,
+  "boundsBlenderM": [
+    [
+      -20.104,
+      -28.493,
+      0
+    ],
+    [
+      14.451,
+      34.609,
+      88.3
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -73.9896051,
+          40.7407597
+        ],
+        [
+          -73.9896147,
+          40.7407617
+        ],
+        [
+          -73.989616,
+          40.7407622
+        ],
+        [
+          -73.9896191,
+          40.7407635
+        ],
+        [
+          -73.989631,
+          40.7407686
+        ],
+        [
+          -73.9896342,
+          40.74077
+        ],
+        [
+          -73.9898548,
+          40.7408641
+        ],
+        [
+          -73.9898591,
+          40.740867
+        ],
+        [
+          -73.989866,
+          40.7408739
+        ],
+        [
+          -73.9898703,
+          40.7408821
+        ],
+        [
+          -73.9898715,
+          40.7408907
+        ],
+        [
+          -73.9898697,
+          40.7408994
+        ],
+        [
+          -73.989865,
+          40.7409073
+        ],
+        [
+          -73.9897246,
+          40.7410978
+        ],
+        [
+          -73.9896634,
+          40.7411808
+        ],
+        [
+          -73.9896415,
+          40.7412105
+        ],
+        [
+          -73.9895841,
+          40.7412883
+        ],
+        [
+          -73.9895751,
+          40.7412942
+        ],
+        [
+          -73.9895644,
+          40.7412983
+        ],
+        [
+          -73.9895586,
+          40.7412995
+        ],
+        [
+          -73.9895467,
+          40.7413004
+        ],
+        [
+          -73.9895349,
+          40.7412989
+        ],
+        [
+          -73.9895293,
+          40.7412974
+        ],
+        [
+          -73.989519,
+          40.7412928
+        ],
+        [
+          -73.9895144,
+          40.7412898
+        ],
+        [
+          -73.989507,
+          40.7412827
+        ],
+        [
+          -73.9895014,
+          40.7412649
+        ],
+        [
+          -73.9895356,
+          40.7410206
+        ],
+        [
+          -73.9895699,
+          40.7407764
+        ],
+        [
+          -73.9895745,
+          40.7407697
+        ],
+        [
+          -73.9895815,
+          40.7407645
+        ],
+        [
+          -73.9895903,
+          40.740761
+        ],
+        [
+          -73.9895978,
+          40.7407596
+        ],
+        [
+          -73.9896051,
+          40.7407597
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 264768896,
+    "version": 32,
+    "timestamp": "2025-04-29T15:57:41Z",
+    "url": "https://www.openstreetmap.org/way/264768896"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 764237515,
+      "version": 2,
+      "timestamp": "2022-11-12T07:19:21Z",
+      "url": "https://www.openstreetmap.org/way/764237515"
+    }
+  ],
+  "wikidata": "Q220728",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/flatiron-building.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Flatiron Building — original procedural geometry, CC0-1.0. bun generators/flatiron-building.ts",
+    "Map frame: x east, y north, z up, metres, rotated so +y runs along the wedge's long axis (BEARING). Anchor is the OSM outline's centroid. The footprint is the OSM outline (way/264768896) itself, rotated into that frame; the low rooftop attic follows its building:part (way/764237515, 88 m). No textures: window bands, piers, belts and the cornice are geometry.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"flatiron-building\", model \"flatiron-building\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/flatiron-building.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

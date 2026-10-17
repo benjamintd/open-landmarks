@@ -1,0 +1,174 @@
+{
+  "id": "the-riverside-church",
+  "name": "The Riverside Church",
+  "anchor": [
+    -73.963026,
+    40.811984
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 166436,
+      "sha256": "9c698160407c40d288acdd05d338836206069ab192dd9929fc4d1f83e9c4136e"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 166436,
+      "sha256": "9c698160407c40d288acdd05d338836206069ab192dd9929fc4d1f83e9c4136e"
+    }
+  },
+  "triangles": 3567,
+  "boundsBlenderM": [
+    [
+      -33.723,
+      -47.589,
+      0
+    ],
+    [
+      31.908,
+      50.414,
+      126.6
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -73.9629664,
+          40.8118729
+        ],
+        [
+          -73.962838,
+          40.811818
+        ],
+        [
+          -73.9628899,
+          40.8117479
+        ],
+        [
+          -73.9627075,
+          40.8116699
+        ],
+        [
+          -73.9627236,
+          40.8116481
+        ],
+        [
+          -73.9627398,
+          40.8116263
+        ],
+        [
+          -73.9627673,
+          40.8116381
+        ],
+        [
+          -73.9627928,
+          40.811649
+        ],
+        [
+          -73.9629637,
+          40.811722
+        ],
+        [
+          -73.9630893,
+          40.8115523
+        ],
+        [
+          -73.9631744,
+          40.8115887
+        ],
+        [
+          -73.963153,
+          40.8116176
+        ],
+        [
+          -73.963428,
+          40.8117351
+        ],
+        [
+          -73.9633587,
+          40.8118288
+        ],
+        [
+          -73.9633755,
+          40.811836
+        ],
+        [
+          -73.962927,
+          40.8124418
+        ],
+        [
+          -73.9627034,
+          40.8123462
+        ],
+        [
+          -73.9626935,
+          40.8123596
+        ],
+        [
+          -73.9626271,
+          40.8123312
+        ],
+        [
+          -73.9626787,
+          40.8122616
+        ],
+        [
+          -73.9629664,
+          40.8118729
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 274986253,
+    "version": 4,
+    "timestamp": "2026-05-17T16:03:39Z",
+    "url": "https://www.openstreetmap.org/way/274986253"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q1156586",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/nyc-riverside-church.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "The Riverside Church, 490 Riverside Drive — procedural, CC0-1.0, no textures. bun generators/nyc-riverside-church.ts",
+    "Also a small Gothic kit (pointed and lancet panels, gables, pinnacles) shared with nyc-st-john-the-divine.ts; the model is only built when this file is run.",
+    "Map frame: x = model east, y = model north, z up, metres. Model north is up the nave, the chancel end, towards 122nd Street; the tower stands at the south end of the nave, its portal on Riverside Drive (model west). Placed at bearing 29.4°, the outline's long edges. Anchor: area centroid of the OSM building way/274986253 (the church, tower and the wings inside that outline). The place_of_worship area way/137341515 is a site polygon, not a building, so it is not replaced.",
+    "Evidence",
+    "OSM way/274986253: church outline, 120.1 m; the 1959 south wing (way/274986259, 39.8 m) and the east building (way/274986258) are separate and left as they are.",
+    "Lidar: USGS 3DEP NY_NewYorkCity (2017), 1 m, read in the model frame. y = 0 is the sunken court on the east side (33.9 m NAVD88, the lowest ground under the outline); Riverside Drive along the west front stands 5.5 m higher. Heights above y = 0: nave eaves 38.5 m both sides, ridge 51 m over u = −4, the roof hipped down over the chancel from v = 42; the tower's lower stage 29 × 30 m to 45–52 m, its shaft ~21 m square with angle buttresses stepping up to 84–97 m, the upper stage 19.5 m square to a parapet at ~118 m, corner pinnacles 123 m, the central lantern 126.6 m (the lidar's highest return); the block south of the tower 28–33 m; the low east wing 9–11 m.",
+    "Published: 1930, Allen & Collens with Henry C. Pelton, French Gothic after Chartres, Indiana limestone; tower 392 ft (119 m) above Riverside Drive, the 74-bell Laura Spelman Rockefeller carillon at its top (Wikipedia; NYC LPC designation 2000).",
+    "Photos (Wikimedia Commons), credits in /tmp/city/nyc/work/nyc-riverside-church/photos/credits.txt: from the Hudson (Acroterion: the west elevation beside Grant's Tomb), the tower from the south-east (Ad Meskens), the tower's west face and the nave from the north on the Grant's Tomb plaza (Epicgenius, March 2026; the same set's views of the clerestory bays, two lancets under a rose, were looked at for the bay pattern).",
+    "Estimated: the tower's stage heights and openings from the photos scaled to the lidar's levels (paired lancets 62–84 m, three arched openings per face at 87–98 m and 102–115 m); the crown as four corner pinnacles, four face pinnacles and a central lantern standing for its cluster of spirelets; the nave's seven bays (two lancets under a rose in the clerestory, a triplet in the aisle); the west portal's arch and rose; the south and east wings drawn as plain limestone blocks with window panels.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"nyc-riverside-church\", model \"nyc-riverside-church\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/nyc-riverside-church.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

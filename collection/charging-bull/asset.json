@@ -1,0 +1,148 @@
+{
+  "id": "charging-bull",
+  "name": "Charging Bull",
+  "anchor": [
+    -74.0134462,
+    40.7055641
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 17,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 30804,
+      "sha256": "350c895e4b263ab56156a991589b053b52c16418cab4cbf72ff742c222245da2"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 30804,
+      "sha256": "350c895e4b263ab56156a991589b053b52c16418cab4cbf72ff742c222245da2"
+    }
+  },
+  "triangles": 1070,
+  "boundsBlenderM": [
+    [
+      -1.731,
+      -2.478,
+      0
+    ],
+    [
+      2.074,
+      2.791,
+      3.354
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -74.0134667,
+          40.7055471
+        ],
+        [
+          -74.0134662,
+          40.7055459
+        ],
+        [
+          -74.0134576,
+          40.7055421
+        ],
+        [
+          -74.0134561,
+          40.7055418
+        ],
+        [
+          -74.0134545,
+          40.7055428
+        ],
+        [
+          -74.01345,
+          40.705547
+        ],
+        [
+          -74.0134219,
+          40.7055783
+        ],
+        [
+          -74.0134216,
+          40.705582
+        ],
+        [
+          -74.0134218,
+          40.7055821
+        ],
+        [
+          -74.0134379,
+          40.7055892
+        ],
+        [
+          -74.0134381,
+          40.7055892
+        ],
+        [
+          -74.0134423,
+          40.705587
+        ],
+        [
+          -74.0134639,
+          40.7055531
+        ],
+        [
+          -74.0134664,
+          40.705548
+        ],
+        [
+          -74.0134667,
+          40.7055471
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "node",
+    "id": 373069793,
+    "version": 20,
+    "timestamp": "2023-11-04T11:56:06Z",
+    "url": "https://www.openstreetmap.org/node/373069793"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q860129",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/nyc-charging-bull.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Charging Bull, Bowling Green, Lower Manhattan (Arturo Di Modica, 1989) — procedural, CC0-1.0, no textures. bun generators/nyc-charging-bull.ts",
+    "Map frame: x = model east, y = model north, z up, metres. The bull is built charging toward model +y and placed at bearing 30°, the axis of Broadway and of the paved island it stands on (OSM footway way/420788300, 31°), head up Broadway to the north-north-east as every photo from 26 Broadway's side and from Bowling Green shows. Anchor: OSM node/373069793 (tourism=artwork; no building, so `replaces` is empty). It stands directly on the paving: no plinth, y = 0 is the street.",
+    "Evidence",
+    "Published (Wikipedia; the artist's site): bronze, 7,100 lb, 11 ft (3.4 m) tall and 16 ft (4.9 m) long; head lowered, tail lashing up.",
+    "Lidar: USGS 3DEP NY_NewYorkCity (2017), 0.5 m: a ~5 × 2 m mass up to ~2.9 m over the paving (mixed with the crowd round it, so only a check). Drawn to the published size: 4.9 m from the hind hoofs to the muzzle, the tail's S peaking at 3.3 m and the rump at ~2.6 m.",
+    "Photos (Wikimedia Commons), credits in /tmp/city/nyc/work/nyc-charging-bull/photos/credits.txt: the side from across Broadway (Tdorante10, CC BY-SA 4.0), the head-on view (Andy Rusch, CC BY 2.0), from behind (Mario Antonio Pena Zapateria, CC BY-SA 2.0), the head and horns (Art Palmer, CC BY-SA 3.0), and the rear from 26 Broadway (Tdorante10, cropped, CC BY-SA 4.0).",
+    "Estimated from the photos: everything of the pose — the body as lofted sections (low and deep in front, the belly tucking up to a raised rump on massive haunches, the head carried low and thrust forward), short thick legs (the forelegs splayed forward, the hinds braced back), the horns sweeping out and forward, the tail whipping up over the back in an S. The bronze is drawn dark, a charcoal brown, the horns and muzzle polished golden (rubbed bright by visitors).",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"nyc-charging-bull\", model \"nyc-charging-bull\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/nyc-charging-bull.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

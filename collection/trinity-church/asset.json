@@ -1,0 +1,505 @@
+{
+  "id": "trinity-church",
+  "name": "Trinity Church",
+  "anchor": [
+    -74.0122266,
+    40.7080238
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 107028,
+      "sha256": "294d652530c766e157eac5be49831825a1cb59d299122857e3e9a3f25a41327a"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 107028,
+      "sha256": "294d652530c766e157eac5be49831825a1cb59d299122857e3e9a3f25a41327a"
+    }
+  },
+  "triangles": 2313,
+  "boundsBlenderM": [
+    [
+      -34.541,
+      -26.201,
+      0
+    ],
+    [
+      35.662,
+      33.154,
+      88.1
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -74.0123598,
+          40.7082676
+        ],
+        [
+          -74.0123416,
+          40.7082901
+        ],
+        [
+          -74.0121325,
+          40.7081925
+        ],
+        [
+          -74.0120887,
+          40.708172
+        ],
+        [
+          -74.0121242,
+          40.7081287
+        ],
+        [
+          -74.0119759,
+          40.7080587
+        ],
+        [
+          -74.0119404,
+          40.7081019
+        ],
+        [
+          -74.0119328,
+          40.708098
+        ],
+        [
+          -74.0119086,
+          40.7080868
+        ],
+        [
+          -74.011872,
+          40.7080698
+        ],
+        [
+          -74.011875,
+          40.7080661
+        ],
+        [
+          -74.0118903,
+          40.7080472
+        ],
+        [
+          -74.0119022,
+          40.7080325
+        ],
+        [
+          -74.011907,
+          40.7080265
+        ],
+        [
+          -74.0119082,
+          40.708025
+        ],
+        [
+          -74.0119415,
+          40.7079847
+        ],
+        [
+          -74.011802,
+          40.7079196
+        ],
+        [
+          -74.0118457,
+          40.7078657
+        ],
+        [
+          -74.011887,
+          40.707815
+        ],
+        [
+          -74.0120189,
+          40.7078766
+        ],
+        [
+          -74.0120627,
+          40.7078241
+        ],
+        [
+          -74.0120956,
+          40.7077831
+        ],
+        [
+          -74.0121775,
+          40.7078209
+        ],
+        [
+          -74.0121388,
+          40.7078698
+        ],
+        [
+          -74.0122874,
+          40.7079388
+        ],
+        [
+          -74.012302,
+          40.7079212
+        ],
+        [
+          -74.0123667,
+          40.7078405
+        ],
+        [
+          -74.0126294,
+          40.7079616
+        ],
+        [
+          -74.0125647,
+          40.7080423
+        ],
+        [
+          -74.0125441,
+          40.7080328
+        ],
+        [
+          -74.0124153,
+          40.7081921
+        ],
+        [
+          -74.0124507,
+          40.7082084
+        ],
+        [
+          -74.0124105,
+          40.7082585
+        ],
+        [
+          -74.0124529,
+          40.7082782
+        ],
+        [
+          -74.0124487,
+          40.7082845
+        ],
+        [
+          -74.0124426,
+          40.708293
+        ],
+        [
+          -74.0124363,
+          40.7083018
+        ],
+        [
+          -74.0124274,
+          40.7083158
+        ],
+        [
+          -74.0124204,
+          40.7083269
+        ],
+        [
+          -74.0123928,
+          40.7083161
+        ],
+        [
+          -74.0124107,
+          40.708291
+        ],
+        [
+          -74.0123598,
+          40.7082676
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 278039453,
+    "version": 15,
+    "timestamp": "2026-06-05T02:43:35Z",
+    "url": "https://www.openstreetmap.org/way/278039453"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 276175138,
+      "version": 2,
+      "timestamp": "2023-01-03T03:43:13Z",
+      "url": "https://www.openstreetmap.org/way/276175138"
+    },
+    {
+      "type": "way",
+      "id": 276175139,
+      "version": 1,
+      "timestamp": "2014-04-22T07:45:37Z",
+      "url": "https://www.openstreetmap.org/way/276175139"
+    },
+    {
+      "type": "way",
+      "id": 276175140,
+      "version": 1,
+      "timestamp": "2014-04-22T07:45:37Z",
+      "url": "https://www.openstreetmap.org/way/276175140"
+    },
+    {
+      "type": "way",
+      "id": 276175141,
+      "version": 1,
+      "timestamp": "2014-04-22T07:45:37Z",
+      "url": "https://www.openstreetmap.org/way/276175141"
+    },
+    {
+      "type": "way",
+      "id": 276175142,
+      "version": 3,
+      "timestamp": "2023-01-03T03:43:13Z",
+      "url": "https://www.openstreetmap.org/way/276175142"
+    },
+    {
+      "type": "way",
+      "id": 276175143,
+      "version": 2,
+      "timestamp": "2026-05-17T19:00:39Z",
+      "url": "https://www.openstreetmap.org/way/276175143"
+    },
+    {
+      "type": "way",
+      "id": 276175145,
+      "version": 1,
+      "timestamp": "2014-04-22T07:45:38Z",
+      "url": "https://www.openstreetmap.org/way/276175145"
+    },
+    {
+      "type": "way",
+      "id": 276175146,
+      "version": 2,
+      "timestamp": "2023-11-18T17:01:44Z",
+      "url": "https://www.openstreetmap.org/way/276175146"
+    },
+    {
+      "type": "way",
+      "id": 276175147,
+      "version": 2,
+      "timestamp": "2023-01-03T03:43:13Z",
+      "url": "https://www.openstreetmap.org/way/276175147"
+    },
+    {
+      "type": "way",
+      "id": 276175148,
+      "version": 2,
+      "timestamp": "2023-01-03T03:43:13Z",
+      "url": "https://www.openstreetmap.org/way/276175148"
+    },
+    {
+      "type": "way",
+      "id": 276175149,
+      "version": 1,
+      "timestamp": "2014-04-22T07:45:38Z",
+      "url": "https://www.openstreetmap.org/way/276175149"
+    },
+    {
+      "type": "way",
+      "id": 276175150,
+      "version": 1,
+      "timestamp": "2014-04-22T07:45:38Z",
+      "url": "https://www.openstreetmap.org/way/276175150"
+    },
+    {
+      "type": "way",
+      "id": 276175151,
+      "version": 2,
+      "timestamp": "2017-10-06T10:37:01Z",
+      "url": "https://www.openstreetmap.org/way/276175151"
+    },
+    {
+      "type": "way",
+      "id": 276175152,
+      "version": 2,
+      "timestamp": "2023-01-03T03:43:13Z",
+      "url": "https://www.openstreetmap.org/way/276175152"
+    },
+    {
+      "type": "way",
+      "id": 276175153,
+      "version": 1,
+      "timestamp": "2014-04-22T07:45:38Z",
+      "url": "https://www.openstreetmap.org/way/276175153"
+    },
+    {
+      "type": "way",
+      "id": 276175154,
+      "version": 2,
+      "timestamp": "2014-04-29T16:16:36Z",
+      "url": "https://www.openstreetmap.org/way/276175154"
+    },
+    {
+      "type": "way",
+      "id": 276175155,
+      "version": 1,
+      "timestamp": "2014-04-22T07:45:39Z",
+      "url": "https://www.openstreetmap.org/way/276175155"
+    },
+    {
+      "type": "way",
+      "id": 276175156,
+      "version": 1,
+      "timestamp": "2014-04-22T07:45:39Z",
+      "url": "https://www.openstreetmap.org/way/276175156"
+    },
+    {
+      "type": "way",
+      "id": 276175157,
+      "version": 1,
+      "timestamp": "2014-04-22T07:45:39Z",
+      "url": "https://www.openstreetmap.org/way/276175157"
+    },
+    {
+      "type": "way",
+      "id": 276175158,
+      "version": 1,
+      "timestamp": "2014-04-22T07:45:39Z",
+      "url": "https://www.openstreetmap.org/way/276175158"
+    },
+    {
+      "type": "way",
+      "id": 276175159,
+      "version": 4,
+      "timestamp": "2026-05-24T19:10:18Z",
+      "url": "https://www.openstreetmap.org/way/276175159"
+    },
+    {
+      "type": "way",
+      "id": 276175160,
+      "version": 1,
+      "timestamp": "2014-04-22T07:45:39Z",
+      "url": "https://www.openstreetmap.org/way/276175160"
+    },
+    {
+      "type": "way",
+      "id": 276175161,
+      "version": 1,
+      "timestamp": "2014-04-22T07:45:39Z",
+      "url": "https://www.openstreetmap.org/way/276175161"
+    },
+    {
+      "type": "way",
+      "id": 276175162,
+      "version": 2,
+      "timestamp": "2017-10-06T10:37:00Z",
+      "url": "https://www.openstreetmap.org/way/276175162"
+    },
+    {
+      "type": "way",
+      "id": 276175163,
+      "version": 1,
+      "timestamp": "2014-04-22T07:45:39Z",
+      "url": "https://www.openstreetmap.org/way/276175163"
+    },
+    {
+      "type": "way",
+      "id": 276175164,
+      "version": 2,
+      "timestamp": "2017-10-06T10:37:01Z",
+      "url": "https://www.openstreetmap.org/way/276175164"
+    },
+    {
+      "type": "way",
+      "id": 276175166,
+      "version": 1,
+      "timestamp": "2014-04-22T07:45:40Z",
+      "url": "https://www.openstreetmap.org/way/276175166"
+    },
+    {
+      "type": "way",
+      "id": 276175167,
+      "version": 1,
+      "timestamp": "2014-04-22T07:45:40Z",
+      "url": "https://www.openstreetmap.org/way/276175167"
+    },
+    {
+      "type": "way",
+      "id": 276175168,
+      "version": 1,
+      "timestamp": "2014-04-22T07:45:40Z",
+      "url": "https://www.openstreetmap.org/way/276175168"
+    },
+    {
+      "type": "way",
+      "id": 276175169,
+      "version": 1,
+      "timestamp": "2014-04-22T07:45:40Z",
+      "url": "https://www.openstreetmap.org/way/276175169"
+    },
+    {
+      "type": "way",
+      "id": 276175170,
+      "version": 1,
+      "timestamp": "2014-04-22T07:45:40Z",
+      "url": "https://www.openstreetmap.org/way/276175170"
+    },
+    {
+      "type": "way",
+      "id": 276175171,
+      "version": 2,
+      "timestamp": "2017-10-06T10:37:00Z",
+      "url": "https://www.openstreetmap.org/way/276175171"
+    },
+    {
+      "type": "way",
+      "id": 276175172,
+      "version": 2,
+      "timestamp": "2023-01-03T03:43:13Z",
+      "url": "https://www.openstreetmap.org/way/276175172"
+    },
+    {
+      "type": "way",
+      "id": 276175173,
+      "version": 1,
+      "timestamp": "2014-04-22T07:45:40Z",
+      "url": "https://www.openstreetmap.org/way/276175173"
+    },
+    {
+      "type": "way",
+      "id": 276175174,
+      "version": 1,
+      "timestamp": "2014-04-22T07:45:40Z",
+      "url": "https://www.openstreetmap.org/way/276175174"
+    }
+  ],
+  "wikidata": "Q866896",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/nyc-trinity-church.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Trinity Church, Broadway at Wall Street — procedural, CC0-1.0, no textures. bun generators/nyc-trinity-church.ts",
+    "Map frame: x = model east, y = model north, z up, metres. Model north is the church's liturgical west: the tower stands at +y on Broadway, looking down Wall Street; the chancel is at −y towards Trinity Place. Placed at bearing 121.1°, the outline's long axis. Anchor: area centroid of the OSM outline way/278039453. Kit from nyc-city-hall.ts and nyc-570-lexington.ts.",
+    "Evidence",
+    "OSM way/278039453 (outline) and its parts: the tower 276175149/146/143 (13.6, 12 and 10.6 m squares to 20, 30 and 41 m), its corner pinnacles 276175151/162/164/171 (41–55 m), the spire 276175159 (octagonal, 41–86 m), nave and aisles 276175142/154, the clerestory pinnacles 276175153…174 (to 27 m, every 5 m on both clerestory walls), the side chapels 276175147/148 (gabled, 17 m), the link 276175145, the tower porches 276175150/152 and their pinnacles 276175138/139/140/141/172/173.",
+    "Lidar: USGS 3DEP NY_NewYorkCity (2017) in the model frame: spire tip 88 m above the lowest ground under the outline (Trinity Place side, 7.2 m NAVD88; Broadway stands ~4 m higher); the aisles 16–17 m, the clerestory pinnacles 30–32 m, the nave ridge 29–30 m.",
+    "Published: 1846, Richard Upjohn, Gothic Revival in New Jersey brownstone; 281 ft (86 m) spire, the tallest building in the US until 1869 (Wikipedia; NRHP 76001252).",
+    "Photos (Wikimedia Commons / Openverse): /tmp/city/nyc/work/nyc-trinity-church/photos/credits.txt. Broadway front (Cory Hartman; Kidfly182), the north side with tower, aisle and clerestory (Ken Lund), the All Saints chapel and the south side (DanielPenfield, two), down Wall Street (Lerxst15).",
+    "Colour: the brownstone is a weathered red-brown, near black in shade and a dull mauve-brown in sun (Penfield). Drawn as a readable mid brown-grey with that red cast, as STYLE asks for a large dark surface.",
+    "Estimated: the clerestory (wall to 24.5 m) and aisle (14.5 m + parapet) heights between the lidar's roof returns, the window sizes, the tower's openings (door, great window, clock, belfry) from the Broadway photo scaled to the 41 m tower, the spire's lucarnes, the chancel block's massing (lidar 11–20 m, partly hidden by trees). Crenellations are drawn as plain parapets.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"nyc-trinity-church\", model \"nyc-trinity-church\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/nyc-trinity-church.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 2 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the nyc-trinity-church-glazing finish in the window colour."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

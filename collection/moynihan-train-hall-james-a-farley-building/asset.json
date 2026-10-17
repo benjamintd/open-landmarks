@@ -1,0 +1,638 @@
+{
+  "id": "moynihan-train-hall-james-a-farley-building",
+  "name": "Moynihan Train Hall (James A. Farley Building)",
+  "anchor": [
+    -73.99588965,
+    40.75153424
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 229752,
+      "sha256": "8b35f873a6c489d39b92dd32159ebe22fd20b32418b806211ede41b2f1160e46"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 229752,
+      "sha256": "8b35f873a6c489d39b92dd32159ebe22fd20b32418b806211ede41b2f1160e46"
+    }
+  },
+  "triangles": 4362,
+  "boundsBlenderM": [
+    [
+      -127.411,
+      -105.192,
+      0
+    ],
+    [
+      127.38,
+      105.192,
+      34
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -73.9957908,
+          40.7520781
+        ],
+        [
+          -73.9957882,
+          40.7520818
+        ],
+        [
+          -73.9956425,
+          40.7520201
+        ],
+        [
+          -73.9956498,
+          40.7520102
+        ],
+        [
+          -73.995442,
+          40.7519222
+        ],
+        [
+          -73.9954358,
+          40.7519308
+        ],
+        [
+          -73.9953746,
+          40.7519051
+        ],
+        [
+          -73.9953649,
+          40.7519011
+        ],
+        [
+          -73.9953546,
+          40.7518968
+        ],
+        [
+          -73.9946815,
+          40.7516121
+        ],
+        [
+          -73.994563,
+          40.7515625
+        ],
+        [
+          -73.9945508,
+          40.7515792
+        ],
+        [
+          -73.994499,
+          40.7515575
+        ],
+        [
+          -73.9944684,
+          40.7515447
+        ],
+        [
+          -73.9944379,
+          40.7515319
+        ],
+        [
+          -73.9943714,
+          40.7515041
+        ],
+        [
+          -73.9943847,
+          40.7514858
+        ],
+        [
+          -73.9943777,
+          40.7514829
+        ],
+        [
+          -73.9944119,
+          40.751436
+        ],
+        [
+          -73.9944461,
+          40.7513892
+        ],
+        [
+          -73.9944541,
+          40.7513925
+        ],
+        [
+          -73.9944572,
+          40.7513877
+        ],
+        [
+          -73.994466,
+          40.7513758
+        ],
+        [
+          -73.9944723,
+          40.7513676
+        ],
+        [
+          -73.9947086,
+          40.7510437
+        ],
+        [
+          -73.9947291,
+          40.7510156
+        ],
+        [
+          -73.994966,
+          40.750691
+        ],
+        [
+          -73.9949593,
+          40.7506881
+        ],
+        [
+          -73.9949911,
+          40.7506445
+        ],
+        [
+          -73.9950317,
+          40.7505889
+        ],
+        [
+          -73.9950393,
+          40.7505921
+        ],
+        [
+          -73.99505,
+          40.7505773
+        ],
+        [
+          -73.9951475,
+          40.7506181
+        ],
+        [
+          -73.9952234,
+          40.7506499
+        ],
+        [
+          -73.9952132,
+          40.7506639
+        ],
+        [
+          -73.995336,
+          40.7507153
+        ],
+        [
+          -73.9959347,
+          40.750969
+        ],
+        [
+          -73.9959379,
+          40.7509646
+        ],
+        [
+          -73.9960929,
+          40.7510302
+        ],
+        [
+          -73.9960871,
+          40.7510381
+        ],
+        [
+          -73.9961989,
+          40.7510854
+        ],
+        [
+          -73.9962909,
+          40.7511243
+        ],
+        [
+          -73.9962968,
+          40.7511162
+        ],
+        [
+          -73.9964595,
+          40.7511856
+        ],
+        [
+          -73.9965433,
+          40.7512209
+        ],
+        [
+          -73.9971766,
+          40.7514882
+        ],
+        [
+          -73.997261,
+          40.7515239
+        ],
+        [
+          -73.9972889,
+          40.7515357
+        ],
+        [
+          -73.9973371,
+          40.7515563
+        ],
+        [
+          -73.9973623,
+          40.7515671
+        ],
+        [
+          -73.9974012,
+          40.7515837
+        ],
+        [
+          -73.997061,
+          40.7520487
+        ],
+        [
+          -73.9967442,
+          40.7524816
+        ],
+        [
+          -73.9967224,
+          40.7524724
+        ],
+        [
+          -73.9962367,
+          40.7522666
+        ],
+        [
+          -73.9962002,
+          40.7522514
+        ],
+        [
+          -73.9961653,
+          40.7522365
+        ],
+        [
+          -73.9957908,
+          40.7520781
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 264667030,
+    "version": 17,
+    "timestamp": "2024-01-13T03:39:55Z",
+    "url": "https://www.openstreetmap.org/way/264667030"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 464922596,
+      "version": 2,
+      "timestamp": "2022-01-14T19:46:49Z",
+      "url": "https://www.openstreetmap.org/way/464922596"
+    },
+    {
+      "type": "way",
+      "id": 464922597,
+      "version": 3,
+      "timestamp": "2024-01-13T03:39:55Z",
+      "url": "https://www.openstreetmap.org/way/464922597"
+    },
+    {
+      "type": "way",
+      "id": 464922598,
+      "version": 5,
+      "timestamp": "2022-01-14T19:46:49Z",
+      "url": "https://www.openstreetmap.org/way/464922598"
+    },
+    {
+      "type": "way",
+      "id": 464922599,
+      "version": 2,
+      "timestamp": "2022-01-14T19:46:49Z",
+      "url": "https://www.openstreetmap.org/way/464922599"
+    },
+    {
+      "type": "way",
+      "id": 464922601,
+      "version": 1,
+      "timestamp": "2017-01-10T12:38:05Z",
+      "url": "https://www.openstreetmap.org/way/464922601"
+    },
+    {
+      "type": "way",
+      "id": 464922603,
+      "version": 1,
+      "timestamp": "2017-01-10T12:38:05Z",
+      "url": "https://www.openstreetmap.org/way/464922603"
+    },
+    {
+      "type": "way",
+      "id": 464922605,
+      "version": 1,
+      "timestamp": "2017-01-10T12:38:05Z",
+      "url": "https://www.openstreetmap.org/way/464922605"
+    },
+    {
+      "type": "way",
+      "id": 464922608,
+      "version": 1,
+      "timestamp": "2017-01-10T12:38:06Z",
+      "url": "https://www.openstreetmap.org/way/464922608"
+    },
+    {
+      "type": "way",
+      "id": 464922612,
+      "version": 2,
+      "timestamp": "2022-01-14T19:46:49Z",
+      "url": "https://www.openstreetmap.org/way/464922612"
+    },
+    {
+      "type": "way",
+      "id": 464922613,
+      "version": 2,
+      "timestamp": "2022-01-14T19:46:49Z",
+      "url": "https://www.openstreetmap.org/way/464922613"
+    },
+    {
+      "type": "way",
+      "id": 464922617,
+      "version": 2,
+      "timestamp": "2020-12-30T18:44:23Z",
+      "url": "https://www.openstreetmap.org/way/464922617"
+    },
+    {
+      "type": "way",
+      "id": 464922618,
+      "version": 2,
+      "timestamp": "2022-01-14T19:46:49Z",
+      "url": "https://www.openstreetmap.org/way/464922618"
+    },
+    {
+      "type": "way",
+      "id": 464922619,
+      "version": 1,
+      "timestamp": "2017-01-10T12:38:07Z",
+      "url": "https://www.openstreetmap.org/way/464922619"
+    },
+    {
+      "type": "way",
+      "id": 464922620,
+      "version": 1,
+      "timestamp": "2017-01-10T12:38:07Z",
+      "url": "https://www.openstreetmap.org/way/464922620"
+    },
+    {
+      "type": "way",
+      "id": 464922623,
+      "version": 1,
+      "timestamp": "2017-01-10T12:38:07Z",
+      "url": "https://www.openstreetmap.org/way/464922623"
+    },
+    {
+      "type": "way",
+      "id": 464922624,
+      "version": 1,
+      "timestamp": "2017-01-10T12:38:07Z",
+      "url": "https://www.openstreetmap.org/way/464922624"
+    },
+    {
+      "type": "way",
+      "id": 464922627,
+      "version": 1,
+      "timestamp": "2017-01-10T12:38:07Z",
+      "url": "https://www.openstreetmap.org/way/464922627"
+    },
+    {
+      "type": "way",
+      "id": 464922628,
+      "version": 2,
+      "timestamp": "2022-01-14T19:46:49Z",
+      "url": "https://www.openstreetmap.org/way/464922628"
+    },
+    {
+      "type": "way",
+      "id": 464922629,
+      "version": 2,
+      "timestamp": "2020-12-30T18:44:23Z",
+      "url": "https://www.openstreetmap.org/way/464922629"
+    },
+    {
+      "type": "way",
+      "id": 464922630,
+      "version": 1,
+      "timestamp": "2017-01-10T12:38:08Z",
+      "url": "https://www.openstreetmap.org/way/464922630"
+    },
+    {
+      "type": "way",
+      "id": 464922631,
+      "version": 1,
+      "timestamp": "2017-01-10T12:38:08Z",
+      "url": "https://www.openstreetmap.org/way/464922631"
+    },
+    {
+      "type": "way",
+      "id": 464922632,
+      "version": 2,
+      "timestamp": "2020-12-30T18:44:23Z",
+      "url": "https://www.openstreetmap.org/way/464922632"
+    },
+    {
+      "type": "way",
+      "id": 464922635,
+      "version": 2,
+      "timestamp": "2022-01-14T19:46:49Z",
+      "url": "https://www.openstreetmap.org/way/464922635"
+    },
+    {
+      "type": "way",
+      "id": 464922636,
+      "version": 1,
+      "timestamp": "2017-01-10T12:38:08Z",
+      "url": "https://www.openstreetmap.org/way/464922636"
+    },
+    {
+      "type": "way",
+      "id": 464922637,
+      "version": 2,
+      "timestamp": "2022-01-14T19:46:49Z",
+      "url": "https://www.openstreetmap.org/way/464922637"
+    },
+    {
+      "type": "way",
+      "id": 464922638,
+      "version": 1,
+      "timestamp": "2017-01-10T12:38:09Z",
+      "url": "https://www.openstreetmap.org/way/464922638"
+    },
+    {
+      "type": "way",
+      "id": 464922639,
+      "version": 1,
+      "timestamp": "2017-01-10T12:38:09Z",
+      "url": "https://www.openstreetmap.org/way/464922639"
+    },
+    {
+      "type": "way",
+      "id": 464922641,
+      "version": 3,
+      "timestamp": "2022-01-14T19:46:49Z",
+      "url": "https://www.openstreetmap.org/way/464922641"
+    },
+    {
+      "type": "way",
+      "id": 464922642,
+      "version": 2,
+      "timestamp": "2022-01-14T19:46:49Z",
+      "url": "https://www.openstreetmap.org/way/464922642"
+    },
+    {
+      "type": "way",
+      "id": 464922643,
+      "version": 2,
+      "timestamp": "2022-01-14T19:46:49Z",
+      "url": "https://www.openstreetmap.org/way/464922643"
+    },
+    {
+      "type": "way",
+      "id": 464922645,
+      "version": 2,
+      "timestamp": "2022-01-14T19:46:49Z",
+      "url": "https://www.openstreetmap.org/way/464922645"
+    },
+    {
+      "type": "way",
+      "id": 464922646,
+      "version": 2,
+      "timestamp": "2022-01-14T19:46:49Z",
+      "url": "https://www.openstreetmap.org/way/464922646"
+    },
+    {
+      "type": "way",
+      "id": 464922647,
+      "version": 2,
+      "timestamp": "2022-01-14T19:46:49Z",
+      "url": "https://www.openstreetmap.org/way/464922647"
+    },
+    {
+      "type": "way",
+      "id": 890243248,
+      "version": 1,
+      "timestamp": "2020-12-30T18:44:23Z",
+      "url": "https://www.openstreetmap.org/way/890243248"
+    },
+    {
+      "type": "way",
+      "id": 890243249,
+      "version": 1,
+      "timestamp": "2020-12-30T18:44:23Z",
+      "url": "https://www.openstreetmap.org/way/890243249"
+    },
+    {
+      "type": "way",
+      "id": 890243250,
+      "version": 1,
+      "timestamp": "2020-12-30T18:44:23Z",
+      "url": "https://www.openstreetmap.org/way/890243250"
+    },
+    {
+      "type": "way",
+      "id": 890243251,
+      "version": 1,
+      "timestamp": "2020-12-30T18:44:23Z",
+      "url": "https://www.openstreetmap.org/way/890243251"
+    },
+    {
+      "type": "way",
+      "id": 1021258189,
+      "version": 1,
+      "timestamp": "2022-01-14T19:46:49Z",
+      "url": "https://www.openstreetmap.org/way/1021258189"
+    },
+    {
+      "type": "way",
+      "id": 1021258190,
+      "version": 1,
+      "timestamp": "2022-01-14T19:46:49Z",
+      "url": "https://www.openstreetmap.org/way/1021258190"
+    },
+    {
+      "type": "way",
+      "id": 1021258191,
+      "version": 1,
+      "timestamp": "2022-01-14T19:46:49Z",
+      "url": "https://www.openstreetmap.org/way/1021258191"
+    },
+    {
+      "type": "way",
+      "id": 1021258192,
+      "version": 1,
+      "timestamp": "2022-01-14T19:46:49Z",
+      "url": "https://www.openstreetmap.org/way/1021258192"
+    },
+    {
+      "type": "way",
+      "id": 1021258193,
+      "version": 1,
+      "timestamp": "2022-01-14T19:46:49Z",
+      "url": "https://www.openstreetmap.org/way/1021258193"
+    },
+    {
+      "type": "way",
+      "id": 1021258194,
+      "version": 1,
+      "timestamp": "2022-01-14T19:46:49Z",
+      "url": "https://www.openstreetmap.org/way/1021258194"
+    },
+    {
+      "type": "way",
+      "id": 1021258195,
+      "version": 2,
+      "timestamp": "2022-01-15T18:45:55Z",
+      "url": "https://www.openstreetmap.org/way/1021258195"
+    },
+    {
+      "type": "way",
+      "id": 1021258264,
+      "version": 1,
+      "timestamp": "2022-01-14T19:46:49Z",
+      "url": "https://www.openstreetmap.org/way/1021258264"
+    }
+  ],
+  "wikidata": "Q2466300",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/nyc-moynihan-train-hall.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Moynihan Train Hall / James A. Farley Building — procedural, CC0-1.0, no textures. bun generators/nyc-moynihan-train-hall.ts",
+    "Map frame: x = model east (Eighth Avenue), y = model north (West 33rd Street), z up, metres. Placed at bearing 29°, the Manhattan grid. Anchor: area centroid of the OSM outline way/264667030, the whole block from Eighth to Ninth Avenue.",
+    "The granite Beaux-Arts block: a giant Corinthian colonnade of twenty free-standing round columns (1.9 m across) across the Eighth Avenue front, standing 4.6 m in front of a shaded wall under a pale entablature, framed by the two end pavilions and raised on a full-width stair of eight steps that runs out 7.6 m towards the avenue, past the OSM outline as the real stair does; the side and Ninth Avenue fronts drawn with the same giant order as pilasters between tall two-storey windows, small attic windows above, and a run of arched entrances midblock on 31st and 33rd Streets; a setback upper storey; and the glass barrel vaults with arched steel trusses: four east–west over the old mail court (the train hall) and one north–south over the west court, as the USGS NAIP orthophoto shows them (/tmp/city/nyc/work/nyc-moynihan-train-hall/cmp3.png).",
+    "Evidence",
+    "OSM way/264667030 (outline, 228 × 114 m) and its 46 parts: the outer ring (464922597/98), the raised inner blocks (464922596, -599, -642 and the skillions round the court), the four skylight vaults (890243248–51, x 37.5…85 here, in four bands across the court), the lower west court (1021258192), the rooftop pavilions (464922643/45/47, 1021258193/94/95, 1021258264) and small roof structures.",
+    "Lidar: USGS 3DEP NY_NewYorkCity (2017), resampled in the model frame (/tmp/city/nyc/work/nyc-moynihan-train-hall/rot.png). Measured above the street: the outer roof 23–27 m, the inner raised roof about 28 m, rooftop pavilions about 34 m, the west court's roof about 10 m. The flight predates the train hall's new roof, so the vaults are from OSM and the published height below.",
+    "Published: McKim, Mead & White, 1912–14, extended west 1935; Eighth Avenue colonnade of 20 Corinthian columns, 53 ft (16 m) tall, over a stair the width of the front (Wikipedia; NRHP 73001226). Moynihan Train Hall (SOM, 2021) under four curved skylights rising 92 ft (28 m) above the hall floor.",
+    "Photos (Wikimedia Commons, daylight; from Eighth Avenue at 31st and 33rd Streets, from 33rd Street, the south front): /tmp/city/nyc/work/nyc-moynihan-train-hall/photos/credits.txt.",
+    "Heights used: cornice 27 m (OSM; the lidar's edge reads lower), the setback storey 28.5 m (lidar), the hall's vaults springing at 18 m and cresting at 29 m (published 28 m above the hall floor), the west court's vault 16–25 m. Estimated: the storey divisions of the elevations (podium 5 m, order to 21 m, entablature to 24 m, attic), the bay width (5.4 m, a little wider than the real 4.4 m), the pilasters' size, the steps' depth, the vaults' rise, the place of the arched street entrances (opposite the hall; the 33rd Street photo shows them, their exact position along the street is estimated), the stair's depth. The rooftop pavilions are plain boxes; the cornice's carving is left out. No photo of the Ninth Avenue front was found, so it carries the plain pilaster order.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"nyc-moynihan-train-hall\", model \"nyc-moynihan-train-hall\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/nyc-moynihan-train-hall.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

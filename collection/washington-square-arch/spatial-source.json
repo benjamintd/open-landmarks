@@ -1,0 +1,151 @@
+{
+  "id": "washington-square-arch",
+  "anchor": [
+    -73.9971025,
+    40.7312347
+  ],
+  "coordinateSystem": "Local metres about the anchor (equirectangular, WGS84 radius): X east, Y north, Z up. glTF export: X east, Y up, Z south. Heading already baked.",
+  "license": "ODbL-1.0",
+  "footprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          6.174825726792475,
+          -8.092926981119987
+        ],
+        [
+          -9.937082931384065,
+          2.192993968152936
+        ],
+        [
+          -6.174825726792475,
+          8.092926980329015
+        ],
+        [
+          9.937082931384065,
+          -2.1818620197344925
+        ],
+        [
+          6.174825726792475,
+          -8.092926981119987
+        ]
+      ]
+    ]
+  },
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -73.9970293,
+          40.731162
+        ],
+        [
+          -73.9972203,
+          40.7312544
+        ],
+        [
+          -73.9971757,
+          40.7313074
+        ],
+        [
+          -73.9969847,
+          40.7312151
+        ],
+        [
+          -73.9970293,
+          40.731162
+        ]
+      ]
+    ]
+  },
+  "parts": [
+    {
+      "osm": "way/248166269",
+      "tags": {
+        "access": "permissive",
+        "architect": "Stanford White",
+        "architect:wikidata": "Q572735",
+        "building": "triumphal_arch",
+        "fixme": "OSM thinks this is a building. for accurate representation, a custom geometry must be uploaded to fix this. It is supposed to be an arch. a model can be found here https://www.cgtrader.com/free-3d-models/exterior/historic-exterior/ancient-arc-dbeaa29f-543",
+        "height": "20.5",
+        "historic": "monument",
+        "inscription": "To commemorate the one hundredth anniversary of the inauguration of George Washington as first president of the United States",
+        "material": "marble",
+        "name": "Washington Square Arch",
+        "name:fr": "Arche du square Washington",
+        "nycdoitt:bin": "1088400",
+        "operator": "New York City Department of Parks and Recreation",
+        "operator:short": "NYC Parks",
+        "operator:type": "government",
+        "operator:wikidata": "Q1894232",
+        "start_date": "1892",
+        "tourism": "attraction",
+        "website": "https://www.nycgovparks.org/parks/washington-square-park/monuments/1657",
+        "wikidata": "Q2550491",
+        "wikipedia": "en:Washington Square Arch"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.174825726792475,
+              -8.092926981119987
+            ],
+            [
+              -9.937082931384065,
+              2.192993968152936
+            ],
+            [
+              -6.174825726792475,
+              8.092926980329015
+            ],
+            [
+              9.937082931384065,
+              -2.1818620197344925
+            ],
+            [
+              6.174825726792475,
+              -8.092926981119987
+            ]
+          ]
+        ]
+      },
+      "version": 11,
+      "timestamp": "2025-07-25T15:57:17Z"
+    }
+  ],
+  "osm": {
+    "type": "way",
+    "id": 248166269,
+    "version": 11,
+    "timestamp": "2025-07-25T15:57:17Z",
+    "url": "https://www.openstreetmap.org/way/248166269"
+  },
+  "additionalOsm": [],
+  "tags": {
+    "access": "permissive",
+    "architect": "Stanford White",
+    "architect:wikidata": "Q572735",
+    "building": "triumphal_arch",
+    "fixme": "OSM thinks this is a building. for accurate representation, a custom geometry must be uploaded to fix this. It is supposed to be an arch. a model can be found here https://www.cgtrader.com/free-3d-models/exterior/historic-exterior/ancient-arc-dbeaa29f-543",
+    "height": "20.5",
+    "historic": "monument",
+    "inscription": "To commemorate the one hundredth anniversary of the inauguration of George Washington as first president of the United States",
+    "material": "marble",
+    "name": "Washington Square Arch",
+    "name:fr": "Arche du square Washington",
+    "nycdoitt:bin": "1088400",
+    "operator": "New York City Department of Parks and Recreation",
+    "operator:short": "NYC Parks",
+    "operator:type": "government",
+    "operator:wikidata": "Q1894232",
+    "start_date": "1892",
+    "tourism": "attraction",
+    "website": "https://www.nycgovparks.org/parks/washington-square-park/monuments/1657",
+    "wikidata": "Q2550491",
+    "wikipedia": "en:Washington Square Arch"
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "id": "terrace-on-the-park",
+  "name": "Terrace on the Park",
+  "anchor": [
+    -73.850749,
+    40.7445364
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 34604,
+      "sha256": "2a0a7a743be6e367cfb7b813184d75e50eea675f17bf118f797320bb2f364720"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 34604,
+      "sha256": "2a0a7a743be6e367cfb7b813184d75e50eea675f17bf118f797320bb2f364720"
+    }
+  },
+  "triangles": 1168,
+  "boundsBlenderM": [
+    [
+      -33.844,
+      -38.017,
+      0
+    ],
+    [
+      33.844,
+      38.017,
+      43
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -73.8508686,
+          40.7441941
+        ],
+        [
+          -73.8508778,
+          40.7441972
+        ],
+        [
+          -73.8508852,
+          40.7442025
+        ],
+        [
+          -73.8508878,
+          40.7442057
+        ],
+        [
+          -73.8509923,
+          40.7443642
+        ],
+        [
+          -73.8510466,
+          40.7444466
+        ],
+        [
+          -73.8510876,
+          40.7445537
+        ],
+        [
+          -73.8511472,
+          40.7447092
+        ],
+        [
+          -73.8511473,
+          40.7447166
+        ],
+        [
+          -73.8511461,
+          40.7447202
+        ],
+        [
+          -73.8511414,
+          40.7447267
+        ],
+        [
+          -73.8511339,
+          40.7447315
+        ],
+        [
+          -73.8511295,
+          40.7447331
+        ],
+        [
+          -73.8506445,
+          40.7448783
+        ],
+        [
+          -73.850634,
+          40.7448795
+        ],
+        [
+          -73.8506235,
+          40.7448784
+        ],
+        [
+          -73.8506138,
+          40.744875
+        ],
+        [
+          -73.8506058,
+          40.7448696
+        ],
+        [
+          -73.8504565,
+          40.7446257
+        ],
+        [
+          -73.8503482,
+          40.7443675
+        ],
+        [
+          -73.8503473,
+          40.7443637
+        ],
+        [
+          -73.8503481,
+          40.7443559
+        ],
+        [
+          -73.8503523,
+          40.7443488
+        ],
+        [
+          -73.8503594,
+          40.7443432
+        ],
+        [
+          -73.8503638,
+          40.7443411
+        ],
+        [
+          -73.8508489,
+          40.7441954
+        ],
+        [
+          -73.8508586,
+          40.7441935
+        ],
+        [
+          -73.8508686,
+          40.7441941
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 284860789,
+    "version": 3,
+    "timestamp": "2023-09-07T20:17:07Z",
+    "url": "https://www.openstreetmap.org/way/284860789"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q7703194",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/terrace-on-the-park.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Terrace on the Park (the 1964 World's Fair Port Authority heliport) — original procedural geometry, CC0-1.0. bun generators/terrace-on-the-park.ts",
+    "Authoring frame: x along the long side of the OSM outline (way/284860789), y across it, z up, metres. Catalog bearing 68.5°, anchor at the outline's centroid. The outline is a 64 × 49 m rounded rectangle and 43 m tall.",
+    "Four pylons stand at the middle of the four sides, so each elevation reads as a \"T\": a dark glazed slot runs up the face of each pylon into the box's lower fascia. The glass-walled box sits on top, with a round lower level hanging under its centre, a slightly projecting roof deck (the old helipad) and a small mechanical penthouse.",
+    "Everything is authored flat-shaded and then smoothed with a crease, so the 45° chamfers and rounded corners shade softly while right angles stay crisp.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"terrace-on-the-park\", model \"terrace-on-the-park\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/terrace-on-the-park.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

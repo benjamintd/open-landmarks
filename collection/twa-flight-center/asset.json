@@ -1,0 +1,474 @@
+{
+  "id": "twa-flight-center",
+  "name": "TWA Flight Center",
+  "anchor": [
+    -73.7777456,
+    40.6457561
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 185984,
+      "sha256": "55b89cbde2fabf31c9041ac9774b1f916485df10f4abd59374a08d8b033e18d3"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 185984,
+      "sha256": "55b89cbde2fabf31c9041ac9774b1f916485df10f4abd59374a08d8b033e18d3"
+    }
+  },
+  "triangles": 3674,
+  "boundsBlenderM": [
+    [
+      -49.676,
+      -74.475,
+      0
+    ],
+    [
+      88.44,
+      78.462,
+      17.7
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -73.7774245,
+          40.6460743
+        ],
+        [
+          -73.7773875,
+          40.6460368
+        ],
+        [
+          -73.7773499,
+          40.6459918
+        ],
+        [
+          -73.7773194,
+          40.6459474
+        ],
+        [
+          -73.7772916,
+          40.6458939
+        ],
+        [
+          -73.7772733,
+          40.6458517
+        ],
+        [
+          -73.7772704,
+          40.6458148
+        ],
+        [
+          -73.7772819,
+          40.6457677
+        ],
+        [
+          -73.7772961,
+          40.6457117
+        ],
+        [
+          -73.7773187,
+          40.6456587
+        ],
+        [
+          -73.7773438,
+          40.645618
+        ],
+        [
+          -73.7773662,
+          40.6455809
+        ],
+        [
+          -73.77738,
+          40.6455625
+        ],
+        [
+          -73.7773998,
+          40.6455401
+        ],
+        [
+          -73.7774422,
+          40.6455131
+        ],
+        [
+          -73.7774842,
+          40.6454805
+        ],
+        [
+          -73.7775086,
+          40.645462
+        ],
+        [
+          -73.7773353,
+          40.6453628
+        ],
+        [
+          -73.7773777,
+          40.6453223
+        ],
+        [
+          -73.7774385,
+          40.6452725
+        ],
+        [
+          -73.7774981,
+          40.6452311
+        ],
+        [
+          -73.7775609,
+          40.6451981
+        ],
+        [
+          -73.7776073,
+          40.6451765
+        ],
+        [
+          -73.7776709,
+          40.6451984
+        ],
+        [
+          -73.7776972,
+          40.6451552
+        ],
+        [
+          -73.7777415,
+          40.6451673
+        ],
+        [
+          -73.7777878,
+          40.6451008
+        ],
+        [
+          -73.7778502,
+          40.6451198
+        ],
+        [
+          -73.7778612,
+          40.6450996
+        ],
+        [
+          -73.7779419,
+          40.6451265
+        ],
+        [
+          -73.7779588,
+          40.6451132
+        ],
+        [
+          -73.7779971,
+          40.6450992
+        ],
+        [
+          -73.7780428,
+          40.6450896
+        ],
+        [
+          -73.7780795,
+          40.6450832
+        ],
+        [
+          -73.7781236,
+          40.6450821
+        ],
+        [
+          -73.7781736,
+          40.6450887
+        ],
+        [
+          -73.7781762,
+          40.6451019
+        ],
+        [
+          -73.7781573,
+          40.6451174
+        ],
+        [
+          -73.7781154,
+          40.6451659
+        ],
+        [
+          -73.7780738,
+          40.6452283
+        ],
+        [
+          -73.778038,
+          40.6452935
+        ],
+        [
+          -73.7780043,
+          40.6453627
+        ],
+        [
+          -73.7779817,
+          40.6454216
+        ],
+        [
+          -73.7779628,
+          40.6454872
+        ],
+        [
+          -73.7779489,
+          40.6455475
+        ],
+        [
+          -73.7779423,
+          40.6455736
+        ],
+        [
+          -73.7779242,
+          40.6455991
+        ],
+        [
+          -73.7779113,
+          40.6456114
+        ],
+        [
+          -73.7779207,
+          40.6456513
+        ],
+        [
+          -73.7779579,
+          40.6456799
+        ],
+        [
+          -73.7779994,
+          40.6457144
+        ],
+        [
+          -73.7780365,
+          40.6457512
+        ],
+        [
+          -73.7780677,
+          40.645782
+        ],
+        [
+          -73.7780418,
+          40.6458276
+        ],
+        [
+          -73.7780067,
+          40.6458707
+        ],
+        [
+          -73.7779844,
+          40.6458992
+        ],
+        [
+          -73.7779538,
+          40.6459258
+        ],
+        [
+          -73.7779555,
+          40.6459788
+        ],
+        [
+          -73.7779781,
+          40.6459899
+        ],
+        [
+          -73.7779966,
+          40.64601
+        ],
+        [
+          -73.7780096,
+          40.646033
+        ],
+        [
+          -73.7780368,
+          40.64609
+        ],
+        [
+          -73.7780704,
+          40.6461514
+        ],
+        [
+          -73.7781155,
+          40.6462157
+        ],
+        [
+          -73.7781524,
+          40.6462651
+        ],
+        [
+          -73.7781899,
+          40.6463084
+        ],
+        [
+          -73.7782299,
+          40.6463504
+        ],
+        [
+          -73.7782724,
+          40.646391
+        ],
+        [
+          -73.7783177,
+          40.6464314
+        ],
+        [
+          -73.7783251,
+          40.6464322
+        ],
+        [
+          -73.7783354,
+          40.6464466
+        ],
+        [
+          -73.7783077,
+          40.6464575
+        ],
+        [
+          -73.7782588,
+          40.6464655
+        ],
+        [
+          -73.7782065,
+          40.6464661
+        ],
+        [
+          -73.7781498,
+          40.6464614
+        ],
+        [
+          -73.7780967,
+          40.6464532
+        ],
+        [
+          -73.7780333,
+          40.6464353
+        ],
+        [
+          -73.7779731,
+          40.6464155
+        ],
+        [
+          -73.7779188,
+          40.6463914
+        ],
+        [
+          -73.7778621,
+          40.6463608
+        ],
+        [
+          -73.7778082,
+          40.6463257
+        ],
+        [
+          -73.7777466,
+          40.6462828
+        ],
+        [
+          -73.7776897,
+          40.6462384
+        ],
+        [
+          -73.7776497,
+          40.6462033
+        ],
+        [
+          -73.7776213,
+          40.6461875
+        ],
+        [
+          -73.7775936,
+          40.6461732
+        ],
+        [
+          -73.777558,
+          40.6461589
+        ],
+        [
+          -73.7775247,
+          40.6461411
+        ],
+        [
+          -73.7774924,
+          40.6461257
+        ],
+        [
+          -73.7774695,
+          40.6461121
+        ],
+        [
+          -73.7774414,
+          40.6460933
+        ],
+        [
+          -73.7774245,
+          40.6460743
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 284907419,
+    "version": 9,
+    "timestamp": "2026-09-06T18:34:54Z",
+    "url": "https://www.openstreetmap.org/way/284907419"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 1556624966,
+      "version": 1,
+      "timestamp": "2026-09-06T18:34:54Z",
+      "url": "https://www.openstreetmap.org/way/1556624966"
+    },
+    {
+      "type": "way",
+      "id": 1556624967,
+      "version": 1,
+      "timestamp": "2026-09-06T18:34:54Z",
+      "url": "https://www.openstreetmap.org/way/1556624967"
+    }
+  ],
+  "wikidata": "Q29257",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/nyc-twa-flight-center.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "TWA Flight Center (the TWA Hotel's lobby), JFK Airport, Queens — procedural, CC0-1.0, no textures. bun generators/nyc-twa-flight-center.ts",
+    "Map frame: x = model east (the airside, towards Terminal 5), y = model north, z up, metres. Placed at bearing −3.5°, the headhouse's axis of symmetry (lidar: the roof's outline is mirror-symmetric about a line 4.5 m north of the anchor, running 3.5° south of east). Anchor: area centroid of the OSM outline way/284907419, which takes in the headhouse and the low wings that run off its north and south ends.",
+    "Identifying features (from the photos): the white concrete shell roof of four shells meeting at the centre, the two side shells rising outward to pointed wing tips, the front shell dipping to a beak over the entrance; the sculptural Y-shaped piers at the knees; the tall glass walls leaning out under the raised wing tips and round the back; the white elliptical flight tubes on piers; the low curved white wings with arched bays.",
+    "Evidence",
+    "OSM way/284907419 (headhouse and low wings, one outline, tagged 13.6 m), way/1556624966 and way/1556624967 (the two flight tubes, layer 1).",
+    "Lidar: USGS 3DEP NY_NewYorkCity (2017), heights above the apron (3.6 m NAVD88). The roof is drawn straight from it: its edge found along 48 rays from the centre (where the surface drops away), its height sampled on 8 rings out to 95% of the edge (3 × 3 m median, mirrored for symmetry; /tmp/city/nyc/work/nyc-twa-flight-center/table.py). Measured: centre 12 m, wing tips 15.5–17 m (cells at 1 m reach 17 m), the beak 5–6 m, the back edge 10–11 m; the low wings 5–6 m; the tubes' tops 7–8 m.",
+    "Published: 1962, Eero Saarinen; four concrete shells on four Y-shaped piers; headhouse 46 × 70 m at ground; Flight Tube 1 about 71 m, Flight Tube 2 about 83 m, elliptical in section, rising 1.8 m to the far end; green-tinted glass walls (Wikipedia; NRHP 2005). Wikipedia gives the wing tips as 23 m high; the lidar and the photos agree on ~17 m, used here.",
+    "Photos (Wikimedia Commons), credits in /tmp/city/nyc/work/nyc-twa-flight-center/photos/credits.txt: the front from the AirTrain (Acroterion CC BY-SA 4.0; Epicgenius CC BY-SA 4.0), a pier and the north end (Acroterion), under the front shell (Rainerkruckenberg CC0), the back and its eye window (Rich Gallo; Kathleen Gulley; CC BY-SA 4.0), a flight tube (Andre Carrotflower CC BY-SA 4.0).",
+    "Estimated: the pier positions (front pair from OSM's notches, back pair where the outline narrows) and their shapes; the glass walls' footprint (published 46 × 70 m, drawn as a ring at 78% of the roof's reach, leaning out to the roof's underside); the shell thickness at the edge (0.7 m); the skylight seams' course (centre to each pier); the tubes' section (5.0 × 4.0 m) and supports; the low wings' arched bays.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"nyc-twa-flight-center\", model \"nyc-twa-flight-center\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/nyc-twa-flight-center.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 2186 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the nyc-twa-flight-center-glazing finish in the window colour."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

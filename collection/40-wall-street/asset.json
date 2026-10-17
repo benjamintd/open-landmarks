@@ -1,0 +1,405 @@
+{
+  "id": "40-wall-street",
+  "name": "40 Wall Street",
+  "anchor": [
+    -74.0097378,
+    40.7070222
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 13,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 240264,
+      "sha256": "9171b6288c98223f467bd71285b1326c24ebf33513346b0dff8af8c6d5e5eb86"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 240264,
+      "sha256": "9171b6288c98223f467bd71285b1326c24ebf33513346b0dff8af8c6d5e5eb86"
+    }
+  },
+  "triangles": 4362,
+  "boundsBlenderM": [
+    [
+      -31.698,
+      -44.01,
+      0
+    ],
+    [
+      35.575,
+      45.814,
+      283
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -74.009689,
+          40.7066202
+        ],
+        [
+          -74.0098274,
+          40.7067066
+        ],
+        [
+          -74.009959,
+          40.7067903
+        ],
+        [
+          -74.0101041,
+          40.7068793
+        ],
+        [
+          -74.0100908,
+          40.7068926
+        ],
+        [
+          -74.0100655,
+          40.7069181
+        ],
+        [
+          -74.0099742,
+          40.7070097
+        ],
+        [
+          -74.0098407,
+          40.7071437
+        ],
+        [
+          -74.0100727,
+          40.7072742
+        ],
+        [
+          -74.0100113,
+          40.7073366
+        ],
+        [
+          -74.0099943,
+          40.7073541
+        ],
+        [
+          -74.0099746,
+          40.7073746
+        ],
+        [
+          -74.0099539,
+          40.7073942
+        ],
+        [
+          -74.0099145,
+          40.7074368
+        ],
+        [
+          -74.0095964,
+          40.7072462
+        ],
+        [
+          -74.0094917,
+          40.7071833
+        ],
+        [
+          -74.0094413,
+          40.707153
+        ],
+        [
+          -74.0093195,
+          40.7070798
+        ],
+        [
+          -74.009344,
+          40.7070516
+        ],
+        [
+          -74.0093602,
+          40.7070333
+        ],
+        [
+          -74.0093833,
+          40.7070104
+        ],
+        [
+          -74.00942,
+          40.7069732
+        ],
+        [
+          -74.0095753,
+          40.706815
+        ],
+        [
+          -74.0095511,
+          40.7068006
+        ],
+        [
+          -74.009528,
+          40.7067874
+        ],
+        [
+          -74.0096398,
+          40.7066691
+        ],
+        [
+          -74.0096767,
+          40.7066324
+        ],
+        [
+          -74.009689,
+          40.7066202
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 278042253,
+    "version": 14,
+    "timestamp": "2024-11-21T12:24:32Z",
+    "url": "https://www.openstreetmap.org/way/278042253"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 277555173,
+      "version": 2,
+      "timestamp": "2014-06-03T10:18:40Z",
+      "url": "https://www.openstreetmap.org/way/277555173"
+    },
+    {
+      "type": "way",
+      "id": 277555174,
+      "version": 2,
+      "timestamp": "2014-06-03T10:18:40Z",
+      "url": "https://www.openstreetmap.org/way/277555174"
+    },
+    {
+      "type": "way",
+      "id": 286057075,
+      "version": 1,
+      "timestamp": "2014-06-03T10:18:37Z",
+      "url": "https://www.openstreetmap.org/way/286057075"
+    },
+    {
+      "type": "way",
+      "id": 286057077,
+      "version": 2,
+      "timestamp": "2015-11-06T07:52:10Z",
+      "url": "https://www.openstreetmap.org/way/286057077"
+    },
+    {
+      "type": "way",
+      "id": 286057080,
+      "version": 1,
+      "timestamp": "2014-06-03T10:18:37Z",
+      "url": "https://www.openstreetmap.org/way/286057080"
+    },
+    {
+      "type": "way",
+      "id": 286057082,
+      "version": 1,
+      "timestamp": "2014-06-03T10:18:37Z",
+      "url": "https://www.openstreetmap.org/way/286057082"
+    },
+    {
+      "type": "way",
+      "id": 286057085,
+      "version": 1,
+      "timestamp": "2014-06-03T10:18:37Z",
+      "url": "https://www.openstreetmap.org/way/286057085"
+    },
+    {
+      "type": "way",
+      "id": 286057087,
+      "version": 1,
+      "timestamp": "2014-06-03T10:18:37Z",
+      "url": "https://www.openstreetmap.org/way/286057087"
+    },
+    {
+      "type": "way",
+      "id": 286057089,
+      "version": 1,
+      "timestamp": "2014-06-03T10:18:37Z",
+      "url": "https://www.openstreetmap.org/way/286057089"
+    },
+    {
+      "type": "way",
+      "id": 286057091,
+      "version": 1,
+      "timestamp": "2014-06-03T10:18:38Z",
+      "url": "https://www.openstreetmap.org/way/286057091"
+    },
+    {
+      "type": "way",
+      "id": 286057094,
+      "version": 2,
+      "timestamp": "2015-11-06T07:52:10Z",
+      "url": "https://www.openstreetmap.org/way/286057094"
+    },
+    {
+      "type": "way",
+      "id": 286057096,
+      "version": 2,
+      "timestamp": "2015-11-06T07:52:10Z",
+      "url": "https://www.openstreetmap.org/way/286057096"
+    },
+    {
+      "type": "way",
+      "id": 286057098,
+      "version": 1,
+      "timestamp": "2014-06-03T10:18:38Z",
+      "url": "https://www.openstreetmap.org/way/286057098"
+    },
+    {
+      "type": "way",
+      "id": 286057100,
+      "version": 1,
+      "timestamp": "2014-06-03T10:18:38Z",
+      "url": "https://www.openstreetmap.org/way/286057100"
+    },
+    {
+      "type": "way",
+      "id": 286057102,
+      "version": 1,
+      "timestamp": "2014-06-03T10:18:38Z",
+      "url": "https://www.openstreetmap.org/way/286057102"
+    },
+    {
+      "type": "way",
+      "id": 286057105,
+      "version": 1,
+      "timestamp": "2014-06-03T10:18:38Z",
+      "url": "https://www.openstreetmap.org/way/286057105"
+    },
+    {
+      "type": "way",
+      "id": 286057107,
+      "version": 2,
+      "timestamp": "2015-11-06T07:52:10Z",
+      "url": "https://www.openstreetmap.org/way/286057107"
+    },
+    {
+      "type": "way",
+      "id": 286057109,
+      "version": 1,
+      "timestamp": "2014-06-03T10:18:38Z",
+      "url": "https://www.openstreetmap.org/way/286057109"
+    },
+    {
+      "type": "way",
+      "id": 286057111,
+      "version": 1,
+      "timestamp": "2014-06-03T10:18:39Z",
+      "url": "https://www.openstreetmap.org/way/286057111"
+    },
+    {
+      "type": "way",
+      "id": 286057113,
+      "version": 2,
+      "timestamp": "2024-11-21T12:24:32Z",
+      "url": "https://www.openstreetmap.org/way/286057113"
+    },
+    {
+      "type": "way",
+      "id": 286057115,
+      "version": 1,
+      "timestamp": "2014-06-03T10:18:39Z",
+      "url": "https://www.openstreetmap.org/way/286057115"
+    },
+    {
+      "type": "way",
+      "id": 286057117,
+      "version": 1,
+      "timestamp": "2014-06-03T10:18:39Z",
+      "url": "https://www.openstreetmap.org/way/286057117"
+    },
+    {
+      "type": "way",
+      "id": 286057119,
+      "version": 1,
+      "timestamp": "2014-06-03T10:18:39Z",
+      "url": "https://www.openstreetmap.org/way/286057119"
+    },
+    {
+      "type": "way",
+      "id": 286057122,
+      "version": 1,
+      "timestamp": "2014-06-03T10:18:39Z",
+      "url": "https://www.openstreetmap.org/way/286057122"
+    },
+    {
+      "type": "way",
+      "id": 286057124,
+      "version": 1,
+      "timestamp": "2014-06-03T10:18:39Z",
+      "url": "https://www.openstreetmap.org/way/286057124"
+    },
+    {
+      "type": "way",
+      "id": 378615994,
+      "version": 1,
+      "timestamp": "2015-11-06T07:52:09Z",
+      "url": "https://www.openstreetmap.org/way/378615994"
+    },
+    {
+      "type": "way",
+      "id": 378615999,
+      "version": 1,
+      "timestamp": "2015-11-06T07:52:09Z",
+      "url": "https://www.openstreetmap.org/way/378615999"
+    },
+    {
+      "type": "way",
+      "id": 378616009,
+      "version": 1,
+      "timestamp": "2015-11-06T07:52:09Z",
+      "url": "https://www.openstreetmap.org/way/378616009"
+    },
+    {
+      "type": "way",
+      "id": 378616016,
+      "version": 1,
+      "timestamp": "2015-11-06T07:52:09Z",
+      "url": "https://www.openstreetmap.org/way/378616016"
+    }
+  ],
+  "wikidata": "Q218305",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/nyc-40-wall-street.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "40 Wall Street (the Trump Building, former Bank of Manhattan Trust Building) — procedural, CC0-1.0, no textures. bun generators/nyc-40-wall-street.ts",
+    "Map frame: x = model east, y = model north (Pine Street; Wall Street is the south front), z up, metres. Placed at bearing 37°, the axis of the tower's walls. Anchor: area centroid of the OSM outline way/278042253.",
+    "Evidence",
+    "OSM way/278042253 (outline) and its 29 building:part ways, which map the Wall Street wings, the light court on the west side, the stepped north block on Pine Street, the tower's three top stages (212/225/230 m) and the pyramid (way/286057109) and its lantern; plans used as drawn, squared to the 37° axis.",
+    "Lidar: USGS 3DEP NY_NewYorkCity, flown 2017, resampled into the model frame (heights above the lowest ground by the outline, on Wall Street). Shaft top 206–216 m, a 224–229 m stage, the pyramid's eaves ~230 m and its lantern to ~275 m; the Wall Street wings 73–80 m either side of a 34 m entrance block; the main base 96–98 m and a 122–130 m ring round the tower; the Pine Street block stepping 109/100/87/74/47 m; a 30 m light court on the west side. These replace OSM's heights where they differ (the lidar sits ~3 m north-east of OSM here, so heights were read by matching edges).",
+    "Published: 283 m to the spire, 71 floors, H. Craig Severance with Yasuo Matsui, 1930 (Wikipedia; NYC LPC 1995). Buff limestone and brick; a steep green copper pyramid with dormers, stone gables rising into it at the middle of each face, a lantern and a spire.",
+    "Photos (Wikimedia Commons): /tmp/city/nyc/work/nyc-40-wall-street/photos/credits.txt",
+    "Estimated: the gables' width and height and the dormer count (photos); the lantern's size (lidar peak, photos); the panel rhythm.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"nyc-40-wall-street\", model \"nyc-40-wall-street\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/nyc-40-wall-street.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

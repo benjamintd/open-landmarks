@@ -1,0 +1,218 @@
+{
+  "id": "brooklyn-bridge-brooklyn-tower",
+  "name": "Brooklyn Bridge, Brooklyn tower",
+  "anchor": [
+    -73.9943541,
+    40.7041037
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 13,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 45952,
+      "sha256": "e84dec77e463a34c35fad04cdd6c573fae48dcd920174da837db34142f252043"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 45952,
+      "sha256": "e84dec77e463a34c35fad04cdd6c573fae48dcd920174da837db34142f252043"
+    }
+  },
+  "triangles": 1444,
+  "boundsBlenderM": [
+    [
+      -21.621,
+      -21.236,
+      0
+    ],
+    [
+      21.621,
+      21.236,
+      84.3
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -73.9944924,
+          40.7040501
+        ],
+        [
+          -73.9944113,
+          40.7041086
+        ],
+        [
+          -73.9944488,
+          40.7041384
+        ],
+        [
+          -73.9943957,
+          40.7041768
+        ],
+        [
+          -73.9943582,
+          40.7041469
+        ],
+        [
+          -73.9942774,
+          40.7042052
+        ],
+        [
+          -73.994315,
+          40.7042351
+        ],
+        [
+          -73.9943025,
+          40.7042436
+        ],
+        [
+          -73.9942619,
+          40.7042735
+        ],
+        [
+          -73.9942244,
+          40.7042436
+        ],
+        [
+          -73.9942005,
+          40.7042609
+        ],
+        [
+          -73.9941396,
+          40.7042125
+        ],
+        [
+          -73.9941636,
+          40.7041952
+        ],
+        [
+          -73.9941258,
+          40.7041652
+        ],
+        [
+          -73.9941667,
+          40.7041358
+        ],
+        [
+          -73.994179,
+          40.7041268
+        ],
+        [
+          -73.9942167,
+          40.7041568
+        ],
+        [
+          -73.9942973,
+          40.7040986
+        ],
+        [
+          -73.9942596,
+          40.7040686
+        ],
+        [
+          -73.9943128,
+          40.7040302
+        ],
+        [
+          -73.9943505,
+          40.7040602
+        ],
+        [
+          -73.9944315,
+          40.7040017
+        ],
+        [
+          -73.9943939,
+          40.7039718
+        ],
+        [
+          -73.9944097,
+          40.7039598
+        ],
+        [
+          -73.9944471,
+          40.7039334
+        ],
+        [
+          -73.9944847,
+          40.7039633
+        ],
+        [
+          -73.9945072,
+          40.703947
+        ],
+        [
+          -73.994568,
+          40.7039954
+        ],
+        [
+          -73.9945455,
+          40.7040117
+        ],
+        [
+          -73.9945831,
+          40.7040416
+        ],
+        [
+          -73.9945464,
+          40.7040684
+        ],
+        [
+          -73.99453,
+          40.70408
+        ],
+        [
+          -73.9944924,
+          40.7040501
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 317352708,
+    "version": 5,
+    "timestamp": "2024-03-03T04:07:50Z",
+    "url": "https://www.openstreetmap.org/way/317352708"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q125006",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/brooklyn-bridge-tower.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Brooklyn Bridge tower — procedural, CC0-1.0, no textures. bun generators/brooklyn-bridge-tower.ts",
+    "One model, placed twice (the Manhattan and Brooklyn towers are identical). Map frame: x across the bridge, y along its axis, z up, metres. Placed at bearing 316.2°, the line from the Brooklyn tower to the Manhattan one.",
+    "The overall rectangle is OSM's (ways 317352708 and 1255363983, which agree to 0.1 m): 42.8 × 16.8 m, three piers with a 2.8 m buttress on each end. OSM sets the wall between the piers back 4.6 m; that made the tower read as three slabs from above, so here it is a 1.2 m recess and the piers read as pilasters on one wall. The two pointed arches run straight through the full depth from the roadway band (36.5 m) to a point at 70 m, with dark reveals. Below the roadway the tower is one solid block with shallow pilasters, as photographed from Brooklyn Bridge Park. OSM traces the arches 9.3 m wide and the centre pier 6.2 m, but square-on photos from the deck show each opening close to twice the centre pier, so the arches are opened to 10 m. Height is the real 84.3 m (276.5 ft) above high water to the tops of the pier caps.",
+    "y = 0 is the waterline: the towers stand in the river, so the lowest ground under the footprint is the water surface, which the map draws at 0. No cables and no deck span: the basemap draws the bridge. The roadway through the arches is a flat inset strip, not a stub.",
+    "Styled to STYLE.md: warm granite and limestone, bevelled piers, a projecting cornice and deck-level string course, archivolts as raised bands inside the curtain face. Mirrored about both axes.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"brooklyn-bridge-tower-brooklyn\", model \"brooklyn-bridge-tower\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/brooklyn-bridge-tower.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

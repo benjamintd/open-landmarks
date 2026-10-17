@@ -1,0 +1,200 @@
+{
+  "id": "bailey-fountain",
+  "anchor": [
+    -73.970092,
+    40.673885
+  ],
+  "coordinateSystem": "Local metres about the anchor (equirectangular, WGS84 radius): X east, Y north, Z up. glTF export: X east, Y up, Z south. Heading already baked.",
+  "license": "ODbL-1.0",
+  "footprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -2.8536733658074,
+          10.341580694529034
+        ],
+        [
+          -4.736422360768043,
+          -0.03339584683727664
+        ],
+        [
+          -3.2589287548357033,
+          -5.421259201707982
+        ],
+        [
+          -1.2157661682847074,
+          -7.91481579535127
+        ],
+        [
+          1.4606079645228607,
+          -8.649524434472054
+        ],
+        [
+          3.7654979899212857,
+          -7.235766901486595
+        ],
+        [
+          5.0656923628537935,
+          -4.196744802909683
+        ],
+        [
+          4.727979539463405,
+          1.2579102464265468
+        ],
+        [
+          -0.6838684692852113,
+          10.920442047090905
+        ],
+        [
+          -1.8996346363701215,
+          11.165344926534177
+        ],
+        [
+          -2.8536733658074,
+          10.341580694529034
+        ]
+      ]
+    ]
+  },
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -73.9701258,
+          40.6739779
+        ],
+        [
+          -73.9701481,
+          40.6738847
+        ],
+        [
+          -73.9701306,
+          40.6738363
+        ],
+        [
+          -73.9701064,
+          40.6738139
+        ],
+        [
+          -73.9700747,
+          40.6738073
+        ],
+        [
+          -73.9700474,
+          40.67382
+        ],
+        [
+          -73.970032,
+          40.6738473
+        ],
+        [
+          -73.970036,
+          40.6738963
+        ],
+        [
+          -73.9701001,
+          40.6739831
+        ],
+        [
+          -73.9701145,
+          40.6739853
+        ],
+        [
+          -73.9701258,
+          40.6739779
+        ]
+      ]
+    ]
+  },
+  "parts": [
+    {
+      "osm": "way/109277725",
+      "tags": {
+        "amenity": "fountain",
+        "name": "Bailey Fountain",
+        "natural": "water",
+        "start_date": "1932",
+        "water": "basin",
+        "website": "https://www.nycgovparks.org/parks/B040/monuments/70",
+        "wikidata": "Q4848351",
+        "wikimedia_commons": "Category:Bailey Fountain",
+        "wikipedia": "en:Bailey Fountain"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -2.8536733658074,
+              10.341580694529034
+            ],
+            [
+              -4.736422360768043,
+              -0.03339584683727664
+            ],
+            [
+              -3.2589287548357033,
+              -5.421259201707982
+            ],
+            [
+              -1.2157661682847074,
+              -7.91481579535127
+            ],
+            [
+              1.4606079645228607,
+              -8.649524434472054
+            ],
+            [
+              3.7654979899212857,
+              -7.235766901486595
+            ],
+            [
+              5.0656923628537935,
+              -4.196744802909683
+            ],
+            [
+              4.727979539463405,
+              1.2579102464265468
+            ],
+            [
+              -0.6838684692852113,
+              10.920442047090905
+            ],
+            [
+              -1.8996346363701215,
+              11.165344926534177
+            ],
+            [
+              -2.8536733658074,
+              10.341580694529034
+            ]
+          ]
+        ]
+      },
+      "version": 8,
+      "timestamp": "2026-09-07T23:02:06Z"
+    }
+  ],
+  "osm": {
+    "type": "way",
+    "id": 109277725,
+    "version": 8,
+    "timestamp": "2026-09-07T23:02:06Z",
+    "url": "https://www.openstreetmap.org/way/109277725"
+  },
+  "additionalOsm": [],
+  "tags": {
+    "amenity": "fountain",
+    "name": "Bailey Fountain",
+    "natural": "water",
+    "start_date": "1932",
+    "water": "basin",
+    "website": "https://www.nycgovparks.org/parks/B040/monuments/70",
+    "wikidata": "Q4848351",
+    "wikimedia_commons": "Category:Bailey Fountain",
+    "wikipedia": "en:Bailey Fountain"
+  },
+  "note": "This landmark replaces no mapped building; the OSM feature cited is the one that names it."
+}

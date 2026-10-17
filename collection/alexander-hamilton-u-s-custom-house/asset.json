@@ -1,0 +1,463 @@
+{
+  "id": "alexander-hamilton-u-s-custom-house",
+  "name": "Alexander Hamilton U.S. Custom House",
+  "anchor": [
+    -74.013743,
+    40.7040471
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 222764,
+      "sha256": "b9209a87a5dd69f7e94f20279df6837290980c1f9e46584ace0a103cf5d59285"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 222764,
+      "sha256": "b9209a87a5dd69f7e94f20279df6837290980c1f9e46584ace0a103cf5d59285"
+    }
+  },
+  "triangles": 4535,
+  "boundsBlenderM": [
+    [
+      -45.055,
+      -45.493,
+      0
+    ],
+    [
+      44.037,
+      54.909,
+      40.2
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -74.0135495,
+          40.7036881
+        ],
+        [
+          -74.0136019,
+          40.7036896
+        ],
+        [
+          -74.0136611,
+          40.7036907
+        ],
+        [
+          -74.013677,
+          40.703691
+        ],
+        [
+          -74.0137056,
+          40.7036916
+        ],
+        [
+          -74.0137649,
+          40.703693
+        ],
+        [
+          -74.0137956,
+          40.7036936
+        ],
+        [
+          -74.0138113,
+          40.7036938
+        ],
+        [
+          -74.0138652,
+          40.7036952
+        ],
+        [
+          -74.0138791,
+          40.7036955
+        ],
+        [
+          -74.0139059,
+          40.7036961
+        ],
+        [
+          -74.0139281,
+          40.7036966
+        ],
+        [
+          -74.0139723,
+          40.7036976
+        ],
+        [
+          -74.0139738,
+          40.7036633
+        ],
+        [
+          -74.0142559,
+          40.7036713
+        ],
+        [
+          -74.0142341,
+          40.7038016
+        ],
+        [
+          -74.0142213,
+          40.7038001
+        ],
+        [
+          -74.0142162,
+          40.7038259
+        ],
+        [
+          -74.0142109,
+          40.7038524
+        ],
+        [
+          -74.0141274,
+          40.7042713
+        ],
+        [
+          -74.0141224,
+          40.7042962
+        ],
+        [
+          -74.0141176,
+          40.7043205
+        ],
+        [
+          -74.0141324,
+          40.7043222
+        ],
+        [
+          -74.0141065,
+          40.7044548
+        ],
+        [
+          -74.0140813,
+          40.7044547
+        ],
+        [
+          -74.0140806,
+          40.704468
+        ],
+        [
+          -74.0140595,
+          40.7044676
+        ],
+        [
+          -74.0140286,
+          40.7044673
+        ],
+        [
+          -74.0139637,
+          40.7044666
+        ],
+        [
+          -74.0139266,
+          40.7044663
+        ],
+        [
+          -74.0138888,
+          40.704466
+        ],
+        [
+          -74.0138297,
+          40.7044652
+        ],
+        [
+          -74.0137989,
+          40.704465
+        ],
+        [
+          -74.0137448,
+          40.7044644
+        ],
+        [
+          -74.0136926,
+          40.7044639
+        ],
+        [
+          -74.0136619,
+          40.7044636
+        ],
+        [
+          -74.0135953,
+          40.704463
+        ],
+        [
+          -74.0135582,
+          40.7044626
+        ],
+        [
+          -74.0135185,
+          40.7044621
+        ],
+        [
+          -74.0134582,
+          40.7044616
+        ],
+        [
+          -74.0134269,
+          40.7044615
+        ],
+        [
+          -74.0133963,
+          40.7044609
+        ],
+        [
+          -74.0133966,
+          40.7044498
+        ],
+        [
+          -74.0133682,
+          40.70445
+        ],
+        [
+          -74.0133472,
+          40.7043137
+        ],
+        [
+          -74.0133613,
+          40.7043119
+        ],
+        [
+          -74.0133583,
+          40.7042928
+        ],
+        [
+          -74.0133549,
+          40.7042716
+        ],
+        [
+          -74.013338,
+          40.7041651
+        ],
+        [
+          -74.0133363,
+          40.7041545
+        ],
+        [
+          -74.0133317,
+          40.7041256
+        ],
+        [
+          -74.0133125,
+          40.7040045
+        ],
+        [
+          -74.0133092,
+          40.7039837
+        ],
+        [
+          -74.013308,
+          40.7039757
+        ],
+        [
+          -74.0132875,
+          40.7038464
+        ],
+        [
+          -74.0132824,
+          40.7038141
+        ],
+        [
+          -74.0132778,
+          40.7037842
+        ],
+        [
+          -74.0132599,
+          40.7037856
+        ],
+        [
+          -74.013241,
+          40.7036499
+        ],
+        [
+          -74.0135505,
+          40.7036564
+        ],
+        [
+          -74.0135495,
+          40.7036881
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "relation",
+    "id": 3695753,
+    "version": 8,
+    "timestamp": "2026-08-21T23:22:40Z",
+    "url": "https://www.openstreetmap.org/relation/3695753"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 972087763,
+      "version": 4,
+      "timestamp": "2026-08-17T02:47:01Z",
+      "url": "https://www.openstreetmap.org/way/972087763"
+    },
+    {
+      "type": "way",
+      "id": 972087764,
+      "version": 4,
+      "timestamp": "2026-08-17T02:47:01Z",
+      "url": "https://www.openstreetmap.org/way/972087764"
+    },
+    {
+      "type": "way",
+      "id": 972087765,
+      "version": 3,
+      "timestamp": "2026-08-17T02:47:01Z",
+      "url": "https://www.openstreetmap.org/way/972087765"
+    },
+    {
+      "type": "way",
+      "id": 972087766,
+      "version": 3,
+      "timestamp": "2026-08-17T02:47:01Z",
+      "url": "https://www.openstreetmap.org/way/972087766"
+    },
+    {
+      "type": "way",
+      "id": 972087767,
+      "version": 3,
+      "timestamp": "2026-08-17T02:47:01Z",
+      "url": "https://www.openstreetmap.org/way/972087767"
+    },
+    {
+      "type": "way",
+      "id": 972087770,
+      "version": 5,
+      "timestamp": "2026-08-17T02:47:01Z",
+      "url": "https://www.openstreetmap.org/way/972087770"
+    },
+    {
+      "type": "way",
+      "id": 972087771,
+      "version": 3,
+      "timestamp": "2026-08-17T02:47:01Z",
+      "url": "https://www.openstreetmap.org/way/972087771"
+    },
+    {
+      "type": "way",
+      "id": 972087772,
+      "version": 3,
+      "timestamp": "2026-08-17T02:47:01Z",
+      "url": "https://www.openstreetmap.org/way/972087772"
+    },
+    {
+      "type": "way",
+      "id": 1002205137,
+      "version": 4,
+      "timestamp": "2026-08-17T21:15:09Z",
+      "url": "https://www.openstreetmap.org/way/1002205137"
+    },
+    {
+      "type": "way",
+      "id": 1002205138,
+      "version": 3,
+      "timestamp": "2026-08-17T02:47:01Z",
+      "url": "https://www.openstreetmap.org/way/1002205138"
+    },
+    {
+      "type": "way",
+      "id": 1002205139,
+      "version": 2,
+      "timestamp": "2023-08-19T17:53:22Z",
+      "url": "https://www.openstreetmap.org/way/1002205139"
+    },
+    {
+      "type": "way",
+      "id": 1002205140,
+      "version": 4,
+      "timestamp": "2026-08-17T02:47:01Z",
+      "url": "https://www.openstreetmap.org/way/1002205140"
+    },
+    {
+      "type": "way",
+      "id": 1002205141,
+      "version": 4,
+      "timestamp": "2026-08-17T02:47:01Z",
+      "url": "https://www.openstreetmap.org/way/1002205141"
+    },
+    {
+      "type": "way",
+      "id": 1002205142,
+      "version": 3,
+      "timestamp": "2026-08-17T02:47:01Z",
+      "url": "https://www.openstreetmap.org/way/1002205142"
+    },
+    {
+      "type": "way",
+      "id": 1002205143,
+      "version": 3,
+      "timestamp": "2026-08-17T02:47:01Z",
+      "url": "https://www.openstreetmap.org/way/1002205143"
+    },
+    {
+      "type": "way",
+      "id": 1002205144,
+      "version": 3,
+      "timestamp": "2026-08-17T02:47:01Z",
+      "url": "https://www.openstreetmap.org/way/1002205144"
+    },
+    {
+      "type": "way",
+      "id": 1002205145,
+      "version": 3,
+      "timestamp": "2026-08-17T02:47:01Z",
+      "url": "https://www.openstreetmap.org/way/1002205145"
+    },
+    {
+      "type": "way",
+      "id": 1002205146,
+      "version": 3,
+      "timestamp": "2026-08-17T02:47:01Z",
+      "url": "https://www.openstreetmap.org/way/1002205146"
+    }
+  ],
+  "wikidata": "Q2068997",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/nyc-custom-house.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Alexander Hamilton U.S. Custom House, 1 Bowling Green — procedural, CC0-1.0, no textures. bun generators/nyc-custom-house.ts",
+    "Map frame: x = model east (Whitehall Street), y = model north (Bowling Green, the main front), z up, metres. Placed at bearing 1.4°, the outline's minimum-rectangle axis. Anchor: area centroid of the OSM multipolygon relation/3695753. Kit from nyc-city-hall.ts.",
+    "Evidence",
+    "OSM relation/3695753 (outer way/278053595: a trapezoid, 58 m on Bowling Green, 86 m on Bridge Street, the long sides slanting; inner rings the four light wells round the rotunda) and its parts 1002205137 (the main block, 29 m), 972087770 (the low south block), 972087763/764/767 (the rotunda, a dome tagged #97ae9e), 972087765/766/771/772 (light-well roofs), 1002205138–146 (rooftop structures).",
+    "Lidar: USGS 3DEP NY_NewYorkCity (2017) in the model frame, against the street at ~4 m NAVD88: main cornice 27.5 m, the attic and mansard's foot 34–35 m, the flat roof 39.5–40.5 m, rooftop structures to 44 m, the central sculpture group on the front ~39 m; the rotunda's drum 19.5 m rising to 24.5 m at its crown; the light wells open to near the ground; the south block between the rear corners only 21–22.5 m.",
+    "NAIP orthophoto (USGS, public domain): the U of the upper floors open to the south, a flat grey roof edged by the mansard, the elliptical rotunda roof (a green copper ring round a ribbed skylight).",
+    "Published: Cass Gilbert, 1907, Beaux-Arts; seven storeys; a rusticated 6.1 m ground storey; 44 engaged Corinthian columns through storeys two to four (12 north, 12 east, 12 west, 8 south); a full-storey entablature with small windows; a red-slate mansard with dormers and copper cresting; twelve 3.4 m statues of seafaring nations over the main cornice; the 26 × 41 m elliptical rotunda (Wikipedia; NRHP 72000889).",
+    "Photos (Wikimedia Commons): /tmp/city/nyc/work/nyc-custom-house/photos/credits.txt. The north front and east side from the north-east (ajay_suresh, public domain); interior and detail photos by Epicgenius and King of Hearts were looked at but show no exterior.",
+    "Estimated: storey heights within the lidar's cornice (base to 7.3 m, columns 7.8–21 m), column size (0.75 m radius), the corner pavilions' width (10 m), window sizes, the south columns (four on each rear corner, the low south block having none), the attic's set-back, the dormer rhythm, the statues (bold standing figures) and the central group. Only the north and east sides are confirmed by a licensed photo; the west side is drawn as the east's mirror and the south from the lidar and NAIP. The grand stair and Daniel Chester French's Four Continents stand outside the outline and are not modelled, apart from the stair itself.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"nyc-custom-house\", model \"nyc-custom-house\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/nyc-custom-house.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 22 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the nyc-custom-house-glazing finish in the window colour.",
+    "To fit six materials, folded nyc-custom-house-customhouse-granite-shade into nyc-custom-house-customhouse-granite (ΔE 11.5)."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

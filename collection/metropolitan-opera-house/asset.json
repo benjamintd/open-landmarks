@@ -1,0 +1,165 @@
+{
+  "id": "metropolitan-opera-house",
+  "name": "Metropolitan Opera House",
+  "anchor": [
+    -73.9847275,
+    40.7728499
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 70564,
+      "sha256": "6921211b4e2bc3b94e31caae1a245a2d2cccffc733b31832e7b78de5068eb045"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 70564,
+      "sha256": "6921211b4e2bc3b94e31caae1a245a2d2cccffc733b31832e7b78de5068eb045"
+    }
+  },
+  "triangles": 1328,
+  "boundsBlenderM": [
+    [
+      -69.584,
+      -55.354,
+      0
+    ],
+    [
+      75.313,
+      56.409,
+      45
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -73.9838336,
+          40.7727599
+        ],
+        [
+          -73.9838669,
+          40.7727149
+        ],
+        [
+          -73.9841006,
+          40.772398
+        ],
+        [
+          -73.9841358,
+          40.7723502
+        ],
+        [
+          -73.9849274,
+          40.7726849
+        ],
+        [
+          -73.9849794,
+          40.7726144
+        ],
+        [
+          -73.9855111,
+          40.7728364
+        ],
+        [
+          -73.9854646,
+          40.7729046
+        ],
+        [
+          -73.9855572,
+          40.7729418
+        ],
+        [
+          -73.9852553,
+          40.7733609
+        ],
+        [
+          -73.9846367,
+          40.7731016
+        ],
+        [
+          -73.9839041,
+          40.772788
+        ],
+        [
+          -73.9838336,
+          40.7727599
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 265354534,
+    "version": 18,
+    "timestamp": "2026-09-13T03:11:05Z",
+    "url": "https://www.openstreetmap.org/way/265354534"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 330177538,
+      "version": 3,
+      "timestamp": "2026-02-08T03:33:41Z",
+      "url": "https://www.openstreetmap.org/way/330177538"
+    },
+    {
+      "type": "way",
+      "id": 1475173703,
+      "version": 1,
+      "timestamp": "2026-02-08T03:33:41Z",
+      "url": "https://www.openstreetmap.org/way/1475173703"
+    },
+    {
+      "type": "way",
+      "id": 1475173704,
+      "version": 1,
+      "timestamp": "2026-02-08T03:33:41Z",
+      "url": "https://www.openstreetmap.org/way/1475173704"
+    }
+  ],
+  "wikidata": "Q188031",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/nyc-met-opera.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Metropolitan Opera House, Lincoln Center — procedural, CC0-1.0, no textures. bun generators/nyc-met-opera.ts",
+    "Also the small kit for the Lincoln Center trio of this batch (nyc-david-geffen-hall and nyc-koch-theater import `face`, `cube`, `archFace` and `vault` from here). The model is only written when this file is run directly.",
+    "Map frame: x = model east (the plaza front, towards Columbus Avenue), y = model north (Hearst Plaza), z up, metres. Placed at bearing 29°, the Manhattan grid. Anchor: area centroid of the OSM outline way/265354534.",
+    "Identifying features (from the photos): 1. The plaza front: five tall round arches, true semicircles springing high up, on slender travertine piers, under a thin flat band. 2. The deep loggia behind them: barrel-vault soffits back to a glass wall (dark glass with the lobby behind, arched at the head like the arches), a balcony line about 5 m up and the lit entrance doors under it. 3. The long sides: closely set full-height travertine fins with shadowed glass between, under a plain top band. 4. The tall plain stage house rising behind the front block. 5. Cream travertine throughout.",
+    "Evidence",
+    "OSM way/265354534 (outline, 137 × 52 m, plus the south wing to y = −33) and its parts 330177538 (main block), 1475173703 (south wing), 1475173704 (stage house, x −48…−5, y −15…18).",
+    "Lidar: USGS 3DEP NY_NewYorkCity (2017), resampled in the model frame (/tmp/city/nyc/work/lc/rot.py), above the Amsterdam Avenue sidewalk, the lowest ground under the footprint (19.6 m NAVD88): the plaza in front 5.0–5.4 m (ground returns); main roof 33.6–33.9 m; stage house 45.0 m; a lower roof well at the rear, 27 m, x −62…−50; the south wing 13.7 m.",
+    "Published: Wallace K. Harrison, opened 1966; the facade's five arches about 96 ft (29 m) tall (Wikipedia; Lincoln Center).",
+    "Photos (Wikimedia Commons, daylight): the front head-on (D. Benjamin Miller, CC0), the north side from Hearst Plaza and the front corners (Epicgenius, CC BY-SA 4.0), the roof from a nearby tower (Ostarrichi, CC BY-SA 4.0); /tmp/city/nyc/work/nyc-met-opera/photos/credits.txt.",
+    "Measured from the head-on photo, scaled to the 51.9 m front: arch clear span 8.7 m (radius 4.33), crown 1.3 m under the roof, so springing 28.2 m up; piers 1.5 m (1.3 m at the corners); balcony line 5 m above the plaza. Estimated: the loggia's depth (5.2 m), the fins' pitch (drawn 3.0 m, a little wider than the real ~1.5 m so they read), the top band, the rear (Amsterdam Avenue) wall, drawn plain as no licensed photo of it was found. The plaza, the fountain and the trees are not modelled. y = 0 is the Amsterdam Avenue sidewalk; the front's detail starts at the plaza level, 5.2 m up, as STYLE.md asks for the uphill side.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"nyc-met-opera\", model \"nyc-met-opera\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/nyc-met-opera.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

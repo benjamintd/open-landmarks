@@ -1,0 +1,162 @@
+{
+  "id": "coney-island-cyclone",
+  "name": "Coney Island Cyclone",
+  "anchor": [
+    -73.9777072,
+    40.5745994
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 225440,
+      "sha256": "73a9e618905e29601c4d569796a0cb4420d961a0b5385298cfae0f6f38ba5002"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 225440,
+      "sha256": "73a9e618905e29601c4d569796a0cb4420d961a0b5385298cfae0f6f38ba5002"
+    }
+  },
+  "triangles": 5850,
+  "boundsBlenderM": [
+    [
+      -17.318,
+      -72.842,
+      0
+    ],
+    [
+      18.989,
+      73.451,
+      23.052
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -73.9776429,
+          40.5751258
+        ],
+        [
+          -73.9775759,
+          40.575139
+        ],
+        [
+          -73.9775737,
+          40.5750258
+        ],
+        [
+          -73.9776105,
+          40.5750249
+        ],
+        [
+          -73.9775983,
+          40.5749915
+        ],
+        [
+          -73.9775725,
+          40.5749921
+        ],
+        [
+          -73.9775707,
+          40.5749483
+        ],
+        [
+          -73.977608,
+          40.5749452
+        ],
+        [
+          -73.9775996,
+          40.5748859
+        ],
+        [
+          -73.977665,
+          40.5748735
+        ],
+        [
+          -73.9777486,
+          40.5751433
+        ],
+        [
+          -73.9776529,
+          40.5751626
+        ],
+        [
+          -73.9776429,
+          40.5751258
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 248496353,
+    "version": 5,
+    "timestamp": "2021-01-12T08:40:38Z",
+    "url": "https://www.openstreetmap.org/way/248496353"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 248496460,
+      "version": 3,
+      "timestamp": "2019-12-10T23:10:00Z",
+      "url": "https://www.openstreetmap.org/way/248496460"
+    },
+    {
+      "type": "way",
+      "id": 376073239,
+      "version": 7,
+      "timestamp": "2024-04-17T18:16:26Z",
+      "url": "https://www.openstreetmap.org/way/376073239"
+    },
+    {
+      "type": "way",
+      "id": 656566282,
+      "version": 4,
+      "timestamp": "2024-04-17T18:16:27Z",
+      "url": "https://www.openstreetmap.org/way/656566282"
+    }
+  ],
+  "wikidata": "Q677558",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/coney-island-cyclone.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Coney Island Cyclone — procedural, CC0-1.0. bun generators/coney-island-cyclone.ts",
+    "Map frame: x east, y north, z up, metres; bearing 0, so the frame is true north. The origin is the middle of the ride's footprint (see ANCHOR), on the ground. Coney Island is flat beach fill, so z = 0 is simply the street.",
+    "Sources. Ride data: RCDB 222 (2,850 ft of track, 75 ft to the track at the top of the lift, 85 ft to the sign above it, 58.6° first drop), Wikipedia (twelve drops, six fan turns, the ride in order), the 1988 Landmarks Preservation Commission report (the CYCLONE letters \"fixed to the side of the ride's highest peak\"). Plan: the two OSM `roller_coaster=track` ways (way/376073239, way/656566282) laid over NYS 2025 orthoimagery. Heights and hill shapes: photos from the Wonder Wheel and the Astrotower (Commons), and along West 10th Street and Surf Avenue.",
+    "The OSM trace is a schematic: two laps, 558 m in plan, every turn anticlockwise. The real ride is three out-and-back laps, about 869 m, and turns both ways. So the plan here is redrawn, lap by lap, from the ride description and the photos; it keeps the OSM turnarounds where the orthophoto confirms them and puts six tracks through the narrow waist of the lot, where the photos and the orthophoto show five or six.",
+    "The ride, in order (heights are the track): station on the west side under the gabled shed, heading north N1 an immediate right U-turn at the Surf Avenue end, low (2.2 m) lift straight south along the east side, 31°, to the crest (23 m) in the middle of the lot; the beach is ahead 1st drop 58°, south-south-west, to 1.6 m S1 climb into the first high-speed U-turn, LEFT, round the very south end (16 m) — the one anticlockwise turn 2nd drop north again, diving under the lift crest (3 m), then climbing across the west side over the station approach N2 the tall right U-turn at the Surf Avenue corner (15 m) 3rd drop south down the east side, parallel to the lift; a camelback S2 a smaller banked right U-turn (4.2 m), diving under the climb into S1 4th drop north up the west side; the second camelback N3 right fan turn at the north end (8.6 m), inside N2 and over N1 hops south down the east edge: four small airtime hops S3 the last right U-turn, low under S1 (4 m) return north along the west: two last hops, then low through the tunnel under the 2nd and 4th drops, brake run, station Twelve drops in all, counted by the generator, as Wikipedia gives. Heights pass an energy check (printed): from the 23 m crest, losing 2.5 m of head per 100 m of track, every hill is crossed with speed to spare.",
+    "The sign: red CYCLONE block letters on a white board hung on the side of the crest just under the track, on both the west (West 10th Street) and east faces, as in the photos and the 1988 LPC report. STYLE.md rules out lettering; this is an exception the user asked for, because the sign is the ride's signature. The letters are extruded blocks of a few rectangles each, not a texture.",
+    "Style: the track is one broad smooth ribbon, banked in the turns — a brown wooden deck between red edge bands, with red sides, as the red rails and fencing read from the street. The white steel structure is drawn as a white \"wall\" of chunky bents and ledgers under every stretch of track, leaving a few big openings, the way window bands stand in for windows.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"coney-island-cyclone\", model \"coney-island-cyclone\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/coney-island-cyclone.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

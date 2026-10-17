@@ -1,0 +1,112 @@
+{
+  "id": "williamsburg-bridge-manhattan-tower",
+  "name": "Williamsburg Bridge (Manhattan tower)",
+  "anchor": [
+    -73.9748202,
+    40.7143946
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 167732,
+      "sha256": "76f514b15b1ab2c53f924f7512abf142e54d562d3755dd576746f752c14e9b14"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 167732,
+      "sha256": "76f514b15b1ab2c53f924f7512abf142e54d562d3755dd576746f752c14e9b14"
+    }
+  },
+  "triangles": 3436,
+  "boundsBlenderM": [
+    [
+      -13.797,
+      -20.594,
+      0
+    ],
+    [
+      13.797,
+      20.594,
+      104.6
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -73.9746722,
+          40.7145278
+        ],
+        [
+          -73.9748058,
+          40.7145684
+        ],
+        [
+          -73.9749682,
+          40.7142613
+        ],
+        [
+          -73.9748344,
+          40.7142207
+        ],
+        [
+          -73.9746722,
+          40.7145278
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 1016434034,
+    "version": 1,
+    "timestamp": "2021-12-29T02:32:13Z",
+    "url": "https://www.openstreetmap.org/way/1016434034"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q125068",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/nyc-williamsburg-bridge.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Williamsburg Bridge towers (1903; Leffert L. Buck, Henry Hornbostel) — procedural, CC0-1.0, no textures. bun generators/nyc-williamsburg-bridge.ts",
+    "One tower, placed twice (Manhattan and Brooklyn; OSM maps both with the same 36.6 x 12.2 m rectangle). Map frame: x across the bridge, y along it, z up, metres; origin at the tower's centre on the water. Placed at bearing 291.8°, the line from the Brooklyn tower's centroid to the Manhattan one's (487.3 m apart; the published main span is 1,600 ft, 488 m). Only the tower and its piers: no cables, and a deck stub no longer than the tower is deep.",
+    "What makes it the Williamsburg Bridge: an all-steel tower of two separate lattice shafts, each a four-post tower braced with X panels on every face, the outer faces leaning in toward the top; one tall slim X between the shafts above the deck and an arched brace below it; a flared cap on each shaft carrying two cable saddles, a girder across the top; each shaft on its own masonry pier. Plain grey paint.",
+    "Sources:",
+    "OSM: way/1016434034 (Manhattan tower) and way/1016434035 (Brooklyn), bridge:support=pylon, height 94, material metal: 36.6 x 12.2 m, which is the shafts' footprint at the deck and below.",
+    "Lidar (USGS 3DEP NY_NewYorkCity 2017, 0.5 m, Manhattan tower; heights above the river at about 0 m NAVD88): four cable saddles at |x| 6.75 and 13.75, 104–105 m, about 13 m long; cross girder top 102 m, 35 m across and 7.5 m deep; bracing planes at |y| 3.5 between the shafts; deck top 38–40 m.",
+    "Published: towers 335 ft (102 m) above mean high water, 135 ft (41 m) clearance (Wikipedia \"Williamsburg Bridge\"; NYC DOT). OSM's 94 m is the older 310 ft figure measured from the roadway's datum; the lidar agrees with 102.",
+    "Photos (Wikimedia Commons): \"Williamsburg Bridge, New York City, 20231001 1053 0976\" and \"... 1054 0984\" (Jakub Hałun, CC BY 4.0; side view and the Manhattan tower three-quarter from the river); \"Williamsburg Bridge NY2\" (Acroterion, CC BY-SA 4.0; Brooklyn tower three-quarter, piers, arch under the deck); \"Williamsburg Bridge east tower\" (Beyond My Ken, CC BY-SA 4.0; end-on: tapering shafts, caps, the X between them); \"Williamsburg Bridge tower (3933002966)\" (Patrick Nielsen Hayden, CC BY 2.0; a Manhattan pier at the base); \"East River Park td (2025-10-25) 115\" (Tdorante10, CC BY-SA 4.0) and \"View from Domino Park 027\" (Kidfly182, CC BY 4.0), for the current paint.",
+    "Colour: every photo from 2016 to 2026 shows plain mid grey paint with a faint blue cast (#7d8590 to #8e959c in sun); the brief's red/terracotta isn't the current colour. The red seen on the bridge is the pedestrian path's railing and the trains. Pulled to the palette's lightness.",
+    "Estimated from photos: the shafts' taper (outer faces lean from |x| 18.3 at the deck to 15.5 at the top; inner faces plumb at 5.0; depth from 12.2 to 8 m), five X panels per face above the deck and two below, the piers (5 m) and the arch under the deck, the flared caps.",
+    "y = 0 is the river. The Manhattan tower's piers stand at the bulkhead, whose ground is about 2.3 m up, so that copy sinks its piers by that much: not worth a second model.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"nyc-williamsburg-bridge-manhattan\", model \"nyc-williamsburg-bridge\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/nyc-williamsburg-bridge.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

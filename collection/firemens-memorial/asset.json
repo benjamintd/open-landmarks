@@ -1,0 +1,193 @@
+{
+  "id": "firemens-memorial",
+  "name": "Firemen's Memorial",
+  "anchor": [
+    -73.97321,
+    40.798596
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 17,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 46692,
+      "sha256": "fa82cecff936132615a3d034414eebda0c87b86f3d48e86a86f5ef0d2b3d4547"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 46692,
+      "sha256": "fa82cecff936132615a3d034414eebda0c87b86f3d48e86a86f5ef0d2b3d4547"
+    }
+  },
+  "triangles": 1334,
+  "boundsBlenderM": [
+    [
+      -12.076,
+      -5.271,
+      0
+    ],
+    [
+      4.239,
+      10.226,
+      10
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -73.9733533,
+          40.798595
+        ],
+        [
+          -73.9732376,
+          40.7985516
+        ],
+        [
+          -73.973235,
+          40.7985507
+        ],
+        [
+          -73.9732336,
+          40.7985503
+        ],
+        [
+          -73.9732284,
+          40.7985491
+        ],
+        [
+          -73.9732256,
+          40.7985488
+        ],
+        [
+          -73.9732195,
+          40.7985487
+        ],
+        [
+          -73.9732167,
+          40.798549
+        ],
+        [
+          -73.9732122,
+          40.7985502
+        ],
+        [
+          -73.9732099,
+          40.7985513
+        ],
+        [
+          -73.9732073,
+          40.7985534
+        ],
+        [
+          -73.9732058,
+          40.7985552
+        ],
+        [
+          -73.973161,
+          40.7986279
+        ],
+        [
+          -73.9731602,
+          40.79863
+        ],
+        [
+          -73.9731597,
+          40.7986328
+        ],
+        [
+          -73.97316,
+          40.7986348
+        ],
+        [
+          -73.9731617,
+          40.7986383
+        ],
+        [
+          -73.9731632,
+          40.7986401
+        ],
+        [
+          -73.9731672,
+          40.7986436
+        ],
+        [
+          -73.9731694,
+          40.7986449
+        ],
+        [
+          -73.9731739,
+          40.7986472
+        ],
+        [
+          -73.9731753,
+          40.7986478
+        ],
+        [
+          -73.9731778,
+          40.7986487
+        ],
+        [
+          -73.9732961,
+          40.7986879
+        ],
+        [
+          -73.9733498,
+          40.7986007
+        ],
+        [
+          -73.9733533,
+          40.798595
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "node",
+    "id": 357620587,
+    "version": 7,
+    "timestamp": "2026-05-31T18:27:00Z",
+    "url": "https://www.openstreetmap.org/node/357620587"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q18148473",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/nyc-firemens-memorial.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Firemen's Memorial, Riverside Drive at 100th Street, Manhattan (H. Van Buren Magonigle, architect; Attilio Piccirilli, sculptor; 1913) — procedural, CC0-1.0, no textures. bun generators/nyc-firemens-memorial.ts",
+    "Map frame: x = model east, y = model north, z up, metres. Placed at bearing 115°: model +y is the back, on Riverside Drive (ESE); model −y the front, over its terrace, basin and the wide stair down into Riverside Park (WNW); the long axis (model x) runs along the drive (the lidar block's axis, 25°). Anchor: the block's centre in the lidar, 1.9 m east and 2.7 m south of OSM node/357620587 (historic=memorial, no building), so `replaces` is empty.",
+    "y = 0 is the foot of the front stair, the lowest ground under the model; the terrace is 2.0 m up and Riverside Drive behind 3.8 m up (lidar). The terrace is ground and not drawn: the stair is drawn running straight up to the basin and base (the real stair lands ~5 m short of them), and the base reaches down to y = 0. Elevation 0.",
+    "Evidence",
+    "Published (NYC Parks; Wikipedia): pink Tennessee marble, a sarcophagus- like block with a bronze relief of a horse-drawn engine on the front and the dedication on the back; seated groups Duty and Sacrifice at the ends; a fountain basin and a wide stair to the park.",
+    "Lidar: USGS 3DEP NY_NewYorkCity (2017), 0.5 m (read before the cache was cleared; /tmp/city/nyc/work/nyc-firemens-memorial/lid.json): block top 10.0 m (6.2 m above the drive), the block's axis at 25°, ~8–9 m long; the basin's rim ~1 m over the terrace; the stair falling 2.0 m over ~7 m from the terrace to the park.",
+    "Photos (Wikimedia Commons), credits in /tmp/city/nyc/work/nyc-firemens-memorial/photos/credits.txt: Pburka (CC BY 3.0, the front and stair from the park), Jim.henderson (public domain: the back square on from the drive, the relief, the north end), Deansfa (CC BY-SA 4.0, from the 100th Street corner).",
+    "Estimated from the back photo scaled to the lidar's 6.2 m: the upper block 8.6 × 3.0 m from 5.9 to 9.1 m, cornice and attic to 10.0 m; the base 12.2 m long with rounded ends carrying the groups; the groups 2.2 m tall, each a seated woman with a child standing at her knee (Duty with a dead fireman across her lap is drawn as the same bold seated mass); the basin and the stair's width (10 m, thirteen risers). The relief and inscription are flat panels; the lion-head spout and the lamps are left out.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"nyc-firemens-memorial\", model \"nyc-firemens-memorial\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/nyc-firemens-memorial.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

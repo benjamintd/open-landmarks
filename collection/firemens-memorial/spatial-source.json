@@ -1,0 +1,276 @@
+{
+  "id": "firemens-memorial",
+  "anchor": [
+    -73.97321,
+    40.798596
+  ],
+  "coordinateSystem": "Local metres about the anchor (equirectangular, WGS84 radius): X east, Y north, Z up. glTF export: X east, Y up, Z south. Heading already baked.",
+  "license": "ODbL-1.0",
+  "footprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -12.075903398233613,
+          -0.11131949130319144
+        ],
+        [
+          -2.3258543886916,
+          -4.942585391239884
+        ],
+        [
+          -2.1067521635831485,
+          -5.0427729333336595
+        ],
+        [
+          -1.988774042278786,
+          -5.0873007293803525
+        ],
+        [
+          -1.5505695920618834,
+          -5.220884118311403
+        ],
+        [
+          -1.3146133506507085,
+          -5.254279965939653
+        ],
+        [
+          -0.8005658222813513,
+          -5.265411915149069
+        ],
+        [
+          -0.5646095796726268,
+          -5.23201606752082
+        ],
+        [
+          -0.185394191305455,
+          -5.098432678589769
+        ],
+        [
+          0.008427008151361612,
+          -4.975981238868133
+        ],
+        [
+          0.22752923325981306,
+          -4.742210307843307
+        ],
+        [
+          0.35393436271553697,
+          -4.5418352244467295
+        ],
+        [
+          4.12923423846738,
+          3.551091755882285
+        ],
+        [
+          4.196650308468474,
+          3.7848626869071125
+        ],
+        [
+          4.238785351620381,
+          4.096557260815909
+        ],
+        [
+          4.213504325968747,
+          4.319196242631319
+        ],
+        [
+          4.0702451778152,
+          4.7088144602150575
+        ],
+        [
+          3.9438400483594753,
+          4.909189543611635
+        ],
+        [
+          3.606759701946662,
+          5.2988077611953734
+        ],
+        [
+          3.4213655118387565,
+          5.4435230993358426
+        ],
+        [
+          3.042150122274035,
+          5.699557927988529
+        ],
+        [
+          2.924172002167223,
+          5.7663496224540545
+        ],
+        [
+          2.713496785210133,
+          5.86653716454783
+        ],
+        [
+          -7.255654449440331,
+          10.230261203225842
+        ],
+        [
+          -11.780958094972707,
+          0.5232016065147902
+        ],
+        [
+          -12.075903398233613,
+          -0.11131949130319144
+        ]
+      ]
+    ]
+  },
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -73.9733533,
+          40.798595
+        ],
+        [
+          -73.9732376,
+          40.7985516
+        ],
+        [
+          -73.973235,
+          40.7985507
+        ],
+        [
+          -73.9732336,
+          40.7985503
+        ],
+        [
+          -73.9732284,
+          40.7985491
+        ],
+        [
+          -73.9732256,
+          40.7985488
+        ],
+        [
+          -73.9732195,
+          40.7985487
+        ],
+        [
+          -73.9732167,
+          40.798549
+        ],
+        [
+          -73.9732122,
+          40.7985502
+        ],
+        [
+          -73.9732099,
+          40.7985513
+        ],
+        [
+          -73.9732073,
+          40.7985534
+        ],
+        [
+          -73.9732058,
+          40.7985552
+        ],
+        [
+          -73.973161,
+          40.7986279
+        ],
+        [
+          -73.9731602,
+          40.79863
+        ],
+        [
+          -73.9731597,
+          40.7986328
+        ],
+        [
+          -73.97316,
+          40.7986348
+        ],
+        [
+          -73.9731617,
+          40.7986383
+        ],
+        [
+          -73.9731632,
+          40.7986401
+        ],
+        [
+          -73.9731672,
+          40.7986436
+        ],
+        [
+          -73.9731694,
+          40.7986449
+        ],
+        [
+          -73.9731739,
+          40.7986472
+        ],
+        [
+          -73.9731753,
+          40.7986478
+        ],
+        [
+          -73.9731778,
+          40.7986487
+        ],
+        [
+          -73.9732961,
+          40.7986879
+        ],
+        [
+          -73.9733498,
+          40.7986007
+        ],
+        [
+          -73.9733533,
+          40.798595
+        ]
+      ]
+    ]
+  },
+  "parts": [
+    {
+      "osm": "node/357620587",
+      "tags": {
+        "description": "Each autumn, the NYC Mayor joins the Fire Commissioner and thousands of uniformed firefighters at the Firemen’s Memorial to honor the memory of firefighters who have lost their lives in the line of duty. \n",
+        "ele": "25",
+        "gnis:feature_id": "2083379",
+        "historic": "memorial",
+        "inscription": "Inscription: TO THE MEN OF THE FIRE DEPARTMENT / OF THE CITY OF NEW YORK / WHO DIED AT THE CALL OF DUTY / SOLDIERS IN A WAR THAT NEVER ENDS / THIS MEMORIAL IS DEDICATED / BY THE PEOPLE OF A GRATEFUL CITY / ERECTED MCMXII",
+        "memorial": "plaque",
+        "name": "Firemen's Memorial",
+        "start_date": "1913",
+        "website": "https://www.nycgovparks.org/parks/riverside-park/monuments/482"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9045039559749697,
+          2.660535829411617
+        ]
+      },
+      "version": 7,
+      "timestamp": "2026-05-31T18:27:00Z"
+    }
+  ],
+  "osm": {
+    "type": "node",
+    "id": 357620587,
+    "version": 7,
+    "timestamp": "2026-05-31T18:27:00Z",
+    "url": "https://www.openstreetmap.org/node/357620587"
+  },
+  "additionalOsm": [],
+  "tags": {
+    "description": "Each autumn, the NYC Mayor joins the Fire Commissioner and thousands of uniformed firefighters at the Firemen’s Memorial to honor the memory of firefighters who have lost their lives in the line of duty. \n",
+    "ele": "25",
+    "gnis:feature_id": "2083379",
+    "historic": "memorial",
+    "inscription": "Inscription: TO THE MEN OF THE FIRE DEPARTMENT / OF THE CITY OF NEW YORK / WHO DIED AT THE CALL OF DUTY / SOLDIERS IN A WAR THAT NEVER ENDS / THIS MEMORIAL IS DEDICATED / BY THE PEOPLE OF A GRATEFUL CITY / ERECTED MCMXII",
+    "memorial": "plaque",
+    "name": "Firemen's Memorial",
+    "start_date": "1913",
+    "website": "https://www.nycgovparks.org/parks/riverside-park/monuments/482"
+  },
+  "note": "This landmark replaces no mapped building; the OSM feature cited is the one that names it."
+}

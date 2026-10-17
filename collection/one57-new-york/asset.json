@@ -1,0 +1,248 @@
+{
+  "id": "one57-new-york",
+  "name": "One57",
+  "anchor": [
+    -73.9790093,
+    40.7655013
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 13,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 73132,
+      "sha256": "6924edf417ddd2ba1c99f5337aab2f6dcb1f3c4341d7ca4e5e5687887ac6a3e2"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 73132,
+      "sha256": "6924edf417ddd2ba1c99f5337aab2f6dcb1f3c4341d7ca4e5e5687887ac6a3e2"
+    }
+  },
+  "triangles": 1548,
+  "boundsBlenderM": [
+    [
+      -35.001,
+      -35.881,
+      0
+    ],
+    [
+      27.557,
+      44.656,
+      306
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -73.9786571,
+          40.7654102
+        ],
+        [
+          -73.9788316,
+          40.7651722
+        ],
+        [
+          -73.9788446,
+          40.7651767
+        ],
+        [
+          -73.9791125,
+          40.7652893
+        ],
+        [
+          -73.9792436,
+          40.7653444
+        ],
+        [
+          -73.9793753,
+          40.7653997
+        ],
+        [
+          -73.9794263,
+          40.7654194
+        ],
+        [
+          -73.9792501,
+          40.7656623
+        ],
+        [
+          -73.979074,
+          40.7659068
+        ],
+        [
+          -73.9788363,
+          40.7658039
+        ],
+        [
+          -73.9788092,
+          40.7657922
+        ],
+        [
+          -73.9787961,
+          40.765789
+        ],
+        [
+          -73.9788628,
+          40.7656943
+        ],
+        [
+          -73.9789709,
+          40.7655401
+        ],
+        [
+          -73.9786571,
+          40.7654102
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 260283692,
+    "version": 9,
+    "timestamp": "2026-07-27T05:23:46Z",
+    "url": "https://www.openstreetmap.org/way/260283692"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 292145960,
+      "version": 1,
+      "timestamp": "2014-07-10T07:20:26Z",
+      "url": "https://www.openstreetmap.org/way/292145960"
+    },
+    {
+      "type": "way",
+      "id": 292145961,
+      "version": 1,
+      "timestamp": "2014-07-10T07:20:26Z",
+      "url": "https://www.openstreetmap.org/way/292145961"
+    },
+    {
+      "type": "way",
+      "id": 292145962,
+      "version": 1,
+      "timestamp": "2014-07-10T07:20:26Z",
+      "url": "https://www.openstreetmap.org/way/292145962"
+    },
+    {
+      "type": "way",
+      "id": 292145963,
+      "version": 1,
+      "timestamp": "2014-07-10T07:20:26Z",
+      "url": "https://www.openstreetmap.org/way/292145963"
+    },
+    {
+      "type": "way",
+      "id": 292145964,
+      "version": 1,
+      "timestamp": "2014-07-10T07:20:27Z",
+      "url": "https://www.openstreetmap.org/way/292145964"
+    },
+    {
+      "type": "way",
+      "id": 292145965,
+      "version": 1,
+      "timestamp": "2014-07-10T07:20:27Z",
+      "url": "https://www.openstreetmap.org/way/292145965"
+    },
+    {
+      "type": "way",
+      "id": 292145966,
+      "version": 1,
+      "timestamp": "2014-07-10T07:20:27Z",
+      "url": "https://www.openstreetmap.org/way/292145966"
+    },
+    {
+      "type": "way",
+      "id": 292145967,
+      "version": 1,
+      "timestamp": "2014-07-10T07:20:27Z",
+      "url": "https://www.openstreetmap.org/way/292145967"
+    },
+    {
+      "type": "way",
+      "id": 292145968,
+      "version": 1,
+      "timestamp": "2014-07-10T07:20:27Z",
+      "url": "https://www.openstreetmap.org/way/292145968"
+    },
+    {
+      "type": "way",
+      "id": 292145969,
+      "version": 1,
+      "timestamp": "2014-07-10T07:20:27Z",
+      "url": "https://www.openstreetmap.org/way/292145969"
+    },
+    {
+      "type": "way",
+      "id": 292145970,
+      "version": 2,
+      "timestamp": "2026-07-27T05:23:46Z",
+      "url": "https://www.openstreetmap.org/way/292145970"
+    },
+    {
+      "type": "way",
+      "id": 292145971,
+      "version": 1,
+      "timestamp": "2014-07-10T07:20:28Z",
+      "url": "https://www.openstreetmap.org/way/292145971"
+    },
+    {
+      "type": "way",
+      "id": 292145972,
+      "version": 2,
+      "timestamp": "2026-07-27T05:23:46Z",
+      "url": "https://www.openstreetmap.org/way/292145972"
+    },
+    {
+      "type": "way",
+      "id": 292145973,
+      "version": 1,
+      "timestamp": "2014-07-10T07:20:28Z",
+      "url": "https://www.openstreetmap.org/way/292145973"
+    }
+  ],
+  "wikidata": "Q2023928",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/nyc-one57.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "One57, 157 West 57th Street (Christian de Portzamparc, 2014) — original procedural geometry, CC0-1.0. bun generators/nyc-one57.ts",
+    "x = across the Manhattan grid (118.9°), y = up the avenues (28.9°), z = metres up. Anchor is the centroid of OSM way/260283692 (40.7655013, -73.9790093); bearing 28.9°, elevation 0. 57th Street is to the south (y ≈ -25), 58th Street to the north.",
+    "Evidence",
+    "OSM: the outline and 14 building:parts (way/292145960 … 292145973), which lay out the cascade: the main slab, 20.8 × 35 m, to 306 m; an annex on its south-east to 298.6 m; the east step to 230 m with its rounded front strip to 226.8 m; the lower east block to 125 m and its front strip to 119.8 m; the west step to 95 m; the 57th Street podium at 35–45 m; a 30 m base on the north and east. Parts tagged roof:shape=round are the curved tops.",
+    "Measured (USGS 3DEP 2017 lidar): the main roof slopes from 310 m at the 58th Street edge through 304 m at mid-depth to 297 m near the south edge, then rolls over; the east step's roof is 229–233 m; the west strip the parts leave out (x -26.4…-21.5) stands 32–37 m. The glazed lower cascade returned almost no points, so its heights are OSM's.",
+    "Published (Wikipedia): roof 1,004 ft (306 m); the curved roof hides a cooling tower and tapers in width to 60 ft (18 m); curved \"waterfall\" setbacks face 57th Street while the 58th Street (park) face is flat; the facade is dark and light blue glass with pewter and silver panes, arranged in vertical stripes (de Portzamparc cites Klimt).",
+    "Photos (Wikimedia Commons): Itrytohelp32 \"Billionaires' Row 2020\" (CC BY-SA 4.0, from Top of the Rock, south-east); Choinowski \"One57 New York in 2015\" (CC BY-SA 4.0, from Central Park, north); Brian W. Schaller \"A617, One57\" (FAL, street level, the cascade); Kidfly182 \"One57 November 2024 005\", \"One57 2025\", \"One57 September 2024\", \"One57 October 2024\" (CC BY 4.0); Chris O \"Billionaire's Row, NYC\" (CC BY-SA 4.0, west).",
+    "Drawing: every block's top is a quarter-ellipse in section, flat at its north edge and rolling over to vertical at its south face, which is what makes the cascade read as water falling toward 57th Street. The Klimt pattern is drawn as broad vertical stripes about 4 m wide, each broken into runs several storeys long in three glass tones; it is seeded, so the model is the same every run. Estimated: the depth each curve falls (from the lidar on the main roof, scaled for the rest), the stripe tones (from photos).",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"nyc-one57\", model \"nyc-one57\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/nyc-one57.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

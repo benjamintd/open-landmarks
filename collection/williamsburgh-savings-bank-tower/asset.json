@@ -1,0 +1,288 @@
+{
+  "id": "williamsburgh-savings-bank-tower",
+  "name": "Williamsburgh Savings Bank Tower",
+  "anchor": [
+    -73.9777183,
+    40.6855095
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 13,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 168540,
+      "sha256": "0820334b8eb3837f551eb90b656236c38546abb0eb017816a0c8d82b11e3dd29"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 168540,
+      "sha256": "0820334b8eb3837f551eb90b656236c38546abb0eb017816a0c8d82b11e3dd29"
+    }
+  },
+  "triangles": 3976,
+  "boundsBlenderM": [
+    [
+      -18.403,
+      -31.831,
+      0
+    ],
+    [
+      17.545,
+      31.996,
+      158.408
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -73.9775184,
+          40.6853568
+        ],
+        [
+          -73.9775125,
+          40.6853216
+        ],
+        [
+          -73.9775102,
+          40.6853064
+        ],
+        [
+          -73.9775027,
+          40.6852575
+        ],
+        [
+          -73.977551,
+          40.6852532
+        ],
+        [
+          -73.9776326,
+          40.6852459
+        ],
+        [
+          -73.977769,
+          40.6852337
+        ],
+        [
+          -73.9778469,
+          40.6852267
+        ],
+        [
+          -73.9778623,
+          40.6853281
+        ],
+        [
+          -73.977909,
+          40.6856376
+        ],
+        [
+          -73.9779246,
+          40.6857406
+        ],
+        [
+          -73.9779102,
+          40.6857419
+        ],
+        [
+          -73.9779145,
+          40.685769
+        ],
+        [
+          -73.9777591,
+          40.685783
+        ],
+        [
+          -73.977675,
+          40.6857905
+        ],
+        [
+          -73.977649,
+          40.6857928
+        ],
+        [
+          -73.9776005,
+          40.6857972
+        ],
+        [
+          -73.9775184,
+          40.6853568
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 250979509,
+    "version": 6,
+    "timestamp": "2026-05-20T21:06:57Z",
+    "url": "https://www.openstreetmap.org/way/250979509"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 700246652,
+      "version": 2,
+      "timestamp": "2026-05-20T21:06:57Z",
+      "url": "https://www.openstreetmap.org/way/700246652"
+    },
+    {
+      "type": "way",
+      "id": 1517819427,
+      "version": 1,
+      "timestamp": "2026-05-20T21:06:57Z",
+      "url": "https://www.openstreetmap.org/way/1517819427"
+    },
+    {
+      "type": "way",
+      "id": 1517819428,
+      "version": 2,
+      "timestamp": "2026-05-21T17:20:57Z",
+      "url": "https://www.openstreetmap.org/way/1517819428"
+    },
+    {
+      "type": "way",
+      "id": 1517819429,
+      "version": 1,
+      "timestamp": "2026-05-20T21:06:57Z",
+      "url": "https://www.openstreetmap.org/way/1517819429"
+    },
+    {
+      "type": "way",
+      "id": 1517819432,
+      "version": 1,
+      "timestamp": "2026-05-20T21:06:57Z",
+      "url": "https://www.openstreetmap.org/way/1517819432"
+    },
+    {
+      "type": "way",
+      "id": 1517819433,
+      "version": 1,
+      "timestamp": "2026-05-20T21:06:57Z",
+      "url": "https://www.openstreetmap.org/way/1517819433"
+    },
+    {
+      "type": "way",
+      "id": 1517819434,
+      "version": 1,
+      "timestamp": "2026-05-20T21:06:57Z",
+      "url": "https://www.openstreetmap.org/way/1517819434"
+    },
+    {
+      "type": "way",
+      "id": 1517819435,
+      "version": 1,
+      "timestamp": "2026-05-20T21:06:57Z",
+      "url": "https://www.openstreetmap.org/way/1517819435"
+    },
+    {
+      "type": "way",
+      "id": 1517819436,
+      "version": 1,
+      "timestamp": "2026-05-20T21:06:57Z",
+      "url": "https://www.openstreetmap.org/way/1517819436"
+    },
+    {
+      "type": "way",
+      "id": 1517819437,
+      "version": 1,
+      "timestamp": "2026-05-20T21:06:57Z",
+      "url": "https://www.openstreetmap.org/way/1517819437"
+    },
+    {
+      "type": "way",
+      "id": 1517819438,
+      "version": 1,
+      "timestamp": "2026-05-20T21:06:57Z",
+      "url": "https://www.openstreetmap.org/way/1517819438"
+    },
+    {
+      "type": "way",
+      "id": 1517819439,
+      "version": 2,
+      "timestamp": "2026-05-21T17:20:57Z",
+      "url": "https://www.openstreetmap.org/way/1517819439"
+    },
+    {
+      "type": "way",
+      "id": 1517819440,
+      "version": 1,
+      "timestamp": "2026-05-20T21:06:57Z",
+      "url": "https://www.openstreetmap.org/way/1517819440"
+    },
+    {
+      "type": "way",
+      "id": 1517819441,
+      "version": 1,
+      "timestamp": "2026-05-20T21:06:57Z",
+      "url": "https://www.openstreetmap.org/way/1517819441"
+    },
+    {
+      "type": "way",
+      "id": 1517819442,
+      "version": 1,
+      "timestamp": "2026-05-20T21:06:57Z",
+      "url": "https://www.openstreetmap.org/way/1517819442"
+    },
+    {
+      "type": "way",
+      "id": 1517819443,
+      "version": 1,
+      "timestamp": "2026-05-20T21:06:57Z",
+      "url": "https://www.openstreetmap.org/way/1517819443"
+    },
+    {
+      "type": "way",
+      "id": 1517819444,
+      "version": 1,
+      "timestamp": "2026-05-20T21:06:57Z",
+      "url": "https://www.openstreetmap.org/way/1517819444"
+    },
+    {
+      "type": "relation",
+      "id": 20712618,
+      "version": 1,
+      "timestamp": "2026-05-20T21:06:57Z",
+      "url": "https://www.openstreetmap.org/relation/20712618"
+    }
+  ],
+  "wikidata": "Q8021187",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/nyc-williamsburgh-savings-bank.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Williamsburgh Savings Bank Tower (One Hanson Place), Brooklyn — procedural, CC0-1.0, no textures. bun generators/nyc-williamsburgh-savings-bank.ts",
+    "Map frame: x = model east (towards Flatbush Avenue), y = model north (Hanson Place), z up, metres. Placed at bearing -6.7°, the outline's long walls. Anchor: area centroid of the OSM outline way/250979509.",
+    "Evidence",
+    "OSM way/250979509 (outline, 29 × 60 m, 156 m, 37 levels) and its parts 700246652 (dome), 1517819427/428 (clock tower 12 × 12 m, 140–145 m), 1517819429 + relation/20712618 (the slab under it, 16 × 26 m, 110–115 m), 1517819432–444 (the stepped wings, 60–85 m; the 24 m banking-hall base; a 10 m strip along the east side).",
+    "Lidar: USGS 3DEP NY_NewYorkCity (2017), resampled into the model frame (/tmp/city/nyc/work/nyc-williamsburgh-savings-bank/bands.png), heights above the street (13.5 m NAVD88): base 27 m with a light court on the Ashland Place side (x < -11.5, y -16…14); the wings to 70 m on all four corners; a ring at 81 m; the main slab (x -9.5…8.5, y -24…26) at 90 m; the upper slab (x -9…5, y -15.6…12) at 113–117 m, its centre highest; the clock tower (x -9…5, y -8.6…5.4, flush with the upper slab east and west) to 146 m; the drum and dome to 158 m. The 2 m cells blur the east side, which is drawn as a plain step.",
+    "Published: 1929, Halsey, McCormack & Helmle; 156 m (512 ft) to the dome, 37 storeys; four clock faces 27 ft (8.2 m) across; a gilded ribbed dome; buff brick and limestone over a limestone banking hall with a great arched entrance (Wikipedia; NYC LPC 1977).",
+    "Photos (Wikimedia Commons), credits in /tmp/city/nyc/work/nyc-williamsburgh-savings-bank/photos/credits.txt: from the south-east (Gryffindor, CC BY-SA 3.0), down Flatbush Avenue from the south (CityLimitsJunction, CC0), from State Street and from Hanson Place (Beyond My Ken, CC BY-SA 4.0), from the south-west (Thomson200, CC0).",
+    "Estimated: storey heights (3.65 m) and window bays (one panel per bay, two floors), the arcade rows at the top of each setback (drawn as arched panels, counts from the photos), the banking hall's arches, the clock stage's window and belfry layout, the drum's size (lidar: ~12 m across), the lantern. The east side, hemmed in by neighbours, is drawn like the west.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"nyc-williamsburgh-savings-bank\", model \"nyc-williamsburgh-savings-bank\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/nyc-williamsburgh-savings-bank.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

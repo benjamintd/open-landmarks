@@ -1,0 +1,335 @@
+{
+  "id": "yankee-stadium",
+  "name": "Yankee Stadium",
+  "anchor": [
+    -73.926453,
+    40.829601
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 247128,
+      "sha256": "273dc8c326b4a99ce3a85de26b67da54f00a9c5cd58814b5f92728a19b93b722"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 264128,
+      "sha256": "5a55a612010added67e0ee913f97712ef49325049d7ff82864b92d124eb677be"
+    }
+  },
+  "triangles": 5261,
+  "boundsBlenderM": [
+    [
+      -138.857,
+      -136.712,
+      0
+    ],
+    [
+      130.456,
+      139.168,
+      43
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -73.9249098,
+          40.8298523
+        ],
+        [
+          -73.9257478,
+          40.828426
+        ],
+        [
+          -73.9259517,
+          40.8284114
+        ],
+        [
+          -73.9260804,
+          40.8284127
+        ],
+        [
+          -73.9260874,
+          40.8283767
+        ],
+        [
+          -73.9263405,
+          40.8283955
+        ],
+        [
+          -73.9263344,
+          40.8284312
+        ],
+        [
+          -73.9264828,
+          40.8284557
+        ],
+        [
+          -73.9266336,
+          40.8284908
+        ],
+        [
+          -73.926774,
+          40.8285326
+        ],
+        [
+          -73.927404,
+          40.8287705
+        ],
+        [
+          -73.9276156,
+          40.8288584
+        ],
+        [
+          -73.9276945,
+          40.8289052
+        ],
+        [
+          -73.9277451,
+          40.8289384
+        ],
+        [
+          -73.9277968,
+          40.8289814
+        ],
+        [
+          -73.9278405,
+          40.8290221
+        ],
+        [
+          -73.9278818,
+          40.8290688
+        ],
+        [
+          -73.9279297,
+          40.8291351
+        ],
+        [
+          -73.9279564,
+          40.8291798
+        ],
+        [
+          -73.9280101,
+          40.8291699
+        ],
+        [
+          -73.9280848,
+          40.8293921
+        ],
+        [
+          -73.9280074,
+          40.8294083
+        ],
+        [
+          -73.9280031,
+          40.8294754
+        ],
+        [
+          -73.9279875,
+          40.8295455
+        ],
+        [
+          -73.9279609,
+          40.82962
+        ],
+        [
+          -73.9279154,
+          40.8297015
+        ],
+        [
+          -73.9278269,
+          40.8298094
+        ],
+        [
+          -73.927184,
+          40.8304589
+        ],
+        [
+          -73.9270636,
+          40.8305811
+        ],
+        [
+          -73.9269863,
+          40.8306484
+        ],
+        [
+          -73.9269232,
+          40.8306982
+        ],
+        [
+          -73.9268766,
+          40.8307294
+        ],
+        [
+          -73.9268968,
+          40.8307714
+        ],
+        [
+          -73.9266623,
+          40.8308458
+        ],
+        [
+          -73.9266448,
+          40.8308108
+        ],
+        [
+          -73.9264925,
+          40.8308554
+        ],
+        [
+          -73.9264661,
+          40.8308468
+        ],
+        [
+          -73.9252099,
+          40.830436
+        ],
+        [
+          -73.9253155,
+          40.8302579
+        ],
+        [
+          -73.9250187,
+          40.8301576
+        ],
+        [
+          -73.9250434,
+          40.8301163
+        ],
+        [
+          -73.9250723,
+          40.8300678
+        ],
+        [
+          -73.9249888,
+          40.8298817
+        ],
+        [
+          -73.9249098,
+          40.8298523
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 24801630,
+    "version": 22,
+    "timestamp": "2025-03-26T07:43:06Z",
+    "url": "https://www.openstreetmap.org/way/24801630"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q753529",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Yankee Stadium, New York - panoramio.jpg",
+      "author": "dr-scott",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Yankee_Stadium,_New_York_-_panoramio.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Yankee Stadium (27353652982).jpg",
+      "author": "Kanesue",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Yankee_Stadium_(27353652982).jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Front of the 2nd Yankee Stadium on a summer day.jpg",
+      "author": "Charlie Smith FDTB",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Front_of_the_2nd_Yankee_Stadium_on_a_summer_day.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:2014 Yankee Stadium from Harlem River Drive walkway.jpg",
+      "author": "Beyond My Ken",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:2014_Yankee_Stadium_from_Harlem_River_Drive_walkway.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Yankee Stadium 002.JPG",
+      "author": "Gryffindor",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Yankee_Stadium_002.JPG",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Yankee Stadium in Bronx, New York City, from the air (5720974191).jpg",
+      "author": "Bill Abbott",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Yankee_Stadium_in_Bronx,_New_York_City,_from_the_air_(5720974191).jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Judge home run.jpg",
+      "author": "Adc95",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Judge_home_run.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Yankee Stadium 2012.jpg",
+      "author": "Reading Tom",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Yankee_Stadium_2012.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/nyc-yankee-stadium.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Yankee Stadium (2009), the Bronx: the pale limestone ring with its three-arch bays and gate towers, the navy stands in three tiers, the canopy over the upper deck with the white scalloped frieze along its front, the white chevron-braced band behind it, and the row of outfield boards round the centre-field scoreboard. Original procedural geometry, CC0-1.0. bun generators/nyc-yankee-stadium.ts",
+    "Also exports the small helpers the other NYC stadium models in this batch (nyc-citi-field, nyc-barclays-center, nyc-arthur-ashe-stadium) build with; the model itself is only written when this file is run.",
+    "Stadium rule (STYLE.md \"Ground\"): the stands, roofs, facades, boards and gate towers only. The field, warning track, Monument Park's lawn and the plazas are the map's.",
+    "Frame: BEARING 0, x east, y north, z up, metres. Origin = area centroid of the OSM outline way/24801630 (-73.926453, 40.829601). z = 0 is the field, 4.65 m NAVD88 (lidar). The streets round it are higher: River Avenue (east) 2 m, 164th Street (north) 3 m, 161st Street and Ruppert Place (south and west) 5 m. Sunken bowl: y = 0 is the field. Field depth below the street outside: ~2 m below River Avenue (the lowest street on the outline), ~5 m below 161st Street and Ruppert Place, from the lidar's ground returns (field 4.65, River Avenue 6.6-7.0, 161st Street 9.6 m NAVD88), not map terrain (no drawings or street photos give it directly). True placement elevation would be -2; it ships as 0 until the pipeline takes negative values (lead's instruction).",
+    "Evidence",
+    "OSM way/24801630 (leisure=stadium, \"Yankee Stadium\", start_date 2009, Q753529). OSM has no building or building:part inside it; the outline follows the limestone wall on every side and River Avenue on the east, with bumps at the three gate towers.",
+    "USGS 3DEP lidar NY_NewYorkCity (2017) at 1 m (/tmp/city/nyc/work/ nyc-yankee-stadium/lid.json), sampled on rays from (5, 0) every 5 degrees (radii.json). Heights above the field: the lower bowl rises from the field wall to 4.5 over about 14 m; a riser to 9 and the second tier to 11 over 8 m; the upper deck's front at 20-22 rising to 29-31; the canopy roof at 40 with its front edge (the frieze and lights) at 43, 11-12 m deep; the band behind it at 30, 7-9 m deep; the roof ring at 24-27 out to the limestone wall, whose top is 27 (30 along the west). The canopy runs from 62 degrees (north-east, left field) round behind home plate (west-south-west) to 327 (south-east, right field). The outfield: bleachers from the fence rising to 10; a 3 m thick row of boards at radius 98-101 topping out at 28, the scoreboard in the middle (6-21 degrees) at 34-35; the block under it (Monument Park and the bar) roofed at 14; low buildings behind at 11-15 and the River Avenue wall at 13-14. Gate towers: west (Gate 4) to 32, south (Gate 6) and north to 30.",
+    "Published (Wikipedia): opened 2009, Populous (HOK Sport); exterior of Indiana limestone, granite and cast stone recalling the 1923 stadium; the frieze copies the original's copper frieze in steel.",
+    "Photos (Wikimedia Commons, credits in /tmp/city/nyc/work/ nyc-yankee-stadium/photos/credits.txt): \"Yankee Stadium, New York - panoramio.jpg\" (dr-scott, CC BY-SA 3.0: the 161st Street front, three-arch bays, attic windows, the chevron band and the frieze above); \"Yankee Stadium (27353652982).jpg\" and four more by Kanesue (CC BY 2.0: Gate 4 tower, granite base, three arched windows, flared cornice); \"Front of the 2nd Yankee Stadium on a summer day.jpg\" (Charlie Smith FDTB, CC0); \"2014 Yankee Stadium from Harlem River Drive walkway.jpg\" (Beyond My Ken, CC BY-SA 4.0, from the west); \"Yankee Stadium 002.JPG\" (Gryffindor, CC BY-SA 3.0, aerial from the east); \"Yankee Stadium in Bronx, New York City, from the air (5720974191).jpg\" (Bill Abbott, CC BY-SA 2.0); \"Yankee-stadium- frieze.jpg\" (Y2kcrazyjoker4, CC BY 3.0); \"Judge home run.jpg\" (Adc95, CC BY-SA 4.0, the outfield boards and scoreboard); \"Yankee Stadium 2012.jpg\" (Reading Tom, CC BY 2.0, the tiers).",
+    "USGS NAIP orthophoto for the plan, the diamond and the roof colours.",
+    "Estimated from the photos: the bay rhythm (about 11.5 m, three arches each) and the arch, attic and cornice proportions; the granite base height; the frieze's bay (7.5 m) and depth; the chevron spacing; the gate towers' depth behind the wall. The lower bowl's front is drawn 15 m inside the riser (the lidar under the overhangs is unreliable). The tiers' fascias are drawn plain; the ribbon boards, flags, light banks on the canopy and the lettering are left out. The River Avenue wall's openings are a guess.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"nyc-yankee-stadium\", model \"nyc-yankee-stadium\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/nyc-yankee-stadium.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 273 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the nyc-yankee-stadium-glazing finish in the window colour.",
+    "To fit six materials, folded trim into stone (ΔE 4.8)."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

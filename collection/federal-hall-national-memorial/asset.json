@@ -1,0 +1,278 @@
+{
+  "id": "federal-hall-national-memorial",
+  "name": "Federal Hall National Memorial",
+  "anchor": [
+    -74.0102481,
+    40.7073274
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 67728,
+      "sha256": "fa3e831d40deb83b8fce3dba3da7bdefa568857f0b91734f9789717c7ddd0c99"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 67728,
+      "sha256": "fa3e831d40deb83b8fce3dba3da7bdefa568857f0b91734f9789717c7ddd0c99"
+    }
+  },
+  "triangles": 1380,
+  "boundsBlenderM": [
+    [
+      -30.777,
+      -34.558,
+      0
+    ],
+    [
+      28.405,
+      31.312,
+      23
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -74.0103081,
+          40.7070501
+        ],
+        [
+          -74.0102808,
+          40.7070782
+        ],
+        [
+          -74.0099537,
+          40.7074147
+        ],
+        [
+          -74.0099259,
+          40.7074433
+        ],
+        [
+          -74.0099165,
+          40.707453
+        ],
+        [
+          -74.0101881,
+          40.7076047
+        ],
+        [
+          -74.0102253,
+          40.7075664
+        ],
+        [
+          -74.0105524,
+          40.7072299
+        ],
+        [
+          -74.0105797,
+          40.7072018
+        ],
+        [
+          -74.0105617,
+          40.7071917
+        ],
+        [
+          -74.01055,
+          40.7071852
+        ],
+        [
+          -74.0105155,
+          40.707166
+        ],
+        [
+          -74.0104669,
+          40.7071388
+        ],
+        [
+          -74.0104243,
+          40.707115
+        ],
+        [
+          -74.0103416,
+          40.7070688
+        ],
+        [
+          -74.0103267,
+          40.7070605
+        ],
+        [
+          -74.0103081,
+          40.7070501
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 109337830,
+    "version": 17,
+    "timestamp": "2024-01-20T04:46:36Z",
+    "url": "https://www.openstreetmap.org/way/109337830"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 276177619,
+      "version": 3,
+      "timestamp": "2023-07-19T20:05:06Z",
+      "url": "https://www.openstreetmap.org/way/276177619"
+    },
+    {
+      "type": "way",
+      "id": 276177584,
+      "version": 3,
+      "timestamp": "2023-07-19T20:05:06Z",
+      "url": "https://www.openstreetmap.org/way/276177584"
+    },
+    {
+      "type": "way",
+      "id": 276177585,
+      "version": 3,
+      "timestamp": "2023-07-19T20:05:06Z",
+      "url": "https://www.openstreetmap.org/way/276177585"
+    },
+    {
+      "type": "way",
+      "id": 276177586,
+      "version": 3,
+      "timestamp": "2023-07-19T20:05:06Z",
+      "url": "https://www.openstreetmap.org/way/276177586"
+    },
+    {
+      "type": "way",
+      "id": 276177587,
+      "version": 3,
+      "timestamp": "2023-07-19T20:05:06Z",
+      "url": "https://www.openstreetmap.org/way/276177587"
+    },
+    {
+      "type": "way",
+      "id": 276177588,
+      "version": 3,
+      "timestamp": "2023-07-19T20:05:06Z",
+      "url": "https://www.openstreetmap.org/way/276177588"
+    },
+    {
+      "type": "way",
+      "id": 276177589,
+      "version": 3,
+      "timestamp": "2023-07-19T20:05:06Z",
+      "url": "https://www.openstreetmap.org/way/276177589"
+    },
+    {
+      "type": "way",
+      "id": 276177590,
+      "version": 3,
+      "timestamp": "2023-07-19T20:05:06Z",
+      "url": "https://www.openstreetmap.org/way/276177590"
+    },
+    {
+      "type": "way",
+      "id": 276177593,
+      "version": 3,
+      "timestamp": "2023-07-19T20:05:06Z",
+      "url": "https://www.openstreetmap.org/way/276177593"
+    },
+    {
+      "type": "way",
+      "id": 276177595,
+      "version": 3,
+      "timestamp": "2023-07-19T20:05:06Z",
+      "url": "https://www.openstreetmap.org/way/276177595"
+    },
+    {
+      "type": "way",
+      "id": 276177598,
+      "version": 3,
+      "timestamp": "2023-07-19T20:05:06Z",
+      "url": "https://www.openstreetmap.org/way/276177598"
+    },
+    {
+      "type": "way",
+      "id": 276177602,
+      "version": 3,
+      "timestamp": "2023-07-19T20:05:06Z",
+      "url": "https://www.openstreetmap.org/way/276177602"
+    },
+    {
+      "type": "way",
+      "id": 276177605,
+      "version": 3,
+      "timestamp": "2023-07-19T20:05:06Z",
+      "url": "https://www.openstreetmap.org/way/276177605"
+    },
+    {
+      "type": "way",
+      "id": 276177607,
+      "version": 3,
+      "timestamp": "2023-07-19T20:05:06Z",
+      "url": "https://www.openstreetmap.org/way/276177607"
+    },
+    {
+      "type": "way",
+      "id": 276177610,
+      "version": 3,
+      "timestamp": "2023-07-19T20:05:06Z",
+      "url": "https://www.openstreetmap.org/way/276177610"
+    },
+    {
+      "type": "way",
+      "id": 276177614,
+      "version": 3,
+      "timestamp": "2023-07-19T20:05:06Z",
+      "url": "https://www.openstreetmap.org/way/276177614"
+    },
+    {
+      "type": "way",
+      "id": 276177616,
+      "version": 3,
+      "timestamp": "2023-07-19T20:05:06Z",
+      "url": "https://www.openstreetmap.org/way/276177616"
+    }
+  ],
+  "wikidata": "Q858689",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/nyc-federal-hall.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Federal Hall National Memorial, 26 Wall Street — procedural, CC0-1.0, no textures. bun generators/nyc-federal-hall.ts",
+    "Map frame: x = model east, y = model north, z up, metres. The Wall Street front faces model south (true bearing ~217°), Pine Street model north. Placed at bearing 36.6°, the long axis of the outline. Anchor: area centroid of the OSM outline way/109337830. Kit from nyc-city-hall.ts.",
+    "Evidence",
+    "OSM way/109337830 (outline, 28.4 × 55.6 m; tagged marble, roof gabled along the long axis, roof colour #56514a), the cella part 276177619 (28.4 × 46.5 m) and sixteen 1.8 m column circles (276177584–616), eight at each end on a 3.7 m pitch.",
+    "Lidar: USGS 3DEP NY_NewYorkCity (2017) in the model frame: eaves 17 m, ridge 21 m above Wall Street's low corner (6.9 m NAVD88); Pine Street stands ~3 m higher; a raised round skylight over the rotunda reaches ~24 m at (−0.5, −7); the statue of Washington stands on the Wall Street steps (not modelled; it is not part of the building).",
+    "Published: 1842 (Town & Davis, John Frazee, Samuel Thomson), Greek Revival on the Parthenon's plan, Tuckahoe marble, eight Doric columns front and back, a rotunda under a coffered dome hidden inside the roof (Wikipedia; NPS; NRHP 66000095).",
+    "Photos (Wikimedia Commons): /tmp/city/nyc/work/nyc-federal-hall/photos/credits.txt. Wall Street front (Ajay Suresh; NPS FEHA3187), south-west corner with the long side (Arild Vågen), from up Broad Street (NPS FEHA1054/1055), the Pine Street rear and east side (Jim.henderson).",
+    "NAIP orthophoto (USGS, public domain): a grey roof.",
+    "Estimated: the stylobate's height (4 m over Wall Street, a 16-riser flight in the photos), column 9.3 m and entablature 3.3 m (photo against the 3.7 m column pitch), the pediment 4.2 m, the pilaster count on the long sides (13), the side and frieze windows (from the rear photo), the skylight's size.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"nyc-federal-hall\", model \"nyc-federal-hall\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/nyc-federal-hall.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

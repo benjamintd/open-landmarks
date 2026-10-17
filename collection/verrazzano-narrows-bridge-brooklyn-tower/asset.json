@@ -1,0 +1,127 @@
+{
+  "id": "verrazzano-narrows-bridge-brooklyn-tower",
+  "name": "Verrazzano-Narrows Bridge (Brooklyn tower)",
+  "anchor": [
+    -74.0383721,
+    40.6086094
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 13,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 21888,
+      "sha256": "277ddf91baf51eb31823acc7378345f1c5e7dcbec5ec35ee3b6b3e8b454947c8"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 21888,
+      "sha256": "277ddf91baf51eb31823acc7378345f1c5e7dcbec5ec35ee3b6b3e8b454947c8"
+    }
+  },
+  "triangles": 424,
+  "boundsBlenderM": [
+    [
+      -21.295,
+      -30.446,
+      0
+    ],
+    [
+      21.295,
+      30.446,
+      211
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -74.0385299,
+          40.6087748
+        ],
+        [
+          -74.0384093,
+          40.6088117
+        ],
+        [
+          -74.0383811,
+          40.6087584
+        ],
+        [
+          -74.0382494,
+          40.6085095
+        ],
+        [
+          -74.0382243,
+          40.6084622
+        ],
+        [
+          -74.0383449,
+          40.6084254
+        ],
+        [
+          -74.0383719,
+          40.6084764
+        ],
+        [
+          -74.0385025,
+          40.608723
+        ],
+        [
+          -74.0385299,
+          40.6087748
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 1016642060,
+    "version": 2,
+    "timestamp": "2023-12-20T20:22:28Z",
+    "url": "https://www.openstreetmap.org/way/1016642060"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q125673",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/nyc-verrazzano-narrows-bridge.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Verrazzano-Narrows Bridge towers (1964; Othmar Ammann) — procedural, CC0-1.0, no textures. bun generators/nyc-verrazzano-narrows-bridge.ts",
+    "One tower, placed twice (Brooklyn and Staten Island). Map frame: x across the bridge, y along it (toward Staten Island), z up, metres; origin at the tower's centre on the water. Placed at bearing 247.1°, the line from the Brooklyn tower's centroid to the Staten Island one's (1,296 m apart; the published main span is 4,260 ft, 1,298 m). Only the tower and its pier: no cables, and the deck is a stub no longer than the tower is deep.",
+    "What makes it the Verrazzano: two tall, plain, slightly tapering steel legs; a deep solid head across the top with a tall round-headed opening cut up into it, so the tower reads as one slender portal; a strut under the double deck; pale grey-green paint; a concrete block in the water under each leg.",
+    "Sources:",
+    "OSM: tower outlines way/1016642058 (Staten Island) and way/1016642060 (Brooklyn), bridge:support=pylon, building=bridge, height 211; piers way/1016642057 and way/1016642059 (man_made=pier, 57.5 x 23 m): the pier box follows them. They aren't buildings, so `replaces` lists only the tower outlines.",
+    "Lidar (USGS 3DEP NY_NewYorkCity 2017, point cloud cropped to each tower; heights above the water at about -0.9 m NAVD88): top 211–212 m; head 46–47 m across at the top, 10 m deep; legs about 10.5 m wide, inner faces 14.5 m either side of the centre, outer faces 25 m out at the deck and about 23.5 m at the top; the arch's underside rising to about 170 m; the upper roadway's top 70 m; a separate concrete block under each leg, its top about 10.5 m, |x| 11–29 by 23 m, with water between the two. OSM's outlines are narrower (40 m) than the lidar's legs (49 m) and sit about 1 m off the lidar centre across the bridge; the placements use the lidar centres.",
+    "Published: towers 693 ft (211 m) above the water; 228 ft (69.5 m) clearance at mid-span (Wikipedia \"Verrazzano-Narrows Bridge\"; MTA Bridges and Tunnels).",
+    "Photos (Wikimedia Commons): \"Verrazano-Narrows Bridge (10109726386)\" (Shannon from Huntsville, CC BY-SA 2.0; the Brooklyn tower from the Staten Island side's beach: legs, head and arch, the strut under the deck); \"Verrazano-Narrows Bridge 0039\" (LawrenceFung, CC BY 2.0; the Brooklyn tower close from the Brooklyn shore, the pier, the far tower face-on); \"Verrazzano-Narrows Bridge from the Brooklyn shore, New York City\" (Allen Lubitz, CC BY 4.0; the Staten Island tower side-on); \"NYC-verrazano-narrows-bridge\" (Balou46, CC BY-SA 4.0; both towers from afar, for proportion).",
+    "Estimated from photos: the arch's spring (about 158 m: a semicircle on the 29 m opening, crown 172 m); the strut under the deck (45–55 m); the deck stub (57–70 m). Only two cross members show in photos (the head and the strut under the deck); any others are inside the deck and aren't drawn.",
+    "Colour: the paint reads #aaaead to #b0b2af in hazy daylight, a pale grey with a green cast, a little bluer in shade; kept at that lightness.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"nyc-verrazzano-narrows-bridge-brooklyn\", model \"nyc-verrazzano-narrows-bridge\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/nyc-verrazzano-narrows-bridge.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

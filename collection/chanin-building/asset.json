@@ -1,0 +1,392 @@
+{
+  "id": "chanin-building",
+  "name": "Chanin Building",
+  "anchor": [
+    -73.976686,
+    40.7512113
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 177152,
+      "sha256": "8a39c2aca98addb869aaf4adda53b2e84afcdb6372ef4a80cb00ab91870ddb50"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 177152,
+      "sha256": "8a39c2aca98addb869aaf4adda53b2e84afcdb6372ef4a80cb00ab91870ddb50"
+    }
+  },
+  "triangles": 4210,
+  "boundsBlenderM": [
+    [
+      -39.387,
+      -34.824,
+      0
+    ],
+    [
+      35.931,
+      35.271,
+      197
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -73.9769645,
+          40.7513858
+        ],
+        [
+          -73.9769166,
+          40.7513656
+        ],
+        [
+          -73.9768993,
+          40.7513893
+        ],
+        [
+          -73.9767847,
+          40.7513408
+        ],
+        [
+          -73.9768667,
+          40.7512286
+        ],
+        [
+          -73.976766,
+          40.7511852
+        ],
+        [
+          -73.9766316,
+          40.7513694
+        ],
+        [
+          -73.9766442,
+          40.7513748
+        ],
+        [
+          -73.976691,
+          40.7513941
+        ],
+        [
+          -73.9767078,
+          40.7514012
+        ],
+        [
+          -73.9767329,
+          40.7514116
+        ],
+        [
+          -73.9766449,
+          40.7515321
+        ],
+        [
+          -73.9762586,
+          40.7513688
+        ],
+        [
+          -73.976343,
+          40.7512533
+        ],
+        [
+          -73.9765186,
+          40.751013
+        ],
+        [
+          -73.9766021,
+          40.7508987
+        ],
+        [
+          -73.9767037,
+          40.7509409
+        ],
+        [
+          -73.977151,
+          40.7511307
+        ],
+        [
+          -73.9771072,
+          40.7511907
+        ],
+        [
+          -73.9770968,
+          40.7512048
+        ],
+        [
+          -73.9770857,
+          40.75122
+        ],
+        [
+          -73.9770288,
+          40.7512979
+        ],
+        [
+          -73.9769645,
+          40.7513858
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 265947366,
+    "version": 7,
+    "timestamp": "2025-08-12T14:48:33Z",
+    "url": "https://www.openstreetmap.org/way/265947366"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 281777311,
+      "version": 2,
+      "timestamp": "2014-06-27T09:39:23Z",
+      "url": "https://www.openstreetmap.org/way/281777311"
+    },
+    {
+      "type": "way",
+      "id": 289989982,
+      "version": 1,
+      "timestamp": "2014-06-27T09:39:19Z",
+      "url": "https://www.openstreetmap.org/way/289989982"
+    },
+    {
+      "type": "way",
+      "id": 289989983,
+      "version": 1,
+      "timestamp": "2014-06-27T09:39:19Z",
+      "url": "https://www.openstreetmap.org/way/289989983"
+    },
+    {
+      "type": "way",
+      "id": 289989984,
+      "version": 1,
+      "timestamp": "2014-06-27T09:39:19Z",
+      "url": "https://www.openstreetmap.org/way/289989984"
+    },
+    {
+      "type": "way",
+      "id": 289989985,
+      "version": 1,
+      "timestamp": "2014-06-27T09:39:20Z",
+      "url": "https://www.openstreetmap.org/way/289989985"
+    },
+    {
+      "type": "way",
+      "id": 289989986,
+      "version": 1,
+      "timestamp": "2014-06-27T09:39:20Z",
+      "url": "https://www.openstreetmap.org/way/289989986"
+    },
+    {
+      "type": "way",
+      "id": 289989987,
+      "version": 1,
+      "timestamp": "2014-06-27T09:39:20Z",
+      "url": "https://www.openstreetmap.org/way/289989987"
+    },
+    {
+      "type": "way",
+      "id": 289989988,
+      "version": 1,
+      "timestamp": "2014-06-27T09:39:20Z",
+      "url": "https://www.openstreetmap.org/way/289989988"
+    },
+    {
+      "type": "way",
+      "id": 289989989,
+      "version": 1,
+      "timestamp": "2014-06-27T09:39:20Z",
+      "url": "https://www.openstreetmap.org/way/289989989"
+    },
+    {
+      "type": "way",
+      "id": 289989990,
+      "version": 1,
+      "timestamp": "2014-06-27T09:39:20Z",
+      "url": "https://www.openstreetmap.org/way/289989990"
+    },
+    {
+      "type": "way",
+      "id": 289989991,
+      "version": 1,
+      "timestamp": "2014-06-27T09:39:20Z",
+      "url": "https://www.openstreetmap.org/way/289989991"
+    },
+    {
+      "type": "way",
+      "id": 289989992,
+      "version": 2,
+      "timestamp": "2019-07-10T10:07:51Z",
+      "url": "https://www.openstreetmap.org/way/289989992"
+    },
+    {
+      "type": "way",
+      "id": 289989993,
+      "version": 1,
+      "timestamp": "2014-06-27T09:39:21Z",
+      "url": "https://www.openstreetmap.org/way/289989993"
+    },
+    {
+      "type": "way",
+      "id": 289989994,
+      "version": 1,
+      "timestamp": "2014-06-27T09:39:21Z",
+      "url": "https://www.openstreetmap.org/way/289989994"
+    },
+    {
+      "type": "way",
+      "id": 289989995,
+      "version": 1,
+      "timestamp": "2014-06-27T09:39:21Z",
+      "url": "https://www.openstreetmap.org/way/289989995"
+    },
+    {
+      "type": "way",
+      "id": 289989996,
+      "version": 1,
+      "timestamp": "2014-06-27T09:39:21Z",
+      "url": "https://www.openstreetmap.org/way/289989996"
+    },
+    {
+      "type": "way",
+      "id": 289989997,
+      "version": 1,
+      "timestamp": "2014-06-27T09:39:21Z",
+      "url": "https://www.openstreetmap.org/way/289989997"
+    },
+    {
+      "type": "way",
+      "id": 289989998,
+      "version": 1,
+      "timestamp": "2014-06-27T09:39:21Z",
+      "url": "https://www.openstreetmap.org/way/289989998"
+    },
+    {
+      "type": "way",
+      "id": 289989999,
+      "version": 1,
+      "timestamp": "2014-06-27T09:39:21Z",
+      "url": "https://www.openstreetmap.org/way/289989999"
+    },
+    {
+      "type": "way",
+      "id": 289990000,
+      "version": 1,
+      "timestamp": "2014-06-27T09:39:21Z",
+      "url": "https://www.openstreetmap.org/way/289990000"
+    },
+    {
+      "type": "way",
+      "id": 289990001,
+      "version": 1,
+      "timestamp": "2014-06-27T09:39:21Z",
+      "url": "https://www.openstreetmap.org/way/289990001"
+    },
+    {
+      "type": "way",
+      "id": 289990002,
+      "version": 1,
+      "timestamp": "2014-06-27T09:39:22Z",
+      "url": "https://www.openstreetmap.org/way/289990002"
+    },
+    {
+      "type": "way",
+      "id": 289990003,
+      "version": 1,
+      "timestamp": "2014-06-27T09:39:22Z",
+      "url": "https://www.openstreetmap.org/way/289990003"
+    },
+    {
+      "type": "way",
+      "id": 289990004,
+      "version": 1,
+      "timestamp": "2014-06-27T09:39:22Z",
+      "url": "https://www.openstreetmap.org/way/289990004"
+    },
+    {
+      "type": "way",
+      "id": 289990005,
+      "version": 1,
+      "timestamp": "2014-06-27T09:39:22Z",
+      "url": "https://www.openstreetmap.org/way/289990005"
+    },
+    {
+      "type": "way",
+      "id": 289990006,
+      "version": 1,
+      "timestamp": "2014-06-27T09:39:22Z",
+      "url": "https://www.openstreetmap.org/way/289990006"
+    },
+    {
+      "type": "way",
+      "id": 289990007,
+      "version": 1,
+      "timestamp": "2014-06-27T09:39:22Z",
+      "url": "https://www.openstreetmap.org/way/289990007"
+    },
+    {
+      "type": "way",
+      "id": 289990008,
+      "version": 1,
+      "timestamp": "2014-06-27T09:39:22Z",
+      "url": "https://www.openstreetmap.org/way/289990008"
+    },
+    {
+      "type": "way",
+      "id": 289990287,
+      "version": 4,
+      "timestamp": "2024-02-11T04:37:24Z",
+      "url": "https://www.openstreetmap.org/way/289990287"
+    },
+    {
+      "type": "way",
+      "id": 290805845,
+      "version": 1,
+      "timestamp": "2014-07-02T10:19:27Z",
+      "url": "https://www.openstreetmap.org/way/290805845"
+    }
+  ],
+  "wikidata": "Q2956104",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/nyc-chanin-building.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Chanin Building, 122 East 42nd Street — procedural, CC0-1.0, no textures. bun generators/nyc-chanin-building.ts",
+    "Map frame: x = model east (Lexington Avenue side), y = model north (away from 42nd Street), z up, metres. Placed at bearing 29°, the Manhattan grid. Anchor: area centroid of the OSM outline way/265947366. Kit shared with the rest of the group, from nyc-570-lexington.ts.",
+    "Evidence",
+    "OSM way/265947366 and its 29 building:part ways, which map every setback stage; their plans are used as drawn (snapped to 0.5 m).",
+    "Lidar: USGS 3DEP NY_NewYorkCity, flown 2017, resampled into the model frame. Measured stage heights, which replace OSM's where they differ by more than a metre or two (e.g. the west wing at 84 m, not 92; the low strip along the west edge at 30 m, not 25; the Lexington-side wing at 23 m). Tower: main walls to 176 m, the crown's buttresses to ~189 m round a 190 m inner roof, a penthouse to 197 m; radio masts to 212 m (omitted: thin later additions).",
+    "Published: 197 m roof, 56 floors, Sloan & Robertson, 1929 (Wikipedia; NRHP 80002676). Buff brick over a bronze-and-terracotta frieze and brown marble at the street; crown of tall buttresses with recessed bays.",
+    "Photos (Wikimedia Commons): /tmp/city/nyc/work/nyc-chanin-building/photos/credits.txt",
+    "Estimated: the buttress count and stepping (from photos), the panel rhythm, the plinth height (≈12 m, three storeys of the frieze and marble).",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"nyc-chanin-building\", model \"nyc-chanin-building\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/nyc-chanin-building.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

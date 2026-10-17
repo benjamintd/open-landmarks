@@ -1,0 +1,286 @@
+{
+  "id": "the-oculus",
+  "name": "The Oculus",
+  "anchor": [
+    -74.011413,
+    40.7115445
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 220664,
+      "sha256": "2092ba405c8da9b8d7cce05d9188b201a7520167747c699d80641eb6360404b1"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 220664,
+      "sha256": "2092ba405c8da9b8d7cce05d9188b201a7520167747c699d80641eb6360404b1"
+    }
+  },
+  "triangles": 3120,
+  "boundsBlenderM": [
+    [
+      -43.238,
+      -35.463,
+      0
+    ],
+    [
+      42.886,
+      36.088,
+      40.417
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -74.0117815,
+          40.7118619
+        ],
+        [
+          -74.0117102,
+          40.7118398
+        ],
+        [
+          -74.0116232,
+          40.7118112
+        ],
+        [
+          -74.0115467,
+          40.7117841
+        ],
+        [
+          -74.0114765,
+          40.7117557
+        ],
+        [
+          -74.0114033,
+          40.711722
+        ],
+        [
+          -74.0113063,
+          40.7116734
+        ],
+        [
+          -74.0112208,
+          40.7116224
+        ],
+        [
+          -74.0111522,
+          40.7115722
+        ],
+        [
+          -74.0110746,
+          40.7115083
+        ],
+        [
+          -74.0110179,
+          40.7114538
+        ],
+        [
+          -74.0109621,
+          40.7113908
+        ],
+        [
+          -74.0109123,
+          40.7113255
+        ],
+        [
+          -74.0108971,
+          40.7113031
+        ],
+        [
+          -74.0108914,
+          40.7112844
+        ],
+        [
+          -74.0108913,
+          40.7112694
+        ],
+        [
+          -74.010898,
+          40.7112509
+        ],
+        [
+          -74.0109093,
+          40.7112334
+        ],
+        [
+          -74.0109237,
+          40.7112224
+        ],
+        [
+          -74.0109431,
+          40.7112142
+        ],
+        [
+          -74.010962,
+          40.7112084
+        ],
+        [
+          -74.0109864,
+          40.7112064
+        ],
+        [
+          -74.0110216,
+          40.7112107
+        ],
+        [
+          -74.0110854,
+          40.7112291
+        ],
+        [
+          -74.0111547,
+          40.7112512
+        ],
+        [
+          -74.0112303,
+          40.7112798
+        ],
+        [
+          -74.0113276,
+          40.711321
+        ],
+        [
+          -74.0114162,
+          40.7113641
+        ],
+        [
+          -74.0114993,
+          40.7114111
+        ],
+        [
+          -74.0116102,
+          40.7114848
+        ],
+        [
+          -74.0116875,
+          40.7115375
+        ],
+        [
+          -74.0117538,
+          40.7115918
+        ],
+        [
+          -74.0118212,
+          40.711649
+        ],
+        [
+          -74.0118824,
+          40.711707
+        ],
+        [
+          -74.0119396,
+          40.7117667
+        ],
+        [
+          -74.0119487,
+          40.711782
+        ],
+        [
+          -74.0119527,
+          40.7117997
+        ],
+        [
+          -74.0119529,
+          40.7118155
+        ],
+        [
+          -74.0119495,
+          40.7118288
+        ],
+        [
+          -74.0119435,
+          40.7118406
+        ],
+        [
+          -74.0119324,
+          40.7118518
+        ],
+        [
+          -74.0119181,
+          40.7118609
+        ],
+        [
+          -74.0119032,
+          40.7118682
+        ],
+        [
+          -74.0118838,
+          40.7118739
+        ],
+        [
+          -74.0118695,
+          40.7118769
+        ],
+        [
+          -74.0118555,
+          40.7118779
+        ],
+        [
+          -74.0118401,
+          40.7118768
+        ],
+        [
+          -74.0118248,
+          40.7118737
+        ],
+        [
+          -74.0117815,
+          40.7118619
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 278033606,
+    "version": 24,
+    "timestamp": "2026-09-07T14:55:45Z",
+    "url": "https://www.openstreetmap.org/way/278033606"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q2001751",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/nyc-oculus.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "The Oculus (World Trade Center Transportation Hub) — procedural, CC0-1.0, no textures. bun generators/nyc-oculus.ts",
+    "Map frame: x = model east, y = model north, z up, metres. The long axis runs along y; placed at bearing 128.0°, the axis of the outline (model north points down Dey Street's line towards Church Street's south-east). Anchor: area centroid of the OSM outline way/278033606. y = 0 is the plaza the building stands on.",
+    "Evidence",
+    "OSM way/278033606: the eye-shaped outline, 33 × 110 m, tagged height 47, roof dome, colour #f0efed. No building:parts.",
+    "Lidar: USGS 3DEP NY_NewYorkCity (2017) in the model frame, against the plaza (~6 m NAVD88): the top surface 36–39 m high at mid-length, falling to 15–20 m at the two ends; the spine slot along x ≈ 0 open to the hall floor (returns ~22 m below the plaza); the outer edge of the ribs at |x| 13–16 m at mid-length. Two construction-crane booms cross the cloud and were ignored.",
+    "Published: Santiago Calatrava, opened 2016; white-painted steel ribs rising from the hall into two wing-like canopies either side of a central operable skylight along the spine; glazed arched ends (Wikipedia).",
+    "Photos (Wikimedia Commons): /tmp/city/nyc/work/nyc-oculus/photos/credits.txt (Kidfly182's set round the building and from the end, AramilFeraxa, Matt Rice from the memorial plaza, Anthony Quintano along the side).",
+    "Drawn as: an eye-shaped drum of dark glass between broad white ribs that run down to the plaza, a white band and a white shell curving in to the spine, a raised glass skylight with white rims along the spine (pinched at the ends), and two wings, each a continuous white sheet sweeping from the spine rim up and out to the tips with a ridge for every rib (29 a side on a 3.4 m pitch), so each wing reads as one white mass at map scale. The real ribs are finer and more numerous and stand apart against the sky.",
+    "Estimated: the rib count and size (abstracted, see above), the drum's glazing height (9 m) and white band, the spine's height profile (27 m at mid-length from the lidar's slot rim, 10 m at the ends), the tips' 40 m (lidar 39; thin rib tips may be under-sampled), the curve of each rib between the lidar's top heights, the end treatment (the ribs simply shorten; the real end ribs also lean out along the axis).",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"nyc-oculus\", model \"nyc-oculus\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/nyc-oculus.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

@@ -1,0 +1,421 @@
+{
+  "id": "queens-museum",
+  "name": "Queens Museum",
+  "anchor": [
+    -73.8467451,
+    40.7458734
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 61060,
+      "sha256": "caf2b91cda2e1c456a0151c5b01af935418f3601e88433adb7056244affbbe1e"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 61060,
+      "sha256": "caf2b91cda2e1c456a0151c5b01af935418f3601e88433adb7056244affbbe1e"
+    }
+  },
+  "triangles": 1600,
+  "boundsBlenderM": [
+    [
+      -52.633,
+      -68.806,
+      0
+    ],
+    [
+      52.633,
+      68.806,
+      17
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -73.8467465,
+          40.7464374
+        ],
+        [
+          -73.8466442,
+          40.7464698
+        ],
+        [
+          -73.8466187,
+          40.7464232
+        ],
+        [
+          -73.8466285,
+          40.7464159
+        ],
+        [
+          -73.8466325,
+          40.7464117
+        ],
+        [
+          -73.8466359,
+          40.7464072
+        ],
+        [
+          -73.8466406,
+          40.7463974
+        ],
+        [
+          -73.8466424,
+          40.7463871
+        ],
+        [
+          -73.8466422,
+          40.7463819
+        ],
+        [
+          -73.8466412,
+          40.7463768
+        ],
+        [
+          -73.8466371,
+          40.7463668
+        ],
+        [
+          -73.846634,
+          40.7463622
+        ],
+        [
+          -73.8466259,
+          40.7463538
+        ],
+        [
+          -73.8466156,
+          40.746347
+        ],
+        [
+          -73.8466035,
+          40.746342
+        ],
+        [
+          -73.8465971,
+          40.7463403
+        ],
+        [
+          -73.8465904,
+          40.7463392
+        ],
+        [
+          -73.8465767,
+          40.7463386
+        ],
+        [
+          -73.8465483,
+          40.7462867
+        ],
+        [
+          -73.8466122,
+          40.7462664
+        ],
+        [
+          -73.8464441,
+          40.7459598
+        ],
+        [
+          -73.8462839,
+          40.7456675
+        ],
+        [
+          -73.846222,
+          40.7456871
+        ],
+        [
+          -73.8461955,
+          40.7456388
+        ],
+        [
+          -73.8462002,
+          40.7456349
+        ],
+        [
+          -73.8462079,
+          40.7456262
+        ],
+        [
+          -73.8462129,
+          40.7456164
+        ],
+        [
+          -73.8462144,
+          40.7456113
+        ],
+        [
+          -73.8462151,
+          40.7456008
+        ],
+        [
+          -73.8462143,
+          40.7455956
+        ],
+        [
+          -73.8462106,
+          40.7455855
+        ],
+        [
+          -73.8462041,
+          40.7455762
+        ],
+        [
+          -73.8461951,
+          40.7455683
+        ],
+        [
+          -73.8461899,
+          40.7455649
+        ],
+        [
+          -73.846178,
+          40.7455595
+        ],
+        [
+          -73.8461716,
+          40.7455575
+        ],
+        [
+          -73.8461581,
+          40.7455553
+        ],
+        [
+          -73.8461512,
+          40.745555
+        ],
+        [
+          -73.8461242,
+          40.7455057
+        ],
+        [
+          -73.8462229,
+          40.7454744
+        ],
+        [
+          -73.8461943,
+          40.7454223
+        ],
+        [
+          -73.8467375,
+          40.7452501
+        ],
+        [
+          -73.8467672,
+          40.7453041
+        ],
+        [
+          -73.8468421,
+          40.7452804
+        ],
+        [
+          -73.846868,
+          40.7453276
+        ],
+        [
+          -73.8468634,
+          40.7453317
+        ],
+        [
+          -73.8468563,
+          40.745341
+        ],
+        [
+          -73.8468519,
+          40.7453512
+        ],
+        [
+          -73.8468505,
+          40.745362
+        ],
+        [
+          -73.846851,
+          40.7453673
+        ],
+        [
+          -73.8468542,
+          40.7453778
+        ],
+        [
+          -73.8468569,
+          40.7453828
+        ],
+        [
+          -73.8468603,
+          40.7453875
+        ],
+        [
+          -73.846869,
+          40.745396
+        ],
+        [
+          -73.8468799,
+          40.7454029
+        ],
+        [
+          -73.8468925,
+          40.7454078
+        ],
+        [
+          -73.8468992,
+          40.7454094
+        ],
+        [
+          -73.8469132,
+          40.745411
+        ],
+        [
+          -73.8469409,
+          40.7454615
+        ],
+        [
+          -73.8468769,
+          40.7454817
+        ],
+        [
+          -73.8470382,
+          40.7457782
+        ],
+        [
+          -73.8472054,
+          40.7460811
+        ],
+        [
+          -73.847264,
+          40.7460625
+        ],
+        [
+          -73.847291,
+          40.7461116
+        ],
+        [
+          -73.8472827,
+          40.7461203
+        ],
+        [
+          -73.8472796,
+          40.7461251
+        ],
+        [
+          -73.8472754,
+          40.7461353
+        ],
+        [
+          -73.8472741,
+          40.7461459
+        ],
+        [
+          -73.8472759,
+          40.7461566
+        ],
+        [
+          -73.8472779,
+          40.7461617
+        ],
+        [
+          -73.8472806,
+          40.7461666
+        ],
+        [
+          -73.8472881,
+          40.7461757
+        ],
+        [
+          -73.8472927,
+          40.7461797
+        ],
+        [
+          -73.8473036,
+          40.7461865
+        ],
+        [
+          -73.8473161,
+          40.7461914
+        ],
+        [
+          -73.8473228,
+          40.7461931
+        ],
+        [
+          -73.8473367,
+          40.7461947
+        ],
+        [
+          -73.8473643,
+          40.7462449
+        ],
+        [
+          -73.8472911,
+          40.7462681
+        ],
+        [
+          -73.8473188,
+          40.7463185
+        ],
+        [
+          -73.8472353,
+          40.746345
+        ],
+        [
+          -73.8472346,
+          40.7463438
+        ],
+        [
+          -73.8467751,
+          40.7464895
+        ],
+        [
+          -73.8467465,
+          40.7464374
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 284856409,
+    "version": 5,
+    "timestamp": "2026-08-28T02:52:22Z",
+    "url": "https://www.openstreetmap.org/way/284856409"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q1320229",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/queens-museum.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Queens Museum (the New York City Building, 1939) — original procedural geometry, CC0-1.0. bun generators/queens-museum.ts",
+    "Authoring frame: x across the building (+x faces the Unisphere, east-north- east), y along its long axis, z up, metres. Catalog bearing 337.3°, anchor at the OSM outline's centroid. The outline (way/284856409, height 15.3) is a long body flanked by two wider end pavilions, each with a shallow curved flagpole niche in its long sides, and a lower block on each end.",
+    "The building is mirrored end to end. Its two long faces differ: the east (park) face is a colonnade of square limestone piers between tall glazed bays, and the west (parkway) face carries the 2013 glass curtain. A broad skylight lantern over the central atrium sits on the roof.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"queens-museum\", model \"queens-museum\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/queens-museum.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "To fit six materials, folded queens-museum-window into queens-museum-window-2 (ΔE 5)."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

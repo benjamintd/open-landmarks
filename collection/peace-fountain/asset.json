@@ -1,0 +1,328 @@
+{
+  "id": "peace-fountain",
+  "name": "Peace Fountain",
+  "anchor": [
+    -73.9630524,
+    40.8034978
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 17,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 81480,
+      "sha256": "1fa0d3739b9d3ef80edaf42c15bea8b978b59275522f57d2698909878adc8752"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 81480,
+      "sha256": "1fa0d3739b9d3ef80edaf42c15bea8b978b59275522f57d2698909878adc8752"
+    }
+  },
+  "triangles": 2176,
+  "boundsBlenderM": [
+    [
+      -3.4,
+      -3.715,
+      0
+    ],
+    [
+      3.4,
+      3.4,
+      11.238
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -73.9630356,
+          40.8034701
+        ],
+        [
+          -73.9630317,
+          40.8034716
+        ],
+        [
+          -73.9630281,
+          40.8034735
+        ],
+        [
+          -73.9630247,
+          40.8034756
+        ],
+        [
+          -73.9630216,
+          40.8034779
+        ],
+        [
+          -73.9630189,
+          40.8034806
+        ],
+        [
+          -73.9630166,
+          40.8034834
+        ],
+        [
+          -73.9630147,
+          40.8034864
+        ],
+        [
+          -73.9630133,
+          40.8034895
+        ],
+        [
+          -73.9630123,
+          40.8034927
+        ],
+        [
+          -73.9630118,
+          40.803496
+        ],
+        [
+          -73.9630117,
+          40.8034993
+        ],
+        [
+          -73.9630121,
+          40.8035026
+        ],
+        [
+          -73.963013,
+          40.8035059
+        ],
+        [
+          -73.9630144,
+          40.803509
+        ],
+        [
+          -73.9630162,
+          40.803512
+        ],
+        [
+          -73.9630184,
+          40.8035149
+        ],
+        [
+          -73.963021,
+          40.8035176
+        ],
+        [
+          -73.963024,
+          40.80352
+        ],
+        [
+          -73.9630274,
+          40.8035221
+        ],
+        [
+          -73.963031,
+          40.803524
+        ],
+        [
+          -73.9630348,
+          40.8035256
+        ],
+        [
+          -73.9630389,
+          40.8035268
+        ],
+        [
+          -73.9630431,
+          40.8035277
+        ],
+        [
+          -73.9630474,
+          40.8035283
+        ],
+        [
+          -73.9630518,
+          40.8035285
+        ],
+        [
+          -73.9630562,
+          40.8035283
+        ],
+        [
+          -73.9630605,
+          40.8035278
+        ],
+        [
+          -73.9630647,
+          40.8035269
+        ],
+        [
+          -73.9630688,
+          40.8035257
+        ],
+        [
+          -73.9630725,
+          40.8035242
+        ],
+        [
+          -73.963076,
+          40.8035224
+        ],
+        [
+          -73.9630792,
+          40.8035204
+        ],
+        [
+          -73.9630822,
+          40.8035181
+        ],
+        [
+          -73.9630848,
+          40.8035157
+        ],
+        [
+          -73.963087,
+          40.803513
+        ],
+        [
+          -73.9630889,
+          40.8035101
+        ],
+        [
+          -73.9630904,
+          40.8035072
+        ],
+        [
+          -73.9630914,
+          40.8035041
+        ],
+        [
+          -73.963092,
+          40.8035009
+        ],
+        [
+          -73.9630922,
+          40.8034978
+        ],
+        [
+          -73.963092,
+          40.8034946
+        ],
+        [
+          -73.9630913,
+          40.8034915
+        ],
+        [
+          -73.9630902,
+          40.8034884
+        ],
+        [
+          -73.9630886,
+          40.8034854
+        ],
+        [
+          -73.9630867,
+          40.8034826
+        ],
+        [
+          -73.9630844,
+          40.80348
+        ],
+        [
+          -73.9630818,
+          40.8034775
+        ],
+        [
+          -73.9630788,
+          40.8034753
+        ],
+        [
+          -73.9630755,
+          40.8034733
+        ],
+        [
+          -73.963072,
+          40.8034716
+        ],
+        [
+          -73.9630682,
+          40.8034701
+        ],
+        [
+          -73.9630643,
+          40.803469
+        ],
+        [
+          -73.9630603,
+          40.8034682
+        ],
+        [
+          -73.9630561,
+          40.8034677
+        ],
+        [
+          -73.9630519,
+          40.8034675
+        ],
+        [
+          -73.9630477,
+          40.8034677
+        ],
+        [
+          -73.9630436,
+          40.8034682
+        ],
+        [
+          -73.9630395,
+          40.803469
+        ],
+        [
+          -73.9630356,
+          40.8034701
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 608955193,
+    "version": 10,
+    "timestamp": "2026-08-25T03:47:55Z",
+    "url": "https://www.openstreetmap.org/way/608955193"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q7157367",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/nyc-peace-fountain.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "The Peace Fountain, Pulpit Green, Cathedral of St. John the Divine, Manhattan (Greg Wyatt, 1985) — procedural, CC0-1.0, no textures. bun generators/nyc-peace-fountain.ts",
+    "Map frame: x = model east, y = model north, z up, metres. Bearing 0, the parts placed where the lidar and photos put them: the sun face on the west of the platform, looking west toward Amsterdam Avenue; the Archangel Michael on its south-east side facing south, his two wings raised in a V along the east–west line. Anchor: the centroid of OSM way/608955193 (the fountain's kerb, tourism=artwork, barrier=kerb, r 3.4 m, not a building), which matches the platform's centre in the lidar within 0.3 m; `replaces` is empty. y = 0 is the lawn; the dry pool (now a garden) is the map's ground.",
+    "Evidence",
+    "Published (Wikipedia; the cathedral): bronze, 40 ft (12 m); a double helix rising from a basin to a crab-ringed platform carrying the sun and moon face; Michael triumphant over Satan, whose head hangs below; nine giraffes round the sun.",
+    "Lidar: USGS 3DEP NY_NewYorkCity (2017), 0.5 m, sparse: the platform's rim ~3.8 m over a ~5.5 m disc; two high clusters 4.5 m apart on an east–west line south of the centre, 11.0 m (west) and 9.8 m (east) above the lawn — the wing tips.",
+    "Photos (Wikimedia Commons), credits in /tmp/city/nyc/work/nyc-peace-fountain/photos/credits.txt: Pablo Costa Tirado (CC BY-SA 3.0, the whole fountain, the sun face square on), Rangilo Gujarati (CC BY-SA 3.0, Michael and the wing from the west, the crossing dome behind; the sun close), Jay Dobkin (CC BY-SA 4.0, Michael facing south with both wings spread, from below), Corsario CL (CC BY-SA 4.0, the wing against the west front).",
+    "Estimated from the photos against the lidar heights: the helix (two ribbons wound one and a half turns round a waisted core, 0.4–3.4 m), the platform (r 2.8 m, its rim of crab shell and sixteen spikes), the sun disc (3.0 m across, centre 5.45 m), Michael (4.0 m, feet 4.0 m, the sword held down across him), the wings (4.5 m long, broad fans 2 m deep, their feathers trailing back and down), and one giraffe leaping over the sun for the nine; the granite basin wall on the kerb's line (0.55 m high, 0.35 m thick); each wing as a broad leading-edge fan with four pointed primary feathers. Satan's head, the crab's claws, the lions and the small animals are left out.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"nyc-peace-fountain\", model \"nyc-peace-fountain\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/nyc-peace-fountain.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

@@ -1,0 +1,302 @@
+{
+  "id": "8-spruce-street",
+  "name": "8 Spruce Street",
+  "anchor": [
+    -74.0056081,
+    40.7108998
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 13,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 210280,
+      "sha256": "1b52a893784ca8b87217eaadd5a06174d463ec846a3cff264cd7faaa4ebd31f6"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 210280,
+      "sha256": "1b52a893784ca8b87217eaadd5a06174d463ec846a3cff264cd7faaa4ebd31f6"
+    }
+  },
+  "triangles": 5723,
+  "boundsBlenderM": [
+    [
+      -36.947,
+      -42.211,
+      0
+    ],
+    [
+      34.224,
+      37.621,
+      269
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -74.0055329,
+          40.7112421
+        ],
+        [
+          -74.0055762,
+          40.7112177
+        ],
+        [
+          -74.0056854,
+          40.7111562
+        ],
+        [
+          -74.0057589,
+          40.7111147
+        ],
+        [
+          -74.0058034,
+          40.7110896
+        ],
+        [
+          -74.0058159,
+          40.7110821
+        ],
+        [
+          -74.0058844,
+          40.7110408
+        ],
+        [
+          -74.005955,
+          40.7109983
+        ],
+        [
+          -74.0060238,
+          40.7109569
+        ],
+        [
+          -74.0060493,
+          40.7109415
+        ],
+        [
+          -74.0060196,
+          40.7109126
+        ],
+        [
+          -74.0060053,
+          40.7108986
+        ],
+        [
+          -74.0059929,
+          40.7108869
+        ],
+        [
+          -74.0055994,
+          40.7105149
+        ],
+        [
+          -74.0055772,
+          40.7105382
+        ],
+        [
+          -74.0055501,
+          40.7105671
+        ],
+        [
+          -74.0054956,
+          40.7106252
+        ],
+        [
+          -74.005476,
+          40.710646
+        ],
+        [
+          -74.0054523,
+          40.7106713
+        ],
+        [
+          -74.0053958,
+          40.7107315
+        ],
+        [
+          -74.005355,
+          40.710775
+        ],
+        [
+          -74.0053388,
+          40.7107923
+        ],
+        [
+          -74.0053211,
+          40.7108111
+        ],
+        [
+          -74.0052356,
+          40.7109022
+        ],
+        [
+          -74.0052319,
+          40.7109059
+        ],
+        [
+          -74.0051992,
+          40.7109403
+        ],
+        [
+          -74.0054865,
+          40.7111979
+        ],
+        [
+          -74.005499,
+          40.7112098
+        ],
+        [
+          -74.0055123,
+          40.7112225
+        ],
+        [
+          -74.0055329,
+          40.7112421
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 109473848,
+    "version": 15,
+    "timestamp": "2026-07-23T07:59:13Z",
+    "url": "https://www.openstreetmap.org/way/109473848"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 274750635,
+      "version": 1,
+      "timestamp": "2014-04-16T08:51:33Z",
+      "url": "https://www.openstreetmap.org/way/274750635"
+    },
+    {
+      "type": "way",
+      "id": 274750636,
+      "version": 2,
+      "timestamp": "2022-08-26T08:34:28Z",
+      "url": "https://www.openstreetmap.org/way/274750636"
+    },
+    {
+      "type": "way",
+      "id": 274750637,
+      "version": 1,
+      "timestamp": "2014-04-16T08:51:33Z",
+      "url": "https://www.openstreetmap.org/way/274750637"
+    },
+    {
+      "type": "way",
+      "id": 274750638,
+      "version": 1,
+      "timestamp": "2014-04-16T08:51:33Z",
+      "url": "https://www.openstreetmap.org/way/274750638"
+    },
+    {
+      "type": "way",
+      "id": 274750639,
+      "version": 1,
+      "timestamp": "2014-04-16T08:51:33Z",
+      "url": "https://www.openstreetmap.org/way/274750639"
+    },
+    {
+      "type": "way",
+      "id": 274750643,
+      "version": 1,
+      "timestamp": "2014-04-16T08:51:34Z",
+      "url": "https://www.openstreetmap.org/way/274750643"
+    },
+    {
+      "type": "way",
+      "id": 274750646,
+      "version": 1,
+      "timestamp": "2014-04-16T08:51:34Z",
+      "url": "https://www.openstreetmap.org/way/274750646"
+    },
+    {
+      "type": "way",
+      "id": 274750647,
+      "version": 3,
+      "timestamp": "2022-08-26T08:34:28Z",
+      "url": "https://www.openstreetmap.org/way/274750647"
+    },
+    {
+      "type": "way",
+      "id": 1089406290,
+      "version": 2,
+      "timestamp": "2023-11-14T06:03:14Z",
+      "url": "https://www.openstreetmap.org/way/1089406290"
+    },
+    {
+      "type": "way",
+      "id": 1089406291,
+      "version": 1,
+      "timestamp": "2022-08-26T08:34:28Z",
+      "url": "https://www.openstreetmap.org/way/1089406291"
+    },
+    {
+      "type": "way",
+      "id": 1089406292,
+      "version": 3,
+      "timestamp": "2023-11-15T01:54:39Z",
+      "url": "https://www.openstreetmap.org/way/1089406292"
+    },
+    {
+      "type": "way",
+      "id": 1089406293,
+      "version": 4,
+      "timestamp": "2023-11-15T01:54:39Z",
+      "url": "https://www.openstreetmap.org/way/1089406293"
+    },
+    {
+      "type": "way",
+      "id": 1089406294,
+      "version": 2,
+      "timestamp": "2023-11-14T17:19:58Z",
+      "url": "https://www.openstreetmap.org/way/1089406294"
+    }
+  ],
+  "wikidata": "Q274916",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/nyc-8-spruce.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "8 Spruce Street (New York by Gehry) — procedural, CC0-1.0, no textures. bun generators/nyc-8-spruce.ts",
+    "Map frame: x = model east, y = model north (Spruce Street is the south side), z up, metres. Placed at bearing 51°, the axis of the tower's walls. Anchor: area centroid of the OSM outline way/109473848.",
+    "Evidence",
+    "OSM way/109473848 (outline) and its parts: the tower (274750647, a T in plan: a 37 m wide slab along Spruce Street and an 18 m wing to the north), its stepped ends (274750635–274750646) and the school podium (1089406290–1089406294); plans used as drawn.",
+    "Lidar: USGS 3DEP NY_NewYorkCity, flown 2017, resampled into the model frame: main roof 263–266 m (mechanical to ~270), the slab's ends stepping 176/139/85 m on the east and 139/85 m on the west, the north wing's end 176/139 m, the podium 26–30 m with a ~38 m east block.",
+    "Published: 265 m, 76 floors, Frank Gehry, 2011 (Wikipedia). Rippled stainless-steel cladding on the east, west and north faces; the south face is flat; a five-storey brick public school (PS 397) at the base.",
+    "Photos (Wikimedia Commons): /tmp/city/nyc/work/nyc-8-spruce/photos/credits.txt",
+    "The ripples are drawn as broad vertical folds about 6 m apart that bulge up to 2 m out of the wall plane, their phase drifting with height so the folds wander and drape as in the photos; they fade to the plane at every corner so nothing sticks past an edge. The fold crests are bare steel and the glass in the troughs a mid slate, so the folds read as wandering light and dark streaks, banded by steel every five floors; the flat south face is pale steel and light glass, as it reads in daylight.",
+    "Estimated: the fold spacing, depth and drift (photos); the floor-band rhythm; the podium's window pattern.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"nyc-8-spruce\", model \"nyc-8-spruce\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/nyc-8-spruce.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

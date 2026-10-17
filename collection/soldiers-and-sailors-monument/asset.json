@@ -1,0 +1,222 @@
+{
+  "id": "soldiers-and-sailors-monument",
+  "name": "Soldiers' and Sailors' Monument",
+  "anchor": [
+    -73.978929,
+    40.792096
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 138992,
+      "sha256": "d5e27e2a68230977aaf021c886f625b75373bcc0f20c481b437d10d3d41e50d9"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 138992,
+      "sha256": "d5e27e2a68230977aaf021c886f625b75373bcc0f20c481b437d10d3d41e50d9"
+    }
+  },
+  "triangles": 4888,
+  "boundsBlenderM": [
+    [
+      -7.6,
+      -7.6,
+      0
+    ],
+    [
+      7.6,
+      7.6,
+      30.6
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -73.9789319,
+          40.7920359
+        ],
+        [
+          -73.978947,
+          40.7920377
+        ],
+        [
+          -73.9789612,
+          40.7920416
+        ],
+        [
+          -73.9789743,
+          40.7920476
+        ],
+        [
+          -73.9789856,
+          40.7920553
+        ],
+        [
+          -73.9789947,
+          40.7920645
+        ],
+        [
+          -73.9790013,
+          40.7920749
+        ],
+        [
+          -73.9790051,
+          40.7920861
+        ],
+        [
+          -73.979006,
+          40.7920976
+        ],
+        [
+          -73.979004,
+          40.7921091
+        ],
+        [
+          -73.9789992,
+          40.79212
+        ],
+        [
+          -73.9789916,
+          40.79213
+        ],
+        [
+          -73.9789817,
+          40.7921388
+        ],
+        [
+          -73.9789697,
+          40.7921459
+        ],
+        [
+          -73.9789562,
+          40.7921511
+        ],
+        [
+          -73.9789416,
+          40.7921543
+        ],
+        [
+          -73.9789264,
+          40.7921552
+        ],
+        [
+          -73.9789113,
+          40.792154
+        ],
+        [
+          -73.9788968,
+          40.7921505
+        ],
+        [
+          -73.9788835,
+          40.792145
+        ],
+        [
+          -73.9788718,
+          40.7921376
+        ],
+        [
+          -73.9788622,
+          40.7921287
+        ],
+        [
+          -73.978855,
+          40.7921185
+        ],
+        [
+          -73.9788505,
+          40.7921075
+        ],
+        [
+          -73.978849,
+          40.792096
+        ],
+        [
+          -73.9788503,
+          40.7920845
+        ],
+        [
+          -73.9788573,
+          40.7920688
+        ],
+        [
+          -73.9788654,
+          40.792059
+        ],
+        [
+          -73.9788758,
+          40.7920506
+        ],
+        [
+          -73.9788881,
+          40.7920439
+        ],
+        [
+          -73.978902,
+          40.7920391
+        ],
+        [
+          -73.9789168,
+          40.7920364
+        ],
+        [
+          -73.9789319,
+          40.7920359
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 270975149,
+    "version": 4,
+    "timestamp": "2018-07-14T11:32:00Z",
+    "url": "https://www.openstreetmap.org/way/270975149"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q3489276",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/nyc-soldiers-sailors-riverside.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Soldiers' and Sailors' Monument, Riverside Drive at 89th Street, Manhattan (Stoughton & Stoughton with Paul E. Duboy, 1902) — procedural, CC0-1.0, no textures. bun generators/nyc-soldiers-sailors-riverside.ts",
+    "Map frame: x = model east, y = model north, z up, metres. Bearing 0: the monument is round, and its one directional feature, the door in the podium under the bronze eagle, faces true south toward the lower plaza (the lidar shows its projecting surround at r ≈ 8 m due south). Anchor: the centroid of OSM way/270975149 (building=yes, height 31), which this model replaces. y = 0 is the upper terrace round the podium (lidar 25.8 m NAVD88, level across the footprint); the terrace, its balustrade and the retaining wall toward the park are the map's ground, not drawn.",
+    "Evidence",
+    "Published (Wikipedia; NYC Parks; NRHP): white Vermont marble, modelled on the Choragic Monument of Lysicrates; a cylindrical temple ringed by twelve Corinthian columns on a high podium; about 100 ft (30 m) tall.",
+    "Lidar: USGS 3DEP NY_NewYorkCity (2017), 0.5 m, radial profile about the OSM centroid: base steps +0.3–2.3 m to r ≈ 7.6 m; the podium's cornice +7.0 m (seen between the columns); the main cornice +23.0 m out to r ≈ 7.0 m; a step +24.5 m at r ≈ 5–5.5 m (blocking course and the attic's ornaments); +26.3 m at r 4.5–5 m; the dome +28.9 m at the centre; the finial +30.6 m.",
+    "OSM way/270975149: a 13.2 m circle (r 6.6 m), the podium drum.",
+    "Photos (Wikimedia Commons), credits in /tmp/city/nyc/work/nyc-soldiers-sailors-riverside/photos/credits.txt: Beyond My Ken (CC BY-SA 4.0, the front and its door from the lower plaza, south), Jim.henderson (public domain, from the promenade below, west), Djdacha (CC BY-SA 4.0, up the colonnade from the park), Daniel Hawk Hicks (CC BY-SA 4.0, the colonnade from the park).",
+    "Estimated from the photos against the lidar heights: the podium's split (plinth 1.6 m, drum to 6.3 m, cornice 0.7 m), the stylobate (two 0.5 m steps), the columns (8.0–19.6 m, 1.04 m across on a 4.5 m radius, from the photos' ratio of colonnade to podium; fluting drawn as twelve flat facets), the cella (r 3.0 m, ashlar, drawn in a shade of the marble), the entablature (architrave and frieze 2.4 m to r 5.15 m, cornice 1.0 m to r 5.8 m), the blocking course and attic (to 25.7 m) and the dome's steps, the flame finial. The cella's front window and the podium's door with its surround are flat panels and a plain block; the eagles, relief band, inscriptions and the terrace balustrade are left out.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"nyc-soldiers-sailors-riverside\", model \"nyc-soldiers-sailors-riverside\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/nyc-soldiers-sailors-riverside.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 3 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the nyc-soldiers-sailors-riverside-glazing finish in the window colour."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

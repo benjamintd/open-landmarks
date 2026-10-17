@@ -1,0 +1,125 @@
+{
+  "id": "prison-ship-martyrs-monument",
+  "name": "Prison Ship Martyrs' Monument",
+  "anchor": [
+    -73.975533,
+    40.69179
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 79848,
+      "sha256": "4a1199cefe8a1876b695f3866b82b16d99c69ac04a5475c77960663204892f78"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 79848,
+      "sha256": "4a1199cefe8a1876b695f3866b82b16d99c69ac04a5475c77960663204892f78"
+    }
+  },
+  "triangles": 2247,
+  "boundsBlenderM": [
+    [
+      -44.477,
+      -34.493,
+      0
+    ],
+    [
+      34.493,
+      44.477,
+      48.45
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -73.9755328,
+          40.6918274
+        ],
+        [
+          -73.9754832,
+          40.6917918
+        ],
+        [
+          -73.9755333,
+          40.6917516
+        ],
+        [
+          -73.9755829,
+          40.6917872
+        ],
+        [
+          -73.9755328,
+          40.6918274
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 296157576,
+    "version": 3,
+    "timestamp": "2020-01-14T20:09:50Z",
+    "url": "https://www.openstreetmap.org/way/296157576"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 296157582,
+      "version": 1,
+      "timestamp": "2014-08-06T09:44:18Z",
+      "url": "https://www.openstreetmap.org/way/296157582"
+    },
+    {
+      "type": "way",
+      "id": 296157583,
+      "version": 1,
+      "timestamp": "2014-08-06T09:44:18Z",
+      "url": "https://www.openstreetmap.org/way/296157583"
+    }
+  ],
+  "wikidata": "Q7245761",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/nyc-prison-ship-martyrs.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Prison Ship Martyrs' Monument, Fort Greene Park, Brooklyn (McKim, Mead & White / Stanford White, 1908; brazier by Adolph Weinman) — procedural, CC0-1.0, no textures. bun generators/nyc-prison-ship-martyrs.ts",
+    "Map frame: x = model east, y = model north, z up, metres. Placed at bearing 315°: the column's plinths and abacus are square to the NW–SE axis of the park, and the great stair falls away to the north-west (model +y), toward Myrtle Avenue. Model −x (true south-west) is the face with the bronze door. Anchor: the centroid of OSM way/296157576 (the monument, building=yes), which with its parts way/296157582 (shaft) and way/296157583 (urn) this model replaces.",
+    "y = 0 is the foot of the stair, the lowest ground under the model. The hilltop plaza round the column is 4.7 m higher (lidar), so the column's plinths start at z = 4.7. The stair climbs to a terrace drawn just under the plaza's level with battered sides, so that it lands on the column's plaza (with terrain on, the hill swallows the terrace). Elevation 0.",
+    "Evidence",
+    "Published (Wikipedia; NYC Parks): a granite Doric column 149 ft (45 m) over the crypt, at the top of a 100 ft (30 m) wide, 33-step staircase; an eight-ton bronze brazier (funeral urn) by Weinman on top.",
+    "Lidar: USGS 3DEP NY_NewYorkCity (2017), 0.5 m, /tmp/city/nyc/lidar.py, read in the model frame. Plaza 31.1 m NAVD88; lower plinth +0.5 m out to ±8.2 m, upper plinth +1.0 m to ±4.75 m; the abacus top 35.7 m above the plaza, a 7.0 m square; the brazier to 44.0 m at the centre, its rim ~42.4 m at r ≈ 1.8 m. The stair: plaza edge 34 m from the column, falling 4.7 m over ~12 m to a landing (the terraced lawn below it is the map's).",
+    "OSM: shaft part a 4.4 m circle; urn part a ~2.4 m circle (46–50 m tags, not used: the lidar is preferred).",
+    "Photos (Wikimedia Commons), credits in /tmp/city/nyc/work/nyc-prison-ship-martyrs/photos/credits.txt: Beyond My Ken (CC BY-SA 4.0, the whole column from the south-west; the top from the east), Tessa Bury (CC BY 4.0, aerial: plinths, abacus, brazier pedestal), aismallard (CC BY-SA 3.0, the great stair from below with the column behind and the granite balls on the stair's end pedestals), Jazz Guy (CC BY 2.0, the stair from the landing).",
+    "Estimated from the photos against the lidar: shaft diameter 5.5 m at the foot and 4.85 m under the capital (the south-west and stair photos, scaled to the 7.0 m abacus and corrected for distance; OSM's 4.4 m circle reads a little small); 20 flutes drawn as flat facets; the echinus and annulets (1.6 m), the abacus 1.1 m thick; the brazier's stepped pedestal, four splayed legs with X braces, its bowl, rim band and domed lid. The stair's cheek walls and their end pedestals and balls are from the stair photo; the crypt entrance (in the lower terraces) is left out, as are the railing round the abacus, the Greek-key band, the four eagles on the plaza and the plaque.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"nyc-prison-ship-martyrs\", model \"nyc-prison-ship-martyrs\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/nyc-prison-ship-martyrs.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

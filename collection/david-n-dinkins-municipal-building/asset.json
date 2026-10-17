@@ -1,0 +1,312 @@
+{
+  "id": "david-n-dinkins-municipal-building",
+  "name": "David N. Dinkins Municipal Building",
+  "anchor": [
+    -74.0036752,
+    40.7129838
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 237908,
+      "sha256": "b35b08a7ba36349ce052f1deb88e7712aa884a7492b67dc01cd5168c1b9159c0"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 237908,
+      "sha256": "b35b08a7ba36349ce052f1deb88e7712aa884a7492b67dc01cd5168c1b9159c0"
+    }
+  },
+  "triangles": 5232,
+  "boundsBlenderM": [
+    [
+      -54.883,
+      -51.355,
+      0
+    ],
+    [
+      41.484,
+      62.082,
+      180.5
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -74.0043185,
+          40.7126701
+        ],
+        [
+          -74.0041931,
+          40.7126011
+        ],
+        [
+          -74.0040546,
+          40.712525
+        ],
+        [
+          -74.0040432,
+          40.7125368
+        ],
+        [
+          -74.0035786,
+          40.7126601
+        ],
+        [
+          -74.0035618,
+          40.7126511
+        ],
+        [
+          -74.0034779,
+          40.7127408
+        ],
+        [
+          -74.003465,
+          40.7127339
+        ],
+        [
+          -74.0034158,
+          40.7127836
+        ],
+        [
+          -74.0033635,
+          40.7128404
+        ],
+        [
+          -74.0033152,
+          40.7128942
+        ],
+        [
+          -74.0032663,
+          40.7129464
+        ],
+        [
+          -74.0032775,
+          40.7129524
+        ],
+        [
+          -74.0031906,
+          40.7130454
+        ],
+        [
+          -74.0032058,
+          40.7130536
+        ],
+        [
+          -74.0032449,
+          40.7133897
+        ],
+        [
+          -74.0032366,
+          40.7133984
+        ],
+        [
+          -74.0034946,
+          40.7135394
+        ],
+        [
+          -74.0036829,
+          40.7133409
+        ],
+        [
+          -74.0038666,
+          40.7131465
+        ],
+        [
+          -74.0039145,
+          40.7130957
+        ],
+        [
+          -74.0039724,
+          40.7130346
+        ],
+        [
+          -74.0041295,
+          40.7128683
+        ],
+        [
+          -74.0043185,
+          40.7126701
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "relation",
+    "id": 13625437,
+    "version": 2,
+    "timestamp": "2024-04-04T21:59:12Z",
+    "url": "https://www.openstreetmap.org/relation/13625437"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 214744070,
+      "version": 9,
+      "timestamp": "2022-01-04T00:15:42Z",
+      "url": "https://www.openstreetmap.org/way/214744070"
+    },
+    {
+      "type": "way",
+      "id": 214744071,
+      "version": 2,
+      "timestamp": "2014-06-04T13:59:28Z",
+      "url": "https://www.openstreetmap.org/way/214744071"
+    },
+    {
+      "type": "way",
+      "id": 214744072,
+      "version": 2,
+      "timestamp": "2014-06-04T13:59:28Z",
+      "url": "https://www.openstreetmap.org/way/214744072"
+    },
+    {
+      "type": "way",
+      "id": 214744073,
+      "version": 6,
+      "timestamp": "2023-08-18T23:41:54Z",
+      "url": "https://www.openstreetmap.org/way/214744073"
+    },
+    {
+      "type": "way",
+      "id": 214744074,
+      "version": 3,
+      "timestamp": "2021-12-29T22:36:31Z",
+      "url": "https://www.openstreetmap.org/way/214744074"
+    },
+    {
+      "type": "way",
+      "id": 214744075,
+      "version": 3,
+      "timestamp": "2023-08-18T23:41:54Z",
+      "url": "https://www.openstreetmap.org/way/214744075"
+    },
+    {
+      "type": "way",
+      "id": 214744077,
+      "version": 2,
+      "timestamp": "2014-06-04T13:59:29Z",
+      "url": "https://www.openstreetmap.org/way/214744077"
+    },
+    {
+      "type": "way",
+      "id": 214744080,
+      "version": 2,
+      "timestamp": "2014-06-04T13:59:29Z",
+      "url": "https://www.openstreetmap.org/way/214744080"
+    },
+    {
+      "type": "way",
+      "id": 214744081,
+      "version": 3,
+      "timestamp": "2021-12-29T22:36:31Z",
+      "url": "https://www.openstreetmap.org/way/214744081"
+    },
+    {
+      "type": "way",
+      "id": 214744082,
+      "version": 2,
+      "timestamp": "2014-06-04T13:59:30Z",
+      "url": "https://www.openstreetmap.org/way/214744082"
+    },
+    {
+      "type": "way",
+      "id": 214744084,
+      "version": 2,
+      "timestamp": "2014-06-04T13:59:30Z",
+      "url": "https://www.openstreetmap.org/way/214744084"
+    },
+    {
+      "type": "way",
+      "id": 214744085,
+      "version": 2,
+      "timestamp": "2014-06-04T13:59:30Z",
+      "url": "https://www.openstreetmap.org/way/214744085"
+    },
+    {
+      "type": "way",
+      "id": 214744086,
+      "version": 2,
+      "timestamp": "2014-06-04T13:59:30Z",
+      "url": "https://www.openstreetmap.org/way/214744086"
+    },
+    {
+      "type": "way",
+      "id": 214744087,
+      "version": 3,
+      "timestamp": "2021-12-29T22:36:31Z",
+      "url": "https://www.openstreetmap.org/way/214744087"
+    },
+    {
+      "type": "way",
+      "id": 214744089,
+      "version": 2,
+      "timestamp": "2014-06-04T13:59:30Z",
+      "url": "https://www.openstreetmap.org/way/214744089"
+    },
+    {
+      "type": "way",
+      "id": 214744090,
+      "version": 2,
+      "timestamp": "2014-06-04T13:59:30Z",
+      "url": "https://www.openstreetmap.org/way/214744090"
+    },
+    {
+      "type": "way",
+      "id": 1016693500,
+      "version": 2,
+      "timestamp": "2023-08-18T23:41:54Z",
+      "url": "https://www.openstreetmap.org/way/1016693500"
+    },
+    {
+      "type": "way",
+      "id": 1016693502,
+      "version": 2,
+      "timestamp": "2022-01-04T00:15:42Z",
+      "url": "https://www.openstreetmap.org/way/1016693502"
+    }
+  ],
+  "wikidata": "Q1156778",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/nyc-municipal-building.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "David N. Dinkins Manhattan Municipal Building, 1 Centre Street — procedural, CC0-1.0, no textures. bun generators/nyc-municipal-building.ts",
+    "Map frame: x = model east (Park Row / Brooklyn Bridge side), y = model north, z up, metres. The court and the colonnade face model west, onto Centre Street and City Hall. Placed at bearing 36°, the axis of the long walls. Anchor: area centroid of the OSM multipolygon relation/13625437.",
+    "Evidence",
+    "OSM relation/13625437: the outer ring (a 54 × 119 m slab whose east side is cut back on two long diagonals) and the inner ring, the court; building:parts 214744070 (the slab), 1016693502 (the 25 m colonnade screen across the court's mouth), 1016693500/214744075 (tagged as pyramidal roofs on the wing ends; the photos show a flat roof with a balustrade, which is drawn), 214744073/074/071/072/081/077 (the tower's square stage, octagonal stage, colonnaded drum, lantern and statue) and 214744080–090 (the four corner turrets and their spires).",
+    "Lidar: USGS 3DEP NY_NewYorkCity, flown 2017, resampled into the model frame: the slab's roof 107–114 m (the middle higher than the wings; ~117 m spots on the wing ends, rooftop plant), the colonnade 24–25 m, the court open to the ground, the tower stages ~128–133, ~142–147 and ~162–163 m, the lantern to ~170 m and the statue's top ~179 m.",
+    "Published: 177 m to the top of Civic Fame, 40 floors, McKim, Mead & White (William M. Kendall), 1914 (Wikipedia; NRHP 72000883). Granite and warm cream limestone; a Corinthian colonnade with a central arch over Chambers Street; the gilded copper statue Civic Fame by Adolph Weinman.",
+    "Photos (Wikimedia Commons): /tmp/city/nyc/work/nyc-municipal-building/photos/credits.txt",
+    "Estimated: the column count and spacing of the screen and the drum; the arch's size (about four storeys, photos); the statue, drawn as a bold gilded figure on a gilded plinth, its top at ~180.5 m (lidar ~179); the panel rhythm (pairs of windows between pilasters, three floors a panel).",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"nyc-municipal-building\", model \"nyc-municipal-building\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/nyc-municipal-building.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

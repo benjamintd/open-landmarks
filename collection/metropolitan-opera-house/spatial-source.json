@@ -1,0 +1,410 @@
+{
+  "id": "metropolitan-opera-house",
+  "anchor": [
+    -73.9847275,
+    40.7728499
+  ],
+  "coordinateSystem": "Local metres about the anchor (equirectangular, WGS84 radius): X east, Y north, Z up. glTF export: X east, Y up, Z south. Heading already baked.",
+  "license": "ODbL-1.0",
+  "footprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          75.35823931746222,
+          -10.01875417141082
+        ],
+        [
+          72.55095732940578,
+          -15.028131257116229
+        ],
+        [
+          52.849401753776576,
+          -50.30527788886912
+        ],
+        [
+          49.8819445170696,
+          -55.6263495492743
+        ],
+        [
+          -16.852122205277027,
+          -18.36771598039252
+        ],
+        [
+          -21.235865850221742,
+          -26.21574008127827
+        ],
+        [
+          -66.05964462238713,
+          -1.502813125078845
+        ],
+        [
+          -62.139566170715305,
+          6.089176146363239
+        ],
+        [
+          -69.94600196989957,
+          10.230261204016815
+        ],
+        [
+          -44.494997999123974,
+          56.88425979570085
+        ],
+        [
+          7.654690827472078,
+          28.019115832638438
+        ],
+        [
+          69.41489456710991,
+          -6.8906764799495495
+        ],
+        [
+          75.35823931746222,
+          -10.01875417141082
+        ]
+      ]
+    ]
+  },
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -73.9838336,
+          40.7727599
+        ],
+        [
+          -73.9838669,
+          40.7727149
+        ],
+        [
+          -73.9841006,
+          40.772398
+        ],
+        [
+          -73.9841358,
+          40.7723502
+        ],
+        [
+          -73.9849274,
+          40.7726849
+        ],
+        [
+          -73.9849794,
+          40.7726144
+        ],
+        [
+          -73.9855111,
+          40.7728364
+        ],
+        [
+          -73.9854646,
+          40.7729046
+        ],
+        [
+          -73.9855572,
+          40.7729418
+        ],
+        [
+          -73.9852553,
+          40.7733609
+        ],
+        [
+          -73.9846367,
+          40.7731016
+        ],
+        [
+          -73.9839041,
+          40.772788
+        ],
+        [
+          -73.9838336,
+          40.7727599
+        ]
+      ]
+    ]
+  },
+  "parts": [
+    {
+      "osm": "way/265354534",
+      "tags": {
+        "access": "yes",
+        "addr:city": "New York",
+        "addr:housenumber": "30",
+        "addr:postcode": "10023",
+        "addr:state": "NY",
+        "addr:street": "Lincoln Center Plaza",
+        "air_conditioning": "yes",
+        "amenity": "theatre",
+        "building": "civic",
+        "building:colour": "white",
+        "building:material": "marble",
+        "check_date": "2024-06-20",
+        "ele": "21",
+        "gnis:feature_id": "2044308",
+        "height": "37.7",
+        "loc_name": "The Met",
+        "name": "Metropolitan Opera House",
+        "nycdoitt:bin": "1081022",
+        "operator": "Lincoln Center for the Performing Arts",
+        "operator:type": "ngo",
+        "operator:wikidata": "Q58001403",
+        "roof:shape": "flat",
+        "smoking": "no",
+        "theatre:type": "opera_house",
+        "wheelchair": "yes",
+        "wikidata": "Q188031",
+        "wikipedia": "en:Metropolitan Opera House (Lincoln Center)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.35823931746222,
+              -10.01875417141082
+            ],
+            [
+              72.55095732940578,
+              -15.028131257116229
+            ],
+            [
+              52.849401753776576,
+              -50.30527788886912
+            ],
+            [
+              49.8819445170696,
+              -55.6263495492743
+            ],
+            [
+              -16.852122205277027,
+              -18.36771598039252
+            ],
+            [
+              -21.235865850221742,
+              -26.21574008127827
+            ],
+            [
+              -66.05964462238713,
+              -1.502813125078845
+            ],
+            [
+              -62.139566170715305,
+              6.089176146363239
+            ],
+            [
+              -69.94600196989957,
+              10.230261204016815
+            ],
+            [
+              -44.494997999123974,
+              56.88425979570085
+            ],
+            [
+              7.654690827472078,
+              28.019115832638438
+            ],
+            [
+              69.41489456710991,
+              -6.8906764799495495
+            ],
+            [
+              75.35823931746222,
+              -10.01875417141082
+            ]
+          ]
+        ]
+      },
+      "version": 18,
+      "timestamp": "2026-09-13T03:11:05Z"
+    },
+    {
+      "osm": "way/330177538",
+      "tags": {
+        "building:part": "yes",
+        "height": "25",
+        "nycdoitt:bin": "1081022"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -62.139566170715305,
+              6.089176146363239
+            ],
+            [
+              -69.94600196989957,
+              10.230261204016815
+            ],
+            [
+              -44.494997999123974,
+              56.88425979570085
+            ],
+            [
+              7.654690827472078,
+              28.019115832638438
+            ],
+            [
+              75.35823931746222,
+              -10.01875417141082
+            ],
+            [
+              72.55095732940578,
+              -15.028131257116229
+            ],
+            [
+              52.849401753776576,
+              -50.30527788886912
+            ],
+            [
+              49.8819445170696,
+              -55.6263495492743
+            ],
+            [
+              -16.852122205277027,
+              -18.36771598039252
+            ],
+            [
+              -62.139566170715305,
+              6.089176146363239
+            ]
+          ]
+        ]
+      },
+      "version": 3,
+      "timestamp": "2026-02-08T03:33:41Z"
+    },
+    {
+      "osm": "way/1475173703",
+      "tags": {
+        "building:part": "yes",
+        "height": "19"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -62.139566170715305,
+              6.089176146363239
+            ],
+            [
+              -66.05964462238713,
+              -1.502813125078845
+            ],
+            [
+              -21.235865850221742,
+              -26.21574008127827
+            ],
+            [
+              -16.852122205277027,
+              -18.36771598039252
+            ],
+            [
+              -62.139566170715305,
+              6.089176146363239
+            ]
+          ]
+        ]
+      },
+      "version": 1,
+      "timestamp": "2026-02-08T03:33:41Z"
+    },
+    {
+      "osm": "way/1475173704",
+      "tags": {
+        "building:part": "yes",
+        "height": "37.7"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -33.501917780805805,
+              39.0286134726137
+            ],
+            [
+              4.451185855659473,
+              18.211868693833612
+            ],
+            [
+              -11.380872925135977,
+              -10.664407217647247
+            ],
+            [
+              -49.34240683734159,
+              10.16346950955129
+            ],
+            [
+              -33.501917780805805,
+              39.0286134726137
+            ]
+          ]
+        ]
+      },
+      "version": 1,
+      "timestamp": "2026-02-08T03:33:41Z"
+    }
+  ],
+  "osm": {
+    "type": "way",
+    "id": 265354534,
+    "version": 18,
+    "timestamp": "2026-09-13T03:11:05Z",
+    "url": "https://www.openstreetmap.org/way/265354534"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 330177538,
+      "version": 3,
+      "timestamp": "2026-02-08T03:33:41Z",
+      "url": "https://www.openstreetmap.org/way/330177538"
+    },
+    {
+      "type": "way",
+      "id": 1475173703,
+      "version": 1,
+      "timestamp": "2026-02-08T03:33:41Z",
+      "url": "https://www.openstreetmap.org/way/1475173703"
+    },
+    {
+      "type": "way",
+      "id": 1475173704,
+      "version": 1,
+      "timestamp": "2026-02-08T03:33:41Z",
+      "url": "https://www.openstreetmap.org/way/1475173704"
+    }
+  ],
+  "tags": {
+    "access": "yes",
+    "addr:city": "New York",
+    "addr:housenumber": "30",
+    "addr:postcode": "10023",
+    "addr:state": "NY",
+    "addr:street": "Lincoln Center Plaza",
+    "air_conditioning": "yes",
+    "amenity": "theatre",
+    "building": "civic",
+    "building:colour": "white",
+    "building:material": "marble",
+    "check_date": "2024-06-20",
+    "ele": "21",
+    "gnis:feature_id": "2044308",
+    "height": "37.7",
+    "loc_name": "The Met",
+    "name": "Metropolitan Opera House",
+    "nycdoitt:bin": "1081022",
+    "operator": "Lincoln Center for the Performing Arts",
+    "operator:type": "ngo",
+    "operator:wikidata": "Q58001403",
+    "roof:shape": "flat",
+    "smoking": "no",
+    "theatre:type": "opera_house",
+    "wheelchair": "yes",
+    "wikidata": "Q188031",
+    "wikipedia": "en:Metropolitan Opera House (Lincoln Center)"
+  }
+}

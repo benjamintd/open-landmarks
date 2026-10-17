@@ -1,0 +1,148 @@
+{
+  "id": "cleopatras-needle",
+  "anchor": [
+    -73.965396,
+    40.779636
+  ],
+  "coordinateSystem": "Local metres about the anchor (equirectangular, WGS84 radius): X east, Y north, Z up. glTF export: X east, Y up, Z south. Heading already baked.",
+  "license": "ODbL-1.0",
+  "footprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -3.0093012055560844,
+          5.232016066729848
+        ],
+        [
+          5.318960953928737,
+          2.7495914222959756
+        ],
+        [
+          2.933436468989638,
+          -5.265411915149069
+        ],
+        [
+          -5.394825690495183,
+          -2.7829872699242246
+        ],
+        [
+          -3.0093012055560844,
+          5.232016066729848
+        ]
+      ]
+    ]
+  },
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -73.9654317,
+          40.779683
+        ],
+        [
+          -73.9653329,
+          40.7796607
+        ],
+        [
+          -73.9653612,
+          40.7795887
+        ],
+        [
+          -73.96546,
+          40.779611
+        ],
+        [
+          -73.9654317,
+          40.779683
+        ]
+      ]
+    ]
+  },
+  "parts": [
+    {
+      "osm": "way/179685272",
+      "tags": {
+        "alt_name": "Obelisk",
+        "height": "21",
+        "historic": "monument",
+        "historic:civilization": "ancient_egyptian",
+        "man_made": "obelisk",
+        "material": "granite",
+        "name": "Cleopatra's Needle",
+        "name:be": "Іголка Клеапатры",
+        "name:en": "Cleopatra's Needle",
+        "name:pl": "Igła Kleopatry",
+        "name:ru": "Игла Клеопатры",
+        "start_date": "1881-02-22",
+        "support": "pedestal",
+        "tourism": "attraction",
+        "website": "https://www.centralparknyc.org/locations/obelisk",
+        "website:alternate": "https://www.nycgovparks.org/parks/central-park/monuments/1129",
+        "wheelchair": "yes",
+        "wikidata": "Q23889472",
+        "wikipedia": "en:Cleopatra's Needle (New York City)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -3.0093012055560844,
+              5.232016066729848
+            ],
+            [
+              5.318960953928737,
+              2.7495914222959756
+            ],
+            [
+              2.933436468989638,
+              -5.265411915149069
+            ],
+            [
+              -5.394825690495183,
+              -2.7829872699242246
+            ],
+            [
+              -3.0093012055560844,
+              5.232016066729848
+            ]
+          ]
+        ]
+      },
+      "version": 9,
+      "timestamp": "2024-10-18T22:33:10Z"
+    }
+  ],
+  "osm": {
+    "type": "way",
+    "id": 179685272,
+    "version": 9,
+    "timestamp": "2024-10-18T22:33:10Z",
+    "url": "https://www.openstreetmap.org/way/179685272"
+  },
+  "additionalOsm": [],
+  "tags": {
+    "alt_name": "Obelisk",
+    "height": "21",
+    "historic": "monument",
+    "historic:civilization": "ancient_egyptian",
+    "man_made": "obelisk",
+    "material": "granite",
+    "name": "Cleopatra's Needle",
+    "name:be": "Іголка Клеапатры",
+    "name:en": "Cleopatra's Needle",
+    "name:pl": "Igła Kleopatry",
+    "name:ru": "Игла Клеопатры",
+    "start_date": "1881-02-22",
+    "support": "pedestal",
+    "tourism": "attraction",
+    "website": "https://www.centralparknyc.org/locations/obelisk",
+    "website:alternate": "https://www.nycgovparks.org/parks/central-park/monuments/1129",
+    "wheelchair": "yes",
+    "wikidata": "Q23889472",
+    "wikipedia": "en:Cleopatra's Needle (New York City)"
+  },
+  "note": "This landmark replaces no mapped building; the OSM feature cited is the one that names it."
+}

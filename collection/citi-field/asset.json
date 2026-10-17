@@ -1,0 +1,503 @@
+{
+  "id": "citi-field",
+  "name": "Citi Field",
+  "anchor": [
+    -73.845831,
+    40.757062
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 243064,
+      "sha256": "6c09990e5bc3505741370a6566bd8afc5e56ef374e65d329e70a9a9d1453a7c9"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 243064,
+      "sha256": "6c09990e5bc3505741370a6566bd8afc5e56ef374e65d329e70a9a9d1453a7c9"
+    }
+  },
+  "triangles": 4870,
+  "boundsBlenderM": [
+    [
+      -137.026,
+      -162.618,
+      0
+    ],
+    [
+      132.439,
+      113.108,
+      59
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -73.8473009,
+          40.7576464
+        ],
+        [
+          -73.8474514,
+          40.7576018
+        ],
+        [
+          -73.8471853,
+          40.7570049
+        ],
+        [
+          -73.8471407,
+          40.7569115
+        ],
+        [
+          -73.8469512,
+          40.7565334
+        ],
+        [
+          -73.8468893,
+          40.7564099
+        ],
+        [
+          -73.8468401,
+          40.7563117
+        ],
+        [
+          -73.8467924,
+          40.7562165
+        ],
+        [
+          -73.8466876,
+          40.7560073
+        ],
+        [
+          -73.8466144,
+          40.7558612
+        ],
+        [
+          -73.8465573,
+          40.7557472
+        ],
+        [
+          -73.8465486,
+          40.7557353
+        ],
+        [
+          -73.8465234,
+          40.755701
+        ],
+        [
+          -73.8464666,
+          40.7556518
+        ],
+        [
+          -73.8463936,
+          40.7556136
+        ],
+        [
+          -73.8463406,
+          40.7555995
+        ],
+        [
+          -73.8462999,
+          40.755595
+        ],
+        [
+          -73.8462621,
+          40.7555945
+        ],
+        [
+          -73.8462047,
+          40.755601
+        ],
+        [
+          -73.8460858,
+          40.7556417
+        ],
+        [
+          -73.8460678,
+          40.755654
+        ],
+        [
+          -73.8460376,
+          40.7556746
+        ],
+        [
+          -73.8459649,
+          40.7557313
+        ],
+        [
+          -73.84586,
+          40.7558033
+        ],
+        [
+          -73.8457571,
+          40.7558744
+        ],
+        [
+          -73.8456279,
+          40.7559634
+        ],
+        [
+          -73.8455032,
+          40.7560525
+        ],
+        [
+          -73.8454261,
+          40.7561077
+        ],
+        [
+          -73.8453307,
+          40.7561688
+        ],
+        [
+          -73.8452153,
+          40.7562471
+        ],
+        [
+          -73.8450915,
+          40.756329
+        ],
+        [
+          -73.8449908,
+          40.7563956
+        ],
+        [
+          -73.8448208,
+          40.7565081
+        ],
+        [
+          -73.8447659,
+          40.7565445
+        ],
+        [
+          -73.8445461,
+          40.7566876
+        ],
+        [
+          -73.8443671,
+          40.7568112
+        ],
+        [
+          -73.8443907,
+          40.7568662
+        ],
+        [
+          -73.8442701,
+          40.7569032
+        ],
+        [
+          -73.8442656,
+          40.756919
+        ],
+        [
+          -73.8442896,
+          40.7569617
+        ],
+        [
+          -73.8443023,
+          40.7569841
+        ],
+        [
+          -73.844319,
+          40.7570141
+        ],
+        [
+          -73.8443378,
+          40.7570475
+        ],
+        [
+          -73.8443566,
+          40.757081
+        ],
+        [
+          -73.8444819,
+          40.7573216
+        ],
+        [
+          -73.8445718,
+          40.7574924
+        ],
+        [
+          -73.8446916,
+          40.7577197
+        ],
+        [
+          -73.8448046,
+          40.7579344
+        ],
+        [
+          -73.8448278,
+          40.7579783
+        ],
+        [
+          -73.8449117,
+          40.7581377
+        ],
+        [
+          -73.8449012,
+          40.758141
+        ],
+        [
+          -73.844904,
+          40.7581464
+        ],
+        [
+          -73.8449701,
+          40.758273
+        ],
+        [
+          -73.845078,
+          40.7584798
+        ],
+        [
+          -73.8453831,
+          40.7583907
+        ],
+        [
+          -73.8455439,
+          40.7583437
+        ],
+        [
+          -73.8455808,
+          40.7583328
+        ],
+        [
+          -73.8457177,
+          40.7582909
+        ],
+        [
+          -73.8457551,
+          40.7582802
+        ],
+        [
+          -73.8457915,
+          40.7583501
+        ],
+        [
+          -73.8460276,
+          40.7582797
+        ],
+        [
+          -73.8459672,
+          40.7581609
+        ],
+        [
+          -73.8460035,
+          40.7581499
+        ],
+        [
+          -73.8459848,
+          40.758112
+        ],
+        [
+          -73.8458709,
+          40.758149
+        ],
+        [
+          -73.8458345,
+          40.7580744
+        ],
+        [
+          -73.8458076,
+          40.7580187
+        ],
+        [
+          -73.8459539,
+          40.7579756
+        ],
+        [
+          -73.8459677,
+          40.7580001
+        ],
+        [
+          -73.8468443,
+          40.7577422
+        ],
+        [
+          -73.846832,
+          40.7577177
+        ],
+        [
+          -73.8469075,
+          40.7576978
+        ],
+        [
+          -73.8469521,
+          40.7576383
+        ],
+        [
+          -73.8472479,
+          40.7575508
+        ],
+        [
+          -73.8473009,
+          40.7576464
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 604023701,
+    "version": 15,
+    "timestamp": "2026-08-28T19:46:52Z",
+    "url": "https://www.openstreetmap.org/way/604023701"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 1445223372,
+      "version": 4,
+      "timestamp": "2026-08-28T19:32:08Z",
+      "url": "https://www.openstreetmap.org/way/1445223372"
+    },
+    {
+      "type": "way",
+      "id": 1445222220,
+      "version": 5,
+      "timestamp": "2026-08-28T19:46:52Z",
+      "url": "https://www.openstreetmap.org/way/1445222220"
+    },
+    {
+      "type": "way",
+      "id": 1445222221,
+      "version": 2,
+      "timestamp": "2026-08-28T19:32:08Z",
+      "url": "https://www.openstreetmap.org/way/1445222221"
+    },
+    {
+      "type": "way",
+      "id": 1445222222,
+      "version": 3,
+      "timestamp": "2026-08-28T19:32:08Z",
+      "url": "https://www.openstreetmap.org/way/1445222222"
+    },
+    {
+      "type": "way",
+      "id": 604024892,
+      "version": 6,
+      "timestamp": "2026-08-10T12:08:50Z",
+      "url": "https://www.openstreetmap.org/way/604024892"
+    },
+    {
+      "type": "way",
+      "id": 1518492091,
+      "version": 2,
+      "timestamp": "2026-08-28T19:32:08Z",
+      "url": "https://www.openstreetmap.org/way/1518492091"
+    },
+    {
+      "type": "way",
+      "id": 1553291644,
+      "version": 1,
+      "timestamp": "2026-08-28T19:46:52Z",
+      "url": "https://www.openstreetmap.org/way/1553291644"
+    },
+    {
+      "type": "way",
+      "id": 1060517536,
+      "version": 1,
+      "timestamp": "2022-05-16T12:26:12Z",
+      "url": "https://www.openstreetmap.org/way/1060517536"
+    },
+    {
+      "type": "way",
+      "id": 1553289790,
+      "version": 1,
+      "timestamp": "2026-08-28T19:32:08Z",
+      "url": "https://www.openstreetmap.org/way/1553289790"
+    }
+  ],
+  "wikidata": "Q1072882",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Citi Field and Apple.JPG",
+      "author": "Richiek",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Citi_Field_and_Apple.JPG",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Aerial Shot of Citi Field Opening Day April 13th 2009.jpg",
+      "author": "Malrite",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Aerial_Shot_of_Citi_Field_Opening_Day_April_13th_2009.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Citi Field August 2021.jpg",
+      "author": "Kidfly182",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Citi_Field_August_2021.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Citi Field facade.jpg",
+      "author": "lisatozzi",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Citi_Field_facade.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Etihad Park and Citi Field aerial view.jpg",
+      "author": "Aude",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Etihad_Park_and_Citi_Field_aerial_view.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Citi Field NY Mets 202.jpg",
+      "author": "Zakarie Faibis",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Citi_Field_NY_Mets_202.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/nyc-citi-field.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Citi Field (2009), Queens: the Mets' ballpark. A red-brick and limestone wall in the manner of Ebbets Field, two storeys of arches, swelling into the curved front of the Jackie Robinson Rotunda behind home plate; behind it the black steel stands with dark green seats under a thin canopy, the tall black lattice light towers on the roof, the right-field porch and the big centre-field scoreboard. Original procedural geometry, CC0-1.0. bun generators/nyc-citi-field.ts",
+    "Stadium rule (STYLE.md \"Ground\"): the stands, roofs, walls, towers and boards only; the field, the bullpens' grass and the plazas are the map's.",
+    "Frame: BEARING 0, x east, y north, z up, metres. Origin = area centroid of the OSM outline way/604023701 (-73.845831, 40.757062). z = 0 is the street and plaza round the ballpark, 3.1 m NAVD88 (lidar ground returns); the field is about 1 m above it, so this is not a sunken bowl and elevation is 0.",
+    "Evidence",
+    "OSM way/604023701 (leisure=stadium, \"Citi Field\", Q1072882) and the buildings inside it: way/1445223372 (building=grandstand, the bowl), 1445222220 (the rotunda block), 1445222222 (the third-base side), 1445222221 and 604024892 (the right-field corner and porch), 1518492091 (right-centre), 1553291644 (a shelter at the rotunda), and the parts 1060517536 (Jackie Robinson Plaza) and 1553289790 (the Home Run Apple, inside the batter's-eye block). No heights in OSM.",
+    "USGS 3DEP lidar NY_NewYorkCity (2017) at 1 m (/tmp/city/nyc/work/ nyc-citi-field/lid.json), sampled on rays from (-5, 5) every 5 degrees. Heights above the street: the lower bowl from the field wall up to 4, a riser to 9 and a second tier to 11; the decks above from 16 at their front to 32; the canopy at 40, 9-10 m deep; the brick wall's top 28, the roofs behind it (widest at the rotunda) 25-28. The stands run from the left-field corner (100 degrees) round home plate (south-west) to right field (335). Right field: the porch stands rising from 13 to 22, the bullpens' roofs at 9, the buildings behind at 20-21 and 13. Centre field: the block round the batter's eye at 10, the scoreboard 53 m wide rising to 54 (sign 56.5). Light towers to 57-60: one on each side of the rotunda, one in left field, a long one over the right-field porch (51-58).",
+    "Published (Wikipedia): opened 2009, Populous (HOK Sport); exterior of brick, limestone, granite and cast stone recalling Ebbets Field; the rotunda honours Jackie Robinson; the 2016 video board is 175 by 60 ft (53 by 18 m).",
+    "Photos (Wikimedia Commons, credits in /tmp/city/nyc/work/nyc-citi-field/ photos/credits.txt): \"Citi Field and Apple.JPG\" (Richiek, CC BY-SA 3.0: the rotunda front, its two tiers of arches, the light towers either side); \"Aerial Shot of Citi Field Opening Day April 13th 2009.jpg\" (Malrite, CC BY-SA 3.0: the whole ballpark from the south, the pale roofs behind the brick, the black stands, the scoreboard and porch); \"Citi Field August 2021.jpg\", \"... 001.jpg\", \"... 003.jpg\" (Kidfly182, CC BY-SA 4.0: the rotunda and the long brick sides, the right-field gate); \"Citi Field facade.jpg\" (lisatozzi, CC BY 2.0); \"Etihad Park and Citi Field aerial view.jpg\" and \"... in September 2026.jpg\" (Aude, CC BY-SA 4.0, from the east); \"Citi Field NY Mets 202.jpg\" (Zakarie Faibis, CC BY-SA 4.0, the back of the scoreboard). USGS NAIP for the plan.",
+    "Estimated from the photos: the arch rhythm (7 m bays), the belt course and cornice heights, the lower arcade only round the rotunda; the light towers drawn as black frames with a lamp bank on top; the scoreboard as one slab from the outfield roofs up. The lettering, flags, the Home Run Apple and the Shea Bridge are left out.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"nyc-citi-field\", model \"nyc-citi-field\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/nyc-citi-field.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

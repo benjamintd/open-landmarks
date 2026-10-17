@@ -1,0 +1,383 @@
+{
+  "id": "castle-williams",
+  "name": "Castle Williams",
+  "anchor": [
+    -74.0193366,
+    40.6928249
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 115160,
+      "sha256": "70c1786e8fb242e4a8d67e54173e9b9915a154498a5ace9735235bc6bbf4bd83"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 115160,
+      "sha256": "70c1786e8fb242e4a8d67e54173e9b9915a154498a5ace9735235bc6bbf4bd83"
+    }
+  },
+  "triangles": 2382,
+  "boundsBlenderM": [
+    [
+      -32.246,
+      -30.432,
+      0
+    ],
+    [
+      32.453,
+      32.027,
+      15
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -74.0190238,
+          40.6929615
+        ],
+        [
+          -74.0190101,
+          40.6929409
+        ],
+        [
+          -74.0189991,
+          40.6929194
+        ],
+        [
+          -74.0189908,
+          40.6928971
+        ],
+        [
+          -74.0189877,
+          40.6928858
+        ],
+        [
+          -74.0189836,
+          40.6928629
+        ],
+        [
+          -74.0189827,
+          40.6928514
+        ],
+        [
+          -74.018983,
+          40.6928282
+        ],
+        [
+          -74.0189863,
+          40.6928053
+        ],
+        [
+          -74.0189924,
+          40.6927826
+        ],
+        [
+          -74.0189826,
+          40.6927228
+        ],
+        [
+          -74.0189792,
+          40.6927019
+        ],
+        [
+          -74.018977,
+          40.6926852
+        ],
+        [
+          -74.0189672,
+          40.6926091
+        ],
+        [
+          -74.0190428,
+          40.6925996
+        ],
+        [
+          -74.0191681,
+          40.6925839
+        ],
+        [
+          -74.019192,
+          40.6925809
+        ],
+        [
+          -74.0192071,
+          40.6925758
+        ],
+        [
+          -74.019238,
+          40.6925673
+        ],
+        [
+          -74.0192698,
+          40.6925608
+        ],
+        [
+          -74.019286,
+          40.6925584
+        ],
+        [
+          -74.0193187,
+          40.6925553
+        ],
+        [
+          -74.0193351,
+          40.6925546
+        ],
+        [
+          -74.0193516,
+          40.6925544
+        ],
+        [
+          -74.0193845,
+          40.6925558
+        ],
+        [
+          -74.0194171,
+          40.6925594
+        ],
+        [
+          -74.0194491,
+          40.6925652
+        ],
+        [
+          -74.0194648,
+          40.6925689
+        ],
+        [
+          -74.0194955,
+          40.6925779
+        ],
+        [
+          -74.0195251,
+          40.692589
+        ],
+        [
+          -74.0195532,
+          40.692602
+        ],
+        [
+          -74.0195667,
+          40.6926092
+        ],
+        [
+          -74.0195923,
+          40.692625
+        ],
+        [
+          -74.0196159,
+          40.6926425
+        ],
+        [
+          -74.0196373,
+          40.6926615
+        ],
+        [
+          -74.0196472,
+          40.6926715
+        ],
+        [
+          -74.0196652,
+          40.6926925
+        ],
+        [
+          -74.0196806,
+          40.6927147
+        ],
+        [
+          -74.0196873,
+          40.6927261
+        ],
+        [
+          -74.0196986,
+          40.6927497
+        ],
+        [
+          -74.0197072,
+          40.6927739
+        ],
+        [
+          -74.0197104,
+          40.6927862
+        ],
+        [
+          -74.0197146,
+          40.692811
+        ],
+        [
+          -74.0197158,
+          40.6928361
+        ],
+        [
+          -74.0197142,
+          40.6928611
+        ],
+        [
+          -74.0197096,
+          40.6928859
+        ],
+        [
+          -74.0197002,
+          40.6929113
+        ],
+        [
+          -74.0196879,
+          40.692936
+        ],
+        [
+          -74.0196727,
+          40.6929597
+        ],
+        [
+          -74.0196549,
+          40.6929823
+        ],
+        [
+          -74.0196344,
+          40.6930036
+        ],
+        [
+          -74.0196115,
+          40.6930234
+        ],
+        [
+          -74.0195864,
+          40.6930416
+        ],
+        [
+          -74.0195593,
+          40.693058
+        ],
+        [
+          -74.0195303,
+          40.6930725
+        ],
+        [
+          -74.0194998,
+          40.6930849
+        ],
+        [
+          -74.0194679,
+          40.6930953
+        ],
+        [
+          -74.019435,
+          40.6931034
+        ],
+        [
+          -74.019402,
+          40.6931078
+        ],
+        [
+          -74.0193686,
+          40.69311
+        ],
+        [
+          -74.0193351,
+          40.6931099
+        ],
+        [
+          -74.0193184,
+          40.693109
+        ],
+        [
+          -74.0192853,
+          40.6931055
+        ],
+        [
+          -74.0192526,
+          40.6930997
+        ],
+        [
+          -74.0192208,
+          40.6930918
+        ],
+        [
+          -74.0191901,
+          40.6930817
+        ],
+        [
+          -74.0191752,
+          40.6930759
+        ],
+        [
+          -74.0191464,
+          40.6930628
+        ],
+        [
+          -74.0191194,
+          40.6930478
+        ],
+        [
+          -74.0190942,
+          40.693031
+        ],
+        [
+          -74.019071,
+          40.6930126
+        ],
+        [
+          -74.0190501,
+          40.6929927
+        ],
+        [
+          -74.0190238,
+          40.6929615
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "relation",
+    "id": 3700068,
+    "version": 5,
+    "timestamp": "2020-09-06T17:56:19Z",
+    "url": "https://www.openstreetmap.org/relation/3700068"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q1049532",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/nyc-castle-williams.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Castle Williams, Governors Island — procedural, CC0-1.0, no textures. bun generators/nyc-castle-williams.ts",
+    "Map frame: x = model east, y = model north, z up, metres. Placed at bearing -3.2° (the outline's fitted axis; the plan is round, so it only sets which way the gorge's straight walls run). Anchor: area centroid of the OSM multipolygon relation/3700068.",
+    "Evidence",
+    "OSM relation/3700068 (outline: a circle 61.6 m across, centre at (-0.95, 0.85) in the model frame, with its south-east quarter squared off by two straight walls meeting at (29.6, -26); height 14.9 m). No building parts.",
+    "Lidar: USGS 3DEP NY_NewYorkCity (2017), in the model frame (/tmp/city/nyc/work/nyc-castle-williams/bands.png). The ground round the fort lies at 2.2–2.9 m NAVD88 (y = 0 at 2.2 m). The ring's parapet rim 15.0 m, its roof terrace 13.1 m, the court face at r ≈ 18 m; the court at ground level. The ring stands full height to two square cuts, y = -6.5 on the east face and x = 9 on the south face; the gorge block between them, in the squared-off corner, stands 8.0 m. Two small round stair towers in the court reach ~11.7 m.",
+    "NAIP orthophoto (USGS, public domain): the ring roof, the two round stair towers in the court, the gorge's flat roof.",
+    "Published: 1807–1811, Jonathan Williams; red Newark sandstone, about 200 ft (61 m) across, walls 7–8 ft thick at the top, three tiers of casemates for the guns, an open court; a prison 1912–1966 (Wikipedia; NPS).",
+    "Photos, credits in /tmp/city/nyc/work/nyc-castle-williams/photos/credits.txt: from the harbour, west (Joe Mabel, CC BY-SA 3.0); the gorge and its end blocks from the south-east (NPS, public domain); the sally port (Axel Tschentscher, CC BY-SA 4.0); a 1980s HABS helicopter view from the north (public domain); others by ChrisRuvolo, King of Hearts and Beyond My Ken (CC BY-SA 4.0).",
+    "Estimated: the gun ports' size (1.2 m) and count (27 to a tier round the curve), the tiers' heights (centred 1.6, 5.4 and 9.3 m, from the harbour photo scaled to the lidar's rim), the coping profile, the gorge's windows and the sally port's place on its south wall, the corner bartizan. The court and its paving are the map's, not modelled.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"nyc-castle-williams\", model \"nyc-castle-williams\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/nyc-castle-williams.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 143 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the nyc-castle-williams-glazing finish in the window colour."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

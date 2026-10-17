@@ -1,0 +1,401 @@
+{
+  "id": "soldiers-and-sailors-arch",
+  "name": "Soldiers' and Sailors' Arch",
+  "anchor": [
+    -73.9699033,
+    40.6729891
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 217620,
+      "sha256": "50ecd9e981112d74f287c0c3c0c23efb3d0b053c1c03cfabf5269372b824b9a8"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 217620,
+      "sha256": "50ecd9e981112d74f287c0c3c0c23efb3d0b053c1c03cfabf5269372b824b9a8"
+    }
+  },
+  "triangles": 6216,
+  "boundsBlenderM": [
+    [
+      -12.127,
+      -7.093,
+      0
+    ],
+    [
+      12.226,
+      7.109,
+      32.63
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -73.9700473,
+          40.6730065
+        ],
+        [
+          -73.9700415,
+          40.6730072
+        ],
+        [
+          -73.9700444,
+          40.6730213
+        ],
+        [
+          -73.969996,
+          40.6730271
+        ],
+        [
+          -73.9699931,
+          40.6730129
+        ],
+        [
+          -73.9699873,
+          40.6730136
+        ],
+        [
+          -73.9699853,
+          40.6730037
+        ],
+        [
+          -73.9699724,
+          40.6730052
+        ],
+        [
+          -73.9699596,
+          40.6730067
+        ],
+        [
+          -73.9699467,
+          40.6730082
+        ],
+        [
+          -73.9699339,
+          40.6730097
+        ],
+        [
+          -73.969921,
+          40.6730113
+        ],
+        [
+          -73.9699082,
+          40.6730128
+        ],
+        [
+          -73.9698953,
+          40.6730143
+        ],
+        [
+          -73.9698825,
+          40.6730158
+        ],
+        [
+          -73.9698697,
+          40.6730173
+        ],
+        [
+          -73.9698568,
+          40.6730189
+        ],
+        [
+          -73.969844,
+          40.6730204
+        ],
+        [
+          -73.9698311,
+          40.6730219
+        ],
+        [
+          -73.9698332,
+          40.6730319
+        ],
+        [
+          -73.9698273,
+          40.6730326
+        ],
+        [
+          -73.9698302,
+          40.6730467
+        ],
+        [
+          -73.9697818,
+          40.6730524
+        ],
+        [
+          -73.9697789,
+          40.6730383
+        ],
+        [
+          -73.9697727,
+          40.673039
+        ],
+        [
+          -73.9697588,
+          40.6729715
+        ],
+        [
+          -73.969765,
+          40.6729708
+        ],
+        [
+          -73.9697621,
+          40.6729566
+        ],
+        [
+          -73.9698104,
+          40.6729508
+        ],
+        [
+          -73.9698134,
+          40.672965
+        ],
+        [
+          -73.9698193,
+          40.6729644
+        ],
+        [
+          -73.9698214,
+          40.6729749
+        ],
+        [
+          -73.9698343,
+          40.6729734
+        ],
+        [
+          -73.9698471,
+          40.6729719
+        ],
+        [
+          -73.96986,
+          40.6729704
+        ],
+        [
+          -73.9698728,
+          40.6729688
+        ],
+        [
+          -73.9698857,
+          40.6729673
+        ],
+        [
+          -73.9698985,
+          40.6729658
+        ],
+        [
+          -73.9699114,
+          40.6729643
+        ],
+        [
+          -73.9699242,
+          40.6729627
+        ],
+        [
+          -73.9699371,
+          40.6729612
+        ],
+        [
+          -73.9699499,
+          40.6729597
+        ],
+        [
+          -73.9699627,
+          40.6729582
+        ],
+        [
+          -73.9699756,
+          40.6729567
+        ],
+        [
+          -73.9699734,
+          40.6729461
+        ],
+        [
+          -73.9699792,
+          40.6729454
+        ],
+        [
+          -73.9699763,
+          40.6729312
+        ],
+        [
+          -73.9700247,
+          40.6729255
+        ],
+        [
+          -73.9700276,
+          40.6729397
+        ],
+        [
+          -73.9700334,
+          40.672939
+        ],
+        [
+          -73.9700473,
+          40.6730065
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 20679503,
+    "version": 15,
+    "timestamp": "2025-07-30T01:01:29Z",
+    "url": "https://www.openstreetmap.org/way/20679503"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 296157578,
+      "version": 3,
+      "timestamp": "2022-01-19T15:22:10Z",
+      "url": "https://www.openstreetmap.org/way/296157578"
+    },
+    {
+      "type": "way",
+      "id": 296157580,
+      "version": 2,
+      "timestamp": "2018-01-16T20:37:16Z",
+      "url": "https://www.openstreetmap.org/way/296157580"
+    },
+    {
+      "type": "way",
+      "id": 296157595,
+      "version": 2,
+      "timestamp": "2018-01-16T20:37:17Z",
+      "url": "https://www.openstreetmap.org/way/296157595"
+    },
+    {
+      "type": "way",
+      "id": 296157596,
+      "version": 2,
+      "timestamp": "2018-01-16T20:37:16Z",
+      "url": "https://www.openstreetmap.org/way/296157596"
+    },
+    {
+      "type": "way",
+      "id": 296157602,
+      "version": 2,
+      "timestamp": "2018-01-16T20:37:16Z",
+      "url": "https://www.openstreetmap.org/way/296157602"
+    },
+    {
+      "type": "way",
+      "id": 296157605,
+      "version": 2,
+      "timestamp": "2018-01-16T20:37:17Z",
+      "url": "https://www.openstreetmap.org/way/296157605"
+    },
+    {
+      "type": "way",
+      "id": 296157599,
+      "version": 6,
+      "timestamp": "2018-01-17T16:48:04Z",
+      "url": "https://www.openstreetmap.org/way/296157599"
+    },
+    {
+      "type": "way",
+      "id": 553599365,
+      "version": 5,
+      "timestamp": "2018-01-17T16:48:04Z",
+      "url": "https://www.openstreetmap.org/way/553599365"
+    },
+    {
+      "type": "way",
+      "id": 553599366,
+      "version": 4,
+      "timestamp": "2018-01-17T16:48:04Z",
+      "url": "https://www.openstreetmap.org/way/553599366"
+    },
+    {
+      "type": "way",
+      "id": 553599367,
+      "version": 3,
+      "timestamp": "2018-01-17T16:48:04Z",
+      "url": "https://www.openstreetmap.org/way/553599367"
+    },
+    {
+      "type": "way",
+      "id": 553599368,
+      "version": 1,
+      "timestamp": "2018-01-16T18:21:44Z",
+      "url": "https://www.openstreetmap.org/way/553599368"
+    },
+    {
+      "type": "way",
+      "id": 553599369,
+      "version": 3,
+      "timestamp": "2018-01-17T16:48:04Z",
+      "url": "https://www.openstreetmap.org/way/553599369"
+    },
+    {
+      "type": "way",
+      "id": 553599370,
+      "version": 5,
+      "timestamp": "2024-06-25T10:16:20Z",
+      "url": "https://www.openstreetmap.org/way/553599370"
+    },
+    {
+      "type": "way",
+      "id": 553599371,
+      "version": 1,
+      "timestamp": "2018-01-16T18:21:45Z",
+      "url": "https://www.openstreetmap.org/way/553599371"
+    },
+    {
+      "type": "way",
+      "id": 553599373,
+      "version": 3,
+      "timestamp": "2018-01-17T16:48:03Z",
+      "url": "https://www.openstreetmap.org/way/553599373"
+    },
+    {
+      "type": "way",
+      "id": 553599376,
+      "version": 4,
+      "timestamp": "2018-01-17T16:48:03Z",
+      "url": "https://www.openstreetmap.org/way/553599376"
+    }
+  ],
+  "wikidata": "Q7557372",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/soldiers-sailors-arch.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Soldiers' and Sailors' Memorial Arch, Grand Army Plaza, Brooklyn. Procedural CC0 geometry, styled to STYLE.md. bun generators/soldiers-sailors-arch.ts",
+    "Map frame: x = passage axis (+x is the park/south face, which carries the Army and Navy groups), y = the long facade, z = up. Placement in the catalog: 40.6729891, -73.9699033; bearing 81; elevation 0.",
+    "The footprint is the OSM envelope: masonry x ±3.85, y -11.7..11.8, with the paired-column bays reaching x ±5.4. That envelope is 0.05 m off-centre in y, so the model is built symmetric about y = 0 and shifted by +0.05 at the end, which keeps the bounds and origin exactly where they were. Reference: https://s-media.nyc.gov/agencies/lpc/lp/0821.pdf",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"soldiers-sailors-arch\", model \"soldiers-sailors-arch\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/soldiers-sailors-arch.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

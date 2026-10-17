@@ -1,0 +1,324 @@
+{
+  "id": "william-tecumseh-sherman-monument",
+  "anchor": [
+    -73.973061,
+    40.764811
+  ],
+  "coordinateSystem": "Local metres about the anchor (equirectangular, WGS84 radius): X east, Y north, Z up. glTF export: X east, Y up, Z south. Heading already baked.",
+  "license": "ODbL-1.0",
+  "footprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -0.9443051697541355,
+          -3.0835498954145772
+        ],
+        [
+          -0.5901907306470249,
+          -2.9944943025302186
+        ],
+        [
+          -0.2866640690687127,
+          -2.7941192191336413
+        ],
+        [
+          1.9476294126927896,
+          1.2467782964261578
+        ],
+        [
+          2.0740988547175463,
+          1.5918687179632036
+        ],
+        [
+          2.0825301503732665,
+          1.9480910887096656
+        ],
+        [
+          1.9729233008581089,
+          2.2931815102467112
+        ],
+        [
+          1.7705721931392338,
+          2.5826121865276472
+        ],
+        [
+          1.475476827216642,
+          2.794119218342669
+        ],
+        [
+          1.129793684963411,
+          2.9054387096458596
+        ],
+        [
+          0.7503853576909807,
+          2.894306760436444
+        ],
+        [
+          0.3962709197820295,
+          2.760723371505392
+        ],
+        [
+          0.10960685071331676,
+          2.504688542852705
+        ],
+        [
+          -2.099392742882866,
+          -1.5807367695447598
+        ],
+        [
+          -2.1668431117231046,
+          -1.9592230379190823
+        ],
+        [
+          -2.1078240385385856,
+          -2.3377093070843764
+        ],
+        [
+          -1.9223355233293105,
+          -2.671667779412006
+        ],
+        [
+          -1.635671454260598,
+          -2.9165706588552767
+        ],
+        [
+          -1.2984196076630867,
+          -3.061285996995745
+        ],
+        [
+          -0.9443051697541355,
+          -3.0835498954145772
+        ]
+      ]
+    ]
+  },
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -73.9730722,
+          40.7647833
+        ],
+        [
+          -73.973068,
+          40.7647841
+        ],
+        [
+          -73.9730644,
+          40.7647859
+        ],
+        [
+          -73.9730379,
+          40.7648222
+        ],
+        [
+          -73.9730364,
+          40.7648253
+        ],
+        [
+          -73.9730363,
+          40.7648285
+        ],
+        [
+          -73.9730376,
+          40.7648316
+        ],
+        [
+          -73.97304,
+          40.7648342
+        ],
+        [
+          -73.9730435,
+          40.7648361
+        ],
+        [
+          -73.9730476,
+          40.7648371
+        ],
+        [
+          -73.9730521,
+          40.764837
+        ],
+        [
+          -73.9730563,
+          40.7648358
+        ],
+        [
+          -73.9730597,
+          40.7648335
+        ],
+        [
+          -73.9730859,
+          40.7647968
+        ],
+        [
+          -73.9730867,
+          40.7647934
+        ],
+        [
+          -73.973086,
+          40.76479
+        ],
+        [
+          -73.9730838,
+          40.764787
+        ],
+        [
+          -73.9730804,
+          40.7647848
+        ],
+        [
+          -73.9730764,
+          40.7647835
+        ],
+        [
+          -73.9730722,
+          40.7647833
+        ]
+      ]
+    ]
+  },
+  "parts": [
+    {
+      "osm": "way/988716842",
+      "tags": {
+        "alt_name": "Sherman Memorial",
+        "area": "yes",
+        "artist_name": "Augustus Saint-Gaudens",
+        "artwork_type": "statue",
+        "material": "metal",
+        "name": "William Tecumseh Sherman",
+        "start_date": "1903-05-30",
+        "statue": "equestrian",
+        "subject:wikidata": "Q188936",
+        "subject:wikipedia": "en:William Tecumseh Sherman",
+        "tourism": "artwork",
+        "website": "https://www.nycgovparks.org/parks/grand-army-plaza-m062/monuments/1442",
+        "website:alternate": "https://www.centralparknyc.org/locations/william-tecumseh-sherman",
+        "wikidata": "Q18159288",
+        "wikimedia_commons": "Category:William Tecumseh Sherman monument by Augustus Saint-Gaudens",
+        "wikipedia": "en:William Tecumseh Sherman (Saint-Gaudens)",
+        "year_of_construction": "1902"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.9443051697541355,
+              -3.0835498954145772
+            ],
+            [
+              -0.5901907306470249,
+              -2.9944943025302186
+            ],
+            [
+              -0.2866640690687127,
+              -2.7941192191336413
+            ],
+            [
+              1.9476294126927896,
+              1.2467782964261578
+            ],
+            [
+              2.0740988547175463,
+              1.5918687179632036
+            ],
+            [
+              2.0825301503732665,
+              1.9480910887096656
+            ],
+            [
+              1.9729233008581089,
+              2.2931815102467112
+            ],
+            [
+              1.7705721931392338,
+              2.5826121865276472
+            ],
+            [
+              1.475476827216642,
+              2.794119218342669
+            ],
+            [
+              1.129793684963411,
+              2.9054387096458596
+            ],
+            [
+              0.7503853576909807,
+              2.894306760436444
+            ],
+            [
+              0.3962709197820295,
+              2.760723371505392
+            ],
+            [
+              0.10960685071331676,
+              2.504688542852705
+            ],
+            [
+              -2.099392742882866,
+              -1.5807367695447598
+            ],
+            [
+              -2.1668431117231046,
+              -1.9592230379190823
+            ],
+            [
+              -2.1078240385385856,
+              -2.3377093070843764
+            ],
+            [
+              -1.9223355233293105,
+              -2.671667779412006
+            ],
+            [
+              -1.635671454260598,
+              -2.9165706588552767
+            ],
+            [
+              -1.2984196076630867,
+              -3.061285996995745
+            ],
+            [
+              -0.9443051697541355,
+              -3.0835498954145772
+            ]
+          ]
+        ]
+      },
+      "version": 4,
+      "timestamp": "2026-06-28T23:20:50Z"
+    }
+  ],
+  "osm": {
+    "type": "way",
+    "id": 988716842,
+    "version": 4,
+    "timestamp": "2026-06-28T23:20:50Z",
+    "url": "https://www.openstreetmap.org/way/988716842"
+  },
+  "additionalOsm": [],
+  "tags": {
+    "alt_name": "Sherman Memorial",
+    "area": "yes",
+    "artist_name": "Augustus Saint-Gaudens",
+    "artwork_type": "statue",
+    "material": "metal",
+    "name": "William Tecumseh Sherman",
+    "start_date": "1903-05-30",
+    "statue": "equestrian",
+    "subject:wikidata": "Q188936",
+    "subject:wikipedia": "en:William Tecumseh Sherman",
+    "tourism": "artwork",
+    "website": "https://www.nycgovparks.org/parks/grand-army-plaza-m062/monuments/1442",
+    "website:alternate": "https://www.centralparknyc.org/locations/william-tecumseh-sherman",
+    "wikidata": "Q18159288",
+    "wikimedia_commons": "Category:William Tecumseh Sherman monument by Augustus Saint-Gaudens",
+    "wikipedia": "en:William Tecumseh Sherman (Saint-Gaudens)",
+    "year_of_construction": "1902"
+  },
+  "note": "This landmark replaces no mapped building; the OSM feature cited is the one that names it."
+}

@@ -1,0 +1,878 @@
+{
+  "id": "enid-a-haupt-conservatory",
+  "name": "Enid A. Haupt Conservatory",
+  "anchor": [
+    -73.8821292,
+    40.8639038
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 245184,
+      "sha256": "b2318d9166018302110f56177333b3364a46299fd58e62317cf51192da03e92b"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 245184,
+      "sha256": "b2318d9166018302110f56177333b3364a46299fd58e62317cf51192da03e92b"
+    }
+  },
+  "triangles": 4943,
+  "boundsBlenderM": [
+    [
+      -63.908,
+      -82.694,
+      0
+    ],
+    [
+      64.391,
+      71.375,
+      28
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -73.8819632,
+          40.8633267
+        ],
+        [
+          -73.8819322,
+          40.8633205
+        ],
+        [
+          -73.8819227,
+          40.8633091
+        ],
+        [
+          -73.8816916,
+          40.8634202
+        ],
+        [
+          -73.8817119,
+          40.8634445
+        ],
+        [
+          -73.8816593,
+          40.8634697
+        ],
+        [
+          -73.8816913,
+          40.863508
+        ],
+        [
+          -73.8816587,
+          40.8635237
+        ],
+        [
+          -73.8818949,
+          40.8638068
+        ],
+        [
+          -73.88192,
+          40.8638036
+        ],
+        [
+          -73.8819483,
+          40.8638032
+        ],
+        [
+          -73.8819764,
+          40.8638063
+        ],
+        [
+          -73.8820034,
+          40.8638128
+        ],
+        [
+          -73.8820225,
+          40.8638199
+        ],
+        [
+          -73.882046,
+          40.8638319
+        ],
+        [
+          -73.8820666,
+          40.8638467
+        ],
+        [
+          -73.8820838,
+          40.8638638
+        ],
+        [
+          -73.8820942,
+          40.8638779
+        ],
+        [
+          -73.8821043,
+          40.863898
+        ],
+        [
+          -73.88211,
+          40.8639191
+        ],
+        [
+          -73.8821111,
+          40.8639406
+        ],
+        [
+          -73.8821076,
+          40.8639619
+        ],
+        [
+          -73.8820996,
+          40.8639826
+        ],
+        [
+          -73.8820873,
+          40.8640019
+        ],
+        [
+          -73.8820717,
+          40.8640188
+        ],
+        [
+          -73.8823073,
+          40.8643013
+        ],
+        [
+          -73.8823372,
+          40.8642869
+        ],
+        [
+          -73.8823692,
+          40.8643253
+        ],
+        [
+          -73.8824209,
+          40.8643005
+        ],
+        [
+          -73.8824415,
+          40.8643252
+        ],
+        [
+          -73.882675,
+          40.864213
+        ],
+        [
+          -73.8826657,
+          40.8642018
+        ],
+        [
+          -73.882673,
+          40.8641781
+        ],
+        [
+          -73.88251,
+          40.8639827
+        ],
+        [
+          -73.8825041,
+          40.8639729
+        ],
+        [
+          -73.8825011,
+          40.8639624
+        ],
+        [
+          -73.8825012,
+          40.8639515
+        ],
+        [
+          -73.8825042,
+          40.863941
+        ],
+        [
+          -73.8825068,
+          40.8639359
+        ],
+        [
+          -73.8825141,
+          40.8639265
+        ],
+        [
+          -73.8825238,
+          40.8639185
+        ],
+        [
+          -73.8825354,
+          40.8639122
+        ],
+        [
+          -73.8825486,
+          40.863908
+        ],
+        [
+          -73.8825626,
+          40.8639058
+        ],
+        [
+          -73.8825698,
+          40.8639056
+        ],
+        [
+          -73.8825839,
+          40.863907
+        ],
+        [
+          -73.8825908,
+          40.8639085
+        ],
+        [
+          -73.8826036,
+          40.8639131
+        ],
+        [
+          -73.8826149,
+          40.8639197
+        ],
+        [
+          -73.882624,
+          40.8639279
+        ],
+        [
+          -73.882787,
+          40.8641233
+        ],
+        [
+          -73.8828178,
+          40.8641309
+        ],
+        [
+          -73.8828457,
+          40.8641643
+        ],
+        [
+          -73.8828647,
+          40.8641551
+        ],
+        [
+          -73.8828749,
+          40.8641674
+        ],
+        [
+          -73.8828811,
+          40.8641748
+        ],
+        [
+          -73.8828621,
+          40.8641839
+        ],
+        [
+          -73.8828898,
+          40.8642172
+        ],
+        [
+          -73.8828727,
+          40.8642254
+        ],
+        [
+          -73.8828841,
+          40.864239
+        ],
+        [
+          -73.8828394,
+          40.8642605
+        ],
+        [
+          -73.8828513,
+          40.8642748
+        ],
+        [
+          -73.8828244,
+          40.8642878
+        ],
+        [
+          -73.8828124,
+          40.8642735
+        ],
+        [
+          -73.88277,
+          40.8642938
+        ],
+        [
+          -73.8827598,
+          40.8642816
+        ],
+        [
+          -73.8827401,
+          40.8642911
+        ],
+        [
+          -73.8827284,
+          40.8642771
+        ],
+        [
+          -73.8827009,
+          40.8642903
+        ],
+        [
+          -73.8827716,
+          40.8643751
+        ],
+        [
+          -73.882781,
+          40.8643706
+        ],
+        [
+          -73.8828201,
+          40.8644175
+        ],
+        [
+          -73.8826268,
+          40.8645105
+        ],
+        [
+          -73.8825876,
+          40.8644635
+        ],
+        [
+          -73.8825946,
+          40.8644602
+        ],
+        [
+          -73.8825239,
+          40.8643754
+        ],
+        [
+          -73.8824953,
+          40.8643892
+        ],
+        [
+          -73.8825172,
+          40.8644154
+        ],
+        [
+          -73.8824662,
+          40.8644399
+        ],
+        [
+          -73.8824993,
+          40.8644795
+        ],
+        [
+          -73.8824475,
+          40.8645044
+        ],
+        [
+          -73.8824636,
+          40.8645236
+        ],
+        [
+          -73.8824137,
+          40.8645476
+        ],
+        [
+          -73.8823986,
+          40.8645295
+        ],
+        [
+          -73.8823473,
+          40.8645542
+        ],
+        [
+          -73.8823152,
+          40.8645156
+        ],
+        [
+          -73.8822644,
+          40.8645401
+        ],
+        [
+          -73.8822312,
+          40.8645004
+        ],
+        [
+          -73.8822073,
+          40.8645119
+        ],
+        [
+          -73.8821927,
+          40.8644944
+        ],
+        [
+          -73.8821747,
+          40.8644728
+        ],
+        [
+          -73.8822003,
+          40.8644604
+        ],
+        [
+          -73.8821688,
+          40.8644227
+        ],
+        [
+          -73.8822184,
+          40.8643989
+        ],
+        [
+          -73.8821855,
+          40.8643595
+        ],
+        [
+          -73.8822178,
+          40.8643439
+        ],
+        [
+          -73.881983,
+          40.8640625
+        ],
+        [
+          -73.881962,
+          40.8640658
+        ],
+        [
+          -73.8819337,
+          40.8640671
+        ],
+        [
+          -73.8819125,
+          40.8640658
+        ],
+        [
+          -73.8818849,
+          40.864061
+        ],
+        [
+          -73.8818644,
+          40.8640549
+        ],
+        [
+          -73.8818397,
+          40.8640444
+        ],
+        [
+          -73.8818176,
+          40.8640309
+        ],
+        [
+          -73.8817987,
+          40.8640149
+        ],
+        [
+          -73.8817834,
+          40.8639967
+        ],
+        [
+          -73.8817773,
+          40.863987
+        ],
+        [
+          -73.8817702,
+          40.8639718
+        ],
+        [
+          -73.8817645,
+          40.8639507
+        ],
+        [
+          -73.8817635,
+          40.8639292
+        ],
+        [
+          -73.881767,
+          40.8639079
+        ],
+        [
+          -73.8817751,
+          40.8638872
+        ],
+        [
+          -73.8817875,
+          40.8638679
+        ],
+        [
+          -73.8818051,
+          40.8638492
+        ],
+        [
+          -73.8815702,
+          40.8635675
+        ],
+        [
+          -73.8815412,
+          40.8635815
+        ],
+        [
+          -73.8815094,
+          40.8635433
+        ],
+        [
+          -73.8814579,
+          40.863568
+        ],
+        [
+          -73.8814255,
+          40.8635291
+        ],
+        [
+          -73.8813978,
+          40.8635425
+        ],
+        [
+          -73.8813862,
+          40.8635286
+        ],
+        [
+          -73.8813662,
+          40.8635046
+        ],
+        [
+          -73.8813939,
+          40.8634913
+        ],
+        [
+          -73.881361,
+          40.8634519
+        ],
+        [
+          -73.8814125,
+          40.8634272
+        ],
+        [
+          -73.8813796,
+          40.8633878
+        ],
+        [
+          -73.8814303,
+          40.8633634
+        ],
+        [
+          -73.8814135,
+          40.8633432
+        ],
+        [
+          -73.881436,
+          40.8633324
+        ],
+        [
+          -73.8814636,
+          40.8633192
+        ],
+        [
+          -73.8814804,
+          40.8633393
+        ],
+        [
+          -73.8815309,
+          40.863315
+        ],
+        [
+          -73.8815638,
+          40.8633544
+        ],
+        [
+          -73.8816159,
+          40.8633294
+        ],
+        [
+          -73.8816389,
+          40.863357
+        ],
+        [
+          -73.88187,
+          40.8632459
+        ],
+        [
+          -73.8818575,
+          40.863231
+        ],
+        [
+          -73.8818759,
+          40.8632221
+        ],
+        [
+          -73.8818665,
+          40.8632108
+        ],
+        [
+          -73.8819105,
+          40.8631896
+        ],
+        [
+          -73.881897,
+          40.8631734
+        ],
+        [
+          -73.8819079,
+          40.8631681
+        ],
+        [
+          -73.8819215,
+          40.8631616
+        ],
+        [
+          -73.881935,
+          40.8631778
+        ],
+        [
+          -73.8819806,
+          40.8631559
+        ],
+        [
+          -73.8819922,
+          40.8631698
+        ],
+        [
+          -73.8820118,
+          40.8631603
+        ],
+        [
+          -73.8820408,
+          40.8631962
+        ],
+        [
+          -73.8820582,
+          40.8631878
+        ],
+        [
+          -73.8820676,
+          40.8631991
+        ],
+        [
+          -73.8820735,
+          40.8632062
+        ],
+        [
+          -73.8820554,
+          40.8632147
+        ],
+        [
+          -73.8820837,
+          40.8632497
+        ],
+        [
+          -73.8820761,
+          40.8632724
+        ],
+        [
+          -73.8822369,
+          40.8634652
+        ],
+        [
+          -73.8822431,
+          40.8634747
+        ],
+        [
+          -73.8822466,
+          40.863485
+        ],
+        [
+          -73.8822472,
+          40.8634956
+        ],
+        [
+          -73.8822448,
+          40.8635061
+        ],
+        [
+          -73.8822396,
+          40.863516
+        ],
+        [
+          -73.8822319,
+          40.8635249
+        ],
+        [
+          -73.8822218,
+          40.8635323
+        ],
+        [
+          -73.88221,
+          40.863538
+        ],
+        [
+          -73.8822036,
+          40.8635401
+        ],
+        [
+          -73.88219,
+          40.8635427
+        ],
+        [
+          -73.882183,
+          40.8635432
+        ],
+        [
+          -73.8821691,
+          40.8635425
+        ],
+        [
+          -73.8821556,
+          40.8635396
+        ],
+        [
+          -73.8821433,
+          40.8635347
+        ],
+        [
+          -73.8821377,
+          40.8635315
+        ],
+        [
+          -73.882128,
+          40.8635239
+        ],
+        [
+          -73.8819632,
+          40.8633267
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 284835739,
+    "version": 13,
+    "timestamp": "2020-09-03T14:30:45Z",
+    "url": "https://www.openstreetmap.org/way/284835739"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 333933247,
+      "version": 9,
+      "timestamp": "2015-03-30T15:27:34Z",
+      "url": "https://www.openstreetmap.org/way/333933247"
+    },
+    {
+      "type": "way",
+      "id": 335587477,
+      "version": 2,
+      "timestamp": "2015-03-30T15:33:05Z",
+      "url": "https://www.openstreetmap.org/way/335587477"
+    },
+    {
+      "type": "way",
+      "id": 334959161,
+      "version": 8,
+      "timestamp": "2015-03-30T15:37:01Z",
+      "url": "https://www.openstreetmap.org/way/334959161"
+    },
+    {
+      "type": "way",
+      "id": 334959164,
+      "version": 6,
+      "timestamp": "2015-03-30T15:37:00Z",
+      "url": "https://www.openstreetmap.org/way/334959164"
+    },
+    {
+      "type": "way",
+      "id": 334960333,
+      "version": 7,
+      "timestamp": "2015-03-30T15:37:01Z",
+      "url": "https://www.openstreetmap.org/way/334960333"
+    },
+    {
+      "type": "way",
+      "id": 334961377,
+      "version": 5,
+      "timestamp": "2015-03-30T15:37:02Z",
+      "url": "https://www.openstreetmap.org/way/334961377"
+    },
+    {
+      "type": "way",
+      "id": 334961620,
+      "version": 4,
+      "timestamp": "2015-03-30T15:37:00Z",
+      "url": "https://www.openstreetmap.org/way/334961620"
+    },
+    {
+      "type": "way",
+      "id": 334961621,
+      "version": 5,
+      "timestamp": "2015-03-30T15:37:01Z",
+      "url": "https://www.openstreetmap.org/way/334961621"
+    },
+    {
+      "type": "way",
+      "id": 334962878,
+      "version": 3,
+      "timestamp": "2015-03-30T15:37:02Z",
+      "url": "https://www.openstreetmap.org/way/334962878"
+    },
+    {
+      "type": "way",
+      "id": 334962999,
+      "version": 3,
+      "timestamp": "2015-03-30T15:37:00Z",
+      "url": "https://www.openstreetmap.org/way/334962999"
+    },
+    {
+      "type": "way",
+      "id": 334963049,
+      "version": 6,
+      "timestamp": "2017-05-31T19:07:20Z",
+      "url": "https://www.openstreetmap.org/way/334963049"
+    },
+    {
+      "type": "way",
+      "id": 334963115,
+      "version": 4,
+      "timestamp": "2015-03-30T15:37:00Z",
+      "url": "https://www.openstreetmap.org/way/334963115"
+    },
+    {
+      "type": "way",
+      "id": 334963825,
+      "version": 2,
+      "timestamp": "2015-03-30T15:37:02Z",
+      "url": "https://www.openstreetmap.org/way/334963825"
+    },
+    {
+      "type": "way",
+      "id": 334963826,
+      "version": 2,
+      "timestamp": "2015-03-30T15:37:01Z",
+      "url": "https://www.openstreetmap.org/way/334963826"
+    }
+  ],
+  "wikidata": "Q5378850",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/nyc-haupt-conservatory.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Enid A. Haupt Conservatory, New York Botanical Garden, the Bronx — procedural, CC0-1.0, no textures. bun generators/nyc-haupt-conservatory.ts",
+    "Map frame: x = model east (the lawn side; the courtyard is to −x), y = model north (along the main galleries), z up, metres. Placed at bearing −31.5°, the line of the Palm House and its two long galleries. Anchor: area centroid of the OSM outline way/284835739.",
+    "Identifying features (from the photos): the Palm House, a tall glass dome on a white arcaded base with an entrance frontispiece, a clerestory drum, an upper dome and a lantern; the long curvilinear glass galleries (glass walls on a stone base under curved glass roofs with a raised ridge); the stepped, cross-shaped corner and end pavilions; the C plan round the courtyard with its apse-ended returning wings; everything white-framed glass.",
+    "Evidence",
+    "OSM way/284835739 (outline) and its parts: 333933247 (Palm House, a 28.6 m circle), 335587477 (its lantern), 334963115/334963049 (main galleries), 334959164/334960333 (corner pavilions), 334963825/334963826 (connecting galleries), 334961621/334959161 (end pavilions), 334961620/334961377 + 334962878/334962999 (the returning wings and their apses). OSM's heights (8–13 m) are too low for the dome.",
+    "Lidar: USGS 3DEP NY_NewYorkCity (2017), resampled into the model frame (/tmp/city/nyc/work/nyc-haupt-conservatory/rot.png), heights above the lowest ground (31.6 m NAVD88, the lawn side): Palm House 13 m at r 13.6, 16 m at r 10.6, 20 m at r 7.6, 24 m at r 4.6, 27 m at the top; galleries and returning wings 8 m; corner pavilions 14 m; end pavilions 12 m; connecting galleries 7–8 m; the annex north of the north connector 3–4 m.",
+    "Published: 1902, Lord & Burnham; eleven pavilions in a 512 ft (156 m) C round the Palm House, whose dome is 90 ft (27 m) high; steel and glass on a masonry base (Wikipedia; NRHP 1973).",
+    "Photos (Wikimedia Commons), credits in /tmp/city/nyc/work/nyc-haupt-conservatory/photos/credits.txt: the Palm House's front from the lawn (Krzysztof Ziarnek CC BY-SA 4.0; Antigng CC BY-SA 4.0; Jim.henderson CC0), the dome and a corner pavilion from the lawn (Dmadeo CC BY-SA 3.0), the courtyard and galleries (Acroterion CC BY-SA 4.0, two), a corner pavilion and the dome with a gallery (King of Hearts CC BY-SA 3.0), from across the lawn (Pablo Costa Tirado CC BY-SA 3.0).",
+    "USGS NAIP orthophoto (public domain) for the plan and roof colours: the glass roofs read white from above; the service range has a flat white roof.",
+    "Estimated: the gallery and pavilion roof profiles (fitted to the lidar heights and the photos), the Palm House's sixteen sides and the split of its height between base, lower dome, drum, upper dome and lantern (photos, matched to the lidar profile), the rib spacing (drawn bold, every ~4 m, not the real pane bars), the frontispiece's size, the stone base's height (1.4 m), the service range as a plain flat-roofed box (NAIP).",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"nyc-haupt-conservatory\", model \"nyc-haupt-conservatory\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/nyc-haupt-conservatory.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

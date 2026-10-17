@@ -1,0 +1,169 @@
+{
+  "id": "william-tecumseh-sherman-monument",
+  "name": "William Tecumseh Sherman Monument",
+  "anchor": [
+    -73.973061,
+    40.764811
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 17,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 59532,
+      "sha256": "f81a5443b0618e6eb38276fe27e89b4818c8376e24ae68879d2b92e6b80be402"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 59532,
+      "sha256": "f81a5443b0618e6eb38276fe27e89b4818c8376e24ae68879d2b92e6b80be402"
+    }
+  },
+  "triangles": 1902,
+  "boundsBlenderM": [
+    [
+      -2.843,
+      -3.714,
+      0
+    ],
+    [
+      2.843,
+      3.714,
+      7.643
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -73.9730722,
+          40.7647833
+        ],
+        [
+          -73.973068,
+          40.7647841
+        ],
+        [
+          -73.9730644,
+          40.7647859
+        ],
+        [
+          -73.9730379,
+          40.7648222
+        ],
+        [
+          -73.9730364,
+          40.7648253
+        ],
+        [
+          -73.9730363,
+          40.7648285
+        ],
+        [
+          -73.9730376,
+          40.7648316
+        ],
+        [
+          -73.97304,
+          40.7648342
+        ],
+        [
+          -73.9730435,
+          40.7648361
+        ],
+        [
+          -73.9730476,
+          40.7648371
+        ],
+        [
+          -73.9730521,
+          40.764837
+        ],
+        [
+          -73.9730563,
+          40.7648358
+        ],
+        [
+          -73.9730597,
+          40.7648335
+        ],
+        [
+          -73.9730859,
+          40.7647968
+        ],
+        [
+          -73.9730867,
+          40.7647934
+        ],
+        [
+          -73.973086,
+          40.76479
+        ],
+        [
+          -73.9730838,
+          40.764787
+        ],
+        [
+          -73.9730804,
+          40.7647848
+        ],
+        [
+          -73.9730764,
+          40.7647835
+        ],
+        [
+          -73.9730722,
+          40.7647833
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 988716842,
+    "version": 4,
+    "timestamp": "2026-06-28T23:20:50Z",
+    "url": "https://www.openstreetmap.org/way/988716842"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q18159288",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/nyc-sherman-monument.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "William Tecumseh Sherman Monument, Grand Army Plaza, Manhattan (Augustus Saint-Gaudens, 1903; pedestal by Charles McKim) — procedural, CC0-1.0, no textures. bun generators/nyc-sherman-monument.ts",
+    "Map frame: x = model east, y = model north, z up, metres. Placed at bearing 28°, the long axis of the OSM pedestal (way/988716842, tourism=artwork, not a building, so `replaces` is empty). Model −y is the front: Sherman rides south-south-west down Fifth Avenue, Victory striding ahead on his horse's left (+x). Anchor: the centroid of that outline.",
+    "Evidence",
+    "OSM way/988716842: a round-ended pedestal 2.25 m wide, 6.45 m long.",
+    "Lidar: USGS 3DEP NY_NewYorkCity (2017), 0.5 m (/tmp/city/nyc/lidar.py): plaza ~15.8 m NAVD88 (y = 0); steps ~0.8 m; pedestal top ~3.3 m; the group's highest point 7.8 m, at its front (Victory's raised arm), the group spanning the pedestal's width. Bronze returns are sparse.",
+    "Published (Wikipedia; NYC Parks): gilded bronze, Saint-Gaudens, unveiled 1903, regilded 2013; pink Stony Creek granite pedestal by McKim.",
+    "Photos (Wikimedia Commons), credits in /tmp/city/nyc/work/nyc-sherman-monument/photos/credits.txt: Axel Tschentscher (PD, the horse's left with Victory), Jim Henderson (PD), Jay Dobkin (CC BY-SA 4.0, from behind on the left), BriYYZ (CC BY-SA 2.0, the front-left), Doubleduhgirls (PD, head on).",
+    "Estimated from the photos against the lidar: the steps, the pedestal's mouldings, the horse (walking, near fore raised and bent, arched neck, head high; ~3 m nose to tail, the group heroic scale), Sherman upright with his cloak billowing behind and his hat in his lowered right hand, Victory's pose (flared robe, right arm raised forward, the palm frond upright in her left hand, broad wings). The pedestal's carved inscription and the small bronze details are left out.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"nyc-sherman-monument\", model \"nyc-sherman-monument\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/nyc-sherman-monument.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

@@ -1,0 +1,328 @@
+{
+  "id": "bethesda-fountain-angel-of-the-waters",
+  "anchor": [
+    -73.970845,
+    40.774311
+  ],
+  "coordinateSystem": "Local metres about the anchor (equirectangular, WGS84 radius): X east, Y north, Z up. glTF export: X east, Y up, Z south. Heading already baked.",
+  "license": "ODbL-1.0",
+  "footprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          15.17416352926182,
+          -0.3228265231182128
+        ],
+        [
+          14.137262354027495,
+          -4.886925645192802
+        ],
+        [
+          11.6672457355875,
+          -8.872163416287464
+        ],
+        [
+          8.04230666983789,
+          -11.833261871189436
+        ],
+        [
+          3.6502293379948885,
+          -13.469658385990304
+        ],
+        [
+          -1.0369011752343238,
+          -13.580977876502521
+        ],
+        [
+          -5.496419234662056,
+          -12.167220343517062
+        ],
+        [
+          -9.264669843534245,
+          -9.384233073592839
+        ],
+        [
+          -11.920148461634257,
+          -5.521446743010784
+        ],
+        [
+          -13.176231997924988,
+          -1.0130073661923038
+        ],
+        [
+          -12.906469091180035,
+          3.6624112471854766
+        ],
+        [
+          -11.127719922097597,
+          8.003871388235629
+        ],
+        [
+          -8.042306671035881,
+          11.521567297280638
+        ],
+        [
+          -3.979002880777484,
+          13.848144655155597
+        ],
+        [
+          0.6238267229708161,
+          14.738700581626267
+        ],
+        [
+          5.260376689313493,
+          14.070783636180037
+        ],
+        [
+          9.433271660100091,
+          11.944581362492624
+        ],
+        [
+          12.687286728925642,
+          8.582732740797502
+        ],
+        [
+          14.67678816871539,
+          4.330328191840736
+        ],
+        [
+          15.17416352926182,
+          -0.3228265231182128
+        ]
+      ]
+    ]
+  },
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -73.970665,
+          40.7743081
+        ],
+        [
+          -73.9706773,
+          40.7742671
+        ],
+        [
+          -73.9707066,
+          40.7742313
+        ],
+        [
+          -73.9707496,
+          40.7742047
+        ],
+        [
+          -73.9708017,
+          40.77419
+        ],
+        [
+          -73.9708573,
+          40.774189
+        ],
+        [
+          -73.9709102,
+          40.7742017
+        ],
+        [
+          -73.9709549,
+          40.7742267
+        ],
+        [
+          -73.9709864,
+          40.7742614
+        ],
+        [
+          -73.9710013,
+          40.7743019
+        ],
+        [
+          -73.9709981,
+          40.7743439
+        ],
+        [
+          -73.970977,
+          40.7743829
+        ],
+        [
+          -73.9709404,
+          40.7744145
+        ],
+        [
+          -73.9708922,
+          40.7744354
+        ],
+        [
+          -73.9708376,
+          40.7744434
+        ],
+        [
+          -73.9707826,
+          40.7744374
+        ],
+        [
+          -73.9707331,
+          40.7744183
+        ],
+        [
+          -73.9706945,
+          40.7743881
+        ],
+        [
+          -73.9706709,
+          40.7743499
+        ],
+        [
+          -73.970665,
+          40.7743081
+        ]
+      ]
+    ]
+  },
+  "parts": [
+    {
+      "osm": "way/958635828",
+      "tags": {
+        "alt_name": "Angel of the Waters",
+        "amenity": "fountain",
+        "artist_name": "Emma Stebbins",
+        "artist:wikidata": "Q1338103",
+        "artist:wikipedia": "en:Emma Stebbins",
+        "artwork_type": "statue",
+        "drinking_water": "no",
+        "fountain": "decorative",
+        "lit": "yes",
+        "name": "Bethesda Fountain",
+        "name:fr": "Fontaine Bethesda",
+        "natural": "water",
+        "start_date": "1873-05-31",
+        "subject": "Angel of the Waters",
+        "tourism": "attraction",
+        "website": "https://www.centralparknyc.org/locations/bethesda-fountain",
+        "website:alternate": "https://www.nycgovparks.org/parks/central-park/monuments/114",
+        "wikidata": "Q532029",
+        "wikipedia": "en:Bethesda Terrace and Fountain"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              15.17416352926182,
+              -0.3228265231182128
+            ],
+            [
+              14.137262354027495,
+              -4.886925645192802
+            ],
+            [
+              11.6672457355875,
+              -8.872163416287464
+            ],
+            [
+              8.04230666983789,
+              -11.833261871189436
+            ],
+            [
+              3.6502293379948885,
+              -13.469658385990304
+            ],
+            [
+              -1.0369011752343238,
+              -13.580977876502521
+            ],
+            [
+              -5.496419234662056,
+              -12.167220343517062
+            ],
+            [
+              -9.264669843534245,
+              -9.384233073592839
+            ],
+            [
+              -11.920148461634257,
+              -5.521446743010784
+            ],
+            [
+              -13.176231997924988,
+              -1.0130073661923038
+            ],
+            [
+              -12.906469091180035,
+              3.6624112471854766
+            ],
+            [
+              -11.127719922097597,
+              8.003871388235629
+            ],
+            [
+              -8.042306671035881,
+              11.521567297280638
+            ],
+            [
+              -3.979002880777484,
+              13.848144655155597
+            ],
+            [
+              0.6238267229708161,
+              14.738700581626267
+            ],
+            [
+              5.260376689313493,
+              14.070783636180037
+            ],
+            [
+              9.433271660100091,
+              11.944581362492624
+            ],
+            [
+              12.687286728925642,
+              8.582732740797502
+            ],
+            [
+              14.67678816871539,
+              4.330328191840736
+            ],
+            [
+              15.17416352926182,
+              -0.3228265231182128
+            ]
+          ]
+        ]
+      },
+      "version": 6,
+      "timestamp": "2023-08-21T08:38:46Z"
+    }
+  ],
+  "osm": {
+    "type": "way",
+    "id": 958635828,
+    "version": 6,
+    "timestamp": "2023-08-21T08:38:46Z",
+    "url": "https://www.openstreetmap.org/way/958635828"
+  },
+  "additionalOsm": [],
+  "tags": {
+    "alt_name": "Angel of the Waters",
+    "amenity": "fountain",
+    "artist_name": "Emma Stebbins",
+    "artist:wikidata": "Q1338103",
+    "artist:wikipedia": "en:Emma Stebbins",
+    "artwork_type": "statue",
+    "drinking_water": "no",
+    "fountain": "decorative",
+    "lit": "yes",
+    "name": "Bethesda Fountain",
+    "name:fr": "Fontaine Bethesda",
+    "natural": "water",
+    "start_date": "1873-05-31",
+    "subject": "Angel of the Waters",
+    "tourism": "attraction",
+    "website": "https://www.centralparknyc.org/locations/bethesda-fountain",
+    "website:alternate": "https://www.nycgovparks.org/parks/central-park/monuments/114",
+    "wikidata": "Q532029",
+    "wikipedia": "en:Bethesda Terrace and Fountain"
+  },
+  "note": "This landmark replaces no mapped building; the OSM feature cited is the one that names it."
+}

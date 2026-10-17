@@ -1,0 +1,323 @@
+{
+  "id": "statue-of-liberty",
+  "anchor": [
+    -74.0445317,
+    40.6892527
+  ],
+  "coordinateSystem": "Local metres about the anchor (equirectangular, WGS84 radius): X east, Y north, Z up. glTF export: X east, Y up, Z south. Heading already baked.",
+  "license": "ODbL-1.0",
+  "footprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -17.67519081283044,
+          3.640147349557617
+        ],
+        [
+          -3.77307081847115,
+          -17.454896156293994
+        ],
+        [
+          17.50637332578595,
+          -3.4286403161606507
+        ],
+        [
+          3.6126942052391002,
+          17.666403188899984
+        ],
+        [
+          -17.67519081283044,
+          3.640147349557617
+        ]
+      ]
+    ]
+  },
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -74.0447411,
+          40.6892854
+        ],
+        [
+          -74.0445764,
+          40.6890959
+        ],
+        [
+          -74.0443243,
+          40.6892219
+        ],
+        [
+          -74.0444889,
+          40.6894114
+        ],
+        [
+          -74.0447411,
+          40.6892854
+        ]
+      ]
+    ]
+  },
+  "parts": [
+    {
+      "osm": "way/229651143",
+      "tags": {
+        "building:colour": "#C1BA9D",
+        "building:material": "stone",
+        "building:part": "yes",
+        "height": "18",
+        "min_height": "14",
+        "roof:colour": "#BEBA9F",
+        "roof:material": "stone",
+        "roof:shape": "flat"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -17.67519081283044,
+              3.640147349557617
+            ],
+            [
+              -3.77307081847115,
+              -17.454896156293994
+            ],
+            [
+              17.50637332578595,
+              -3.4286403161606507
+            ],
+            [
+              3.6126942052391002,
+              17.666403188899984
+            ],
+            [
+              -17.67519081283044,
+              3.640147349557617
+            ]
+          ]
+        ]
+      },
+      "version": 4,
+      "timestamp": "2020-08-21T15:48:44Z"
+    },
+    {
+      "osm": "way/229651144",
+      "tags": {
+        "building:colour": "#C1BA9D",
+        "building:material": "stone",
+        "building:part": "yes",
+        "height": "26",
+        "min_height": "18",
+        "roof:colour": "#BEBA9F",
+        "roof:height": "3",
+        "roof:material": "stone",
+        "roof:shape": "flat"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -12.686634093396652,
+              3.1058137930424374
+            ],
+            [
+              2.3465630590027833,
+              12.90192898342882
+            ],
+            [
+              12.678193218384694,
+              -2.949966505692553
+            ],
+            [
+              -2.3550039340147437,
+              -12.74608169528796
+            ],
+            [
+              -12.686634093396652,
+              3.1058137930424374
+            ]
+          ]
+        ]
+      },
+      "version": 4,
+      "timestamp": "2020-08-21T15:50:14Z"
+    },
+    {
+      "osm": "way/229651145",
+      "tags": {
+        "building:colour": "#C1BA9D",
+        "building:material": "stone",
+        "building:part": "yes",
+        "height": "46.9",
+        "min_height": "23",
+        "roof:colour": "#BEBA9F",
+        "roof:material": "stone",
+        "roof:shape": "flat"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -10.610179013185247,
+              2.5380843904809542
+            ],
+            [
+              1.96672371465208,
+              10.731198912903745
+            ],
+            [
+              10.610179011985728,
+              -2.5380843896899816
+            ],
+            [
+              -1.9667237158516002,
+              -10.731198912112772
+            ],
+            [
+              -10.610179013185247,
+              2.5380843904809542
+            ]
+          ]
+        ]
+      },
+      "version": 4,
+      "timestamp": "2020-08-21T15:49:24Z"
+    },
+    {
+      "osm": "way/229651146",
+      "tags": {
+        "building:colour": "#C1BA9D",
+        "building:material": "stone",
+        "building:part": "yes",
+        "height": "46.9",
+        "min_height": "45",
+        "roof:colour": "#BEBA9F",
+        "roof:material": "stone",
+        "roof:shape": "flat"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -11.623083930654111,
+              2.816383117552474
+            ],
+            [
+              2.143982075509011,
+              11.777602125933324
+            ],
+            [
+              11.597761306817748,
+              -2.738459473086559
+            ],
+            [
+              -2.160863824333412,
+              -11.699678482258381
+            ],
+            [
+              -11.623083930654111,
+              2.816383117552474
+            ]
+          ]
+        ]
+      },
+      "version": 4,
+      "timestamp": "2020-08-21T15:49:29Z"
+    },
+    {
+      "osm": "way/229651147",
+      "tags": {
+        "building:colour": "#C1BA9D",
+        "building:material": "stone",
+        "building:part": "yes",
+        "height": "14",
+        "min_height": "10",
+        "roof:colour": "#BEBA9F",
+        "roof:material": "stone",
+        "roof:shape": "flat"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -27.635422502873606,
+              6.133703943200905
+            ],
+            [
+              5.807321527221315,
+              27.507046175333063
+            ],
+            [
+              27.424400644367875,
+              -6.322947076597093
+            ],
+            [
+              -6.018343385727047,
+              -27.696289308729252
+            ],
+            [
+              -27.635422502873606,
+              6.133703943200905
+            ]
+          ]
+        ]
+      },
+      "version": 4,
+      "timestamp": "2020-08-21T15:50:25Z"
+    }
+  ],
+  "osm": {
+    "type": "way",
+    "id": 229651143,
+    "version": 4,
+    "timestamp": "2020-08-21T15:48:44Z",
+    "url": "https://www.openstreetmap.org/way/229651143"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 229651144,
+      "version": 4,
+      "timestamp": "2020-08-21T15:50:14Z",
+      "url": "https://www.openstreetmap.org/way/229651144"
+    },
+    {
+      "type": "way",
+      "id": 229651145,
+      "version": 4,
+      "timestamp": "2020-08-21T15:49:24Z",
+      "url": "https://www.openstreetmap.org/way/229651145"
+    },
+    {
+      "type": "way",
+      "id": 229651146,
+      "version": 4,
+      "timestamp": "2020-08-21T15:49:29Z",
+      "url": "https://www.openstreetmap.org/way/229651146"
+    },
+    {
+      "type": "way",
+      "id": 229651147,
+      "version": 4,
+      "timestamp": "2020-08-21T15:50:25Z",
+      "url": "https://www.openstreetmap.org/way/229651147"
+    }
+  ],
+  "tags": {
+    "building:colour": "#C1BA9D",
+    "building:material": "stone",
+    "building:part": "yes",
+    "height": "18",
+    "min_height": "14",
+    "roof:colour": "#BEBA9F",
+    "roof:material": "stone",
+    "roof:shape": "flat"
+  }
+}

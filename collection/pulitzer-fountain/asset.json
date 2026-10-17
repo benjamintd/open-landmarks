@@ -1,0 +1,228 @@
+{
+  "id": "pulitzer-fountain",
+  "name": "Pulitzer Fountain",
+  "anchor": [
+    -73.97362,
+    40.764043
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 17,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 51496,
+      "sha256": "3a1815cb3c69a46c9f49048106200b16b65b25ddbf85d969e0a7c25f40777719"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 51496,
+      "sha256": "3a1815cb3c69a46c9f49048106200b16b65b25ddbf85d969e0a7c25f40777719"
+    }
+  },
+  "triangles": 1796,
+  "boundsBlenderM": [
+    [
+      -7.392,
+      -7.392,
+      0
+    ],
+    [
+      7.392,
+      7.392,
+      9.04
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -73.9736551,
+          40.7641955
+        ],
+        [
+          -73.9736787,
+          40.7641631
+        ],
+        [
+          -73.9737057,
+          40.7641261
+        ],
+        [
+          -73.9737286,
+          40.7640947
+        ],
+        [
+          -73.9736904,
+          40.7640787
+        ],
+        [
+          -73.9736983,
+          40.7640675
+        ],
+        [
+          -73.973703,
+          40.7640555
+        ],
+        [
+          -73.9737045,
+          40.7640413
+        ],
+        [
+          -73.9737018,
+          40.7640271
+        ],
+        [
+          -73.9736949,
+          40.7640135
+        ],
+        [
+          -73.9736841,
+          40.7640014
+        ],
+        [
+          -73.9736698,
+          40.7639914
+        ],
+        [
+          -73.9736528,
+          40.7639841
+        ],
+        [
+          -73.9736357,
+          40.7639802
+        ],
+        [
+          -73.9736179,
+          40.7639791
+        ],
+        [
+          -73.9736015,
+          40.7639806
+        ],
+        [
+          -73.9735858,
+          40.7639844
+        ],
+        [
+          -73.9735726,
+          40.7639899
+        ],
+        [
+          -73.9735609,
+          40.7639971
+        ],
+        [
+          -73.9735506,
+          40.7640062
+        ],
+        [
+          -73.9735425,
+          40.7640168
+        ],
+        [
+          -73.973502,
+          40.7639999
+        ],
+        [
+          -73.9734804,
+          40.7640294
+        ],
+        [
+          -73.9734538,
+          40.764066
+        ],
+        [
+          -73.9734285,
+          40.7641006
+        ],
+        [
+          -73.9734547,
+          40.7641116
+        ],
+        [
+          -73.973465,
+          40.7641286
+        ],
+        [
+          -73.9734785,
+          40.7641442
+        ],
+        [
+          -73.9735006,
+          40.7641583
+        ],
+        [
+          -73.9735246,
+          40.7641707
+        ],
+        [
+          -73.9735503,
+          40.7641799
+        ],
+        [
+          -73.9735788,
+          40.764186
+        ],
+        [
+          -73.9736051,
+          40.7641871
+        ],
+        [
+          -73.9736309,
+          40.7641854
+        ],
+        [
+          -73.9736551,
+          40.7641955
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 988718514,
+    "version": 5,
+    "timestamp": "2026-06-28T23:20:50Z",
+    "url": "https://www.openstreetmap.org/way/988718514"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q18157051",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/nyc-pulitzer-fountain.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Pulitzer Fountain, Grand Army Plaza, Manhattan (Thomas Hastings, 1916; Pomona by Karl Bitter, finished by Isidore Konti) — procedural, CC0-1.0, no textures. bun generators/nyc-pulitzer-fountain.ts",
+    "Map frame: x = model east (Fifth Avenue), y = model north, z up, metres. Placed at bearing 29°, the Manhattan grid. Anchor: OSM node/11359524457 (Pomona, tourism=artwork), the centre of the stacked tiers; the OSM water area way/988718514 (amenity=fountain, natural=water) is the pool round them and is not a building, so `replaces` is empty.",
+    "Evidence",
+    "Lidar: USGS 3DEP NY_NewYorkCity (2017), 0.5 m, /tmp/city/nyc/lidar.py. Plaza ~15.3 m NAVD88 (y = 0); the pool ~0.9 m; tiers stepping to ~1.3, ~2.4 and ~3.3 m over ~12, ~9 and ~7.5 m squares; the top bowl's rim ~6.2 m, ~4 m across. Trees mask the south side and the bronze figure.",
+    "Published (Wikipedia; NYC LPC): Hastings's design, Bitter's bronze Pomona (goddess of abundance) holding a basket of fruit, rebuilt in granite in 1990.",
+    "Photos (Wikimedia Commons), credits in /tmp/city/nyc/work/nyc-pulitzer-fountain/photos/credits.txt: ajay_suresh (CC BY 2.0, tiers and masks), Tdorante10 (CC BY-SA 4.0, from the north and from Fifth Avenue), Another Believer (CC BY-SA 3.0), CarolPena8 (CC BY-SA 4.0), Rangilo Gujarati (CC BY-SA 3.0, the bowl and Pomona), PortableNYCTours (CC BY-SA 4.0, Pomona), Jim Henderson (PD).",
+    "The pool and its water are the map's. The tiers are drawn as stepped granite (their ledges are water in reality; drawn as the stone basin bed, not as water). Estimated: the tiers' chamfered-square plans, the shaft, the bowl's profile, the shell masks round the lower tiers (bold lumps), Pomona's height (~2.3 m on a 0.6 m pedestal) and facing (east, to Fifth Avenue), her pose simplified to a standing figure holding the basket.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"nyc-pulitzer-fountain\", model \"nyc-pulitzer-fountain\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/nyc-pulitzer-fountain.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

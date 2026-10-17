@@ -1,0 +1,177 @@
+{
+  "id": "metropolitan-life-insurance-company-tower",
+  "name": "Metropolitan Life Insurance Company Tower",
+  "anchor": [
+    -73.9873592,
+    40.7412668
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 13,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 86452,
+      "sha256": "2ea12ee0c78a5136b25ed0b3f0bd10bdb3a8ebb4e76362934848ed14b09c0497"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 86452,
+      "sha256": "2ea12ee0c78a5136b25ed0b3f0bd10bdb3a8ebb4e76362934848ed14b09c0497"
+    }
+  },
+  "triangles": 1762,
+  "boundsBlenderM": [
+    [
+      -17.305,
+      -16.681,
+      0
+    ],
+    [
+      17.305,
+      16.681,
+      213.4
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -73.9872899,
+          40.7411226
+        ],
+        [
+          -73.9875569,
+          40.7412336
+        ],
+        [
+          -73.9874285,
+          40.741411
+        ],
+        [
+          -73.9871616,
+          40.7413
+        ],
+        [
+          -73.9871989,
+          40.7412484
+        ],
+        [
+          -73.9872065,
+          40.7412379
+        ],
+        [
+          -73.9872899,
+          40.7411226
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 158404390,
+    "version": 13,
+    "timestamp": "2026-05-29T16:50:05Z",
+    "url": "https://www.openstreetmap.org/way/158404390"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 263480034,
+      "version": 2,
+      "timestamp": "2014-06-03T14:04:57Z",
+      "url": "https://www.openstreetmap.org/way/263480034"
+    },
+    {
+      "type": "way",
+      "id": 263480035,
+      "version": 2,
+      "timestamp": "2021-09-10T17:33:20Z",
+      "url": "https://www.openstreetmap.org/way/263480035"
+    },
+    {
+      "type": "way",
+      "id": 263480036,
+      "version": 1,
+      "timestamp": "2014-02-26T11:38:31Z",
+      "url": "https://www.openstreetmap.org/way/263480036"
+    },
+    {
+      "type": "way",
+      "id": 263480038,
+      "version": 3,
+      "timestamp": "2026-04-14T13:10:13Z",
+      "url": "https://www.openstreetmap.org/way/263480038"
+    },
+    {
+      "type": "way",
+      "id": 263480039,
+      "version": 2,
+      "timestamp": "2018-02-18T23:56:00Z",
+      "url": "https://www.openstreetmap.org/way/263480039"
+    },
+    {
+      "type": "way",
+      "id": 263480040,
+      "version": 2,
+      "timestamp": "2018-02-18T23:56:01Z",
+      "url": "https://www.openstreetmap.org/way/263480040"
+    },
+    {
+      "type": "way",
+      "id": 263480041,
+      "version": 2,
+      "timestamp": "2018-02-18T23:56:01Z",
+      "url": "https://www.openstreetmap.org/way/263480041"
+    },
+    {
+      "type": "way",
+      "id": 263480042,
+      "version": 4,
+      "timestamp": "2023-03-20T02:34:31Z",
+      "url": "https://www.openstreetmap.org/way/263480042"
+    }
+  ],
+  "wikidata": "Q652452",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/nyc-metlife-tower.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Metropolitan Life Insurance Company Tower (5 Madison Avenue), Manhattan — procedural, CC0-1.0, no textures. bun generators/nyc-metlife-tower.ts",
+    "Map frame: x = model east (East 24th Street runs along x), y = model north (Madison Avenue runs along y), z up, metres. Placed at bearing 29°, the Manhattan grid. Anchor: area centroid of the tower's OSM outline way/158404390. The model is the tower only; the 1 Madison block that wraps its south and east sides (way/109280428 and its parts) is a separate building and stays on the map.",
+    "Identifying features (from the photos): a tall plain pale shaft in a 1:8 ratio; the four big clock faces (8 m dials, blue tiled ring) high on the shaft; the five-arch loggia with a balustrade under the top; the narrower block over it; the steep stone pyramid with dormers; the square platform, open peristyle, gilded cupola and lantern.",
+    "Evidence",
+    "OSM way/158404390 (outline, 25.6 × 22.4 m, h 150) and parts 263480034 (cupola circle, r 3.6 m, 206 m), 263480035 (finial, 213.4 m), 263480036–42 (pyramid faces and platform, 190 m), 263480038 (165 m).",
+    "Lidar: USGS 3DEP NY_NewYorkCity (2017), profiles through the centre in the model frame (/tmp/city/nyc/work/nyc-metlife-tower/lid.png, rot.png), heights above the street (10.9 m NAVD88): shaft to 135–138 m at its outline; the block above it set back ~1.8 m to 151–153 m; pyramid from ±10 m at 153 m to the platform (±5.5 m) at 182 m; peristyle and cupola 194–203 m (r ≈ 4 m); lantern 207 m; finial 211.5 m. Neighbours stand 35–60 m against the south and east sides.",
+    "Published: 1909, N. LeBrun & Sons, after St Mark's Campanile; 700 ft (213 m), 50 floors; 75 × 85 ft plan; four clock faces 26.5 ft (8.1 m) across on floors 25–27, blue glazed tile round each; shaft of three triple windows per side per floor; a five-arch loggia on floors 31–33 with a balustrade; floors 35–38 a freestanding plinth; pyramid with hooded dormers from floor 39; square viewing platform on 45, a peristyle of eight columns on 46–47, a gold-coloured cupola on 48 (Wikipedia, NRHP).",
+    "Photos (Wikimedia Commons), credits in /tmp/city/nyc/work/nyc-metlife-tower/photos/credits.txt: from Madison Square Park (west, Ryan Schwark CC0; south-west, Acediscovery CC BY 4.0), from the East River (east, Tony Hisgett CC BY 2.0, two shots).",
+    "Estimated: storey heights (4.1 m) and the window grouping (one panel per triple window, three floors), the clock's square surround, the arcade's proportions and the dormer rows (from the East River photos), the peristyle's piers, the cupola's profile. Windows start at 48 m on the south and east faces, which neighbours hide below that (published: none below the 11th/12th floors there).",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"nyc-metlife-tower\", model \"nyc-metlife-tower\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/nyc-metlife-tower.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 374 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the nyc-metlife-tower-glazing finish in the window colour.",
+    "To fit six materials, folded nyc-metlife-tower-metlife-clock-ring into nyc-metlife-tower-glazing (ΔE 5.4)."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

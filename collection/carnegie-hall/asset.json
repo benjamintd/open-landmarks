@@ -1,0 +1,167 @@
+{
+  "id": "carnegie-hall",
+  "name": "Carnegie Hall",
+  "anchor": [
+    -73.9799197,
+    40.7650035
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 162352,
+      "sha256": "2b83a5c5193b779202ca8f374294771fa75e40d90f6869da54c84d9d71777e3f"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 162352,
+      "sha256": "2b83a5c5193b779202ca8f374294771fa75e40d90f6869da54c84d9d71777e3f"
+    }
+  },
+  "triangles": 3477,
+  "boundsBlenderM": [
+    [
+      -35.32,
+      -35.832,
+      0
+    ],
+    [
+      32.999,
+      37.954,
+      69
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -73.9794975,
+          40.765136
+        ],
+        [
+          -73.9795368,
+          40.7650825
+        ],
+        [
+          -73.9796677,
+          40.7649043
+        ],
+        [
+          -73.9797257,
+          40.7649287
+        ],
+        [
+          -73.9798574,
+          40.7647493
+        ],
+        [
+          -73.9797994,
+          40.7647248
+        ],
+        [
+          -73.9798257,
+          40.764689
+        ],
+        [
+          -73.9798389,
+          40.764671
+        ],
+        [
+          -73.9798486,
+          40.7646578
+        ],
+        [
+          -73.9799149,
+          40.7646854
+        ],
+        [
+          -73.9799185,
+          40.7646805
+        ],
+        [
+          -73.9803275,
+          40.764854
+        ],
+        [
+          -73.9802368,
+          40.7649775
+        ],
+        [
+          -73.9799725,
+          40.7653376
+        ],
+        [
+          -73.9798253,
+          40.7652752
+        ],
+        [
+          -73.9797544,
+          40.7652451
+        ],
+        [
+          -73.9794975,
+          40.765136
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 265148502,
+    "version": 9,
+    "timestamp": "2024-08-20T06:30:03Z",
+    "url": "https://www.openstreetmap.org/way/265148502"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 1039811293,
+      "version": 1,
+      "timestamp": "2022-03-13T07:28:58Z",
+      "url": "https://www.openstreetmap.org/way/1039811293"
+    }
+  ],
+  "wikidata": "Q200959",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/nyc-carnegie-hall.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Carnegie Hall, 881 Seventh Avenue — procedural, CC0-1.0, no textures. bun generators/nyc-carnegie-hall.ts",
+    "Map frame: x = model east (towards Sixth Avenue), y = model north (West 57th Street), z up, metres. Placed at bearing 29°, the Manhattan grid. Anchor: area centroid of the OSM outline way/265148502.",
+    "Identifying features (from the photos): 1. A salmon-brown brick and terracotta Renaissance Revival block with heavy bracketed cornices: the hall itself, its main cornice at ~31 m, and an attic storey of round-arched windows in threes between pilasters under a second cornice at 40 m. 2. Rows of round-arched windows on every front, and the 57th Street entrance: an arcade of five arches under a long marquee. 3. The two studio towers that rise behind the hall: the taller one at the east end of the 57th Street front, and the block on 56th Street, both with an arcaded top storey under a projecting cornice. 4. The long Seventh Avenue side: few windows, blind arches, a row of arched windows high up. 5. Flat grey roofs.",
+    "Evidence",
+    "OSM way/265148502 (outline, 46 × 61 m; height 55.2) and way/1039811293 (a duplicate building way over the same footprint, height 0).",
+    "Lidar: USGS 3DEP NY_NewYorkCity (2017), resampled in the model frame (/tmp/city/nyc/work/nyc-carnegie-hall/rot.png), above the street at 19.2 m NAVD88: the hall's roof 40–42 m over x −22…10, y −13…30; the 57th Street studio tower 66–70 m at the north-east corner, the strip behind it along the east side 62–64 m; the 56th Street block 60–64 m, stepping down to 45 m at the Seventh Avenue end. East of x ≈ 20 the lidar is Carnegie Hall Tower (231 m), which the outline overlaps by a few metres; the model stops at x = 20.",
+    "Published: William Burnet Tuthill, 1891; studio towers added 1894–97; Roman brick with terracotta trim, Italian Renaissance Revival (Wikipedia; NRHP 66000535).",
+    "Photos (Wikimedia Commons), credits in /tmp/city/nyc/work/nyc-carnegie-hall/photos/credits.txt: the 57th Street and Seventh Avenue fronts from the north-west corner (Ajay Suresh, CC BY 2.0), the same corner (Yair Haklai, CC BY-SA 3.0; Tdorante10, CC BY-SA 4.0, at dusk), Seventh Avenue from the south-west (Kidfly182, CC BY-SA 4.0), the 57th Street front from the east (Epicgenius, CC BY-SA 4.0).",
+    "Estimated: the storey divisions within the lidar's cornice and roof heights (photos scaled to the 40 m roof), window counts and sizes, the studio towers' plans (from the lidar), their window rhythm. The Seventh Avenue fire-escape balcony and the carved friezes are left out. No licensed photo of the 56th Street or east sides was found; they carry the same storey rhythm as the fronts.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"nyc-carnegie-hall\", model \"nyc-carnegie-hall\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/nyc-carnegie-hall.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 41 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the nyc-carnegie-hall-glazing finish in the window colour."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

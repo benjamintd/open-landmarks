@@ -1,0 +1,197 @@
+{
+  "id": "ellis-island-immigration-museum",
+  "name": "Ellis Island Immigration Museum",
+  "anchor": [
+    -74.0394915,
+    40.6991381
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 222028,
+      "sha256": "57385e34be5b13b6e24c9fc31bdd000129718d552eb4fbdd9626bb820a72954b"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 222028,
+      "sha256": "57385e34be5b13b6e24c9fc31bdd000129718d552eb4fbdd9626bb820a72954b"
+    }
+  },
+  "triangles": 4653,
+  "boundsBlenderM": [
+    [
+      -62.94,
+      -62.534,
+      0
+    ],
+    [
+      57.225,
+      56.861,
+      40.6
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -74.0398172,
+          40.6996462
+        ],
+        [
+          -74.040005,
+          40.6995011
+        ],
+        [
+          -74.0400485,
+          40.6994676
+        ],
+        [
+          -74.0402305,
+          40.699326
+        ],
+        [
+          -74.0398827,
+          40.6990711
+        ],
+        [
+          -74.0398341,
+          40.6991092
+        ],
+        [
+          -74.0396871,
+          40.6990015
+        ],
+        [
+          -74.0395155,
+          40.6988757
+        ],
+        [
+          -74.0395753,
+          40.6988288
+        ],
+        [
+          -74.0392335,
+          40.6985784
+        ],
+        [
+          -74.0391326,
+          40.6986575
+        ],
+        [
+          -74.0391012,
+          40.6986822
+        ],
+        [
+          -74.0390305,
+          40.6987376
+        ],
+        [
+          -74.0389543,
+          40.6987974
+        ],
+        [
+          -74.0389247,
+          40.6988206
+        ],
+        [
+          -74.0388208,
+          40.6989017
+        ],
+        [
+          -74.0391616,
+          40.6991529
+        ],
+        [
+          -74.0390249,
+          40.6992595
+        ],
+        [
+          -74.0393413,
+          40.6994927
+        ],
+        [
+          -74.039395,
+          40.6994517
+        ],
+        [
+          -74.0394555,
+          40.699405
+        ],
+        [
+          -74.0394748,
+          40.6993891
+        ],
+        [
+          -74.0398172,
+          40.6996462
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 95161971,
+    "version": 16,
+    "timestamp": "2026-08-15T19:53:21Z",
+    "url": "https://www.openstreetmap.org/way/95161971"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 1177355003,
+      "version": 1,
+      "timestamp": "2023-05-29T21:24:02Z",
+      "url": "https://www.openstreetmap.org/way/1177355003"
+    },
+    {
+      "type": "way",
+      "id": 1177355004,
+      "version": 1,
+      "timestamp": "2023-05-29T21:24:02Z",
+      "url": "https://www.openstreetmap.org/way/1177355004"
+    }
+  ],
+  "wikidata": "Q102312434",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/nyc-ellis-island.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Ellis Island Main Building (National Museum of Immigration) — procedural, CC0-1.0, no textures. bun generators/nyc-ellis-island.ts",
+    "Map frame: x = model east, y = model north, z up, metres. The front, with the three great arches and the entrance canopy, faces model south (true bearing ~225°, towards the ferry slip). Placed at bearing 44.5°, the outline's long walls. Anchor: area centroid of the OSM outline way/95161971.",
+    "Evidence",
+    "OSM way/95161971 (outline, 118 × 66 m: the wings, the front recessed between the towers, the rear annex; 3 levels, roof #946e48) and its parts 1177355003/004 (two glass hipped skylights on the west wing).",
+    "Lidar: USGS 3DEP NY_NewYorkCity (2017), in the model frame (/tmp/city/nyc/work/nyc-ellis-island/bands.png), above the lowest ground (1.6 m NAVD88): the wings' flat roofs 18.2 m, parapets 19.5 m; the front and rear blocks between the towers 19.7 m; the Great Hall's clerestory x -30…30, y -15…5.5, walls to ~26 m under a red gabled roof, ridge 29 m along x, its gable ends at x = ±30; the four towers, 8 × 8 m, at x ±(19…28), y -29…-21 and 12…20, domes to ~35 m and finials to 38.5–41 m; the rear annex 7.5 m; the canopy 17 m wide, 32 m long (y -25…-57), eaves ~5 m, ridge ~7.6 m.",
+    "NAIP orthophoto (USGS, public domain): the hall's red tile roof, the wings' dark flat roofs and skylights, the canopy's glazed roof.",
+    "Published: 1900, Boring & Tilton, French Renaissance Revival; red brick in Flemish bond with limestone trim; four towers with copper domes; the Great Hall (Registry Room) on the second floor behind three great arched windows; the red steel and glass entrance canopy reproduces the original's form (Wikipedia; NRHP 66000119; NPS).",
+    "Photos, credits in /tmp/city/nyc/work/nyc-ellis-island/photos/credits.txt: the front and canopy (chensiyuan, CC BY-SA 4.0), from the south-west and west over the water (Jakub Hałun, CC BY 4.0), an aerial from the south (public domain), others by Simeon87, Dmckelvey4, Bohao Zhao.",
+    "Estimated: storey heights and window counts (from the front photo scaled to the lidar's 19.7 m cornice), the tower stages (limestone to the cornice, the banded brick shaft to 29 m, the lantern to 31.6 m, the onion dome to 35.8 m, the spire to 40.6 m within the lidar's 38.5–41 m), the front gables (apex 23.5 m), the canopy's posts and roof, the rear and wing-end windows (drawn like the front). The skylights on the wings are left as flat roof.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"nyc-ellis-island\", model \"nyc-ellis-island\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/nyc-ellis-island.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

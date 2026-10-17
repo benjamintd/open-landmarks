@@ -1,0 +1,171 @@
+{
+  "id": "new-york-life-building",
+  "name": "New York Life Building",
+  "anchor": [
+    -73.9855822,
+    40.7427464
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 151180,
+      "sha256": "be4c0ba61ee392fd0389de41027b07a20d7a37a075066819ac33b8d681a4b5a5"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 151180,
+      "sha256": "be4c0ba61ee392fd0389de41027b07a20d7a37a075066819ac33b8d681a4b5a5"
+    }
+  },
+  "triangles": 2798,
+  "boundsBlenderM": [
+    [
+      -69.888,
+      -56.947,
+      0
+    ],
+    [
+      69.888,
+      56.947,
+      187.5
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -73.9851032,
+          40.7422388
+        ],
+        [
+          -73.9848984,
+          40.7425154
+        ],
+        [
+          -73.9847586,
+          40.7427046
+        ],
+        [
+          -73.9860608,
+          40.7432542
+        ],
+        [
+          -73.9864058,
+          40.7427879
+        ],
+        [
+          -73.9851032,
+          40.7422388
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 109280421,
+    "version": 14,
+    "timestamp": "2026-08-28T19:21:13Z",
+    "url": "https://www.openstreetmap.org/way/109280421"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 158856531,
+      "version": 3,
+      "timestamp": "2014-06-04T13:10:55Z",
+      "url": "https://www.openstreetmap.org/way/158856531"
+    },
+    {
+      "type": "way",
+      "id": 158856532,
+      "version": 3,
+      "timestamp": "2014-06-04T13:10:55Z",
+      "url": "https://www.openstreetmap.org/way/158856532"
+    },
+    {
+      "type": "way",
+      "id": 158856533,
+      "version": 3,
+      "timestamp": "2014-06-04T13:10:55Z",
+      "url": "https://www.openstreetmap.org/way/158856533"
+    },
+    {
+      "type": "way",
+      "id": 158856535,
+      "version": 5,
+      "timestamp": "2018-03-14T02:26:05Z",
+      "url": "https://www.openstreetmap.org/way/158856535"
+    },
+    {
+      "type": "way",
+      "id": 607446387,
+      "version": 2,
+      "timestamp": "2019-01-04T17:18:53Z",
+      "url": "https://www.openstreetmap.org/way/607446387"
+    },
+    {
+      "type": "way",
+      "id": 607446389,
+      "version": 3,
+      "timestamp": "2019-01-05T14:13:49Z",
+      "url": "https://www.openstreetmap.org/way/607446389"
+    },
+    {
+      "type": "way",
+      "id": 607446391,
+      "version": 2,
+      "timestamp": "2019-01-04T17:18:53Z",
+      "url": "https://www.openstreetmap.org/way/607446391"
+    },
+    {
+      "type": "way",
+      "id": 607446393,
+      "version": 2,
+      "timestamp": "2019-01-04T17:18:53Z",
+      "url": "https://www.openstreetmap.org/way/607446393"
+    }
+  ],
+  "wikidata": "Q1499859",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/nyc-new-york-life.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "New York Life Building (51 Madison Avenue), Manhattan — procedural, CC0-1.0, no textures. bun generators/nyc-new-york-life.ts",
+    "Map frame: x = model east (East 26th/27th Streets run along x, Madison Avenue is −x, Park Avenue South +x), y = model north (27th Street), z up, metres. Placed at bearing 29°, the Manhattan grid. Anchor: area centroid of the OSM outline way/109280421, which covers the whole block.",
+    "Identifying features (from the photos): the gilded octagonal pyramid roof; its gold lantern and spire; the four corner turrets with gold cone caps round the pyramid's foot; the square pale limestone tower rising from wings and a block-filling base in 1916-zoning setbacks; the double-height arcade round the street walls.",
+    "Evidence",
+    "OSM way/109280421 (block outline, 126 × 59 m, tagged 22 m) and its parts 158856535 (central section, 60 m, with light courts on 26th and 27th Streets), 158856532 (tower and wings, 115 m), 158856533 (tower, 148 m), 158856531 (octagonal roof, 187.5 m), 607446387/389/391/393 (corner turrets, 152.5 m).",
+    "Lidar: USGS 3DEP NY_NewYorkCity (2017), resampled into the model frame (/tmp/city/nyc/work/nyc-new-york-life/rot.png), heights above the street (10.3 m NAVD88): base 22–24 m over the whole block; central section 60–62 m; wings 105–113 m; tower 138–149 m; the roof from ~146 m at its foot (r ≈ 11 m) to 163–172 m at r 5 m and 187–189 m at the tip.",
+    "Published: 1928, Cass Gilbert; 615 ft (187 m), 34 office storeys plus a six-storey roof; setbacks at the 5th, 14th, 26th, 30th, 31st, 34th and 35th floors; tower five bays a side, wings three; the octagonal pyramid 88 ft (27 m) tall in gold-leafed tiles with a 57 ft (17 m) lantern; arcades of 9 bays on the avenues and 19 on the streets; limestone over a granite base (Wikipedia; NRHP 1978).",
+    "Photos (Wikimedia Commons), credits in /tmp/city/nyc/work/nyc-new-york-life/photos/credits.txt: from the Empire State Building (north-west, DanielPenfield CC BY-SA 4.0; Tony Hisgett CC BY 2.0), at dusk (Noah Sheridan CC BY-SA 3.0), from the north-east (ButtonwoodTree CC BY-SA 3.0), street level (AnahitaR CC BY-SA 4.0).",
+    "Estimated: the clean rectangles drawn for the setbacks (OSM, squared to the grid), storey height 4.1 m and panel grouping (one panel per paired window bay, two floors), the 35th-floor block (set ~2.5 m in, so the turrets at its corners land on OSM's turret ways), the lantern's split between gallery and spire, the small mid-side gold finials.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"nyc-new-york-life\", model \"nyc-new-york-life\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/nyc-new-york-life.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

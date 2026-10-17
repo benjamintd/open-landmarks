@@ -1,0 +1,168 @@
+{
+  "id": "columbus-monument",
+  "name": "Columbus Monument",
+  "anchor": [
+    -73.981898,
+    40.768069
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 97852,
+      "sha256": "dadb5ef1956270cb7a05649814c284e92984f7cadc1025c471c94fdc1605a4e8"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 97852,
+      "sha256": "dadb5ef1956270cb7a05649814c284e92984f7cadc1025c471c94fdc1605a4e8"
+    }
+  },
+  "triangles": 2996,
+  "boundsBlenderM": [
+    [
+      -6.496,
+      -6.496,
+      0
+    ],
+    [
+      6.496,
+      6.496,
+      23.02
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -73.9819363,
+          40.7681182
+        ],
+        [
+          -73.9819734,
+          40.7680701
+        ],
+        [
+          -73.9819648,
+          40.7680403
+        ],
+        [
+          -73.9818953,
+          40.7680101
+        ],
+        [
+          -73.9818593,
+          40.7680197
+        ],
+        [
+          -73.9818222,
+          40.7680678
+        ],
+        [
+          -73.9818298,
+          40.7680965
+        ],
+        [
+          -73.9818993,
+          40.7681268
+        ],
+        [
+          -73.9819363,
+          40.7681182
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 608947452,
+    "version": 26,
+    "timestamp": "2023-08-21T19:26:53Z",
+    "url": "https://www.openstreetmap.org/way/608947452"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 259888095,
+      "version": 3,
+      "timestamp": "2026-03-08T23:16:10Z",
+      "url": "https://www.openstreetmap.org/way/259888095"
+    },
+    {
+      "type": "way",
+      "id": 259888096,
+      "version": 4,
+      "timestamp": "2026-03-08T23:16:10Z",
+      "url": "https://www.openstreetmap.org/way/259888096"
+    },
+    {
+      "type": "way",
+      "id": 259888097,
+      "version": 5,
+      "timestamp": "2026-03-08T23:16:10Z",
+      "url": "https://www.openstreetmap.org/way/259888097"
+    },
+    {
+      "type": "way",
+      "id": 259888098,
+      "version": 5,
+      "timestamp": "2026-03-08T23:16:10Z",
+      "url": "https://www.openstreetmap.org/way/259888098"
+    },
+    {
+      "type": "way",
+      "id": 259888099,
+      "version": 4,
+      "timestamp": "2026-03-08T23:16:10Z",
+      "url": "https://www.openstreetmap.org/way/259888099"
+    },
+    {
+      "type": "way",
+      "id": 259888101,
+      "version": 2,
+      "timestamp": "2026-03-08T23:16:10Z",
+      "url": "https://www.openstreetmap.org/way/259888101"
+    }
+  ],
+  "wikidata": "Q86518088",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/nyc-columbus-monument.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Columbus Monument, Columbus Circle, Manhattan (Gaetano Russo, 1892) — procedural, CC0-1.0, no textures. bun generators/nyc-columbus-monument.ts",
+    "Map frame: x = model east, y = model north, z up, metres. Placed at bearing 29.4°, the Manhattan grid, which the pedestal follows (the edges of OSM way/259888097). Model −y is the pedestal's front, toward Eighth Avenue (SSW), where the marble angel sits; Columbus faces that way too. The rostra (ships' prows) project from the column's ±x sides, the anchors sit on its ±y faces. Anchor: the centroid of the OSM outline way/608947452 (historic=monument, building=yes), which this model replaces with its six stacked building:parts (way/259888095–259888101).",
+    "Evidence",
+    "Published (Wikipedia, NRHP 2018): 76 ft (23 m) overall; a 14 ft (4.3 m) marble statue on a granite rostral column, four-stepped granite pedestal; bronze galley prows for the three ships; marble angel holding a globe on the pedestal.",
+    "Lidar: USGS 3DEP NY_NewYorkCity (2017), 0.5 m, /tmp/city/nyc/lidar.py. Plaza 24.65 m NAVD88 (y = 0); steps up to ~1.35 m; lower pedestal top ~3.8 m over a ~4 m square; die and its cornice ~7.8 m; capital/abacus ~17.6 m over ~2.2 m; statue's head 23.1 m above the plaza.",
+    "OSM building:parts give the plan: steps 11.2 / 9.2 / 6.9 m across (elongated octagons), lower pedestal 3.95 m square with cut corners, die 2.7 m, column plinth 1.7 m, shaft ~1.2 m.",
+    "Photos (Wikimedia Commons), credits in /tmp/city/nyc/work/nyc-columbus-monument/photos/credits.txt: Mike Peel (CC BY-SA 4.0, the whole monument from the SSW front), Daderot (CC0, statue close-up; from the south-east; column side with the prows), Acediscovery (CC BY 4.0, the angel), Juliette2020 (CC BY-SA 4.0, aerial), McKay Savage (CC BY 2.0, from the Time Warner Center) — the last two fix the angel on the SSW face and the prows on the WNW/ESE sides.",
+    "Estimated from the photos against the lidar heights: the split of the pedestal into lower block / die / cornices, the column's mouldings, the prows' size (~0.85 m out from the shaft, ~0.5 m tall) and tier heights (10.9, 12.7, 14.5 m), the figures' poses. The bronze palmette crest, the relief panels' content and the inscription are left out; the relief panels are flat bronze plates. The fountain basin around the plaza is the map's (water and paving are not modelled).",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"nyc-columbus-monument\", model \"nyc-columbus-monument\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/nyc-columbus-monument.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

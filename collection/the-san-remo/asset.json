@@ -1,0 +1,162 @@
+{
+  "id": "the-san-remo",
+  "name": "The San Remo",
+  "anchor": [
+    -73.9751329,
+    40.7779994
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 158600,
+      "sha256": "b56fd949514d686e19c8814fa9812d7dc89948f477f6f34794aef336b4326fbe"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 158600,
+      "sha256": "b56fd949514d686e19c8814fa9812d7dc89948f477f6f34794aef336b4326fbe"
+    }
+  },
+  "triangles": 3228,
+  "boundsBlenderM": [
+    [
+      -36.235,
+      -36.08,
+      0
+    ],
+    [
+      32.978,
+      37.886,
+      124
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -73.9750945,
+          40.7776732
+        ],
+        [
+          -73.9755629,
+          40.7778703
+        ],
+        [
+          -73.9754606,
+          40.7780109
+        ],
+        [
+          -73.9754219,
+          40.7779946
+        ],
+        [
+          -73.9753746,
+          40.7780595
+        ],
+        [
+          -73.9752071,
+          40.7779891
+        ],
+        [
+          -73.97526,
+          40.7779165
+        ],
+        [
+          -73.9751705,
+          40.7778788
+        ],
+        [
+          -73.9750116,
+          40.7780972
+        ],
+        [
+          -73.9751085,
+          40.778138
+        ],
+        [
+          -73.9751596,
+          40.7780678
+        ],
+        [
+          -73.9752917,
+          40.7781234
+        ],
+        [
+          -73.9752443,
+          40.7781885
+        ],
+        [
+          -73.9752777,
+          40.7782025
+        ],
+        [
+          -73.9751763,
+          40.7783417
+        ],
+        [
+          -73.9747411,
+          40.7781587
+        ],
+        [
+          -73.9747483,
+          40.7781488
+        ],
+        [
+          -73.9750945,
+          40.7776732
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 269293207,
+    "version": 7,
+    "timestamp": "2021-12-04T15:12:20Z",
+    "url": "https://www.openstreetmap.org/way/269293207"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q1319147",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/nyc-san-remo.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "The San Remo, 145–146 Central Park West — procedural, CC0-1.0, no textures. bun generators/nyc-san-remo.ts",
+    "Map frame: x = model east (Central Park West), y = model north (West 75th Street), z up, metres. Placed at bearing 29°, the Manhattan grid. Anchor: area centroid of the OSM outline way/269293207.",
+    "Identifying features (from the photos): 1. Twin square towers rising ten storeys from a broad seventeen-storey base, set back from Central Park West at its two ends. 2. Each tower's crown: a stepped stage with corner pinnacles, a smaller stage, then a circular colonnaded tempietto (the Choragic Monument of Lysicrates) under a drum and a tall lantern finial. 3. The base stepping back in terraces towards the top, more at its corners, on an E-shaped plan with light courts to the west. 4. Pale buff limestone and brick, punched windows.",
+    "Evidence",
+    "OSM way/269293207 (outline, 45 × 61 m, E-shaped, height 122 m, 25 levels); no building:part ways.",
+    "Lidar: USGS 3DEP NY_NewYorkCity (2017), resampled in the model frame (/tmp/city/nyc/work/lc/rot.py), above the lowest ground under the footprint (24.5 m NAVD88): the base 47 m at Central Park West stepping to 54, 57.5 and 61 m (64 m penthouses); the courts' floors 3 m; the towers about 19 m square, centred about 14 m back from Central Park West, x −4…16, y 8…26 and −24…−6, their roofs 94–96 m; the upper stages 100–104 m; the tempietto to 110 m; the finials 119 and 124 m.",
+    "Published: Emery Roth, 1930, 27 storeys, 400 ft (122 m) (Wikipedia; NYC landmark, part of the Central Park West Historic District).",
+    "Photos (Wikimedia Commons, daylight): from Central Park (Ed Yourdon, CC BY-SA 2.0; Bilby, CC BY 3.0; Jim.henderson, public domain), on Central Park West (Philippe Cendron, CC BY-SA 4.0; Ajay Suresh, CC BY 4.0); /tmp/city/nyc/work/nyc-san-remo/photos/credits.txt.",
+    "Estimated: the base's terraces (from the lidar and the park-side photo), the window bays (3.4 m, two storeys a panel), the crown stages' sizes, the tempietto's radius (3 m, from the park-side photo scaled to the lidar) and its eight columns, the finial's profile. The pinnacles are simple spikes; the urns, balustrades and carving are left out. The rear (west) courts are drawn from OSM.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"nyc-san-remo\", model \"nyc-san-remo\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/nyc-san-remo.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

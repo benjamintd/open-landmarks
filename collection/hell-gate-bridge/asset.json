@@ -1,0 +1,180 @@
+{
+  "id": "hell-gate-bridge",
+  "name": "Hell Gate Bridge",
+  "anchor": [
+    -73.9220019,
+    40.7825405
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 153608,
+      "sha256": "6e6394f320e2753fafe58b4f359ef8a069e334044af1b81dab93cdf089580a16"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 153608,
+      "sha256": "6e6394f320e2753fafe58b4f359ef8a069e334044af1b81dab93cdf089580a16"
+    }
+  },
+  "triangles": 3194,
+  "boundsBlenderM": [
+    [
+      -142.371,
+      -140.823,
+      0
+    ],
+    [
+      142.371,
+      140.823,
+      94.2
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -73.9203085,
+          40.7815628
+        ],
+        [
+          -73.9204888,
+          40.7814206
+        ],
+        [
+          -73.9205274,
+          40.7813956
+        ],
+        [
+          -73.9205554,
+          40.7813703
+        ],
+        [
+          -73.9206768,
+          40.7812779
+        ],
+        [
+          -73.920907,
+          40.7814484
+        ],
+        [
+          -73.9208431,
+          40.7814978
+        ],
+        [
+          -73.9234094,
+          40.7833998
+        ],
+        [
+          -73.9234486,
+          40.7833717
+        ],
+        [
+          -73.9236768,
+          40.7835542
+        ],
+        [
+          -73.9235829,
+          40.7836215
+        ],
+        [
+          -73.9234229,
+          40.7837362
+        ],
+        [
+          -73.9233178,
+          40.7838116
+        ],
+        [
+          -73.9230896,
+          40.7836291
+        ],
+        [
+          -73.9231462,
+          40.7835885
+        ],
+        [
+          -73.9205914,
+          40.7816926
+        ],
+        [
+          -73.9205388,
+          40.7817334
+        ],
+        [
+          -73.9203085,
+          40.7815628
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 394608567,
+    "version": 5,
+    "timestamp": "2024-03-02T06:21:18Z",
+    "url": "https://www.openstreetmap.org/way/394608567"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 1016643613,
+      "version": 2,
+      "timestamp": "2024-03-02T06:21:18Z",
+      "url": "https://www.openstreetmap.org/way/1016643613"
+    },
+    {
+      "type": "way",
+      "id": 1016643614,
+      "version": 2,
+      "timestamp": "2024-03-05T18:02:47Z",
+      "url": "https://www.openstreetmap.org/way/1016643614"
+    }
+  ],
+  "wikidata": "Q1035131",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/nyc-hell-gate-bridge.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Hell Gate Bridge (1917; Gustav Lindenthal, towers by Henry Hornbostel) — procedural, CC0-1.0, no textures. bun generators/nyc-hell-gate-bridge.ts",
+    "The whole arch span and its two stone towers as one model, since the arch is the bridge. Map frame: x across the bridge, y along it (toward Randalls Island), z up, metres; origin at the middle of the span on the water. Placed at bearing 314.6°, the line between the towers' tops in the lidar (OSM's tower centroids give 314.5°). The approach viaducts beyond the towers are the map's.",
+    "What makes it the Hell Gate Bridge: a steel through-arch whose top chord rises in a long curve and flattens into the towers, while the bottom chord springs from the towers' feet, so the truss is deepest at its ends and shallowest at the crown; the deck hung through the middle on hangers; two massive granite towers with an arched opening in each face of their top stage, a heavy cornice and a parapet; the arch painted a faded crimson.",
+    "Sources:",
+    "OSM: way/394608567 (man_made=bridge, the span's outline), towers way/1016643613 (Randalls Island) and way/1016643614 (Queens), bridge:support, about 44 x 27 m at their feet.",
+    "Lidar (USGS 3DEP NY_NewYorkCity 2017, point cloud along the bridge; heights above the water at about -1 m NAVD88): top chord's top 94.2 m at the crown, 89.5 at ±50 m, 75.4 at ±100, 61.7 at ±130, 58 m where it meets the towers; bottom chord about 76–81 m at the crown, 66–70 at ±60, at the deck (42–47 m) near ±100 and down to about 18–22 m at ±140; the two trusses 20 m apart; the deck 30 m wide; tower tops 74.1 m, their top stage and parapet 34.4 m across and 21 m along, centred 165–166 m either side of mid-span; the ground at their feet 6–8 m up.",
+    "Published: arch span 977.5 ft (298 m); towers 250 ft (76 m) above the water; 135 ft (41 m) clearance (Wikipedia \"Hell Gate Bridge\"; HAER NY-136).",
+    "Photos (Wikimedia Commons): \"Hell Gate Bridge (84459)p\" (Rhododendrites, CC BY-SA 4.0; the whole span side-on from the south-west, the towers' openings, cornice and parapet); \"Hell Gate Bridge (60275p)\" (Rhododendrites, CC BY-SA 4.0; the span from the south, both towers); \"Hell Gate Bridge November 2019\" (IvanGeoPetrov, CC BY-SA 4.0; side-on from Astoria Park); \"View of Hell Gate Bridge from Astoria Park, Queens New York\" (Kenneth C. Zirkel, CC BY 4.0; the web and hangers from below, the Queens tower).",
+    "Fitted to the lidar: bottom chord z = 78.5 - 0.00295 y² (centreline); top chord 92.4 - 0.00188 y² out to ±120 m, then easing flat into the towers at 56.2 m.",
+    "Estimated from photos: 14 web panels (the real truss has about 23), a Pratt pattern of one diagonal per panel; the towers' openings (9 m wide, sills just above the deck, crowns 62 m), the cornice and parapet; the towers' batter and plinth.",
+    "Colour: the steel reads a faded crimson to mauve in daylight photos (maroon in shade, pink at sunset), drawn at the palette's terracotta lightness; the towers' granite buff-grey (#c5b9a9 to #d4cdbb lit).",
+    "y = 0 is the river. The towers stand on ground 6–8 m up and sink into it.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"nyc-hell-gate-bridge\", model \"nyc-hell-gate-bridge\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/nyc-hell-gate-bridge.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

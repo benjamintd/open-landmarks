@@ -1,0 +1,110 @@
+{
+  "id": "general-grant-national-memorial",
+  "name": "General Grant National Memorial",
+  "anchor": [
+    -73.963051,
+    40.813454
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 144640,
+      "sha256": "468b23f37c732fa166973a51c0ac29658e560f3fac3576adf9c3eee4a4b6297e"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 144640,
+      "sha256": "468b23f37c732fa166973a51c0ac29658e560f3fac3576adf9c3eee4a4b6297e"
+    }
+  },
+  "triangles": 3968,
+  "boundsBlenderM": [
+    [
+      -20.969,
+      -31.913,
+      0
+    ],
+    [
+      19.136,
+      19.136,
+      46.3
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -73.9629592,
+          40.8132978
+        ],
+        [
+          -73.963256,
+          40.8133846
+        ],
+        [
+          -73.963142,
+          40.8136097
+        ],
+        [
+          -73.9628452,
+          40.8135229
+        ],
+        [
+          -73.9629592,
+          40.8132978
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 271922197,
+    "version": 8,
+    "timestamp": "2024-06-02T00:07:08Z",
+    "url": "https://www.openstreetmap.org/way/271922197"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q1025105",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/nyc-grants-tomb.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "General Grant National Memorial (Grant's Tomb), Riverside Drive at 122nd Street — procedural, CC0-1.0, no textures. bun generators/nyc-grants-tomb.ts",
+    "Map frame: x = model east, y = model north, z up, metres. The portico faces model south (true bearing ~201°, down Riverside Drive). Placed at bearing 21.1°, the edges of the OSM outline way/271922197 (a 26.8 m square). Anchor: that outline's centroid.",
+    "Evidence",
+    "OSM way/271922197: 26.8 × 26.7 m square, height 46.9 m.",
+    "Lidar: USGS 3DEP NY_NewYorkCity (2017), 0.5 m, read in the model frame, heights above the ground on the north and west sides (39.9 m NAVD88, the lowest under the footprint): main cornice 18.8 m, overhanging the walls by ~1.5 m; attic 21.0–21.4 m; the portico's roof 13.8–14.0 m, running from the wall out to 5.8 m in front of it, 21.8 m wide; the peristyle's entablature 34.4 m out to radius 11.2 m; the drum's attic to 38.3 m at radius 8.5 m; the cone rising from there at 45° to 46.6 m at the centre (radial medians over 72 directions). The flight of steps falls from the portico floor to about 0.5 m 12 m out, between the two eagle pedestals (4.7 m).",
+    "Published: 1897, John Duncan, granite; \"150 ft\" tall on a 90 ft square base; a Doric portico of two rows of six columns; a drum ringed by an Ionic peristyle under a stepped conical roof (Wikipedia; NPS; NRHP 66000055).",
+    "Photos (Wikimedia Commons), credits in /tmp/city/nyc/work/nyc-grants-tomb/photos/credits.txt: the south front square on (King of Hearts, two; Daniel Schwen), from the south-east under the portico (Ccnyc123), the rear from the north (Gigi alt): the piers and three high windows on the north face, small square windows in the drum's podium, the cone a weathered darker grey than the walls.",
+    "Estimated: the portico's split between columns (2.6–11 m, 1.6 m across on a 3.9 m pitch, from the square-on photo scaled to the lidar's 21.8 m portico) and entablature; the porch floor (2.6 m, thirteen risers in the photo); the drum's podium (to 24.4 m), column (8 m) and entablature (2.2 m) heights, split from the lidar's 21.2 → 34.6 m by the photos' proportions, the colonnade given the larger share (podium 21.2–23 m over a square step, columns 23–32.6 m); 20 bold peristyle columns, 1.45 m across (the photos show about 10–12 across the front half); the grilles between them; the attic's height split (37.9 m and a 0.5 m step at the cone's foot); the roof drawn as seven steps on the lidar's envelope. Ground-level photos make the cone look lower than it is (the camera sees it foreshortened); the lidar's radial profile (34.4 m entablature to r 8.7, 38.3 m at r 8.4, 40.8 m at r 6, 46.6 m at the knob) is what the heights follow. Colour: the warm pale granite of the sunlit photos, as the palette's stone, with a warm shade for the porch wall, the cella, the flat tops and the roof's risers. Sculpture (the attic's figures and corner trophies, the eagles) is left out; the attic's corner blocks are kept as plain raised blocks. The east and west faces are drawn like the north face (no licensed photo shows them square on). Flat tops are drawn in the shaded granite: no evidence of a different roof finish.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"nyc-grants-tomb\", model \"nyc-grants-tomb\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/nyc-grants-tomb.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 111 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the nyc-grants-tomb-glazing finish in the window colour."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

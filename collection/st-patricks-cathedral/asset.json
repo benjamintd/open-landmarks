@@ -1,0 +1,258 @@
+{
+  "id": "st-patricks-cathedral",
+  "name": "St. Patrick's Cathedral",
+  "anchor": [
+    -73.976317,
+    40.758574
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 236456,
+      "sha256": "26c6d9be4fab605e55b81813c73d027c96178b33054b2a74aa72d1c16c91e37a"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 236456,
+      "sha256": "26c6d9be4fab605e55b81813c73d027c96178b33054b2a74aa72d1c16c91e37a"
+    }
+  },
+  "triangles": 4989,
+  "boundsBlenderM": [
+    [
+      -44.247,
+      -42.177,
+      0
+    ],
+    [
+      68.563,
+      35.782,
+      100.5
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -73.9761796,
+          40.758713
+        ],
+        [
+          -73.9761587,
+          40.7587423
+        ],
+        [
+          -73.9759188,
+          40.7586434
+        ],
+        [
+          -73.9760077,
+          40.7585187
+        ],
+        [
+          -73.9757876,
+          40.7584279
+        ],
+        [
+          -73.975775,
+          40.7584199
+        ],
+        [
+          -73.9757645,
+          40.7584103
+        ],
+        [
+          -73.9757565,
+          40.7583994
+        ],
+        [
+          -73.9757513,
+          40.7583876
+        ],
+        [
+          -73.9757497,
+          40.7583815
+        ],
+        [
+          -73.9757489,
+          40.7583753
+        ],
+        [
+          -73.9757489,
+          40.7583691
+        ],
+        [
+          -73.9757496,
+          40.7583629
+        ],
+        [
+          -73.9757532,
+          40.7583507
+        ],
+        [
+          -73.9757597,
+          40.7583393
+        ],
+        [
+          -73.9757688,
+          40.7583289
+        ],
+        [
+          -73.9757802,
+          40.75832
+        ],
+        [
+          -73.9757936,
+          40.7583128
+        ],
+        [
+          -73.9758008,
+          40.7583099
+        ],
+        [
+          -73.9758163,
+          40.7583057
+        ],
+        [
+          -73.9758325,
+          40.7583038
+        ],
+        [
+          -73.9758406,
+          40.7583037
+        ],
+        [
+          -73.9758488,
+          40.7583041
+        ],
+        [
+          -73.9758569,
+          40.7583051
+        ],
+        [
+          -73.9758649,
+          40.7583067
+        ],
+        [
+          -73.9758726,
+          40.7583088
+        ],
+        [
+          -73.976095,
+          40.7584006
+        ],
+        [
+          -73.9761804,
+          40.7582808
+        ],
+        [
+          -73.9764207,
+          40.7583799
+        ],
+        [
+          -73.9763975,
+          40.7584124
+        ],
+        [
+          -73.9768425,
+          40.7585968
+        ],
+        [
+          -73.9767964,
+          40.7586618
+        ],
+        [
+          -73.9767647,
+          40.7587066
+        ],
+        [
+          -73.9767085,
+          40.7587863
+        ],
+        [
+          -73.976675,
+          40.7588337
+        ],
+        [
+          -73.9766284,
+          40.7588982
+        ],
+        [
+          -73.9765401,
+          40.7588616
+        ],
+        [
+          -73.9761796,
+          40.758713
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 266010379,
+    "version": 18,
+    "timestamp": "2025-07-14T07:45:38Z",
+    "url": "https://www.openstreetmap.org/way/266010379"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 161156112,
+      "version": 1,
+      "timestamp": "2012-04-26T08:51:16Z",
+      "url": "https://www.openstreetmap.org/way/161156112"
+    },
+    {
+      "type": "way",
+      "id": 161156113,
+      "version": 1,
+      "timestamp": "2012-04-26T08:51:16Z",
+      "url": "https://www.openstreetmap.org/way/161156113"
+    },
+    {
+      "type": "way",
+      "id": 266010403,
+      "version": 2,
+      "timestamp": "2022-08-26T12:27:03Z",
+      "url": "https://www.openstreetmap.org/way/266010403"
+    }
+  ],
+  "wikidata": "Q624556",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/st-patricks-cathedral.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "St. Patrick's Cathedral, Fifth Avenue — procedural, CC0-1.0, no textures. bun generators/st-patricks-cathedral.ts",
+    "Map frame: x across the church, y along its axis with +y towards the east end (Madison Avenue), z up, metres. Placed at bearing 118.4°, so the twin spires face Fifth Avenue on the model's -y side. Origin is on the axis at the centroid of the OSM outline (way/266010379).",
+    "Footprints follow OSM: the outline (way/266010379, ridge 42 m), the two spire parts (way/161156112, way/161156113, 100.5 m) and the east end with the ambulatory and lady chapel (way/266010403, 29.4 m). Everything is mirrored about x = 0, as the building is.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"st-patricks-cathedral\", model \"st-patricks-cathedral\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/st-patricks-cathedral.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

@@ -1,0 +1,606 @@
+{
+  "id": "cathedral-of-st-john-the-divine",
+  "name": "Cathedral of St. John the Divine",
+  "anchor": [
+    -73.961648,
+    40.803753
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 124376,
+      "sha256": "0a7a8f57a53592afae066a22159106ff9be2fa1d3ab8b2228e55d36ac8953450"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 124376,
+      "sha256": "0a7a8f57a53592afae066a22159106ff9be2fa1d3ab8b2228e55d36ac8953450"
+    }
+  },
+  "triangles": 2940,
+  "boundsBlenderM": [
+    [
+      -94.241,
+      -62.259,
+      0
+    ],
+    [
+      78.918,
+      66.09,
+      63
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -73.9624001,
+          40.8043217
+        ],
+        [
+          -73.9623093,
+          40.8042849
+        ],
+        [
+          -73.9623005,
+          40.8042974
+        ],
+        [
+          -73.9622765,
+          40.8042877
+        ],
+        [
+          -73.96229,
+          40.8042685
+        ],
+        [
+          -73.9622633,
+          40.8042577
+        ],
+        [
+          -73.9622771,
+          40.804238
+        ],
+        [
+          -73.9623038,
+          40.8042489
+        ],
+        [
+          -73.9623185,
+          40.804228
+        ],
+        [
+          -73.9616752,
+          40.8039646
+        ],
+        [
+          -73.9616953,
+          40.8039355
+        ],
+        [
+          -73.9616073,
+          40.803902
+        ],
+        [
+          -73.9615604,
+          40.8039687
+        ],
+        [
+          -73.9616164,
+          40.8039914
+        ],
+        [
+          -73.9615494,
+          40.8040868
+        ],
+        [
+          -73.9615436,
+          40.8040951
+        ],
+        [
+          -73.9615328,
+          40.8041104
+        ],
+        [
+          -73.9613786,
+          40.8040478
+        ],
+        [
+          -73.9613747,
+          40.8040533
+        ],
+        [
+          -73.9613657,
+          40.8040496
+        ],
+        [
+          -73.9613399,
+          40.8040863
+        ],
+        [
+          -73.9613092,
+          40.8040738
+        ],
+        [
+          -73.9613312,
+          40.8040425
+        ],
+        [
+          -73.9613112,
+          40.8040345
+        ],
+        [
+          -73.9613296,
+          40.8040083
+        ],
+        [
+          -73.9612355,
+          40.8039701
+        ],
+        [
+          -73.9612263,
+          40.8039832
+        ],
+        [
+          -73.9612159,
+          40.803979
+        ],
+        [
+          -73.9611997,
+          40.804002
+        ],
+        [
+          -73.9611846,
+          40.8039958
+        ],
+        [
+          -73.9611722,
+          40.8040134
+        ],
+        [
+          -73.9611445,
+          40.8040022
+        ],
+        [
+          -73.9611684,
+          40.8039682
+        ],
+        [
+          -73.9611608,
+          40.8039652
+        ],
+        [
+          -73.9611636,
+          40.8039613
+        ],
+        [
+          -73.9611012,
+          40.803936
+        ],
+        [
+          -73.9611126,
+          40.8039197
+        ],
+        [
+          -73.9610976,
+          40.8039136
+        ],
+        [
+          -73.9611627,
+          40.803821
+        ],
+        [
+          -73.9611572,
+          40.8038188
+        ],
+        [
+          -73.9611642,
+          40.8038089
+        ],
+        [
+          -73.9610714,
+          40.8037712
+        ],
+        [
+          -73.9610516,
+          40.8037994
+        ],
+        [
+          -73.9608742,
+          40.8037274
+        ],
+        [
+          -73.9608778,
+          40.8037222
+        ],
+        [
+          -73.9608525,
+          40.803712
+        ],
+        [
+          -73.9608787,
+          40.8036747
+        ],
+        [
+          -73.9608715,
+          40.8036718
+        ],
+        [
+          -73.9608641,
+          40.8036413
+        ],
+        [
+          -73.9608861,
+          40.80361
+        ],
+        [
+          -73.9608331,
+          40.8036349
+        ],
+        [
+          -73.9607733,
+          40.8036339
+        ],
+        [
+          -73.9607454,
+          40.8035972
+        ],
+        [
+          -73.9607685,
+          40.803558
+        ],
+        [
+          -73.9607597,
+          40.8035245
+        ],
+        [
+          -73.9607104,
+          40.8035045
+        ],
+        [
+          -73.9607079,
+          40.8034531
+        ],
+        [
+          -73.9607581,
+          40.8034336
+        ],
+        [
+          -73.9607772,
+          40.8034065
+        ],
+        [
+          -73.9607194,
+          40.803383
+        ],
+        [
+          -73.9607817,
+          40.8032945
+        ],
+        [
+          -73.9608394,
+          40.8033179
+        ],
+        [
+          -73.9608588,
+          40.8032903
+        ],
+        [
+          -73.9608565,
+          40.8032483
+        ],
+        [
+          -73.9609125,
+          40.8032236
+        ],
+        [
+          -73.9609645,
+          40.8032447
+        ],
+        [
+          -73.9609981,
+          40.8032373
+        ],
+        [
+          -73.9610241,
+          40.8032003
+        ],
+        [
+          -73.9610958,
+          40.8031982
+        ],
+        [
+          -73.9611276,
+          40.8032333
+        ],
+        [
+          -73.961173,
+          40.8032167
+        ],
+        [
+          -73.9611935,
+          40.8031876
+        ],
+        [
+          -73.961423,
+          40.8032808
+        ],
+        [
+          -73.9613682,
+          40.8033589
+        ],
+        [
+          -73.9614054,
+          40.803374
+        ],
+        [
+          -73.9614168,
+          40.8033923
+        ],
+        [
+          -73.961461,
+          40.8034103
+        ],
+        [
+          -73.9614565,
+          40.8034167
+        ],
+        [
+          -73.9615395,
+          40.8034503
+        ],
+        [
+          -73.9615222,
+          40.8034749
+        ],
+        [
+          -73.9617757,
+          40.8035778
+        ],
+        [
+          -73.9617821,
+          40.8035687
+        ],
+        [
+          -73.9618106,
+          40.8035793
+        ],
+        [
+          -73.9618241,
+          40.8035858
+        ],
+        [
+          -73.9617988,
+          40.8036254
+        ],
+        [
+          -73.9618907,
+          40.8036632
+        ],
+        [
+          -73.9619273,
+          40.803613
+        ],
+        [
+          -73.9625594,
+          40.8038721
+        ],
+        [
+          -73.9625902,
+          40.8038319
+        ],
+        [
+          -73.9626108,
+          40.8038403
+        ],
+        [
+          -73.962632,
+          40.8038102
+        ],
+        [
+          -73.9626371,
+          40.8038123
+        ],
+        [
+          -73.9626507,
+          40.8038178
+        ],
+        [
+          -73.9626421,
+          40.80383
+        ],
+        [
+          -73.9627323,
+          40.8038666
+        ],
+        [
+          -73.9627385,
+          40.8038578
+        ],
+        [
+          -73.9627599,
+          40.8038665
+        ],
+        [
+          -73.9627538,
+          40.8038753
+        ],
+        [
+          -73.9627602,
+          40.8038852
+        ],
+        [
+          -73.9627822,
+          40.8038941
+        ],
+        [
+          -73.9627857,
+          40.8039101
+        ],
+        [
+          -73.9627746,
+          40.803926
+        ],
+        [
+          -73.9627572,
+          40.8039298
+        ],
+        [
+          -73.9627421,
+          40.8039237
+        ],
+        [
+          -73.962696,
+          40.8039893
+        ],
+        [
+          -73.9627101,
+          40.8039951
+        ],
+        [
+          -73.9627148,
+          40.8040089
+        ],
+        [
+          -73.9627053,
+          40.8040225
+        ],
+        [
+          -73.9626941,
+          40.8040179
+        ],
+        [
+          -73.9626569,
+          40.804024
+        ],
+        [
+          -73.9626062,
+          40.8040962
+        ],
+        [
+          -73.9625553,
+          40.8041686
+        ],
+        [
+          -73.9625638,
+          40.804172
+        ],
+        [
+          -73.9625503,
+          40.8041913
+        ],
+        [
+          -73.962537,
+          40.8041858
+        ],
+        [
+          -73.9625094,
+          40.8042251
+        ],
+        [
+          -73.9625301,
+          40.8042335
+        ],
+        [
+          -73.9625169,
+          40.8042524
+        ],
+        [
+          -73.9624961,
+          40.804244
+        ],
+        [
+          -73.9624482,
+          40.8043122
+        ],
+        [
+          -73.9624689,
+          40.8043206
+        ],
+        [
+          -73.9624553,
+          40.80434
+        ],
+        [
+          -73.9624367,
+          40.8043324
+        ],
+        [
+          -73.9624335,
+          40.804337
+        ],
+        [
+          -73.9624251,
+          40.8043335
+        ],
+        [
+          -73.962416,
+          40.8043464
+        ],
+        [
+          -73.9624004,
+          40.8043401
+        ],
+        [
+          -73.9623901,
+          40.8043359
+        ],
+        [
+          -73.9624001,
+          40.8043217
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "relation",
+    "id": 3624833,
+    "version": 8,
+    "timestamp": "2024-03-25T18:24:13Z",
+    "url": "https://www.openstreetmap.org/relation/3624833"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q865655",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/nyc-st-john-the-divine.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Cathedral of St. John the Divine, Amsterdam Avenue at 112th Street — procedural, CC0-1.0, no textures. bun generators/nyc-st-john-the-divine.ts",
+    "Map frame: x = model east, y = model north, z up, metres. Model north is the liturgical east (the apse, towards Morningside Park); the west front with its two towers is at −y on Amsterdam Avenue; +x is the south side (110th Street). Placed at bearing 118.1°, the outline's long edges. Anchor: area centroid of the OSM multipolygon relation/3624833 (outer way/271461243, with the open court of the unbuilt north transept as its inner ring, way/271461242). Gothic kit from nyc-riverside-church.ts.",
+    "Evidence",
+    "OSM relation/3624833: 183 m long outline, height 51.4 m.",
+    "Lidar: USGS 3DEP NY_NewYorkCity (2017), 1 m, read in the model frame. y = 0 is the lowest ground under the outline, at the east end (34.9 m NAVD88); the ground falls ~4.5 m from Amsterdam Avenue to the apse. Heights above y = 0: nave ridge 58.3 m over x = 3, the clerestory eaves ~43 m at x = −9 and +15, the tall aisles' outer walls 39.5 m at x = −19.7 and +24.6, buttress pinnacles to ~57 m; the crossing dome's crown 55.2 m over (3, 14), its rim ~44 m some 18 m out, and the great arches on the transept sides to ~47 m; the choir ridge 51.7 m, the apse hipped down by y = 72; the choir's flanking ranges ~21 m and the ring of chapels ~12 m; the north-west tower's flat top 49.4 m (the south-west tower read 65.5 m in 2017, under restoration scaffolding, so it is drawn as the twin of the north-west one, as the photos show); the west gable to ~58 m between them.",
+    "Published: begun 1892 (Heins & LaFarge, Romanesque–Byzantine choir and crossing), continued from 1909 by Ralph Adams Cram in French Gothic; 601 ft (183 m) long; the nave vault 124 ft; the crossing's 1909 Guastavino tile dome, meant to be temporary; the west towers and the transepts unfinished (Wikipedia; NRHP 82001189).",
+    "Photos (Wikimedia Commons), credits in /tmp/city/nyc/work/nyc-st-john-the-divine/photos/credits.txt: an aerial from the west (Gryffindor), the south side with the south-west tower from the Peace Fountain (Paulo JC Nogueira), a west tower and the nave side (Rochester), the south transept's great arch with the dome behind (Chris06), the south-west tower in scaffolding (Petri Krohn).",
+    "Estimated: window sizes and the bay count (eight nave bays) from the photos; the west portals and rose scaled from the aerial against the 22 m centre bay; the great arches as near-semicircles springing at 31 m on the crossing's 36 m sides (the photo of the south one); the dome as a low ellipsoidal cap on the lidar crown and rim; the unbuilt transepts as their low stubs; the choir's flanking ranges and the chapel ring as plain masses at the lidar heights.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"nyc-st-john-the-divine\", model \"nyc-st-john-the-divine\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/nyc-st-john-the-divine.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 202 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the nyc-st-john-the-divine-glazing finish in the window colour."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

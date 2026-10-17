@@ -1,0 +1,343 @@
+{
+  "id": "brooklyn-museum",
+  "name": "Brooklyn Museum",
+  "anchor": [
+    -73.9635448,
+    40.6709897
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 142444,
+      "sha256": "abb1f873322a68e592e13895c023fb06c886a0e3b52dd482840db7952a0bcc34"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 142444,
+      "sha256": "abb1f873322a68e592e13895c023fb06c886a0e3b52dd482840db7952a0bcc34"
+    }
+  },
+  "triangles": 2862,
+  "boundsBlenderM": [
+    [
+      -93.474,
+      -68.963,
+      0
+    ],
+    [
+      67.637,
+      62.253,
+      52
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -73.964574,
+          40.6714266
+        ],
+        [
+          -73.9646224,
+          40.6712897
+        ],
+        [
+          -73.9646143,
+          40.671288
+        ],
+        [
+          -73.9646305,
+          40.671242
+        ],
+        [
+          -73.9646449,
+          40.6712047
+        ],
+        [
+          -73.9643073,
+          40.6711428
+        ],
+        [
+          -73.9643029,
+          40.6711541
+        ],
+        [
+          -73.9641968,
+          40.6711326
+        ],
+        [
+          -73.9641939,
+          40.6711439
+        ],
+        [
+          -73.9640551,
+          40.6711158
+        ],
+        [
+          -73.9640771,
+          40.671051
+        ],
+        [
+          -73.9639407,
+          40.6710236
+        ],
+        [
+          -73.9637153,
+          40.6709811
+        ],
+        [
+          -73.9636804,
+          40.6709743
+        ],
+        [
+          -73.9637555,
+          40.6707506
+        ],
+        [
+          -73.9637238,
+          40.6707441
+        ],
+        [
+          -73.9637444,
+          40.6706859
+        ],
+        [
+          -73.9637808,
+          40.6706934
+        ],
+        [
+          -73.9638406,
+          40.6705242
+        ],
+        [
+          -73.9630962,
+          40.6703716
+        ],
+        [
+          -73.9630574,
+          40.6704811
+        ],
+        [
+          -73.9630801,
+          40.6704858
+        ],
+        [
+          -73.9630624,
+          40.6705359
+        ],
+        [
+          -73.9628688,
+          40.6704924
+        ],
+        [
+          -73.9627452,
+          40.6708543
+        ],
+        [
+          -73.9629093,
+          40.6708868
+        ],
+        [
+          -73.9628918,
+          40.6709307
+        ],
+        [
+          -73.9629095,
+          40.6709349
+        ],
+        [
+          -73.9628622,
+          40.6710685
+        ],
+        [
+          -73.9630458,
+          40.6711061
+        ],
+        [
+          -73.9630481,
+          40.6710994
+        ],
+        [
+          -73.9631052,
+          40.6711111
+        ],
+        [
+          -73.9631059,
+          40.671109
+        ],
+        [
+          -73.9633458,
+          40.6711582
+        ],
+        [
+          -73.96333,
+          40.6711825
+        ],
+        [
+          -73.9633379,
+          40.6712176
+        ],
+        [
+          -73.9633446,
+          40.6712573
+        ],
+        [
+          -73.9632772,
+          40.6712714
+        ],
+        [
+          -73.963292,
+          40.6713151
+        ],
+        [
+          -73.9633194,
+          40.6713683
+        ],
+        [
+          -73.9633646,
+          40.6714204
+        ],
+        [
+          -73.9634112,
+          40.6714576
+        ],
+        [
+          -73.9634986,
+          40.6715094
+        ],
+        [
+          -73.9635846,
+          40.6715396
+        ],
+        [
+          -73.9636759,
+          40.6715589
+        ],
+        [
+          -73.9637864,
+          40.6715637
+        ],
+        [
+          -73.963847,
+          40.6715536
+        ],
+        [
+          -73.9639075,
+          40.6715436
+        ],
+        [
+          -73.9639935,
+          40.6715148
+        ],
+        [
+          -73.9640723,
+          40.6714704
+        ],
+        [
+          -73.9639748,
+          40.6713862
+        ],
+        [
+          -73.964007,
+          40.6713661
+        ],
+        [
+          -73.96402,
+          40.6713519
+        ],
+        [
+          -73.9639671,
+          40.6713268
+        ],
+        [
+          -73.9639539,
+          40.671289
+        ],
+        [
+          -73.9639549,
+          40.6712861
+        ],
+        [
+          -73.9643368,
+          40.6713644
+        ],
+        [
+          -73.9643353,
+          40.6713686
+        ],
+        [
+          -73.9643947,
+          40.6713807
+        ],
+        [
+          -73.9643917,
+          40.6713892
+        ],
+        [
+          -73.964574,
+          40.6714266
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 1432069915,
+    "version": 1,
+    "timestamp": "2025-09-22T17:01:38Z",
+    "url": "https://www.openstreetmap.org/way/1432069915"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 250229991,
+      "version": 32,
+      "timestamp": "2025-09-22T17:01:38Z",
+      "url": "https://www.openstreetmap.org/way/250229991"
+    }
+  ],
+  "wikidata": "Q632682",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/nyc-brooklyn-museum.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Brooklyn Museum — procedural, CC0-1.0, no textures. bun generators/nyc-brooklyn-museum.ts",
+    "Map frame: x = model east, y = model north (the Eastern Parkway front), z up, metres. Placed at bearing 15°, the facade's normal (the outline's dominant edge direction). Anchor: area centroid of the OSM outline way/1432069915.",
+    "Evidence",
+    "OSM way/1432069915 (outline: the front range from x -96.5 to 53.4 with its face at y ≈ 23, the portico x -35.8…-8 to y 36, the glass entrance pavilion's half-round to y 58, the east block south to y -56 and a low strip east to x 69; height 50) and building:part 250229991. The museum's west wing and rear south-west of the outline are not mapped and are not modelled.",
+    "Lidar: USGS 3DEP NY_NewYorkCity (2017), in the model frame (/tmp/city/nyc/work/nyc-brooklyn-museum/bands.png). y = 0 is the lowest ground, at the rear (44 m NAVD88); the Eastern Parkway plaza in front is 4.5 m higher. Above y = 0: the front ranges' attic 37–39 m; the east block's roof 38.6 m with a sunken skylit court (x 2…28, y -26…-2) at 30 m; the central block (x -36…-8) 45.5 m; the dome, about 20 m across, to 52 m; the portico's pediment to ~40 m; the glass pavilion 8.4 m at its rim rising to ~12.5 m; the low east strip 8.4 m.",
+    "Published: McKim, Mead & White, 1897–1927, Beaux-Arts; a hexastyle Ionic portico with a sculpted pediment; Daniel Chester French and others' 30 allegorical statues on the attic cornice; the grand stair removed in 1934–37; the glass entrance pavilion by Polshek Partnership, 2004 (Wikipedia; NRHP).",
+    "Photos, credits in /tmp/city/nyc/work/nyc-brooklyn-museum/photos/credits.txt: the whole front (ajay_suresh, CC BY 2.0), from the north-east (Jim.henderson, public domain), the portico and pavilion from the north-west (Suicasmo, CC BY-SA 4.0), the east range and statues (Kidfly182, CC BY-SA 4.0), Sailko (CC BY 3.0).",
+    "Estimated: the storeys within the lidar's heights (base to 13 m, the giant order to 28.5 m, cornice 30.5 m, attic to 38 m), bay and window counts (from the front photo), the portico's single row of six 1.8 m columns, the statues (bold standing figures, one per bay), the dome's profile, the pavilion's tiers (five glass steps over a glass-walled entrance hall). The east block's side and rear walls are drawn with the front's window rhythm and no order.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"nyc-brooklyn-museum\", model \"nyc-brooklyn-museum\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/nyc-brooklyn-museum.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 432 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the nyc-brooklyn-museum-glazing finish in the window colour.",
+    "To fit six materials, folded trim into nyc-brooklyn-museum-bm-limestone (ΔE 7.9)."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

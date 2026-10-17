@@ -1,0 +1,585 @@
+{
+  "id": "the-plaza",
+  "name": "The Plaza",
+  "anchor": [
+    -73.9744567,
+    40.7644557
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 165956,
+      "sha256": "13e6209da07659c83e4888bdfaad9ca2666b39a67560a940e34fae579aa7e4e2"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 165956,
+      "sha256": "13e6209da07659c83e4888bdfaad9ca2666b39a67560a940e34fae579aa7e4e2"
+    }
+  },
+  "triangles": 2812,
+  "boundsBlenderM": [
+    [
+      -55.642,
+      -48.119,
+      0
+    ],
+    [
+      53.68,
+      46.607,
+      90
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -73.9740757,
+          40.7642102
+        ],
+        [
+          -73.9741928,
+          40.7640471
+        ],
+        [
+          -73.9742059,
+          40.7640522
+        ],
+        [
+          -73.9742104,
+          40.7640498
+        ],
+        [
+          -73.9742271,
+          40.7640474
+        ],
+        [
+          -73.9742425,
+          40.764053
+        ],
+        [
+          -73.9742477,
+          40.7640582
+        ],
+        [
+          -73.9742546,
+          40.764049
+        ],
+        [
+          -73.9744792,
+          40.7641414
+        ],
+        [
+          -73.9744721,
+          40.7641513
+        ],
+        [
+          -73.9750735,
+          40.764399
+        ],
+        [
+          -73.9750672,
+          40.7644068
+        ],
+        [
+          -73.9751153,
+          40.7644264
+        ],
+        [
+          -73.9749634,
+          40.764638
+        ],
+        [
+          -73.9749385,
+          40.7646727
+        ],
+        [
+          -73.9748918,
+          40.7646535
+        ],
+        [
+          -73.9747998,
+          40.7646156
+        ],
+        [
+          -73.974766,
+          40.7646626
+        ],
+        [
+          -73.9747098,
+          40.7647408
+        ],
+        [
+          -73.974696,
+          40.76476
+        ],
+        [
+          -73.974724,
+          40.7647715
+        ],
+        [
+          -73.9746509,
+          40.7648734
+        ],
+        [
+          -73.9738804,
+          40.764556
+        ],
+        [
+          -73.973892,
+          40.7645402
+        ],
+        [
+          -73.9738769,
+          40.7645341
+        ],
+        [
+          -73.9738696,
+          40.7645227
+        ],
+        [
+          -73.9738722,
+          40.7645103
+        ],
+        [
+          -73.9738836,
+          40.7645014
+        ],
+        [
+          -73.9738889,
+          40.7644998
+        ],
+        [
+          -73.9738729,
+          40.7644933
+        ],
+        [
+          -73.9739753,
+          40.7643507
+        ],
+        [
+          -73.9739644,
+          40.7643463
+        ],
+        [
+          -73.9739728,
+          40.7643346
+        ],
+        [
+          -73.9739895,
+          40.7643112
+        ],
+        [
+          -73.9740146,
+          40.764276
+        ],
+        [
+          -73.9740354,
+          40.7642468
+        ],
+        [
+          -73.9740563,
+          40.7642177
+        ],
+        [
+          -73.9740648,
+          40.7642057
+        ],
+        [
+          -73.9740757,
+          40.7642102
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "relation",
+    "id": 9771573,
+    "version": 2,
+    "timestamp": "2023-12-08T01:12:06Z",
+    "url": "https://www.openstreetmap.org/relation/9771573"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 703143170,
+      "version": 1,
+      "timestamp": "2019-07-10T15:57:03Z",
+      "url": "https://www.openstreetmap.org/way/703143170"
+    },
+    {
+      "type": "way",
+      "id": 703143171,
+      "version": 1,
+      "timestamp": "2019-07-10T15:57:03Z",
+      "url": "https://www.openstreetmap.org/way/703143171"
+    },
+    {
+      "type": "way",
+      "id": 703143175,
+      "version": 1,
+      "timestamp": "2019-07-10T15:57:03Z",
+      "url": "https://www.openstreetmap.org/way/703143175"
+    },
+    {
+      "type": "way",
+      "id": 703143176,
+      "version": 1,
+      "timestamp": "2019-07-10T15:57:03Z",
+      "url": "https://www.openstreetmap.org/way/703143176"
+    },
+    {
+      "type": "way",
+      "id": 703143177,
+      "version": 1,
+      "timestamp": "2019-07-10T15:57:03Z",
+      "url": "https://www.openstreetmap.org/way/703143177"
+    },
+    {
+      "type": "way",
+      "id": 703143178,
+      "version": 1,
+      "timestamp": "2019-07-10T15:57:03Z",
+      "url": "https://www.openstreetmap.org/way/703143178"
+    },
+    {
+      "type": "way",
+      "id": 703143179,
+      "version": 1,
+      "timestamp": "2019-07-10T15:57:03Z",
+      "url": "https://www.openstreetmap.org/way/703143179"
+    },
+    {
+      "type": "way",
+      "id": 703143180,
+      "version": 1,
+      "timestamp": "2019-07-10T15:57:03Z",
+      "url": "https://www.openstreetmap.org/way/703143180"
+    },
+    {
+      "type": "way",
+      "id": 703143181,
+      "version": 1,
+      "timestamp": "2019-07-10T15:57:03Z",
+      "url": "https://www.openstreetmap.org/way/703143181"
+    },
+    {
+      "type": "way",
+      "id": 703143182,
+      "version": 1,
+      "timestamp": "2019-07-10T15:57:03Z",
+      "url": "https://www.openstreetmap.org/way/703143182"
+    },
+    {
+      "type": "way",
+      "id": 703143183,
+      "version": 1,
+      "timestamp": "2019-07-10T15:57:03Z",
+      "url": "https://www.openstreetmap.org/way/703143183"
+    },
+    {
+      "type": "way",
+      "id": 703143184,
+      "version": 1,
+      "timestamp": "2019-07-10T15:57:03Z",
+      "url": "https://www.openstreetmap.org/way/703143184"
+    },
+    {
+      "type": "way",
+      "id": 703143185,
+      "version": 1,
+      "timestamp": "2019-07-10T15:57:03Z",
+      "url": "https://www.openstreetmap.org/way/703143185"
+    },
+    {
+      "type": "way",
+      "id": 703143186,
+      "version": 1,
+      "timestamp": "2019-07-10T15:57:03Z",
+      "url": "https://www.openstreetmap.org/way/703143186"
+    },
+    {
+      "type": "way",
+      "id": 703143187,
+      "version": 1,
+      "timestamp": "2019-07-10T15:57:03Z",
+      "url": "https://www.openstreetmap.org/way/703143187"
+    },
+    {
+      "type": "way",
+      "id": 703143188,
+      "version": 1,
+      "timestamp": "2019-07-10T15:57:03Z",
+      "url": "https://www.openstreetmap.org/way/703143188"
+    },
+    {
+      "type": "way",
+      "id": 703143189,
+      "version": 1,
+      "timestamp": "2019-07-10T15:57:03Z",
+      "url": "https://www.openstreetmap.org/way/703143189"
+    },
+    {
+      "type": "way",
+      "id": 703143190,
+      "version": 1,
+      "timestamp": "2019-07-10T15:57:03Z",
+      "url": "https://www.openstreetmap.org/way/703143190"
+    },
+    {
+      "type": "way",
+      "id": 703143191,
+      "version": 1,
+      "timestamp": "2019-07-10T15:57:03Z",
+      "url": "https://www.openstreetmap.org/way/703143191"
+    },
+    {
+      "type": "way",
+      "id": 703143192,
+      "version": 1,
+      "timestamp": "2019-07-10T15:57:03Z",
+      "url": "https://www.openstreetmap.org/way/703143192"
+    },
+    {
+      "type": "way",
+      "id": 703143193,
+      "version": 1,
+      "timestamp": "2019-07-10T15:57:03Z",
+      "url": "https://www.openstreetmap.org/way/703143193"
+    },
+    {
+      "type": "way",
+      "id": 703143194,
+      "version": 1,
+      "timestamp": "2019-07-10T15:57:03Z",
+      "url": "https://www.openstreetmap.org/way/703143194"
+    },
+    {
+      "type": "way",
+      "id": 703143198,
+      "version": 1,
+      "timestamp": "2019-07-10T15:57:03Z",
+      "url": "https://www.openstreetmap.org/way/703143198"
+    },
+    {
+      "type": "way",
+      "id": 703143199,
+      "version": 1,
+      "timestamp": "2019-07-10T15:57:03Z",
+      "url": "https://www.openstreetmap.org/way/703143199"
+    },
+    {
+      "type": "way",
+      "id": 703143200,
+      "version": 1,
+      "timestamp": "2019-07-10T15:57:03Z",
+      "url": "https://www.openstreetmap.org/way/703143200"
+    },
+    {
+      "type": "way",
+      "id": 703143201,
+      "version": 1,
+      "timestamp": "2019-07-10T15:57:03Z",
+      "url": "https://www.openstreetmap.org/way/703143201"
+    },
+    {
+      "type": "way",
+      "id": 703143202,
+      "version": 1,
+      "timestamp": "2019-07-10T15:57:03Z",
+      "url": "https://www.openstreetmap.org/way/703143202"
+    },
+    {
+      "type": "way",
+      "id": 703143203,
+      "version": 1,
+      "timestamp": "2019-07-10T15:57:03Z",
+      "url": "https://www.openstreetmap.org/way/703143203"
+    },
+    {
+      "type": "way",
+      "id": 703143204,
+      "version": 1,
+      "timestamp": "2019-07-10T15:57:03Z",
+      "url": "https://www.openstreetmap.org/way/703143204"
+    },
+    {
+      "type": "way",
+      "id": 703143205,
+      "version": 1,
+      "timestamp": "2019-07-10T15:57:03Z",
+      "url": "https://www.openstreetmap.org/way/703143205"
+    },
+    {
+      "type": "way",
+      "id": 703143206,
+      "version": 1,
+      "timestamp": "2019-07-10T15:57:03Z",
+      "url": "https://www.openstreetmap.org/way/703143206"
+    },
+    {
+      "type": "way",
+      "id": 703143207,
+      "version": 1,
+      "timestamp": "2019-07-10T15:57:03Z",
+      "url": "https://www.openstreetmap.org/way/703143207"
+    },
+    {
+      "type": "way",
+      "id": 703143208,
+      "version": 1,
+      "timestamp": "2019-07-10T15:57:03Z",
+      "url": "https://www.openstreetmap.org/way/703143208"
+    },
+    {
+      "type": "way",
+      "id": 703143209,
+      "version": 1,
+      "timestamp": "2019-07-10T15:57:03Z",
+      "url": "https://www.openstreetmap.org/way/703143209"
+    },
+    {
+      "type": "way",
+      "id": 703143210,
+      "version": 1,
+      "timestamp": "2019-07-10T15:57:03Z",
+      "url": "https://www.openstreetmap.org/way/703143210"
+    },
+    {
+      "type": "way",
+      "id": 703143211,
+      "version": 1,
+      "timestamp": "2019-07-10T15:57:03Z",
+      "url": "https://www.openstreetmap.org/way/703143211"
+    },
+    {
+      "type": "way",
+      "id": 703143212,
+      "version": 1,
+      "timestamp": "2019-07-10T15:57:03Z",
+      "url": "https://www.openstreetmap.org/way/703143212"
+    },
+    {
+      "type": "way",
+      "id": 703143213,
+      "version": 1,
+      "timestamp": "2019-07-10T15:57:03Z",
+      "url": "https://www.openstreetmap.org/way/703143213"
+    },
+    {
+      "type": "way",
+      "id": 703143214,
+      "version": 1,
+      "timestamp": "2019-07-10T15:57:03Z",
+      "url": "https://www.openstreetmap.org/way/703143214"
+    },
+    {
+      "type": "way",
+      "id": 703143215,
+      "version": 1,
+      "timestamp": "2019-07-10T15:57:03Z",
+      "url": "https://www.openstreetmap.org/way/703143215"
+    },
+    {
+      "type": "way",
+      "id": 703143216,
+      "version": 1,
+      "timestamp": "2019-07-10T15:57:03Z",
+      "url": "https://www.openstreetmap.org/way/703143216"
+    },
+    {
+      "type": "way",
+      "id": 703143217,
+      "version": 1,
+      "timestamp": "2019-07-10T15:57:03Z",
+      "url": "https://www.openstreetmap.org/way/703143217"
+    },
+    {
+      "type": "way",
+      "id": 703143218,
+      "version": 1,
+      "timestamp": "2019-07-10T15:57:03Z",
+      "url": "https://www.openstreetmap.org/way/703143218"
+    },
+    {
+      "type": "way",
+      "id": 703143219,
+      "version": 1,
+      "timestamp": "2019-07-10T15:57:03Z",
+      "url": "https://www.openstreetmap.org/way/703143219"
+    },
+    {
+      "type": "way",
+      "id": 703143220,
+      "version": 1,
+      "timestamp": "2019-07-10T15:57:03Z",
+      "url": "https://www.openstreetmap.org/way/703143220"
+    },
+    {
+      "type": "way",
+      "id": 703143221,
+      "version": 1,
+      "timestamp": "2019-07-10T15:57:03Z",
+      "url": "https://www.openstreetmap.org/way/703143221"
+    },
+    {
+      "type": "way",
+      "id": 703143222,
+      "version": 1,
+      "timestamp": "2019-07-10T15:57:03Z",
+      "url": "https://www.openstreetmap.org/way/703143222"
+    },
+    {
+      "type": "way",
+      "id": 703143223,
+      "version": 1,
+      "timestamp": "2019-07-10T15:57:03Z",
+      "url": "https://www.openstreetmap.org/way/703143223"
+    }
+  ],
+  "wikidata": "Q1066676",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/nyc-plaza-hotel.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "The Plaza (Plaza Hotel), Fifth Avenue at Central Park South — procedural, CC0-1.0, no textures. bun generators/nyc-plaza-hotel.ts",
+    "Map frame: x = model east (Fifth Avenue / Grand Army Plaza), y = model north (Central Park South), z up, metres. Placed at bearing 29°, the Manhattan grid. Anchor: area centroid of the outer ring of the OSM multipolygon relation/9771573.",
+    "Identifying features (from the photos): 1. The green copper mansard roof all round, with rows of dormers, over a pale eighteen-storey block. 2. On the Fifth Avenue front, two end pavilions each rising to a tall, steep gable: a pale stone gable face under a steep copper roof. 3. Round corner turrets on the two Fifth Avenue corners, capped with small copper domes. 4. The recessed centre of the Fifth Avenue front between the pavilions, its mansard over a row of arched windows, the entrance below. 5. Pale marble and white brick walls with a heavy cornice line under the roof and a band over the marble base.",
+    "Evidence",
+    "OSM relation/9771573 (outer ring, 89 × 64 m) and its 48 building:part ways (the gabled pavilions 703143170 and 703143171, the corner domes 703143219 and 703143220, the mansard slopes 703143177–703143194, the court 703143199 at 20 m, the inner roofs 703143200–703143223).",
+    "Lidar: USGS 3DEP NY_NewYorkCity (2017), resampled in the model frame (/tmp/city/nyc/work/lc/rot.py), above the lowest ground under the footprint (14.9 m NAVD88): the cornice about 60 m at the walls; the mansard rising to 81–82 m about 6–7 m in; the flat tops 82–88 m; the pavilions' gable ridges 88–91 m; the light court 19–20 m, open to the west; the west annex about 36–45 m; the north-west corner 28–32 m.",
+    "Published: Henry Janeway Hardenbergh, 1907, 19 storeys, about 76 m to the roof (Wikipedia; NRHP 78001878; NYC landmark).",
+    "Photos (Wikimedia Commons, daylight): the Fifth Avenue front (JJBers, CC BY-SA 4.0; Ermell, CC BY-SA 4.0), from Grand Army Plaza and Fifth Avenue at 58th Street (ajay_suresh, CC BY 2.0; Yarl, CC BY-SA 3.0; Andrew Milligan sumo, CC BY 2.0), Central Park South and the 58th Street side (Kidfly182, CC BY 4.0); /tmp/city/nyc/work/nyc-plaza-hotel/photos/credits.txt.",
+    "Estimated: the window bays (drawn 3.6 m, two storeys a panel), the dormers' size and rows, the turrets' radius (3.2 m, from the photos; OSM's dome ways have 2.3 m) and how far they stand out from the corners, the gables' eaves (72 m), the bands. The arcade, the balconies, the carved gables, the finials and the flagpoles are left out. The west annex and the low north-west corner are plain boxes.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"nyc-plaza-hotel\", model \"nyc-plaza-hotel\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/nyc-plaza-hotel.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 698 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the nyc-plaza-hotel-glazing finish in the window colour.",
+    "To fit six materials, folded trim into stone (ΔE 4.8)."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

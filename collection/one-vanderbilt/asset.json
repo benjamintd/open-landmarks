@@ -1,0 +1,311 @@
+{
+  "id": "one-vanderbilt",
+  "name": "One Vanderbilt",
+  "anchor": [
+    -73.9785415,
+    40.7529739
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 13,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 138648,
+      "sha256": "b410972766f78894ab62e9c63b7e89d75a1d007a69f5a6cb4c3072d02bce94a2"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 138648,
+      "sha256": "b410972766f78894ab62e9c63b7e89d75a1d007a69f5a6cb4c3072d02bce94a2"
+    }
+  },
+  "triangles": 2550,
+  "boundsBlenderM": [
+    [
+      -40.089,
+      -39.562,
+      0
+    ],
+    [
+      42.921,
+      41.597,
+      427
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -73.9790293,
+          40.7528611
+        ],
+        [
+          -73.9789942,
+          40.7529102
+        ],
+        [
+          -73.9790172,
+          40.7529202
+        ],
+        [
+          -73.9787083,
+          40.7533487
+        ],
+        [
+          -73.9782525,
+          40.7531617
+        ],
+        [
+          -73.9781978,
+          40.7531392
+        ],
+        [
+          -73.9780314,
+          40.7530709
+        ],
+        [
+          -73.9780624,
+          40.7530276
+        ],
+        [
+          -73.9783213,
+          40.7526655
+        ],
+        [
+          -73.9783615,
+          40.752682
+        ],
+        [
+          -73.9784138,
+          40.7526087
+        ],
+        [
+          -73.9786885,
+          40.7527213
+        ],
+        [
+          -73.9790293,
+          40.7528611
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 265875648,
+    "version": 9,
+    "timestamp": "2026-07-21T11:23:04Z",
+    "url": "https://www.openstreetmap.org/way/265875648"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 1470380430,
+      "version": 1,
+      "timestamp": "2026-01-25T20:14:50Z",
+      "url": "https://www.openstreetmap.org/way/1470380430"
+    },
+    {
+      "type": "way",
+      "id": 1470380431,
+      "version": 2,
+      "timestamp": "2026-01-27T03:15:36Z",
+      "url": "https://www.openstreetmap.org/way/1470380431"
+    },
+    {
+      "type": "way",
+      "id": 1470380432,
+      "version": 1,
+      "timestamp": "2026-01-25T20:14:50Z",
+      "url": "https://www.openstreetmap.org/way/1470380432"
+    },
+    {
+      "type": "way",
+      "id": 1470380433,
+      "version": 1,
+      "timestamp": "2026-01-25T20:14:50Z",
+      "url": "https://www.openstreetmap.org/way/1470380433"
+    },
+    {
+      "type": "way",
+      "id": 1470380434,
+      "version": 2,
+      "timestamp": "2026-01-27T03:15:36Z",
+      "url": "https://www.openstreetmap.org/way/1470380434"
+    },
+    {
+      "type": "way",
+      "id": 1470380435,
+      "version": 1,
+      "timestamp": "2026-01-25T20:14:50Z",
+      "url": "https://www.openstreetmap.org/way/1470380435"
+    },
+    {
+      "type": "way",
+      "id": 1470380436,
+      "version": 1,
+      "timestamp": "2026-01-25T20:14:50Z",
+      "url": "https://www.openstreetmap.org/way/1470380436"
+    },
+    {
+      "type": "way",
+      "id": 1470380437,
+      "version": 2,
+      "timestamp": "2026-01-27T03:15:36Z",
+      "url": "https://www.openstreetmap.org/way/1470380437"
+    },
+    {
+      "type": "way",
+      "id": 1470380438,
+      "version": 1,
+      "timestamp": "2026-01-25T20:14:50Z",
+      "url": "https://www.openstreetmap.org/way/1470380438"
+    },
+    {
+      "type": "way",
+      "id": 1470380439,
+      "version": 2,
+      "timestamp": "2026-01-27T03:15:36Z",
+      "url": "https://www.openstreetmap.org/way/1470380439"
+    },
+    {
+      "type": "way",
+      "id": 1470380440,
+      "version": 2,
+      "timestamp": "2026-01-27T03:15:36Z",
+      "url": "https://www.openstreetmap.org/way/1470380440"
+    },
+    {
+      "type": "way",
+      "id": 1470380441,
+      "version": 2,
+      "timestamp": "2026-01-27T03:15:36Z",
+      "url": "https://www.openstreetmap.org/way/1470380441"
+    },
+    {
+      "type": "way",
+      "id": 1470380442,
+      "version": 2,
+      "timestamp": "2026-01-27T03:15:36Z",
+      "url": "https://www.openstreetmap.org/way/1470380442"
+    },
+    {
+      "type": "way",
+      "id": 1470380443,
+      "version": 2,
+      "timestamp": "2026-01-27T03:15:36Z",
+      "url": "https://www.openstreetmap.org/way/1470380443"
+    },
+    {
+      "type": "way",
+      "id": 1470380444,
+      "version": 2,
+      "timestamp": "2026-01-27T03:15:36Z",
+      "url": "https://www.openstreetmap.org/way/1470380444"
+    },
+    {
+      "type": "way",
+      "id": 1470380445,
+      "version": 2,
+      "timestamp": "2026-01-27T03:15:36Z",
+      "url": "https://www.openstreetmap.org/way/1470380445"
+    },
+    {
+      "type": "way",
+      "id": 1470380446,
+      "version": 2,
+      "timestamp": "2026-01-27T03:15:36Z",
+      "url": "https://www.openstreetmap.org/way/1470380446"
+    },
+    {
+      "type": "way",
+      "id": 1470380447,
+      "version": 2,
+      "timestamp": "2026-01-27T03:15:36Z",
+      "url": "https://www.openstreetmap.org/way/1470380447"
+    },
+    {
+      "type": "way",
+      "id": 1470380448,
+      "version": 2,
+      "timestamp": "2026-01-27T03:15:36Z",
+      "url": "https://www.openstreetmap.org/way/1470380448"
+    },
+    {
+      "type": "way",
+      "id": 1470380449,
+      "version": 2,
+      "timestamp": "2026-01-27T03:15:36Z",
+      "url": "https://www.openstreetmap.org/way/1470380449"
+    },
+    {
+      "type": "way",
+      "id": 1470380450,
+      "version": 2,
+      "timestamp": "2026-01-27T03:15:36Z",
+      "url": "https://www.openstreetmap.org/way/1470380450"
+    },
+    {
+      "type": "way",
+      "id": 1470380451,
+      "version": 2,
+      "timestamp": "2026-01-27T03:15:36Z",
+      "url": "https://www.openstreetmap.org/way/1470380451"
+    },
+    {
+      "type": "way",
+      "id": 1470380452,
+      "version": 2,
+      "timestamp": "2026-01-27T03:15:36Z",
+      "url": "https://www.openstreetmap.org/way/1470380452"
+    },
+    {
+      "type": "way",
+      "id": 1470380453,
+      "version": 2,
+      "timestamp": "2026-01-27T03:15:36Z",
+      "url": "https://www.openstreetmap.org/way/1470380453"
+    }
+  ],
+  "wikidata": "Q18398409",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/nyc-one-vanderbilt.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "One Vanderbilt — procedural, CC0-1.0, no textures. bun generators/nyc-one-vanderbilt.ts",
+    "Map frame: x = model east (Vanderbilt Avenue, facing Grand Central), y = model north (East 43rd Street), z up, metres. Placed at bearing 29°, the Manhattan grid. Anchor: area centroid of the OSM outline way/265875648. Kit from nyc-570-lexington.ts.",
+    "Evidence",
+    "OSM: outline way/265875648 and its 24 building:part ways (1470380430–53), which map the four interlocking volumes: each has a flat top (315, 330, 350 and 397 m) and skillion parts for its sloping outer faces, which run from the street line at the ground to the top's edge; a 75 m podium along Madison Avenue and 43rd Street; a 12 m corner block at 43rd and Vanderbilt; the spire part to 427 m. The volumes here are frustums between those base and top rectangles.",
+    "Published: 427 m to the spire tip, 397 m roof, 73 floors, Kohn Pedersen Fox, completed 2020 (Wikipedia). Glass curtain wall with pale terracotta spandrels, warmer terracotta at the base, a glass crown and spire.",
+    "No lidar: the 2017 USGS flight predates the tower. Heights are OSM's, which agree with the published ones.",
+    "Photos (Wikimedia Commons): /tmp/city/nyc/work/nyc-one-vanderbilt/photos/credits.txt",
+    "Facade: broad glass bays between pale vertical piers, four storeys to a panel, with terracotta-toned piers and spandrels on the lower ≈ 60 m; the volumes' corners are notched (re-entrant steps up every corner, faced in a darker glass), which is how the interlocking volumes show on the real tower.",
+    "Estimated: bay width (≈ 5.5 m), notch depth (2.6 m), the warm base height, the crown's steps and the spire's thickness. The canopy and public hall at 42nd and Vanderbilt are left out.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"nyc-one-vanderbilt\", model \"nyc-one-vanderbilt\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/nyc-one-vanderbilt.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

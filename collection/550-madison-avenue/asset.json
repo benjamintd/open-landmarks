@@ -1,0 +1,139 @@
+{
+  "id": "550-madison-avenue",
+  "name": "550 Madison Avenue",
+  "anchor": [
+    -73.9733731,
+    40.7614226
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 13,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 80328,
+      "sha256": "38bc79de24a1dd51bced86a0a92e102d4cd229247e40974dbf52bf3918999424"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 80328,
+      "sha256": "38bc79de24a1dd51bced86a0a92e102d4cd229247e40974dbf52bf3918999424"
+    }
+  },
+  "triangles": 1378,
+  "boundsBlenderM": [
+    [
+      -28.324,
+      -33.938,
+      0
+    ],
+    [
+      28.324,
+      33.938,
+      197
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -73.9737085,
+          40.7612531
+        ],
+        [
+          -73.9733855,
+          40.7611173
+        ],
+        [
+          -73.9732233,
+          40.7613386
+        ],
+        [
+          -73.9732008,
+          40.7613694
+        ],
+        [
+          -73.9730376,
+          40.7615921
+        ],
+        [
+          -73.9733607,
+          40.7617279
+        ],
+        [
+          -73.9737085,
+          40.7612531
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "relation",
+    "id": 21151099,
+    "version": 1,
+    "timestamp": "2026-07-27T05:23:46Z",
+    "url": "https://www.openstreetmap.org/relation/21151099"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 118116805,
+      "version": 5,
+      "timestamp": "2014-02-06T08:09:19Z",
+      "url": "https://www.openstreetmap.org/way/118116805"
+    },
+    {
+      "type": "way",
+      "id": 260244593,
+      "version": 4,
+      "timestamp": "2018-02-18T23:55:56Z",
+      "url": "https://www.openstreetmap.org/way/260244593"
+    },
+    {
+      "type": "way",
+      "id": 260244595,
+      "version": 4,
+      "timestamp": "2018-02-18T23:55:56Z",
+      "url": "https://www.openstreetmap.org/way/260244595"
+    }
+  ],
+  "wikidata": "Q1477826",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/nyc-550-madison.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "550 Madison Avenue (the AT&T / Sony Building) — procedural, CC0-1.0, no textures. bun generators/nyc-550-madison.ts",
+    "Map frame: x = model east (Madison Avenue), y = model north (East 56th Street), z up, metres. Placed at bearing 29°, the Manhattan grid. Anchor: area centroid of the OSM outline relation/21151099. Kit from nyc-570-lexington.ts.",
+    "Evidence",
+    "OSM relation/21151099 (outline, 31.4 × 60.2 m) and its parts: shaft way/118116805 (185 m) and the two skillion halves of the pediment way/260244593 and way/260244595 (185–197 m), split by a 4 m gap at the middle: the broken pediment's notch.",
+    "Lidar: USGS 3DEP NY_NewYorkCity (2017) in the model frame (/tmp/city/nyc/work/nyc-550-madison/rot.png). Street ≈ 16.4 m NAVD88. Measured above it: walls to 187 m at the 55th and 56th Street ends; the roof rises evenly to 197 m beside the middle (a gable, ridge running east–west, so the pediment shows on the broad Madison and west faces); a slot 4 m wide right across the building at y = 0 whose floor is at 185 m (the bottom of the round notch).",
+    "Published: 197 m, 37 floors, Philip Johnson and John Burgee, 1984; Stony Creek pink granite; a broken pediment with a round orifice (the \"Chippendale\" top); a 110 ft (33.5 m) arched entrance in the middle of the Madison front between tall rectangular loggia openings (Wikipedia; NYC LPC designation 2018).",
+    "Photos (Wikimedia Commons, daylight): see /tmp/city/nyc/work/nyc-550-madison/photos/credits.txt.",
+    "Estimated: the orifice's radius (4.8 m, about a seventh of the face; its floor 0.4 m above the eaves, from the photos against the face width), the arch's width (13 m), the loggia openings' size and count (three a side), the window rhythm (paired windows in bays of 3.6 m, three storeys a panel), the tall attic windows' height. The roof between the pediments is drawn in the green-grey the aerial photos show.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"nyc-550-madison\", model \"nyc-550-madison\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/nyc-550-madison.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

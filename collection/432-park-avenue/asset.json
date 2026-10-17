@@ -1,0 +1,185 @@
+{
+  "id": "432-park-avenue",
+  "name": "432 Park Avenue",
+  "anchor": [
+    -73.9718683,
+    40.7617056
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 13,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 127824,
+      "sha256": "cdab189a6a3676d2a5a8b160e58b980f50d48d1fa213240296cd2bc5865da8a6"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 127824,
+      "sha256": "cdab189a6a3676d2a5a8b160e58b980f50d48d1fa213240296cd2bc5865da8a6"
+    }
+  },
+  "triangles": 2402,
+  "boundsBlenderM": [
+    [
+      -25.469,
+      -29.234,
+      0
+    ],
+    [
+      21.274,
+      26.755,
+      425.5
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -73.9720736,
+          40.7615654
+        ],
+        [
+          -73.9719248,
+          40.7615042
+        ],
+        [
+          -73.9717747,
+          40.7614425
+        ],
+        [
+          -73.9717654,
+          40.7614554
+        ],
+        [
+          -73.9717012,
+          40.761545
+        ],
+        [
+          -73.971615,
+          40.7616653
+        ],
+        [
+          -73.971529,
+          40.7617845
+        ],
+        [
+          -73.971926,
+          40.7619495
+        ],
+        [
+          -73.9719447,
+          40.7619235
+        ],
+        [
+          -73.9719532,
+          40.7619117
+        ],
+        [
+          -73.9719715,
+          40.7618863
+        ],
+        [
+          -73.9719914,
+          40.7618585
+        ],
+        [
+          -73.9720265,
+          40.7618098
+        ],
+        [
+          -73.9720431,
+          40.7617867
+        ],
+        [
+          -73.9720615,
+          40.7617614
+        ],
+        [
+          -73.9721039,
+          40.7617022
+        ],
+        [
+          -73.9721018,
+          40.7617013
+        ],
+        [
+          -73.972158,
+          40.7616228
+        ],
+        [
+          -73.9721709,
+          40.7616048
+        ],
+        [
+          -73.9720736,
+          40.7615654
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 261499924,
+    "version": 25,
+    "timestamp": "2022-06-15T08:19:29Z",
+    "url": "https://www.openstreetmap.org/way/261499924"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 463593207,
+      "version": 4,
+      "timestamp": "2023-03-10T02:25:50Z",
+      "url": "https://www.openstreetmap.org/way/463593207"
+    },
+    {
+      "type": "way",
+      "id": 463386820,
+      "version": 4,
+      "timestamp": "2021-04-22T07:29:34Z",
+      "url": "https://www.openstreetmap.org/way/463386820"
+    }
+  ],
+  "wikidata": "Q233940",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/nyc-432-park.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "432 Park Avenue (Rafael Viñoly, 2015) — original procedural geometry, CC0-1.0. bun generators/nyc-432-park.ts",
+    "x = across the Manhattan grid (118.75°), y = up the avenues (28.75°), z = metres up. Anchor is the centroid of OSM way/261499924 (40.7617056, -73.9718683); bearing 28.75°, elevation 0.",
+    "This file also holds the small kit the other Billionaires' Row generators (nyc-central-park-tower, nyc-steinway-tower, nyc-one57) import.",
+    "Evidence",
+    "OSM: tower part way/463593207 is a 28.6 × 28.2 m square in the outline's south-east; base part way/463386820 (tagged 30 m, glass) wraps it on the west and north.",
+    "Published (Wikipedia): roof 425.5 m; 93 ft (28.3 m) square floor plates; floor-to-floor 15 ft 6 in (4.72 m); white concrete lattice of 10 ft square openings, six per face per floor; five open two-storey windbreaks spaced every 12 floors from the top, each with two tiers of six unglazed openings per face; base clad in limestone.",
+    "Measured (USGS 3DEP 2017 lidar, NY_NewYorkCity): the plot north of the tower is open plaza 2–3 m above street; the west strip of the base is low (about 10 m, few returns, glazed roof). OSM's 30 m base is too tall, so the base is drawn as that 10 m limestone strip only. The tower roof is missing from the lidar (no returns above ~310 m), so its height is the published one.",
+    "Photos (Wikimedia Commons): Epistola8 \"432 Park Avenue, NY (cropped)\" (CC BY-SA 4.0, from Top of the Rock, south-west); Jim.henderson \"432 Pk Av 2020-07 jeh\" (CC BY-SA 4.0, from Central Park, north-west); Sebastiandoe5 \"432 Park Avenue from Top of the Rock\" (CC BY-SA 4.0); Chris O \"Billionaire's Row, NYC\" (CC BY-SA 4.0, from the west); Brian W. Schaller \"A615, 432 Park Avenue\" (FAL, street level).",
+    "Drawing: the lattice is drawn at twice its real pitch, one square window panel per two by two real openings (9.44 m pitch, 6.1 m panels: the real opening-to-frame ratio, doubled), so it keeps the square grid without becoming a dot grid. The windbreaks are the real thing: open bays between square columns, two tiers, with the dark mechanical core inside, so the sky shows through them at the corners as in the photos.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"nyc-432-park\", model \"nyc-432-park\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/nyc-432-park.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

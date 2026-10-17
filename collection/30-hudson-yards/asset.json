@@ -1,0 +1,276 @@
+{
+  "id": "30-hudson-yards",
+  "name": "30 Hudson Yards",
+  "anchor": [
+    -74.00059,
+    40.7539463
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 13,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 158668,
+      "sha256": "3faf191f5b7a529dde03891e4aad929ba44bb1ee62d4e7f363b60175b10cbdd7"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 158668,
+      "sha256": "3faf191f5b7a529dde03891e4aad929ba44bb1ee62d4e7f363b60175b10cbdd7"
+    }
+  },
+  "triangles": 2793,
+  "boundsBlenderM": [
+    [
+      -57.79,
+      -52.028,
+      0
+    ],
+    [
+      63.786,
+      51.755,
+      387
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -74.0009755,
+          40.7543966
+        ],
+        [
+          -74.0006121,
+          40.754237
+        ],
+        [
+          -74.0003263,
+          40.7541115
+        ],
+        [
+          -74.0002002,
+          40.7540562
+        ],
+        [
+          -74.0001948,
+          40.7540638
+        ],
+        [
+          -74.0001196,
+          40.7540316
+        ],
+        [
+          -74.0001098,
+          40.7540446
+        ],
+        [
+          -73.9998337,
+          40.7539265
+        ],
+        [
+          -73.9998379,
+          40.7538936
+        ],
+        [
+          -73.9998431,
+          40.7538522
+        ],
+        [
+          -73.9999514,
+          40.7538272
+        ],
+        [
+          -73.9999631,
+          40.7538098
+        ],
+        [
+          -73.9999447,
+          40.753802
+        ],
+        [
+          -74.0000845,
+          40.7536076
+        ],
+        [
+          -74.0001382,
+          40.7536318
+        ],
+        [
+          -74.0001571,
+          40.7536069
+        ],
+        [
+          -74.000238,
+          40.7535013
+        ],
+        [
+          -74.0003414,
+          40.7535445
+        ],
+        [
+          -74.000579,
+          40.7536437
+        ],
+        [
+          -74.0007611,
+          40.7537197
+        ],
+        [
+          -74.0012752,
+          40.7539344
+        ],
+        [
+          -74.0012044,
+          40.7540318
+        ],
+        [
+          -74.0012761,
+          40.7540612
+        ],
+        [
+          -74.0012549,
+          40.7540883
+        ],
+        [
+          -74.001021,
+          40.7543863
+        ],
+        [
+          -74.0010007,
+          40.7543909
+        ],
+        [
+          -74.0009755,
+          40.7543966
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 264656626,
+    "version": 15,
+    "timestamp": "2026-03-05T22:24:34Z",
+    "url": "https://www.openstreetmap.org/way/264656626"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 1485516277,
+      "version": 2,
+      "timestamp": "2026-03-05T22:24:34Z",
+      "url": "https://www.openstreetmap.org/way/1485516277"
+    },
+    {
+      "type": "way",
+      "id": 1485516278,
+      "version": 2,
+      "timestamp": "2026-03-05T22:24:34Z",
+      "url": "https://www.openstreetmap.org/way/1485516278"
+    },
+    {
+      "type": "way",
+      "id": 1485516279,
+      "version": 1,
+      "timestamp": "2026-03-04T21:23:12Z",
+      "url": "https://www.openstreetmap.org/way/1485516279"
+    },
+    {
+      "type": "way",
+      "id": 1485516280,
+      "version": 2,
+      "timestamp": "2026-03-05T22:24:34Z",
+      "url": "https://www.openstreetmap.org/way/1485516280"
+    },
+    {
+      "type": "way",
+      "id": 1485516281,
+      "version": 2,
+      "timestamp": "2026-03-05T22:24:34Z",
+      "url": "https://www.openstreetmap.org/way/1485516281"
+    },
+    {
+      "type": "way",
+      "id": 1485516282,
+      "version": 2,
+      "timestamp": "2026-03-05T22:24:34Z",
+      "url": "https://www.openstreetmap.org/way/1485516282"
+    },
+    {
+      "type": "way",
+      "id": 1485516283,
+      "version": 2,
+      "timestamp": "2026-03-05T22:24:34Z",
+      "url": "https://www.openstreetmap.org/way/1485516283"
+    },
+    {
+      "type": "way",
+      "id": 1485516284,
+      "version": 2,
+      "timestamp": "2026-04-18T14:50:50Z",
+      "url": "https://www.openstreetmap.org/way/1485516284"
+    },
+    {
+      "type": "way",
+      "id": 1485848980,
+      "version": 1,
+      "timestamp": "2026-03-05T22:24:34Z",
+      "url": "https://www.openstreetmap.org/way/1485848980"
+    },
+    {
+      "type": "way",
+      "id": 1485848981,
+      "version": 1,
+      "timestamp": "2026-03-05T22:24:34Z",
+      "url": "https://www.openstreetmap.org/way/1485848981"
+    },
+    {
+      "type": "way",
+      "id": 1485848982,
+      "version": 1,
+      "timestamp": "2026-03-05T22:24:34Z",
+      "url": "https://www.openstreetmap.org/way/1485848982"
+    }
+  ],
+  "wikidata": "Q15264266",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/nyc-30-hudson-yards.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "30 Hudson Yards — procedural, CC0-1.0, no textures. bun generators/nyc-30-hudson-yards.ts",
+    "Also the small glass-tower kit for this builder's Hudson Yards models (`wall`, `volume`, `fan`): walls that may lean and have sloping tops, laid with broad glass bays between pale piers. The model is only written when this file is run directly.",
+    "Map frame: x = model east (Tenth Avenue), y = model north (West 33rd Street), z up, metres. Placed at bearing 29°, the Manhattan grid. Anchor: area centroid of the OSM outline way/264656626.",
+    "Evidence",
+    "OSM way/264656626 and its parts, which map the tower as interlocking volumes: - the tall north-west volume (1485848980–82, 395 m), whose east face is a skillion leaning from x 10.6 at 140 m to x −19 at the top; - the lower south-east volume (1485516282/83, 310 m) wrapping it on the south and east, its east face leaning from x 17.7 at 130 m to x −0.4; - the Tenth Avenue podium (1485516277/78/80/81, 130–140 m, its avenue face leaning from 20 m to 130 m) and a 10 m strip (1485516279); - the Edge deck (1485516284, 335–340 m), a triangle on the south side reaching east past the tower's east face.",
+    "Published: roof 387 m (1,270 ft), 73 floors, Kohn Pedersen Fox, 2019. Edge: outdoor deck on the 100th floor at 335 m (1,100 ft), jutting about 24 m (80 ft) (Wikipedia). The tall volume's top here peaks at 387 m, the published roof, not OSM's 395 m.",
+    "No lidar: the 2017 USGS flight predates the top of the tower.",
+    "Photos (Wikimedia Commons, daylight; from the south on the High Line, from the north-east, from the west across the Hudson, from below): /tmp/city/nyc/work/nyc-30-hudson-yards/photos/credits.txt.",
+    "The photos fix the top: it is cut by one sloping plane, highest at the south-east corner (seen from the south it rises to the east, from the north-east it rises to the south), and the Edge's wedge hangs under its deck, pointing east from the south-east corner. The plane's fall (37 m to the south-west and north-east corners, a flat roof at 345 m beyond) is estimated from the photos, as are the Edge's soffit depth (18 m) and its reach (27 m, drawn a little bolder than the published 24 m), the pale louvre band at the top of the south-east volume, the bay width and the four-storey panel rhythm. The south face's 4 m lean is left out.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"nyc-30-hudson-yards\", model \"nyc-30-hudson-yards\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/nyc-30-hudson-yards.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

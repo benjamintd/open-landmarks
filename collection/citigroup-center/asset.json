@@ -1,0 +1,359 @@
+{
+  "id": "citigroup-center",
+  "name": "Citigroup Center",
+  "anchor": [
+    -73.9699362,
+    40.7583409
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 13,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 47280,
+      "sha256": "01880fb49edb1ba181299e7c78d363a445a95fe260dcd7ac451e8ca9ac424cc2"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 47280,
+      "sha256": "01880fb49edb1ba181299e7c78d363a445a95fe260dcd7ac451e8ca9ac424cc2"
+    }
+  },
+  "triangles": 876,
+  "boundsBlenderM": [
+    [
+      -59.751,
+      -42.163,
+      0
+    ],
+    [
+      65.555,
+      40.371,
+      280
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -73.9693349,
+          40.7580785
+        ],
+        [
+          -73.969365,
+          40.7580908
+        ],
+        [
+          -73.9694024,
+          40.758106
+        ],
+        [
+          -73.9694316,
+          40.7581179
+        ],
+        [
+          -73.9694796,
+          40.7581394
+        ],
+        [
+          -73.9696051,
+          40.7581906
+        ],
+        [
+          -73.9696361,
+          40.7582034
+        ],
+        [
+          -73.9696558,
+          40.7581774
+        ],
+        [
+          -73.9697197,
+          40.7580871
+        ],
+        [
+          -73.9697419,
+          40.7580563
+        ],
+        [
+          -73.9697594,
+          40.7580312
+        ],
+        [
+          -73.9697776,
+          40.7580057
+        ],
+        [
+          -73.9697964,
+          40.7579788
+        ],
+        [
+          -73.9698108,
+          40.7579585
+        ],
+        [
+          -73.9701364,
+          40.7580981
+        ],
+        [
+          -73.9701415,
+          40.7581003
+        ],
+        [
+          -73.9701728,
+          40.7581138
+        ],
+        [
+          -73.9702038,
+          40.7581271
+        ],
+        [
+          -73.9702353,
+          40.7581406
+        ],
+        [
+          -73.9703496,
+          40.7581896
+        ],
+        [
+          -73.9704322,
+          40.758225
+        ],
+        [
+          -73.9706434,
+          40.7583156
+        ],
+        [
+          -73.9706138,
+          40.7583552
+        ],
+        [
+          -73.9705211,
+          40.7584792
+        ],
+        [
+          -73.9704697,
+          40.758548
+        ],
+        [
+          -73.9704504,
+          40.7585738
+        ],
+        [
+          -73.9704045,
+          40.7586352
+        ],
+        [
+          -73.9703731,
+          40.7586773
+        ],
+        [
+          -73.9703532,
+          40.7587038
+        ],
+        [
+          -73.970144,
+          40.758614
+        ],
+        [
+          -73.9700595,
+          40.7585778
+        ],
+        [
+          -73.9699883,
+          40.7586729
+        ],
+        [
+          -73.969874,
+          40.7586239
+        ],
+        [
+          -73.9698663,
+          40.7586206
+        ],
+        [
+          -73.9698425,
+          40.7586104
+        ],
+        [
+          -73.9698115,
+          40.7585971
+        ],
+        [
+          -73.9697802,
+          40.7585837
+        ],
+        [
+          -73.969157,
+          40.7583164
+        ],
+        [
+          -73.9693349,
+          40.7580785
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 164105516,
+    "version": 30,
+    "timestamp": "2026-04-09T11:20:34Z",
+    "url": "https://www.openstreetmap.org/way/164105516"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 258744590,
+      "version": 1,
+      "timestamp": "2014-01-28T10:23:08Z",
+      "url": "https://www.openstreetmap.org/way/258744590"
+    },
+    {
+      "type": "way",
+      "id": 258744593,
+      "version": 1,
+      "timestamp": "2014-01-28T10:23:08Z",
+      "url": "https://www.openstreetmap.org/way/258744593"
+    },
+    {
+      "type": "way",
+      "id": 258744594,
+      "version": 1,
+      "timestamp": "2014-01-28T10:23:09Z",
+      "url": "https://www.openstreetmap.org/way/258744594"
+    },
+    {
+      "type": "way",
+      "id": 258744595,
+      "version": 1,
+      "timestamp": "2014-01-28T10:23:09Z",
+      "url": "https://www.openstreetmap.org/way/258744595"
+    },
+    {
+      "type": "way",
+      "id": 258744596,
+      "version": 1,
+      "timestamp": "2014-01-28T10:23:09Z",
+      "url": "https://www.openstreetmap.org/way/258744596"
+    },
+    {
+      "type": "way",
+      "id": 258744597,
+      "version": 1,
+      "timestamp": "2014-01-28T10:23:09Z",
+      "url": "https://www.openstreetmap.org/way/258744597"
+    },
+    {
+      "type": "way",
+      "id": 258744599,
+      "version": 1,
+      "timestamp": "2014-01-28T10:23:09Z",
+      "url": "https://www.openstreetmap.org/way/258744599"
+    },
+    {
+      "type": "way",
+      "id": 258744600,
+      "version": 1,
+      "timestamp": "2014-01-28T10:23:09Z",
+      "url": "https://www.openstreetmap.org/way/258744600"
+    },
+    {
+      "type": "way",
+      "id": 258744601,
+      "version": 2,
+      "timestamp": "2026-04-09T11:20:34Z",
+      "url": "https://www.openstreetmap.org/way/258744601"
+    },
+    {
+      "type": "way",
+      "id": 258744602,
+      "version": 1,
+      "timestamp": "2014-01-28T10:23:09Z",
+      "url": "https://www.openstreetmap.org/way/258744602"
+    },
+    {
+      "type": "way",
+      "id": 258744603,
+      "version": 1,
+      "timestamp": "2014-01-28T10:23:10Z",
+      "url": "https://www.openstreetmap.org/way/258744603"
+    },
+    {
+      "type": "way",
+      "id": 258744605,
+      "version": 1,
+      "timestamp": "2014-01-28T10:23:10Z",
+      "url": "https://www.openstreetmap.org/way/258744605"
+    },
+    {
+      "type": "way",
+      "id": 258744606,
+      "version": 2,
+      "timestamp": "2014-09-05T12:24:56Z",
+      "url": "https://www.openstreetmap.org/way/258744606"
+    },
+    {
+      "type": "way",
+      "id": 258744608,
+      "version": 2,
+      "timestamp": "2014-03-13T13:42:07Z",
+      "url": "https://www.openstreetmap.org/way/258744608"
+    },
+    {
+      "type": "way",
+      "id": 258744609,
+      "version": 3,
+      "timestamp": "2018-02-18T23:55:53Z",
+      "url": "https://www.openstreetmap.org/way/258744609"
+    },
+    {
+      "type": "way",
+      "id": 258744612,
+      "version": 1,
+      "timestamp": "2014-01-28T10:23:11Z",
+      "url": "https://www.openstreetmap.org/way/258744612"
+    }
+  ],
+  "wikidata": "Q391243",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/nyc-citigroup-center.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Citigroup Center (601 Lexington Avenue) — procedural, CC0-1.0, no textures. bun generators/nyc-citigroup-center.ts",
+    "Map frame: x = model east (Third Avenue side), y = model north (East 54th Street), z up, metres. Placed at bearing 29°, the Manhattan grid. Anchor: area centroid of the OSM outline way/164105516, which covers the tower, the glass atrium and the stepped low-rise building to the east. Kit from nyc-570-lexington.ts.",
+    "Evidence",
+    "OSM way/164105516 and its parts: tower 258744609 (skillion crown, 279 m, min 35), 258744605 (north strip, 279), 258744590 (south strip, 242); the four mid-side stilts 258744594/595/596/600 (8.2 m square, 35 m) and the core 258744612; the stepped base strips 258744601/602/603/608 (10–22 m); the atrium gables 258744593/597/599 (28 m); the low-rise 258744606. St. Peter's Lutheran Church (way/258744589) is a separate building under the tower's north-west corner, so it is not modelled or replaced.",
+    "Lidar: USGS 3DEP NY_NewYorkCity (2017), resampled into the model frame (/tmp/city/nyc/work/nyc-citigroup-center/rot.png). Street level is 4.5 m above the lowest return (the sunken plaza at Lexington and 53rd, which the map's terrain does not see), so y = 0 is the street. Measured above it: tower square x −50.8…−1.2, y −31.6…18.0 (49.6 m, published 157 ft = 47.9 m); roof 242 m with a 4.6 m flat strip on the south side, then the crown slope rising north at ≈ 43° to 280 m, flat for the last 4 m; base terraces stepping 12/16/20/24 m on 53rd Street; low-rise 27 m edges, 31 and 35 m in the middle; the atrium roof gives no returns (glass).",
+    "Published: 279 m, 59 floors, Hugh Stubbins / William LeMessurier, 1977; the tower stands 114 ft (35 m) up on four columns at the middle of each side, with the corners cantilevered 72 ft; 45° crown facing south; aluminium and glass ribbon facade (Wikipedia; NYC LPC designation 2016).",
+    "Photos (Wikimedia Commons, daylight, several sides): see /tmp/city/nyc/work/nyc-citigroup-center/photos/credits.txt.",
+    "Facade: continuous ribbon windows drawn as one band per three storeys, aluminium spandrels between, bands stopping short of the corners; the crown's side triangles and north face are solid aluminium; the slope is a pale metal plane.",
+    "Estimated: the atrium's glass roof shape (one gable over the whole hall; OSM maps three small gables), the low-rise terraces' plan (from the lidar's coarse levels and one street photo), the band proportions.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"nyc-citigroup-center\", model \"nyc-citigroup-center\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/nyc-citigroup-center.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

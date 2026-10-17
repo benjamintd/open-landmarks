@@ -1,0 +1,241 @@
+{
+  "id": "grand-central-terminal",
+  "name": "Grand Central Terminal",
+  "anchor": [
+    -73.9772833,
+    40.7526545
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 118032,
+      "sha256": "cb3ea7450f352f7a0eecbc3ee62310f8117b9bf9890fe1ba8d55530c04c220fa"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 118032,
+      "sha256": "cb3ea7450f352f7a0eecbc3ee62310f8117b9bf9890fe1ba8d55530c04c220fa"
+    }
+  },
+  "triangles": 3279,
+  "boundsBlenderM": [
+    [
+      -77.206,
+      -73.776,
+      0
+    ],
+    [
+      76.685,
+      73.254,
+      45.8
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -73.9775815,
+          40.7522481
+        ],
+        [
+          -73.9776017,
+          40.7522564
+        ],
+        [
+          -73.9776445,
+          40.7522748
+        ],
+        [
+          -73.9780876,
+          40.7524633
+        ],
+        [
+          -73.9781158,
+          40.7524755
+        ],
+        [
+          -73.9781623,
+          40.7524952
+        ],
+        [
+          -73.9781668,
+          40.7524973
+        ],
+        [
+          -73.9781702,
+          40.7524994
+        ],
+        [
+          -73.9781737,
+          40.752502
+        ],
+        [
+          -73.9781768,
+          40.7525048
+        ],
+        [
+          -73.9781798,
+          40.7525078
+        ],
+        [
+          -73.9781822,
+          40.7525113
+        ],
+        [
+          -73.9781842,
+          40.7525145
+        ],
+        [
+          -73.9781857,
+          40.7525177
+        ],
+        [
+          -73.9781869,
+          40.7525211
+        ],
+        [
+          -73.9781876,
+          40.7525246
+        ],
+        [
+          -73.9781878,
+          40.7525287
+        ],
+        [
+          -73.9781872,
+          40.7525327
+        ],
+        [
+          -73.9781863,
+          40.7525362
+        ],
+        [
+          -73.9781851,
+          40.7525396
+        ],
+        [
+          -73.9781832,
+          40.7525429
+        ],
+        [
+          -73.9781811,
+          40.7525464
+        ],
+        [
+          -73.9781521,
+          40.7525854
+        ],
+        [
+          -73.9781396,
+          40.7526022
+        ],
+        [
+          -73.9778407,
+          40.7529885
+        ],
+        [
+          -73.9777837,
+          40.7530623
+        ],
+        [
+          -73.9775878,
+          40.7533155
+        ],
+        [
+          -73.9773935,
+          40.7532342
+        ],
+        [
+          -73.9772638,
+          40.7531781
+        ],
+        [
+          -73.9767238,
+          40.7529507
+        ],
+        [
+          -73.9765768,
+          40.7528885
+        ],
+        [
+          -73.9763618,
+          40.7527967
+        ],
+        [
+          -73.9763692,
+          40.7527865
+        ],
+        [
+          -73.9765184,
+          40.7525855
+        ],
+        [
+          -73.9765934,
+          40.7524757
+        ],
+        [
+          -73.9769535,
+          40.751981
+        ],
+        [
+          -73.9775212,
+          40.7522224
+        ],
+        [
+          -73.9775643,
+          40.7522407
+        ],
+        [
+          -73.9775815,
+          40.7522481
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 265947358,
+    "version": 46,
+    "timestamp": "2026-01-25T20:43:17Z",
+    "url": "https://www.openstreetmap.org/way/265947358"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q11290",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/grand-central-terminal.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Grand Central Terminal — procedural, CC0-1.0, no textures. bun generators/grand-central-terminal.ts",
+    "Map frame: x across the building (Vanderbilt -x, Lexington side +x), y along Park Avenue (42nd Street -y), z up, metres. Placed at bearing 29°, the Manhattan grid. Anchor is the centre of the OSM outline's rotated bounding box (way/265947358, 120.6 × 103 m, height 45.8 m), so the model can be exactly symmetrical about x = 0.",
+    "Masses: the Beaux-Arts head house (42nd Street front and the two side fronts) under a green copper hip roof; the main concourse rising behind it with its own copper roof and pale skylight ridge; the lower north office block up to the MetLife Building, which is a separate building and is not modelled here.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"grand-central-terminal\", model \"grand-central-terminal\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/grand-central-terminal.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "To fit six materials, folded grand-central-terminal-granite into grand-central-terminal-flat-roof (ΔE 8.4)."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

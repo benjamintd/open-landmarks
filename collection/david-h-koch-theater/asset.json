@@ -1,0 +1,184 @@
+{
+  "id": "david-h-koch-theater",
+  "name": "David H. Koch Theater",
+  "anchor": [
+    -73.9837676,
+    40.7717921
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 33312,
+      "sha256": "4a17eb8a0838e54468303eab6513ca3259b690ef538485ce4eace0089469a70c"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 33312,
+      "sha256": "4a17eb8a0838e54468303eab6513ca3259b690ef538485ce4eace0089469a70c"
+    }
+  },
+  "triangles": 592,
+  "boundsBlenderM": [
+    [
+      -45.393,
+      -49.291,
+      0
+    ],
+    [
+      45.087,
+      48.985,
+      34.5
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -73.9836896,
+          40.7713507
+        ],
+        [
+          -73.9842752,
+          40.7715968
+        ],
+        [
+          -73.9843027,
+          40.7716086
+        ],
+        [
+          -73.9842799,
+          40.7716398
+        ],
+        [
+          -73.9838658,
+          40.7722068
+        ],
+        [
+          -73.9838466,
+          40.7722333
+        ],
+        [
+          -73.9835433,
+          40.7721064
+        ],
+        [
+          -73.9832332,
+          40.7719758
+        ],
+        [
+          -73.9832498,
+          40.771951
+        ],
+        [
+          -73.9832591,
+          40.7719381
+        ],
+        [
+          -73.9834696,
+          40.771651
+        ],
+        [
+          -73.9835079,
+          40.771599
+        ],
+        [
+          -73.9835491,
+          40.7715431
+        ],
+        [
+          -73.9835949,
+          40.77148
+        ],
+        [
+          -73.9836216,
+          40.7714436
+        ],
+        [
+          -73.9836303,
+          40.7714317
+        ],
+        [
+          -73.9836678,
+          40.7713805
+        ],
+        [
+          -73.9836896,
+          40.7713507
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 265354528,
+    "version": 17,
+    "timestamp": "2026-09-13T03:11:05Z",
+    "url": "https://www.openstreetmap.org/way/265354528"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 330177536,
+      "version": 2,
+      "timestamp": "2026-02-08T03:33:41Z",
+      "url": "https://www.openstreetmap.org/way/330177536"
+    },
+    {
+      "type": "way",
+      "id": 330177537,
+      "version": 2,
+      "timestamp": "2026-02-08T03:33:41Z",
+      "url": "https://www.openstreetmap.org/way/330177537"
+    },
+    {
+      "type": "way",
+      "id": 1475173705,
+      "version": 1,
+      "timestamp": "2026-02-08T03:33:41Z",
+      "url": "https://www.openstreetmap.org/way/1475173705"
+    }
+  ],
+  "wikidata": "Q3018029",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/nyc-koch-theater.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "David H. Koch Theater, Lincoln Center — procedural, CC0-1.0, no textures. bun generators/nyc-koch-theater.ts",
+    "Map frame: x = model east (Columbus Avenue), y = model north (the plaza), z up, metres. Placed at bearing 29°, the Manhattan grid. Anchor: area centroid of the OSM outline way/265354528. The plaza front faces north (+y).",
+    "Identifying features (from the photos): 1. Paired square travertine columns standing free across the plaza front, four pairs (one at each corner and two inside), rising the full height to a deep plain fascia: the box above. 2. Behind them a recessed two-storey glass loggia: tall dark glass between stone piers over the promenade balcony (about 5 m up, with its balustrade line), the entrances below. 3. Plain travertine sides with shallow pilasters under the same fascia. 4. The auditorium box and the stage house above the roof towards 62nd Street.",
+    "Evidence",
+    "OSM way/265354528 (outline, 59 × 79 m), parts 1475173705 (the ring, 24 m), 330177536 (the auditorium, 27 m), 330177537 (the stage house, 31.7 m).",
+    "Lidar: USGS 3DEP NY_NewYorkCity (2017), resampled in the model frame (/tmp/city/nyc/work/lc/rot.py), above the street level at 23.8 m NAVD88 (the lowest ground round the footprint, 62nd Street and Columbus Avenue): the plaza in front 1.1 m; the roof 23.0 m to the outline; the auditorium box 28.0 m over x −21…20.5, y −33…25; the stage house 33–35 m over x −13…12, y −37…−20.",
+    "Published: Philip Johnson, 1964, as the New York State Theater (Wikipedia).",
+    "Photos (Wikimedia Commons, daylight): the plaza front (AramilFeraxa, CC BY 4.0), the front and Columbus Avenue side (Epicgenius, CC BY-SA 4.0; DEGA MD, CC BY-SA 4.0), the front from the north-west (Ajay Suresh, CC BY 2.0); /tmp/city/nyc/work/nyc-koch-theater/photos/credits.txt.",
+    "Measured from the photos scaled to the lidar's 21.9 m above the plaza: the fascia about 3 m deep, the balcony about 5 m above the plaza, the columns about 1.7 m square. Estimated: the pairs' spacing (pair centres at ±8.6 and ±25.7 m, the columns of a pair 6.2 m apart, from the perspective of the plaza photo), the loggia's depth (4 m), the side pilasters' pitch, the 62nd Street (south) front, drawn plain as no licensed photo of it was found. The plaza and the fountain are not modelled.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"nyc-koch-theater\", model \"nyc-koch-theater\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/nyc-koch-theater.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

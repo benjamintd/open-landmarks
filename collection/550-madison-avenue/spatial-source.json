@@ -1,0 +1,319 @@
+{
+  "id": "550-madison-avenue",
+  "anchor": [
+    -73.9733731,
+    40.7614226
+  ],
+  "coordinateSystem": "Local metres about the anchor (equirectangular, WGS84 radius): X east, Y north, Z up. glTF export: X east, Y up, Z south. Heading already baked.",
+  "license": "ODbL-1.0",
+  "footprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -28.280009008373167,
+          -18.868653690070424
+        ],
+        [
+          -1.0455340244060392,
+          -33.98584053928004
+        ],
+        [
+          12.630725550276862,
+          -9.350837226755562
+        ],
+        [
+          14.527863900588448,
+          -5.922196910594912
+        ],
+        [
+          28.28844073507218,
+          18.868653689279455
+        ],
+        [
+          1.0455340244060392,
+          33.98584053848907
+        ],
+        [
+          -28.280009008373167,
+          -18.868653690070424
+        ]
+      ]
+    ]
+  },
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -73.9737085,
+          40.7612531
+        ],
+        [
+          -73.9733855,
+          40.7611173
+        ],
+        [
+          -73.9732233,
+          40.7613386
+        ],
+        [
+          -73.9732008,
+          40.7613694
+        ],
+        [
+          -73.9730376,
+          40.7615921
+        ],
+        [
+          -73.9733607,
+          40.7617279
+        ],
+        [
+          -73.9737085,
+          40.7612531
+        ]
+      ]
+    ]
+  },
+  "parts": [
+    {
+      "osm": "relation/21151099",
+      "tags": {
+        "addr:housenumber": "550",
+        "addr:street": "Madison Avenue",
+        "alt_name": "Sony Tower;Sony Building;SonyPlaza;AT&T Building",
+        "building": "yes",
+        "name": "550 Madison Avenue",
+        "name:en": "550 Madison Avenue",
+        "name:he": "בניין AT&T",
+        "name:ru": "Сони-билдинг",
+        "old_name": "AT&T Building",
+        "start_date": "1984",
+        "type": "multipolygon",
+        "wikidata": "Q1477826",
+        "wikipedia": "en:550 Madison Avenue"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -28.280009008373167,
+              -18.868653690070424
+            ],
+            [
+              -1.0455340244060392,
+              -33.98584053928004
+            ],
+            [
+              12.630725550276862,
+              -9.350837226755562
+            ],
+            [
+              14.527863900588448,
+              -5.922196910594912
+            ],
+            [
+              28.28844073507218,
+              18.868653689279455
+            ],
+            [
+              1.0455340244060392,
+              33.98584053848907
+            ],
+            [
+              -28.280009008373167,
+              -18.868653690070424
+            ]
+          ]
+        ]
+      },
+      "version": 1,
+      "timestamp": "2026-07-27T05:23:46Z"
+    },
+    {
+      "osm": "way/118116805",
+      "tags": {
+        "building:colour": "#D2B48C",
+        "building:levels": "37",
+        "building:part": "yes",
+        "height": "185"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.28844073507218,
+              18.868653689279455
+            ],
+            [
+              14.527863900588448,
+              -5.922196910594912
+            ],
+            [
+              12.630725550276862,
+              -9.350837226755562
+            ],
+            [
+              -1.0455340244060392,
+              -33.98584053928004
+            ],
+            [
+              -28.280009008373167,
+              -18.868653690070424
+            ],
+            [
+              -14.61218116038928,
+              5.7663496224540545
+            ],
+            [
+              -12.706611083378675,
+              9.194989939405678
+            ],
+            [
+              1.0455340244060392,
+              33.98584053848907
+            ],
+            [
+              28.28844073507218,
+              18.868653689279455
+            ]
+          ]
+        ]
+      },
+      "version": 5,
+      "timestamp": "2014-02-06T08:09:19Z"
+    },
+    {
+      "osm": "way/260244593",
+      "tags": {
+        "building:colour": "#D2B48C",
+        "building:part": "yes",
+        "height": "197",
+        "min_height": "185",
+        "roof:colour": "#ADD8E6",
+        "roof:direction": "29",
+        "roof:height": "10",
+        "roof:shape": "skillion"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1.0455340244060392,
+              33.98584053848907
+            ],
+            [
+              -12.706611083378675,
+              9.194989939405678
+            ],
+            [
+              14.527863900588448,
+              -5.922196910594912
+            ],
+            [
+              28.28844073507218,
+              18.868653689279455
+            ],
+            [
+              1.0455340244060392,
+              33.98584053848907
+            ]
+          ]
+        ]
+      },
+      "version": 4,
+      "timestamp": "2018-02-18T23:55:56Z"
+    },
+    {
+      "osm": "way/260244595",
+      "tags": {
+        "building:colour": "#D2B48C",
+        "building:part": "yes",
+        "height": "197",
+        "min_height": "185",
+        "roof:colour": "#ADD8E6",
+        "roof:direction": "209",
+        "roof:height": "10",
+        "roof:shape": "skillion"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -14.61218116038928,
+              5.7663496224540545
+            ],
+            [
+              -28.280009008373167,
+              -18.868653690070424
+            ],
+            [
+              -1.0455340244060392,
+              -33.98584053928004
+            ],
+            [
+              12.630725550276862,
+              -9.350837226755562
+            ],
+            [
+              -14.61218116038928,
+              5.7663496224540545
+            ]
+          ]
+        ]
+      },
+      "version": 4,
+      "timestamp": "2018-02-18T23:55:56Z"
+    }
+  ],
+  "osm": {
+    "type": "relation",
+    "id": 21151099,
+    "version": 1,
+    "timestamp": "2026-07-27T05:23:46Z",
+    "url": "https://www.openstreetmap.org/relation/21151099"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 118116805,
+      "version": 5,
+      "timestamp": "2014-02-06T08:09:19Z",
+      "url": "https://www.openstreetmap.org/way/118116805"
+    },
+    {
+      "type": "way",
+      "id": 260244593,
+      "version": 4,
+      "timestamp": "2018-02-18T23:55:56Z",
+      "url": "https://www.openstreetmap.org/way/260244593"
+    },
+    {
+      "type": "way",
+      "id": 260244595,
+      "version": 4,
+      "timestamp": "2018-02-18T23:55:56Z",
+      "url": "https://www.openstreetmap.org/way/260244595"
+    }
+  ],
+  "tags": {
+    "addr:housenumber": "550",
+    "addr:street": "Madison Avenue",
+    "alt_name": "Sony Tower;Sony Building;SonyPlaza;AT&T Building",
+    "building": "yes",
+    "name": "550 Madison Avenue",
+    "name:en": "550 Madison Avenue",
+    "name:he": "בניין AT&T",
+    "name:ru": "Сони-билдинг",
+    "old_name": "AT&T Building",
+    "start_date": "1984",
+    "type": "multipolygon",
+    "wikidata": "Q1477826",
+    "wikipedia": "en:550 Madison Avenue"
+  }
+}

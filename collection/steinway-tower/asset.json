@@ -1,0 +1,348 @@
+{
+  "id": "steinway-tower",
+  "name": "Steinway Tower",
+  "anchor": [
+    -73.9773054,
+    40.7647294
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 13,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 122688,
+      "sha256": "7458d6a89e5a5a8a256bff2639b357dfaaa3fb678adb4f8f0d2fb06378d1c29e"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 122688,
+      "sha256": "7458d6a89e5a5a8a256bff2639b357dfaaa3fb678adb4f8f0d2fb06378d1c29e"
+    }
+  },
+  "triangles": 2414,
+  "boundsBlenderM": [
+    [
+      -49.365,
+      -9.809,
+      0
+    ],
+    [
+      6.766,
+      58.319,
+      435
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -73.9777208,
+          40.7647015
+        ],
+        [
+          -73.977573,
+          40.7646402
+        ],
+        [
+          -73.9774719,
+          40.7647802
+        ],
+        [
+          -73.9774621,
+          40.7647937
+        ],
+        [
+          -73.9774524,
+          40.7648072
+        ],
+        [
+          -73.9774438,
+          40.764819
+        ],
+        [
+          -73.9774426,
+          40.7648207
+        ],
+        [
+          -73.9774328,
+          40.7648342
+        ],
+        [
+          -73.977423,
+          40.7648477
+        ],
+        [
+          -73.9774133,
+          40.7648613
+        ],
+        [
+          -73.9774035,
+          40.7648748
+        ],
+        [
+          -73.9773966,
+          40.7648843
+        ],
+        [
+          -73.9773937,
+          40.7648883
+        ],
+        [
+          -73.977384,
+          40.7649018
+        ],
+        [
+          -73.9773742,
+          40.7649153
+        ],
+        [
+          -73.9773644,
+          40.7649288
+        ],
+        [
+          -73.9773547,
+          40.7649424
+        ],
+        [
+          -73.9773302,
+          40.7649762
+        ],
+        [
+          -73.977519,
+          40.7650545
+        ],
+        [
+          -73.9775434,
+          40.7650206
+        ],
+        [
+          -73.9775532,
+          40.7650071
+        ],
+        [
+          -73.977563,
+          40.7649936
+        ],
+        [
+          -73.9775728,
+          40.7649801
+        ],
+        [
+          -73.9775825,
+          40.7649666
+        ],
+        [
+          -73.9775923,
+          40.764953
+        ],
+        [
+          -73.9776021,
+          40.7649395
+        ],
+        [
+          -73.9776118,
+          40.764926
+        ],
+        [
+          -73.9776216,
+          40.7649125
+        ],
+        [
+          -73.9776314,
+          40.764899
+        ],
+        [
+          -73.9776411,
+          40.7648855
+        ],
+        [
+          -73.9776509,
+          40.7648719
+        ],
+        [
+          -73.9776607,
+          40.7648584
+        ],
+        [
+          -73.9776333,
+          40.7648471
+        ],
+        [
+          -73.9776197,
+          40.7648414
+        ],
+        [
+          -73.9776304,
+          40.7648266
+        ],
+        [
+          -73.9777208,
+          40.7647015
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 261504064,
+    "version": 11,
+    "timestamp": "2026-07-22T10:02:33Z",
+    "url": "https://www.openstreetmap.org/way/261504064"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 1158813428,
+      "version": 2,
+      "timestamp": "2026-04-25T23:51:49Z",
+      "url": "https://www.openstreetmap.org/way/1158813428"
+    },
+    {
+      "type": "way",
+      "id": 1158813429,
+      "version": 1,
+      "timestamp": "2023-03-31T20:07:00Z",
+      "url": "https://www.openstreetmap.org/way/1158813429"
+    },
+    {
+      "type": "way",
+      "id": 1158813430,
+      "version": 1,
+      "timestamp": "2023-03-31T20:07:00Z",
+      "url": "https://www.openstreetmap.org/way/1158813430"
+    },
+    {
+      "type": "way",
+      "id": 1158813431,
+      "version": 1,
+      "timestamp": "2023-03-31T20:07:00Z",
+      "url": "https://www.openstreetmap.org/way/1158813431"
+    },
+    {
+      "type": "way",
+      "id": 1158813432,
+      "version": 1,
+      "timestamp": "2023-03-31T20:07:00Z",
+      "url": "https://www.openstreetmap.org/way/1158813432"
+    },
+    {
+      "type": "way",
+      "id": 1158813433,
+      "version": 1,
+      "timestamp": "2023-03-31T20:07:00Z",
+      "url": "https://www.openstreetmap.org/way/1158813433"
+    },
+    {
+      "type": "way",
+      "id": 1158813434,
+      "version": 1,
+      "timestamp": "2023-03-31T20:07:00Z",
+      "url": "https://www.openstreetmap.org/way/1158813434"
+    },
+    {
+      "type": "way",
+      "id": 1158813435,
+      "version": 1,
+      "timestamp": "2023-03-31T20:07:00Z",
+      "url": "https://www.openstreetmap.org/way/1158813435"
+    },
+    {
+      "type": "way",
+      "id": 1158813436,
+      "version": 1,
+      "timestamp": "2023-03-31T20:07:00Z",
+      "url": "https://www.openstreetmap.org/way/1158813436"
+    },
+    {
+      "type": "way",
+      "id": 1158813437,
+      "version": 1,
+      "timestamp": "2023-03-31T20:07:00Z",
+      "url": "https://www.openstreetmap.org/way/1158813437"
+    },
+    {
+      "type": "way",
+      "id": 1158813438,
+      "version": 1,
+      "timestamp": "2023-03-31T20:07:00Z",
+      "url": "https://www.openstreetmap.org/way/1158813438"
+    },
+    {
+      "type": "way",
+      "id": 1158813439,
+      "version": 1,
+      "timestamp": "2023-03-31T20:07:00Z",
+      "url": "https://www.openstreetmap.org/way/1158813439"
+    },
+    {
+      "type": "way",
+      "id": 1158813440,
+      "version": 2,
+      "timestamp": "2023-09-17T16:35:02Z",
+      "url": "https://www.openstreetmap.org/way/1158813440"
+    },
+    {
+      "type": "way",
+      "id": 1158813441,
+      "version": 2,
+      "timestamp": "2023-04-01T23:04:18Z",
+      "url": "https://www.openstreetmap.org/way/1158813441"
+    },
+    {
+      "type": "way",
+      "id": 265147970,
+      "version": 4,
+      "timestamp": "2023-09-17T16:35:02Z",
+      "url": "https://www.openstreetmap.org/way/265147970"
+    }
+  ],
+  "wikidata": "Q2631268",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:111 West 57th Street.png",
+      "author": "Short final",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:111_West_57th_Street.png",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/nyc-steinway-tower.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Steinway Tower, 111 West 57th Street (SHoP Architects, 2021), with the landmarked Steinway Hall (Warren & Wetmore, 1925) at its base — original procedural geometry, CC0-1.0. bun generators/nyc-steinway-tower.ts",
+    "x = across the Manhattan grid (118.85°), y = up the avenues (28.85°), z = metres up. Anchor is the centroid of OSM way/261504064 (40.7647294, -73.9773054); bearing 28.85°, elevation 0. 57th Street is to the south (y ≈ -22), 58th Street to the north (y ≈ 44).",
+    "Evidence",
+    "OSM: the tower outline (way/261504064) and its 14 building:parts. The tower is 18.1 × 24.9 m; its south side steps back in 13 strips 1.7 m deep, from 200 m to 435 m (way/1158813440 … 1158813428; the mapper notes the heights were found by counting floors at 5 m). way/1158813441 is the glass retail lobby on 57th Street east of the hall. Steinway Hall is way/265147970, an L that wraps the tower on the west and north.",
+    "Published (Wikipedia, \"111 West 57th Street\", \"Steinway Hall\"): pinnacle 1,423 ft 7 in (433.5 m), roof slab 383 m; tower site about 59 × 75 ft (18 × 23 m), slenderness about 1:24; north elevation rises straight to the pinnacle, setbacks on the south; north and south elevations are glass curtain walls with bronze mullions; east and west elevations are narrow windows between beige glazed terracotta piers, each pier rising to one of the setbacks; an 80 ft (24 m) glass retail lobby. Steinway Hall: 16 storeys, L-shaped, 63 ft on 57th Street and 100 ft on 58th; limestone base, setback and urn parapet above the 12th storey; a chamfered colonnaded top on 13–16; setbacks above the 9th and 12th on 58th.",
+    "Measured (USGS 3DEP 2017 lidar, flown while the tower was a hole in the ground, so for the hall only): front block parapet 51–53 m at the street line, roof 62 m behind it, the colonnaded crown 66–69 m; the rear tower of the hall 73 m with its top at 84 m; the 58th Street wing 61–66 m, stepping to 50 m and 39 m at the street.",
+    "Photos (Wikimedia Commons): Percival Kestreltail \"111 West 57th Street from Top of the Rock\" (CC BY-SA 4.0, south-east); Ajay Suresh \"111 West 57th Street - Steinway Building\" (CC BY 4.0, the hall from 57th Street); Short final \"111 West 57th Street.png\" (CC BY-SA 4.0); Kidfly182 \"111 West 57th Street 002\" (CC BY 4.0); Itrytohelp32 \"Billionaires' Row 2020\" (CC BY-SA 4.0); Wil540 art \"05 23 2022 Super tall buildings and Central park from Roof NYC\" (CC BY-SA 4.0, from the east).",
+    "Estimated: the tower's step heights (OSM's floor count), the glass lobby at 24 m, the hall's massing beyond what the lidar shows. The real terracotta piers are about 1 m wide on a 1.7 m pitch; they are drawn one per setback strip, which is the real rhythm, with the windows between them broken every four floors so they do not run as full-height stripes.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"nyc-steinway-tower\", model \"nyc-steinway-tower\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/nyc-steinway-tower.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}
