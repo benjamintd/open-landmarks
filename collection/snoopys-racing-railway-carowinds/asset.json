@@ -1,0 +1,213 @@
+{
+  "id": "snoopys-racing-railway-carowinds",
+  "name": "Snoopy's Racing Railway",
+  "anchor": [
+    -80.9390691,
+    35.101969
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 49800,
+      "sha256": "cf0d00ef0fe3992bf2d123d0f10febc1daf40c6598d7fc9c68b898f1692a5d46"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 49800,
+      "sha256": "cf0d00ef0fe3992bf2d123d0f10febc1daf40c6598d7fc9c68b898f1692a5d46"
+    }
+  },
+  "triangles": 1499,
+  "boundsBlenderM": [
+    [
+      -30.987,
+      -33.248,
+      0
+    ],
+    [
+      30.984,
+      33.623,
+      10.876
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.9393631,
+          35.1020075
+        ],
+        [
+          -80.9393487,
+          35.1020075
+        ],
+        [
+          -80.93928,
+          35.1020075
+        ],
+        [
+          -80.9392724,
+          35.1020075
+        ],
+        [
+          -80.93925,
+          35.1020075
+        ],
+        [
+          -80.93925,
+          35.1019983
+        ],
+        [
+          -80.9392277,
+          35.1019983
+        ],
+        [
+          -80.9392277,
+          35.1019926
+        ],
+        [
+          -80.9392278,
+          35.1019296
+        ],
+        [
+          -80.9392278,
+          35.1019095
+        ],
+        [
+          -80.9392414,
+          35.1019095
+        ],
+        [
+          -80.9392477,
+          35.1019095
+        ],
+        [
+          -80.9392477,
+          35.1018956
+        ],
+        [
+          -80.9392806,
+          35.1018956
+        ],
+        [
+          -80.9393446,
+          35.1018957
+        ],
+        [
+          -80.9393632,
+          35.1018957
+        ],
+        [
+          -80.9393631,
+          35.1020075
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 1495972517,
+    "version": 1,
+    "timestamp": "2026-04-04T02:19:28Z",
+    "url": "https://www.openstreetmap.org/way/1495972517"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 1495972532,
+      "version": 2,
+      "timestamp": "2026-04-04T03:12:56Z",
+      "url": "https://www.openstreetmap.org/way/1495972532"
+    },
+    {
+      "type": "way",
+      "id": 1495975650,
+      "version": 1,
+      "timestamp": "2026-04-04T03:12:56Z",
+      "url": "https://www.openstreetmap.org/way/1495975650"
+    },
+    {
+      "type": "way",
+      "id": 1495975649,
+      "version": 1,
+      "timestamp": "2026-04-04T03:12:56Z",
+      "url": "https://www.openstreetmap.org/way/1495975649"
+    },
+    {
+      "type": "way",
+      "id": 1495975647,
+      "version": 1,
+      "timestamp": "2026-04-04T03:12:56Z",
+      "url": "https://www.openstreetmap.org/way/1495975647"
+    },
+    {
+      "type": "way",
+      "id": 1495975648,
+      "version": 1,
+      "timestamp": "2026-04-04T03:12:56Z",
+      "url": "https://www.openstreetmap.org/way/1495975648"
+    },
+    {
+      "type": "way",
+      "id": 1495972533,
+      "version": 2,
+      "timestamp": "2026-04-04T03:12:56Z",
+      "url": "https://www.openstreetmap.org/way/1495972533"
+    },
+    {
+      "type": "way",
+      "id": 1495972534,
+      "version": 2,
+      "timestamp": "2026-04-04T03:12:56Z",
+      "url": "https://www.openstreetmap.org/way/1495972534"
+    },
+    {
+      "type": "way",
+      "id": 1495975646,
+      "version": 1,
+      "timestamp": "2026-04-04T03:12:56Z",
+      "url": "https://www.openstreetmap.org/way/1495975646"
+    }
+  ],
+  "wikidata": "Q129567202",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/carowinds-snoopys-racing-railway.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Snoopy's Racing Railway, Carowinds: procedural, CC0-1.0. bun generators/carowinds-snoopys-racing-railway.ts (REPORT=1 for the element table)",
+    "Map frame: x east, y north, z up, metres; bearing 0, so the frame is true north. The origin is the middle of the ride's footprint (see the anchor), at the lowest ground under the track. Built with ./coaster-kit.ts.",
+    "Plan: the circuit is the OSM `roller_coaster=track` ways through the station (way/1495972517): way/1495972532, 1495975650, 1495975649, 1495975647, 1495975648, 1495972533, 1495972534 and 1495975646, end to end: 250 m against the published 245 m. None is tagged oneway; the train is taken to leave the station northwards, because that is the only straight out of it long enough for the tyre launch the twin at Canada's Wonderland starts with, and because the second straight shed (way/1495972514) then boosts the train into the climb over the crossing that OSM tags layer 1. The two small sheds the track runs through (way/1495972513, 1495972514) are buildings of their own and stay on the map.",
+    "Profile: an ART Engineering Family Launch Coaster (245 m model; RCDB 22011, opened 2025), 39.4 ft (12 m) high, 31.1 mph, two tyre-driven launches, a copy of Fridolin's Zauberexpress (Fantasiana) like the one at Canada's Wonderland. Positions are metres along the OSM polyline (250 m round) and % of it:",
+    "launch out of the station s 0–16 (0–6%) north turnaround, 4.5 m s 20–48 (8–19%) through the first shed s 66–76 (26–30%) east turnaround, 4 m s 105–128 (42–51%) boost in the second shed s 132–145 (53–58%) over the crossing to the top, 10.5 m s 158–166 (63–66%) down over the brake run s 187 (75%), 6 m up south turnaround, brakes s 195–238 (78–95%)",
+    "Photos: no open-licence photo of the Carowinds ride could be found, so the shape and colours come from its twin, Snoopy's Racing Railway at Canada's Wonderland: \"Snoopy's Racing Railway Offside\", \"Plaza\", \"Station\" and \"Launch\" (Bigtime Boy, 2023–24, CC BY-SA 4.0, Wikimedia Commons), and Coasterpedia's \"grey track and brown supports\".",
+    "Style: a grey ribbon on thick brown timber-look columns; the station is its roof on posts.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"carowinds-snoopys-racing-railway\", model \"carowinds-snoopys-racing-railway\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/carowinds-snoopys-racing-railway.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

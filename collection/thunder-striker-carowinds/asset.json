@@ -1,0 +1,223 @@
+{
+  "id": "thunder-striker-carowinds",
+  "name": "Thunder Striker",
+  "anchor": [
+    -80.9390471,
+    35.1012365
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 158136,
+      "sha256": "d9fe66307e603048acbf4b77e4945c3c504f38a4aef59b2969f8421944b1c930"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 158136,
+      "sha256": "d9fe66307e603048acbf4b77e4945c3c504f38a4aef59b2969f8421944b1c930"
+    }
+  },
+  "triangles": 5103,
+  "boundsBlenderM": [
+    [
+      -119.889,
+      -255.872,
+      0
+    ],
+    [
+      128.496,
+      245.968,
+      75.334
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.9396755,
+          35.1031538
+        ],
+        [
+          -80.9395459,
+          35.103
+        ],
+        [
+          -80.9395624,
+          35.1029909
+        ],
+        [
+          -80.9395677,
+          35.102988
+        ],
+        [
+          -80.939571,
+          35.1029858
+        ],
+        [
+          -80.9395663,
+          35.1029803
+        ],
+        [
+          -80.9395466,
+          35.1029568
+        ],
+        [
+          -80.9395383,
+          35.1029615
+        ],
+        [
+          -80.9394716,
+          35.1029991
+        ],
+        [
+          -80.9394216,
+          35.1030275
+        ],
+        [
+          -80.9394066,
+          35.103036
+        ],
+        [
+          -80.9394946,
+          35.1031398
+        ],
+        [
+          -80.9395154,
+          35.1031645
+        ],
+        [
+          -80.9395605,
+          35.1032184
+        ],
+        [
+          -80.939624,
+          35.1031828
+        ],
+        [
+          -80.9396755,
+          35.1031538
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 239268383,
+    "version": 13,
+    "timestamp": "2026-07-10T14:20:24Z",
+    "url": "https://www.openstreetmap.org/way/239268383"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 669991776,
+      "version": 8,
+      "timestamp": "2022-07-06T19:52:06Z",
+      "url": "https://www.openstreetmap.org/way/669991776"
+    },
+    {
+      "type": "way",
+      "id": 890902047,
+      "version": 2,
+      "timestamp": "2022-07-06T19:52:06Z",
+      "url": "https://www.openstreetmap.org/way/890902047"
+    },
+    {
+      "type": "way",
+      "id": 890902049,
+      "version": 2,
+      "timestamp": "2022-07-06T19:52:06Z",
+      "url": "https://www.openstreetmap.org/way/890902049"
+    },
+    {
+      "type": "way",
+      "id": 890902050,
+      "version": 2,
+      "timestamp": "2022-07-06T19:52:06Z",
+      "url": "https://www.openstreetmap.org/way/890902050"
+    },
+    {
+      "type": "way",
+      "id": 890902046,
+      "version": 2,
+      "timestamp": "2022-07-06T19:52:06Z",
+      "url": "https://www.openstreetmap.org/way/890902046"
+    },
+    {
+      "type": "way",
+      "id": 890902048,
+      "version": 2,
+      "timestamp": "2022-07-06T19:52:06Z",
+      "url": "https://www.openstreetmap.org/way/890902048"
+    },
+    {
+      "type": "way",
+      "id": 890902052,
+      "version": 2,
+      "timestamp": "2022-07-06T19:52:06Z",
+      "url": "https://www.openstreetmap.org/way/890902052"
+    },
+    {
+      "type": "way",
+      "id": 890902053,
+      "version": 2,
+      "timestamp": "2022-07-06T19:52:06Z",
+      "url": "https://www.openstreetmap.org/way/890902053"
+    },
+    {
+      "type": "way",
+      "id": 890902045,
+      "version": 2,
+      "timestamp": "2022-07-06T19:52:06Z",
+      "url": "https://www.openstreetmap.org/way/890902045"
+    },
+    {
+      "type": "way",
+      "id": 890901418,
+      "version": 4,
+      "timestamp": "2022-07-06T19:52:06Z",
+      "url": "https://www.openstreetmap.org/way/890901418"
+    }
+  ],
+  "wikidata": "Q1671491",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/carowinds-thunder-striker.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Thunder Striker (formerly Intimidator), Carowinds: procedural, CC0-1.0. bun generators/carowinds-thunder-striker.ts (REPORT=1 for the element table)",
+    "Map frame: x east, y north, z up, metres; bearing 0, so the frame is true north. The origin is the middle of the track's footprint (see ANCHOR), at the lowest ground under it. Built with ./coaster-kit.ts.",
+    "Plan: the circuit is the chain of OSM `roller_coaster=track` ways from the station in Thunder Road (way/669991776, way/890902047 … way/890901418, all oneway, in the direction of travel). The spur into the train barn (way/890901693) is left out.",
+    "Profile: a B&M hyper of 1,620 m. Element heights are the published ones (RCDB 8588, Wikipedia: a 232 ft lift with a 211 ft drop at 74°, then hills of 178, 151, 105, 90, 62, 52 and 48 ft, and the 121 ft hammerhead turn). Where each sits along the track was measured from photos with known camera positions, by casting each crest back through the fitted camera onto the OSM plan; some measured crests came out a few metres off the published heights and were nudged to fit the photos. Positions are metres along the OSM polyline (1,398 m round) and % of it:",
+    "lift crest, 71 m s 100 (7%), a 45° lift straight off the station first drop, 74° foot at s 177 (13%), 7 m up, so it falls 211 ft camelback, 55 m s 251 (18%), at the head of the sharp right turn left turn s 345 (25%), low camelback, 48 m s 421 (30%), outbound hammerhead, 40 m s 594–606 (42–43%), a long straight ramp up camelback, 35 m s 730 (52%), inbound beside the outbound track camelback, 31 m s 841 (60%) mid-course brakes, 25 m s 950–1004 (68–72%) hill, 21 m s 1071 (77%), into the diving spiral diving spiral, foot s 1185 (85%) hills, 17.5 m and 16 m s 1225 (88%), s 1283 (92%) final brakes from s 1314 (94%)",
+    "Photos used for matching (Wikimedia Commons, ThrillZing, October 2024, CC BY 4.0): \"Thunder Striker's red track and airtime hills across the empty Carowinds parking lot\", \"Thunder Striker's red hills stretching across the parking lot\", \"Thunder Striker's full red layout from the parking lot, Fury 325 at the right\", \"Thunder Striker's lift hill rising from the station with a train on the hills\".",
+    "Style: one broad swept ribbon, banked from the train's speed and the plan curvature. Red running surface and rails over a red box spine a shade deeper, on pale grey tubular supports: single columns where the track is low, A-frames of two splayed legs where it is high. The station is its flat canopy roof on posts.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"carowinds-thunder-striker\", model \"carowinds-thunder-striker\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/carowinds-thunder-striker.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

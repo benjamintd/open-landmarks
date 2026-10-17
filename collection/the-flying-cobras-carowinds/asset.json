@@ -1,0 +1,167 @@
+{
+  "id": "the-flying-cobras-carowinds",
+  "name": "The Flying Cobras",
+  "anchor": [
+    -80.9427914,
+    35.1026473
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 53720,
+      "sha256": "d4882b5e05491ab2268b7ac43ca54598e7cb3e222149164cd8d16382980010b0"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 53720,
+      "sha256": "d4882b5e05491ab2268b7ac43ca54598e7cb3e222149164cd8d16382980010b0"
+    }
+  },
+  "triangles": 1619,
+  "boundsBlenderM": [
+    [
+      -37.325,
+      -30.15,
+      0
+    ],
+    [
+      39.98,
+      25.491,
+      35.944
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.9429129,
+          35.1027438
+        ],
+        [
+          -80.942888,
+          35.1027708
+        ],
+        [
+          -80.9428727,
+          35.1027883
+        ],
+        [
+          -80.9428646,
+          35.1027963
+        ],
+        [
+          -80.9428422,
+          35.102783
+        ],
+        [
+          -80.9428505,
+          35.102775
+        ],
+        [
+          -80.9427854,
+          35.1027361
+        ],
+        [
+          -80.9427627,
+          35.1027225
+        ],
+        [
+          -80.9426968,
+          35.1026809
+        ],
+        [
+          -80.942711,
+          35.102663
+        ],
+        [
+          -80.9427413,
+          35.1026358
+        ],
+        [
+          -80.9428163,
+          35.102683
+        ],
+        [
+          -80.9428326,
+          35.1026932
+        ],
+        [
+          -80.9429129,
+          35.1027438
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 241408487,
+    "version": 4,
+    "timestamp": "2021-01-26T03:13:31Z",
+    "url": "https://www.openstreetmap.org/way/241408487"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 241408477,
+      "version": 5,
+      "timestamp": "2020-12-26T14:49:01Z",
+      "url": "https://www.openstreetmap.org/way/241408477"
+    },
+    {
+      "type": "way",
+      "id": 888642924,
+      "version": 1,
+      "timestamp": "2020-12-26T14:49:01Z",
+      "url": "https://www.openstreetmap.org/way/888642924"
+    },
+    {
+      "type": "way",
+      "id": 888642927,
+      "version": 3,
+      "timestamp": "2021-01-11T04:24:22Z",
+      "url": "https://www.openstreetmap.org/way/888642927"
+    }
+  ],
+  "wikidata": "Q5044796",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/carowinds-flying-cobras.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "The Flying Cobras, Carowinds: procedural, CC0-1.0. bun generators/carowinds-flying-cobras.ts (REPORT=1 for the element table)",
+    "Map frame: x east, y north, z up, metres; bearing 0, so the frame is true north. The origin is the middle of the ride's footprint (see the anchor), at the lowest ground under it. Built with ./coaster-kit.ts as a shuttle.",
+    "A Vekoma Boomerang (RCDB 4269; 285 m of track, two spikes of 35.5 m, 76 km/h, a cobra roll and a vertical loop, 88 × 30 m). The train is pulled backwards up the rear spike behind the station and let go, runs forward through the station, the cobra roll and the loop, climbs the front spike, and runs the whole course again backwards.",
+    "Plan: the OSM track (way/241408477, way/888642924, way/888642927, an open line from the rear spike's top to the front spike's). The rear spike and the station sit on the north-east line, the loop and the front spike on the south-west one, and the two spikes stand side by side at the south-east end. OSM sketches the cobra roll and the loop as zigzags; here the chain keeps both straights and joins them with two helper nodes, and the two elements are drawn as inversions over that join:",
+    "rear spike top, 35.5 m s 0 station s 36–57 (25–39 %), 1.8 m up cobra roll, 21 m s 57–89 (39–61 %), its hoods over OSM's two tips vertical loop, 18 m s 90–106 (62–73 %), where OSM zigzags front spike top, 35.4 m s 146",
+    "Each spike is a straight ramp of 53° from the station level, as the photos show (steep ramps, not vertical towers), running straight to its end. The cobra roll is drawn through points: a half loop up to a hood 21 m up, half a corkscrew down to the middle at 15 m, and the same mirrored across the line between the two straights, its tips where OSM puts them. Its height and the loop's are not published; they are the highest the energy carries the train over on both runs at a safe speed (the run back is the slower), and in the photo from the south-west the hoods stand a little above the loop, as here. The train is let go with its middle 7 m below the spike's top (`lift` takes in both tops), and the losses give 80 km/h at the station (published 76).",
+    "Photos used for matching (Wikimedia Commons): \"Flying Cobras 1\" (Jeremy Thompson, June 2023, CC BY 2.0) and \"The Flying Cobras' blue track and Copperhead Strike's copper track over the garden path\" (ThrillZing, October 2024, CC BY 4.0).",
+    "Style: the kit's swept ribbon, blue running surface on a deeper blue spine, on white supports. The colours are 2017–2025's; RCDB says the ride was repainted for 2026, and no photo of the new scheme was found.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"carowinds-flying-cobras\", model \"carowinds-flying-cobras\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/carowinds-flying-cobras.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

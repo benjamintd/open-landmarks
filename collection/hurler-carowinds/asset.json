@@ -1,0 +1,156 @@
+{
+  "id": "hurler-carowinds",
+  "name": "Hurler",
+  "anchor": [
+    -80.9429067,
+    35.1057222
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 223792,
+      "sha256": "bd6cf15a2219aabfa988350d244f55a20956b98b05958c479d4508454d442e2f"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 223792,
+      "sha256": "bd6cf15a2219aabfa988350d244f55a20956b98b05958c479d4508454d442e2f"
+    }
+  },
+  "triangles": 4993,
+  "boundsBlenderM": [
+    [
+      -106.319,
+      -68.593,
+      0
+    ],
+    [
+      106.774,
+      66.797,
+      29.684
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.9438931,
+          35.1053089
+        ],
+        [
+          -80.9438435,
+          35.1052107
+        ],
+        [
+          -80.9438205,
+          35.1051651
+        ],
+        [
+          -80.943612,
+          35.1052355
+        ],
+        [
+          -80.9436348,
+          35.1052806
+        ],
+        [
+          -80.9436846,
+          35.1053793
+        ],
+        [
+          -80.9437807,
+          35.1053469
+        ],
+        [
+          -80.9438931,
+          35.1053089
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 668700368,
+    "version": 5,
+    "timestamp": "2026-09-06T13:15:33Z",
+    "url": "https://www.openstreetmap.org/way/668700368"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 650268718,
+      "version": 6,
+      "timestamp": "2021-01-05T00:27:12Z",
+      "url": "https://www.openstreetmap.org/way/650268718"
+    },
+    {
+      "type": "way",
+      "id": 650268717,
+      "version": 5,
+      "timestamp": "2021-01-05T00:27:12Z",
+      "url": "https://www.openstreetmap.org/way/650268717"
+    },
+    {
+      "type": "way",
+      "id": 239949108,
+      "version": 7,
+      "timestamp": "2021-01-05T00:27:12Z",
+      "url": "https://www.openstreetmap.org/way/239949108"
+    },
+    {
+      "type": "way",
+      "id": 650268716,
+      "version": 6,
+      "timestamp": "2021-01-05T00:27:12Z",
+      "url": "https://www.openstreetmap.org/way/650268716"
+    },
+    {
+      "type": "way",
+      "id": 890803169,
+      "version": 2,
+      "timestamp": "2021-01-05T00:27:12Z",
+      "url": "https://www.openstreetmap.org/way/890803169"
+    }
+  ],
+  "wikidata": "Q1619573",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/carowinds-hurler.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Hurler, Carowinds: procedural, CC0-1.0. bun generators/carowinds-hurler.ts (REPORT=1 for the element table)",
+    "Map frame: x east, y north, z up, metres; bearing 0. The origin is the middle of the track's footprint (see anchor), at the lowest ground under it. Built with ./coaster-kit.ts, with its wooden trestle.",
+    "Plan: the OSM circuit (way/650268718, way/650268717, way/239949108, way/650268716, way/890803169), 930 m in plan, from the station exit.",
+    "Profile: an International Coasters wooden triple out-and-back (RCDB 85: 3,157 ft, 83 ft, 50 mph; Wikipedia for the ride in order: right turn out of the station, lift, a small right turn on top, the first drop, a wide banked turn, airtime hills, a second wide turn, more hills, an elevated turn, a small hill, a last wide turn, a final hill, brakes). Heights of the hills are set from the energy left and checked against photos.",
+    "lift, 25.3 m s 36–98 (4–11%) turn on top, then 50° drop s 100–170 (11–18%) banked turn, south-west s 225 (24%) airtime hills, 15 m and 12 m s 320, 392 (34%, 42%) banked turn, north-east s 485 (52%) airtime hill, 9.5 m s 575 (62%) elevated banked turn s 662 (71%) hill, last turn, final hill s 722, 775, 845 brakes from s 872 (94%)",
+    "Photos (Wikimedia Commons), matched by hand-placed camera: \"Hurler (Carowinds) 1\" (from the Skytower, 2023) and \"Carowinds 014\" (from the midway, 2008), both Jeremy Thompson, CC BY 2.0.",
+    "Style: a wooden deck ribbon on a trestle drawn as broad walls of bents and ledgers with large openings, as coney-island-cyclone.ts does, in the weathered silver-grey to grey-brown timber the photos show. The station is the box building beside the brake run.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"carowinds-hurler\", model \"carowinds-hurler\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/carowinds-hurler.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

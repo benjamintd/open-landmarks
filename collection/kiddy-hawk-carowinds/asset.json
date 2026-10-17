@@ -1,0 +1,220 @@
+{
+  "id": "kiddy-hawk-carowinds",
+  "name": "Kiddy Hawk",
+  "anchor": [
+    -80.9406942,
+    35.1020866
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 88308,
+      "sha256": "847e561fb5c49ed847636edcd54fb8c92fd73772ed87084859aee8463bc47933"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 88308,
+      "sha256": "847e561fb5c49ed847636edcd54fb8c92fd73772ed87084859aee8463bc47933"
+    }
+  },
+  "triangles": 2773,
+  "boundsBlenderM": [
+    [
+      -31.1,
+      -20.005,
+      0
+    ],
+    [
+      30.153,
+      18.046,
+      16.888
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.9410358,
+          35.1020589
+        ],
+        [
+          -80.9410207,
+          35.1020256
+        ],
+        [
+          -80.9409796,
+          35.1020381
+        ],
+        [
+          -80.9409712,
+          35.1020195
+        ],
+        [
+          -80.9409665,
+          35.102009
+        ],
+        [
+          -80.9409591,
+          35.1019927
+        ],
+        [
+          -80.9409287,
+          35.1019254
+        ],
+        [
+          -80.9408807,
+          35.1019399
+        ],
+        [
+          -80.9408558,
+          35.1019474
+        ],
+        [
+          -80.9408894,
+          35.1020195
+        ],
+        [
+          -80.9408915,
+          35.1020263
+        ],
+        [
+          -80.9408966,
+          35.1020376
+        ],
+        [
+          -80.9409218,
+          35.1020934
+        ],
+        [
+          -80.9409303,
+          35.1021122
+        ],
+        [
+          -80.9409559,
+          35.1021046
+        ],
+        [
+          -80.9409954,
+          35.1020926
+        ],
+        [
+          -80.9410023,
+          35.1020905
+        ],
+        [
+          -80.9409937,
+          35.1020716
+        ],
+        [
+          -80.9410358,
+          35.1020589
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 241410480,
+    "version": 10,
+    "timestamp": "2023-07-27T03:39:05Z",
+    "url": "https://www.openstreetmap.org/way/241410480"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 669161369,
+      "version": 4,
+      "timestamp": "2021-01-13T03:35:42Z",
+      "url": "https://www.openstreetmap.org/way/669161369"
+    },
+    {
+      "type": "way",
+      "id": 894786042,
+      "version": 1,
+      "timestamp": "2021-01-13T03:35:42Z",
+      "url": "https://www.openstreetmap.org/way/894786042"
+    },
+    {
+      "type": "way",
+      "id": 894786045,
+      "version": 2,
+      "timestamp": "2021-02-08T19:22:06Z",
+      "url": "https://www.openstreetmap.org/way/894786045"
+    },
+    {
+      "type": "way",
+      "id": 894786041,
+      "version": 3,
+      "timestamp": "2021-02-08T19:22:06Z",
+      "url": "https://www.openstreetmap.org/way/894786041"
+    },
+    {
+      "type": "way",
+      "id": 905173229,
+      "version": 1,
+      "timestamp": "2021-02-08T19:22:06Z",
+      "url": "https://www.openstreetmap.org/way/905173229"
+    },
+    {
+      "type": "way",
+      "id": 894786044,
+      "version": 2,
+      "timestamp": "2021-02-08T19:22:06Z",
+      "url": "https://www.openstreetmap.org/way/894786044"
+    },
+    {
+      "type": "way",
+      "id": 894786043,
+      "version": 2,
+      "timestamp": "2021-01-13T03:35:49Z",
+      "url": "https://www.openstreetmap.org/way/894786043"
+    },
+    {
+      "type": "way",
+      "id": 888642923,
+      "version": 2,
+      "timestamp": "2021-01-13T03:35:42Z",
+      "url": "https://www.openstreetmap.org/way/888642923"
+    }
+  ],
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/carowinds-kiddy-hawk.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Kiddy Hawk (formerly Rugrats Runaway Reptar, then Flying Ace Aerial Chase), Carowinds: procedural, CC0-1.0. bun generators/carowinds-kiddy-hawk.ts (REPORT=1 for the element table)",
+    "Map frame: x east, y north, z up, metres; bearing 0, so the frame is true north. The origin is the middle of the ride's footprint (see the anchor), at the lowest ground under the track. Built with ./coaster-kit.ts.",
+    "Plan: the circuit is the chain of OSM `roller_coaster=track` ways from the station (way/241410480): way/669161369, 894786042, 894786045, 894786041, 905173229, 894786044, 894786043 and the covered way/888642923 through the station, all oneway, end to end, closing on the station. Their layer tags fall along the ride (lift 4, crest 5, then 4, 3, 2, 1), and the loop is 322 m against the published 342 m, in a 54 m × 37 m footprint against RCDB's 59 m × 37 m. No other unnamed track lies near it.",
+    "Profile: a Vekoma Suspended Family Coaster (342 m model; RCDB 1897): the train hangs under the rails. 48.6 ft (14.8 m) to the top of the structure, 26 mph, a booster-wheel lift. Ride order from Wikipedia (\"Woodstock's Air Rail\") and the plan: a right turn out of the station, the straight lift, a double helix to the left, under the lift, a right turn over the corner of the station, a right turn down to near the ground, a left turnaround into the brakes, and a right turn into the station. Positions are metres along the OSM polyline (322 m round) and % of it:",
+    "lift, 15° s 14–46 (4–14%), rails 13 m up at the crest double helix left, falling s 50–125 (16–39%) under the lift s 133 (41%), rails 5.2 m up right turn over the station s 150–180 (47–56%), 8 m up low right turn s 185–225 (57–70%), 3.6 m up left turnaround s 240–265 (75–82%), 5 m up brakes s 270–300 (84–93%)",
+    "Photos used for matching: \"A View of Kiddy Hawk from Carolina Skytower\" (ZackyWacky, April 2025, CC BY-SA 4.0) and \"Kiddy Hawk 1\" (Jeremy Thompson, June 2023, CC BY 2.0), both Wikimedia Commons; colours also checked against \"Kiddy Hawk (Carowinds) 2018 01\" (C. E. Beavers, Coasterpedia).",
+    "Style: the rails as a narrow blue ribbon with the box spine above them, on tan columns with an arm reaching over the track, as the photos show. The station is its roof on posts.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"carowinds-kiddy-hawk\", model \"carowinds-kiddy-hawk\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/carowinds-kiddy-hawk.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

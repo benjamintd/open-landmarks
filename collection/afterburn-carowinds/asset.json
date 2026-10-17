@@ -1,0 +1,290 @@
+{
+  "id": "afterburn-carowinds",
+  "name": "Afterburn",
+  "anchor": [
+    -80.9411883,
+    35.1001512
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 160616,
+      "sha256": "6363a4faff0142408740b93e32091d2b3e29a14e287cd4d6f064c48323e2d812"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 160616,
+      "sha256": "6363a4faff0142408740b93e32091d2b3e29a14e287cd4d6f064c48323e2d812"
+    }
+  },
+  "triangles": 5179,
+  "boundsBlenderM": [
+    [
+      -37.061,
+      -84.667,
+      0
+    ],
+    [
+      60.472,
+      76.487,
+      44.252
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.9409561,
+          35.1003162
+        ],
+        [
+          -80.9409805,
+          35.1003196
+        ],
+        [
+          -80.9410109,
+          35.1003267
+        ],
+        [
+          -80.9410264,
+          35.1003267
+        ],
+        [
+          -80.9410332,
+          35.1002976
+        ],
+        [
+          -80.9410366,
+          35.1002838
+        ],
+        [
+          -80.9410575,
+          35.1002873
+        ],
+        [
+          -80.941076,
+          35.100213
+        ],
+        [
+          -80.9410801,
+          35.1001957
+        ],
+        [
+          -80.9410069,
+          35.1001839
+        ],
+        [
+          -80.9409156,
+          35.10017
+        ],
+        [
+          -80.9408965,
+          35.1001673
+        ],
+        [
+          -80.9408917,
+          35.10019
+        ],
+        [
+          -80.9408857,
+          35.1002226
+        ],
+        [
+          -80.9408395,
+          35.1002168
+        ],
+        [
+          -80.9408335,
+          35.1002492
+        ],
+        [
+          -80.9408741,
+          35.1002542
+        ],
+        [
+          -80.9408648,
+          35.1003045
+        ],
+        [
+          -80.9408889,
+          35.1003075
+        ],
+        [
+          -80.9409038,
+          35.1003093
+        ],
+        [
+          -80.9409561,
+          35.1003162
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 888529381,
+    "version": 6,
+    "timestamp": "2026-09-06T13:16:56Z",
+    "url": "https://www.openstreetmap.org/way/888529381"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 669986344,
+      "version": 6,
+      "timestamp": "2021-01-13T03:53:14Z",
+      "url": "https://www.openstreetmap.org/way/669986344"
+    },
+    {
+      "type": "way",
+      "id": 894788185,
+      "version": 1,
+      "timestamp": "2021-01-13T03:53:14Z",
+      "url": "https://www.openstreetmap.org/way/894788185"
+    },
+    {
+      "type": "way",
+      "id": 894788183,
+      "version": 1,
+      "timestamp": "2021-01-13T03:53:14Z",
+      "url": "https://www.openstreetmap.org/way/894788183"
+    },
+    {
+      "type": "way",
+      "id": 894788196,
+      "version": 1,
+      "timestamp": "2021-01-13T03:53:14Z",
+      "url": "https://www.openstreetmap.org/way/894788196"
+    },
+    {
+      "type": "way",
+      "id": 894788184,
+      "version": 1,
+      "timestamp": "2021-01-13T03:53:14Z",
+      "url": "https://www.openstreetmap.org/way/894788184"
+    },
+    {
+      "type": "way",
+      "id": 894788195,
+      "version": 1,
+      "timestamp": "2021-01-13T03:53:14Z",
+      "url": "https://www.openstreetmap.org/way/894788195"
+    },
+    {
+      "type": "way",
+      "id": 894788190,
+      "version": 1,
+      "timestamp": "2021-01-13T03:53:14Z",
+      "url": "https://www.openstreetmap.org/way/894788190"
+    },
+    {
+      "type": "way",
+      "id": 894788189,
+      "version": 1,
+      "timestamp": "2021-01-13T03:53:14Z",
+      "url": "https://www.openstreetmap.org/way/894788189"
+    },
+    {
+      "type": "way",
+      "id": 894788180,
+      "version": 1,
+      "timestamp": "2021-01-13T03:53:14Z",
+      "url": "https://www.openstreetmap.org/way/894788180"
+    },
+    {
+      "type": "way",
+      "id": 894788191,
+      "version": 1,
+      "timestamp": "2021-01-13T03:53:14Z",
+      "url": "https://www.openstreetmap.org/way/894788191"
+    },
+    {
+      "type": "way",
+      "id": 894788193,
+      "version": 2,
+      "timestamp": "2021-10-01T02:08:23Z",
+      "url": "https://www.openstreetmap.org/way/894788193"
+    },
+    {
+      "type": "way",
+      "id": 894788186,
+      "version": 1,
+      "timestamp": "2021-01-13T03:53:14Z",
+      "url": "https://www.openstreetmap.org/way/894788186"
+    },
+    {
+      "type": "way",
+      "id": 894788188,
+      "version": 2,
+      "timestamp": "2021-10-01T02:08:23Z",
+      "url": "https://www.openstreetmap.org/way/894788188"
+    },
+    {
+      "type": "way",
+      "id": 894788182,
+      "version": 1,
+      "timestamp": "2021-01-13T03:53:14Z",
+      "url": "https://www.openstreetmap.org/way/894788182"
+    },
+    {
+      "type": "way",
+      "id": 894788194,
+      "version": 1,
+      "timestamp": "2021-01-13T03:53:14Z",
+      "url": "https://www.openstreetmap.org/way/894788194"
+    },
+    {
+      "type": "way",
+      "id": 894788181,
+      "version": 1,
+      "timestamp": "2021-01-13T03:53:14Z",
+      "url": "https://www.openstreetmap.org/way/894788181"
+    },
+    {
+      "type": "way",
+      "id": 888529618,
+      "version": 2,
+      "timestamp": "2021-01-13T03:53:14Z",
+      "url": "https://www.openstreetmap.org/way/888529618"
+    }
+  ],
+  "wikidata": "Q389146",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/carowinds-afterburn.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Afterburn (formerly Top Gun: The Jet Coaster), Carowinds: procedural, CC0-1.0. bun generators/carowinds-afterburn.ts (REPORT=1 for the element table)",
+    "Built with ./coaster-kit.ts, as an inverted coaster (`inverted`): the train hangs under the rails, the box spine sits above them, and the box supports reach over the track. Map frame: x east, y north, z up, metres; bearing 0. The origin is the middle of the footprint (ANCHOR), at the lowest ground under the track.",
+    "Plan: the OSM roller_coaster=track ways from the station exit, in the direction of travel: way/669986344, 894788185, 894788183, 894788196, 894788184, 894788195, 894788190, 894788189, 894788180, 894788191, 894788193, 894788186, 894788188, 894788182, 894788194, 894788181, 888529618. The transfer spur (way/894788187, 894788192) is left out. Two places are redrawn: the loop's zigzag (way/894788184, 894788195, 894788190) is replaced by the straight it stands on, as the kit draws the loop itself; and a hairpin cusp before the tunnel (way/894788191) is eased into a bend.",
+    "Profile: a B&M inverted coaster of 901 m (RCDB 527, Wikipedia, Coasterpedia): a 113 ft chain lift (113 ft above the station; the ground falls about 6 m to the lift's top, so the 125 ft drop reaches the bottom of the dip), a small pre-drop and a drop turning right, a 90 ft vertical loop, a ravine below ground level, an Immelmann, a zero-g roll under the lift hill, a dive into the tunnel under the rear entrance and the batwing, a camelback beside the station, a corkscrew to the right, a 200° climbing left turn and the brakes.",
+    "Photos matched (Wikimedia Commons), both from the Carolina Skytower: \"Top Gun (Layout)\", Coasterman1234 at en.wikipedia, CC BY-SA 3.0, and \"Carowinds 025 (3145067126)\", Jeremy Thompson, CC BY 2.0 (loop top about 28 m, Immelmann about 26 m above the ground). Colours from \"Afterburn's gray inverted track and blue supports stretching across a grassy lawn\", ThrillZing, October 2024, CC BY 4.0.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"carowinds-afterburn\", model \"carowinds-afterburn\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/carowinds-afterburn.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

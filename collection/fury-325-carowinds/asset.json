@@ -1,0 +1,281 @@
+{
+  "id": "fury-325-carowinds",
+  "name": "Fury 325",
+  "anchor": [
+    -80.940255,
+    35.1052067
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 168476,
+      "sha256": "dc464458839caa048a6aa281fbef54d17b6940a5c6f8076b9099418d3deadfb6"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 168476,
+      "sha256": "dc464458839caa048a6aa281fbef54d17b6940a5c6f8076b9099418d3deadfb6"
+    }
+  },
+  "triangles": 5443,
+  "boundsBlenderM": [
+    [
+      -236.413,
+      -190.201,
+      0
+    ],
+    [
+      239.252,
+      188.483,
+      100.319
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.9424199,
+          35.1055718
+        ],
+        [
+          -80.9425139,
+          35.1055423
+        ],
+        [
+          -80.9425727,
+          35.1055215
+        ],
+        [
+          -80.9425744,
+          35.105468
+        ],
+        [
+          -80.9425776,
+          35.1054603
+        ],
+        [
+          -80.9425748,
+          35.1054561
+        ],
+        [
+          -80.9425619,
+          35.1054368
+        ],
+        [
+          -80.9425854,
+          35.1054006
+        ],
+        [
+          -80.9425799,
+          35.1053953
+        ],
+        [
+          -80.9425542,
+          35.1053705
+        ],
+        [
+          -80.9425136,
+          35.1053763
+        ],
+        [
+          -80.9424853,
+          35.1053803
+        ],
+        [
+          -80.9424755,
+          35.1054246
+        ],
+        [
+          -80.9424667,
+          35.1054272
+        ],
+        [
+          -80.9424601,
+          35.1054292
+        ],
+        [
+          -80.9423639,
+          35.1054579
+        ],
+        [
+          -80.9423656,
+          35.1054772
+        ],
+        [
+          -80.9423696,
+          35.1055244
+        ],
+        [
+          -80.9423798,
+          35.105534
+        ],
+        [
+          -80.9424199,
+          35.1055718
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 543823785,
+    "version": 10,
+    "timestamp": "2026-09-06T13:16:16Z",
+    "url": "https://www.openstreetmap.org/way/543823785"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 670967416,
+      "version": 6,
+      "timestamp": "2022-07-06T19:52:06Z",
+      "url": "https://www.openstreetmap.org/way/670967416"
+    },
+    {
+      "type": "way",
+      "id": 888530981,
+      "version": 4,
+      "timestamp": "2025-01-18T17:28:03Z",
+      "url": "https://www.openstreetmap.org/way/888530981"
+    },
+    {
+      "type": "way",
+      "id": 895332246,
+      "version": 3,
+      "timestamp": "2025-01-18T17:28:03Z",
+      "url": "https://www.openstreetmap.org/way/895332246"
+    },
+    {
+      "type": "way",
+      "id": 670967415,
+      "version": 5,
+      "timestamp": "2025-01-18T17:28:03Z",
+      "url": "https://www.openstreetmap.org/way/670967415"
+    },
+    {
+      "type": "way",
+      "id": 670967414,
+      "version": 4,
+      "timestamp": "2022-07-06T19:52:06Z",
+      "url": "https://www.openstreetmap.org/way/670967414"
+    },
+    {
+      "type": "way",
+      "id": 670967413,
+      "version": 4,
+      "timestamp": "2022-07-06T19:52:06Z",
+      "url": "https://www.openstreetmap.org/way/670967413"
+    },
+    {
+      "type": "way",
+      "id": 670967412,
+      "version": 4,
+      "timestamp": "2022-07-06T19:52:06Z",
+      "url": "https://www.openstreetmap.org/way/670967412"
+    },
+    {
+      "type": "way",
+      "id": 888530535,
+      "version": 3,
+      "timestamp": "2022-07-06T19:52:06Z",
+      "url": "https://www.openstreetmap.org/way/888530535"
+    },
+    {
+      "type": "way",
+      "id": 895332247,
+      "version": 3,
+      "timestamp": "2022-07-06T19:52:06Z",
+      "url": "https://www.openstreetmap.org/way/895332247"
+    },
+    {
+      "type": "way",
+      "id": 888530541,
+      "version": 3,
+      "timestamp": "2022-07-06T19:52:06Z",
+      "url": "https://www.openstreetmap.org/way/888530541"
+    },
+    {
+      "type": "way",
+      "id": 888530539,
+      "version": 4,
+      "timestamp": "2022-07-06T19:52:06Z",
+      "url": "https://www.openstreetmap.org/way/888530539"
+    },
+    {
+      "type": "way",
+      "id": 895332250,
+      "version": 2,
+      "timestamp": "2022-07-06T19:52:06Z",
+      "url": "https://www.openstreetmap.org/way/895332250"
+    },
+    {
+      "type": "way",
+      "id": 895332249,
+      "version": 2,
+      "timestamp": "2022-07-06T19:52:06Z",
+      "url": "https://www.openstreetmap.org/way/895332249"
+    },
+    {
+      "type": "way",
+      "id": 656393961,
+      "version": 6,
+      "timestamp": "2022-07-06T19:52:06Z",
+      "url": "https://www.openstreetmap.org/way/656393961"
+    },
+    {
+      "type": "way",
+      "id": 895332248,
+      "version": 2,
+      "timestamp": "2022-07-06T19:52:06Z",
+      "url": "https://www.openstreetmap.org/way/895332248"
+    },
+    {
+      "type": "way",
+      "id": 895332251,
+      "version": 2,
+      "timestamp": "2022-07-06T19:52:06Z",
+      "url": "https://www.openstreetmap.org/way/895332251"
+    }
+  ],
+  "wikidata": "Q18150522",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/carowinds-fury-325.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Fury 325, Carowinds: procedural, CC0-1.0. bun generators/carowinds-fury-325.ts (REPORT=1 for the element table and energy check)",
+    "Map frame: x east, y north, z up, metres; bearing 0, so the frame is true north. The origin is the middle of the track's footprint (see ANCHOR), at the lowest ground under it. Built with ./coaster-kit.ts.",
+    "Plan: the circuit is the chain of OSM `roller_coaster=track` ways named Fury 325 (way/670967416 … way/895332251, all oneway, in the direction of travel), from the station at the west end of the entrance plaza. The transfer spur to the train shed (way/888530850) is left out.",
+    "Profile: a B&M giga of 2,012 m. Element heights are the published ones (RCDB 12273, Wikipedia, Coasterpedia: a 325 ft lift, an 81° drop of 320 ft, the 190 ft barrel turn, the 157 ft overbanked horseshoe at 91°, the 101 ft second banked turn, the 111 ft camelback). Each element is put on the OSM plan by its shape (the barrel turn is the tight turnaround north-east of the drop, the horseshoe the hairpin at the south end, the hive dive the tunnel way/888530541 under the entrance path) and checked against photos matched by camera position. The drop and pull-out radii keep the bottom of the drop under about 4.7 g. Positions are metres along the OSM polyline (1,805 m round) and % of it:",
+    "lift 33° from s 105 (6%) to the crest at s 248 (14%), 99 m first drop, 81°, foot at s 336 (19%) barrel turn, 57 m, s 406–422 (22–23%), banked 70° s-curve crest over the north entrance, 22 m, s 570 (32%) banked turn left, 13 m, s 685 (38%), then a long climb overbanked horseshoe, 48 m, s 815 (45%), banked 91° hive dive under the entrance path, s 926 (51%) second banked turn left, 31 m, s 1010 (56%) camelback, 34 m, s 1140 (63%) helix carousel, 18 m falling to 7 m, s 1270–1400 (70–78%) camelbacks, 18 m at s 1475 (82%) and 14 m under the lift at s 1575 (87%) final brakes from s 1640 (91%)",
+    "Photos used for matching (Wikimedia Commons): \"Fury 325's long teal airtime hills and white supports stretching over the lawn\" and \"Fury 325's drop curving down over the trees\", ThrillZing, October 2024, CC BY 4.0; \"Carowinds aerial view, September 2017\", Pi.1415926535, CC BY-SA 3.0.",
+    "Style: the track is one broad swept ribbon, banked from the train's speed and the plan curvature, with the overbanked turns set by hand. Teal running surface and rails over the lime box spine, as the photos show. The white tubular supports are chunky columns, single where the track is low and an A-frame of two splayed legs where it is high, except on the lift and the top of the drop: there, as in the photos, four big bents about 40 m apart, each a column and one strut with a single tie. The station is its flat canopy roof on posts.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"carowinds-fury-325\", model \"carowinds-fury-325\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/carowinds-fury-325.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

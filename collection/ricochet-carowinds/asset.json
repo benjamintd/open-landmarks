@@ -1,0 +1,200 @@
+{
+  "id": "ricochet-carowinds",
+  "name": "Ricochet",
+  "anchor": [
+    -80.9428463,
+    35.1042571
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 68836,
+      "sha256": "7163181f1b6e8e5a4b3bfd9b39bcfc52f3aba64d85c5927fd3afff2984ad3e65"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 68836,
+      "sha256": "7163181f1b6e8e5a4b3bfd9b39bcfc52f3aba64d85c5927fd3afff2984ad3e65"
+    }
+  },
+  "triangles": 2123,
+  "boundsBlenderM": [
+    [
+      -15.179,
+      -22.4,
+      0
+    ],
+    [
+      14.902,
+      22.03,
+      13.754
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.9428776,
+          35.1040541
+        ],
+        [
+          -80.9428936,
+          35.1040602
+        ],
+        [
+          -80.942992,
+          35.1040977
+        ],
+        [
+          -80.943005,
+          35.1041026
+        ],
+        [
+          -80.9429919,
+          35.1041256
+        ],
+        [
+          -80.9429699,
+          35.1041172
+        ],
+        [
+          -80.942966,
+          35.1041241
+        ],
+        [
+          -80.942959,
+          35.1041364
+        ],
+        [
+          -80.9429517,
+          35.1041336
+        ],
+        [
+          -80.9429398,
+          35.1041291
+        ],
+        [
+          -80.9428904,
+          35.1041102
+        ],
+        [
+          -80.9428986,
+          35.1040985
+        ],
+        [
+          -80.9429018,
+          35.1040902
+        ],
+        [
+          -80.9428653,
+          35.1040763
+        ],
+        [
+          -80.9428672,
+          35.104073
+        ],
+        [
+          -80.9428729,
+          35.1040629
+        ],
+        [
+          -80.9428776,
+          35.1040541
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 668700374,
+    "version": 8,
+    "timestamp": "2021-01-26T03:10:58Z",
+    "url": "https://www.openstreetmap.org/way/668700374"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 893956341,
+      "version": 2,
+      "timestamp": "2021-01-10T15:35:28Z",
+      "url": "https://www.openstreetmap.org/way/893956341"
+    },
+    {
+      "type": "way",
+      "id": 893956344,
+      "version": 2,
+      "timestamp": "2021-01-10T15:35:28Z",
+      "url": "https://www.openstreetmap.org/way/893956344"
+    },
+    {
+      "type": "way",
+      "id": 893956343,
+      "version": 2,
+      "timestamp": "2021-01-10T15:35:28Z",
+      "url": "https://www.openstreetmap.org/way/893956343"
+    },
+    {
+      "type": "way",
+      "id": 650270624,
+      "version": 5,
+      "timestamp": "2021-01-10T15:35:28Z",
+      "url": "https://www.openstreetmap.org/way/650270624"
+    },
+    {
+      "type": "way",
+      "id": 893956342,
+      "version": 2,
+      "timestamp": "2021-01-10T15:35:28Z",
+      "url": "https://www.openstreetmap.org/way/893956342"
+    },
+    {
+      "type": "way",
+      "id": 886367052,
+      "version": 3,
+      "timestamp": "2021-01-10T15:35:28Z",
+      "url": "https://www.openstreetmap.org/way/886367052"
+    }
+  ],
+  "wikidata": "Q7332308",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/carowinds-ricochet.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Ricochet, Carowinds: procedural, CC0-1.0. bun generators/carowinds-ricochet.ts (REPORT=1 for the element table)",
+    "Map frame: x east, y north, z up, metres; bearing 0, so the frame is true north. The origin is the middle of the ride's footprint (see the anchor), at the lowest ground under it. Built with ./coaster-kit.ts.",
+    "A Mack Wilde Maus, Compact Park model (RCDB 1478; 370 m of track, 14 m tall, 45 km/h, 44 × 19 m). Single four-seat cars climb a chain lift, wind through a stack of flat, unbanked hairpins across the top of the structure, then drop and run three long straights of dips and hills, with a hairpin at each end, each a level lower, back to the station.",
+    "Plan: the OSM circuit (way/893956341, way/893956344, way/893956343, way/650270624, way/893956342, way/886367052, in the direction of travel; the spur way/893956939 is left out). OSM draws the lift and two lower straights on almost the same line up the east side, and the two north hairpins one over the other, so the levels are set to clear each other by 3 m or more, as the photo from the Skytower shows them: the top level, a long middle-level straight under it, then two wavy lower ones. (OSM's layer tags on the lower ways don't follow that order and are ignored.) Positions are metres along the polyline (362 m round) and % of it:",
+    "station s 0–10 chain lift to 13.5 m s 10–43 (3–12 %), up the east side top level, 7 hairpins s 50–186 (14–51 %), easing down to 11.2 m middle level, north s 198–223 (55–62 %), 8.7 m to 7.6 m north hairpin, 7.6 m s 223–235 (62–65 %) dip and hill, south s 245, s 253; south hairpin at 4.8 m, s 263–283 dip and hill, north s 292, s 300; north hairpin at 3 m, s 311–326 brakes into the station s 342–10 (94–3 %)",
+    "The hairpins are drawn level, as Mack's are: `banks` holds the whole ride at 0°. Losses are set so the cars top out at 44 km/h (published 45).",
+    "Photos used for matching (Wikimedia Commons): \"Ricochet (Full)\" (Coasterman1234, March 2007, CC BY-SA 3.0, from the Skytower; yellow track then) and \"Ricochet (Carowinds) 1\" (Jeremy Thompson, June 2023, CC BY 2.0).",
+    "Style: a narrow swept ribbon, green running surface on a deeper green spine (the 2014 repaint), on blue columns; the station is its roof on posts.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"carowinds-ricochet\", model \"carowinds-ricochet\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/carowinds-ricochet.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

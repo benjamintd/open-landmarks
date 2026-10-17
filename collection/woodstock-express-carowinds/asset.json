@@ -1,0 +1,197 @@
+{
+  "id": "woodstock-express-carowinds",
+  "name": "Woodstock Express",
+  "anchor": [
+    -80.9393765,
+    35.101137
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 84064,
+      "sha256": "fa935b0a53ad2f8b93bf3b1d4c2b67e9ab79b0f5d33c8d2ee127c6d34c177e04"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 84064,
+      "sha256": "fa935b0a53ad2f8b93bf3b1d4c2b67e9ab79b0f5d33c8d2ee127c6d34c177e04"
+    }
+  },
+  "triangles": 2045,
+  "boundsBlenderM": [
+    [
+      -36.911,
+      -45.48,
+      0
+    ],
+    [
+      37.072,
+      45.465,
+      14.141
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.9391923,
+          35.1015115
+        ],
+        [
+          -80.9391729,
+          35.1014997
+        ],
+        [
+          -80.9391524,
+          35.1014873
+        ],
+        [
+          -80.9391274,
+          35.1014722
+        ],
+        [
+          -80.939255,
+          35.1013311
+        ],
+        [
+          -80.9392735,
+          35.1013423
+        ],
+        [
+          -80.9394343,
+          35.1011643
+        ],
+        [
+          -80.9394429,
+          35.1011695
+        ],
+        [
+          -80.9394608,
+          35.1011804
+        ],
+        [
+          -80.9395197,
+          35.101216
+        ],
+        [
+          -80.9394922,
+          35.1012464
+        ],
+        [
+          -80.9393913,
+          35.1013581
+        ],
+        [
+          -80.9393522,
+          35.1013345
+        ],
+        [
+          -80.9393201,
+          35.10137
+        ],
+        [
+          -80.9393116,
+          35.1013794
+        ],
+        [
+          -80.9393027,
+          35.1013892
+        ],
+        [
+          -80.9392505,
+          35.1014469
+        ],
+        [
+          -80.9392458,
+          35.1014522
+        ],
+        [
+          -80.9392325,
+          35.1014674
+        ],
+        [
+          -80.9391923,
+          35.1015115
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 241559218,
+    "version": 10,
+    "timestamp": "2022-04-05T12:37:18Z",
+    "url": "https://www.openstreetmap.org/way/241559218"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 888643797,
+      "version": 2,
+      "timestamp": "2021-01-11T01:58:06Z",
+      "url": "https://www.openstreetmap.org/way/888643797"
+    },
+    {
+      "type": "way",
+      "id": 670967417,
+      "version": 3,
+      "timestamp": "2020-12-26T14:53:06Z",
+      "url": "https://www.openstreetmap.org/way/670967417"
+    },
+    {
+      "type": "way",
+      "id": 241559217,
+      "version": 7,
+      "timestamp": "2020-12-26T14:53:06Z",
+      "url": "https://www.openstreetmap.org/way/241559217"
+    },
+    {
+      "type": "way",
+      "id": 888643798,
+      "version": 1,
+      "timestamp": "2020-12-26T14:53:06Z",
+      "url": "https://www.openstreetmap.org/way/888643798"
+    }
+  ],
+  "wikidata": "Q8033425",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/carowinds-woodstock-express.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Woodstock Express (formerly Scooby-Doo, Scooby-Doo's Ghoster Coaster and Fairly Odd Coaster), Carowinds: procedural, CC0-1.0. bun generators/carowinds-woodstock-express.ts (REPORT=1 for the element table)",
+    "Map frame: x east, y north, z up, metres; bearing 0, so the frame is true north. The origin is the middle of the ride's footprint (see the anchor), at the lowest ground under the track. Built with ./coaster-kit.ts.",
+    "Plan: the circuit is the OSM `roller_coaster=track` ways from the station (way/241559218): way/888643797, 670967417, 241559217 and the covered way/888643798 through the station, all oneway, end to end: 402 m against the published 1,356 ft (413 m). The transfer siding (way/894079214, 894079215) is left out.",
+    "Profile: a PTC wooden family coaster of 1975 (RCDB 82, John C. Allen), a figure eight with a 40 ft (12 m) chain lift (Wikipedia). OSM tags the whole of way/670967417 layer 1, but the lift photos show the lift climbing to a turnaround at the top, and the station on the right as you look up it from the queue: so the lift is the end of the long straight south-west of the station, and the first drop runs back north-north-east under nothing but over the low run to the lift (the figure eight's crossing). Positions are metres along the OSM polyline (402 m round) and % of it:",
+    "turnaround out of the station s 0–33 (0–8%), low lift, 12 m s 90–122 (22–30%) turnaround at the top s 122–150 (30–37%) first drop, over the run to the lift s 150–195 (37–49%) north turnaround, 6 m s 205–227 (51–56%) drop, camelback, south-west turnaround s 227–315 (56–78%) hill and brakes into the station s 315–359 (78–89%)",
+    "Photos used for matching: \"Woodstock Express Carowinds\" (the lift from the queue) and \"Carowinds 032\", \"Carowinds 034\" (Jeremy Thompson, May 2008, CC BY 2.0, Wikimedia Commons); the present colours from Wikipedia (the 2015 repaint: periwinkle structure, yellow side rails) and the structure in the background of \"Wilderness Run (Carowinds) 2026 01\" (Time93, CC BY-SA, Coasterpedia).",
+    "Style: a wooden trestle of bents and ledgers in periwinkle, the deck weathered wood; the station is its roof on posts.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"carowinds-woodstock-express\", model \"carowinds-woodstock-express\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/carowinds-woodstock-express.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

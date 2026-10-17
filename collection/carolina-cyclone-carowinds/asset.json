@@ -1,0 +1,182 @@
+{
+  "id": "carolina-cyclone-carowinds",
+  "name": "Carolina Cyclone",
+  "anchor": [
+    -80.943571,
+    35.1040581
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 112564,
+      "sha256": "b0bde990c2ee3dc3966a9788e72363cf7f30cfa95856a65e341294cec5836928"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 112564,
+      "sha256": "b0bde990c2ee3dc3966a9788e72363cf7f30cfa95856a65e341294cec5836928"
+    }
+  },
+  "triangles": 3585,
+  "boundsBlenderM": [
+    [
+      -50.572,
+      -56.056,
+      0
+    ],
+    [
+      45.021,
+      52.333,
+      29.826
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.9436453,
+          35.1043757
+        ],
+        [
+          -80.9435465,
+          35.1043412
+        ],
+        [
+          -80.9435347,
+          35.1043371
+        ],
+        [
+          -80.9435266,
+          35.1043341
+        ],
+        [
+          -80.9435143,
+          35.1043296
+        ],
+        [
+          -80.9434961,
+          35.1043213
+        ],
+        [
+          -80.9435208,
+          35.1042763
+        ],
+        [
+          -80.9435271,
+          35.1042636
+        ],
+        [
+          -80.94354,
+          35.1042407
+        ],
+        [
+          -80.9435968,
+          35.1041398
+        ],
+        [
+          -80.9436497,
+          35.1041639
+        ],
+        [
+          -80.9437197,
+          35.1041959
+        ],
+        [
+          -80.9437091,
+          35.1042177
+        ],
+        [
+          -80.9436848,
+          35.1042586
+        ],
+        [
+          -80.9436961,
+          35.1042636
+        ],
+        [
+          -80.9436639,
+          35.1043209
+        ],
+        [
+          -80.9436744,
+          35.1043242
+        ],
+        [
+          -80.9436453,
+          35.1043757
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 241199374,
+    "version": 11,
+    "timestamp": "2026-09-06T13:15:02Z",
+    "url": "https://www.openstreetmap.org/way/241199374"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 650270619,
+      "version": 9,
+      "timestamp": "2025-01-17T07:22:33Z",
+      "url": "https://www.openstreetmap.org/way/650270619"
+    },
+    {
+      "type": "way",
+      "id": 670967409,
+      "version": 6,
+      "timestamp": "2025-01-17T07:22:33Z",
+      "url": "https://www.openstreetmap.org/way/670967409"
+    },
+    {
+      "type": "way",
+      "id": 670967410,
+      "version": 3,
+      "timestamp": "2022-07-06T19:52:06Z",
+      "url": "https://www.openstreetmap.org/way/670967410"
+    }
+  ],
+  "wikidata": "Q1044389",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/carowinds-carolina-cyclone.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Carolina Cyclone, Carowinds: procedural, CC0-1.0. bun generators/carowinds-carolina-cyclone.ts (REPORT=1 for the element table)",
+    "Map frame: x east, y north, z up, metres; bearing 0. The origin is the middle of the track's footprint (see anchor), at the lowest ground under it. Built with ./coaster-kit.ts, using its loops and corkscrews.",
+    "Plan: the OSM circuit (way/650270619, way/670967409, way/670967410), from where the track leaves the station building (way/241199374). OSM draws each loop as a back-and-forth spike and the double corkscrew as an S; those nodes are dropped (the kit draws both), so positions are metres along the edited polyline, 559 m round.",
+    "Profile: an Arrow custom looper (RCDB 81: 2,100 ft, 95 ft lift, 65 ft drop, four inversions; Wikipedia for the order). Loop heights and shapes from photos: the loops are tall teardrops whose tops sit about 21 to 23 m up, below Wikipedia's 85 ft, which the energy from a 95 ft lift could not reach.",
+    "station, then a left hairpin s 0–33 lift, 29 m s 36–122 (6–22%) pre-drop and level turn, 26.5 m s 136–154, on the lattice tower drop to the loops foot at s 185 (33%) loop 1, 19 m s 189–211 (34–38%) loop 2, 17.5 m s 212–234 (38–42%) banked turn over a small hill s 272 (49%) double corkscrew, radius 5 m s 302–348 (54–62%), over the walkway low helix, 1.5 turns s 380–500 brakes and station from s 512 (92%)",
+    "Photos (Wikimedia Commons): \"Carolina Cyclone loops and corkscrew\" (2012, Martin Lewison, CC BY-SA 2.0) matched by hand-placed camera; \"Carolina Cyclone's twin vertical loops and a train crossing the structure above the trees\", ThrillZing, October 2024, CC BY 4.0, matched with the camera moved from the phone GPS to fit the loops' bearings.",
+    "Style: one swept teal ribbon (track and spine, as painted since 2021) on white tubular columns; the station is its building, walls and roof.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"carowinds-carolina-cyclone\", model \"carowinds-carolina-cyclone\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/carowinds-carolina-cyclone.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

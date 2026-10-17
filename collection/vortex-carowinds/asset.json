@@ -1,0 +1,294 @@
+{
+  "id": "vortex-carowinds",
+  "name": "Vortex",
+  "anchor": [
+    -80.9416824,
+    35.1035607
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 113876,
+      "sha256": "bcd9fe42453e239bcad6564bc6efab2e77267c832026dfaf9b6a489500098c59"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 113876,
+      "sha256": "bcd9fe42453e239bcad6564bc6efab2e77267c832026dfaf9b6a489500098c59"
+    }
+  },
+  "triangles": 3619,
+  "boundsBlenderM": [
+    [
+      -82.579,
+      -30.923,
+      0
+    ],
+    [
+      79.376,
+      31.1,
+      27.546
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.9417659,
+          35.1037832
+        ],
+        [
+          -80.9417192,
+          35.1038007
+        ],
+        [
+          -80.9417272,
+          35.103815
+        ],
+        [
+          -80.941714,
+          35.10382
+        ],
+        [
+          -80.9416844,
+          35.1038312
+        ],
+        [
+          -80.941672,
+          35.1038357
+        ],
+        [
+          -80.9416655,
+          35.1038241
+        ],
+        [
+          -80.9416168,
+          35.1038424
+        ],
+        [
+          -80.9415977,
+          35.1038084
+        ],
+        [
+          -80.9415851,
+          35.1037861
+        ],
+        [
+          -80.9415687,
+          35.103757
+        ],
+        [
+          -80.9416609,
+          35.1037223
+        ],
+        [
+          -80.9416708,
+          35.1037186
+        ],
+        [
+          -80.9416595,
+          35.1036984
+        ],
+        [
+          -80.9416732,
+          35.1036935
+        ],
+        [
+          -80.9417044,
+          35.1036813
+        ],
+        [
+          -80.9417264,
+          35.10372
+        ],
+        [
+          -80.9417339,
+          35.1037171
+        ],
+        [
+          -80.94174,
+          35.103728
+        ],
+        [
+          -80.9417536,
+          35.1037522
+        ],
+        [
+          -80.9417494,
+          35.1037537
+        ],
+        [
+          -80.9417659,
+          35.1037832
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 669164155,
+    "version": 7,
+    "timestamp": "2026-09-06T13:23:59Z",
+    "url": "https://www.openstreetmap.org/way/669164155"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 669205939,
+      "version": 6,
+      "timestamp": "2021-01-13T03:08:31Z",
+      "url": "https://www.openstreetmap.org/way/669205939"
+    },
+    {
+      "type": "way",
+      "id": 894782920,
+      "version": 1,
+      "timestamp": "2021-01-13T03:08:31Z",
+      "url": "https://www.openstreetmap.org/way/894782920"
+    },
+    {
+      "type": "way",
+      "id": 894782923,
+      "version": 1,
+      "timestamp": "2021-01-13T03:08:31Z",
+      "url": "https://www.openstreetmap.org/way/894782923"
+    },
+    {
+      "type": "way",
+      "id": 894782917,
+      "version": 1,
+      "timestamp": "2021-01-13T03:08:31Z",
+      "url": "https://www.openstreetmap.org/way/894782917"
+    },
+    {
+      "type": "way",
+      "id": 894782358,
+      "version": 2,
+      "timestamp": "2021-01-13T03:08:31Z",
+      "url": "https://www.openstreetmap.org/way/894782358"
+    },
+    {
+      "type": "way",
+      "id": 894782912,
+      "version": 3,
+      "timestamp": "2023-11-02T16:01:59Z",
+      "url": "https://www.openstreetmap.org/way/894782912"
+    },
+    {
+      "type": "way",
+      "id": 894782914,
+      "version": 2,
+      "timestamp": "2023-11-02T16:01:59Z",
+      "url": "https://www.openstreetmap.org/way/894782914"
+    },
+    {
+      "type": "way",
+      "id": 894782918,
+      "version": 1,
+      "timestamp": "2021-01-13T03:08:31Z",
+      "url": "https://www.openstreetmap.org/way/894782918"
+    },
+    {
+      "type": "way",
+      "id": 894782924,
+      "version": 1,
+      "timestamp": "2021-01-13T03:08:31Z",
+      "url": "https://www.openstreetmap.org/way/894782924"
+    },
+    {
+      "type": "way",
+      "id": 894782925,
+      "version": 1,
+      "timestamp": "2021-01-13T03:08:31Z",
+      "url": "https://www.openstreetmap.org/way/894782925"
+    },
+    {
+      "type": "way",
+      "id": 894782922,
+      "version": 1,
+      "timestamp": "2021-01-13T03:08:31Z",
+      "url": "https://www.openstreetmap.org/way/894782922"
+    },
+    {
+      "type": "way",
+      "id": 894782919,
+      "version": 1,
+      "timestamp": "2021-01-13T03:08:31Z",
+      "url": "https://www.openstreetmap.org/way/894782919"
+    },
+    {
+      "type": "way",
+      "id": 894782916,
+      "version": 1,
+      "timestamp": "2021-01-13T03:08:31Z",
+      "url": "https://www.openstreetmap.org/way/894782916"
+    },
+    {
+      "type": "way",
+      "id": 894782915,
+      "version": 1,
+      "timestamp": "2021-01-13T03:08:31Z",
+      "url": "https://www.openstreetmap.org/way/894782915"
+    },
+    {
+      "type": "way",
+      "id": 894782921,
+      "version": 1,
+      "timestamp": "2021-01-13T03:08:31Z",
+      "url": "https://www.openstreetmap.org/way/894782921"
+    },
+    {
+      "type": "way",
+      "id": 894782913,
+      "version": 1,
+      "timestamp": "2021-01-13T03:08:31Z",
+      "url": "https://www.openstreetmap.org/way/894782913"
+    },
+    {
+      "type": "way",
+      "id": 888642929,
+      "version": 2,
+      "timestamp": "2021-01-13T03:08:31Z",
+      "url": "https://www.openstreetmap.org/way/888642929"
+    }
+  ],
+  "wikidata": "Q2534606",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/carowinds-vortex.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Vortex, Carowinds: procedural, CC0-1.0. bun generators/carowinds-vortex.ts (REPORT=1 for the element table)",
+    "Built with ./coaster-kit.ts. Map frame: x east, y north, z up, metres; bearing 0. The origin is the middle of the track's footprint (ANCHOR), at the lowest ground under it.",
+    "Plan: the chain of OSM roller_coaster=track ways from the west end of the station (way/669164155), all oneway, in the direction of travel: way/669205939, 894782920, 894782923, 894782917, 894782358, 894782912, 894782914, 894782918, 894782924, 894782925, 894782922, 894782919, 894782916, 894782915, 894782921, 894782913, 888642929 (609 m round).",
+    "Profile: a B&M stand-up of 622 m (RCDB 86, Wikipedia, Coasterpedia): a 90 ft chain lift and pre-drop, the 80 ft curved drop to the right, a vertical loop, a rising right turn and a drop into a left upward helix, a smaller drop and a corkscrew to the right, a figure-eight turn, and a left turn into the brakes.",
+    "Photos matched (Wikimedia Commons): \"Vortex (Carowinds) 2023 1\", Jeremy Thompson, CC BY 2.0 (from the Skytower; loop top measured at about 22 m); \"Vortex's red vertical loop and black supports from the path\", ThrillZing, October 2024, CC BY 4.0; \"Carowinds 023 (3145061684)\", Jeremy Thompson, CC BY 2.0 (helix and figure eight). Colours from the 2024 photos: red track, black supports since the 2023 refurbishment.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"carowinds-vortex\", model \"carowinds-vortex\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/carowinds-vortex.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

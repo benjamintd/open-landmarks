@@ -1,0 +1,226 @@
+{
+  "id": "copperhead-strike-carowinds",
+  "name": "Copperhead Strike",
+  "anchor": [
+    -80.942978,
+    35.101146
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 156620,
+      "sha256": "420b5c79e3a040a40cb3751b7c5a82dcd6820712b595edd86f1e64dc4045353b"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 156620,
+      "sha256": "420b5c79e3a040a40cb3751b7c5a82dcd6820712b595edd86f1e64dc4045353b"
+    }
+  },
+  "triangles": 5047,
+  "boundsBlenderM": [
+    [
+      -38.274,
+      -97.459,
+      0
+    ],
+    [
+      38.896,
+      77.136,
+      28.708
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.9428881,
+          35.1015634
+        ],
+        [
+          -80.9428713,
+          35.1015642
+        ],
+        [
+          -80.9428598,
+          35.1015647
+        ],
+        [
+          -80.9428509,
+          35.1015651
+        ],
+        [
+          -80.9427557,
+          35.1015695
+        ],
+        [
+          -80.9427472,
+          35.1015699
+        ],
+        [
+          -80.9427427,
+          35.1015036
+        ],
+        [
+          -80.9427421,
+          35.1014953
+        ],
+        [
+          -80.9427408,
+          35.1014764
+        ],
+        [
+          -80.9427373,
+          35.1014237
+        ],
+        [
+          -80.942764,
+          35.1014225
+        ],
+        [
+          -80.9427708,
+          35.1014222
+        ],
+        [
+          -80.9427782,
+          35.1014219
+        ],
+        [
+          -80.9428781,
+          35.1014173
+        ],
+        [
+          -80.9428809,
+          35.1014572
+        ],
+        [
+          -80.9428835,
+          35.101496
+        ],
+        [
+          -80.9428853,
+          35.1015229
+        ],
+        [
+          -80.942886,
+          35.1015322
+        ],
+        [
+          -80.9428881,
+          35.1015634
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 859068251,
+    "version": 7,
+    "timestamp": "2026-09-06T13:18:09Z",
+    "url": "https://www.openstreetmap.org/way/859068251"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 1190952871,
+      "version": 2,
+      "timestamp": "2023-09-21T11:22:14Z",
+      "url": "https://www.openstreetmap.org/way/1190952871"
+    },
+    {
+      "type": "way",
+      "id": 1190952873,
+      "version": 1,
+      "timestamp": "2023-07-21T04:00:49Z",
+      "url": "https://www.openstreetmap.org/way/1190952873"
+    },
+    {
+      "type": "way",
+      "id": 1190952872,
+      "version": 1,
+      "timestamp": "2023-07-21T04:00:49Z",
+      "url": "https://www.openstreetmap.org/way/1190952872"
+    },
+    {
+      "type": "way",
+      "id": 1190952875,
+      "version": 1,
+      "timestamp": "2023-07-21T04:00:49Z",
+      "url": "https://www.openstreetmap.org/way/1190952875"
+    },
+    {
+      "type": "way",
+      "id": 1190952867,
+      "version": 1,
+      "timestamp": "2023-07-21T04:00:49Z",
+      "url": "https://www.openstreetmap.org/way/1190952867"
+    },
+    {
+      "type": "way",
+      "id": 1190952870,
+      "version": 1,
+      "timestamp": "2023-07-21T04:00:49Z",
+      "url": "https://www.openstreetmap.org/way/1190952870"
+    },
+    {
+      "type": "way",
+      "id": 1190952869,
+      "version": 1,
+      "timestamp": "2023-07-21T04:00:49Z",
+      "url": "https://www.openstreetmap.org/way/1190952869"
+    },
+    {
+      "type": "way",
+      "id": 1190952868,
+      "version": 1,
+      "timestamp": "2023-07-21T04:00:49Z",
+      "url": "https://www.openstreetmap.org/way/1190952868"
+    },
+    {
+      "type": "way",
+      "id": 1190952874,
+      "version": 1,
+      "timestamp": "2023-07-21T04:00:49Z",
+      "url": "https://www.openstreetmap.org/way/1190952874"
+    }
+  ],
+  "wikidata": "Q59563612",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/carowinds-copperhead-strike.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Copperhead Strike, Carowinds: procedural, CC0-1.0. bun generators/carowinds-copperhead-strike.ts (REPORT=1 for the element table)",
+    "Built with ./coaster-kit.ts, with its launches (`launches`) and inversions. Map frame: x east, y north, z up, metres; bearing 0. The origin is the middle of the footprint (ANCHOR), at the lowest ground under the track.",
+    "Plan: the OSM roller_coaster=track ways from the north end of the barn station (way/859068251), in the direction of travel: way/1190952871, 1190952873, 1190952872, 1190952875, 1190952867, 1190952870, 1190952869, 1190952868, 1190952874 (904 m round as mapped). Each loop is mapped as a zigzag (the track doubling back over the top); both are redrawn as the straight they stand on, as the kit draws the loops itself (843 m round).",
+    "Profile: a Mack double launch of 992 m (RCDB 16349, Wikipedia, Coasterpedia): a slow heartline roll out of the station and a right turn into Granny's shed; the first launch, 0 to 42 mph, out of the shed into the first vertical loop; an airtime hill, a corkscrew and a turnaround; the second launch, 35 to 50 mph, over an airtime hill that threads the second loop; the cutback, the ride's 82 ft top; a dive into the second loop; a Stengel dive; low twisting turns and a last hill into the brakes.",
+    "Photos matched (Wikimedia Commons): \"A view of Copperhead Strike from Carolina Skytower\", ZackyWacky, CC BY-SA 4.0 (second loop about 21 m); \"Copperhead Strike 4\", Jeremy Thompson, CC BY 2.0. Colours from the ThrillZing October 2024 set (CC BY 4.0): copper track, dark grey supports.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"carowinds-copperhead-strike\", model \"carowinds-copperhead-strike\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/carowinds-copperhead-strike.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

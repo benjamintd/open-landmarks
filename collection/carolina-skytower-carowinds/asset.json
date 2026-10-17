@@ -1,0 +1,154 @@
+{
+  "id": "carolina-skytower-carowinds",
+  "name": "Carolina Skytower",
+  "anchor": [
+    -80.9406908,
+    35.1035924
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 56628,
+      "sha256": "e44bb3ca178d7c6e9e736fdbe9ec0a8f7b97fe6b7d163e8b185a3977acf045e8"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 56628,
+      "sha256": "e44bb3ca178d7c6e9e736fdbe9ec0a8f7b97fe6b7d163e8b185a3977acf045e8"
+    }
+  },
+  "triangles": 1578,
+  "boundsBlenderM": [
+    [
+      -6.8,
+      -6.8,
+      0
+    ],
+    [
+      6.8,
+      6.8,
+      87
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.940636,
+          35.103592
+        ],
+        [
+          -80.9406431,
+          35.1035702
+        ],
+        [
+          -80.9406555,
+          35.1035601
+        ],
+        [
+          -80.9406626,
+          35.1035542
+        ],
+        [
+          -80.9406893,
+          35.1035483
+        ],
+        [
+          -80.940716,
+          35.1035542
+        ],
+        [
+          -80.9407355,
+          35.1035702
+        ],
+        [
+          -80.940739,
+          35.1035807
+        ],
+        [
+          -80.9407427,
+          35.103592
+        ],
+        [
+          -80.9407386,
+          35.1036044
+        ],
+        [
+          -80.9407355,
+          35.1036138
+        ],
+        [
+          -80.940716,
+          35.1036298
+        ],
+        [
+          -80.9406893,
+          35.1036356
+        ],
+        [
+          -80.9406626,
+          35.1036298
+        ],
+        [
+          -80.9406431,
+          35.1036138
+        ],
+        [
+          -80.940636,
+          35.103592
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 239268372,
+    "version": 8,
+    "timestamp": "2024-05-15T18:26:54Z",
+    "url": "https://www.openstreetmap.org/way/239268372"
+  },
+  "additionalOsm": [],
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/carowinds-skytower.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Carolina Skytower, Carowinds: procedural, CC0-1.0. bun generators/carowinds-skytower.ts",
+    "Map frame: x east, y north, z up, metres; bearing 0. The origin is the centre of the shaft (OSM way/890251379, a 3.2 m circle tagged height 79.86, the published 262 ft), on the ground.",
+    "An Intamin Gyro Tower (1973): a plain cylindrical shaft, a ring-shaped observation cabin that turns as it rides up around it, and a cylindrical machinery head with a railing, loudspeakers and a mast on top. Painted since 2007 in the flag's colours, from a close photo of the head:",
+    "the shaft white, with red stripes that step sideways a third of the way up;",
+    "the cabin a straight-walled cylinder: a navy base band, a band of dark windows and an upper band painted as a waving American flag: red and white stripes slanting round it, and a navy canton with white stars over one section;",
+    "the head a navy drum with white stars in vertical columns.",
+    "The flag and the stars are geometry, not texture (STYLE.md: no textures), and they are what makes the cabin's turn visible on the map, so they are drawn broader than the real paint: nineteen stripes rather than thirteen thin ones, and a handful of large stars.",
+    "The cabin moves (experimental; see \"Animation\" in STYLE.md). It is a glTF node whose pivot is on the shaft's axis at the cabin floor; one clip carries it between the boarding platform and the head while it turns. At t = 0 it is at the top, just under the head, where photos of the tower almost always catch it and where it gives the tower its silhouette. Everything else is the static root.",
+    "The boarding platform is a raised ring the cabin sinks into, so at the bottom its floor is level with the deck and its saucer drops into the pit inside the ring. The fence ring (way/239268372, 9.7 m across) gives the cabin's size. Neither is an OSM building, so the model replaces nothing.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"carowinds-skytower\", model \"carowinds-skytower\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/carowinds-skytower.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 46 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the carowinds-skytower-glazing finish in the window colour."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

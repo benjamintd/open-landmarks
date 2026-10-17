@@ -1,0 +1,171 @@
+{
+  "id": "windseeker-carowinds",
+  "name": "WindSeeker",
+  "anchor": [
+    -80.9413603,
+    35.1021552
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 177040,
+      "sha256": "1c285946eef543757215ccccd99dab9be65fa713e26d5a05d27235dae2265d6b"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 177040,
+      "sha256": "1c285946eef543757215ccccd99dab9be65fa713e26d5a05d27235dae2265d6b"
+    }
+  },
+  "triangles": 3740,
+  "boundsBlenderM": [
+    [
+      -17.255,
+      -17.255,
+      0
+    ],
+    [
+      17.255,
+      17.255,
+      91.75
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.9413667,
+          35.1021823
+        ],
+        [
+          -80.941355,
+          35.1021824
+        ],
+        [
+          -80.941344,
+          35.1021793
+        ],
+        [
+          -80.941335,
+          35.1021732
+        ],
+        [
+          -80.9413291,
+          35.102165
+        ],
+        [
+          -80.941327,
+          35.102156
+        ],
+        [
+          -80.9413287,
+          35.1021466
+        ],
+        [
+          -80.9413343,
+          35.1021382
+        ],
+        [
+          -80.9413394,
+          35.102134
+        ],
+        [
+          -80.9413495,
+          35.1021294
+        ],
+        [
+          -80.941361,
+          35.1021279
+        ],
+        [
+          -80.9413725,
+          35.1021297
+        ],
+        [
+          -80.9413804,
+          35.1021332
+        ],
+        [
+          -80.9413884,
+          35.1021401
+        ],
+        [
+          -80.9413931,
+          35.1021488
+        ],
+        [
+          -80.9413938,
+          35.1021586
+        ],
+        [
+          -80.9413905,
+          35.1021677
+        ],
+        [
+          -80.9413835,
+          35.1021753
+        ],
+        [
+          -80.9413738,
+          35.1021806
+        ],
+        [
+          -80.9413667,
+          35.1021823
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 893187005,
+    "version": 1,
+    "timestamp": "2021-01-08T01:11:07Z",
+    "url": "https://www.openstreetmap.org/way/893187005"
+  },
+  "additionalOsm": [],
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/carowinds-windseeker.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "WindSeeker, Carowinds: procedural, CC0-1.0. bun generators/carowinds-windseeker.ts",
+    "Map frame: x east, y north, z up, metres; bearing 0. The origin is the centre of the tower: OSM way/893187005, a 6 m circle tagged building=yes, height=92, inside the ride's fence ring (way/890209625, 25 m across, tourism=attraction, name \"Windseeker\").",
+    "A Mondial WindSeeker (2012): a slim steel tower 301 ft (91.7 m) tall with a red \"UFO\" cap, and a carriage that climbs it carrying 32 two-seat swings (64 riders) on long hangers from a red umbrella frame.",
+    "Evidence:",
+    "Published (Wikipedia \"WindSeeker\"): 301 ft / 92 m, 32 twin seats, 64 riders, the red UFO on top; Carowinds' ride has the same appearance as Cedar Point's, Kings Island's and Canada's Wonderland's.",
+    "OSM: the tower circle and the fence ring above, for anchor and size.",
+    "Photos (licensed): - Martin Lewison, \"WindSeeker (Carowinds) 01/02/03\", Wikimedia Commons, CC BY-SA 2.0: the tower from the entrance plaza beside the SkyTower, the swing ring from below, and the frame and seats close up. - mliu92, \"Windseeker 0680\", \"Shading 0696\", \"Carolina Cobra 0522\", Flickr/Commons, CC BY-SA 2.0: the carriage near the top with the swings out, and the hangers. - @englishinvader, \"WindSeeker Media Day\", Flickr, CC BY-NC-SA 2.0: the carriage at the bottom, with the frame's shape and the blue tower base. - Jonathan Goble, \"Cedar Point WindSeeker Full Shot\", Wikimedia Commons, CC BY-SA 3.0: the identical ride whole, used for the paint bands and the carriage's proportions against the tower.",
+    "Measured from photos (estimates, about ±15%): the tower's paint bands (dark blue to 18 m, then light blue / yellow / light blue; the same three bands again just under the carriage's top stop), the tower's radius (1.9 m at the foot to 1.5 m at the head), the carriage's 10 m height and the frame's 9.6 m rim radius, and the 10 m swings, hinge to seat (about twice the red drum's height in the photos; the seats' flight circle comes out at about 35 m, against 30–36 m measured on the Cedar Point photo). Swing angle at full speed, about 45°, is from the photos and the brief.",
+    "Abstracted: the tower is a solid tapered column (no lattice, ladder or rails); the frame's lattice trusses are sixteen arms of three chunky bars each, with a solid rim ring; the machinery inside the carriage is a red drum. The real frame has lighter members between the blades; the 32 hangers are spread evenly round the rim, two per blade bay.",
+    "It moves (experimental; see \"Animation\" in STYLE.md): the carriage is one node, translated up the tower and turned about it. Each swing hangs from its own hinge node on the rim and swings outward as the spin rises. The static pose (frame 0) is at the top, spinning, swings out: the way it is nearly always seen and photographed.",
+    "The tower circle is the only OSM building it covers, so it replaces that.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"carowinds-windseeker\", model \"carowinds-windseeker\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/carowinds-windseeker.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

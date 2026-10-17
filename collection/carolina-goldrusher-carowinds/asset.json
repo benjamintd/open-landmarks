@@ -1,0 +1,224 @@
+{
+  "id": "carolina-goldrusher-carowinds",
+  "name": "Carolina Goldrusher",
+  "anchor": [
+    -80.9422424,
+    35.1029548
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 161348,
+      "sha256": "7af4185a73b78d8eca5c31566268af89142844b9616e1382e659484c9f19a232"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 161348,
+      "sha256": "7af4185a73b78d8eca5c31566268af89142844b9616e1382e659484c9f19a232"
+    }
+  },
+  "triangles": 4001,
+  "boundsBlenderM": [
+    [
+      -61.8,
+      -75.11,
+      0
+    ],
+    [
+      61.306,
+      71.381,
+      13.976
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -80.9429209,
+          35.1032546
+        ],
+        [
+          -80.9428995,
+          35.103211
+        ],
+        [
+          -80.9429169,
+          35.1032053
+        ],
+        [
+          -80.9428793,
+          35.1031287
+        ],
+        [
+          -80.9428758,
+          35.1031214
+        ],
+        [
+          -80.9428684,
+          35.1031238
+        ],
+        [
+          -80.9428583,
+          35.1031271
+        ],
+        [
+          -80.9427955,
+          35.1031476
+        ],
+        [
+          -80.9428083,
+          35.1031739
+        ],
+        [
+          -80.9427821,
+          35.1031823
+        ],
+        [
+          -80.9427593,
+          35.10319
+        ],
+        [
+          -80.9428084,
+          35.1032897
+        ],
+        [
+          -80.9428142,
+          35.1033014
+        ],
+        [
+          -80.9428412,
+          35.1032927
+        ],
+        [
+          -80.9428618,
+          35.1032857
+        ],
+        [
+          -80.9428726,
+          35.1032821
+        ],
+        [
+          -80.9428677,
+          35.1032721
+        ],
+        [
+          -80.9429209,
+          35.1032546
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 668730923,
+    "version": 7,
+    "timestamp": "2026-04-03T16:23:44Z",
+    "url": "https://www.openstreetmap.org/way/668730923"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 669205940,
+      "version": 5,
+      "timestamp": "2021-01-13T22:39:07Z",
+      "url": "https://www.openstreetmap.org/way/669205940"
+    },
+    {
+      "type": "way",
+      "id": 895071507,
+      "version": 2,
+      "timestamp": "2021-10-01T02:08:23Z",
+      "url": "https://www.openstreetmap.org/way/895071507"
+    },
+    {
+      "type": "way",
+      "id": 895071508,
+      "version": 1,
+      "timestamp": "2021-01-13T22:39:07Z",
+      "url": "https://www.openstreetmap.org/way/895071508"
+    },
+    {
+      "type": "way",
+      "id": 895071510,
+      "version": 1,
+      "timestamp": "2021-01-13T22:39:07Z",
+      "url": "https://www.openstreetmap.org/way/895071510"
+    },
+    {
+      "type": "way",
+      "id": 895071511,
+      "version": 1,
+      "timestamp": "2021-01-13T22:39:07Z",
+      "url": "https://www.openstreetmap.org/way/895071511"
+    },
+    {
+      "type": "way",
+      "id": 895071512,
+      "version": 1,
+      "timestamp": "2021-01-13T22:39:07Z",
+      "url": "https://www.openstreetmap.org/way/895071512"
+    },
+    {
+      "type": "way",
+      "id": 895071506,
+      "version": 1,
+      "timestamp": "2021-01-13T22:39:07Z",
+      "url": "https://www.openstreetmap.org/way/895071506"
+    },
+    {
+      "type": "way",
+      "id": 895071509,
+      "version": 1,
+      "timestamp": "2021-01-13T22:39:07Z",
+      "url": "https://www.openstreetmap.org/way/895071509"
+    },
+    {
+      "type": "way",
+      "id": 891133321,
+      "version": 2,
+      "timestamp": "2021-01-13T22:39:07Z",
+      "url": "https://www.openstreetmap.org/way/891133321"
+    }
+  ],
+  "wikidata": "Q5044835",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/carowinds-carolina-goldrusher.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Carolina Goldrusher, Carowinds: procedural, CC0-1.0. bun generators/carowinds-carolina-goldrusher.ts (REPORT=1 for the element table)",
+    "Map frame: x east, y north, z up, metres; bearing 0. The origin is the middle of the track's footprint (see anchor), at the lowest ground under it. Built with ./coaster-kit.ts (a second chain lift, wooden bents, a tunnel).",
+    "Plan: the OSM circuit (way/669205940, way/895071507, way/895071508, way/895071510, way/895071511, way/895071512, way/895071506, way/895071509, way/891133321), 728 m in plan, from the station exit. The brief's table put way/895071506, way/895071511 and way/895071512 under Flying Cobras; they close this circuit.",
+    "Profile: an Arrow mine train (RCDB 83: 2,397 ft, two chain lifts, a tunnel; no published height). The lifts are the two long straights the OSM layers raise; heights are guesses kept low, as a mine train is:",
+    "station, elevated platform s 0, 3.5 m (from the photo) lift 1, 11 m s 104–157 (14–22%) turnaround, dip, helix 1 s 200–366, helix over the tunnel lift 2, 12.5 m s 384–455 (53–63%) helix 2, 1.5 turns, falling s 461–590 mine tunnel (way/895071506) s 630–700, drawn as a covered box",
+    "Photo (Wikimedia Commons): \"Carolina Goldrusher 1\" (2023, Jeremy Thompson, CC BY 2.0), matched by hand-placed camera. No other usable open photo of the ride was found.",
+    "Style: sage-grey tubular track on brown timber bents, as the photo shows.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"carowinds-carolina-goldrusher\", model \"carowinds-carolina-goldrusher\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/carowinds-carolina-goldrusher.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}
