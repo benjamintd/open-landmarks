@@ -1,0 +1,790 @@
+{
+  "id": "matterhorn-bobsleds-disneyland",
+  "name": "Matterhorn Bobsleds",
+  "anchor": [
+    -117.9178493,
+    33.8130456
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 246324,
+      "sha256": "512d33733bb5674ee5c4e5e2383200b96d1bde684d436bfc8aeb0ff3f2f0305a"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 246324,
+      "sha256": "512d33733bb5674ee5c4e5e2383200b96d1bde684d436bfc8aeb0ff3f2f0305a"
+    }
+  },
+  "triangles": 6228,
+  "boundsBlenderM": [
+    [
+      -27.265,
+      -32.938,
+      0
+    ],
+    [
+      37.124,
+      41.214,
+      44.8
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -117.9175978,
+          33.8129615
+        ],
+        [
+          -117.9175846,
+          33.8129904
+        ],
+        [
+          -117.9175783,
+          33.8130192
+        ],
+        [
+          -117.9175641,
+          33.8130846
+        ],
+        [
+          -117.9175536,
+          33.8131328
+        ],
+        [
+          -117.9175493,
+          33.8131526
+        ],
+        [
+          -117.9175635,
+          33.8131641
+        ],
+        [
+          -117.9175941,
+          33.8132041
+        ],
+        [
+          -117.9176205,
+          33.8132209
+        ],
+        [
+          -117.9176392,
+          33.8132328
+        ],
+        [
+          -117.9177057,
+          33.8132774
+        ],
+        [
+          -117.9177013,
+          33.8132882
+        ],
+        [
+          -117.9176916,
+          33.813312
+        ],
+        [
+          -117.9176749,
+          33.8133387
+        ],
+        [
+          -117.917741,
+          33.8133601
+        ],
+        [
+          -117.9177364,
+          33.8133661
+        ],
+        [
+          -117.9177372,
+          33.8133735
+        ],
+        [
+          -117.9177637,
+          33.8133797
+        ],
+        [
+          -117.9177735,
+          33.8133834
+        ],
+        [
+          -117.9177791,
+          33.8133896
+        ],
+        [
+          -117.9177903,
+          33.8134007
+        ],
+        [
+          -117.9177969,
+          33.8134007
+        ],
+        [
+          -117.9178007,
+          33.8134004
+        ],
+        [
+          -117.9178103,
+          33.8133904
+        ],
+        [
+          -117.9178166,
+          33.8133873
+        ],
+        [
+          -117.9178301,
+          33.8133829
+        ],
+        [
+          -117.9178523,
+          33.8133758
+        ],
+        [
+          -117.9178551,
+          33.8133524
+        ],
+        [
+          -117.9178923,
+          33.8133482
+        ],
+        [
+          -117.9178786,
+          33.8133284
+        ],
+        [
+          -117.9178915,
+          33.8133204
+        ],
+        [
+          -117.9179019,
+          33.813308
+        ],
+        [
+          -117.9179178,
+          33.8132898
+        ],
+        [
+          -117.9179442,
+          33.8132651
+        ],
+        [
+          -117.9179737,
+          33.813244
+        ],
+        [
+          -117.9180113,
+          33.813225
+        ],
+        [
+          -117.918042,
+          33.8132213
+        ],
+        [
+          -117.9180506,
+          33.8132089
+        ],
+        [
+          -117.9180575,
+          33.8132087
+        ],
+        [
+          -117.9180667,
+          33.8132085
+        ],
+        [
+          -117.9180953,
+          33.8131927
+        ],
+        [
+          -117.9181116,
+          33.8131774
+        ],
+        [
+          -117.9181203,
+          33.8131485
+        ],
+        [
+          -117.9181215,
+          33.8131387
+        ],
+        [
+          -117.9181258,
+          33.8131016
+        ],
+        [
+          -117.9181272,
+          33.8130927
+        ],
+        [
+          -117.9181281,
+          33.8130871
+        ],
+        [
+          -117.9181364,
+          33.8130324
+        ],
+        [
+          -117.9181425,
+          33.8129577
+        ],
+        [
+          -117.9181432,
+          33.8129232
+        ],
+        [
+          -117.9181333,
+          33.8128974
+        ],
+        [
+          -117.9181201,
+          33.8128712
+        ],
+        [
+          -117.9181045,
+          33.8128523
+        ],
+        [
+          -117.9180757,
+          33.8128328
+        ],
+        [
+          -117.9180652,
+          33.8128249
+        ],
+        [
+          -117.9180558,
+          33.8128179
+        ],
+        [
+          -117.9180145,
+          33.8127995
+        ],
+        [
+          -117.9179595,
+          33.8127719
+        ],
+        [
+          -117.9179296,
+          33.8127745
+        ],
+        [
+          -117.9178915,
+          33.8127717
+        ],
+        [
+          -117.9178487,
+          33.8127476
+        ],
+        [
+          -117.9178059,
+          33.812752
+        ],
+        [
+          -117.9177669,
+          33.8127471
+        ],
+        [
+          -117.9177398,
+          33.8127615
+        ],
+        [
+          -117.9177101,
+          33.8127884
+        ],
+        [
+          -117.9177011,
+          33.8127989
+        ],
+        [
+          -117.9176837,
+          33.8128083
+        ],
+        [
+          -117.9176756,
+          33.81281
+        ],
+        [
+          -117.9176612,
+          33.8128129
+        ],
+        [
+          -117.9176555,
+          33.8128151
+        ],
+        [
+          -117.9176387,
+          33.8128218
+        ],
+        [
+          -117.9176288,
+          33.8128279
+        ],
+        [
+          -117.9176298,
+          33.8128442
+        ],
+        [
+          -117.9176395,
+          33.8128568
+        ],
+        [
+          -117.9176471,
+          33.8128648
+        ],
+        [
+          -117.9176573,
+          33.8128692
+        ],
+        [
+          -117.9176663,
+          33.8128721
+        ],
+        [
+          -117.9176557,
+          33.8128952
+        ],
+        [
+          -117.917639,
+          33.8128919
+        ],
+        [
+          -117.9176295,
+          33.8129008
+        ],
+        [
+          -117.9176254,
+          33.8129113
+        ],
+        [
+          -117.9176223,
+          33.8129215
+        ],
+        [
+          -117.9176061,
+          33.8129433
+        ],
+        [
+          -117.9175978,
+          33.8129615
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 107280556,
+    "version": 55,
+    "timestamp": "2024-12-19T21:23:02Z",
+    "url": "https://www.openstreetmap.org/way/107280556"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 123170498,
+      "version": 9,
+      "timestamp": "2025-12-18T04:24:49Z",
+      "url": "https://www.openstreetmap.org/way/123170498"
+    },
+    {
+      "type": "way",
+      "id": 123170497,
+      "version": 8,
+      "timestamp": "2025-12-18T04:24:49Z",
+      "url": "https://www.openstreetmap.org/way/123170497"
+    },
+    {
+      "type": "way",
+      "id": 122504258,
+      "version": 15,
+      "timestamp": "2025-12-18T04:24:49Z",
+      "url": "https://www.openstreetmap.org/way/122504258"
+    },
+    {
+      "type": "way",
+      "id": 136148707,
+      "version": 7,
+      "timestamp": "2025-12-18T04:24:49Z",
+      "url": "https://www.openstreetmap.org/way/136148707"
+    },
+    {
+      "type": "way",
+      "id": 122504261,
+      "version": 9,
+      "timestamp": "2025-12-18T04:24:49Z",
+      "url": "https://www.openstreetmap.org/way/122504261"
+    },
+    {
+      "type": "way",
+      "id": 122504260,
+      "version": 6,
+      "timestamp": "2025-12-18T04:24:49Z",
+      "url": "https://www.openstreetmap.org/way/122504260"
+    },
+    {
+      "type": "way",
+      "id": 122504263,
+      "version": 11,
+      "timestamp": "2025-12-18T04:24:49Z",
+      "url": "https://www.openstreetmap.org/way/122504263"
+    },
+    {
+      "type": "way",
+      "id": 123180127,
+      "version": 6,
+      "timestamp": "2025-12-18T04:24:49Z",
+      "url": "https://www.openstreetmap.org/way/123180127"
+    },
+    {
+      "type": "way",
+      "id": 135935735,
+      "version": 4,
+      "timestamp": "2022-11-02T19:15:37Z",
+      "url": "https://www.openstreetmap.org/way/135935735"
+    },
+    {
+      "type": "way",
+      "id": 542212418,
+      "version": 5,
+      "timestamp": "2019-11-18T21:04:39Z",
+      "url": "https://www.openstreetmap.org/way/542212418"
+    },
+    {
+      "type": "way",
+      "id": 136148698,
+      "version": 9,
+      "timestamp": "2019-11-18T21:04:39Z",
+      "url": "https://www.openstreetmap.org/way/136148698"
+    },
+    {
+      "type": "way",
+      "id": 542212421,
+      "version": 9,
+      "timestamp": "2019-11-18T21:04:39Z",
+      "url": "https://www.openstreetmap.org/way/542212421"
+    },
+    {
+      "type": "way",
+      "id": 136148704,
+      "version": 9,
+      "timestamp": "2019-11-18T21:04:39Z",
+      "url": "https://www.openstreetmap.org/way/136148704"
+    },
+    {
+      "type": "way",
+      "id": 542212425,
+      "version": 6,
+      "timestamp": "2019-11-18T21:04:39Z",
+      "url": "https://www.openstreetmap.org/way/542212425"
+    },
+    {
+      "type": "way",
+      "id": 135568234,
+      "version": 9,
+      "timestamp": "2019-11-18T21:04:39Z",
+      "url": "https://www.openstreetmap.org/way/135568234"
+    },
+    {
+      "type": "way",
+      "id": 136148701,
+      "version": 7,
+      "timestamp": "2019-11-18T21:04:39Z",
+      "url": "https://www.openstreetmap.org/way/136148701"
+    },
+    {
+      "type": "way",
+      "id": 136148703,
+      "version": 8,
+      "timestamp": "2019-11-18T21:04:39Z",
+      "url": "https://www.openstreetmap.org/way/136148703"
+    },
+    {
+      "type": "way",
+      "id": 542212428,
+      "version": 4,
+      "timestamp": "2019-11-18T21:04:39Z",
+      "url": "https://www.openstreetmap.org/way/542212428"
+    },
+    {
+      "type": "way",
+      "id": 136148706,
+      "version": 9,
+      "timestamp": "2019-11-18T21:04:39Z",
+      "url": "https://www.openstreetmap.org/way/136148706"
+    },
+    {
+      "type": "way",
+      "id": 542212430,
+      "version": 3,
+      "timestamp": "2019-11-18T21:04:39Z",
+      "url": "https://www.openstreetmap.org/way/542212430"
+    },
+    {
+      "type": "way",
+      "id": 135568239,
+      "version": 9,
+      "timestamp": "2019-11-18T21:04:39Z",
+      "url": "https://www.openstreetmap.org/way/135568239"
+    },
+    {
+      "type": "way",
+      "id": 135568231,
+      "version": 10,
+      "timestamp": "2019-11-18T21:04:39Z",
+      "url": "https://www.openstreetmap.org/way/135568231"
+    },
+    {
+      "type": "way",
+      "id": 542182059,
+      "version": 3,
+      "timestamp": "2019-11-18T21:04:39Z",
+      "url": "https://www.openstreetmap.org/way/542182059"
+    },
+    {
+      "type": "way",
+      "id": 542182060,
+      "version": 4,
+      "timestamp": "2019-11-18T21:04:39Z",
+      "url": "https://www.openstreetmap.org/way/542182060"
+    },
+    {
+      "type": "way",
+      "id": 542212416,
+      "version": 3,
+      "timestamp": "2019-11-18T21:04:39Z",
+      "url": "https://www.openstreetmap.org/way/542212416"
+    },
+    {
+      "type": "way",
+      "id": 942638295,
+      "version": 1,
+      "timestamp": "2021-05-13T16:06:57Z",
+      "url": "https://www.openstreetmap.org/way/942638295"
+    },
+    {
+      "type": "way",
+      "id": 542212395,
+      "version": 6,
+      "timestamp": "2021-05-13T16:06:57Z",
+      "url": "https://www.openstreetmap.org/way/542212395"
+    },
+    {
+      "type": "way",
+      "id": 942638294,
+      "version": 2,
+      "timestamp": "2024-12-19T19:27:07Z",
+      "url": "https://www.openstreetmap.org/way/942638294"
+    },
+    {
+      "type": "way",
+      "id": 136148702,
+      "version": 8,
+      "timestamp": "2019-11-18T21:04:39Z",
+      "url": "https://www.openstreetmap.org/way/136148702"
+    },
+    {
+      "type": "way",
+      "id": 542212399,
+      "version": 7,
+      "timestamp": "2021-05-13T16:06:57Z",
+      "url": "https://www.openstreetmap.org/way/542212399"
+    },
+    {
+      "type": "way",
+      "id": 942638293,
+      "version": 1,
+      "timestamp": "2021-05-13T16:06:57Z",
+      "url": "https://www.openstreetmap.org/way/942638293"
+    },
+    {
+      "type": "way",
+      "id": 136148700,
+      "version": 9,
+      "timestamp": "2019-11-18T21:04:39Z",
+      "url": "https://www.openstreetmap.org/way/136148700"
+    },
+    {
+      "type": "way",
+      "id": 542212401,
+      "version": 4,
+      "timestamp": "2019-11-18T21:04:39Z",
+      "url": "https://www.openstreetmap.org/way/542212401"
+    },
+    {
+      "type": "way",
+      "id": 542184358,
+      "version": 4,
+      "timestamp": "2019-11-18T21:04:39Z",
+      "url": "https://www.openstreetmap.org/way/542184358"
+    },
+    {
+      "type": "way",
+      "id": 542212404,
+      "version": 4,
+      "timestamp": "2019-11-18T21:04:39Z",
+      "url": "https://www.openstreetmap.org/way/542212404"
+    },
+    {
+      "type": "way",
+      "id": 136148705,
+      "version": 9,
+      "timestamp": "2019-11-18T21:04:39Z",
+      "url": "https://www.openstreetmap.org/way/136148705"
+    },
+    {
+      "type": "way",
+      "id": 542212406,
+      "version": 4,
+      "timestamp": "2019-11-18T21:04:39Z",
+      "url": "https://www.openstreetmap.org/way/542212406"
+    },
+    {
+      "type": "way",
+      "id": 135568240,
+      "version": 10,
+      "timestamp": "2019-11-18T21:04:39Z",
+      "url": "https://www.openstreetmap.org/way/135568240"
+    },
+    {
+      "type": "way",
+      "id": 542212414,
+      "version": 4,
+      "timestamp": "2019-11-18T21:04:39Z",
+      "url": "https://www.openstreetmap.org/way/542212414"
+    },
+    {
+      "type": "way",
+      "id": 136148697,
+      "version": 8,
+      "timestamp": "2019-11-18T21:04:39Z",
+      "url": "https://www.openstreetmap.org/way/136148697"
+    },
+    {
+      "type": "way",
+      "id": 542212411,
+      "version": 5,
+      "timestamp": "2019-11-18T21:04:39Z",
+      "url": "https://www.openstreetmap.org/way/542212411"
+    },
+    {
+      "type": "way",
+      "id": 135568227,
+      "version": 8,
+      "timestamp": "2019-11-18T21:04:39Z",
+      "url": "https://www.openstreetmap.org/way/135568227"
+    },
+    {
+      "type": "way",
+      "id": 542212409,
+      "version": 4,
+      "timestamp": "2019-11-18T21:04:39Z",
+      "url": "https://www.openstreetmap.org/way/542212409"
+    },
+    {
+      "type": "way",
+      "id": 135935730,
+      "version": 8,
+      "timestamp": "2019-11-18T21:04:39Z",
+      "url": "https://www.openstreetmap.org/way/135935730"
+    },
+    {
+      "type": "way",
+      "id": 542182061,
+      "version": 3,
+      "timestamp": "2019-11-18T21:04:39Z",
+      "url": "https://www.openstreetmap.org/way/542182061"
+    },
+    {
+      "type": "way",
+      "id": 135568236,
+      "version": 10,
+      "timestamp": "2019-11-18T21:04:39Z",
+      "url": "https://www.openstreetmap.org/way/135568236"
+    },
+    {
+      "type": "way",
+      "id": 266075984,
+      "version": 4,
+      "timestamp": "2019-11-18T21:04:39Z",
+      "url": "https://www.openstreetmap.org/way/266075984"
+    }
+  ],
+  "wikidata": "Q1849003",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Matterhorn - Disneyland 2012.jpg",
+      "author": "HarshLight from San Jose, CA, USA",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Matterhorn_-_Disneyland_2012.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Matterhorn in Disneyland.jpg",
+      "author": "Anna Fox",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Matterhorn_in_Disneyland.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:The Matterhorn (28171910666).jpg",
+      "author": "Sam Howzit",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:The_Matterhorn_(28171910666).jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Matterhorndisney.jpg",
+      "author": "Kingofthedead",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Matterhorndisney.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/dlr-matterhorn.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Matterhorn Bobsleds, Disneyland Park, Anaheim: procedural, CC0-1.0. bun generators/dlr-matterhorn.ts",
+    "Map frame: x east, y north, z up, metres. Geometry is written in a park frame about (-117.9178511, 33.8130585) and shifted so the origin is the centroid of the OSM outline; the script prints that anchor. Bearing 0.",
+    "What the model is: the mountain (a rock-and-snow heightfield over the outline, a steep four-ridged spire with the hooked summit, broken cliffs round the foot), the dark cave mouths and three waterfalls, pines on the lower ledges, and the bobsled track only where it runs in the open at the foot: both run-outs past the splash pools to the station, the Tomorrowland track's bridge over the Fantasyland one, and a short stretch on the east.",
+    "Evidence",
+    "OSM (measured): the outline way/107280556 (Matterhorn Bobsleds, building=yes, 55 x 72 m); the summit node/14081280525 (natural=peak); both circuits as route relations, relation/7751714 (Tomorrowland side) and relation/7751715 (Fantasyland side), whose ways are chained here in ride order, with tunnel/covered tags marking what is inside the rock. The building:parts' heights (25, 41.1, 45 m) are tiers, not contours: 41 m over 850 m² cannot be true of a 45 m peak, so they are not used, except 122504263's 44.8056 m (147 ft) for the summit.",
+    "Published: 147 ft (44.8 m), a 1:100 Matterhorn; lift 80 ft (24.4 m), track 2,037 and 2,134 ft, 27 mph (Wikipedia, RCDB 200). The 2012 repaint put more snow on the north side and left the base mostly bare (Wikipedia), which the snow rule follows.",
+    "Photos (credits in the placement report): from the Tomorrowland monorail station (ESE) \"Matterhorn - Disneyland 2012.jpg\" and \"Matterhorn in Disneyland.jpg\" for the massing, the cliffs, caves and the long north-east ridge; Ken Lund's view from the Fun Wheel (SSW, far and elevated, the least foreshortened) for the spire's slope (about 65°) and the hook; \"The Matterhorn (28171910666).jpg\" (Fantasyland, WNW) and the Main Street view for the hook's direction (WSW); \"Matterhorndisney.jpg\" for the current colours (grey rock, white snow on the ledges).",
+    "Estimated: the spire's profile and the shoulders (SW, W, E) from those photos; the short cliff at the foot (3 to 8 m, broken; the flanks above broaden steadily, so the shoulders are sloped, not a plateau); the low ground round the splash pools in the north lobe; the cave and waterfall positions; the track heights (an even descent from the 80 ft lift to the pools; the bridge raised to clear the other track). The hook is a separate block jutting about 3 m over the west-south-west face.",
+    "Invented: the rock's crags (noise), the snow blotches, the trees' places.",
+    "Track: drawn here, not with coaster-kit.ts. Nearly all of both circuits is inside the mountain; the kit sweeps a whole circuit, which would cost the budget for track nobody sees. Only open stretches under 5 m (and any under 12 m with less than 4.5 m of rock over them) are drawn, as a broad light steel ribbon on short posts, with the rock cut down round them. The L3/L4 ways on the north face are not tagged tunnel in OSM but lie well inside this rock surface, so they are left to the rock (seen in reality only through openings). All ways of both circuits go in `replaces`; the six service=siding ways do not.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"dlr-matterhorn\", model \"dlr-matterhorn\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/dlr-matterhorn.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

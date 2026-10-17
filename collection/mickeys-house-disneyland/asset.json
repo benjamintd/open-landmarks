@@ -1,0 +1,159 @@
+{
+  "id": "mickeys-house-disneyland",
+  "name": "Mickey's House",
+  "anchor": [
+    -117.9193644,
+    33.8155436
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 32592,
+      "sha256": "ce522c55ee736533dccbd9c0a1866ca626d8dc08053332b396aa4ecbe3b8382b"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 32592,
+      "sha256": "ce522c55ee736533dccbd9c0a1866ca626d8dc08053332b396aa4ecbe3b8382b"
+    }
+  },
+  "triangles": 624,
+  "boundsBlenderM": [
+    [
+      -3.234,
+      -13.687,
+      0
+    ],
+    [
+      24.372,
+      14.474,
+      11.8
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -117.9193382,
+          33.8154576
+        ],
+        [
+          -117.9193389,
+          33.8154372
+        ],
+        [
+          -117.9193429,
+          33.815439
+        ],
+        [
+          -117.9193482,
+          33.8154433
+        ],
+        [
+          -117.9193636,
+          33.8154537
+        ],
+        [
+          -117.9193892,
+          33.8154743
+        ],
+        [
+          -117.9193657,
+          33.8156652
+        ],
+        [
+          -117.9192141,
+          33.8156663
+        ],
+        [
+          -117.9192063,
+          33.8156231
+        ],
+        [
+          -117.9191919,
+          33.8155845
+        ],
+        [
+          -117.9191936,
+          33.8155683
+        ],
+        [
+          -117.9192652,
+          33.815513
+        ],
+        [
+          -117.9192431,
+          33.8154894
+        ],
+        [
+          -117.9192581,
+          33.8154736
+        ],
+        [
+          -117.9192669,
+          33.8154816
+        ],
+        [
+          -117.919281,
+          33.8154637
+        ],
+        [
+          -117.9193138,
+          33.8154706
+        ],
+        [
+          -117.9193382,
+          33.8154576
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 185253879,
+    "version": 5,
+    "timestamp": "2025-12-18T04:24:49Z",
+    "url": "https://www.openstreetmap.org/way/185253879"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q6838553",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/dlr-toontown-mickeys-house.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Mickey's House, Mickey's Toontown, Disneyland Park, Anaheim — procedural, CC0-1.0. bun generators/dlr-toontown-mickeys-house.ts",
+    "Mickey's crooked yellow cottage: board walls under a low, bell-flared red shingle roof with two dormers under their own steep little gables, a tall steep front gable with wide cream bargeboards over an arched doorway between two fat bulbous cream columns, and a white picket fence round the front yard. The green Toontown hill on the show building behind is landscaping and is left to the map.",
+    "Map frame: x east, y north, z up, metres, turned so the front door is model south. Origin at the centre of the outline's extent (-117.9193644, 33.8155436), on the ground. Bearing 310 (the house faces 130°, square to OSM's front wall).",
+    "Evidence: - OSM, measured: the house part way/185253879 (tagged 7 m), drawn and replaced; the outline way/186539115 (house, show building and yard) gives the fence line but isn't fully covered, so it isn't replaced. - Photos (licensed): the front, close, post-2023 (Contributor19, CC BY 4.0, commons File:Mickey's house, Disneyland.jpg); the front from the Toontown fountain (Theme Park Tourist, CC BY 2.0, File:Toontown (28727562311).jpg, 2016, before the refurbishment); the porch (Theme Park Tourist, CC BY 2.0, File:Toontown (28773090076).jpg).",
+    "Estimated: eaves 3.4 m, the hip roof 5.9 m, the front gable 11.8 m (OSM's 7 m reads as the roof; the photos put the gable well above it), from the close photo's proportions. The gable is centred on the front wall. Invented: the sides and back of the house — no licensed photo shows them; the roof is a hipped cover over the main block's hull, not the real roof's crooked ridges. Left out: the chimney, shutters and the movie barn's facade.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"dlr-toontown-mickeys-house\", model \"dlr-toontown-mickeys-house\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/dlr-toontown-mickeys-house.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 13 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the dlr-toontown-mickeys-house-glazing finish in the window colour."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

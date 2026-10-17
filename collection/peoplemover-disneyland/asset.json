@@ -1,0 +1,705 @@
+{
+  "id": "peoplemover-disneyland",
+  "name": "PeopleMover",
+  "anchor": [
+    -117.9171189,
+    33.8127842
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 129024,
+      "sha256": "25150367e62e04d52a9807d0f334554089c22ead44e4974907c0962d7bb7451b"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 129024,
+      "sha256": "25150367e62e04d52a9807d0f334554089c22ead44e4974907c0962d7bb7451b"
+    }
+  },
+  "triangles": 3056,
+  "boundsBlenderM": [
+    [
+      -102.018,
+      -144.833,
+      0
+    ],
+    [
+      100.916,
+      145.219,
+      6
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -117.9181835,
+          33.8122089
+        ],
+        [
+          -117.918184,
+          33.8122078
+        ],
+        [
+          -117.9181842,
+          33.8122069
+        ],
+        [
+          -117.9181861,
+          33.8122002
+        ],
+        [
+          -117.9181867,
+          33.8121848
+        ],
+        [
+          -117.9181859,
+          33.8121764
+        ],
+        [
+          -117.9181848,
+          33.8121631
+        ],
+        [
+          -117.9181824,
+          33.8121572
+        ],
+        [
+          -117.9181745,
+          33.8121378
+        ],
+        [
+          -117.9181642,
+          33.8121292
+        ],
+        [
+          -117.9181474,
+          33.8121198
+        ],
+        [
+          -117.9181253,
+          33.8121153
+        ],
+        [
+          -117.9180347,
+          33.8121151
+        ],
+        [
+          -117.9180229,
+          33.8121149
+        ],
+        [
+          -117.9179947,
+          33.8121151
+        ],
+        [
+          -117.9179799,
+          33.8121152
+        ],
+        [
+          -117.9179457,
+          33.8121155
+        ],
+        [
+          -117.9177779,
+          33.8121168
+        ],
+        [
+          -117.9177308,
+          33.8121166
+        ],
+        [
+          -117.9176663,
+          33.8121166
+        ],
+        [
+          -117.9175337,
+          33.8121168
+        ],
+        [
+          -117.9174569,
+          33.8121168
+        ],
+        [
+          -117.9174072,
+          33.8121186
+        ],
+        [
+          -117.9173743,
+          33.8121198
+        ],
+        [
+          -117.9173508,
+          33.812127
+        ],
+        [
+          -117.9173127,
+          33.8121421
+        ],
+        [
+          -117.9172905,
+          33.8121599
+        ],
+        [
+          -117.9172717,
+          33.8121771
+        ],
+        [
+          -117.9172524,
+          33.8121888
+        ],
+        [
+          -117.9172335,
+          33.8121978
+        ],
+        [
+          -117.9172038,
+          33.8122048
+        ],
+        [
+          -117.917169,
+          33.8122086
+        ],
+        [
+          -117.9171378,
+          33.8122045
+        ],
+        [
+          -117.9171107,
+          33.8121902
+        ],
+        [
+          -117.9170773,
+          33.8121672
+        ],
+        [
+          -117.9170643,
+          33.8121487
+        ],
+        [
+          -117.9170612,
+          33.8121446
+        ],
+        [
+          -117.9170538,
+          33.8121338
+        ],
+        [
+          -117.9170514,
+          33.812123
+        ],
+        [
+          -117.9170467,
+          33.8121177
+        ],
+        [
+          -117.9170461,
+          33.8120978
+        ],
+        [
+          -117.9170454,
+          33.8120836
+        ],
+        [
+          -117.9170488,
+          33.8120791
+        ],
+        [
+          -117.917053,
+          33.812058
+        ],
+        [
+          -117.917066,
+          33.8120388
+        ],
+        [
+          -117.9170688,
+          33.8120348
+        ],
+        [
+          -117.9170759,
+          33.8120243
+        ],
+        [
+          -117.9171112,
+          33.811999
+        ],
+        [
+          -117.9171293,
+          33.8119934
+        ],
+        [
+          -117.9171546,
+          33.8119849
+        ],
+        [
+          -117.9171925,
+          33.8119859
+        ],
+        [
+          -117.9172085,
+          33.811986
+        ],
+        [
+          -117.9172516,
+          33.8120008
+        ],
+        [
+          -117.9172789,
+          33.8120214
+        ],
+        [
+          -117.9172935,
+          33.8120345
+        ],
+        [
+          -117.9173066,
+          33.8120462
+        ],
+        [
+          -117.9173481,
+          33.8120652
+        ],
+        [
+          -117.917388,
+          33.8120791
+        ],
+        [
+          -117.9173898,
+          33.8120792
+        ],
+        [
+          -117.9174246,
+          33.8120808
+        ],
+        [
+          -117.9174775,
+          33.8120801
+        ],
+        [
+          -117.9175273,
+          33.8120795
+        ],
+        [
+          -117.9176423,
+          33.8120788
+        ],
+        [
+          -117.9177084,
+          33.8120784
+        ],
+        [
+          -117.9177773,
+          33.812078
+        ],
+        [
+          -117.9179075,
+          33.8120766
+        ],
+        [
+          -117.9179654,
+          33.8120765
+        ],
+        [
+          -117.9179794,
+          33.8120764
+        ],
+        [
+          -117.9179879,
+          33.8120763
+        ],
+        [
+          -117.9181293,
+          33.8120741
+        ],
+        [
+          -117.9181535,
+          33.8120663
+        ],
+        [
+          -117.9181667,
+          33.8120525
+        ],
+        [
+          -117.9181783,
+          33.8120412
+        ],
+        [
+          -117.9181883,
+          33.81201
+        ],
+        [
+          -117.9181887,
+          33.8120014
+        ],
+        [
+          -117.9181882,
+          33.8119934
+        ],
+        [
+          -117.9181875,
+          33.8119887
+        ],
+        [
+          -117.9181864,
+          33.8119833
+        ],
+        [
+          -117.9181837,
+          33.8119711
+        ],
+        [
+          -117.9181374,
+          33.8119203
+        ],
+        [
+          -117.918165,
+          33.8119091
+        ],
+        [
+          -117.9181937,
+          33.811937
+        ],
+        [
+          -117.9182207,
+          33.8119763
+        ],
+        [
+          -117.9182208,
+          33.8119799
+        ],
+        [
+          -117.9182213,
+          33.8119931
+        ],
+        [
+          -117.9182219,
+          33.8120089
+        ],
+        [
+          -117.9182199,
+          33.8120267
+        ],
+        [
+          -117.9182153,
+          33.8120403
+        ],
+        [
+          -117.9182047,
+          33.8120525
+        ],
+        [
+          -117.9181956,
+          33.8120695
+        ],
+        [
+          -117.918192,
+          33.8120817
+        ],
+        [
+          -117.9181912,
+          33.8120988
+        ],
+        [
+          -117.918193,
+          33.8121115
+        ],
+        [
+          -117.9181994,
+          33.8121246
+        ],
+        [
+          -117.9182033,
+          33.8121318
+        ],
+        [
+          -117.9182087,
+          33.8121417
+        ],
+        [
+          -117.918217,
+          33.8121569
+        ],
+        [
+          -117.9182197,
+          33.8121818
+        ],
+        [
+          -117.9182218,
+          33.8121885
+        ],
+        [
+          -117.9182219,
+          33.8122055
+        ],
+        [
+          -117.9182213,
+          33.8122088
+        ],
+        [
+          -117.9182189,
+          33.8122136
+        ],
+        [
+          -117.918217,
+          33.8122175
+        ],
+        [
+          -117.918213,
+          33.8122253
+        ],
+        [
+          -117.9182031,
+          33.8122451
+        ],
+        [
+          -117.9181787,
+          33.8122691
+        ],
+        [
+          -117.9181595,
+          33.8122885
+        ],
+        [
+          -117.9181412,
+          33.8122631
+        ],
+        [
+          -117.9181591,
+          33.812247
+        ],
+        [
+          -117.9181642,
+          33.8122412
+        ],
+        [
+          -117.9181796,
+          33.8122167
+        ],
+        [
+          -117.9181835,
+          33.8122089
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 371961449,
+    "version": 15,
+    "timestamp": "2025-08-17T04:27:44Z",
+    "url": "https://www.openstreetmap.org/way/371961449"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 524008560,
+      "version": 2,
+      "timestamp": "2022-05-21T23:00:15Z",
+      "url": "https://www.openstreetmap.org/way/524008560"
+    },
+    {
+      "type": "way",
+      "id": 133808477,
+      "version": 6,
+      "timestamp": "2022-05-21T23:00:15Z",
+      "url": "https://www.openstreetmap.org/way/133808477"
+    },
+    {
+      "type": "way",
+      "id": 134478631,
+      "version": 4,
+      "timestamp": "2022-05-21T23:00:15Z",
+      "url": "https://www.openstreetmap.org/way/134478631"
+    },
+    {
+      "type": "way",
+      "id": 134478629,
+      "version": 6,
+      "timestamp": "2022-05-21T23:00:15Z",
+      "url": "https://www.openstreetmap.org/way/134478629"
+    },
+    {
+      "type": "way",
+      "id": 136149024,
+      "version": 4,
+      "timestamp": "2022-05-21T23:00:15Z",
+      "url": "https://www.openstreetmap.org/way/136149024"
+    },
+    {
+      "type": "way",
+      "id": 135566805,
+      "version": 4,
+      "timestamp": "2022-05-21T23:00:15Z",
+      "url": "https://www.openstreetmap.org/way/135566805"
+    },
+    {
+      "type": "way",
+      "id": 135566811,
+      "version": 4,
+      "timestamp": "2022-05-21T23:00:15Z",
+      "url": "https://www.openstreetmap.org/way/135566811"
+    },
+    {
+      "type": "way",
+      "id": 134478628,
+      "version": 4,
+      "timestamp": "2022-05-21T23:00:15Z",
+      "url": "https://www.openstreetmap.org/way/134478628"
+    },
+    {
+      "type": "way",
+      "id": 112299063,
+      "version": 23,
+      "timestamp": "2022-05-21T23:00:15Z",
+      "url": "https://www.openstreetmap.org/way/112299063"
+    },
+    {
+      "type": "way",
+      "id": 1516924401,
+      "version": 1,
+      "timestamp": "2026-05-19T08:51:23Z",
+      "url": "https://www.openstreetmap.org/way/1516924401"
+    },
+    {
+      "type": "way",
+      "id": 1516924402,
+      "version": 1,
+      "timestamp": "2026-05-19T08:51:23Z",
+      "url": "https://www.openstreetmap.org/way/1516924402"
+    },
+    {
+      "type": "way",
+      "id": 1550883946,
+      "version": 1,
+      "timestamp": "2026-08-19T18:26:13Z",
+      "url": "https://www.openstreetmap.org/way/1550883946"
+    },
+    {
+      "type": "way",
+      "id": 1550883947,
+      "version": 1,
+      "timestamp": "2026-08-19T18:26:13Z",
+      "url": "https://www.openstreetmap.org/way/1550883947"
+    },
+    {
+      "type": "way",
+      "id": 1550883948,
+      "version": 1,
+      "timestamp": "2026-08-19T18:26:13Z",
+      "url": "https://www.openstreetmap.org/way/1550883948"
+    },
+    {
+      "type": "way",
+      "id": 1550883949,
+      "version": 1,
+      "timestamp": "2026-08-19T18:26:13Z",
+      "url": "https://www.openstreetmap.org/way/1550883949"
+    },
+    {
+      "type": "way",
+      "id": 1550883951,
+      "version": 1,
+      "timestamp": "2026-08-19T18:26:13Z",
+      "url": "https://www.openstreetmap.org/way/1550883951"
+    },
+    {
+      "type": "way",
+      "id": 1550883952,
+      "version": 1,
+      "timestamp": "2026-08-19T18:26:13Z",
+      "url": "https://www.openstreetmap.org/way/1550883952"
+    },
+    {
+      "type": "way",
+      "id": 133881710,
+      "version": 8,
+      "timestamp": "2026-08-19T18:26:13Z",
+      "url": "https://www.openstreetmap.org/way/133881710"
+    },
+    {
+      "type": "way",
+      "id": 1550883945,
+      "version": 1,
+      "timestamp": "2026-08-19T18:26:13Z",
+      "url": "https://www.openstreetmap.org/way/1550883945"
+    },
+    {
+      "type": "way",
+      "id": 1550883944,
+      "version": 1,
+      "timestamp": "2026-08-19T18:26:13Z",
+      "url": "https://www.openstreetmap.org/way/1550883944"
+    },
+    {
+      "type": "way",
+      "id": 134991715,
+      "version": 3,
+      "timestamp": "2022-05-21T23:00:15Z",
+      "url": "https://www.openstreetmap.org/way/134991715"
+    },
+    {
+      "type": "way",
+      "id": 110199422,
+      "version": 16,
+      "timestamp": "2022-05-21T23:00:15Z",
+      "url": "https://www.openstreetmap.org/way/110199422"
+    },
+    {
+      "type": "way",
+      "id": 133808478,
+      "version": 6,
+      "timestamp": "2022-05-21T23:00:15Z",
+      "url": "https://www.openstreetmap.org/way/133808478"
+    },
+    {
+      "type": "way",
+      "id": 524008551,
+      "version": 2,
+      "timestamp": "2022-05-21T23:00:15Z",
+      "url": "https://www.openstreetmap.org/way/524008551"
+    }
+  ],
+  "wikidata": "Q2907508",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/dlr-peoplemover-track.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "The PeopleMover track, Tomorrowland, Disneyland Park, Anaheim — procedural, CC0-1.0. bun generators/dlr-peoplemover-track.ts",
+    "The PeopleMover (1967–1995) and its successor Rocket Rods (1998–2000) ran on this elevated concrete track; it has stood unused since, repainted in 2005. It weaves through Tomorrowland at second-storey height: out of the station under the Observatron along a wide twin-track stem to the Tomorrowland entrance, through the Star Tours and Space Mountain buildings, past Pizza Port, through the Carousel Theater, then round the Autopia and over the submarine lagoon and back into the Buzz Lightyear building.",
+    "Map frame: x east, y north, z up, metres. Origin at the middle of the track's extent (-117.9171189, 33.8127842) on the ground; Tomorrowland is flat. Bearing 0. The model is drawn in place, straight from OSM.",
+    "What is drawn: the open-air track only — a flat deck whose off-white fascias lean outward (as on the Autopia photos), a weathered grey running surface, and pale chamfered piers with tapering T-heads. The deck around the station ring and along the stem is OSM's roof outline way/371961449, drawn as one slab; its piers by the entrance fork into a Y, as the sculpted supports there do. Stretches inside buildings, the station's Observatron tower (OSM way/107804130 and parts, left to the map) and the station's arches are not drawn.",
+    "Evidence: - OSM, measured: the track ways (railway=abandoned/disused, name PeopleMover), chained by shared nodes into two open runs — Space Mountain to the Carousel Theater (way/136149024, 135566805, 135566811) and the long Autopia/lagoon loop (way/1516924401 … 134991715) — and the stem/station roof way/371961449. - Photos (licensed): Autopia, 2019, the curved deck on square piers with a cross-beam head and its leaning fascia (Jeremy Thompson, CC BY 2.0, commons File:Disneyland_-_47853009581.jpg and _32908934237.jpg); the track over the submarine lagoon on T-headed piers (David Jones, CC BY 2.0, File:Submarine Voyage and Peoplemover - Disneyland, California (497087559).jpg); the stem deck from the station (Jeremy Thompson, CC BY 2.0, File:Rocket Rods 1.jpg); the deck by Pizza Planet, 2022 (Benoît Prieur, CC0, File:Rocket - Tomorrowland at Disneyland - July 2022.JPG); the loop behind Astro Orbitor (Carterhawk, CC BY-SA 3.0, File:Dlp astro orbitor.jpg); the station disc from the monorail station (HarshLight, CC BY 2.0, File:Space Mountain (28099690590).jpg). Mapillary 2014 night frames (brian_brea) show the Y supports at the entrance. - Published: Wikipedia, \"PeopleMover (Disneyland)\" — elevated track, station and track still standing as of 2026.",
+    "Estimated: every height and section. Deck top 6.0 m (OSM tags the stem roof 5 m; the Autopia pier with its block base, and the loop against Astro Orbitor, both suggest about 6), deck 0.9 m deep, 3.0 m wide at the top, piers 0.9 m every ~16 m (from the photos' spans). The stem's Y piers are placed by eye, five along the stem; the photos show organic branching supports there but not their count. Colours are the 2019 photos' pale grey-green, muted; parts of the track carry other paint (tan fascias near the monorail station, a navy column by Pizza Planet), which this ignores.",
+    "Doubts: whether the deck is the same height all round (the north loop over the Autopia may stand higher); the Autopia runs partly in a cut, so the map's lowest-ground rule may sink the model a little; the station ring is mostly hidden inside the OSM Observatron block (21 x 22 m, 9 m) that the map still draws.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"dlr-peoplemover-track\", model \"dlr-peoplemover-track\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/dlr-peoplemover-track.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

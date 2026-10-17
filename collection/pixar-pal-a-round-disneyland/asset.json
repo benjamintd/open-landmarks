@@ -1,0 +1,191 @@
+{
+  "id": "pixar-pal-a-round-disneyland",
+  "name": "Pixar Pal-A-Round",
+  "anchor": [
+    -117.9221876,
+    33.8051347
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 206668,
+      "sha256": "57af67be59a13d02061debd027e72ae00382e52707a1f254153af2553c4d2b07"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 206668,
+      "sha256": "57af67be59a13d02061debd027e72ae00382e52707a1f254153af2553c4d2b07"
+    }
+  },
+  "triangles": 4892,
+  "boundsBlenderM": [
+    [
+      -19.187,
+      -16.315,
+      0
+    ],
+    [
+      19.187,
+      16.315,
+      48.65
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -117.9223637,
+          33.8052772
+        ],
+        [
+          -117.9223857,
+          33.8052554
+        ],
+        [
+          -117.9222786,
+          33.8051806
+        ],
+        [
+          -117.9222096,
+          33.8051328
+        ],
+        [
+          -117.9221279,
+          33.8050744
+        ],
+        [
+          -117.9220111,
+          33.8049926
+        ],
+        [
+          -117.9219897,
+          33.8050135
+        ],
+        [
+          -117.9221082,
+          33.805098
+        ],
+        [
+          -117.9221891,
+          33.8051551
+        ],
+        [
+          -117.9222561,
+          33.8052023
+        ],
+        [
+          -117.9223637,
+          33.8052772
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 123138989,
+    "version": 24,
+    "timestamp": "2024-09-20T03:09:27Z",
+    "url": "https://www.openstreetmap.org/way/123138989"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q751240",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:View of Incredicoaster and Pixar Pal-A-Round (Disney California Adventure Park) July 2023.JPG",
+      "author": "Benoît Prieur",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:View_of_Incredicoaster_and_Pixar_Pal-A-Round_(Disney_California_Adventure_Park)_July_2023.JPG",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Incredicoaster & Pixar Pal-A-Round (Disney) July 2023.JPG",
+      "author": "Benoît Prieur",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Incredicoaster_%26_Pixar_Pal-A-Round_(Disney)_July_2023.JPG",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Pixar Pal-A-Round 2019.jpg",
+      "author": "Jeremy Thompson",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Pixar_Pal-A-Round_2019.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Pixar Pal-A-Round 1 2023-06-03.jpeg",
+      "author": "FASTILY",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Pixar_Pal-A-Round_1_2023-06-03.jpeg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Pixar Pal-A-Round 2 2023-06-03.jpeg",
+      "author": "FASTILY",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Pixar_Pal-A-Round_2_2023-06-03.jpeg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Mickey's Fun Wheel (28726693631).jpg",
+      "author": "Theme Park Tourist",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Mickey%27s_Fun_Wheel_(28726693631).jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Mickey's Fun Wheel (7842244604).jpg",
+      "author": "daryl_mitchell from Saskatoon, Saskatchewan, Canada",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Mickey%27s_Fun_Wheel_(7842244604).jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/dlr-pixar-pal-a-round.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Pixar Pal-A-Round (the Sun Wheel of 2001, Mickey's Fun Wheel 2009–18), Pixar Pier, Disney California Adventure — procedural, CC0-1.0, no textures. bun generators/dlr-pixar-pal-a-round.ts",
+    "Map frame: x along the wheel's plane (+x towards 130°, the south-east end), y through it (+y towards 40°, Paradise Bay), z up, metres; origin on the ground under the axle. Placed at bearing 40°, so the Mickey face on +y looks out over the bay, as the real one does.",
+    "An eccentric wheel modelled on Coney Island's Wonder Wheel, and built the same way as generators/wonder-wheel.ts: two parallel faces, each a rim band, an inner ring and spokes, about 3 m apart; 8 fixed gondolas on the rim and 16 that slide on serpentine tracks between the faces; A-frame legs either side. In front of the hub on the bay side stands the Mickey head on a gold sunburst; on the park side, a plain sunburst round the hub.",
+    "Evidence",
+    "OSM (measured): way/123138989 (attraction=eccentric_wheel, height=49), drawn as a thin 45.2 m × 3.2 m strip: the wheel's plane runs 130°/310° and it is about 3 m thick. The anchor is that strip's centre. Paradise Bay (relation/4308879) lies to the north-east, which fixes the Mickey side. OSM maps the wheel as an attraction, not a building, so it replaces nothing; the small World of Color towers round its foot (way/107897107, way/107897088, way/107897121) and way/174425337 stay drawn.",
+    "Published (Wikipedia, \"Pixar Pal-A-Round\"): 24 gondolas, 16 sliding and 8 fixed; Mickey's face on the side facing Paradise Bay; light blue colour scheme since 2018. Height 150 ft (46 m) there, 49 m (160 ft) in OSM; the model stands 48.3 m to the top gondola's roof.",
+    "Photos (Wikimedia Commons), for the proportions of face, rays and legs, scaled off the 44.6 m rim: \"View of Incredicoaster and Pixar Pal-A-Round (Disney California Adventure Park) July 2023.JPG\", Benoît Prieur, CC0 — bay side, nearly square on \"Incredicoaster & Pixar Pal-A-Round (Disney) July 2023.JPG\", Benoît Prieur, CC0 — bay side, oblique \"Pixar Pal-A-Round 2019.jpg\", Jeremy Thompson, CC BY 2.0 — park side: sunburst, legs, rim, tracks \"Pixar Pal-A-Round 1 2023-06-03.jpeg\", FASTILY, CC BY-SA 4.0 — legs and bracing from the queue \"Pixar Pal-A-Round 2 2023-06-03.jpeg\", FASTILY, CC BY-SA 4.0 — gondola between the two faces \"Mickey's Fun Wheel (28726693631).jpg\", Theme Park Tourist, CC BY 2.0 — bay side, 2016 colours \"Mickey's Fun Wheel (7842244604).jpg\", daryl_mitchell, CC BY-SA 2.0 — bay side, legs under the face",
+    "Estimated: the axle height (25.7 m, set so the bottom fixed gondola clears the platform), the face's stand-off from the wheel (about 3 m; the oblique photo shows it well proud), the leg feet (±11 m along the plane, ±7 m out of it). Simplified: each spoke truss is one beam, the rim truss one band, the gondolas' Pixar artwork a gold band. Mickey's face is drawn with flat shapes (head, ears, face mask, eyes, nose, mouth, tongue), as STYLE.md allows for a famous sign: it is what people recognise the wheel by.",
+    "It turns (experimental; see \"Animation\" in STYLE.md), like the Wonder Wheel: the wheel is a node at the axle and each gondola a child node that turns back to hang plumb; sliding gondolas also move along their tracks. Mickey's head, the sunbursts, legs and axle are fixed, as on the real ride, where the face stays upright while the wheel turns behind it. At t = 0 the model is the static one.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"dlr-pixar-pal-a-round\", model \"dlr-pixar-pal-a-round\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/dlr-pixar-pal-a-round.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

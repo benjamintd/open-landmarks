@@ -1,0 +1,297 @@
+{
+  "id": "black-spire-outpost-spires-disneyland",
+  "name": "Black Spire Outpost spires",
+  "anchor": [
+    -117.9211178,
+    33.8151645
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 170500,
+      "sha256": "a439357fc8b89dae8a049fb3bb241ad7327304f83281680bbc3df5fb050296b9"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 170500,
+      "sha256": "a439357fc8b89dae8a049fb3bb241ad7327304f83281680bbc3df5fb050296b9"
+    }
+  },
+  "triangles": 2155,
+  "boundsBlenderM": [
+    [
+      -33.935,
+      -9.651,
+      0
+    ],
+    [
+      23.525,
+      13.123,
+      41
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -117.9214987,
+          33.8148861
+        ],
+        [
+          -117.9215314,
+          33.8148689
+        ],
+        [
+          -117.9216105,
+          33.8148299
+        ],
+        [
+          -117.9217019,
+          33.8147877
+        ],
+        [
+          -117.921717,
+          33.814781
+        ],
+        [
+          -117.9217586,
+          33.8147609
+        ],
+        [
+          -117.9221343,
+          33.8153119
+        ],
+        [
+          -117.9217653,
+          33.8154941
+        ],
+        [
+          -117.9215907,
+          33.8154963
+        ],
+        [
+          -117.9215916,
+          33.8155214
+        ],
+        [
+          -117.9215154,
+          33.8155221
+        ],
+        [
+          -117.9215174,
+          33.8156502
+        ],
+        [
+          -117.9207858,
+          33.8156577
+        ],
+        [
+          -117.9207847,
+          33.8156533
+        ],
+        [
+          -117.9206361,
+          33.8156538
+        ],
+        [
+          -117.920634,
+          33.8155831
+        ],
+        [
+          -117.9206267,
+          33.8155831
+        ],
+        [
+          -117.920622,
+          33.8152808
+        ],
+        [
+          -117.9207718,
+          33.8152795
+        ],
+        [
+          -117.9207705,
+          33.815251
+        ],
+        [
+          -117.9207236,
+          33.8152525
+        ],
+        [
+          -117.9207216,
+          33.815179
+        ],
+        [
+          -117.9207705,
+          33.8151788
+        ],
+        [
+          -117.9207713,
+          33.8151715
+        ],
+        [
+          -117.9207961,
+          33.8151508
+        ],
+        [
+          -117.9209626,
+          33.8150099
+        ],
+        [
+          -117.9210013,
+          33.8150313
+        ],
+        [
+          -117.9210535,
+          33.8150376
+        ],
+        [
+          -117.9210964,
+          33.8150602
+        ],
+        [
+          -117.921134,
+          33.8150888
+        ],
+        [
+          -117.9211668,
+          33.8150965
+        ],
+        [
+          -117.9211919,
+          33.8151125
+        ],
+        [
+          -117.9212149,
+          33.8151315
+        ],
+        [
+          -117.9212469,
+          33.8151383
+        ],
+        [
+          -117.9212851,
+          33.8151364
+        ],
+        [
+          -117.9213199,
+          33.8151276
+        ],
+        [
+          -117.9213534,
+          33.8151101
+        ],
+        [
+          -117.9213819,
+          33.8150829
+        ],
+        [
+          -117.9213981,
+          33.815054
+        ],
+        [
+          -117.9214064,
+          33.8150258
+        ],
+        [
+          -117.9214059,
+          33.8149982
+        ],
+        [
+          -117.9213989,
+          33.8149721
+        ],
+        [
+          -117.9213913,
+          33.8149579
+        ],
+        [
+          -117.921412,
+          33.8149684
+        ],
+        [
+          -117.9214357,
+          33.8149725
+        ],
+        [
+          -117.9214597,
+          33.8149696
+        ],
+        [
+          -117.9214811,
+          33.8149602
+        ],
+        [
+          -117.9214965,
+          33.8149463
+        ],
+        [
+          -117.9215058,
+          33.8149292
+        ],
+        [
+          -117.9215081,
+          33.8149104
+        ],
+        [
+          -117.921503,
+          33.814892
+        ],
+        [
+          -117.9214987,
+          33.8148861
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 515673763,
+    "version": 36,
+    "timestamp": "2021-10-18T01:58:15Z",
+    "url": "https://www.openstreetmap.org/way/515673763"
+  },
+  "additionalOsm": [],
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/dlr-batuu-spires.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "The rock spires of Black Spire Outpost, Star Wars: Galaxy's Edge, Disneyland Park, Anaheim — procedural, CC0-1.0. bun generators/dlr-batuu-spires.ts",
+    "Map frame: x east, y north, z up, metres, bearing 0. The origin is the mean of the main spires' bases. One model holds the whole group, as wdw-batuu-spires does: the spires are one piece of rockwork, a ridge of tan mesas with slate needles growing out of it, and read as one group from the courtyard and from outside the park.",
+    "Anaheim's group is laid out differently from Florida's. It stands on the roof edge of Smugglers Run's show building (way/515673763), north and north-east of the Millennium Falcon: the tallest needle (A) right behind the ship's middle, a second (B) to its east whose slate runs down almost to the ground behind the mandibles, a lower two-headed spire (C) further east, a lesser needle (D) behind A to the north-west, and a long tan mesa running west behind the docking bay. Every base falls inside the show building's outline, so the model replaces nothing.",
+    "Evidence",
+    "OSM has no spire, rock or peak feature here; natural=bare_rock areas in the land (way/705339559, 705328797, 706812985, 705316172/4, 754173179, 704176252) are low courtyard rockwork, none under a spire.",
+    "Published: 135 ft (41 m) for the tallest spire (Wikipedia, \"Star Wars: Galaxy's Edge\"). A is drawn 40 m.",
+    "Photos from the courtyard, south-west to south-east of the Falcon: Commons, Univaded Fox (public domain; Phonetography 162, 163), Contributor19 (CC BY 4.0; \"Galaxy's Edge, Disneyland\"), elisfkc (CC BY-SA 2.0; 48512021956, 48512183242 and two panoramas), Laika ac (CC BY-SA 2.0; \"Star War Galaxy's Edge (Disneyland) 02\", \"Disneyland - Star Wars Galaxy's Edge (Disneyland) 01\"); Mapillary 1582830536335484 (DrivingRoundTown, CC BY-SA 4.0). Street views from outside the park to the north-west (Mapillary marker_geo, 2020–2022, CC BY-SA 4.0) show A and B side by side above the show buildings.",
+    "Positions: two courtyard cameras (Phonetography 163, Mapillary) posed against the Falcon (cockpit, docking port), its tree (OSM node 6334505586) and the Smugglers Run tower give each spire's bearing; the depth comes from the USGS NAIP orthophoto (public domain), where the pale rock lies between 5 and 28 m north of the Falcon and A's pointed shadow ends on the show building's roof 31 m north. Heights follow from each spire's elevation angle in Phonetography 163 at that range.",
+    "Doubts: the two posed cameras stand only a few metres apart, so the bearings fix each spire's direction well but not its depth; that rests on the aerial and may be 5 m out, more for C and D. The heights other than A's are photo estimates (B 36 m, C 31 m, D 28 m), scaled so A comes out at the published 41 m with a phone's 64° field of view and the mesas' outline and height (15–20 m) are estimated from the photos and the aerial. The pale distant needles seen far to the north-west from the courtyard are not modelled; nothing places them. The needles' facets and lesser points are a stylised stand-in for the sculpted rock.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"dlr-batuu-spires\", model \"dlr-batuu-spires\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/dlr-batuu-spires.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

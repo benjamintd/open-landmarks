@@ -1,0 +1,612 @@
+{
+  "id": "incredicoaster-disneyland",
+  "name": "Incredicoaster",
+  "anchor": [
+    -117.9217081,
+    33.8047468
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 210748,
+      "sha256": "2ab07c227fa8ce3a1a502e65beb2021f1d1372160028099df868f6afed23d70a"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 274320,
+      "sha256": "b3a6355cdbd44ba0704b48f5dcda48fbf886aaf7c9a7049f8d0ffd783f72b170"
+    }
+  },
+  "triangles": 7089,
+  "boundsBlenderM": [
+    [
+      -129.546,
+      -83.991,
+      0
+    ],
+    [
+      127.887,
+      83.699,
+      40.559
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -117.9205046,
+          33.804682
+        ],
+        [
+          -117.9204556,
+          33.8046682
+        ],
+        [
+          -117.9204414,
+          33.8046643
+        ],
+        [
+          -117.9204007,
+          33.8046534
+        ],
+        [
+          -117.920381,
+          33.8046482
+        ],
+        [
+          -117.9203397,
+          33.8046374
+        ],
+        [
+          -117.9203589,
+          33.8045867
+        ],
+        [
+          -117.9203765,
+          33.8045396
+        ],
+        [
+          -117.9203969,
+          33.8044846
+        ],
+        [
+          -117.9204252,
+          33.8044919
+        ],
+        [
+          -117.9204577,
+          33.8045003
+        ],
+        [
+          -117.9204788,
+          33.8044441
+        ],
+        [
+          -117.9205702,
+          33.8044678
+        ],
+        [
+          -117.9205791,
+          33.8044701
+        ],
+        [
+          -117.9205872,
+          33.8044723
+        ],
+        [
+          -117.9205992,
+          33.8044756
+        ],
+        [
+          -117.92066,
+          33.8044923
+        ],
+        [
+          -117.9206561,
+          33.8045022
+        ],
+        [
+          -117.9206475,
+          33.8045241
+        ],
+        [
+          -117.920645,
+          33.8045307
+        ],
+        [
+          -117.9206417,
+          33.8045395
+        ],
+        [
+          -117.9206373,
+          33.8045511
+        ],
+        [
+          -117.9206274,
+          33.8045485
+        ],
+        [
+          -117.9206167,
+          33.8045458
+        ],
+        [
+          -117.9205985,
+          33.8045409
+        ],
+        [
+          -117.9205885,
+          33.8045382
+        ],
+        [
+          -117.9205767,
+          33.8045349
+        ],
+        [
+          -117.9205845,
+          33.8045157
+        ],
+        [
+          -117.9205696,
+          33.8045115
+        ],
+        [
+          -117.9205477,
+          33.8045054
+        ],
+        [
+          -117.9205353,
+          33.8045019
+        ],
+        [
+          -117.9205232,
+          33.8044984
+        ],
+        [
+          -117.9205154,
+          33.8045169
+        ],
+        [
+          -117.9205302,
+          33.8045212
+        ],
+        [
+          -117.9205406,
+          33.8045242
+        ],
+        [
+          -117.920556,
+          33.8045287
+        ],
+        [
+          -117.9205669,
+          33.8045319
+        ],
+        [
+          -117.9205629,
+          33.8045414
+        ],
+        [
+          -117.9205424,
+          33.80459
+        ],
+        [
+          -117.9205227,
+          33.8046376
+        ],
+        [
+          -117.9205046,
+          33.804682
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 194882116,
+    "version": 17,
+    "timestamp": "2026-01-16T17:33:20Z",
+    "url": "https://www.openstreetmap.org/way/194882116"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 200375182,
+      "version": 8,
+      "timestamp": "2019-11-18T21:14:33Z",
+      "url": "https://www.openstreetmap.org/way/200375182"
+    },
+    {
+      "type": "way",
+      "id": 521998250,
+      "version": 3,
+      "timestamp": "2019-11-18T21:14:33Z",
+      "url": "https://www.openstreetmap.org/way/521998250"
+    },
+    {
+      "type": "way",
+      "id": 521998240,
+      "version": 3,
+      "timestamp": "2019-11-18T21:14:33Z",
+      "url": "https://www.openstreetmap.org/way/521998240"
+    },
+    {
+      "type": "way",
+      "id": 521998233,
+      "version": 3,
+      "timestamp": "2019-11-18T21:14:33Z",
+      "url": "https://www.openstreetmap.org/way/521998233"
+    },
+    {
+      "type": "way",
+      "id": 111215901,
+      "version": 9,
+      "timestamp": "2019-11-18T21:14:33Z",
+      "url": "https://www.openstreetmap.org/way/111215901"
+    },
+    {
+      "type": "way",
+      "id": 521998238,
+      "version": 3,
+      "timestamp": "2019-11-18T21:14:33Z",
+      "url": "https://www.openstreetmap.org/way/521998238"
+    },
+    {
+      "type": "way",
+      "id": 113935842,
+      "version": 8,
+      "timestamp": "2019-11-18T21:14:33Z",
+      "url": "https://www.openstreetmap.org/way/113935842"
+    },
+    {
+      "type": "way",
+      "id": 113935836,
+      "version": 7,
+      "timestamp": "2019-11-18T21:14:33Z",
+      "url": "https://www.openstreetmap.org/way/113935836"
+    },
+    {
+      "type": "way",
+      "id": 113935835,
+      "version": 8,
+      "timestamp": "2019-11-18T21:14:33Z",
+      "url": "https://www.openstreetmap.org/way/113935835"
+    },
+    {
+      "type": "way",
+      "id": 113935839,
+      "version": 7,
+      "timestamp": "2019-11-18T21:14:33Z",
+      "url": "https://www.openstreetmap.org/way/113935839"
+    },
+    {
+      "type": "way",
+      "id": 113935830,
+      "version": 7,
+      "timestamp": "2019-11-18T21:14:33Z",
+      "url": "https://www.openstreetmap.org/way/113935830"
+    },
+    {
+      "type": "way",
+      "id": 113935833,
+      "version": 9,
+      "timestamp": "2024-12-19T00:35:35Z",
+      "url": "https://www.openstreetmap.org/way/113935833"
+    },
+    {
+      "type": "way",
+      "id": 521998245,
+      "version": 4,
+      "timestamp": "2024-12-19T00:35:35Z",
+      "url": "https://www.openstreetmap.org/way/521998245"
+    },
+    {
+      "type": "way",
+      "id": 123412465,
+      "version": 7,
+      "timestamp": "2019-11-18T21:14:33Z",
+      "url": "https://www.openstreetmap.org/way/123412465"
+    },
+    {
+      "type": "way",
+      "id": 521998248,
+      "version": 3,
+      "timestamp": "2019-11-18T21:14:33Z",
+      "url": "https://www.openstreetmap.org/way/521998248"
+    },
+    {
+      "type": "way",
+      "id": 123412463,
+      "version": 4,
+      "timestamp": "2019-11-18T21:14:33Z",
+      "url": "https://www.openstreetmap.org/way/123412463"
+    },
+    {
+      "type": "way",
+      "id": 123412464,
+      "version": 8,
+      "timestamp": "2019-11-18T21:14:33Z",
+      "url": "https://www.openstreetmap.org/way/123412464"
+    },
+    {
+      "type": "way",
+      "id": 123412462,
+      "version": 7,
+      "timestamp": "2019-11-18T21:14:33Z",
+      "url": "https://www.openstreetmap.org/way/123412462"
+    },
+    {
+      "type": "way",
+      "id": 113935838,
+      "version": 7,
+      "timestamp": "2019-11-18T21:14:33Z",
+      "url": "https://www.openstreetmap.org/way/113935838"
+    },
+    {
+      "type": "way",
+      "id": 265898488,
+      "version": 3,
+      "timestamp": "2019-11-18T21:14:33Z",
+      "url": "https://www.openstreetmap.org/way/265898488"
+    },
+    {
+      "type": "way",
+      "id": 265898491,
+      "version": 3,
+      "timestamp": "2019-11-18T21:14:33Z",
+      "url": "https://www.openstreetmap.org/way/265898491"
+    },
+    {
+      "type": "way",
+      "id": 265898489,
+      "version": 3,
+      "timestamp": "2019-11-18T21:14:33Z",
+      "url": "https://www.openstreetmap.org/way/265898489"
+    },
+    {
+      "type": "way",
+      "id": 265898487,
+      "version": 5,
+      "timestamp": "2019-11-18T21:14:33Z",
+      "url": "https://www.openstreetmap.org/way/265898487"
+    },
+    {
+      "type": "way",
+      "id": 521998243,
+      "version": 3,
+      "timestamp": "2019-11-18T21:14:33Z",
+      "url": "https://www.openstreetmap.org/way/521998243"
+    },
+    {
+      "type": "way",
+      "id": 521998235,
+      "version": 3,
+      "timestamp": "2019-11-18T21:14:33Z",
+      "url": "https://www.openstreetmap.org/way/521998235"
+    },
+    {
+      "type": "way",
+      "id": 113935831,
+      "version": 12,
+      "timestamp": "2019-11-18T21:14:33Z",
+      "url": "https://www.openstreetmap.org/way/113935831"
+    },
+    {
+      "type": "way",
+      "id": 99409025,
+      "version": 14,
+      "timestamp": "2019-11-18T21:14:33Z",
+      "url": "https://www.openstreetmap.org/way/99409025"
+    },
+    {
+      "type": "way",
+      "id": 99409023,
+      "version": 11,
+      "timestamp": "2019-11-18T21:14:33Z",
+      "url": "https://www.openstreetmap.org/way/99409023"
+    },
+    {
+      "type": "way",
+      "id": 132509494,
+      "version": 7,
+      "timestamp": "2019-11-18T21:14:33Z",
+      "url": "https://www.openstreetmap.org/way/132509494"
+    },
+    {
+      "type": "way",
+      "id": 108039685,
+      "version": 12,
+      "timestamp": "2019-11-18T21:14:33Z",
+      "url": "https://www.openstreetmap.org/way/108039685"
+    },
+    {
+      "type": "way",
+      "id": 597969178,
+      "version": 4,
+      "timestamp": "2019-11-18T21:14:33Z",
+      "url": "https://www.openstreetmap.org/way/597969178"
+    },
+    {
+      "type": "way",
+      "id": 597969179,
+      "version": 3,
+      "timestamp": "2019-11-18T21:14:33Z",
+      "url": "https://www.openstreetmap.org/way/597969179"
+    },
+    {
+      "type": "way",
+      "id": 597969171,
+      "version": 3,
+      "timestamp": "2019-11-18T21:14:33Z",
+      "url": "https://www.openstreetmap.org/way/597969171"
+    },
+    {
+      "type": "way",
+      "id": 111215896,
+      "version": 14,
+      "timestamp": "2019-11-18T21:14:33Z",
+      "url": "https://www.openstreetmap.org/way/111215896"
+    },
+    {
+      "type": "way",
+      "id": 108039686,
+      "version": 15,
+      "timestamp": "2019-11-18T21:14:33Z",
+      "url": "https://www.openstreetmap.org/way/108039686"
+    },
+    {
+      "type": "way",
+      "id": 598399296,
+      "version": 4,
+      "timestamp": "2019-11-18T21:14:33Z",
+      "url": "https://www.openstreetmap.org/way/598399296"
+    },
+    {
+      "type": "way",
+      "id": 597969172,
+      "version": 4,
+      "timestamp": "2019-11-18T21:14:33Z",
+      "url": "https://www.openstreetmap.org/way/597969172"
+    },
+    {
+      "type": "way",
+      "id": 265898490,
+      "version": 5,
+      "timestamp": "2019-11-18T21:14:33Z",
+      "url": "https://www.openstreetmap.org/way/265898490"
+    },
+    {
+      "type": "way",
+      "id": 597969174,
+      "version": 4,
+      "timestamp": "2019-11-18T21:14:33Z",
+      "url": "https://www.openstreetmap.org/way/597969174"
+    },
+    {
+      "type": "way",
+      "id": 200375174,
+      "version": 6,
+      "timestamp": "2020-06-28T08:26:06Z",
+      "url": "https://www.openstreetmap.org/way/200375174"
+    }
+  ],
+  "wikidata": "Q1026847",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:View of Incredicoaster and Pixar Pal-A-Round (Disney California Adventure Park) July 2023.JPG",
+      "author": "Benoît Prieur",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:View_of_Incredicoaster_and_Pixar_Pal-A-Round_(Disney_California_Adventure_Park)_July_2023.JPG",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Incredicoaster & Pixar Pal-A-Round (Disney) July 2023.JPG",
+      "author": "Benoît Prieur",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Incredicoaster_%26_Pixar_Pal-A-Round_(Disney)_July_2023.JPG",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Incredicoaster.jpg",
+      "author": "Mignon Pelletier",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Incredicoaster.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Pixar Pier (31653565838).jpg",
+      "author": "Mignon Pelletier from Ventura, CA, USA",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Pixar_Pier_(31653565838).jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Incredicoaster (31653564558).jpg",
+      "author": "Mignon Pelletier from Ventura, CA, USA",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Incredicoaster_(31653564558).jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Disney California Adventure (51241258541).jpg",
+      "author": "Jeremy Thompson from Los Angeles, California",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Disney_California_Adventure_(51241258541).jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Disney California Adventure (51240588787).jpg",
+      "author": "Jeremy Thompson from Los Angeles, California",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Disney_California_Adventure_(51240588787).jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:IncrediCoaster station.jpg",
+      "author": "Jeremy Thompson",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:IncrediCoaster_station.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Incredicoaster 2 2023-06-03.jpeg",
+      "author": "FASTILY",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Incredicoaster_2_2023-06-03.jpeg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/dlr-incredicoaster.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Incredicoaster (California Screamin' until 2018), Disney California Adventure, Anaheim: procedural, CC0-1.0. bun generators/dlr-incredicoaster.ts (REPORT=1 for the element table)",
+    "Built with ./coaster-kit.ts. Map frame: x east, y north, z up, metres; bearing 0. The park frame is equirectangular about 33.805 N, 117.920 W (`origin`), and the model's origin is the middle of the track's footprint (ANCHOR) on the ground. The ground is taken as flat: the pier is level and Paradise Bay's water is the map's.",
+    "Plan (OSM, exact where tagged): the chain of `roller_coaster=track` ways in ride order from the station exit, 1,566 m of polyline (published track 1,851 m). The station has two loading tracks; the circuit takes the western one (way/108039685 …), and the eastern one (way/108039686 …) is drawn as a level stub beside it. The `service=siding` spurs to the train shed are left out, and so is the shed. The OSM trace draws the vertical loop as a zigzag (way/265898491, `note=loop`); the kit draws the loop over its own window.",
+    "Published (Wikipedia, RCDB 731, Coasterpedia): Intamin/Stengel, 2001; 6,072 ft of track; 120 ft high; 108 ft drop; 55 mph, reached by the LIM launch (0–55 mph in 4 s) and again at the foot of the drop; one vertical loop; an LIM-driven (not chain) lift midway; four mid-course block brakes; white track and supports, oxide-red \"scream tubes\" (2018).",
+    "Ride order and where it sits on the plan (s = metres along the OSM polyline, and % of it):",
+    "station, left turn west s 0–20 (0–1%) LIM launch along Paradise Bay s 40–140 (3–9%), at water level first hill, in a red tube s 147–208 (9–13%), steep climb, crest about s 185 dive right, block brake 1 s 272–318 (17–20%), the north leg at the west end sweeping right turn, left turn s 320–440 (20–28%), low, under the outbound track LIM lift, red tube over its top s 455–528 (29–34%), crest 120 ft drop, 108 ft foot about s 572 (37%) right-hand 3/4 turn, raised s 600–714 (38–46%), over the later spiral vertical loop s 775–845 window (49–54%), beside the lift block brake 2, third tube s 855–925 (55–59%) right turn, block brake 3 s 925–1150 (59–73%) two bunny hops over Midway Mania s 1150–1230 (73–79%) block brake 4, 270° spiral down s 1235–1385 (79–88%), left-handed, under the 3/4 turn last hop, left turns, brakes s 1390–1525 (89–97%)",
+    "Heights: the lift crest and drop are published; the rest were estimated from the photos below (fitted cameras from their GPS and compass tags) and checked against the energy left. See the profile's comments; the first hill, the loop and the 3/4 turn are measured, the brake runs and hops are estimates.",
+    "Identifying features: the white lattice structure (drawn as the kit's trestle, broad walls with large openings, per STYLE.md's \"never lattice\"), the white track, the red scream tubes over the first hill, over the lift's crest and after the loop, and the gold disc behind the loop. The disc carried a Mickey head until 2009 and a sunburst until 2018; since 2018 it is the gold Pixar Pier emblem (photos 2018 and 2023), drawn here as a plain gold disc with a red centre band, without lettering.",
+    "Photos (Wikimedia Commons):",
+    "\"View of Incredicoaster and Pixar Pal-A-Round (Disney California Adventure Park) July 2023.JPG\" and \"… July 2023 (2).JPG\", \"View of Incredicoaster Start & Pixar Pal-A-Round … July 2023.jpg\", \"Incredicoaster & Pixar Pal-A-Round (Disney) July 2023.JPG\": Benoît Prieur, CC0 (iPhone, GPS).",
+    "\"Incredicoaster.jpg\", \"Pixar Pier (31653565838).jpg\", \"Incredicoaster (31653564558).jpg\": Mignon Pelletier, CC BY-SA 2.0.",
+    "\"Disney California Adventure (51241258541).jpg\", \"Disney California Adventure (51240588787).jpg\", \"IncrediCoaster station.jpg\": Jeremy Thompson, CC BY 2.0.",
+    "\"Incredicoaster 2 2023-06-03.jpeg\": FASTILY, CC BY-SA 4.0.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"dlr-incredicoaster\", model \"dlr-incredicoaster\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/dlr-incredicoaster.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

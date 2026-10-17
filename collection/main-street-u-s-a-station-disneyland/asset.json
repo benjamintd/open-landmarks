@@ -1,0 +1,236 @@
+{
+  "id": "main-street-u-s-a-station-disneyland",
+  "name": "Main Street, U.S.A. Station",
+  "anchor": [
+    -117.91896,
+    33.809971
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 75644,
+      "sha256": "7deb92aaf3863d7ad4223ec2c774da141082f237dfb24dfc1a5a1ef02f0bf3b4"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 75644,
+      "sha256": "7deb92aaf3863d7ad4223ec2c774da141082f237dfb24dfc1a5a1ef02f0bf3b4"
+    }
+  },
+  "triangles": 1487,
+  "boundsBlenderM": [
+    [
+      -25.57,
+      -4.27,
+      0
+    ],
+    [
+      26.63,
+      4.32,
+      17.5
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -117.9190472,
+          33.8099842
+        ],
+        [
+          -117.9190474,
+          33.8100077
+        ],
+        [
+          -117.918994,
+          33.810008
+        ],
+        [
+          -117.918994,
+          33.8100018
+        ],
+        [
+          -117.9189568,
+          33.8100019
+        ],
+        [
+          -117.9189064,
+          33.8100021
+        ],
+        [
+          -117.9189064,
+          33.8099895
+        ],
+        [
+          -117.918888,
+          33.8099895
+        ],
+        [
+          -117.9188638,
+          33.8099895
+        ],
+        [
+          -117.9188638,
+          33.8099855
+        ],
+        [
+          -117.9188637,
+          33.8099671
+        ],
+        [
+          -117.9188637,
+          33.8099413
+        ],
+        [
+          -117.9188637,
+          33.8099391
+        ],
+        [
+          -117.91889,
+          33.809939
+        ],
+        [
+          -117.9189173,
+          33.809939
+        ],
+        [
+          -117.9189173,
+          33.8099426
+        ],
+        [
+          -117.9189935,
+          33.8099423
+        ],
+        [
+          -117.9189935,
+          33.8099404
+        ],
+        [
+          -117.91902,
+          33.8099403
+        ],
+        [
+          -117.9190469,
+          33.8099401
+        ],
+        [
+          -117.9190469,
+          33.8099442
+        ],
+        [
+          -117.9190471,
+          33.8099707
+        ],
+        [
+          -117.9190472,
+          33.8099842
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 153044358,
+    "version": 10,
+    "timestamp": "2024-05-18T06:14:54Z",
+    "url": "https://www.openstreetmap.org/way/153044358"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 651349968,
+      "version": 7,
+      "timestamp": "2026-01-24T21:56:55Z",
+      "url": "https://www.openstreetmap.org/way/651349968"
+    },
+    {
+      "type": "way",
+      "id": 133729166,
+      "version": 10,
+      "timestamp": "2024-12-19T00:35:35Z",
+      "url": "https://www.openstreetmap.org/way/133729166"
+    },
+    {
+      "type": "way",
+      "id": 133729165,
+      "version": 13,
+      "timestamp": "2026-01-24T21:56:55Z",
+      "url": "https://www.openstreetmap.org/way/133729165"
+    },
+    {
+      "type": "way",
+      "id": 133729164,
+      "version": 10,
+      "timestamp": "2024-12-19T00:35:35Z",
+      "url": "https://www.openstreetmap.org/way/133729164"
+    },
+    {
+      "type": "way",
+      "id": 193657779,
+      "version": 8,
+      "timestamp": "2016-09-20T07:24:49Z",
+      "url": "https://www.openstreetmap.org/way/193657779"
+    },
+    {
+      "type": "way",
+      "id": 443327358,
+      "version": 2,
+      "timestamp": "2021-03-12T18:33:50Z",
+      "url": "https://www.openstreetmap.org/way/443327358"
+    },
+    {
+      "type": "way",
+      "id": 193657781,
+      "version": 5,
+      "timestamp": "2026-01-24T21:56:55Z",
+      "url": "https://www.openstreetmap.org/way/193657781"
+    },
+    {
+      "type": "way",
+      "id": 193657780,
+      "version": 5,
+      "timestamp": "2026-01-24T21:56:55Z",
+      "url": "https://www.openstreetmap.org/way/193657780"
+    }
+  ],
+  "wikidata": "Q68588348",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/dlr-main-street-station.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Main Street, U.S.A. Station (Disneyland Railroad), Disneyland Park, Anaheim — procedural, CC0-1.0. bun generators/dlr-main-street-station.ts",
+    "Map frame: x east, y north, z up, metres. Origin at the area centroid of the OSM outline way/153044358 (-117.918960, 33.809971). Bearing 0: the station's long side runs east–west along the railroad berm. The track and platform are on the SOUTH side, facing the entrance esplanade and the floral Mickey; Town Square is to the north. (Not the north, as one might guess from the WDW station: OSM's platform, track and the floral Mickey hedge all lie south of the building, and the photos agree.)",
+    "A small Second Empire depot, asymmetric, with forced perspective in its upper levels: a one-storey red-brick block under a tan fish-scale shingle mansard with three dormers, a taller mansard pavilion at the west end, and the two-storey brick clock tower at the east end under a steep shingle pyramid with cream hip rolls, a clock in a cream frame on the north and south faces, an iron crown and the flagpole. Cream quoins, cornices and window hoods; the \"DISNEYLAND / Population / Elevation 138 feet\" board over the south front (a plain cream board here). Low shingle-roofed platform canopies run off both ends to the tunnels, with small gablets.",
+    "Ground: the station stands on the railroad berm, which is earth and is in the bare-earth terrain (USGS 3DEP point queries: 44.5–44.8 m along the berm top under the whole footprint, against 41.8 m in Town Square and 41.2 m on the esplanade). So y = 0 is the berm top, the station and canopy floor, and the model does NOT include the berm, the Town Square terrace and its retaining walls and stairs, the grass slope or the floral Mickey. Its footprint (x −25.6…26.6, y −4.1…4.2) stays on the berm top between the two tunnels, so the lowest ground under it is the berm, not the plazas.",
+    "Evidence: - OSM, measured: the outline way/153044358 (17.0 × 7.6 m, h 7), its parts — west pavilion way/651349968 (h 8.2) and way/133729166 (h 8.2), the tower way/133729165 (h 9.5) with way/133729164 inside it (h 10.4) — the canopies way/193657779 and way/443327358 (building=roof, h 3.5) with the parts way/193657781 and way/193657780 under them, the platform (way/133729104, y −4.6) and track (way/176242740, y −6.5), and the two clock nodes at x 6.6 on the north and south faces, which put the tower at the east end. - Photos: south front with a long lens (Benoît Prieur, CC0, 2022) for every proportion and height; south front (Adam Smith, CC BY 2.0; Boris Dzhingarov, CC BY 2.0); south-west (Jonnyboyca, PD; Bryan Gosline, CC BY-SA 2.0); the Town Square side (Jonnyboyca, PD; HarshLight, CC BY 2.0; Dlrrmainstreet.JPG, PD); colours from the daylight shots. - Published: Wikipedia, Disneyland Railroad — Second Empire, with forced perspective in the upper levels.",
+    "Heights are estimated from the CC0 long-lens photo, scaled on OSM's 17 m length and checked against the doors (~2.4 m) and OSM's tags: pavilion cornice 4.8 m, pavilion mansard 7.9 m (cresting 8.35, OSM 8.2), main eave 3.5 m and mansard 6.6 m (cresting 6.95, OSM 7), tower cornice 8.4 m, roof apex 13.1 m, crown 13.75 m, flagpole ~17.5 m. The photo alone gave the mansards ~0.4 m lower; they were raised to OSM's heights after comparing the roof-to-wall ratio in the north photos. The floor line is hidden by the hedge in every south photo, so all heights share a ~0.3 m doubt. The bay widths (pavilion 4.4 m, middle 8 m, tower 4.6 m) are the photo's ratios on OSM's length. The north face follows OSM's outline (tower face set back 1.5 m); its porch is a cream entablature on four posts over two window panels. The tower is 4.6 × 5.4 m after OSM; no photo shows its depth squarely. The canopies are the OSM roofs' rectangles at 2.55 m eaves and a 3.45 m ridge (OSM 3.5). Invented: the canopy post spacing, the gablets on the canopies' north slopes, the dormer depths, the west-face pavilion dormer's exact size. Left out: the pavilion's flagpole, the tower balcony, the bunting, and the handcar on its siding.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"dlr-main-street-station\", model \"dlr-main-street-station\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/dlr-main-street-station.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

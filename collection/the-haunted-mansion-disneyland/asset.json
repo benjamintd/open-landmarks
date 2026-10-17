@@ -1,0 +1,299 @@
+{
+  "id": "the-haunted-mansion-disneyland",
+  "name": "The Haunted Mansion",
+  "anchor": [
+    -117.9221698,
+    33.8117211
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 118080,
+      "sha256": "39502ec4a5ae1ab9f1cbac1183b76a925fe3e9594c7da2e84d2a170486b042fb"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 118080,
+      "sha256": "39502ec4a5ae1ab9f1cbac1183b76a925fe3e9594c7da2e84d2a170486b042fb"
+    }
+  },
+  "triangles": 2543,
+  "boundsBlenderM": [
+    [
+      -12.342,
+      -12.323,
+      0
+    ],
+    [
+      12.732,
+      12.457,
+      22.15
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -117.9222327,
+          33.8116579
+        ],
+        [
+          -117.9222242,
+          33.8116467
+        ],
+        [
+          -117.9221972,
+          33.8116607
+        ],
+        [
+          -117.9221899,
+          33.8116531
+        ],
+        [
+          -117.9221775,
+          33.8116387
+        ],
+        [
+          -117.9221727,
+          33.8116326
+        ],
+        [
+          -117.9221701,
+          33.8116293
+        ],
+        [
+          -117.9221188,
+          33.8116575
+        ],
+        [
+          -117.9221116,
+          33.8116615
+        ],
+        [
+          -117.9221031,
+          33.8116661
+        ],
+        [
+          -117.9220887,
+          33.8116741
+        ],
+        [
+          -117.922067,
+          33.811686
+        ],
+        [
+          -117.9220519,
+          33.8116941
+        ],
+        [
+          -117.9220747,
+          33.811723
+        ],
+        [
+          -117.9220593,
+          33.8117314
+        ],
+        [
+          -117.922063,
+          33.811736
+        ],
+        [
+          -117.9220679,
+          33.811742
+        ],
+        [
+          -117.9220717,
+          33.8117467
+        ],
+        [
+          -117.9220756,
+          33.8117516
+        ],
+        [
+          -117.9220795,
+          33.8117563
+        ],
+        [
+          -117.9220823,
+          33.8117598
+        ],
+        [
+          -117.9220857,
+          33.811764
+        ],
+        [
+          -117.9220915,
+          33.811772
+        ],
+        [
+          -117.9220988,
+          33.8117815
+        ],
+        [
+          -117.922112,
+          33.8117744
+        ],
+        [
+          -117.9221354,
+          33.8118053
+        ],
+        [
+          -117.922141,
+          33.8118112
+        ],
+        [
+          -117.9221498,
+          33.8118064
+        ],
+        [
+          -117.9221694,
+          33.8117957
+        ],
+        [
+          -117.9221872,
+          33.811786
+        ],
+        [
+          -117.9221952,
+          33.8117962
+        ],
+        [
+          -117.9222213,
+          33.8117833
+        ],
+        [
+          -117.922284,
+          33.8117486
+        ],
+        [
+          -117.9222976,
+          33.8117411
+        ],
+        [
+          -117.9222887,
+          33.81173
+        ],
+        [
+          -117.922238,
+          33.8116668
+        ],
+        [
+          -117.9222327,
+          33.8116579
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 178238274,
+    "version": 14,
+    "timestamp": "2024-12-19T21:23:02Z",
+    "url": "https://www.openstreetmap.org/way/178238274"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 122193484,
+      "version": 9,
+      "timestamp": "2024-10-08T11:59:01Z",
+      "url": "https://www.openstreetmap.org/way/122193484"
+    },
+    {
+      "type": "way",
+      "id": 122193472,
+      "version": 8,
+      "timestamp": "2024-10-08T11:59:01Z",
+      "url": "https://www.openstreetmap.org/way/122193472"
+    }
+  ],
+  "wikidata": "Q2030983",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Haunted Mansion July 4.jpg",
+      "author": "Alfred A. Si",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Haunted_Mansion_July_4.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Haunted_Mansion_July_4.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Haunted Mansion Exterior.JPG",
+      "author": "SolarSurfer",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Haunted_Mansion_Exterior.JPG",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Haunted_Mansion_Exterior.JPG",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Haunted Mansion at Disneyland July 2022.jpg",
+      "author": "Benoît Prieur",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Haunted_Mansion_at_Disneyland_July_2022.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Haunted Mansion, Disneyland 2002.jpg",
+      "author": "The original uploader was Rabit at English Wikipedia.",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Haunted_Mansion,_Disneyland_2002.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Haunted Mansion (28772701926).jpg",
+      "author": "Theme Park Tourist",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Haunted_Mansion_(28772701926).jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Haunted house in Disneyland.jpg",
+      "author": "Davric",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Haunted_house_in_Disneyland.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/dlr-haunted-mansion.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "The Haunted Mansion, New Orleans Square, Disneyland Park (Anaheim) — procedural, CC0-1.0. bun generators/dlr-haunted-mansion.ts",
+    "Map frame, turned: x along the mansion's front, y back from it, z up, metres. Placed at bearing 327°, the axis of the OSM facade part (its edges run at 56.9° / 326.9°), so the front faces 147° (SSE), over the lawn and the queue. The origin is the area centroid of the facade part way/178238274 (-117.9221698, 33.8117211), on the ground.",
+    "Only the facade house is modelled. Since 1963 it has stood in front of the railroad berm; the ride runs in a show building outside the berm, reached by the Stretching Room elevator and a tunnel under the tracks. OSM draws house and show building as one outline (way/178254960, h=6), which the model cannot replace; the map keeps drawing it, so the model's ground storey is closed and sits just outside the facade part's edges, hiding the outline's 6 m box where the house stands.",
+    "A white antebellum house (Ken Anderson's design after the Shipley-Lydecker house in Baltimore): a two-storey cast-iron gallery in sage green lace round the front and sides, a giant tetrastyle portico with a pediment in the middle of the front, an attic storey with green-shuttered windows and a deep bracketed cornice, a low hipped roof with a flat deck ringed by white iron cresting, four red brick chimneys, and a square cupola with an arched window on each face, a bracketed eave, a low pyramid roof and a weather vane.",
+    "Evidence: - OSM, measured: the facade part way/178238274 (17.8 × 16.8 m in this frame), its main-block part way/122193484 (h=6.2) and a round part way/122193472 (Ø 4.2 m, h=6.8) a little ahead of the house's centre, taken as the cupola's position. OSM's heights are far too low against every photo and are not followed. - Published (Wikipedia, \"The Haunted Mansion\"): antebellum mansion based on the Shipley-Lydecker house; facade finished 1963, ride opened 9 Aug 1969; Stretching Room elevator and tunnel under the railroad berm. - Photos (Wikimedia Commons): front-left three-quarter, \"Haunted Mansion July 4.jpg\" (Alfred A. Si, public domain) and \"Haunted Mansion Exterior.JPG\" (SolarSurfer, public domain); near-frontal, \"Haunted Mansion at Disneyland July 2022.jpg\" (Benoît Prieur, CC0) and \"Haunted Mansion, Disneyland 2002.jpg\" (Rabit, CC BY-SA 3.0); front-right, \"Haunted Mansion (28772701926).jpg\" (Theme Park Tourist, CC BY 2.0) and \"Haunted house in Disneyland.jpg\" (Davric, CC BY-SA 4.0). - Heights scaled from the near-frontal 2002 photo on the portico's columns, the portico taken as 7 m wide (4 columns, the front split gallery : portico : gallery ≈ 0.31 : 0.39 : 0.31 in the 2022 photo, across OSM's 17.8 m): columns 8.8 m, attic cornice ≈ 14.5 m, cupola roof ≈ 20.5 m, vane ≈ 22 m.",
+    "Estimated: the gallery's depth (2.5 m), the portico's projection (2 m), every height above (±1 m), the cupola's size and depth on the roof, the chimneys' positions (two each side, from the front-left and front-right photos). Invented: the right-hand side gallery and the back, which no photo shows through the trees; the side galleries are mirrored from the left one. The ground storey of the gallery is drawn closed (iron lace, posts and windows on a wall in the gallery's front plane) so the OSM outline's 6 m block cannot show through it; the upper storey is open. The lace itself is abstracted to posts, arched spandrel panels and a solid balcony band.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"dlr-haunted-mansion\", model \"dlr-haunted-mansion\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/dlr-haunted-mansion.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

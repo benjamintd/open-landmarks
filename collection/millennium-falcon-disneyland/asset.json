@@ -1,0 +1,233 @@
+{
+  "id": "millennium-falcon-disneyland",
+  "name": "Millennium Falcon",
+  "anchor": [
+    -117.9212519,
+    33.8150244
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 70572,
+      "sha256": "36c8cff6bcc572dc6251a51e37d6f29bb878f1d926bff870fcf73651c63ff782"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 70572,
+      "sha256": "36c8cff6bcc572dc6251a51e37d6f29bb878f1d926bff870fcf73651c63ff782"
+    }
+  },
+  "triangles": 2008,
+  "boundsBlenderM": [
+    [
+      -11.472,
+      -17.58,
+      0
+    ],
+    [
+      16.278,
+      11.472,
+      7.728
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -117.9213631,
+          33.8149788
+        ],
+        [
+          -117.9213783,
+          33.815013
+        ],
+        [
+          -117.9213774,
+          33.8150226
+        ],
+        [
+          -117.9213685,
+          33.8150256
+        ],
+        [
+          -117.9213792,
+          33.8150375
+        ],
+        [
+          -117.9213694,
+          33.8150605
+        ],
+        [
+          -117.9213542,
+          33.8150872
+        ],
+        [
+          -117.9213229,
+          33.8151102
+        ],
+        [
+          -117.9212852,
+          33.8151279
+        ],
+        [
+          -117.9212541,
+          33.8151333
+        ],
+        [
+          -117.9212532,
+          33.8151244
+        ],
+        [
+          -117.9212084,
+          33.8151155
+        ],
+        [
+          -117.9211919,
+          33.8151125
+        ],
+        [
+          -117.9211668,
+          33.8150965
+        ],
+        [
+          -117.9211405,
+          33.8150694
+        ],
+        [
+          -117.9211191,
+          33.8150166
+        ],
+        [
+          -117.9211154,
+          33.8149766
+        ],
+        [
+          -117.9211117,
+          33.8149563
+        ],
+        [
+          -117.9210958,
+          33.8149148
+        ],
+        [
+          -117.9211066,
+          33.8149075
+        ],
+        [
+          -117.9211309,
+          33.8149303
+        ],
+        [
+          -117.921146,
+          33.8149188
+        ],
+        [
+          -117.9211582,
+          33.8149105
+        ],
+        [
+          -117.9211341,
+          33.8148891
+        ],
+        [
+          -117.9211432,
+          33.814883
+        ],
+        [
+          -117.9211873,
+          33.814895
+        ],
+        [
+          -117.9212091,
+          33.8148868
+        ],
+        [
+          -117.9212422,
+          33.814882
+        ],
+        [
+          -117.9212509,
+          33.814893
+        ],
+        [
+          -117.9212576,
+          33.8148867
+        ],
+        [
+          -117.9212951,
+          33.8149105
+        ],
+        [
+          -117.9213211,
+          33.8149313
+        ],
+        [
+          -117.9213151,
+          33.8149338
+        ],
+        [
+          -117.9213452,
+          33.8149625
+        ],
+        [
+          -117.9213533,
+          33.8149573
+        ],
+        [
+          -117.9213631,
+          33.8149788
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 1329137052,
+    "version": 2,
+    "timestamp": "2024-10-29T17:06:03Z",
+    "url": "https://www.openstreetmap.org/way/1329137052"
+  },
+  "additionalOsm": [],
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/dlr-millennium-falcon.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "The Millennium Falcon, Star Wars: Galaxy's Edge, Disneyland Park, Anaheim — procedural, CC0-1.0. bun generators/dlr-millennium-falcon.ts",
+    "Map frame: x to the ship's starboard, y forward along the mandibles, z up, metres; the origin is the centre of the round hull on the ground. Placed at bearing 139°: the mandibles point south-east into the land's courtyard, the cockpit is on the south-west side, nearest the Smugglers Run entrance tower, and the stern backs into the curved docking-bay wall of Smugglers Run's show building (way/515673763). The same full-size replica as Walt Disney World's, so the shape follows wdw-millennium-falcon.ts; the position, heading and length are Anaheim's.",
+    "Evidence",
+    "OSM way/1329137052 (building=yes, \"Millennium Falcon\"): a hand trace. A circle fitted to its round side gives the hull centre (1.1 m west, 3.8 m north of the trace's centroid) and radius 11.5 m; its two narrow prongs, 3.3 m apart, are the mandibles' inner edges and give the heading (139°) and the tips 18.6 m ahead of the centre; its bulge on the south-west side is the cockpit and the starboard docking port.",
+    "USGS NAIP orthophoto (public domain): the disc, and the dark slot between the mandibles, which lies on the 139° axis.",
+    "Published: Disney calls it full size (the screen ship is 34.75 m long); the trace and the aerial give 30 m, the same as WDW's (30.7 m).",
+    "Photos, Commons: elisfkc (CC BY-SA 2.0; 48512021956, 48512181117, 48512183242, 48511999506, 48511997671 and two panoramas), Laika ac (CC BY-SA 2.0; \"Disneyland - Star Wars Galaxy's Edge (Disneyland) 01\", \"Star War Galaxy's Edge (Disneyland) 02\"), .kit (CC BY 2.0; 48390063722, 48389923561), Christopher Michel (CC BY 2.0; 48856991881), Tomás Del Coro (CC BY-SA 2.0; 48537418942, head-on between the mandibles), Jeremy Thompson (CC BY 2.0; 49590453018, the underside and gear), Univaded Fox (public domain; Phonetography 162, 163), Contributor19 (CC BY 4.0; \"Galaxy's Edge, Disneyland\"); Mapillary 1582830536335484 (DrivingRoundTown, CC BY-SA 4.0). They show the courtyard (south-west, south and east) sides: mandibles towards the courtyard, the cockpit and the big round starboard docking port beside it, the rectangular dish and the turret on top, and the gear standing in a sunken pit behind barriers. Heights are WDW's, which these photos agree with: underside about 2.3 m up, rim 3.2–4.7 m, top 6.1 m.",
+    "Estimated: the underside (seen only in shadow), the leg positions and the dish's exact place, which follow the screen ship; the north-east (port) side and the stern, which only the Smugglers Run queue overlooks (two photos of the top from there). The docking ports' size is scaled from the cockpit tube beside it. The cockpit sits further forward than in wdw-millennium-falcon.ts (canopy 11.4 m ahead of the hull centre, not 6.6 m), following the trace's bulge and the courtyard photos, where the docking port stands just behind the cockpit's tail. Invented: nothing, but the hull's greebles are reduced to a darker machinery band round the rim and down the mandibles' sides, and the panel work to a few darker patches. The docking-bay wall, gantry and pit are Smugglers Run's building, not modelled here.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"dlr-millennium-falcon\", model \"dlr-millennium-falcon\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/dlr-millennium-falcon.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 6 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the dlr-millennium-falcon-glazing finish in the window colour."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

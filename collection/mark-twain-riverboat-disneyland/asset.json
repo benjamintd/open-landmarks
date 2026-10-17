@@ -1,0 +1,200 @@
+{
+  "id": "mark-twain-riverboat-disneyland",
+  "name": "Mark Twain Riverboat",
+  "anchor": [
+    -117.920704,
+    33.812227
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 101784,
+      "sha256": "6a137ffd225f1300329335088ce8c753b7eacdff098760864ff78f32f0b06f4b"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 101784,
+      "sha256": "6a137ffd225f1300329335088ce8c753b7eacdff098760864ff78f32f0b06f4b"
+    }
+  },
+  "triangles": 2196,
+  "boundsBlenderM": [
+    [
+      -4.63,
+      -17.68,
+      0
+    ],
+    [
+      4.63,
+      19.45,
+      19.75
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -117.9207541,
+          33.8121542
+        ],
+        [
+          -117.9207523,
+          33.812145
+        ],
+        [
+          -117.9207463,
+          33.8121267
+        ],
+        [
+          -117.9207364,
+          33.8121106
+        ],
+        [
+          -117.9207054,
+          33.8120682
+        ],
+        [
+          -117.9207026,
+          33.8120682
+        ],
+        [
+          -117.9206716,
+          33.8121106
+        ],
+        [
+          -117.9206617,
+          33.8121267
+        ],
+        [
+          -117.9206557,
+          33.812145
+        ],
+        [
+          -117.9206539,
+          33.8121542
+        ],
+        [
+          -117.9206539,
+          33.8123647
+        ],
+        [
+          -117.9206651,
+          33.8124013
+        ],
+        [
+          -117.920671,
+          33.8124017
+        ],
+        [
+          -117.920737,
+          33.8124017
+        ],
+        [
+          -117.9207429,
+          33.8124013
+        ],
+        [
+          -117.9207541,
+          33.8123647
+        ],
+        [
+          -117.9207541,
+          33.8121542
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "node",
+    "id": 3986974002,
+    "version": 2,
+    "timestamp": "2023-10-14T19:52:45Z",
+    "url": "https://www.openstreetmap.org/node/3986974002"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q3006137",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:MarkTwainRiverboat50th.jpg",
+      "author": "User:Jonnyboyca",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:MarkTwainRiverboat50th.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:MarkTwainRiverboat50th.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Mark Twain Riverboat.JPG",
+      "author": "SolarSurfer",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Mark_Twain_Riverboat.JPG",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Mark_Twain_Riverboat.JPG",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Raderboot disneyland.jpg",
+      "author": "Quistnix at Dutch Wikipedia",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Raderboot_disneyland.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Mark Twain Riverboat July 2022.jpg",
+      "author": "Benoît Prieur",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Mark_Twain_Riverboat_July_2022.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Mark Twain padel wheel - Disneyland-1985-3b.jpg",
+      "author": "Figaro at English Wikipedia",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Mark_Twain_padel_wheel_-_Disneyland-1985-3b.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Mark_Twain_padel_wheel_-_Disneyland-1985-3b.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/dlr-mark-twain.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "The Mark Twain Riverboat, Rivers of America, Disneyland Park (Anaheim) — procedural, CC0-1.0. bun generators/dlr-mark-twain.ts",
+    "Model frame: x across the beam, y along the boat with the bow at +y, z up, metres; the origin is amidships on the waterline. Placed at bearing 180, bow south, lying at the Frontierland Landing as she does between trips.",
+    "What it is: a 5/8-scale stern-wheel steamboat (1955), white, three decks: the main deck (engine room aft, open forward), the boiler deck with its saloon and gingerbread gallery, the hurricane deck with the texas cabin and the pilot house; twin black stacks with gold bands, flared collars and feathered crowns side by side ahead of the pilot house, the gilt spreader between them; the dark stern wheel behind the name bulkhead; a low dark hull with a fine bow, the jackstaff mast and the stage boom over the bow.",
+    "It moves; OSM has no building for it, so it replaces nothing. The stern wheel is its own node about the axle (static here), so it can turn later.",
+    "Evidence",
+    "Published (Wikipedia, \"Disney riverboats\"): 105 ft (32 m) hull, 5/8 scale, three passenger levels, draws 18 in, 300 passengers.",
+    "OSM (measured): the Mark Twain's guide-rail route way/117604594 (relation/16491364) runs south along the Frontierland Landing pier (way/202045455, way/146430146); the boat's centreline is put on it, heading 180, centred on the landing.",
+    "Photos: broadside, bow right (Jonnyboyca, \"MarkTwainRiverboat50th.jpg\", public domain); bow three-quarter (SolarSurfer, \"Mark Twain Riverboat.JPG\", public domain); stern three-quarter and the wheel (Quistnix, \"Raderboot disneyland.jpg\" and \"...schoepenrad.jpg\", CC BY-SA 3.0); bow-on at the landing (Benoît Prieur, \"Mark Twain Riverboat July 2022.jpg\", CC0); stern (Figaro, \"Mark Twain padel wheel - Disneyland-1985-3b.jpg\", public domain); the crowns from below (HarshLight, Flickr, CC BY 2.0).",
+    "Estimated from the broadside photo scaled on the 32 m hull: main deck 1.05 m, boiler deck 3.95 m, hurricane deck 6.9 m, texas roof 9.3 m, pilot house roof 11.6 m, stack crowns 19-19.8 m; beam over the guards ~9 m (not published; from the bow-on photos); wheel ~4 m across, ~6 m wide.",
+    "Invented or simplified: the deck plans' rounded fronts, the cabins' window rhythm, the gingerbread (solid white railing bands and posts), the crest on the pilot house, the hull's lines below the water. The wheel is dark, as every photo shows, not red.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"dlr-mark-twain\", model \"dlr-mark-twain\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/dlr-mark-twain.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

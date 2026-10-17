@@ -1,0 +1,297 @@
+{
+  "id": "space-mountain-disneyland",
+  "name": "Space Mountain",
+  "anchor": [
+    -117.9174999,
+    33.8109694
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 148560,
+      "sha256": "e371fc17a36050e765be6093497e7266489484f60ec4fb2925f7e9d9f5dac0ce"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 148560,
+      "sha256": "e371fc17a36050e765be6093497e7266489484f60ec4fb2925f7e9d9f5dac0ce"
+    }
+  },
+  "triangles": 2882,
+  "boundsBlenderM": [
+    [
+      -33.6,
+      -33.6,
+      0
+    ],
+    [
+      33.6,
+      33.6,
+      36.5
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -117.9175213,
+          33.8112635
+        ],
+        [
+          -117.9174354,
+          33.8112624
+        ],
+        [
+          -117.9173697,
+          33.8112468
+        ],
+        [
+          -117.9173,
+          33.8112145
+        ],
+        [
+          -117.917245,
+          33.8111799
+        ],
+        [
+          -117.9171954,
+          33.8111264
+        ],
+        [
+          -117.9171619,
+          33.811064
+        ],
+        [
+          -117.9171471,
+          33.8110295
+        ],
+        [
+          -117.9171458,
+          33.8109771
+        ],
+        [
+          -117.9171565,
+          33.8108935
+        ],
+        [
+          -117.9171785,
+          33.8108348
+        ],
+        [
+          -117.9171959,
+          33.8108081
+        ],
+        [
+          -117.917216,
+          33.8107825
+        ],
+        [
+          -117.9172737,
+          33.8107424
+        ],
+        [
+          -117.917326,
+          33.8107089
+        ],
+        [
+          -117.917393,
+          33.8106811
+        ],
+        [
+          -117.9174427,
+          33.8106755
+        ],
+        [
+          -117.9175097,
+          33.8106759
+        ],
+        [
+          -117.9175834,
+          33.8106805
+        ],
+        [
+          -117.9176378,
+          33.810697
+        ],
+        [
+          -117.917709,
+          33.8107276
+        ],
+        [
+          -117.9177625,
+          33.8107696
+        ],
+        [
+          -117.9178061,
+          33.8108103
+        ],
+        [
+          -117.9178289,
+          33.8108504
+        ],
+        [
+          -117.9178468,
+          33.8109053
+        ],
+        [
+          -117.9178551,
+          33.8109706
+        ],
+        [
+          -117.9178539,
+          33.8110195
+        ],
+        [
+          -117.9178338,
+          33.8110774
+        ],
+        [
+          -117.9177962,
+          33.8111465
+        ],
+        [
+          -117.9177436,
+          33.8111915
+        ],
+        [
+          -117.9176943,
+          33.8112167
+        ],
+        [
+          -117.9176326,
+          33.8112423
+        ],
+        [
+          -117.9175213,
+          33.8112635
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 122090695,
+    "version": 41,
+    "timestamp": "2024-10-08T11:44:45Z",
+    "url": "https://www.openstreetmap.org/way/122090695"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 122090687,
+      "version": 6,
+      "timestamp": "2024-09-20T03:09:27Z",
+      "url": "https://www.openstreetmap.org/way/122090687"
+    },
+    {
+      "type": "way",
+      "id": 122090694,
+      "version": 5,
+      "timestamp": "2024-09-20T03:09:27Z",
+      "url": "https://www.openstreetmap.org/way/122090694"
+    },
+    {
+      "type": "way",
+      "id": 122090693,
+      "version": 5,
+      "timestamp": "2024-09-20T03:09:27Z",
+      "url": "https://www.openstreetmap.org/way/122090693"
+    },
+    {
+      "type": "way",
+      "id": 262351999,
+      "version": 5,
+      "timestamp": "2024-09-20T03:09:27Z",
+      "url": "https://www.openstreetmap.org/way/262351999"
+    }
+  ],
+  "wikidata": "Q7572427",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Space Mountain, Disneyland.jpg",
+      "author": "Contributor19",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Space_Mountain,_Disneyland.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Disneyland Tomorrowland IMG 3983.jpg",
+      "author": "deror_avi",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Disneyland_Tomorrowland_IMG_3983.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Space Mountain Top Platform.JPG",
+      "author": "SolarSurfer",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Space_Mountain_Top_Platform.JPG",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Space_Mountain_Top_Platform.JPG",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Disneyland Aug22 025.jpg",
+      "author": "The original uploader was Lyght at English Wikipedia.",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Disneyland_Aug22_025.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Space Mountain (28099690590).jpg",
+      "author": "HarshLight from San Jose, CA, USA",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Space_Mountain_(28099690590).jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Disneyland (1).jpg",
+      "author": "Jon Sullivan",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Disneyland_(1).jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Disneyland_(1).jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/dlr-space-mountain.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Space Mountain, Disneyland Park (Anaheim), Tomorrowland — procedural, CC0-1.0. bun generators/dlr-space-mountain.ts",
+    "Map frame: x east, y north, z up, metres. Origin at the centre of the round base in OSM (way/122090695, least-squares circle centre -117.9174999, 33.8109694), on the ground. Round, so placed at bearing 0.",
+    "Anaheim's 1977 Space Mountain, smaller than Walt Disney World's and drawn from Anaheim photos only: a round base drum with a white fascia ring; a white cone ribbed by 30 broad concrete beams that run from the fascia to a flared collar lip; above the collar, a steeper ribbed band under a broad second lip, then a low saucer tier; six pairs of spires, each pair two adjacent ribs carried on up past the collar as tapering blades; and a tripod mast with a central antenna, standing off-centre on the top.",
+    "Evidence: - OSM, measured: five concentric building:parts, circle-fitted — way/122090695 (the base, r 33.0 m, tagged h 11.5, attraction= roller_coaster, building:colour white), way/122090687 (r 12.7 m, h 23, the collar), way/122090694 (r 8.7 m, h 24.5), way/122090693 (r 6.1 m, h 25.4), way/262351999 (r 5.2 m, h 26). Their centres agree to 1.3 m. They sit inside the large Tomorrowland outline way/372931495 (h 10), which this model does not cover and does not replace. OSM has no roller_coaster=track ways for this ride (checked against the API map call and Overpass on 2026-10-07): the track is wholly indoors and unmapped, so `replaces` lists only the five parts. - Published: 118 ft (36 m) tall, about 200 ft (61 m) across (secondary sources, as quoted in the brief); Wikipedia gives the ride's 76 ft lift height and 1977 opening, and RCDB #201 lists it. - Photos (licensed): Contributor19, \"Space Mountain, Disneyland.jpg\" (CC BY 4.0) — telephoto daylight elevation, the tiers, spire pairs and tripod mast; deror_avi, \"Disneyland Tomorrowland IMG 3983.jpg\" (CC BY-SA 3.0) and SolarSurfer, \"Space Mountain Top Platform.JPG\" (public domain) — from the entrance plaza on the north side: rib count and width, the fascia and the recessed band under it; Lyght, \"Disneyland Aug22 025.jpg\" (CC BY-SA 3.0) and HarshLight, \"Space Mountain (28099690590).jpg\" (CC BY 2.0, from the monorail station) — other sides, the spire groups; Jon Sullivan, \"Disneyland (1).jpg\" (public domain) — elevated view from the north-west (2000s bronze paint scheme, now white again). - Look-only: \"Disneyland Anaheim.jpg\" on Commons (CC BY-SA 2.0, no author recorded, a 2004 aerial) for the plan: collar ring about 0.37 of the base diameter, white top.",
+    "Measured from photos (estimated): the cone's slope, about 33 degrees, from the silhouette in Contributor19's telephoto shot, which with the fascia top at 5.8 m (estimated from the north photos) puts the collar lip at 18 to 20 m. The second lip (23.2 to 24 m, r 11.8) and saucer (24.6 to 25.6 m, r 8.4) come from the photos' width ratios, and agree with OSM's inner parts (23, 24.5, 25.4, 26 m). OSM's 23 m on the r 12.7 part is read as the top of the band above the collar, not the collar itself. 30 ribs, from rib spacing at the front of two photos (counts of 26 to 34). Spire tips at 27 m (6.5 to 9 m above the collar by different photos). The mast's legs to 33.8 m and antenna to 36.5 m, matching the published 118 ft. OSM's 11.5 m on the base ring fits nothing in the photos and is ignored.",
+    "Doubts: the spire layout is read as six pairs, 60 degrees apart, from the groups visible in four photos (two face-on, two or three edge-on); the real arrangement may differ, and their angular phase is estimated from the north photo only. Every photo shows the mast about 4.4 m left of centre, but all are taken from the Tomorrowland side (north to west), so its direction (here 4 m towards bearing 70) is estimated. Contributor19 also shows the saucer set a little off-centre; it is kept concentric, as OSM draws it. The entrance wings and queue building belong to way/372931495 and are left to it, as is the east-side service stair. The cone's foot and fascia height have no direct measurement.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"dlr-space-mountain\", model \"dlr-space-mountain\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/dlr-space-mountain.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

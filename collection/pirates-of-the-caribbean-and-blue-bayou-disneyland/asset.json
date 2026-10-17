@@ -1,0 +1,518 @@
+{
+  "id": "pirates-of-the-caribbean-and-blue-bayou-disneyland",
+  "name": "Pirates of the Caribbean and Blue Bayou",
+  "anchor": [
+    -117.920831,
+    33.811236
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 82668,
+      "sha256": "445f0e5b5e5c348dad0d1569c696e7a611f3b03ed55ae79da53f68e6ff25a12b"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 82668,
+      "sha256": "445f0e5b5e5c348dad0d1569c696e7a611f3b03ed55ae79da53f68e6ff25a12b"
+    }
+  },
+  "triangles": 1619,
+  "boundsBlenderM": [
+    [
+      -141.148,
+      -105.249,
+      0
+    ],
+    [
+      13.626,
+      6.92,
+      18.3
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -117.9223552,
+          33.8105799
+        ],
+        [
+          -117.9222674,
+          33.8104846
+        ],
+        [
+          -117.9222281,
+          33.8104451
+        ],
+        [
+          -117.921937,
+          33.810367
+        ],
+        [
+          -117.921915,
+          33.8103611
+        ],
+        [
+          -117.9216838,
+          33.810299
+        ],
+        [
+          -117.9215873,
+          33.8102853
+        ],
+        [
+          -117.9214663,
+          33.8103583
+        ],
+        [
+          -117.9214035,
+          33.8105119
+        ],
+        [
+          -117.9214908,
+          33.8106059
+        ],
+        [
+          -117.9214768,
+          33.8106143
+        ],
+        [
+          -117.9214428,
+          33.8106348
+        ],
+        [
+          -117.9214262,
+          33.8106446
+        ],
+        [
+          -117.921417,
+          33.81065
+        ],
+        [
+          -117.9213633,
+          33.8106831
+        ],
+        [
+          -117.9213147,
+          33.8106288
+        ],
+        [
+          -117.9210653,
+          33.8106554
+        ],
+        [
+          -117.9209808,
+          33.8106635
+        ],
+        [
+          -117.9209581,
+          33.8106659
+        ],
+        [
+          -117.9209184,
+          33.8107308
+        ],
+        [
+          -117.9207457,
+          33.8110395
+        ],
+        [
+          -117.920736,
+          33.8110575
+        ],
+        [
+          -117.9207303,
+          33.8110552
+        ],
+        [
+          -117.9207048,
+          33.8110963
+        ],
+        [
+          -117.9206861,
+          33.8111265
+        ],
+        [
+          -117.9206917,
+          33.8111286
+        ],
+        [
+          -117.9206919,
+          33.8111378
+        ],
+        [
+          -117.920685,
+          33.8111378
+        ],
+        [
+          -117.9206854,
+          33.8111618
+        ],
+        [
+          -117.9206899,
+          33.8111616
+        ],
+        [
+          -117.9206899,
+          33.811168
+        ],
+        [
+          -117.9206992,
+          33.8111679
+        ],
+        [
+          -117.9206998,
+          33.8112119
+        ],
+        [
+          -117.9206999,
+          33.8112186
+        ],
+        [
+          -117.9206999,
+          33.8112233
+        ],
+        [
+          -117.9207085,
+          33.8112226
+        ],
+        [
+          -117.9207262,
+          33.8112671
+        ],
+        [
+          -117.9207527,
+          33.8112665
+        ],
+        [
+          -117.9207522,
+          33.8112732
+        ],
+        [
+          -117.9207896,
+          33.8112724
+        ],
+        [
+          -117.9207898,
+          33.8112797
+        ],
+        [
+          -117.9207892,
+          33.8112884
+        ],
+        [
+          -117.920793,
+          33.8112884
+        ],
+        [
+          -117.9207931,
+          33.8112935
+        ],
+        [
+          -117.9208152,
+          33.8112931
+        ],
+        [
+          -117.9208178,
+          33.8112994
+        ],
+        [
+          -117.9208236,
+          33.8112993
+        ],
+        [
+          -117.9208315,
+          33.8112992
+        ],
+        [
+          -117.9208401,
+          33.811299
+        ],
+        [
+          -117.9208446,
+          33.811299
+        ],
+        [
+          -117.9208491,
+          33.8112933
+        ],
+        [
+          -117.9208688,
+          33.8112938
+        ],
+        [
+          -117.920869,
+          33.8112866
+        ],
+        [
+          -117.9208739,
+          33.8112868
+        ],
+        [
+          -117.9208744,
+          33.8112808
+        ],
+        [
+          -117.9208734,
+          33.811273
+        ],
+        [
+          -117.9209045,
+          33.8112741
+        ],
+        [
+          -117.9209052,
+          33.8112614
+        ],
+        [
+          -117.920885,
+          33.8112329
+        ],
+        [
+          -117.9208852,
+          33.8112285
+        ],
+        [
+          -117.9208872,
+          33.811205
+        ],
+        [
+          -117.9208904,
+          33.8112006
+        ],
+        [
+          -117.9209041,
+          33.8111823
+        ],
+        [
+          -117.9209178,
+          33.8111627
+        ],
+        [
+          -117.9209355,
+          33.8111382
+        ],
+        [
+          -117.9209815,
+          33.8111208
+        ],
+        [
+          -117.9209952,
+          33.8111069
+        ],
+        [
+          -117.9210596,
+          33.8110724
+        ],
+        [
+          -117.9211216,
+          33.8110376
+        ],
+        [
+          -117.9211826,
+          33.8110052
+        ],
+        [
+          -117.9212224,
+          33.8110088
+        ],
+        [
+          -117.9212921,
+          33.810997
+        ],
+        [
+          -117.9213374,
+          33.8109798
+        ],
+        [
+          -117.9214099,
+          33.8109435
+        ],
+        [
+          -117.9214331,
+          33.8109306
+        ],
+        [
+          -117.9214698,
+          33.8109119
+        ],
+        [
+          -117.9214883,
+          33.8109136
+        ],
+        [
+          -117.921507,
+          33.8109034
+        ],
+        [
+          -117.9215461,
+          33.8108765
+        ],
+        [
+          -117.921527,
+          33.8108548
+        ],
+        [
+          -117.9215047,
+          33.8108305
+        ],
+        [
+          -117.9215733,
+          33.8108021
+        ],
+        [
+          -117.9216273,
+          33.8107797
+        ],
+        [
+          -117.9217455,
+          33.8108975
+        ],
+        [
+          -117.9218636,
+          33.8108228
+        ],
+        [
+          -117.9218976,
+          33.8108613
+        ],
+        [
+          -117.9221098,
+          33.8107303
+        ],
+        [
+          -117.922158,
+          33.8107011
+        ],
+        [
+          -117.9221649,
+          33.810697
+        ],
+        [
+          -117.9222161,
+          33.8106656
+        ],
+        [
+          -117.9223552,
+          33.8105799
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 824031784,
+    "version": 13,
+    "timestamp": "2024-12-19T19:27:07Z",
+    "url": "https://www.openstreetmap.org/way/824031784"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 123303434,
+      "version": 4,
+      "timestamp": "2024-10-08T11:55:14Z",
+      "url": "https://www.openstreetmap.org/way/123303434"
+    },
+    {
+      "type": "way",
+      "id": 123303445,
+      "version": 4,
+      "timestamp": "2024-10-08T11:55:14Z",
+      "url": "https://www.openstreetmap.org/way/123303445"
+    },
+    {
+      "type": "way",
+      "id": 123303466,
+      "version": 4,
+      "timestamp": "2024-10-08T11:55:14Z",
+      "url": "https://www.openstreetmap.org/way/123303466"
+    },
+    {
+      "type": "way",
+      "id": 123303460,
+      "version": 5,
+      "timestamp": "2024-10-08T11:55:14Z",
+      "url": "https://www.openstreetmap.org/way/123303460"
+    },
+    {
+      "type": "way",
+      "id": 123303438,
+      "version": 3,
+      "timestamp": "2024-10-08T11:55:14Z",
+      "url": "https://www.openstreetmap.org/way/123303438"
+    }
+  ],
+  "wikidata": "Q1713564",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Pirates of the Caribbean Entrance.JPG",
+      "author": "SolarSurfer",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Pirates_of_the_Caribbean_Entrance.JPG",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Pirates_of_the_Caribbean_Entrance.JPG",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Disneyland-POTC entrance.jpg",
+      "author": "User:Jonnyboyca",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Disneyland-POTC_entrance.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Disneyland-POTC_entrance.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Pirates of the Caribbean building - Disneyland-1985-6.jpg",
+      "author": "Figaro at English Wikipedia",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Pirates_of_the_Caribbean_building_-_Disneyland-1985-6.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Pirates_of_the_Caribbean_building_-_Disneyland-1985-6.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/dlr-pirates-blue-bayou.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Pirates of the Caribbean and the Blue Bayou, New Orleans Square, Disneyland Park (Anaheim) — procedural, CC0-1.0. bun generators/dlr-pirates-blue-bayou.ts",
+    "Map frame: x east, y north, z up, metres; bearing 0. The origin is the centre of the cupola (OSM way/123303445), on the ground, at -117.920831, 33.811236.",
+    "What it is: the attraction's front building at the river end of New Orleans Square, which also houses the Blue Bayou restaurant. A pink stucco French Quarter townhouse facing north over the queue terrace: a narrow west wing and a wider east wing under gabled roofs, each with a white pedimented dormer, and between them a taller centre with a white round-headed attic dormer and, behind it, an octagonal cupola under a copper dome. Across the centre stands the two-storey slate-blue cast-iron gallery with the \"Pirates of the Caribbean\" sign on its railing, a hipped roof with a round-headed dormer and two little gables, and iron stairs running down to either side. Below it, three arched doors.",
+    "OSM draws the whole attraction as one outline, way/824031784 (height 10): this building, the Blue Bayou and the ride's flume, and the plain show building outside the berm. Nothing smaller covers the plain part, so the model carries it too: the outline south of the front building, extruded to OSM's 10 m as the flat-roofed box the map would have drawn. That is what lets it replace the outline; with the outline left in, its 10 m box would stand in front of the facade.",
+    "Evidence",
+    "OSM (measured): the outline way/824031784 (91 nodes, used as tagged for the show building); its north end gives the facade line (y = 4), the gallery's projection (x -4..4, out to y 6.3-7.0) and the east wing's chamfered corner; the round part way/123303445 places the cupola, on the gallery's axis. Parts way/123303434, /123303466, /123303460 and /123303438 lie inside and are replaced too.",
+    "USGS NAIP orthophoto (public domain): the pink-and-grey roof of the front building, the oval queue terrace in front of it and the flat grey show-building roofs behind.",
+    "Photos: front, from the terrace (Jeremy Thompson, \"POTC at Disneyland 2022\" and \"2025\", CC BY 2.0, Commons); front-east three-quarter, 1979 (Distraction Limited, Flickr 3777009722, CC BY 2.0); gallery and sign from below (SolarSurfer, \"Pirates of the Caribbean Entrance.JPG\", public domain); gallery and fountain (Jonnyboyca, \"Disneyland-POTC entrance.jpg\", public domain); cupola and the dormer from the west, 1985 (Figaro, \"Pirates of the Caribbean building - Disneyland-1985-6.jpg\", public domain); the west stair and cupola (Ken Lund, Flickr 17192780128, CC BY-SA 2.0).",
+    "Estimated from the photos, scaled on the gallery's OSM width (8 m): ground floor 4.6 m to the gallery deck, gallery eave 8.5 m, wing cornice 10 m (= OSM's height), centre parapet 12 m, attic dormer 14.3 m, cupola 15.2 m, dome 17 m, finial 18 m. Wing dormers at +-5.4 m, mirrored about the cupola as the front photo shows.",
+    "Invented or simplified: the building's depth (11-13 m, to where NAIP shows the flat show roofs), the back and side walls, which no photo shows; the wing roofs (gabled east-west, as the 1979 photo suggests); the west wing's notch in OSM is squared off. The lacework is drawn as solid dark railing and frieze bands, the doors as glazed arches.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"dlr-pirates-blue-bayou\", model \"dlr-pirates-blue-bayou\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/dlr-pirates-blue-bayou.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 24 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the dlr-pirates-blue-bayou-glazing finish in the window colour.",
+    "To fit six materials, folded dlr-pirates-blue-bayou-glazing into dlr-pirates-blue-bayou-pirates-iron (ΔE 6.6)."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

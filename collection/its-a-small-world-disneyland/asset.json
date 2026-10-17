@@ -1,0 +1,191 @@
+{
+  "id": "its-a-small-world-disneyland",
+  "name": "\"it's a small world\"",
+  "anchor": [
+    -117.9178443,
+    33.8146742
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 204436,
+      "sha256": "34cc9391260ad5296e7e93052e80d8c562409e37ba9d2c861a3c340908bb5fe3"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 204436,
+      "sha256": "34cc9391260ad5296e7e93052e80d8c562409e37ba9d2c861a3c340908bb5fe3"
+    }
+  },
+  "triangles": 4701,
+  "boundsBlenderM": [
+    [
+      -27.345,
+      -10.691,
+      0
+    ],
+    [
+      30.828,
+      15.046,
+      16.686
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -117.9178087,
+          33.8146834
+        ],
+        [
+          -117.9177733,
+          33.8146761
+        ],
+        [
+          -117.917732,
+          33.8146679
+        ],
+        [
+          -117.9177333,
+          33.8146656
+        ],
+        [
+          -117.9177399,
+          33.8146412
+        ],
+        [
+          -117.9177405,
+          33.814639
+        ],
+        [
+          -117.9177412,
+          33.8146364
+        ],
+        [
+          -117.917745,
+          33.8146226
+        ],
+        [
+          -117.9177496,
+          33.8146062
+        ],
+        [
+          -117.9177555,
+          33.8145854
+        ],
+        [
+          -117.9177883,
+          33.8145918
+        ],
+        [
+          -117.9177903,
+          33.8145846
+        ],
+        [
+          -117.9178842,
+          33.814603
+        ],
+        [
+          -117.9178815,
+          33.8146123
+        ],
+        [
+          -117.9179104,
+          33.8146179
+        ],
+        [
+          -117.917905,
+          33.8146371
+        ],
+        [
+          -117.9179015,
+          33.8146495
+        ],
+        [
+          -117.9178976,
+          33.8146636
+        ],
+        [
+          -117.9178964,
+          33.814668
+        ],
+        [
+          -117.9178946,
+          33.8146743
+        ],
+        [
+          -117.9178882,
+          33.8146962
+        ],
+        [
+          -117.9178872,
+          33.8146992
+        ],
+        [
+          -117.9178406,
+          33.8146897
+        ],
+        [
+          -117.9178087,
+          33.8146834
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 135699826,
+    "version": 7,
+    "timestamp": "2016-01-24T13:29:59Z",
+    "url": "https://www.openstreetmap.org/way/135699826"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 135489209,
+      "version": 11,
+      "timestamp": "2024-12-19T21:23:02Z",
+      "url": "https://www.openstreetmap.org/way/135489209"
+    }
+  ],
+  "wikidata": "Q137529132",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/dlr-small-world.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "\"it's a small world\" facade, Disneyland Park, Anaheim — procedural, CC0-1.0. bun generators/dlr-small-world.ts",
+    "Rolly Crump's facade after Mary Blair: a long white stage flat whose top edge is a skyline of flattened world landmarks — onion domes, a leaning Pisa with a gold crown, an Eiffel lattice, a windmill, Gothic gables, castellated towers — trimmed in gold, standing behind the boat flume, with the clock tower (\"the clock of all nations\", smiling face, doll-parade doors) on its own arched platform in front, over the boats. The current Anaheim scheme is white and gold, with silver-glitter panels.",
+    "Frame: built in a facade frame — u along the facade (bearing 103°, ESE), v toward its back (bearing 13°, NNE), z up — from the OSM survey origin (-117.91779, 33.81465). The model's origin is the middle of what it draws, (u, v) = (U0, V0), so x = u - U0, y = v - V0, and the catalog bearing is 13°. y = 0 is the garden and flume level in front, the lowest ground.",
+    "Evidence: - OSM, measured: the clock tower platform way/135699826 (u -10.0..4.7, v -7.1..3.3) and its part way/135489209 (\"Clock Tower\", h 10); the show building way/499783300, whose south edge (v 7.9..9.4, u -33.4..12.9) is the line the facade stands on; the railway (v ≈ 5.2) running between the clock tower and the facade; the flume ways under the tower. The bearing is the axis of all of these. - USGS NAIP orthophoto (public domain), measured: the facade's white band runs u ≈ -35..+24, ~59 m, behind the railway; the clock tower's square platform sits in front of it over the flume. - Published: the clock face is 30 ft (9.1 m) up (Wikipedia, \"It's a Small World\"). This sets the clock tower's scale. - Photos (Wikimedia Commons): straight-on from the mall, Shulman photo (Es715, CC BY-SA 3.0) — every facade element's position, width and height below is read off it (see LX/RX/HY); the 2025 straight-on (Steven Lopez 7, CC0) for the current white-and-gold colours; the clock tower close up (SolarSurfer, public domain); the facade from the west (Patrick Pelletier, CC BY-SA 3.0) and from the loading area (HarshLight, CC BY 2.0, and Vamsi, CC BY-SA 3.0) for which elements stand in front of which: the Eiffel lattice is behind the windmill and the crown.",
+    "Estimated: every height. The photo is scaled so that the facade spans the NAIP length and the clock face sits at the published 9.1 m; the facade plane is taken as ~1.25× the clock tower's distance from the camera. That puts the tallest finials near 16 m and the clock tower's gables at 12.9 m. The facade's foot is hidden by a ~3 m hedge bank in every photo; the bank is not modelled (it is ground and planting), so the flats run down to y = 0. The clock tower group's 8.4 m width, its proportions (doors, triangle panel and belfry each about one clock diameter and a half) and its front at v -3.6 are from the SolarSurfer close-up, scaled on the 9.1 m clock. Depth (front-to-back relief, 0.6–1.6 m per flat) and the back of the flats are invented: no photo shows the rear, which faces the show building and the railway. Elements hidden behind the clock tower in every photo (u ≈ -11..-4 on the facade) are generic filler. Simplified: the lattice, numbers, gears, stars and doll figures are reduced to gold or silver panels and discs; the boat tunnel arches are grey panels. Colour: the white is a landmark finish (`small-world-white`), as white is this facade's identity; the gold is the photos' leaf gold pulled light. Not modelled: the entrance sign tower, the hedge bank and topiary, the railway between the clock tower and the facade (the map draws it), and way/285388485, the strip under the railway, which the model doesn't cover.",
+    "Replaces the clock tower platform and its part. The show building way/499783300 stays: the facade stands at its south edge, taller than it, but covers only its front.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"dlr-small-world\", model \"dlr-small-world\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/dlr-small-world.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

@@ -1,0 +1,348 @@
+{
+  "id": "web-slingers-a-spider-man-adventure-disneyland",
+  "name": "WEB SLINGERS: A Spider-Man Adventure",
+  "anchor": [
+    -117.9186724,
+    33.8068953
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 39468,
+      "sha256": "f70f37eb689624560fd578eafeb0f9d6a1969ee317f11e2e3b3a57027929a85a"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 39468,
+      "sha256": "f70f37eb689624560fd578eafeb0f9d6a1969ee317f11e2e3b3a57027929a85a"
+    }
+  },
+  "triangles": 702,
+  "boundsBlenderM": [
+    [
+      -36.984,
+      -35.78,
+      0
+    ],
+    [
+      40.732,
+      35.98,
+      20.5
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -117.9183003,
+          33.8068903
+        ],
+        [
+          -117.9182975,
+          33.8068872
+        ],
+        [
+          -117.9184575,
+          33.8067632
+        ],
+        [
+          -117.9184484,
+          33.8067551
+        ],
+        [
+          -117.9184339,
+          33.8067421
+        ],
+        [
+          -117.9184115,
+          33.806722
+        ],
+        [
+          -117.9184125,
+          33.8067154
+        ],
+        [
+          -117.9184221,
+          33.8066562
+        ],
+        [
+          -117.918412,
+          33.8066552
+        ],
+        [
+          -117.9184129,
+          33.8066502
+        ],
+        [
+          -117.9184138,
+          33.8066447
+        ],
+        [
+          -117.9184147,
+          33.8066397
+        ],
+        [
+          -117.9184156,
+          33.8066345
+        ],
+        [
+          -117.9184167,
+          33.8066284
+        ],
+        [
+          -117.9184184,
+          33.8066185
+        ],
+        [
+          -117.9184277,
+          33.8065974
+        ],
+        [
+          -117.9184301,
+          33.8065924
+        ],
+        [
+          -117.918435,
+          33.8065812
+        ],
+        [
+          -117.9184705,
+          33.8065847
+        ],
+        [
+          -117.9184715,
+          33.8065776
+        ],
+        [
+          -117.9184722,
+          33.8065728
+        ],
+        [
+          -117.918511,
+          33.8065755
+        ],
+        [
+          -117.9186079,
+          33.806584
+        ],
+        [
+          -117.9186398,
+          33.8065882
+        ],
+        [
+          -117.9186623,
+          33.8065952
+        ],
+        [
+          -117.9186603,
+          33.8065985
+        ],
+        [
+          -117.9187456,
+          33.8066742
+        ],
+        [
+          -117.9187582,
+          33.8066721
+        ],
+        [
+          -117.9187969,
+          33.8067051
+        ],
+        [
+          -117.9187999,
+          33.806703
+        ],
+        [
+          -117.9188178,
+          33.8067182
+        ],
+        [
+          -117.9188182,
+          33.8067209
+        ],
+        [
+          -117.9189458,
+          33.8068333
+        ],
+        [
+          -117.9190104,
+          33.8068873
+        ],
+        [
+          -117.9190128,
+          33.8068893
+        ],
+        [
+          -117.9190022,
+          33.8068975
+        ],
+        [
+          -117.9190722,
+          33.80696
+        ],
+        [
+          -117.9189924,
+          33.8070234
+        ],
+        [
+          -117.9189556,
+          33.8070529
+        ],
+        [
+          -117.9189482,
+          33.8070973
+        ],
+        [
+          -117.9187695,
+          33.8072196
+        ],
+        [
+          -117.9186942,
+          33.807156
+        ],
+        [
+          -117.9186565,
+          33.8071871
+        ],
+        [
+          -117.9186158,
+          33.8071533
+        ],
+        [
+          -117.9186078,
+          33.8071603
+        ],
+        [
+          -117.918439,
+          33.8070177
+        ],
+        [
+          -117.918382,
+          33.8069695
+        ],
+        [
+          -117.9183664,
+          33.8069794
+        ],
+        [
+          -117.9183253,
+          33.8069445
+        ],
+        [
+          -117.9183443,
+          33.8069299
+        ],
+        [
+          -117.9183003,
+          33.8068903
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 721810397,
+    "version": 39,
+    "timestamp": "2023-05-05T20:59:29Z",
+    "url": "https://www.openstreetmap.org/way/721810397"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 49824622,
+      "version": 54,
+      "timestamp": "2026-05-27T17:42:01Z",
+      "url": "https://www.openstreetmap.org/way/49824622"
+    },
+    {
+      "type": "way",
+      "id": 951841620,
+      "version": 3,
+      "timestamp": "2026-05-27T17:42:01Z",
+      "url": "https://www.openstreetmap.org/way/951841620"
+    },
+    {
+      "type": "way",
+      "id": 951841621,
+      "version": 3,
+      "timestamp": "2024-12-18T22:05:47Z",
+      "url": "https://www.openstreetmap.org/way/951841621"
+    },
+    {
+      "type": "way",
+      "id": 951842062,
+      "version": 6,
+      "timestamp": "2023-11-01T21:07:10Z",
+      "url": "https://www.openstreetmap.org/way/951842062"
+    },
+    {
+      "type": "way",
+      "id": 980768332,
+      "version": 2,
+      "timestamp": "2022-07-21T23:49:16Z",
+      "url": "https://www.openstreetmap.org/way/980768332"
+    },
+    {
+      "type": "way",
+      "id": 980768333,
+      "version": 3,
+      "timestamp": "2024-04-26T00:28:53Z",
+      "url": "https://www.openstreetmap.org/way/980768333"
+    },
+    {
+      "type": "way",
+      "id": 980768334,
+      "version": 2,
+      "timestamp": "2021-10-01T00:02:19Z",
+      "url": "https://www.openstreetmap.org/way/980768334"
+    },
+    {
+      "type": "way",
+      "id": 980768335,
+      "version": 4,
+      "timestamp": "2022-07-21T23:49:16Z",
+      "url": "https://www.openstreetmap.org/way/980768335"
+    }
+  ],
+  "wikidata": "Q85802593",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/dlr-web-slingers.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "The WEB building (Worldwide Engineering Brigade, home of WEB SLINGERS: A Spider-Man Adventure), Avengers Campus, Disney California Adventure (Anaheim): procedural, CC0-1.0. bun generators/dlr-web-slingers.ts",
+    "Map frame: x east, y north, z up, metres; bearing 0, so the frame is true north. The origin is the area centroid of the OSM outline (way/721810397), on the ground (the park is flat).",
+    "What it is. The old A Bug's Life theatre, a big plain show box, given a new front on the campus side: - the show box itself, light grey under a pale roof (OSM part way/49824622), standing a little above the rest; - a two-storey brick front along the south and south-east sides, with the painted \"Stark Motors\" sign on the south wall and window bands; Spider-Man's rooftop stunts happen on its parapet; - the WEB module, a tall red box with rounded top edges, white pinstripes and the WEB spider emblem, over the queue on the south-east face; - a tall pale \"mechanical module\" at the south-east corner; - the mast on the roof between them, with its red crane head; - the blue entrance canopies in front of the south-east face (OSM's building=roof ways). The red module, the mast and the brick front are what people know; the show box behind is what the map sees from above.",
+    "Evidence. Measured: the plan of the outline, the show box and the canopies from OSM (ways 721810397, 49824622, 980768332–980768335), checked against USGS NAIP (public domain) and the CC BY-SA aerial \"Avengers Campus Progress at Disneyland Park California\", which shows the show box, the walled front, the canopies and the mechanical module going up. Published: nothing dimensional; OSM tags the outline 9 m and the show box 9.8 m (unsourced), used as given. Estimated: the positions of the red module, the mechanical module and the mast, from where they stand against each other in the ground photos (front view from the south-east, the Stark Motors wall from the south) and the aerial, to within a few metres; their heights (red module 14.5 m, mechanical module 15.5 m, mast 20.5 m) from the brick front beside them; the canopies' heights (4–6 m) from their OSM layers; the show box's 1 m rounded crown, from the hump seen over the parapet. Invented: the north and west sides, which no photo shows, are plain grey walls; the window bands' exact runs.",
+    "Photos: Wikimedia Commons, Jeremy Thompson, CC BY 2.0: \"Disney California Adventure (51242306845)\" (the entrance gantry), \"(51240543512)\" (Stark Motors wall); \"Spider-Man in Avengers Campus, Disney California Adventure\" (Contributor19, CC BY 4.0). Flickr via Openverse, CC BY 2.0: Roller Coaster Philosophy, \"Disney California Adventure\" 51541265813 (the south-east front with the mast and the red module), 51541953165 (Stark Motors wall, mast and mechanical module), 52155518628 (the red module), 51540231987 (the entrance under the module); milst1, \"Avengers Campus\" 52554122357. Plan: OSM, USGS NAIP, and \"Avengers Campus Progress at Disneyland Park California\" (Michaelestigoy, CC BY-SA 4.0). Disney's own media was not used.",
+    "Style: the red brick and the WEB red are identity finishes, muted to the palette's lightness; the canopy blue likewise. The emblem is a flat white hexagon outline on the red module, the STYLE.md exception for a sign that is the landmark.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"dlr-web-slingers\", model \"dlr-web-slingers\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/dlr-web-slingers.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

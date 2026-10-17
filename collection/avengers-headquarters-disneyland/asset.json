@@ -1,0 +1,193 @@
+{
+  "id": "avengers-headquarters-disneyland",
+  "name": "Avengers Headquarters",
+  "anchor": [
+    -117.9175306,
+    33.8064138
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 25452,
+      "sha256": "88b7e1030e2731feee062be78083b1355747443b61df6cb2b824bedf3e2581f9"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 25452,
+      "sha256": "88b7e1030e2731feee062be78083b1355747443b61df6cb2b824bedf3e2581f9"
+    }
+  },
+  "triangles": 386,
+  "boundsBlenderM": [
+    [
+      -18.923,
+      -19.064,
+      0
+    ],
+    [
+      24.508,
+      31.176,
+      15.058
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -117.9176283,
+          33.806383
+        ],
+        [
+          -117.9176205,
+          33.806388
+        ],
+        [
+          -117.9174543,
+          33.806244
+        ],
+        [
+          -117.9174278,
+          33.8062635
+        ],
+        [
+          -117.9174904,
+          33.806323
+        ],
+        [
+          -117.9174477,
+          33.8063546
+        ],
+        [
+          -117.9174406,
+          33.8063482
+        ],
+        [
+          -117.917417,
+          33.8063647
+        ],
+        [
+          -117.9174246,
+          33.8063718
+        ],
+        [
+          -117.9174191,
+          33.8063758
+        ],
+        [
+          -117.9174217,
+          33.8064209
+        ],
+        [
+          -117.9174047,
+          33.8064352
+        ],
+        [
+          -117.917449,
+          33.8064764
+        ],
+        [
+          -117.9174584,
+          33.8064699
+        ],
+        [
+          -117.9174699,
+          33.8064815
+        ],
+        [
+          -117.9175129,
+          33.8065236
+        ],
+        [
+          -117.9175176,
+          33.806528
+        ],
+        [
+          -117.9175398,
+          33.8065488
+        ],
+        [
+          -117.9175664,
+          33.8065287
+        ],
+        [
+          -117.9175955,
+          33.8065068
+        ],
+        [
+          -117.9176166,
+          33.8064909
+        ],
+        [
+          -117.9176858,
+          33.8064404
+        ],
+        [
+          -117.9176283,
+          33.806383
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 980770821,
+    "version": 8,
+    "timestamp": "2026-01-03T01:38:48Z",
+    "url": "https://www.openstreetmap.org/way/980770821"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 797193567,
+      "version": 10,
+      "timestamp": "2021-06-18T09:41:20Z",
+      "url": "https://www.openstreetmap.org/way/797193567"
+    },
+    {
+      "type": "way",
+      "id": 983358329,
+      "version": 3,
+      "timestamp": "2026-05-27T17:42:01Z",
+      "url": "https://www.openstreetmap.org/way/983358329"
+    }
+  ],
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/dlr-avengers-campus.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Avengers Headquarters, Avengers Campus, Disney California Adventure (Anaheim): procedural, CC0-1.0. bun generators/dlr-avengers-campus.ts",
+    "Map frame: x east, y north, z up, metres, but turned so the model's north (+y) points along bearing 315°, out of the building's front onto the campus plaza: the catalog places it with bearing 315. The origin is the area centroid of the OSM outline (way/980770821), on the ground (the park is flat).",
+    "What it is. A low, layered modern block (two tall storeys and a roof deck, not a tower) on the east side of the plaza: - a pale grey ground storey, with glass doors on the plaza front; - a dark grey balcony slab that cantilevers out over the front and the south-west side, its fascia leaning outward; - a recessed band of blue glazing on the upper storey, with the Avengers \"A\" logo on a navy panel on the south-west face and a raking strut beside it; - a deep light-grey roof slab, cantilevered further still and drawn to a prow at the plaza corner, the \"angled\" look of the building; - the Quinjet perched nose-up on a pad on the roof, nose to the plaza; - a long, lower hangar wing running north-east towards Mission: Breakout, with its own overhanging roof. The Quinjet and the logo are what make it the Avengers HQ; the layered cantilevered slabs are what make it read as this building.",
+    "Evidence. Measured: the plan, from the OSM outlines (HQ way/980770821, wing way/797193567, Quinjet way/983358329), checked against USGS NAIP (public domain) and the CC BY-SA aerial \"Avengers Campus Progress at Disneyland Park California\", which agree; the Quinjet's position, heading (nose to bearing ~326°, to the plaza) and plan size (about 11.5 m long and 11.6 m across the wings) from the same. Published: nothing dimensional. OSM tags the HQ height 9 m and the wing 7 m, untagged as to source; the Quinjet part's 9–10.6 m is plainly a placeholder and is not used. Estimated (from people and doors in the photos): ground storey 5 m, balcony slab 5–6 m, upper storey to 9 m, roof slab to 10.6 m, so the roof sits a little above OSM's 9 m; the Quinjet's pad 1.3 m, its hull about 13 m long and its top about 16 m; the overhangs (balcony 1.5–1.7 m, roof 1.6 m on the logo side and 2.7 m over the plaza); the wing at 8.5 m rather than OSM's 7, because the wing-side photo shows hangar doors with a glazed level and a roof slab above them. Invented: the rear (south-east) side, which no photo shows, is drawn plain; the penthouse behind the Quinjet is sized from the aerial only.",
+    "Photos: Wikimedia Commons, Jeremy Thompson, CC BY 2.0: \"Disney California Adventure (51242016469)\" (from the south-west, logo face, Mission: Breakout behind), \"(51241448038)\" (logo panel), \"(51241249771)\", \"(51241250136)\" (Quinjet), \"(51241250021)\" (the wing's hangar doors); \"Avengers Campus (Disney California Adventure) 1 2023-06-03\" (FASTILY, CC BY-SA 4.0, the plaza front); \"Avengers Campus Progress at Disneyland Park California\" (Michaelestigoy, CC BY-SA 4.0, aerial). Plan: OSM and USGS NAIP. Disney's own media was not used.",
+    "Style: the building's cool pale grey is a finish near the palette's lightness; the dark fascia stays dark because the dark bands are the building's pattern, at the charcoal floor; the logo panel's navy is kept as identity, pulled lighter. The logo is drawn as flat block shapes on its panel, the STYLE.md exception for a sign that is the landmark.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"dlr-avengers-campus\", model \"dlr-avengers-campus\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/dlr-avengers-campus.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

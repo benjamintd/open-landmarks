@@ -1,0 +1,341 @@
+{
+  "id": "soarin-around-the-world-disneyland",
+  "name": "Soarin' Around the World",
+  "anchor": [
+    -117.9200872,
+    33.808416
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 17136,
+      "sha256": "fc5a3f784c3f843f5c4ba493c0b0bc074047299f11d25961f4894010f9aa2a58"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 17136,
+      "sha256": "fc5a3f784c3f843f5c4ba493c0b0bc074047299f11d25961f4894010f9aa2a58"
+    }
+  },
+  "triangles": 285,
+  "boundsBlenderM": [
+    [
+      -36.4,
+      -18.88,
+      0
+    ],
+    [
+      49,
+      19.6,
+      17.5
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -117.9204751,
+          33.8085311
+        ],
+        [
+          -117.920425,
+          33.8085315
+        ],
+        [
+          -117.9203575,
+          33.8085313
+        ],
+        [
+          -117.9203313,
+          33.8085312
+        ],
+        [
+          -117.9202302,
+          33.8085317
+        ],
+        [
+          -117.9202303,
+          33.8085591
+        ],
+        [
+          -117.9201817,
+          33.8085592
+        ],
+        [
+          -117.9201815,
+          33.808532
+        ],
+        [
+          -117.9201273,
+          33.8085323
+        ],
+        [
+          -117.9201282,
+          33.8085917
+        ],
+        [
+          -117.9199093,
+          33.8085932
+        ],
+        [
+          -117.9199096,
+          33.8085323
+        ],
+        [
+          -117.9198526,
+          33.8085324
+        ],
+        [
+          -117.9198534,
+          33.8085641
+        ],
+        [
+          -117.9198536,
+          33.8085754
+        ],
+        [
+          -117.9198538,
+          33.8085847
+        ],
+        [
+          -117.9198268,
+          33.8085848
+        ],
+        [
+          -117.9197984,
+          33.8085849
+        ],
+        [
+          -117.9197979,
+          33.8085327
+        ],
+        [
+          -117.9196378,
+          33.8085332
+        ],
+        [
+          -117.919638,
+          33.8085915
+        ],
+        [
+          -117.9196083,
+          33.8085916
+        ],
+        [
+          -117.9196078,
+          33.8085502
+        ],
+        [
+          -117.9195938,
+          33.8085509
+        ],
+        [
+          -117.9195932,
+          33.8085335
+        ],
+        [
+          -117.9195925,
+          33.8082775
+        ],
+        [
+          -117.9195584,
+          33.8082775
+        ],
+        [
+          -117.9195579,
+          33.8082527
+        ],
+        [
+          -117.9196452,
+          33.8082529
+        ],
+        [
+          -117.9196452,
+          33.8082574
+        ],
+        [
+          -117.9196846,
+          33.8082574
+        ],
+        [
+          -117.9197684,
+          33.8082574
+        ],
+        [
+          -117.9197852,
+          33.8082574
+        ],
+        [
+          -117.9199554,
+          33.808257
+        ],
+        [
+          -117.9199883,
+          33.8082568
+        ],
+        [
+          -117.9200439,
+          33.8082564
+        ],
+        [
+          -117.920363,
+          33.8082576
+        ],
+        [
+          -117.9203631,
+          33.8082514
+        ],
+        [
+          -117.9204106,
+          33.8082518
+        ],
+        [
+          -117.9204576,
+          33.8082521
+        ],
+        [
+          -117.9204576,
+          33.8082569
+        ],
+        [
+          -117.9204575,
+          33.8082628
+        ],
+        [
+          -117.9204574,
+          33.8082706
+        ],
+        [
+          -117.9204574,
+          33.808278
+        ],
+        [
+          -117.9204488,
+          33.808278
+        ],
+        [
+          -117.920449,
+          33.8083057
+        ],
+        [
+          -117.9204492,
+          33.80832
+        ],
+        [
+          -117.9204493,
+          33.8083337
+        ],
+        [
+          -117.9204801,
+          33.8083335
+        ],
+        [
+          -117.9204797,
+          33.8083399
+        ],
+        [
+          -117.9204798,
+          33.8083432
+        ],
+        [
+          -117.9204799,
+          33.8083508
+        ],
+        [
+          -117.9204803,
+          33.8084685
+        ],
+        [
+          -117.9204721,
+          33.808469
+        ],
+        [
+          -117.9204751,
+          33.8085311
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 312369808,
+    "version": 43,
+    "timestamp": "2026-08-07T18:42:24Z",
+    "url": "https://www.openstreetmap.org/way/312369808"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 121865023,
+      "version": 13,
+      "timestamp": "2022-08-12T17:51:48Z",
+      "url": "https://www.openstreetmap.org/way/121865023"
+    }
+  ],
+  "wikidata": "Q2775778",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Soarin Over California Updated Entrance - July 17th 2015.JPG",
+      "author": "KeepingDLRUpdated",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Soarin_Over_California_Updated_Entrance_-_July_17th_2015.JPG",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Soarin' Over California.JPG",
+      "author": "SolarSurfer",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Soarin%27_Over_California.JPG",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Soarin%27_Over_California.JPG",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Soarin', Disney California Adventure sign (July 2022).jpg",
+      "author": "Benoît Prieur",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Soarin%27,_Disney_California_Adventure_sign_(July_2022).jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/dlr-soarin.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Soarin' Around the World — the hangar, Grizzly Peak Airfield, Disney California Adventure — procedural, CC0-1.0, no textures. bun generators/dlr-soarin.ts",
+    "Map frame: x east, y north, z up, metres; origin at the vertex centroid of the outline way/312369808. Bearing 0: the outline is square to the compass, with the entrance on its south face.",
+    "The attraction's front is a 1940s aircraft hangar: a broad barrel-vaulted hall whose curved gable faces the airfield across its whole width, with a band of clerestory windows, big hangar doors and an arched entrance.",
+    "Evidence",
+    "OSM (measured): outline way/312369808 (85 × 38 m, no height) and the part way/121865023 inside it, 15 m. The entrance canopy way/312369809 (11 m, building=roof) at x 4–12 m fixes the hangar's centre line.",
+    "Photos (Wikimedia Commons): \"Soarin Over California Updated Entrance - July 17th 2015.JPG\", KeepingDLRUpdated, CC BY-SA 4.0 — the south front \"Soarin' Over California.JPG\", SolarSurfer, public domain — the south front, 2000s colours \"Soarin', Disney California Adventure sign (July 2022).jpg\", Benoît Prieur, CC0 — sign (look only)",
+    "Estimated: the vault, spanning the whole front and rising from 9 m eaves to 17.5 m at the crown (so the hall averages near OSM's 15 m); the window band and hangar doors. The camouflage-pattern paint since 2015 is drawn as one sage finish with a tan band; the back of the building is plain, as no photo shows it.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"dlr-soarin\", model \"dlr-soarin\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/dlr-soarin.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

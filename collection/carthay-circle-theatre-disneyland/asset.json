@@ -1,0 +1,337 @@
+{
+  "id": "carthay-circle-theatre-disneyland",
+  "name": "Carthay Circle Theatre",
+  "anchor": [
+    -117.9189217,
+    33.8073827
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 114516,
+      "sha256": "81b2fd8a14d065bb99e7b39425ce44e50932b3b8e673e0de0e76dc301de98313"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 114516,
+      "sha256": "81b2fd8a14d065bb99e7b39425ce44e50932b3b8e673e0de0e76dc301de98313"
+    }
+  },
+  "triangles": 2586,
+  "boundsBlenderM": [
+    [
+      -23.3,
+      -16.7,
+      0
+    ],
+    [
+      18.7,
+      21.709,
+      30.38
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -117.9189088,
+          33.8072444
+        ],
+        [
+          -117.9189087,
+          33.8072493
+        ],
+        [
+          -117.9189084,
+          33.8072577
+        ],
+        [
+          -117.9189245,
+          33.8072621
+        ],
+        [
+          -117.9189213,
+          33.80727
+        ],
+        [
+          -117.9189301,
+          33.8072702
+        ],
+        [
+          -117.9190492,
+          33.8072722
+        ],
+        [
+          -117.919072,
+          33.8072633
+        ],
+        [
+          -117.9190937,
+          33.8072779
+        ],
+        [
+          -117.9190945,
+          33.807273
+        ],
+        [
+          -117.9191144,
+          33.8072724
+        ],
+        [
+          -117.919134,
+          33.8072725
+        ],
+        [
+          -117.9191324,
+          33.8074216
+        ],
+        [
+          -117.9190833,
+          33.8074225
+        ],
+        [
+          -117.9190521,
+          33.8074226
+        ],
+        [
+          -117.9190535,
+          33.8074316
+        ],
+        [
+          -117.91904,
+          33.8074481
+        ],
+        [
+          -117.9190539,
+          33.8074664
+        ],
+        [
+          -117.9190506,
+          33.8074878
+        ],
+        [
+          -117.919042,
+          33.8074944
+        ],
+        [
+          -117.9190316,
+          33.8075024
+        ],
+        [
+          -117.9190056,
+          33.8075036
+        ],
+        [
+          -117.9190004,
+          33.8075003
+        ],
+        [
+          -117.9189675,
+          33.8075033
+        ],
+        [
+          -117.9189661,
+          33.8075438
+        ],
+        [
+          -117.918833,
+          33.8075459
+        ],
+        [
+          -117.9187972,
+          33.8075465
+        ],
+        [
+          -117.9187968,
+          33.8075156
+        ],
+        [
+          -117.918761,
+          33.8075152
+        ],
+        [
+          -117.9187608,
+          33.8075051
+        ],
+        [
+          -117.9187336,
+          33.8074839
+        ],
+        [
+          -117.9187341,
+          33.8074285
+        ],
+        [
+          -117.9187354,
+          33.8074148
+        ],
+        [
+          -117.9187233,
+          33.8074137
+        ],
+        [
+          -117.9187238,
+          33.8074014
+        ],
+        [
+          -117.918726,
+          33.8073502
+        ],
+        [
+          -117.9187421,
+          33.8073335
+        ],
+        [
+          -117.9187194,
+          33.8073147
+        ],
+        [
+          -117.9188059,
+          33.8072497
+        ],
+        [
+          -117.9188292,
+          33.8072321
+        ],
+        [
+          -117.9188427,
+          33.8072454
+        ],
+        [
+          -117.9189088,
+          33.8072444
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 338063157,
+    "version": 10,
+    "timestamp": "2021-02-18T19:25:57Z",
+    "url": "https://www.openstreetmap.org/way/338063157"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 338063109,
+      "version": 6,
+      "timestamp": "2024-12-18T22:05:47Z",
+      "url": "https://www.openstreetmap.org/way/338063109"
+    },
+    {
+      "type": "way",
+      "id": 338063116,
+      "version": 7,
+      "timestamp": "2026-05-27T17:42:01Z",
+      "url": "https://www.openstreetmap.org/way/338063116"
+    },
+    {
+      "type": "way",
+      "id": 336940997,
+      "version": 3,
+      "timestamp": "2024-04-26T00:28:53Z",
+      "url": "https://www.openstreetmap.org/way/336940997"
+    },
+    {
+      "type": "way",
+      "id": 336948504,
+      "version": 4,
+      "timestamp": "2024-04-26T00:28:53Z",
+      "url": "https://www.openstreetmap.org/way/336948504"
+    }
+  ],
+  "wikidata": "Q75339567",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Buena Vista Street Carthay Circle.JPG",
+      "author": "Crd637",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Buena_Vista_Street_Carthay_Circle.JPG",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Carthay circle theatre disney.jpg",
+      "author": "HarshLight",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Carthay_circle_theatre_disney.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Carthay Circle Restaurant.jpg",
+      "author": "Freddo",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Carthay_Circle_Restaurant.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Carthay Circle Restaurant, Disney California Adventure.jpg",
+      "author": "Contributor19",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Carthay_Circle_Restaurant,_Disney_California_Adventure.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Carthay Circle Restaurant (Disney California Adventure Park) July 2023.JPG",
+      "author": "Benoît Prieur",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Carthay_Circle_Restaurant_(Disney_California_Adventure_Park)_July_2023.JPG",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Carthay Circle Theatre (28099405680).jpg",
+      "author": "HarshLight from San Jose, CA, USA",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Carthay_Circle_Theatre_(28099405680).jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/dlr-carthay-circle.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "The Carthay Circle Theatre (Carthay Circle Restaurant), Disney California Adventure — procedural, CC0-1.0, no textures. bun generators/dlr-carthay-circle.ts",
+    "Map frame: x east, y north, z up, metres, bearing 0, origin at the centroid of the OSM outline way/338063157 (-117.9189217, 33.8073827). The building is square to the compass; only the tower is turned, an octagon with a corner (not a face) pointing north-west at Carthay Circle, the V marquee wrapped round that corner.",
+    "A Spanish Colonial Revival recreation of the 1926 Los Angeles theatre: white stucco, the octagonal tower in the north-west re-entrant corner, a flat-roofed main block with a stepped parapet and finials, and two lower wings with red tile pent roofs — the lounge wing with its terrace to the north and the arcade wing to the west.",
+    "Evidence",
+    "OSM (measured): outline way/338063157 (height=14, roof flat); the main block way/338063109 and the tower way/338063116, both building:part with no height. The tower ring is ~7.0 m across, centred (-8.7, 9.95). The arcades in front of the two wings are separate building=roof ways, way/336940997 (north, untagged height) and way/336948504 (west, height=5.2); the model draws both at 5.2 m and replaces them.",
+    "USGS NAIP orthophoto (public domain): flat pale main roof; red tile strips along the north wing (south half) and the west wing (west half); blue awnings beyond them; the tower at the north-west corner of the main roof.",
+    "Published: none found for the Disney tower's height. Wikipedia says only that it is slightly smaller than the 1926 original.",
+    "Photos (Wikimedia Commons), heights scaled off the 7.0 m tower: \"Buena Vista Street Carthay Circle.JPG\", Crd637, CC BY-SA 3.0 — from the north-west, square to the tower's corner; the main scale photo \"Carthay circle theatre disney.jpg\", HarshLight, CC BY 2.0 — from the west \"Carthay Circle Restaurant.jpg\", Freddo, CC BY-SA 4.0 — north wing and terrace \"Carthay Circle Restaurant, Disney California Adventure.jpg\", Contributor19, CC BY 4.0 \"Carthay Circle Restaurant (Disney California Adventure Park) July 2023.JPG\", Benoît Prieur, CC0 \"Carthay Circle Theatre (28099405680).jpg\", HarshLight, CC BY 2.0 — belfry detail (2015 Diamond Celebration banners, not modelled)",
+    "Estimated: the tower's stages, scaled from the Crd637 photo against its ~7 m width with the horizon at eye height — shaft to 20 m, belfry cornice 25.2 m, lantern 27.8 m, dome 29 m, finial 30.4 m (so ~30 m overall, ±2 m; HarshLight's photo from the west gives ~28 m). The shaft is drawn 6.7 m across the flats plus its pilasters, a little inside the OSM ring. The wings (loggias with 7.4 m eaves rising to 9.8–10 m against the main block, arcades 5.2 m with terrace parapets) and the parapet finials (16 m) are scaled from the same photos. The blue terrace awnings follow the 2023 photos and the orthophoto; older photos show umbrellas instead. The rooftop plant boxes are read off NAIP, their heights guessed. Invented: the window rhythm on the south and east walls, which no licensed photo shows; the belfry's checker tilework drawn as one blue panel with a gold diamond per face; the marquee's ironwork crest as a half-disc. Balconies, railings, lettering and the scroll consoles at the shaft top are left out (the bell-shaped transition stands in for them).",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"dlr-carthay-circle\", model \"dlr-carthay-circle\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/dlr-carthay-circle.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "To fit six materials, folded dlr-carthay-circle-glazing into dlr-carthay-circle-carthay-tile-blue (ΔE 18.2)."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

@@ -1,0 +1,246 @@
+{
+  "id": "el-capitoon-theater-disneyland",
+  "name": "El CapiToon Theater",
+  "anchor": [
+    -117.9183276,
+    33.8156035
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 39272,
+      "sha256": "4e4426b5fc8c04e91d5bd8976dda5d9fe698b98ceb1e65f716a818c7503490c5"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 39272,
+      "sha256": "4e4426b5fc8c04e91d5bd8976dda5d9fe698b98ceb1e65f716a818c7503490c5"
+    }
+  },
+  "triangles": 825,
+  "boundsBlenderM": [
+    [
+      -35.811,
+      -24.371,
+      0
+    ],
+    [
+      19.201,
+      14.353,
+      15.05
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -117.9184654,
+          33.8156511
+        ],
+        [
+          -117.9184653,
+          33.8156129
+        ],
+        [
+          -117.9184662,
+          33.8155906
+        ],
+        [
+          -117.9184666,
+          33.8155813
+        ],
+        [
+          -117.9184569,
+          33.8155738
+        ],
+        [
+          -117.918468,
+          33.8155663
+        ],
+        [
+          -117.9184638,
+          33.8155627
+        ],
+        [
+          -117.9184528,
+          33.8155533
+        ],
+        [
+          -117.9184282,
+          33.8155323
+        ],
+        [
+          -117.9184388,
+          33.8155172
+        ],
+        [
+          -117.9184467,
+          33.8155061
+        ],
+        [
+          -117.9184627,
+          33.8154835
+        ],
+        [
+          -117.9184428,
+          33.8154738
+        ],
+        [
+          -117.9183582,
+          33.8154329
+        ],
+        [
+          -117.9183454,
+          33.8154455
+        ],
+        [
+          -117.918338,
+          33.8154526
+        ],
+        [
+          -117.9183312,
+          33.8154599
+        ],
+        [
+          -117.9183309,
+          33.8154497
+        ],
+        [
+          -117.9182766,
+          33.8154501
+        ],
+        [
+          -117.9182617,
+          33.8154504
+        ],
+        [
+          -117.9182619,
+          33.8154599
+        ],
+        [
+          -117.918247,
+          33.8154602
+        ],
+        [
+          -117.9182459,
+          33.8154938
+        ],
+        [
+          -117.91812,
+          33.8154956
+        ],
+        [
+          -117.9181202,
+          33.8155724
+        ],
+        [
+          -117.9181552,
+          33.8155723
+        ],
+        [
+          -117.9181556,
+          33.8156625
+        ],
+        [
+          -117.9181862,
+          33.815663
+        ],
+        [
+          -117.9181846,
+          33.8157333
+        ],
+        [
+          -117.9186711,
+          33.8157323
+        ],
+        [
+          -117.9186709,
+          33.8157101
+        ],
+        [
+          -117.9186998,
+          33.8157108
+        ],
+        [
+          -117.9187004,
+          33.815667
+        ],
+        [
+          -117.9187144,
+          33.8156672
+        ],
+        [
+          -117.9187148,
+          33.8156366
+        ],
+        [
+          -117.9186705,
+          33.8156362
+        ],
+        [
+          -117.9186703,
+          33.8156499
+        ],
+        [
+          -117.9184654,
+          33.8156511
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 987163640,
+    "version": 15,
+    "timestamp": "2023-03-29T05:23:54Z",
+    "url": "https://www.openstreetmap.org/way/987163640"
+  },
+  "additionalOsm": [
+    {
+      "type": "relation",
+      "id": 14558732,
+      "version": 5,
+      "timestamp": "2026-05-27T18:21:00Z",
+      "url": "https://www.openstreetmap.org/relation/14558732"
+    }
+  ],
+  "wikidata": "Q33082878",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/dlr-toontown-el-capitoon.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "El CapiToon Theater, the facade of Mickey & Minnie's Runaway Railway (opened 2023), Mickey's Toontown, Disneyland Park, Anaheim — procedural, CC0-1.0. bun generators/dlr-toontown-el-capitoon.ts",
+    "A cartoon Art Deco movie palace at the head of Toontown's main street: a cream false front crowned by pill-topped fins in yellow, red and teal, stepping up either side of a tall cream blade carrying the red \"EL CAPITOON\" sign, over a rounded marquee on cream columns. A teal turret with a red cone roof stands at its right. Behind, the lobby and queue buildings fill OSM's outline at a plain lobby height.",
+    "Map frame: x east, y north, z up, metres, turned so the theatre's front is model south. Origin at the outline's centroid (-117.9183276, 33.8156035), on the ground. Bearing 30 (the front faces 210°, measured from OSM's front edge, way/1343882491).",
+    "Evidence: - OSM, measured: the outline way/987163640 (55 x 33 m) and the marquee canopy, relation/14558732 (its outer ring drawn whole; the inner ring is ignored). - Photos (licensed, post-2023): the front, square on (Troutfarm27, CC BY-SA 4.0, commons File:Runaway Railway Disneyland entrance.jpg), and from the front-left (Contributor19, CC BY 4.0, File:Mickey's Toontown, 2025.jpg); front-right with the turret (Cory Doctorow, CC BY-SA 2.0, File:Mickey & Minnie's Runaway Railway (Disneyland) 1.jpg); night front (Muffin Dragon, CC BY-SA 4.0, File:MMRRDLR.jpg).",
+    "Estimated: every height, from the square-on photo scaled on the marquee (top ~6.3 m): blade caps 15 m, teal pylons 11.8 m, the yellow and red fins 8–9 m, theatre block 7.4 m; the marquee's underside 4.4 m. Invented: the lobby and queue buildings' height (6 m) and their plain cream walls and flat roofs — no photo shows them, much of them is hidden behind other Toontown facades and the painted backdrop; the turret's size and place (from the outline's bay beside the facade and the photo). Left out: the lettering, the bulbs, the posters and the backdrop hills, which belong to the Runaway Railway show building (way/868763698), not this outline.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"dlr-toontown-el-capitoon\", model \"dlr-toontown-el-capitoon\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/dlr-toontown-el-capitoon.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}
