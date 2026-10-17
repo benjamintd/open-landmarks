@@ -1,0 +1,208 @@
+{
+  "id": "sentinel-building",
+  "name": "Sentinel Building",
+  "anchor": [
+    -122.4050486,
+    37.7965438
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 58348,
+      "sha256": "f4a1482f322170d8f3f65babcf710bb32cbffb02f997e196373b5d53d65fb107"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 58348,
+      "sha256": "f4a1482f322170d8f3f65babcf710bb32cbffb02f997e196373b5d53d65fb107"
+    }
+  },
+  "triangles": 1354,
+  "boundsBlenderM": [
+    [
+      -8.032,
+      -7.309,
+      0
+    ],
+    [
+      11.654,
+      10.484,
+      39.45
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -122.4049282,
+          37.7965009
+        ],
+        [
+          -122.405089,
+          37.7964798
+        ],
+        [
+          -122.405097,
+          37.7964788
+        ],
+        [
+          -122.4051215,
+          37.7965928
+        ],
+        [
+          -122.4051249,
+          37.7965949
+        ],
+        [
+          -122.4051299,
+          37.7966013
+        ],
+        [
+          -122.4051319,
+          37.7966087
+        ],
+        [
+          -122.4051308,
+          37.7966162
+        ],
+        [
+          -122.4051265,
+          37.7966229
+        ],
+        [
+          -122.4051197,
+          37.7966282
+        ],
+        [
+          -122.4051111,
+          37.7966313
+        ],
+        [
+          -122.4051016,
+          37.7966321
+        ],
+        [
+          -122.4050927,
+          37.7966304
+        ],
+        [
+          -122.4050848,
+          37.7966266
+        ],
+        [
+          -122.405079,
+          37.7966209
+        ],
+        [
+          -122.4050758,
+          37.7966141
+        ],
+        [
+          -122.4050756,
+          37.7966114
+        ],
+        [
+          -122.4049213,
+          37.7965068
+        ],
+        [
+          -122.4049282,
+          37.7965009
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 288485994,
+    "version": 10,
+    "timestamp": "2024-08-25T14:20:27Z",
+    "url": "https://www.openstreetmap.org/way/288485994"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 1092161846,
+      "version": 1,
+      "timestamp": "2022-09-05T17:00:04Z",
+      "url": "https://www.openstreetmap.org/way/1092161846"
+    }
+  ],
+  "wikidata": "Q5150141",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Columbus Tower, 916 Kearny St, San Francisco.jpg",
+      "author": "Dllu",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Columbus_Tower,_916_Kearny_St,_San_Francisco.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Columbus Tower, San Francisco.JPG",
+      "author": "Joe Fu",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Columbus_Tower,_San_Francisco.JPG",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Columbus Tower, SF front.JPG",
+      "author": "BrokenSphere",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Columbus_Tower,_SF_front.JPG",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Sentinel Building - San Francisco, CA.jpg",
+      "author": "Daderot",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Sentinel_Building_-_San_Francisco,_CA.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/sf-sentinel-building.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Sentinel Building (Columbus Tower), San Francisco — original procedural geometry, CC0-1.0. bun generators/sf-sentinel-building.ts",
+    "Map frame: x east, y north, z up, metres, no rotation (bearing 0). Origin = centroid of the OSM outline way/288485994. The footprint is that outline: a flatiron wedge between Kearny Street (west) and Columbus Avenue (north-east), a party wall against the Golden Coin Building (south), and a round turret at the narrow north tip.",
+    "Evidence",
+    "OSM way/288485994: outline, 7 levels, height 29; the turret's circle is building:part way/1092161846 (r ~2.5 m).",
+    "USGS 3DEP lidar (CA_SanFrancisco_1_B23, 2023) at 0.5 m: ground falls from ~2.4 m (Kearny, north) to ~1.4 m (Columbus, south-east) above ground_min, so y = 0 is the south-east corner; main roof 29.5-30 m above it, cupola dome peak ~36.4 m. The thin finial is below lidar resolution.",
+    "Published (Wikipedia, SF Landmark No. 33): 1907-09, Salfield & Kohlberg, seven storeys, copper-clad flatiron with a corner cupola.",
+    "Commons daylight photos: \"Columbus Tower, 916 Kearny St, San Francisco.jpg\" (Dllu, CC BY-SA 4.0, from the north, both street fronts); \"Columbus Tower, San Francisco.JPG\" (Joe Fu, CC BY-SA 3.0, from the north-west, dusk); \"Columbus Tower, SF front.JPG\" and \"Columbus Tower, SF side 1/2.JPG\" (BrokenSphere, CC BY-SA 4.0); \"Sentinel Building - San Francisco, CA.jpg\" (Daderot, CC0).",
+    "Estimated from the photos: storey heights (4.5 m ground floor, six of 3.8 m), the oriel bays (three on Kearny, two on Columbus, 3.4 m wide, 0.9 m deep), Columbus's cream render between its bays (the fire escape is left out), the cream top storey with arched windows, the cornice, and the cupola's drum, dome, lantern and finial proportions. The south party wall is plain.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"sf-sentinel-building\", model \"sf-sentinel-building\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/sf-sentinel-building.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 10 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the sf-sentinel-building-glazing finish in the window colour.",
+    "To fit six materials, folded patina into sf-sentinel-building-verdigris (ΔE 9.6)."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

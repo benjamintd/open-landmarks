@@ -1,0 +1,316 @@
+{
+  "id": "bill-graham-civic-auditorium",
+  "name": "Bill Graham Civic Auditorium",
+  "anchor": [
+    -122.4173275,
+    37.7780526
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 68460,
+      "sha256": "dd4e3677f3004f2cffc92a33cf23cbb0bcfa1ce751b1b708c0d2be8bd7eb5318"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 68460,
+      "sha256": "dd4e3677f3004f2cffc92a33cf23cbb0bcfa1ce751b1b708c0d2be8bd7eb5318"
+    }
+  },
+  "triangles": 1407,
+  "boundsBlenderM": [
+    [
+      -68.252,
+      -48.504,
+      0
+    ],
+    [
+      66.817,
+      47.304,
+      37.9
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -122.4180924,
+          37.7782944
+        ],
+        [
+          -122.4180689,
+          37.7781802
+        ],
+        [
+          -122.4180539,
+          37.7781821
+        ],
+        [
+          -122.4180227,
+          37.7780309
+        ],
+        [
+          -122.4180562,
+          37.7780266
+        ],
+        [
+          -122.4180378,
+          37.7779368
+        ],
+        [
+          -122.4180043,
+          37.7779411
+        ],
+        [
+          -122.4180005,
+          37.7779225
+        ],
+        [
+          -122.417996,
+          37.7779007
+        ],
+        [
+          -122.4180304,
+          37.7778963
+        ],
+        [
+          -122.4180125,
+          37.7778098
+        ],
+        [
+          -122.4179782,
+          37.7778142
+        ],
+        [
+          -122.4179456,
+          37.7776563
+        ],
+        [
+          -122.417818,
+          37.7776727
+        ],
+        [
+          -122.4178148,
+          37.7776572
+        ],
+        [
+          -122.41781,
+          37.7776357
+        ],
+        [
+          -122.4177167,
+          37.7776479
+        ],
+        [
+          -122.4176447,
+          37.7776574
+        ],
+        [
+          -122.417466,
+          37.7776815
+        ],
+        [
+          -122.4174679,
+          37.7776859
+        ],
+        [
+          -122.4169116,
+          37.7777574
+        ],
+        [
+          -122.416863,
+          37.7777636
+        ],
+        [
+          -122.4165847,
+          37.7777999
+        ],
+        [
+          -122.4166263,
+          37.7779832
+        ],
+        [
+          -122.4165762,
+          37.7779896
+        ],
+        [
+          -122.4165938,
+          37.7780751
+        ],
+        [
+          -122.4166385,
+          37.7780693
+        ],
+        [
+          -122.4166487,
+          37.778119
+        ],
+        [
+          -122.416604,
+          37.7781247
+        ],
+        [
+          -122.4166221,
+          37.7782126
+        ],
+        [
+          -122.4166613,
+          37.7782075
+        ],
+        [
+          -122.4166915,
+          37.7783543
+        ],
+        [
+          -122.4166768,
+          37.7783562
+        ],
+        [
+          -122.4167009,
+          37.7784733
+        ],
+        [
+          -122.416928,
+          37.7784441
+        ],
+        [
+          -122.4169325,
+          37.7784661
+        ],
+        [
+          -122.4170767,
+          37.7784476
+        ],
+        [
+          -122.4170721,
+          37.7784256
+        ],
+        [
+          -122.4170909,
+          37.7784232
+        ],
+        [
+          -122.4174007,
+          37.7783833
+        ],
+        [
+          -122.4176965,
+          37.7783457
+        ],
+        [
+          -122.4177148,
+          37.7783429
+        ],
+        [
+          -122.4177199,
+          37.7783682
+        ],
+        [
+          -122.4178648,
+          37.7783495
+        ],
+        [
+          -122.4178597,
+          37.7783243
+        ],
+        [
+          -122.4180924,
+          37.7782944
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 25759141,
+    "version": 20,
+    "timestamp": "2026-01-24T07:36:28Z",
+    "url": "https://www.openstreetmap.org/way/25759141"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 435831538,
+      "version": 5,
+      "timestamp": "2022-04-28T18:48:06Z",
+      "url": "https://www.openstreetmap.org/way/435831538"
+    }
+  ],
+  "wikidata": "Q4909197",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Bill Graham Civic Auditorium (San Francisco).JPG",
+      "author": "Sanfranman59",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Bill_Graham_Civic_Auditorium_(San_Francisco).JPG",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Bill Graham Civic Auditorium from NE.JPG",
+      "author": "BrokenSphere",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Bill_Graham_Civic_Auditorium_from_NE.JPG",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Bill Graham Civic Auditorium, San Francisco, California (10754276295).jpg",
+      "author": "Ken Lund from Reno, Nevada, USA",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Bill_Graham_Civic_Auditorium,_San_Francisco,_California_(10754276295).jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:San Francisco Civic Auditorium side view.jpg",
+      "author": "Photo: Andreas Praefcke",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:San_Francisco_Civic_Auditorium_side_view.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/sf-bill-graham-auditorium.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Bill Graham Civic Auditorium, San Francisco — original procedural geometry, CC0-1.0. bun generators/sf-bill-graham-auditorium.ts",
+    "Map frame, turned to the street grid: +y is the Grove Street front's outward normal (north), +x east (Larkin Street), z up, metres. BEARING 351. Origin = centroid of the OSM outline way/25759141; the plan is symmetric about x = 0 to within 0.3 m, so the model is mirrored across it.",
+    "Evidence",
+    "OSM way/25759141 (121 x 76 m outline, height 37) and the roof part way/435831538 (a pyramidal \"dome\", 37-43 m).",
+    "USGS 3DEP lidar (CA_SanFrancisco_1_B23, 2023) at 0.5 m. Heights here are above the lowest street grade at the south-west corner (17.4 m NAVD88): flat roofs 23.0-23.5; corner blocks' cornice 22.0; the arcade's attic 26.4 and the two towers flanking it 27.2-27.5 (fronts 2.9 m proud of the Grove front; drawn at 28.4 with their cartouche groups to 30.4 so they read above the attic, as they do from the street); a low octagonal pyramid roof, 61 m across the flats, rising from 23.8 at its eaves to 33.5 at a round lantern of radius 7.2 whose shallow dome tops out at 37.9; the entrance canopy at 7.3, 4.5 m deep. Flagpoles on the attic stand in pairs at x = +-8.2 and +-24: the column pairs between the three arches.",
+    "Published (Wikipedia; SF Landmark): 1915, John Galen Howard, Frederick Meyer and John Reid Jr., built as the Exposition Auditorium for the Panama-Pacific International Exposition.",
+    "Commons photos (daylight): \"Bill Graham Civic Auditorium (San Francisco).JPG\" (Sanfranman59, CC BY-SA 4.0, the Grove front from the north); \"Bill Graham Civic Auditorium from NE.JPG\" (BrokenSphere, CC BY-SA 4.0); \"Bill Graham Civic Auditorium, San Francisco, California (10754276295).jpg\" (Ken Lund, CC BY-SA 2.0, from the north-west); \"San Francisco Civic Auditorium side view.jpg\" (Andreas Praefcke, CC BY 3.0, the buff-brick Polk side); HABS CAL,38-SANFRA,71-C-1 \"Civic Auditorium, corner view\" (public domain, from the north-east).",
+    "Estimated from the photos: the storey heights (7 m rusticated base under the canopy, giant order to 18.8, entablature, attic), the arches' size (9.4 m glazing from just above the canopy to a crown at 20.7, just under the entablature, as in the Grove front photos), the towers' and corner blocks' windows. No street photo shows the roof: its octagon and lantern are from lidar, coloured from the USGS NAIP orthophoto (pale flat roofs, dark charcoal octagon). The two concrete fire stairs on the Polk and Larkin sides are left out.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"sf-bill-graham-auditorium\", model \"sf-bill-graham-auditorium\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/sf-bill-graham-auditorium.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 78 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the sf-bill-graham-auditorium-glazing finish in the window colour.",
+    "To fit six materials, folded sf-bill-graham-auditorium-glazing into sf-bill-graham-auditorium-roof-dark (ΔE 10)."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

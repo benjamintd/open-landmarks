@@ -1,0 +1,171 @@
+{
+  "id": "fox-oakland-theatre",
+  "name": "Fox Oakland Theatre",
+  "anchor": [
+    -122.2705411,
+    37.8080679
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 222820,
+      "sha256": "7d849f88b1c71ee33729bc9d2f433cc9c4c49970a1630d7e5cbce1e6f16cc399"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 250900,
+      "sha256": "56d984c801fc9e77288ae4b31f0f85f39214dac184108a0f5311a679f50e8fac"
+    }
+  },
+  "triangles": 4558,
+  "boundsBlenderM": [
+    [
+      -44.416,
+      -38.511,
+      0
+    ],
+    [
+      44.122,
+      40.238,
+      33.6
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -122.2708924,
+          37.8084273
+        ],
+        [
+          -122.2701282,
+          37.8083085
+        ],
+        [
+          -122.2700495,
+          37.8082131
+        ],
+        [
+          -122.2700839,
+          37.8080744
+        ],
+        [
+          -122.2701171,
+          37.8079388
+        ],
+        [
+          -122.2701558,
+          37.8077893
+        ],
+        [
+          -122.2702909,
+          37.8077218
+        ],
+        [
+          -122.2710229,
+          37.807839
+        ],
+        [
+          -122.2710402,
+          37.8078418
+        ],
+        [
+          -122.2708924,
+          37.8084273
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 31149191,
+    "version": 14,
+    "timestamp": "2023-01-21T23:25:41Z",
+    "url": "https://www.openstreetmap.org/way/31149191"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q5476853",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Fox Oakland Theatre (Oakland, CA).JPG",
+      "author": "Sanfranman59",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Fox_Oakland_Theatre_(Oakland,_CA).JPG",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Fox Oakland.jpg",
+      "author": "Almonroth",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Fox_Oakland.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Oakland Fox Theatre, 2012-08-31.jpg",
+      "author": "Michael Mamaril",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Oakland_Fox_Theatre,_2012-08-31.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Oakland Fox Theater 2014.jpg",
+      "author": "Cullen328",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Oakland_Fox_Theater_2014.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Fox Theater of Oakland, Wide.jpg",
+      "author": "Cy2005",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Fox_Theater_of_Oakland,_Wide.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/sf-fox-oakland.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Fox Oakland Theatre, Oakland — original procedural geometry, CC0-1.0. bun generators/sf-fox-oakland.ts",
+    "Frame: built turned to the block, BEARING 11.3 (Telegraph Avenue runs 11.3° east of north here). x across the block (+x = east, the Telegraph Avenue front), y along it (+y = north, towards 19th Street), z up, metres. Origin = the area centroid of the OSM outline way/31149191.",
+    "Evidence",
+    "OSM way/31149191 (outline, 3 levels, no height). Matches the lidar within ~1 m.",
+    "USGS 3DEP lidar (CA_AlamedaCo_2_2021) at 0.5-1 m in the turned frame (/tmp/city/sf/work/oak/frame.py). y = 0 is street level, 8.7 m NAVD88 (the footprint's 5th percentile; the single lowest return, 7.7, is a light well). Above street level: the three-storey wings round the block, roof ~16 m and their crenellated parapet ~18; the auditorium in the middle (x -23..26, y -20..20), walls ~21 and a vault to 25; the stage house at the back, 23 and its fly tower 27; on Telegraph the entrance pavilion (x 33..40, y -8..8) 21 m, its two small domed turrets 25; the square base of the dome 21 and the dome, r 4.5 centred 9.5 m behind the front, peaking at 32.4; the blade sign, at the pavilion's north corner, 24.5 m and reaching 3 m out; the marquee ~7.",
+    "Published (Wikipedia; NRHP; Oakland Landmark): 1928, Weeks & Day with Maury I. Diggs; \"Indo-Moorish\" (Hindu-Moorish) style; restored 2009.",
+    "Commons daylight photos: \"Fox Oakland Theatre (Oakland, CA).JPG\" (Sanfranman59, CC BY-SA 3.0, the Telegraph front); \"Fox Oakland.jpg\", \"Fox Oakland-2..10.jpg\" (Almonroth, CC BY-SA 3.0: dome, turrets, wings, crenellations, terracotta spandrels); \"Fox-oakland-theatre-uptown- oakland.jpg\" (Tandonva, CC0, the front); \"Oakland Fox Theatre, 2012-08-31.jpg\" (Michael Mamaril, CC BY-SA 3.0, the blade); \"Oakland Fox Theater 2014.jpg\" (Cullen328, CC0, the corner from the south-east); \"Fox Theater of Oakland, Wide.jpg\" (Cy2005, CC BY-SA 4.0).",
+    "Famous-sign exception (STYLE.md): the blade carries FOX across its crest and OAKLAND stacked below, as extruded block letters on both faces.",
+    "Estimated from the photos: storey heights, the wings' bays (~4.5 m, one window panel per bay over floors two and three with the terracotta spandrel between), the merlons' size and spacing, the pavilion's pointed arch (5 m wide) and the tile panels round it, the turrets (r 1.6), the drum and the dome's bell profile and its four blue tile panels, the letter sizes, the marquee.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"sf-fox-oakland\", model \"sf-fox-oakland\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/sf-fox-oakland.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

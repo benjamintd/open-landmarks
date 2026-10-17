@@ -1,0 +1,281 @@
+{
+  "id": "war-memorial-veterans-building",
+  "name": "War Memorial Veterans Building",
+  "anchor": [
+    -122.4210207,
+    37.7795458
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 95012,
+      "sha256": "99ccf9e828ec09795204c30a77ebbdd1f296076b3e11e04f5fbe60efceab472f"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 95012,
+      "sha256": "99ccf9e828ec09795204c30a77ebbdd1f296076b3e11e04f5fbe60efceab472f"
+    }
+  },
+  "triangles": 2038,
+  "boundsBlenderM": [
+    [
+      -47.434,
+      -35.37,
+      0
+    ],
+    [
+      47.998,
+      43.117,
+      33.8
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -122.4215265,
+          37.7796699
+        ],
+        [
+          -122.4215374,
+          37.779669
+        ],
+        [
+          -122.4214628,
+          37.7793013
+        ],
+        [
+          -122.4214524,
+          37.7793025
+        ],
+        [
+          -122.4214453,
+          37.779266
+        ],
+        [
+          -122.4214035,
+          37.7792692
+        ],
+        [
+          -122.4214026,
+          37.7792617
+        ],
+        [
+          -122.4207768,
+          37.7793412
+        ],
+        [
+          -122.4207762,
+          37.7793333
+        ],
+        [
+          -122.4207446,
+          37.7793362
+        ],
+        [
+          -122.4207369,
+          37.77928
+        ],
+        [
+          -122.4207281,
+          37.7792752
+        ],
+        [
+          -122.4205956,
+          37.7792915
+        ],
+        [
+          -122.4205899,
+          37.7793002
+        ],
+        [
+          -122.4206001,
+          37.7793567
+        ],
+        [
+          -122.4205706,
+          37.7793593
+        ],
+        [
+          -122.420573,
+          37.77937
+        ],
+        [
+          -122.4205593,
+          37.7793715
+        ],
+        [
+          -122.4205635,
+          37.779396
+        ],
+        [
+          -122.4205292,
+          37.7794003
+        ],
+        [
+          -122.420613,
+          37.7798064
+        ],
+        [
+          -122.4206471,
+          37.7798022
+        ],
+        [
+          -122.4206509,
+          37.7798288
+        ],
+        [
+          -122.4206672,
+          37.7798263
+        ],
+        [
+          -122.4206688,
+          37.7798358
+        ],
+        [
+          -122.4206993,
+          37.7798315
+        ],
+        [
+          -122.4207095,
+          37.7798881
+        ],
+        [
+          -122.4207203,
+          37.7798929
+        ],
+        [
+          -122.4208451,
+          37.7798766
+        ],
+        [
+          -122.4208509,
+          37.7798702
+        ],
+        [
+          -122.4208415,
+          37.7798125
+        ],
+        [
+          -122.4208712,
+          37.7798087
+        ],
+        [
+          -122.4208699,
+          37.7798002
+        ],
+        [
+          -122.4214956,
+          37.7797221
+        ],
+        [
+          -122.4214941,
+          37.7797112
+        ],
+        [
+          -122.4215322,
+          37.7797079
+        ],
+        [
+          -122.4215265,
+          37.7796699
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 32865757,
+    "version": 14,
+    "timestamp": "2026-02-23T21:16:00Z",
+    "url": "https://www.openstreetmap.org/way/32865757"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q5736243",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:War Memorial Veterans Building (San Francisco).JPG",
+      "author": "Sanfranman59",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:War_Memorial_Veterans_Building_(San_Francisco).JPG",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:War Memorial Veterans Building side.jpg",
+      "author": "Photo: Andreas Praefcke",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:War_Memorial_Veterans_Building_side.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:San Francisco (2018) - 151.jpg",
+      "author": "Another Believer",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:San_Francisco_(2018)_-_151.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Aerial view of the Beaux Arts Civic Center of SF.jpg",
+      "author": "Dllu",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_the_Beaux_Arts_Civic_Center_of_SF.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:San Francisco City Hall, War Memorial Opera House, War Memorial Veterans Building.jpg",
+      "author": "Yair-haklai",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:San_Francisco_City_Hall,_War_Memorial_Opera_House,_War_Memorial_Veterans_Building.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/sf-veterans-building.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "War Memorial Veterans Building (Herbst Theatre), San Francisco — original procedural geometry, CC0-1.0. bun generators/sf-veterans-building.ts",
+    "The Opera House's twin across the War Memorial Court, built from the same kit (`warMemorial()` in sf-opera-house.ts) so the pair stays consistent: the same colonnade, quadrant corners, pavilions, cornice, attic and mansard, with the Veterans Building's own dimensions, round-headed loggia windows, two-tier side windows and glazed roofs, and no fly tower.",
+    "Frame: BEARING 350.7, as the Opera House. x across the block (+x = the Van Ness front, east), y along it (+y north), z up, metres. Origin = area centroid of the OSM outline way/32865757; the building is drawn symmetric about y = VC. y = 0 is the lowest ground it touches (20.35 m NAVD88, the west side); the Van Ness front stands ~0.4 m higher.",
+    "Evidence",
+    "OSM way/32865757 (civic, height 28, no building:parts).",
+    "USGS 3DEP lidar (CA_SanFrancisco_1_B23, 2023) at 1 m in the turned frame (/tmp/city/sf/work/sf-opera-house/lid.json): colonnade front x = 44.3, its cornice 19.2 and ledge 20.5; attic 23.3; the roof climbing ~5.5 m inward to a flat top at ~29.3; side walls |y| = 28.8 from x = -43; corner pavilions to |y| = 37 between x = 19 and 37.2, joined to the colonnade by quadrant walls, their hipped roofs peaking at ~29; a raised glazed skylight in the middle of the roof to 33.8. The glass roofs scatter the lidar (spurious returns to 46 m along their ridges), so their shapes come from the photos and the median heights.",
+    "Published (Wikipedia; SF War Memorial): 1932, Arthur Brown Jr.; the Herbst Theatre inside; the upper floors were the San Francisco Museum of Art's top-lit galleries until 1994.",
+    "Photos (Wikimedia Commons): \"War Memorial Veterans Building (San Francisco).JPG\" (Sanfranman59, CC BY-SA 3.0, the Van Ness front: 8 column pairs, arched loggia windows, the glazed front mansard); \"War Memorial Veterans Building side.jpg\" (Andreas Praefcke, CC BY 3.0, from the south-east: the pavilion and the court side's two tiers of arched windows); \"San Francisco (2018) - 151.jpg\" (Another Believer, CC BY-SA 4.0, the court from the west); \"Aerial view of the Beaux Arts Civic Center of SF.jpg\" (Dllu, CC BY-SA 4.0: ten arched windows on the court side, the glowing skylight band along the roof, the pavilion hips); \"San Francisco City Hall, War Memorial Opera House, War Memorial Veterans Building.jpg\" (Yair Haklai, CC BY-SA 4.0).",
+    "Estimated: the storey lines (the Opera House's scaled to the lower cornice), the window sizes, the split of each mansard into metal below and a skylight band above (from the aerial), and the west (Franklin Street) face, which no photo shows: three rows of plain windows.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"sf-veterans-building\", model \"sf-veterans-building\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/sf-veterans-building.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 25 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the sf-veterans-building-glazing finish in the window colour.",
+    "To fit six materials, folded sf-veterans-building-glass into sf-veterans-building-roof (ΔE 4.5)."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

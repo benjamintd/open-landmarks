@@ -1,0 +1,112 @@
+{
+  "id": "bay-bridge-west-span-tower-w6",
+  "name": "Bay Bridge west span (tower W6)",
+  "anchor": [
+    -122.3698997,
+    37.8056222
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 50260,
+      "sha256": "098833be70f7033a4b2ce58ef925dea82ebe7034edd3e06cb6a228b657378772"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 50260,
+      "sha256": "098833be70f7033a4b2ce58ef925dea82ebe7034edd3e06cb6a228b657378772"
+    }
+  },
+  "triangles": 942,
+  "boundsBlenderM": [
+    [
+      -24.76,
+      -23.592,
+      0
+    ],
+    [
+      24.76,
+      23.592,
+      143.4
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -122.3700471,
+          37.8056881
+        ],
+        [
+          -122.3700036,
+          37.805728
+        ],
+        [
+          -122.3697523,
+          37.8055563
+        ],
+        [
+          -122.3697958,
+          37.8055166
+        ],
+        [
+          -122.3700471,
+          37.8056881
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 432712479,
+    "version": 3,
+    "timestamp": "2024-02-11T06:47:31Z",
+    "url": "https://www.openstreetmap.org/way/432712479"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q130699957",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/sf-bay-bridge-west.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "San Francisco–Oakland Bay Bridge, West Bay Crossing towers (1936; Charles H. Purcell, chief engineer) — procedural, CC0-1.0. bun generators/sf-bay-bridge-west.ts",
+    "The west crossing is two suspension bridges end to end, four towers in all. They share one design but come in two heights: towers W2 and W6, at the outer ends, stand 13.6 m lower than W3 and W5 beside the centre anchorage, because the deck climbs toward Yerba Buena Island's tunnel and the inner towers carry it higher. Everything from the deck up is the same; the inner towers only have longer legs and lower X panels under it. So the builder below makes either, and two models use it: this one (W2, W6) and `sf-bay-bridge-west-inner` (W3, W5). A scale would have widened the inner towers by a tenth, where the lidar shows them the same width.",
+    "Map frame: x across the bridge, y along it, z up, metres; origin at the tower's centre on the water. Placed at bearing 40.4°, the line through all four towers. Only the towers and their piers: deck, trusses and cables are the map's.",
+    "What makes it the Bay Bridge: silver-grey steel; two slender legs leaning slightly inward and flaring at the foot along the bridge; a chain of X bracing, three panels above the deck and two below, meeting the legs without horizontals; the paired roadway struts under the two decks; a castellated box hood across the top with three openings in each face; a broad round-ended concrete pier.",
+    "Sources:",
+    "HAER CA-32 drawing 382, \"West Bay Crossing; Towers; General Elevations and Sections\" (State of California Department of Public Works, public domain, via Wikimedia Commons): leg batter 1/4 in 12; legs 15 x 12 ft at the top; base 19 ft across the bridge, 31 ft 7 in (W3, W5) or 24 ft (W2, W6) along it, the flare a parabola over the bottom 172 ft or 127 ft; cap plates at 498.2 ft (W3, W5) and 453.5 ft (W2, W6) above MLLW; upper and lower roadways at 257.6/231.1 ft and 212.9/186.5 ft; upper X panels 70.9, 70.3 and 73.6 ft; top of masonry at +40 ft.",
+    "OSM: the towers are ways 432712476–432712479 (building=tower, a 29 x 10 m outline each, height 160 tagged on all four); the piers are man_made=pier areas (236373808 \"D\", 236373809 \"E\", 1136339257 \"Pier B\"), about 55 x 29 m with rounded ends, which the model's pier follows.",
+    "Lidar (USGS 3DEP, CA_SanFrancisco_1_B23, 2023, 0.5 m grid; water at 0 m NAVD88 = y 0): hood tops 143.4 m (W2, W6) and 156.9 m (W3, W5); upper deck 64.9 m and 78.4 m; tops 27 m across; piers about 12 m.",
+    "Photos (Wikimedia Commons): \"Bay Bridge (91696)\" and \"Bay Bridge (91690)\" (Rhododendrites, CC BY-SA 4.0; W5 and W6 broadside in low sun); \"San Francisco Oakland Bay Bridge Western Span\" and \"Western span of the San Francisco–Oakland Bay Bridge\" (from the Embarcadero); \"San Francisco Bay Bridge January 2014\" (King of Hearts, CC BY-SA 4.0).",
+    "Estimated: member sizes (diagonals 2.3 m, struts 2.5–3.3 m, from the drawing's sections), the hood's openings and crenellations (photos), the pier's top course.",
+    "Colour: the towers' aluminium-grey paint from daylight photos, pulled to the palette's lightness; recesses a shade darker.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"sf-bay-bridge-west-w6\", model \"sf-bay-bridge-west\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/sf-bay-bridge-west.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

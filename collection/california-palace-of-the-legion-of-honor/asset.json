@@ -1,0 +1,365 @@
+{
+  "id": "california-palace-of-the-legion-of-honor",
+  "name": "California Palace of the Legion of Honor",
+  "anchor": [
+    -122.50074208,
+    37.78454549
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 169760,
+      "sha256": "7fc8108140a2665216c5e7bf66d3cce54360d32750578814bf5c4604381e6db8"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 169760,
+      "sha256": "7fc8108140a2665216c5e7bf66d3cce54360d32750578814bf5c4604381e6db8"
+    }
+  },
+  "triangles": 3839,
+  "boundsBlenderM": [
+    [
+      -53.131,
+      -51.817,
+      0
+    ],
+    [
+      54.341,
+      52.864,
+      24.2
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -122.5005015,
+          37.7849237
+        ],
+        [
+          -122.5004905,
+          37.7849313
+        ],
+        [
+          -122.5005833,
+          37.7850154
+        ],
+        [
+          -122.5010317,
+          37.7847064
+        ],
+        [
+          -122.5010573,
+          37.7846888
+        ],
+        [
+          -122.5010843,
+          37.7846702
+        ],
+        [
+          -122.5013192,
+          37.7845083
+        ],
+        [
+          -122.5013388,
+          37.7844948
+        ],
+        [
+          -122.5011631,
+          37.7843356
+        ],
+        [
+          -122.5011705,
+          37.7843269
+        ],
+        [
+          -122.5011754,
+          37.7843184
+        ],
+        [
+          -122.5011787,
+          37.784309
+        ],
+        [
+          -122.5011801,
+          37.7842989
+        ],
+        [
+          -122.5011793,
+          37.7842885
+        ],
+        [
+          -122.501176,
+          37.7842776
+        ],
+        [
+          -122.5011708,
+          37.7842683
+        ],
+        [
+          -122.5011645,
+          37.7842605
+        ],
+        [
+          -122.5011569,
+          37.7842537
+        ],
+        [
+          -122.5011476,
+          37.7842475
+        ],
+        [
+          -122.5011376,
+          37.7842427
+        ],
+        [
+          -122.5011264,
+          37.7842391
+        ],
+        [
+          -122.5011137,
+          37.7842368
+        ],
+        [
+          -122.5011018,
+          37.7842361
+        ],
+        [
+          -122.5010891,
+          37.7842371
+        ],
+        [
+          -122.5010764,
+          37.7842398
+        ],
+        [
+          -122.501063,
+          37.7842448
+        ],
+        [
+          -122.5008869,
+          37.7840852
+        ],
+        [
+          -122.5006078,
+          37.7842775
+        ],
+        [
+          -122.5001315,
+          37.7846057
+        ],
+        [
+          -122.5002241,
+          37.7846896
+        ],
+        [
+          -122.500235,
+          37.7846821
+        ],
+        [
+          -122.5003292,
+          37.7847674
+        ],
+        [
+          -122.5003247,
+          37.7847705
+        ],
+        [
+          -122.5003276,
+          37.7847731
+        ],
+        [
+          -122.5003468,
+          37.7847908
+        ],
+        [
+          -122.5003646,
+          37.7848071
+        ],
+        [
+          -122.5003821,
+          37.7848231
+        ],
+        [
+          -122.5004016,
+          37.7848409
+        ],
+        [
+          -122.5004044,
+          37.7848435
+        ],
+        [
+          -122.5004094,
+          37.7848401
+        ],
+        [
+          -122.5005015,
+          37.7849237
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "relation",
+    "id": 21115818,
+    "version": 12,
+    "timestamp": "2026-07-18T21:17:05Z",
+    "url": "https://www.openstreetmap.org/relation/21115818"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 1540337302,
+      "version": 4,
+      "timestamp": "2026-07-19T23:32:10Z",
+      "url": "https://www.openstreetmap.org/way/1540337302"
+    },
+    {
+      "type": "way",
+      "id": 1540337303,
+      "version": 3,
+      "timestamp": "2026-07-19T23:32:10Z",
+      "url": "https://www.openstreetmap.org/way/1540337303"
+    },
+    {
+      "type": "way",
+      "id": 1540337304,
+      "version": 3,
+      "timestamp": "2026-07-19T23:32:10Z",
+      "url": "https://www.openstreetmap.org/way/1540337304"
+    },
+    {
+      "type": "way",
+      "id": 1540337305,
+      "version": 4,
+      "timestamp": "2026-07-19T23:32:10Z",
+      "url": "https://www.openstreetmap.org/way/1540337305"
+    },
+    {
+      "type": "way",
+      "id": 1540327029,
+      "version": 6,
+      "timestamp": "2026-07-18T21:53:47Z",
+      "url": "https://www.openstreetmap.org/way/1540327029"
+    },
+    {
+      "type": "way",
+      "id": 1540327030,
+      "version": 5,
+      "timestamp": "2026-07-18T21:53:47Z",
+      "url": "https://www.openstreetmap.org/way/1540327030"
+    },
+    {
+      "type": "way",
+      "id": 1410202318,
+      "version": 5,
+      "timestamp": "2026-07-18T21:10:15Z",
+      "url": "https://www.openstreetmap.org/way/1410202318"
+    },
+    {
+      "type": "way",
+      "id": 1410202325,
+      "version": 8,
+      "timestamp": "2026-07-19T04:48:03Z",
+      "url": "https://www.openstreetmap.org/way/1410202325"
+    },
+    {
+      "type": "way",
+      "id": 1540333313,
+      "version": 4,
+      "timestamp": "2026-07-18T21:52:03Z",
+      "url": "https://www.openstreetmap.org/way/1540333313"
+    },
+    {
+      "type": "way",
+      "id": 1540333314,
+      "version": 5,
+      "timestamp": "2026-07-18T22:13:18Z",
+      "url": "https://www.openstreetmap.org/way/1540333314"
+    }
+  ],
+  "wikidata": "Q2468251",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:The Legion of Honor - Joy of Museums 1.jpg",
+      "author": "GordonMakryllos",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:The_Legion_of_Honor_-_Joy_of_Museums_1.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:California Palace of the Legion of Honor, San Francisco, California LCCN2013630249.tif",
+      "author": "Carol M. Highsmith",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:California_Palace_of_the_Legion_of_Honor,_San_Francisco,_California_LCCN2013630249.tif",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:California_Palace_of_the_Legion_of_Honor,_San_Francisco,_California_LCCN2013630249.tif",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Legion of Honor - panoramio.jpg",
+      "author": "K Danko",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Legion_of_Honor_-_panoramio.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:California Palace of the Legion of Honor, 02.JPG",
+      "author": "sailko",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:California_Palace_of_the_Legion_of_Honor,_02.JPG",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Legion of Honor Museum, San Francisco.jpg",
+      "author": "Dan Nevill",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Legion_of_Honor_Museum,_San_Francisco.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/sf-legion-of-honor.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "California Palace of the Legion of Honor, San Francisco — original procedural geometry, CC0-1.0. bun generators/sf-legion-of-honor.ts",
+    "Map frame turned to the building: +y runs up the axis from the domed rotunda at the back to the triumphal arch on the street front (compass 49.1°), +x across it, z up, metres. BEARING 49.1. Origin = the centroid of the OSM outline, on the ground along the sides and back of the building (111.7 m NAVD88). The court of honour and the front terrace stand on a podium 4.9 m and 4.5 m above that; the podium is the map's terrain, so the court is left open and the colonnades' stylobates run down to y = 0.",
+    "Evidence",
+    "OSM relation/21115818 (multipolygon: outer way/1540340820, inner 1540340819 = the court; building=museum, height 0.01, which is wrong): 60.2 x 93.4 m. Its parts: the two wings 1540337302 and 1540337304, the central gallery 1540337303, the portico 1540337305, the court's side colonnades with the front screen 1540327029 and 1540327030, the arch 1410202325, 1540333313, 1540333314, the rotunda 1410202318. Every plan dimension here is OSM's.",
+    "USGS 3DEP lidar (CA_SanFrancisco_1_B23, 2023, 0.5 m grid), above 111.7: court 4.9, front terrace 4.5; wings' walls 15.5-16.3 with a low roof to 17.1-17.7; court colonnades 11.3 with their balustrade 12.4; the arch 16.4; the portico 17.0-17.4; the central gallery a gabled roof, eaves 17.2, ridge 20.0-20.3; rear galleries 13.3-16.7 with skylight bands; the rotunda's wall 15.5-16.4, its saucer dome springing r 5.5 at 19.6, crown 22.4, finial 24.2. Narrow light wells beside the wings reach 108.7; the ground round the building is 111.7 and that is taken as y = 0. (The court held a temporary pavilion when the lidar was flown: ignored.)",
+    "Published (Wikipedia; FAMSF): 1924, George Applegarth and Henri Guillaume, a three-quarter scale copy of the Palais de la Légion d'Honneur (Hôtel de Salm), Paris; the arch, the Ionic colonnades round the court and the Corinthian portico inscribed \"Honneur et Patrie\".",
+    "Commons daylight photos: \"The Legion of Honor - Joy of Museums 1.jpg\" (GordonMakryllos, CC BY-SA 4.0, the street front on axis); \"California Palace of the Legion of Honor, San Francisco, California LCCN2013630249.tif\" (Carol M. Highsmith, public domain, the front at dusk, square on); \"Legion of Honor - panoramio.jpg\" (K Danko, CC BY-SA 3.0, the arch); \"California Palace of the Legion of Honor, 02.JPG\" and \"03.JPG\" (sailko, CC BY-SA 3.0, the court and the portico); \"California Palace of the Legion of Honor 117/163/184 2015-01-03.JPG\" (FASTILY, CC BY-SA 4.0, the court's colonnades and portico); \"Legion of Honor Museum, San Francisco.jpg\" (Dan Nevill, CC BY 2.0, the front and the north wing's side); USGS NAIP (roofs: pale, with aqua skylight bands and a green gallery roof and dome).",
+    "Estimated from the photos (scaled by the lidar): the column counts and spacing (16 Ionic columns a side in the court, two rows of five in each half of the front screen), the arch opening (5.6 m, crown 14.3 m), the portico's six columns, the niches and relief panels on the wings (one arched niche between two narrow ones on each front, a row of niches on the sides), the back elevations (no photo: plain walls). The rear galleries' skylights are simplified to one glazed lantern a side.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"sf-legion-of-honor\", model \"sf-legion-of-honor\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/sf-legion-of-honor.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

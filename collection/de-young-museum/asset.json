@@ -1,0 +1,219 @@
+{
+  "id": "de-young-museum",
+  "name": "de Young Museum",
+  "anchor": [
+    -122.46871572,
+    37.77147861
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 23964,
+      "sha256": "5aff21e56dfd13060c6ff8b73e5f6c2528fd3ccf964b33de10ef7c02958c78db"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 23964,
+      "sha256": "5aff21e56dfd13060c6ff8b73e5f6c2528fd3ccf964b33de10ef7c02958c78db"
+    }
+  },
+  "triangles": 462,
+  "boundsBlenderM": [
+    [
+      -79.226,
+      -78.731,
+      0
+    ],
+    [
+      82.27,
+      81.796,
+      50
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -122.4681715,
+          37.7713995
+        ],
+        [
+          -122.4682646,
+          37.7713324
+        ],
+        [
+          -122.468922,
+          37.7708627
+        ],
+        [
+          -122.4690369,
+          37.7707806
+        ],
+        [
+          -122.4690434,
+          37.7707863
+        ],
+        [
+          -122.4693969,
+          37.7710948
+        ],
+        [
+          -122.4696196,
+          37.7712892
+        ],
+        [
+          -122.4693564,
+          37.771476
+        ],
+        [
+          -122.4684723,
+          37.7721033
+        ],
+        [
+          -122.4683154,
+          37.7722147
+        ],
+        [
+          -122.4682715,
+          37.7720495
+        ],
+        [
+          -122.4681822,
+          37.7719724
+        ],
+        [
+          -122.4682304,
+          37.7719375
+        ],
+        [
+          -122.4681561,
+          37.7719108
+        ],
+        [
+          -122.4681319,
+          37.7719282
+        ],
+        [
+          -122.4679993,
+          37.7718116
+        ],
+        [
+          -122.4678209,
+          37.7716546
+        ],
+        [
+          -122.4681715,
+          37.7713995
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "relation",
+    "id": 1652482,
+    "version": 17,
+    "timestamp": "2026-08-08T01:57:27Z",
+    "url": "https://www.openstreetmap.org/relation/1652482"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 444230154,
+      "version": 6,
+      "timestamp": "2025-08-05T01:45:21Z",
+      "url": "https://www.openstreetmap.org/way/444230154"
+    },
+    {
+      "type": "way",
+      "id": 1418750068,
+      "version": 1,
+      "timestamp": "2025-07-30T20:08:59Z",
+      "url": "https://www.openstreetmap.org/way/1418750068"
+    },
+    {
+      "type": "way",
+      "id": 1418750069,
+      "version": 2,
+      "timestamp": "2025-08-05T01:45:21Z",
+      "url": "https://www.openstreetmap.org/way/1418750069"
+    },
+    {
+      "type": "way",
+      "id": 1418750070,
+      "version": 1,
+      "timestamp": "2025-07-30T20:08:59Z",
+      "url": "https://www.openstreetmap.org/way/1418750070"
+    },
+    {
+      "type": "way",
+      "id": 1418750071,
+      "version": 2,
+      "timestamp": "2025-07-31T17:00:17Z",
+      "url": "https://www.openstreetmap.org/way/1418750071"
+    },
+    {
+      "type": "way",
+      "id": 1418750072,
+      "version": 1,
+      "timestamp": "2025-07-30T20:08:59Z",
+      "url": "https://www.openstreetmap.org/way/1418750072"
+    },
+    {
+      "type": "way",
+      "id": 1418750073,
+      "version": 1,
+      "timestamp": "2025-07-30T20:08:59Z",
+      "url": "https://www.openstreetmap.org/way/1418750073"
+    },
+    {
+      "type": "way",
+      "id": 1418972816,
+      "version": 1,
+      "timestamp": "2025-07-31T17:06:11Z",
+      "url": "https://www.openstreetmap.org/way/1418972816"
+    },
+    {
+      "type": "way",
+      "id": 1418972817,
+      "version": 1,
+      "timestamp": "2025-07-31T17:06:11Z",
+      "url": "https://www.openstreetmap.org/way/1418972817"
+    }
+  ],
+  "wikidata": "Q1470276",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/sf-de-young.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Shared kit for the Golden Gate Park models (sf-de-young, sf-cal-academy, sf-conservatory-of-flowers, sf-spreckels-temple-of-music, sf-dutch-windmill). The de Young's own geometry is further down, under `import.meta.main`, so importing the kit builds nothing.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"sf-de-young\", model \"sf-de-young\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/sf-de-young.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 346 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the sf-de-young-glazing finish in the window colour."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

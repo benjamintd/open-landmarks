@@ -1,0 +1,224 @@
+{
+  "id": "ghirardelli-square",
+  "name": "Ghirardelli Square",
+  "anchor": [
+    -122.42283442,
+    37.80560018
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 190896,
+      "sha256": "2f64462e1bed8084b7568efd133918e4b05a3a846042f5234b436d5295ce3ad1"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 190896,
+      "sha256": "2f64462e1bed8084b7568efd133918e4b05a3a846042f5234b436d5295ce3ad1"
+    }
+  },
+  "triangles": 3610,
+  "boundsBlenderM": [
+    [
+      -53.132,
+      -19.295,
+      0
+    ],
+    [
+      55.786,
+      23.593,
+      35.9
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -122.4222619,
+          37.8058094
+        ],
+        [
+          -122.422259,
+          37.8057959
+        ],
+        [
+          -122.4222249,
+          37.8056351
+        ],
+        [
+          -122.4222188,
+          37.8056359
+        ],
+        [
+          -122.4222067,
+          37.8055789
+        ],
+        [
+          -122.4222775,
+          37.8055695
+        ],
+        [
+          -122.4222791,
+          37.8055772
+        ],
+        [
+          -122.422402,
+          37.8055609
+        ],
+        [
+          -122.4224045,
+          37.8055751
+        ],
+        [
+          -122.4224321,
+          37.8057
+        ],
+        [
+          -122.4224435,
+          37.8057563
+        ],
+        [
+          -122.4224495,
+          37.8057846
+        ],
+        [
+          -122.4223601,
+          37.8057964
+        ],
+        [
+          -122.4222619,
+          37.8058094
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 939539785,
+    "version": 1,
+    "timestamp": "2021-05-05T21:58:24Z",
+    "url": "https://www.openstreetmap.org/way/939539785"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 939539839,
+      "version": 1,
+      "timestamp": "2021-05-05T21:58:24Z",
+      "url": "https://www.openstreetmap.org/way/939539839"
+    },
+    {
+      "type": "way",
+      "id": 939539786,
+      "version": 1,
+      "timestamp": "2021-05-05T21:58:24Z",
+      "url": "https://www.openstreetmap.org/way/939539786"
+    },
+    {
+      "type": "way",
+      "id": 939539784,
+      "version": 1,
+      "timestamp": "2021-05-05T21:58:24Z",
+      "url": "https://www.openstreetmap.org/way/939539784"
+    },
+    {
+      "type": "way",
+      "id": 288388853,
+      "version": 7,
+      "timestamp": "2022-09-05T17:03:39Z",
+      "url": "https://www.openstreetmap.org/way/288388853"
+    }
+  ],
+  "wikidata": "Q5556730",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Ghirardelli Square Sign.JPG",
+      "author": "Ryan U",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Ghirardelli_Square_Sign.JPG",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Ghirardelli Square Sign in San Francisco.jpg",
+      "author": "Miscellaneous contributor",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Ghirardelli_Square_Sign_in_San_Francisco.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Ghirardelli Square, San Francisco 2023-07-20.jpg",
+      "author": "The wub",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Ghirardelli_Square,_San_Francisco_2023-07-20.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Looking to North Point St from Larkin St, SF.jpg",
+      "author": "Roman Eugeniusz",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Looking_to_North_Point_St_from_Larkin_St,_SF.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Ghirardelli Square entrance, Larkin St, SF.jpg",
+      "author": "Roman Eugeniusz",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Ghirardelli_Square_entrance,_Larkin_St,_SF.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Ghiradelli Square sign from Aquatic Park Bathhouse, SF.jpg",
+      "author": "kevinmcgill from Den Bosch, Netherlands",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Ghiradelli_Square_sign_from_Aquatic_Park_Bathhouse,_SF.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/sf-ghirardelli-square.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Ghirardelli Square, San Francisco: the Clock Tower Building, the Mustard and Cocoa Buildings along North Point Street, and the rooftop sign that spans them — original procedural geometry, CC0-1.0. bun generators/sf-ghirardelli-square.ts",
+    "Frame: built turned to the block, BEARING 351 (the Western Addition grid runs 9° anticlockwise of north). x along North Point Street (+x = Larkin Street, east), y across the block (+y = the plaza and Beach Street, north), z up, metres. Origin = the area centroid of the four outlines modelled.",
+    "Evidence",
+    "OSM: Clock Tower Building way/939539785 with its tower part way/939539839 (the south-east corner, 6.5 x 6.3 m), the connector way/939539786, Mustard Building way/939539784, Cocoa Building way/288388853 (5 levels, 22 m). The square's other buildings are left to the map.",
+    "USGS 3DEP lidar (CA_SanFrancisco_1_B23, 2023) at 0.5 m: the lowest ground under the outlines is 17.0 m NAVD88 on the Cocoa Building's plaza side, so y = 0 is there; North Point Street runs at 20.5-21 m (+3.5 to +4). Roofs: Clock Tower Building 30.3 (+13.3) with its cornice and parapet to 31.3; connector 31.8; Mustard 35.0 (+18); Cocoa 39.5 (+22.5). Tower: the balustrade and corner pinnacles 42.5-46 (+25.5 to +29), the slate spire's top 51.5 (+34.5), finial 52.9 (+35.9). The sign: a line of returns 45 m long at local y = +2.5 over both roofs, the tall letters' tops at 48.3 (+31.3) and the short ones' at 46.3 (+29.3).",
+    "Published (Wikipedia, NRHP, SF Landmark No. 30): the Ghirardelli chocolate works, 1893-1916, by William Mooser II; the Clock Tower Building (1911) after the Château de Blois; the illuminated sign, 1923, is a city landmark in its own right; rehabilitated as a shopping square in 1964 (Wurster, Bernardi & Emmons; Lawrence Halprin).",
+    "Commons daylight photos: \"Ghirardelli Square Sign.JPG\" (Ryan U, CC BY-SA 3.0, the sign over the Mustard Building from Beach Street); \"Ghirardelli Square Sign in San Francisco.jpg\" (CC0, the sign's full length over the Mustard and Cocoa Buildings, crenellations and cream trim); \"Ghirardelli Square, San Francisco 2023-07-20.jpg\" (The wub, CC BY-SA 4.0, the tower and sign from the north-east); \"Looking to North Point St from Larkin St, SF.jpg\" and \"Ghirardelli Square entrance, Larkin St, SF.jpg\" (Roman Eugeniusz, CC BY-SA 3.0, the clock tower's stages and the Larkin front); \"Ghiradelli Square sign from Aquatic Park Bathhouse, SF.jpg\" (kevinmcgill, CC BY-SA 2.0, the sign's scaffold).",
+    "Famous-sign exception (STYLE.md): the sign carries its lettering, as simple extruded block letters (a plain sans, not the real serif face) standing on a frame of chunky posts and rails in place of the real open lattice.",
+    "Estimated from the photos: letter sizes (cap 6.4 m, x-height 4.4 m, from the lidar's two top levels and the photos' ratio), the frame's posts, the tower's stages (quoined brick shaft, string course, clock stage, cream corbelled cornice and balustrade, corner pinnacles, a dormer each side of the steep slate roof, its flat top), window rows and bays, the crenellated parapets of the Mustard and Cocoa Buildings and the Clock Tower Building's cornice.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"sf-ghirardelli-square\", model \"sf-ghirardelli-square\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/sf-ghirardelli-square.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

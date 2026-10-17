@@ -1,0 +1,158 @@
+{
+  "id": "mount-davidson-cross",
+  "name": "Mount Davidson Cross",
+  "anchor": [
+    -122.4547473,
+    37.7383418
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 27536,
+      "sha256": "ca47b1f2ecf226b400ab8cef1d5ac87e66fa7841f52fdcfe570d5aeb16e61ce4"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 27536,
+      "sha256": "ca47b1f2ecf226b400ab8cef1d5ac87e66fa7841f52fdcfe570d5aeb16e61ce4"
+    }
+  },
+  "triangles": 508,
+  "boundsBlenderM": [
+    [
+      -6.4,
+      -8,
+      0
+    ],
+    [
+      6.4,
+      8,
+      31.6
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -122.45482,
+          37.7382708
+        ],
+        [
+          -122.4548189,
+          37.7382699
+        ],
+        [
+          -122.4546757,
+          37.7382699
+        ],
+        [
+          -122.4546746,
+          37.7382708
+        ],
+        [
+          -122.4546746,
+          37.7384128
+        ],
+        [
+          -122.4546757,
+          37.7384137
+        ],
+        [
+          -122.4548189,
+          37.7384137
+        ],
+        [
+          -122.45482,
+          37.7384128
+        ],
+        [
+          -122.45482,
+          37.7382708
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "node",
+    "id": 633021134,
+    "version": 13,
+    "timestamp": "2023-03-21T17:19:11Z",
+    "url": "https://www.openstreetmap.org/node/633021134"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q20508607",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Mount Davidson Cross (4426560750).jpg",
+      "author": "Daniel Ramirez from Honolulu, USA",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Mount_Davidson_Cross_(4426560750).jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Mount Davidson cross.jpg",
+      "author": "Troymccluresf at English Wikipedia",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Mount_Davidson_cross.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:That Sf Cross (53453432).jpeg",
+      "author": "Erik Hansen",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:That_Sf_Cross_(53453432).jpeg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Cross on Mount Davidson on a gray day in San Francisco.png",
+      "author": "Tim Adams",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Cross_on_Mount_Davidson_on_a_gray_day_in_San_Francisco.png",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/sf-mount-davidson-cross.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Mount Davidson Cross, San Francisco — original procedural geometry, CC0-1.0. bun generators/sf-mount-davidson-cross.ts",
+    "Map frame: x east, y north, z up, metres, no rotation (bearing 0): the arms run north-south, the faces look east and west. Origin = the centre of the shaft (lidar; 2.0 m east of the OSM node/633021134), on the ground round the summit platform (283.0 m NAVD88). Only the cross and its stepped platform: the eucalyptus and cypress round it are the map's.",
+    "Evidence",
+    "OSM node/633021134 (man_made=cross); no building, so `replaces` is empty.",
+    "USGS 3DEP lidar (CA_SanFrancisco_1_B23, 2023, 0.5 m), above 283.0 m: the platform 1.0 m, about 12.5 x 16 m; the shaft 3 x 3 m in plan, top 31.6 (30.6 above the platform); the arms along north-south, 11.5 m across, 3 m thick, top 25.5. The trees round it reach 17-21 m.",
+    "Published (Wikipedia \"Mount Davidson (California)\"): 103 ft (31.4 m) concrete cross, 1934, the highest point in San Francisco.",
+    "Commons daylight photos: \"Mount Davidson Cross (4426560750).jpg\" and \"(4426561302).jpg\" (Daniel Ramirez, CC BY 2.0; face on from the path: arm span 12.0 m and depth 3.5 m when scaled by the lidar height, shaft 2.6 m, the low stepped platform with a block at each end); \"Mount Davidson cross.jpg\" (Troymccluresf, CC BY-SA 3.0); \"That Sf Cross (53453432).jpeg\" (Erik Hansen, CC BY 3.0; the arms from below); \"Cross on Mount Davidson on a gray day in San Francisco.png\" (Tim Adams, CC BY 3.0).",
+    "Colour: pale grey board-marked concrete, a shade warmer on the platform. Estimated: the platform's three steps and end blocks, the arm depth (3.5 m, photo), the shallow panels on the shaft and arms (the faint relief seen in the photos, drawn as frames standing 6 cm proud), the 0.25 m chamfers.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"sf-mount-davidson-cross\", model \"sf-mount-davidson-cross\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/sf-mount-davidson-cross.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

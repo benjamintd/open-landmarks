@@ -1,0 +1,218 @@
+{
+  "id": "mission-dolores",
+  "name": "Mission Dolores",
+  "anchor": [
+    -122.42692,
+    37.764314
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 116388,
+      "sha256": "2789493f7d2270783ee5f893be869e8b2625fca912fe6fa383a397c6f1221fb7"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 116388,
+      "sha256": "2789493f7d2270783ee5f893be869e8b2625fca912fe6fa383a397c6f1221fb7"
+    }
+  },
+  "triangles": 2762,
+  "boundsBlenderM": [
+    [
+      -33.999,
+      -23.999,
+      0
+    ],
+    [
+      36.632,
+      22.145,
+      44.5
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -122.4272424,
+          37.7642023
+        ],
+        [
+          -122.4272509,
+          37.764303
+        ],
+        [
+          -122.4272703,
+          37.7643159
+        ],
+        [
+          -122.4272844,
+          37.7643344
+        ],
+        [
+          -122.4272896,
+          37.7643715
+        ],
+        [
+          -122.4272789,
+          37.7643932
+        ],
+        [
+          -122.4272629,
+          37.7644093
+        ],
+        [
+          -122.4272706,
+          37.7644779
+        ],
+        [
+          -122.4268662,
+          37.7645056
+        ],
+        [
+          -122.4268643,
+          37.7644735
+        ],
+        [
+          -122.4267067,
+          37.7644829
+        ],
+        [
+          -122.4267077,
+          37.7645011
+        ],
+        [
+          -122.4266358,
+          37.7645043
+        ],
+        [
+          -122.4266126,
+          37.7642822
+        ],
+        [
+          -122.426688,
+          37.7642774
+        ],
+        [
+          -122.4266899,
+          37.7642963
+        ],
+        [
+          -122.4268449,
+          37.7642875
+        ],
+        [
+          -122.4268418,
+          37.7642556
+        ],
+        [
+          -122.4271299,
+          37.7642412
+        ],
+        [
+          -122.4271235,
+          37.7641875
+        ],
+        [
+          -122.4272395,
+          37.7641804
+        ],
+        [
+          -122.4272424,
+          37.7642023
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 256442760,
+    "version": 9,
+    "timestamp": "2025-12-25T04:34:54Z",
+    "url": "https://www.openstreetmap.org/way/256442760"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 256442765,
+      "version": 6,
+      "timestamp": "2025-12-25T04:34:54Z",
+      "url": "https://www.openstreetmap.org/way/256442765"
+    }
+  ],
+  "wikidata": "Q1000321",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Mission San Francisco de Asis and Dolores Basilica (2025).jpg",
+      "author": "Ligocsicnarf89",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Mission_San_Francisco_de_Asis_and_Dolores_Basilica_(2025).jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Mission San Francisco de Asís, or Mission Dolores.jpg",
+      "author": "LesyaCA",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Mission_San_Francisco_de_As%C3%ADs,_or_Mission_Dolores.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Mission Dolores Basilica, San Francisco.jpg",
+      "author": "Markhenrik",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Mission_Dolores_Basilica,_San_Francisco.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Mission Dolores Basilica.JPG",
+      "author": "Marco Zanoli (Sidonius)",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Mission_Dolores_Basilica.JPG",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/sf-mission-dolores.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Mission Dolores (the Old Mission and the Basilica), San Francisco — original procedural geometry, CC0-1.0. bun generators/sf-mission-dolores.ts",
+    "Frame: built turned to the Basilica, BEARING 355.5 (its axis runs 85.5°, nearly east-west). x along the churches (+x = the Dolores Street fronts, east), y across (+y north, towards 16th Street), z up, metres. The Old Mission's axis is turned 3.5° from the Basilica's (bearing 82), and is built in its own frame and turned into this one. Origin = the centroid of the two OSM outlines together.",
+    "Evidence",
+    "OSM way/256442760 (the Basilica, height 14) and way/256442765 (the Old Mission, height 8). Both outlines sit ~2-3 m west of the lidar; the lidar wins.",
+    "USGS 3DEP lidar (CA_SanFrancisco_1_B23, 2023) at 0.5 m, in these frames (/tmp/city/sf/work/sf-mission-dolores). y = 0 is 23.3 m NAVD88, the Dolores Street sidewalk in front of the Old Mission (the lowest ground); the ground rises 2.5 m to the west. Above that: Old Mission: 48 x 12 m under one low gabled roof, eaves 8.6, ridge 11, front at x 33; a low side wing (4.5-5.5) to its south. Basilica: nave x -29..22, 14 m wide, eaves 15.5, ridge 17.5; aisles 9.5; transept x -16..-1.5 out to y -8 and 21, 18.5; an octagonal drum over the crossing (r 7) to 22 with a tiled roof and lantern to 29.5; low sacristies 7-7.5 at the west end; the front at x 29 with the north tower (7 m square) to 25-26.5, two belfry stages to 32 and 38.3 and its dome's top at 44.5, and the south tower to 20.5, one belfry stage to 27.5 and its dome's top at 31.5; the frontispiece between them to 25.5.",
+    "Published (Wikipedia, California Historical Landmark No. 327, SF Landmark No. 1): the Old Mission (Misión San Francisco de Asís) was dedicated in 1791, adobe, the oldest intact building in San Francisco; the Basilica was built 1913-1918 in the Mission Revival style, its Churrigueresque front added in 1926; the towers are unequal.",
+    "Commons daylight photos: \"Mission San Francisco de Asis and Dolores Basilica (2025).jpg\" (Ligocsicnarf89, CC BY 4.0, both fronts from Dolores Street), \"Mission San Francisco de Asís, or Mission Dolores.jpg\" (LesyaCA, CC BY-SA 4.0, the Old Mission's front head-on), \"Mission Dolores Basilica, San Francisco.jpg\" (Markhenrik, CC BY-SA 4.0, the transept gable, drum and both towers' tops), \"Mission Dolores Basilica.JPG\" (Marco Zanoli, CC BY-SA 3.0), MARELBU's panoramio set (CC BY 3.0, the towers and the Old Mission from the north-east and south-east).",
+    "Estimated from the photos (scaled to the lidar): the Old Mission's front (four columns on stepped plinths, the balcony at 6.5, three bell niches, the arched door, the deep eaves); the towers' stages, arched openings, pinnacles and tiled domes; the frontispiece's arched window, door and pilasters, drawn as a few bold whitewash panels (its carving is far too fine to model); the transept's round-topped gable and window; the windows along the nave.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"sf-mission-dolores\", model \"sf-mission-dolores\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/sf-mission-dolores.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

@@ -1,0 +1,195 @@
+{
+  "id": "california-academy-of-sciences",
+  "name": "California Academy of Sciences",
+  "anchor": [
+    -122.46609147,
+    37.76982799
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 82928,
+      "sha256": "46b5b2811c4ec40bb9624b181eed7ed7322d338b17f169a7c4e175657f5db0d8"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 82928,
+      "sha256": "46b5b2811c4ec40bb9624b181eed7ed7322d338b17f169a7c4e175657f5db0d8"
+    }
+  },
+  "triangles": 2518,
+  "boundsBlenderM": [
+    [
+      -94.699,
+      -94.671,
+      0
+    ],
+    [
+      97.081,
+      92.78,
+      26.95
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -122.4671127,
+          37.7696842
+        ],
+        [
+          -122.467138,
+          37.7696662
+        ],
+        [
+          -122.4671145,
+          37.7696456
+        ],
+        [
+          -122.4670792,
+          37.7696144
+        ],
+        [
+          -122.4664069,
+          37.7690202
+        ],
+        [
+          -122.4663837,
+          37.7690367
+        ],
+        [
+          -122.4663616,
+          37.7690172
+        ],
+        [
+          -122.4657015,
+          37.769484
+        ],
+        [
+          -122.4650567,
+          37.7699414
+        ],
+        [
+          -122.4650478,
+          37.7699477
+        ],
+        [
+          -122.4650653,
+          37.7699632
+        ],
+        [
+          -122.4650734,
+          37.7699703
+        ],
+        [
+          -122.4650452,
+          37.7699903
+        ],
+        [
+          -122.4657752,
+          37.7706332
+        ],
+        [
+          -122.4657783,
+          37.7706359
+        ],
+        [
+          -122.465805,
+          37.7706169
+        ],
+        [
+          -122.4658274,
+          37.7706366
+        ],
+        [
+          -122.4664774,
+          37.7701749
+        ],
+        [
+          -122.467137,
+          37.7697055
+        ],
+        [
+          -122.4671127,
+          37.7696842
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 28695389,
+    "version": 30,
+    "timestamp": "2026-09-16T03:47:12Z",
+    "url": "https://www.openstreetmap.org/way/28695389"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q134486471",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:California Academy of Sciences pano (cropped).jpg",
+      "author": "WolfmanSF",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:California_Academy_of_Sciences_pano_(cropped).jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Living roof at the California Academy of Sciences.jpg",
+      "author": "Carol M. Highsmith",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Living_roof_at_the_California_Academy_of_Sciences.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Living_roof_at_the_California_Academy_of_Sciences.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Living Roof - California Academy of Sciences.jpg",
+      "author": "Don McCulley",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Living_Roof_-_California_Academy_of_Sciences.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/sf-cal-academy.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "California Academy of Sciences, Golden Gate Park, San Francisco — original procedural geometry, CC0-1.0. bun generators/sf-cal-academy.ts",
+    "Map frame: x east, y north, z up, metres, built turned to bearing 317.9: the model's north (+y) is the main front on the Music Concourse (facing north-west); +x runs along the long side (bearing 47.9). Origin = centroid of the OSM outline way/28695389.",
+    "Evidence",
+    "OSM way/28695389 (building=museum, height 11): the roof's outline, 160 x 102 m.",
+    "USGS 3DEP lidar (CA_SanFrancisco_1_B23, 2023) at 1 m, in the turned frame: the lowest ground at the footprint, a sunken strip along the back, 69.7 m NAVD88 (y = 0); the concourse in front ~76.8 (+7.1); the canopy's edge at +18.9, x -82..83, y -54..50; the living roof +19.1 to +19.3; seven hills: two big ones at (-26, 2) and (29, 2), 7.5 m above the roof and ~35 m across; five small ones at (0, -23) (+5.7), (-20, -24) and (21, -24) (+2.7), (-11, 20) and (13, 20) (+2.5); the piazza's glass roof between the big hills dipping to ~+17.3; a box on the roof deck at (-23, 26), +25.1.",
+    "USGS NAIP: the canopy reads as a pale band ~9 m wide round the green roof; the piazza's square glass roof; the portholes clustered on the hills; the paved roof deck north-west of the west hill.",
+    "Published (Wikipedia; Renzo Piano Building Workshop): 2008; 2.5-acre living roof of native plants on seven hills; the two largest over the planetarium and the rainforest sphere; portholes that open for ventilation; a glass-roofed central piazza; the canopy carries photovoltaic cells; glass perimeter walls.",
+    "Commons daylight photos: \"California Academy of Sciences pano (cropped).jpg\" (WolfmanSF, CC BY-SA 3.0, the front from the de Young tower); \"Living roof at the California Academy of Sciences.jpg\" and \"Living roof, California Academy of Sciences Museum ... .jpg\" (Carol M. Highsmith, public domain, the portholes); \"Living Roof - California Academy of Sciences.jpg\" (Don McCulley, CC BY-SA 4.0); \"California Academy of Sciences Building ... .jpg\" (Carol M. Highsmith, public domain, the entrance under the canopy, stone walls either side).",
+    "Estimated: the wall line (5 m in from the canopy's edge), the canopy's 0.6 m edge, the entrance's width, the porthole layout (rings on the big hills, as the photos show, not counted one by one) and the hills' exact profiles between the lidar's 4 m samples. The living roof is drawn as a muted green roof finish, not as ground.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"sf-cal-academy\", model \"sf-cal-academy\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/sf-cal-academy.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

@@ -1,0 +1,112 @@
+{
+  "id": "bay-bridge-eastern-span-tower",
+  "name": "Bay Bridge eastern span tower",
+  "anchor": [
+    -122.3585135,
+    37.8152652
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 62696,
+      "sha256": "ede2b80517d3caa3afbe776d151eb4ca2f72f11e826fcf741f364f70cdbb79ba"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 62696,
+      "sha256": "ede2b80517d3caa3afbe776d151eb4ca2f72f11e826fcf741f364f70cdbb79ba"
+    }
+  },
+  "triangles": 1198,
+  "boundsBlenderM": [
+    [
+      -18.064,
+      -18.064,
+      0
+    ],
+    [
+      18.064,
+      18.064,
+      163.3
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -122.3583708,
+          37.8152666
+        ],
+        [
+          -122.358462,
+          37.8153661
+        ],
+        [
+          -122.3586409,
+          37.8152638
+        ],
+        [
+          -122.3585497,
+          37.8151643
+        ],
+        [
+          -122.3583708,
+          37.8152666
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 237735191,
+    "version": 4,
+    "timestamp": "2024-02-11T06:47:31Z",
+    "url": "https://www.openstreetmap.org/way/237735191"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q771404",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/sf-bay-bridge-sas.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "San Francisco–Oakland Bay Bridge, eastern span: the self-anchored suspension span's tower (2013; T.Y. Lin International and Moffatt & Nichol) — procedural, CC0-1.0. bun generators/sf-bay-bridge-sas.ts",
+    "Map frame: x and y along the tower's square plan, which is turned with the bridge (placed at bearing 55°), z up, metres; origin at the tower's centre on the water. Only the tower: the two decks that pass either side of it and the single main cable looping over its top are the map's.",
+    "What makes it the SAS tower: one white tower, not two legs and a portal; four pentagonal steel shafts (squares with their outer corner cut off) standing in a 2 x 2 cluster with a narrow cross-shaped slot between them; the shafts tapering upward from a flared foot; shear-link beams across the slots, close-set as a ladder of rungs near the top and sparse below.",
+    "Sources:",
+    "OSM: way/237735191 (building=tower, bridge:support=pylon, height 160).",
+    "Lidar (USGS 3DEP, CA_SanFrancisco_1_B23, 2023, 0.5 m grid; water 0.25 m NAVD88 = y 0): the shafts' tops at 161.5–163.5 m, a square 11.5 m across turned to 55° (the bridge's axis there, from the deck and the gaps between the two decks), the slot visible as a dip on the axis; decks at 55.5 m. The top's centre lies 0.7 m west of the OSM outline's centroid, so the anchor is moved by that.",
+    "Published: 525 ft (160 m) above the water; four separate shafts joined by shear link beams; white (Caltrans; Wikipedia \"Eastern span replacement of the San Francisco–Oakland Bay Bridge\").",
+    "Photos (Wikimedia Commons): \"Tower - panoramio (49)\" (Stephen Edmonds, CC BY-SA 3.0; broadside, the taper, the slot's ladder and the flared foot); \"Tower of the east span of the San Francisco–Oakland Bay Bridge, California, US\" (Clyde Charles Brown, CC BY-SA 4.0; the shafts' facets, the slot and its links from the deck); \"New Bay Bridge SFO 04 2015 2261\" (Mariordo, CC BY-SA 4.0); \"2013, Finishing New East Span Bay Bridge Construction - panoramio\" (Chris English, CC BY-SA 3.0); \"SFOakBayBridgeNewEastTowe\" (Leonard G., CC0; the four shafts during erection).",
+    "Measured from the broadside photo, scaled by the lidar: 16.5 m across at the deck, 11.5 m at the top, about 23 m at the flared foot; the slot 2.4 m wide; the close-set links over the top 40 m.",
+    "Estimated: the corner cut (0.42 of a shaft's width), the foot's flare (4–20 m), the pile cap (28 m square, 4 m), the links' spacing below, the slight fall of the shafts' tops toward their outer corners.",
+    "Colour: white paint pulled to the palette's lightness; the slot's depths dark grey.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"sf-bay-bridge-sas\", model \"sf-bay-bridge-sas\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/sf-bay-bridge-sas.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

@@ -1,0 +1,211 @@
+{
+  "id": "alcatraz-island-lighthouse",
+  "name": "Alcatraz Island Lighthouse",
+  "anchor": [
+    -122.4222949,
+    37.8262541
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 42600,
+      "sha256": "6340af4bb4ec7105511fa750da37dfa0532d16cb385c814f1699f10a4e0cb423"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 42600,
+      "sha256": "6340af4bb4ec7105511fa750da37dfa0532d16cb385c814f1699f10a4e0cb423"
+    }
+  },
+  "triangles": 734,
+  "boundsBlenderM": [
+    [
+      -3.465,
+      -3.465,
+      0
+    ],
+    [
+      3.465,
+      3.465,
+      29.5
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -122.4223156,
+          37.8262636
+        ],
+        [
+          -122.4223108,
+          37.8262683
+        ],
+        [
+          -122.4223039,
+          37.8262717
+        ],
+        [
+          -122.4222959,
+          37.8262731
+        ],
+        [
+          -122.4222878,
+          37.8262722
+        ],
+        [
+          -122.4222805,
+          37.8262693
+        ],
+        [
+          -122.4222749,
+          37.8262646
+        ],
+        [
+          -122.4222717,
+          37.8262587
+        ],
+        [
+          -122.4222711,
+          37.8262522
+        ],
+        [
+          -122.4222733,
+          37.826246
+        ],
+        [
+          -122.422278,
+          37.8262408
+        ],
+        [
+          -122.4222842,
+          37.8262372
+        ],
+        [
+          -122.4222915,
+          37.8262354
+        ],
+        [
+          -122.4222991,
+          37.8262355
+        ],
+        [
+          -122.4223063,
+          37.8262375
+        ],
+        [
+          -122.4223124,
+          37.8262412
+        ],
+        [
+          -122.4223167,
+          37.8262462
+        ],
+        [
+          -122.4223187,
+          37.826252
+        ],
+        [
+          -122.4223184,
+          37.826258
+        ],
+        [
+          -122.4223156,
+          37.8262636
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 99202294,
+    "version": 8,
+    "timestamp": "2023-07-30T09:07:40Z",
+    "url": "https://www.openstreetmap.org/way/99202294"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q4712967",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Blueprint of the Alcatraz Island Light Station.jpg",
+      "author": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Blueprint_of_the_Alcatraz_Island_Light_Station.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Blueprint_of_the_Alcatraz_Island_Light_Station.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:San Francisco (CA, USA), Alcatraz, Lighthouse -- 2022 -- 3155.jpg",
+      "author": "Dietmar Rabich",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:San_Francisco_(CA,_USA),_Alcatraz,_Lighthouse_--_2022_--_3155.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Alcatraz Island Lighthouse Tower.jpg",
+      "author": "Centpacrr (Digital image)",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Alcatraz_Island_Lighthouse_Tower.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Alcatraz lighthouse top.jpg",
+      "author": "Uzvards",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Alcatraz_lighthouse_top.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Lighthouse California-05967 - Alcatraz Island Lighthouse (20637738295).jpg",
+      "author": "Dennis G. Jarvis",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Lighthouse_California-05967_-_Alcatraz_Island_Lighthouse_(20637738295).jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/sf-alcatraz-lighthouse.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Alcatraz Island Lighthouse, San Francisco — original procedural geometry, CC0-1.0. bun generators/sf-alcatraz-lighthouse.ts",
+    "Frame: built turned to the tower, BEARING 45: x and y run along the square base's sides (+y towards the north-east, +x towards the south-east), z up, metres. Origin = centroid of the OSM outline way/99202294.",
+    "Evidence",
+    "OSM way/99202294: a circle of r ~2.1 m, height 26, start_date 1909. OSM on Alcatraz sits 10-14 m west of the 2023 lidar (and agrees with NAIP), consistently; the model keeps OSM's position so it lines up with the map's paths, and takes every dimension from the lidar.",
+    "USGS 3DEP lidar (CA_SanFrancisco_1_B23, 2023) at 0.25 m: the square base (4.8 m, its sides at 45° and 135°, square to the cellhouse) stands 8.9 m above the lowest ground at its foot (40.0 m NAVD88, y = 0; the ground round it varies 0.8 m); the gallery deck (r ~2.3 m) is at 25.4 m, the lantern roof (r ~1.5 m) 27.8-28.2 m, the beacon on top 29.7 m.",
+    "Published: Wikipedia and the NPS give 84 ft (25.6 m) for the 1909 reinforced-concrete tower, 95 ft above mean sea level for the light; \"Blueprint of the Alcatraz Island Light Station.jpg\" (USCG / GGNRA park archives, public domain, South East Elevation, 1909) for the proportions: the octagonal shaft tapering ~7%, the cornice, the watch room on corbel brackets, the gallery and the X-glazed lantern with its domed roof.",
+    "Commons daylight photos: \"San Francisco (CA, USA), Alcatraz, Lighthouse -- 2022 -- 3155.jpg\" (Dietmar Rabich, CC BY-SA 4.0, the south-east face whole), \"Alcatraz Island Lighthouse Tower.jpg\" (Centpacrr, CC BY-SA 3.0, from the south-west), \"Alcatraz lighthouse top.jpg\" (Uzvards, CC BY-SA 2.0, lantern and gallery close up), \"Lighthouse California-05967 - Alcatraz Island Lighthouse (20637738295).jpg\" (Dennis G. Jarvis, CC BY-SA 2.0, from the bay).",
+    "Estimated from the photos and the blueprint: the shaft (3.65 m across the flats at the base, 3.35 m under the cornice), the cornice at 22 m, the watch room (2.5 m tall) and its corbels, window sizes and places (the base's tall windows, two slits up the shaft, one window per watch-room face), the lantern (12-sided, r 1.35 m, 1.8 m of X-glazed panes, a low domed cap). The concrete is weathered mid grey; the lantern's base ring, domed cap and beacon housing are white, its glazing bars and the gallery railing charcoal metal, with `glass` between. The gallery railing is drawn as posts and a rail, the one fine detail kept, since it frames the lantern.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"sf-alcatraz-lighthouse\", model \"sf-alcatraz-lighthouse\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/sf-alcatraz-lighthouse.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 2 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the sf-alcatraz-lighthouse-glazing finish in the window colour."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

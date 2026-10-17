@@ -1,0 +1,290 @@
+{
+  "id": "san-francisco-museum-of-modern-art",
+  "name": "San Francisco Museum of Modern Art",
+  "anchor": [
+    -122.40066029,
+    37.78589533
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 75596,
+      "sha256": "fa621c225c2ddd0d9293087b48c38f543c6b0cfe5f2cb442c462e4183f8522ea"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 75596,
+      "sha256": "fa621c225c2ddd0d9293087b48c38f543c6b0cfe5f2cb442c462e4183f8522ea"
+    }
+  },
+  "triangles": 1916,
+  "boundsBlenderM": [
+    [
+      -62.296,
+      -48.154,
+      0
+    ],
+    [
+      67.67,
+      57.064,
+      62.3
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -122.4013674,
+          37.7858766
+        ],
+        [
+          -122.4008469,
+          37.7854595
+        ],
+        [
+          -122.4008138,
+          37.7854848
+        ],
+        [
+          -122.4004516,
+          37.7857695
+        ],
+        [
+          -122.4004283,
+          37.7857515
+        ],
+        [
+          -122.4004063,
+          37.7857339
+        ],
+        [
+          -122.4001038,
+          37.7854918
+        ],
+        [
+          -122.3998915,
+          37.7856629
+        ],
+        [
+          -122.3999445,
+          37.7857149
+        ],
+        [
+          -122.4000312,
+          37.7857985
+        ],
+        [
+          -122.400039,
+          37.7858059
+        ],
+        [
+          -122.4001289,
+          37.7858914
+        ],
+        [
+          -122.4001765,
+          37.7859386
+        ],
+        [
+          -122.4002607,
+          37.786011
+        ],
+        [
+          -122.4002847,
+          37.786032
+        ],
+        [
+          -122.4002984,
+          37.7860437
+        ],
+        [
+          -122.4003303,
+          37.7860696
+        ],
+        [
+          -122.4002918,
+          37.7860997
+        ],
+        [
+          -122.4005649,
+          37.7863143
+        ],
+        [
+          -122.4006885,
+          37.7864115
+        ],
+        [
+          -122.400749,
+          37.7863632
+        ],
+        [
+          -122.4009706,
+          37.7861859
+        ],
+        [
+          -122.4010075,
+          37.7861564
+        ],
+        [
+          -122.4011002,
+          37.7860873
+        ],
+        [
+          -122.4011903,
+          37.7860154
+        ],
+        [
+          -122.4012691,
+          37.7859547
+        ],
+        [
+          -122.4013674,
+          37.7858766
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 41692824,
+    "version": 33,
+    "timestamp": "2025-03-07T19:44:53Z",
+    "url": "https://www.openstreetmap.org/way/41692824"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 1365384410,
+      "version": 1,
+      "timestamp": "2025-03-07T19:44:53Z",
+      "url": "https://www.openstreetmap.org/way/1365384410"
+    },
+    {
+      "type": "way",
+      "id": 1365384411,
+      "version": 1,
+      "timestamp": "2025-03-07T19:44:53Z",
+      "url": "https://www.openstreetmap.org/way/1365384411"
+    },
+    {
+      "type": "way",
+      "id": 1365384412,
+      "version": 1,
+      "timestamp": "2025-03-07T19:44:53Z",
+      "url": "https://www.openstreetmap.org/way/1365384412"
+    },
+    {
+      "type": "way",
+      "id": 1365384413,
+      "version": 1,
+      "timestamp": "2025-03-07T19:44:53Z",
+      "url": "https://www.openstreetmap.org/way/1365384413"
+    },
+    {
+      "type": "way",
+      "id": 1365384414,
+      "version": 1,
+      "timestamp": "2025-03-07T19:44:53Z",
+      "url": "https://www.openstreetmap.org/way/1365384414"
+    },
+    {
+      "type": "way",
+      "id": 1365384415,
+      "version": 1,
+      "timestamp": "2025-03-07T19:44:53Z",
+      "url": "https://www.openstreetmap.org/way/1365384415"
+    },
+    {
+      "type": "way",
+      "id": 1365384416,
+      "version": 1,
+      "timestamp": "2025-03-07T19:44:53Z",
+      "url": "https://www.openstreetmap.org/way/1365384416"
+    }
+  ],
+  "wikidata": "Q913672",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:2017 SFMOMA from Yerba Buena Gardens.jpg",
+      "author": "Beyond My Ken",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:2017_SFMOMA_from_Yerba_Buena_Gardens.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:San Francisco Museum of Modern Art, San Francisco.jpg",
+      "author": "Supercarwaar",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:San_Francisco_Museum_of_Modern_Art,_San_Francisco.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:San Francisco Museum of Modern Art Building.jpg",
+      "author": "Minette Lontsie",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:San_Francisco_Museum_of_Modern_Art_Building.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:San Francisco Museum of Modern Art Full.jpg",
+      "author": "Vincent Bloch",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:San_Francisco_Museum_of_Modern_Art_Full.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:San_Francisco_Museum_of_Modern_Art_Full.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:San Francisco Museum of Modern Art.JPG",
+      "author": "Photo: Mr. Kjetil Ree.",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:San_Francisco_Museum_of_Modern_Art.JPG",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/sf-sfmoma.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "San Francisco Museum of Modern Art: Mario Botta's 1995 building on 3rd Street, its stepped brick blocks round the black-and-white striped cylinder cut at a slant into the oculus skylight, and behind it Snøhetta's 2016 expansion, a long white rippled block rising to ten storeys. Original procedural geometry, CC0-1.0. bun generators/sf-sfmoma.ts",
+    "Frame: BEARING 45, turned to the South of Market grid: x runs south-east along 3rd Street (towards Howard Street), y north-east away from it (the Botta front faces -y, across 3rd Street to Yerba Buena Gardens). Origin = area centroid of the OSM outline way/41692824. y = 0 is the street on the museum's north-east side, 7.95 m NAVD88; 3rd Street runs about 1 m higher. A loading ramp at the north-west corner dips 2.6 m lower and is left to the map.",
+    "Evidence",
+    "OSM way/41692824 (the whole museum, architect Mario Botta, 7 levels) and its parts: way/1365384415 (Botta's blocks), 1365384410 (the cylinder, radius 9.6), 1365384412, 1365384413, 1365384414 (the blocks behind it), 1365384411 (the Snøhetta expansion), 1365384416 (its two-storey strip on Natoma Street).",
+    "USGS 3DEP lidar (CA_SanFrancisco_1_B23, 2023) at 0.5 m in this frame (/tmp/city/sf/work/sf-sfmoma): Botta's front block 13.9 m above the datum, the brick trunk under the cylinder 16.7, the two side blocks 24.2, the block behind the cylinder 38; the cylinder's cut rising at 45 degrees from 26.6 at its front edge to 45.8 at its back. The expansion: a ridge at 53.7 over its north-west third rising to 62.3 from x = 10 on; a notch at 46.8 on its Botta side; the north-east side stepping down to 45.8 / 39.8, then 38.5 / 31.5 / 24.4; the north-west end rounding over from 31.7 to 55.",
+    "Published (Wikipedia; SFMOMA): Botta building 1995, expansion by Snøhetta 2016, ten storeys, clad in white fibre-reinforced polymer panels in rippling horizontal bands, with long ribbon windows.",
+    "Photos (Wikimedia Commons): \"2017 SFMOMA from Yerba Buena Gardens.jpg\" (Beyond My Ken, CC BY-SA 4.0, the Botta front square on with the expansion behind: the lower brick wings, the upper blocks with dark recesses beside the cylinder, the striped trunk and cylinder, the radial stripes round the skylight); \"San Francisco Museum of Modern Art, San Francisco.jpg\" (Supercarwaar, CC BY-SA 4.0) and \"San Francisco Museum of Modern Art Building.jpg\" (Minette Lontsie, CC BY-SA 4.0), both with the expansion's white rippled wall and ribbon windows; \"San Francisco Museum of Modern Art Full.jpg\" (Vincent Bloch, public domain) and \"San Francisco Museum of Modern Art.JPG\" (Kjetil Ree, CC BY-SA 3.0), the Botta front before 2016; Openverse/Flickr \"@snohetta's SFMOMA extension...\" (diametrik, CC BY 2.0, the expansion's long side with its ribbon windows and ripples).",
+    "Estimated from the photos: the stripe width (drawn 1.2 m, broader than the real ones so they hold at map scale), the dark recesses beside the cylinder, the skylight ring's 24 radial stripes, the expansion's ribbon windows (positions and lengths) and its ripples (drawn as two shallow horizontal swells), the bevel on its top edges.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"sf-sfmoma\", model \"sf-sfmoma\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/sf-sfmoma.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 94 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the sf-sfmoma-glazing finish in the window colour.",
+    "To fit six materials, folded glass into roof (ΔE 14.2)."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

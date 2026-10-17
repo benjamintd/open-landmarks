@@ -1,0 +1,178 @@
+{
+  "id": "sather-tower",
+  "name": "Sather Tower",
+  "anchor": [
+    -122.257822,
+    37.872056
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 37176,
+      "sha256": "2bc83b7d0ea9eedf838648be40e7d3e5754078c4ddd927e7aabffa3a8a01fc3f"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 37176,
+      "sha256": "2bc83b7d0ea9eedf838648be40e7d3e5754078c4ddd927e7aabffa3a8a01fc3f"
+    }
+  },
+  "triangles": 690,
+  "boundsBlenderM": [
+    [
+      -6.794,
+      -6.794,
+      0
+    ],
+    [
+      6.794,
+      6.794,
+      93
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -122.2577584,
+          37.8720281
+        ],
+        [
+          -122.2578742,
+          37.872003
+        ],
+        [
+          -122.2579052,
+          37.872092
+        ],
+        [
+          -122.257879,
+          37.8720977
+        ],
+        [
+          -122.2578489,
+          37.8721042
+        ],
+        [
+          -122.25782,
+          37.8721104
+        ],
+        [
+          -122.2577893,
+          37.8721171
+        ],
+        [
+          -122.2577584,
+          37.8720281
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 24024507,
+    "version": 18,
+    "timestamp": "2026-08-27T10:27:52Z",
+    "url": "https://www.openstreetmap.org/way/24024507"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 1013163515,
+      "version": 1,
+      "timestamp": "2021-12-17T19:34:39Z",
+      "url": "https://www.openstreetmap.org/way/1013163515"
+    }
+  ],
+  "wikidata": "Q357019",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Sather Tower-2.jpg",
+      "author": "Almonroth",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Sather_Tower-2.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Sather Tower.jpg",
+      "author": "Almonroth",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Sather_Tower.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Sather Tower Campanile April2015 eastface.jpg",
+      "author": "Apostmodernist",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Sather_Tower_Campanile_April2015_eastface.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Sather Tower from Memorial Glade.jpg",
+      "author": "Coolcaesar",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Sather_Tower_from_Memorial_Glade.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Sather Tower, Campanile University Berkeley.jpg",
+      "author": "Burkhard Mücke",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Sather_Tower,_Campanile_University_Berkeley.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Sather Tower 2013-09-29 13-34-23.jpg",
+      "author": "EricDLee",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Sather_Tower_2013-09-29_13-34-23.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/sf-sather-tower.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Sather Tower (the Campanile), UC Berkeley — original procedural geometry, CC0-1.0. bun generators/sf-sather-tower.ts",
+    "Frame: built square to the tower, BEARING 344.8 (its faces run 15.2° anti- clockwise of the compass points). x east-ish, y north-ish, z up, metres. Origin = the centre of the shaft (lidar), 0.8 m east-south-east of the OSM outline's centroid.",
+    "Evidence",
+    "OSM way/24024507 (building=bell_tower, height 93.6), a 10.5 m square; way/1013163515 is the spire (roof:shape pyramidal) inside it.",
+    "USGS 3DEP lidar (CA_AlamedaCo_3_2021) at 0.5 m, in this frame (/tmp/city/sf/work/sf-sather-tower). y = 0 is 98.5 m NAVD88, the ground all round the base (flat to ±0.2 m). Measured above it: the belfry cornice's outer edge 70.3 (about ±5.6 m); the attic's deck 72.8 (±4.5); the corner pinnacles to ~77.5; the spire's square plinth 75.7 (±3.6); the pyramid from ~76 at ±3.2 to the lantern; the lantern and finial 92.5.",
+    "Published (Wikipedia; UC Berkeley): 1914, John Galen Howard, after St Mark's Campanile in Venice; 307 ft (93.6 m); granite; four clock faces; the observation platform at the belfry, about 200 ft up; a 61-bell carillon.",
+    "Commons daylight photos: \"Sather Tower-2.jpg\", \"Sather Tower.jpg\" (Almonroth, CC BY-SA 3.0), \"Sather Tower Campanile April2015 eastface.jpg\" (Apostmodernist, CC BY-SA 4.0), \"Sather Tower from Memorial Glade.jpg\" (Coolcaesar, CC BY-SA 4.0), \"Sather Tower, Campanile University Berkeley.jpg\" (Burkhard Mücke, CC BY-SA 4.0), \"Sather Tower 2013-09-29 13-34-23.jpg\" (EricDLee, CC BY-SA 3.0).",
+    "Estimated from the photos (scaled to the lidar's cornice and attic): the belfry sill (60.0) and balustrade, the three arched openings per side (2.0 m wide, to 67.4), the band under the belfry, the clock dials (r 2.6, centre 54.3), the slit windows up each face, the corner pilaster strips, the spire's tip (89.5) and the lantern's size. The four sides are drawn alike, as the tower is.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"sf-sather-tower\", model \"sf-sather-tower\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/sf-sather-tower.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

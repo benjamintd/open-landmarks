@@ -1,0 +1,383 @@
+{
+  "id": "chase-center",
+  "name": "Chase Center",
+  "anchor": [
+    -122.38739618,
+    37.76787393
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 127844,
+      "sha256": "aeb50f94b6475f690e3ba0087bdb446c374eeb04b3ddbf0fa6da0e3ef0b64e48"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 127844,
+      "sha256": "aeb50f94b6475f690e3ba0087bdb446c374eeb04b3ddbf0fa6da0e3ef0b64e48"
+    }
+  },
+  "triangles": 3252,
+  "boundsBlenderM": [
+    [
+      -76.757,
+      -79.664,
+      0
+    ],
+    [
+      78.9,
+      80.54,
+      41.6
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -122.387922,
+          37.7683973
+        ],
+        [
+          -122.3878524,
+          37.7684405
+        ],
+        [
+          -122.3877999,
+          37.7684737
+        ],
+        [
+          -122.3877221,
+          37.7685076
+        ],
+        [
+          -122.3876306,
+          37.7685422
+        ],
+        [
+          -122.3875545,
+          37.7685648
+        ],
+        [
+          -122.3874512,
+          37.768586
+        ],
+        [
+          -122.3873481,
+          37.768599
+        ],
+        [
+          -122.3872554,
+          37.768603
+        ],
+        [
+          -122.3871495,
+          37.7685987
+        ],
+        [
+          -122.3870511,
+          37.7685848
+        ],
+        [
+          -122.3869845,
+          37.7685712
+        ],
+        [
+          -122.3868974,
+          37.7685457
+        ],
+        [
+          -122.3868257,
+          37.7685161
+        ],
+        [
+          -122.3867498,
+          37.7684853
+        ],
+        [
+          -122.3866747,
+          37.7684408
+        ],
+        [
+          -122.3867756,
+          37.7683423
+        ],
+        [
+          -122.3867361,
+          37.7682984
+        ],
+        [
+          -122.3866868,
+          37.7682388
+        ],
+        [
+          -122.3866422,
+          37.7681679
+        ],
+        [
+          -122.3865983,
+          37.7680819
+        ],
+        [
+          -122.3865685,
+          37.767997
+        ],
+        [
+          -122.386548,
+          37.7679293
+        ],
+        [
+          -122.3865318,
+          37.7678391
+        ],
+        [
+          -122.3865279,
+          37.7677437
+        ],
+        [
+          -122.3865271,
+          37.7676509
+        ],
+        [
+          -122.3865487,
+          37.7675556
+        ],
+        [
+          -122.3865978,
+          37.7674489
+        ],
+        [
+          -122.386656,
+          37.7673647
+        ],
+        [
+          -122.3867208,
+          37.7672789
+        ],
+        [
+          -122.3869056,
+          37.7673744
+        ],
+        [
+          -122.3870554,
+          37.7672864
+        ],
+        [
+          -122.3871173,
+          37.7672556
+        ],
+        [
+          -122.3872018,
+          37.767229
+        ],
+        [
+          -122.387296,
+          37.7672011
+        ],
+        [
+          -122.3873882,
+          37.7671845
+        ],
+        [
+          -122.3874794,
+          37.767175
+        ],
+        [
+          -122.3875738,
+          37.7671732
+        ],
+        [
+          -122.3876725,
+          37.7671845
+        ],
+        [
+          -122.3877731,
+          37.7672025
+        ],
+        [
+          -122.3878517,
+          37.7672275
+        ],
+        [
+          -122.38793,
+          37.7672619
+        ],
+        [
+          -122.3880158,
+          37.7673086
+        ],
+        [
+          -122.3880717,
+          37.7673502
+        ],
+        [
+          -122.3881352,
+          37.7674125
+        ],
+        [
+          -122.3881888,
+          37.7674712
+        ],
+        [
+          -122.3882398,
+          37.7675577
+        ],
+        [
+          -122.3882593,
+          37.7676242
+        ],
+        [
+          -122.3882787,
+          37.7676817
+        ],
+        [
+          -122.3882841,
+          37.7677528
+        ],
+        [
+          -122.3882827,
+          37.7678217
+        ],
+        [
+          -122.3883149,
+          37.7678248
+        ],
+        [
+          -122.3883049,
+          37.7678752
+        ],
+        [
+          -122.3882988,
+          37.767925
+        ],
+        [
+          -122.3882882,
+          37.7679569
+        ],
+        [
+          -122.388284,
+          37.7679696
+        ],
+        [
+          -122.3882728,
+          37.7679951
+        ],
+        [
+          -122.3882613,
+          37.768021
+        ],
+        [
+          -122.3882412,
+          37.7680623
+        ],
+        [
+          -122.3882117,
+          37.7681164
+        ],
+        [
+          -122.3881808,
+          37.7681588
+        ],
+        [
+          -122.3881439,
+          37.7682087
+        ],
+        [
+          -122.3881064,
+          37.7682516
+        ],
+        [
+          -122.3880668,
+          37.7682897
+        ],
+        [
+          -122.3880252,
+          37.7683268
+        ],
+        [
+          -122.3879854,
+          37.7683573
+        ],
+        [
+          -122.387922,
+          37.7683973
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 579646390,
+    "version": 9,
+    "timestamp": "2026-02-03T00:30:45Z",
+    "url": "https://www.openstreetmap.org/way/579646390"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q15262098",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Chase Center - East Side - San Francisco.jpg",
+      "author": "Tony Wasserman from San Francisco, USA",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Chase_Center_-_East_Side_-_San_Francisco.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Chase Center - July 2019 (7605).jpg",
+      "author": "Gregory Varnum",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Chase_Center_-_July_2019_(7605).jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Chase Center - Warriors.jpg",
+      "author": "Christopher Michel",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Chase_Center_-_Warriors.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/sf-chase-center.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Chase Center, San Francisco: the Warriors' arena at Mission Bay, a white drum of stepped horizontal bands under a thick rim, with a glass front on the bay side and two layered prows at its corners. Original procedural geometry, CC0-1.0. bun generators/sf-chase-center.ts",
+    "Frame: BEARING 0 (the drum is round). x east (Terry A. Francois Boulevard and the bay), y north (16th Street is south), z up, metres. Origin = area centroid of the OSM outline way/579646390. y = 0 is the street round the arena, 3.4 m NAVD88; the only lower ground under the outline is a loading ramp in the south-east corner, which dips to 0.9 and is left to the map.",
+    "Evidence",
+    "OSM way/579646390 (\"Chase Center\", building, height 38.1), no building:parts inside it.",
+    "USGS 3DEP lidar (CA_SanFrancisco_1_B23, 2023) at 1 m (/tmp/city/sf/work/sf-chase-center): the drum's rim traced every 10 degrees is a rounded oval 148-165 m across, longest from south-west to north-east (radius 82 to the south-west, 74 to the north-west and south-east, a flatter 77-79 along the east front); its parapet tops out at 36-37.4 above the street, a gutter ring inside it at 34.1, and the roof rises from 38 at its edge to 41.6 in the middle. Two prows stand out at the north-east and south-east corners to radius 90 and 89, as high as 38.8.",
+    "Published (Wikipedia, Manica Architecture): opened 2019, 18,064 seats.",
+    "Photos (Wikimedia Commons): \"Chase Center - East Side - San Francisco.jpg\" (Tony Wasserman, CC BY-SA 2.0, the bay-side glass front under the overhanging white rim and its columns, the stepped white bands beside it); \"Chase Center - July 2019 (7605).jpg\", \"(7753).jpg\", \"(7854).jpg\" and \"(7836).jpg\" (Gregory Varnum, CC BY-SA 4.0: the glass front, a layered prow with its bronze soffits, the bands); \"Chase Center - Warriors.jpg\" (Christopher Michel, CC BY 2.0, from the air: the oval, the white bands, the pale roof, the rim and gutter); \"San Francisco - Chase Center 001-004.jpg\" (Américo Toledano, CC BY-SA 4.0); \"Chase Arena May 2019 - 1-4.jpg\" (Cullen328, CC BY-SA 3.0).",
+    "Estimated from the photos: the wall's profile (the lidar sees only the rim): glass lobby to 8 m set 9 m in, five white bands each stepping out over the one below up to the 7 m rim band; on the east front a glass wall 7.5 m in under the rim, with columns; the prows as three stacked blades; the gentle wave in the band lines. The roof lettering is left out.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"sf-chase-center\", model \"sf-chase-center\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/sf-chase-center.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 4539 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the sf-chase-center-glazing finish in the window colour."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

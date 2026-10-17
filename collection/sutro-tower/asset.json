@@ -1,0 +1,641 @@
+{
+  "id": "sutro-tower",
+  "name": "Sutro Tower",
+  "anchor": [
+    -122.4528532,
+    37.7552409
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 13,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 52148,
+      "sha256": "55ef19163a38adadadc2c9ef54e59af2a75490bcde1c200b487591860619e617"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 52148,
+      "sha256": "55ef19163a38adadadc2c9ef54e59af2a75490bcde1c200b487591860619e617"
+    }
+  },
+  "triangles": 1500,
+  "boundsBlenderM": [
+    [
+      -30.726,
+      -29.608,
+      0
+    ],
+    [
+      21.158,
+      29.608,
+      297.8
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -122.4531097,
+          37.7552263
+        ],
+        [
+          -122.4532011,
+          37.7551845
+        ],
+        [
+          -122.4531904,
+          37.7551699
+        ],
+        [
+          -122.4530753,
+          37.7552223
+        ],
+        [
+          -122.4527622,
+          37.7550795
+        ],
+        [
+          -122.4527622,
+          37.7549743
+        ],
+        [
+          -122.4527407,
+          37.7549743
+        ],
+        [
+          -122.4527407,
+          37.7550578
+        ],
+        [
+          -122.4527408,
+          37.7550698
+        ],
+        [
+          -122.4527267,
+          37.7550633
+        ],
+        [
+          -122.4527387,
+          37.7550578
+        ],
+        [
+          -122.4527387,
+          37.7550551
+        ],
+        [
+          -122.4527117,
+          37.7550428
+        ],
+        [
+          -122.4527237,
+          37.7550373
+        ],
+        [
+          -122.4527237,
+          37.7550346
+        ],
+        [
+          -122.4526937,
+          37.7550209
+        ],
+        [
+          -122.4526907,
+          37.7550223
+        ],
+        [
+          -122.4526907,
+          37.7550497
+        ],
+        [
+          -122.4526937,
+          37.755051
+        ],
+        [
+          -122.4527057,
+          37.7550455
+        ],
+        [
+          -122.4527057,
+          37.7550702
+        ],
+        [
+          -122.4527087,
+          37.7550715
+        ],
+        [
+          -122.4527208,
+          37.755066
+        ],
+        [
+          -122.4527208,
+          37.755079
+        ],
+        [
+          -122.4527077,
+          37.755073
+        ],
+        [
+          -122.452616,
+          37.7550313
+        ],
+        [
+          -122.4526053,
+          37.755046
+        ],
+        [
+          -122.4527208,
+          37.7550986
+        ],
+        [
+          -122.4527207,
+          37.7553842
+        ],
+        [
+          -122.4526055,
+          37.7554367
+        ],
+        [
+          -122.4526162,
+          37.7554515
+        ],
+        [
+          -122.4527077,
+          37.7554097
+        ],
+        [
+          -122.4527207,
+          37.7554037
+        ],
+        [
+          -122.4527207,
+          37.755416
+        ],
+        [
+          -122.452709,
+          37.7554107
+        ],
+        [
+          -122.452706,
+          37.7554121
+        ],
+        [
+          -122.452706,
+          37.7554372
+        ],
+        [
+          -122.4526937,
+          37.7554316
+        ],
+        [
+          -122.4526907,
+          37.755433
+        ],
+        [
+          -122.4526907,
+          37.7554604
+        ],
+        [
+          -122.4526937,
+          37.7554617
+        ],
+        [
+          -122.4527237,
+          37.755448
+        ],
+        [
+          -122.4527237,
+          37.7554453
+        ],
+        [
+          -122.4527114,
+          37.7554397
+        ],
+        [
+          -122.452739,
+          37.7554271
+        ],
+        [
+          -122.452739,
+          37.7554244
+        ],
+        [
+          -122.4527274,
+          37.7554191
+        ],
+        [
+          -122.4527407,
+          37.755413
+        ],
+        [
+          -122.4527407,
+          37.7554249
+        ],
+        [
+          -122.4527407,
+          37.7555083
+        ],
+        [
+          -122.4527622,
+          37.7555083
+        ],
+        [
+          -122.4527622,
+          37.7554032
+        ],
+        [
+          -122.4530753,
+          37.7552602
+        ],
+        [
+          -122.4531905,
+          37.7553126
+        ],
+        [
+          -122.4532012,
+          37.7552979
+        ],
+        [
+          -122.45311,
+          37.7552564
+        ],
+        [
+          -122.4530968,
+          37.7552504
+        ],
+        [
+          -122.4531102,
+          37.7552443
+        ],
+        [
+          -122.4531102,
+          37.7552551
+        ],
+        [
+          -122.4531132,
+          37.7552564
+        ],
+        [
+          -122.4531406,
+          37.7552439
+        ],
+        [
+          -122.4531406,
+          37.755255
+        ],
+        [
+          -122.4531436,
+          37.7552563
+        ],
+        [
+          -122.4531735,
+          37.7552427
+        ],
+        [
+          -122.4531735,
+          37.7552399
+        ],
+        [
+          -122.4531436,
+          37.7552263
+        ],
+        [
+          -122.4531406,
+          37.7552276
+        ],
+        [
+          -122.4531406,
+          37.7552388
+        ],
+        [
+          -122.4531132,
+          37.7552263
+        ],
+        [
+          -122.4531102,
+          37.7552277
+        ],
+        [
+          -122.4531102,
+          37.7552382
+        ],
+        [
+          -122.4530969,
+          37.7552321
+        ],
+        [
+          -122.4531097,
+          37.7552263
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "relation",
+    "id": 3829019,
+    "version": 30,
+    "timestamp": "2026-05-21T08:16:47Z",
+    "url": "https://www.openstreetmap.org/relation/3829019"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 581120610,
+      "version": 8,
+      "timestamp": "2026-05-21T08:16:47Z",
+      "url": "https://www.openstreetmap.org/way/581120610"
+    },
+    {
+      "type": "way",
+      "id": 1350841006,
+      "version": 1,
+      "timestamp": "2025-01-13T06:37:22Z",
+      "url": "https://www.openstreetmap.org/way/1350841006"
+    },
+    {
+      "type": "way",
+      "id": 1350828175,
+      "version": 3,
+      "timestamp": "2025-01-15T07:17:43Z",
+      "url": "https://www.openstreetmap.org/way/1350828175"
+    },
+    {
+      "type": "way",
+      "id": 1350828176,
+      "version": 3,
+      "timestamp": "2025-01-15T07:17:43Z",
+      "url": "https://www.openstreetmap.org/way/1350828176"
+    },
+    {
+      "type": "way",
+      "id": 1350828177,
+      "version": 3,
+      "timestamp": "2025-01-15T07:17:43Z",
+      "url": "https://www.openstreetmap.org/way/1350828177"
+    },
+    {
+      "type": "way",
+      "id": 1350828178,
+      "version": 4,
+      "timestamp": "2025-01-15T07:17:43Z",
+      "url": "https://www.openstreetmap.org/way/1350828178"
+    },
+    {
+      "type": "way",
+      "id": 1350828179,
+      "version": 4,
+      "timestamp": "2025-01-15T07:17:43Z",
+      "url": "https://www.openstreetmap.org/way/1350828179"
+    },
+    {
+      "type": "way",
+      "id": 1350828180,
+      "version": 3,
+      "timestamp": "2025-01-15T07:17:43Z",
+      "url": "https://www.openstreetmap.org/way/1350828180"
+    },
+    {
+      "type": "way",
+      "id": 1350828181,
+      "version": 6,
+      "timestamp": "2025-01-15T07:17:43Z",
+      "url": "https://www.openstreetmap.org/way/1350828181"
+    },
+    {
+      "type": "way",
+      "id": 1350828182,
+      "version": 6,
+      "timestamp": "2025-01-15T07:17:43Z",
+      "url": "https://www.openstreetmap.org/way/1350828182"
+    },
+    {
+      "type": "way",
+      "id": 1350828183,
+      "version": 5,
+      "timestamp": "2025-01-15T07:17:43Z",
+      "url": "https://www.openstreetmap.org/way/1350828183"
+    },
+    {
+      "type": "way",
+      "id": 1350848292,
+      "version": 3,
+      "timestamp": "2025-01-15T07:17:43Z",
+      "url": "https://www.openstreetmap.org/way/1350848292"
+    },
+    {
+      "type": "way",
+      "id": 1350848293,
+      "version": 2,
+      "timestamp": "2025-01-15T07:17:43Z",
+      "url": "https://www.openstreetmap.org/way/1350848293"
+    },
+    {
+      "type": "way",
+      "id": 1350848294,
+      "version": 4,
+      "timestamp": "2025-01-15T07:17:43Z",
+      "url": "https://www.openstreetmap.org/way/1350848294"
+    },
+    {
+      "type": "way",
+      "id": 1350848295,
+      "version": 3,
+      "timestamp": "2025-01-15T07:17:43Z",
+      "url": "https://www.openstreetmap.org/way/1350848295"
+    },
+    {
+      "type": "way",
+      "id": 1350848296,
+      "version": 4,
+      "timestamp": "2025-01-15T07:17:43Z",
+      "url": "https://www.openstreetmap.org/way/1350848296"
+    },
+    {
+      "type": "way",
+      "id": 1350853005,
+      "version": 4,
+      "timestamp": "2025-01-15T07:17:43Z",
+      "url": "https://www.openstreetmap.org/way/1350853005"
+    },
+    {
+      "type": "way",
+      "id": 1350853006,
+      "version": 4,
+      "timestamp": "2025-01-15T07:17:43Z",
+      "url": "https://www.openstreetmap.org/way/1350853006"
+    },
+    {
+      "type": "way",
+      "id": 1350853007,
+      "version": 4,
+      "timestamp": "2025-01-15T07:17:43Z",
+      "url": "https://www.openstreetmap.org/way/1350853007"
+    },
+    {
+      "type": "way",
+      "id": 1350853008,
+      "version": 3,
+      "timestamp": "2025-01-15T07:17:43Z",
+      "url": "https://www.openstreetmap.org/way/1350853008"
+    },
+    {
+      "type": "way",
+      "id": 1350853009,
+      "version": 5,
+      "timestamp": "2025-01-15T07:17:43Z",
+      "url": "https://www.openstreetmap.org/way/1350853009"
+    },
+    {
+      "type": "way",
+      "id": 1350853010,
+      "version": 4,
+      "timestamp": "2025-01-15T07:17:43Z",
+      "url": "https://www.openstreetmap.org/way/1350853010"
+    },
+    {
+      "type": "way",
+      "id": 1350853011,
+      "version": 4,
+      "timestamp": "2025-01-15T07:17:43Z",
+      "url": "https://www.openstreetmap.org/way/1350853011"
+    },
+    {
+      "type": "way",
+      "id": 1350853012,
+      "version": 4,
+      "timestamp": "2025-01-15T07:17:43Z",
+      "url": "https://www.openstreetmap.org/way/1350853012"
+    },
+    {
+      "type": "way",
+      "id": 1350853013,
+      "version": 5,
+      "timestamp": "2025-01-15T07:17:43Z",
+      "url": "https://www.openstreetmap.org/way/1350853013"
+    },
+    {
+      "type": "way",
+      "id": 1350853014,
+      "version": 5,
+      "timestamp": "2025-01-15T07:17:43Z",
+      "url": "https://www.openstreetmap.org/way/1350853014"
+    },
+    {
+      "type": "way",
+      "id": 1350855462,
+      "version": 3,
+      "timestamp": "2025-01-15T07:17:43Z",
+      "url": "https://www.openstreetmap.org/way/1350855462"
+    },
+    {
+      "type": "way",
+      "id": 1350855463,
+      "version": 4,
+      "timestamp": "2025-01-15T07:17:43Z",
+      "url": "https://www.openstreetmap.org/way/1350855463"
+    },
+    {
+      "type": "way",
+      "id": 1350855464,
+      "version": 4,
+      "timestamp": "2025-01-15T07:17:43Z",
+      "url": "https://www.openstreetmap.org/way/1350855464"
+    },
+    {
+      "type": "way",
+      "id": 1334229829,
+      "version": 4,
+      "timestamp": "2025-01-15T07:17:43Z",
+      "url": "https://www.openstreetmap.org/way/1334229829"
+    },
+    {
+      "type": "way",
+      "id": 1350860498,
+      "version": 3,
+      "timestamp": "2025-01-15T07:17:43Z",
+      "url": "https://www.openstreetmap.org/way/1350860498"
+    },
+    {
+      "type": "way",
+      "id": 1350860499,
+      "version": 3,
+      "timestamp": "2025-01-15T07:17:43Z",
+      "url": "https://www.openstreetmap.org/way/1350860499"
+    }
+  ],
+  "wikidata": "Q650097",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Sutro Tower from Grandview.jpg",
+      "author": "Justin Beck",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Sutro_Tower_from_Grandview.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Sutro Tower in 2012.jpg",
+      "author": "Choinowski",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Sutro_Tower_in_2012.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Sutro-tower-20180503.jpg",
+      "author": "Matt Parlmer",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Sutro-tower-20180503.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Sutro Tower 1 2017-06-12.jpg",
+      "author": "FASTILY",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Sutro_Tower_1_2017-06-12.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/sf-sutro-tower.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Sutro Tower, San Francisco — original procedural geometry, CC0-1.0. bun generators/sf-sutro-tower.ts",
+    "Map frame: x east, y north, z up, metres, no rotation (bearing 0): one leg points due west, the other two to 60° either side of east, as OSM maps them. Origin = the tower's centre (the centroid of the three leg feet), on the lowest ground under the legs (254.6 m NAVD88).",
+    "What makes it Sutro Tower: three legs that lean in from a wide base to a waist two thirds of the way up and splay out again to the top; broad International Orange and white bands; two box crossbars and a white platform tying the legs; the wide top crossarm, a triangle of trusses whose sides run on past the legs; and the \"trident\" of three masts.",
+    "Evidence",
+    "OSM relation/3829019 (multipolygon, outer way/581120610, inner way/1350841006; height 298) and its building:parts, the legs mapped in 26 m sections (way/1350828175-183, 1350848292-296, 1350853005-014, 1350855462-464) and the masts (way/1334229829, 1350860498, 1350860499): leg centres at r 26.1 m (0-26 m), narrowing by 2.65 m every 26 m to r 10.5 at 156-182 m, then r 14.1 (182-208) and 17.5 (208-232); legs 3.8-4.2 m across; the masts on the leg tops from 232.25 to 298 m.",
+    "USGS 3DEP lidar (CA_SanFrancisco_1_B23, 2023, 0.5 m): ground under the legs 254.6-254.8 m; the lower crossbar's top at 59 m reaching r 26.4 along the legs (leg centres ~24.6), the upper one's top at 119 m (r 19.2, centres ~17.8), the white platform at 168 m inside legs at r ~12 (its extent along two legs 15.0 and 11.9 m; leg centres taken as 12.3). The vertical legs return almost nothing and returns stop at 200 m, so the taper between those levels and above the waist is OSM's.",
+    "Published (Wikipedia; sutrotower.com): 297.8 m (977 ft) tall, top platform 232 m above ground, completed 1973, Kline Towers.",
+    "Heights read off the photos (scaled between the lidar's platform at 168 m and lower crossbar at 59 m, or the published 297.8 m tip): the crossarm's deck at 211-215 m and its top chords at 222-230 m, the masts from there to the tip (68 m). OSM's 232.25 m for the masts' foot is kept only as the crossarm's upper limit.",
+    "Commons daylight photos: \"Sutro Tower from Grandview.jpg\" (Justin Beck, CC BY 2.0; the whole tower side on: banding, both crossbars, the white platform, the crossarm 75 m across, the masts); \"Sutro Tower 2020 01/03/05/07.jpg\" (Christopher Michel, CC BY-SA 4.0; the crossarm's triangle from below, the leg bands); \"Sutro Tower in 2012.jpg\" (Choinowski, CC0); \"Sutro-tower-20180503.jpg\" (Matt Parlmer, CC BY-SA 4.0); \"Sutro Tower 1 2017-06-12.jpg\" (FASTILY, CC BY-SA 4.0).",
+    "Estimated: the bands (read off the Grandview photo against the crossbars: orange 0-18, 52-59, 80-100, 112-140 and 178 m to the top), the crossbars' depth (7 m) and the crossarm's (5 m deep, its sides running 13 m past each leg), the masts' banding and taper, the X-bracing drawn as one bold brace each way in each face of each panel (the real lattice and guy cables are too fine for the map), the concrete feet.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"sf-sutro-tower\", model \"sf-sutro-tower\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/sf-sutro-tower.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

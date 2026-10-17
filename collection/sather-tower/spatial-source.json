@@ -1,0 +1,275 @@
+{
+  "id": "sather-tower",
+  "anchor": [
+    -122.257822,
+    37.872056
+  ],
+  "coordinateSystem": "Local metres about the anchor (equirectangular, WGS84 radius): X east, Y north, Z up. glTF export: X east, Y up, Z south. Heading already baked.",
+  "license": "ODbL-1.0",
+  "footprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          5.588772341034855,
+          -3.1058137930424374
+        ],
+        [
+          -4.587011260637494,
+          -5.899933012176079
+        ],
+        [
+          -7.311098407180451,
+          4.007501668722522
+        ],
+        [
+          -5.008805399489276,
+          4.642022765749532
+        ],
+        [
+          -2.363804653044457,
+          5.365599456451872
+        ],
+        [
+          0.1757475586874163,
+          6.055780298734991
+        ],
+        [
+          2.8734725718643266,
+          6.801620887065191
+        ],
+        [
+          5.588772341034855,
+          -3.1058137930424374
+        ]
+      ]
+    ]
+  },
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -122.2577584,
+          37.8720281
+        ],
+        [
+          -122.2578742,
+          37.872003
+        ],
+        [
+          -122.2579052,
+          37.872092
+        ],
+        [
+          -122.257879,
+          37.8720977
+        ],
+        [
+          -122.2578489,
+          37.8721042
+        ],
+        [
+          -122.25782,
+          37.8721104
+        ],
+        [
+          -122.2577893,
+          37.8721171
+        ],
+        [
+          -122.2577584,
+          37.8720281
+        ]
+      ]
+    ]
+  },
+  "parts": [
+    {
+      "osm": "way/24024507",
+      "tags": {
+        "access": "permissive",
+        "access:disabled": "no",
+        "addr:state": "CA",
+        "amenity": "clock",
+        "architect": "John Galen Howard",
+        "bells": "carillon",
+        "bell_tower": "campanile",
+        "building": "bell_tower",
+        "contact:yelp": "the-campanile-berkeley",
+        "description": "The second-tallest freestanding clock and bell tower in the world",
+        "display": "analog",
+        "ele": "96",
+        "faces": "4",
+        "gnis:feature_id": "1656758",
+        "height": "93.6",
+        "man_made": "tower",
+        "multiple": "61 bells",
+        "name": "The Campanile (Sather Tower)",
+        "official_name": "Sather Tower",
+        "opening_hours": "Mo-Fr 10:00-15:45, Sa 10:00-16:45, Su 10:00-13:30, Su 15:00-16:45",
+        "operator": "UC Music Department",
+        "sound": "yes",
+        "source": "USGS Geonames",
+        "start_date": "1914",
+        "start_date:bells": "11/3/1917",
+        "support": "cage",
+        "tourism": "attraction",
+        "tower:construction": "freestanding",
+        "tower:type": "bell_tower",
+        "url": "https://www.berkeley.edu/map/campanile-sather-tower/",
+        "viewpoint": "yes",
+        "visibility": "area",
+        "wheelchair": "yes",
+        "wikidata": "Q357019",
+        "wikipedia": "https://en.wikipedia.org/wiki/Sather_Tower"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.588772341034855,
+              -3.1058137930424374
+            ],
+            [
+              -4.587011260637494,
+              -5.899933012176079
+            ],
+            [
+              -7.311098407180451,
+              4.007501668722522
+            ],
+            [
+              -5.008805399489276,
+              4.642022765749532
+            ],
+            [
+              -2.363804653044457,
+              5.365599456451872
+            ],
+            [
+              0.1757475586874163,
+              6.055780298734991
+            ],
+            [
+              2.8734725718643266,
+              6.801620887065191
+            ],
+            [
+              5.588772341034855,
+              -3.1058137930424374
+            ]
+          ]
+        ]
+      },
+      "version": 18,
+      "timestamp": "2026-08-27T10:27:52Z"
+    },
+    {
+      "osm": "way/1013163515",
+      "tags": {
+        "building:part": "yes",
+        "roof:shape": "pyramidal"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -4.833057840801859,
+              1.9258271902908328
+            ],
+            [
+              -4.279453033871088,
+              2.949966505692553
+            ],
+            [
+              0.8172261443375155,
+              4.341460141050152
+            ],
+            [
+              1.8014124687412572,
+              3.7625987884882797
+            ],
+            [
+              3.1370939080223086,
+              -1.046403213820553
+            ],
+            [
+              2.5659143450979194,
+              -2.048278630803441
+            ],
+            [
+              -2.5219774557382557,
+              -3.4397722653700673
+            ],
+            [
+              -3.506163778893237,
+              -2.8831748112270272
+            ],
+            [
+              -4.833057840801859,
+              1.9258271902908328
+            ]
+          ]
+        ]
+      },
+      "version": 1,
+      "timestamp": "2021-12-17T19:34:39Z"
+    }
+  ],
+  "osm": {
+    "type": "way",
+    "id": 24024507,
+    "version": 18,
+    "timestamp": "2026-08-27T10:27:52Z",
+    "url": "https://www.openstreetmap.org/way/24024507"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 1013163515,
+      "version": 1,
+      "timestamp": "2021-12-17T19:34:39Z",
+      "url": "https://www.openstreetmap.org/way/1013163515"
+    }
+  ],
+  "tags": {
+    "access": "permissive",
+    "access:disabled": "no",
+    "addr:state": "CA",
+    "amenity": "clock",
+    "architect": "John Galen Howard",
+    "bells": "carillon",
+    "bell_tower": "campanile",
+    "building": "bell_tower",
+    "contact:yelp": "the-campanile-berkeley",
+    "description": "The second-tallest freestanding clock and bell tower in the world",
+    "display": "analog",
+    "ele": "96",
+    "faces": "4",
+    "gnis:feature_id": "1656758",
+    "height": "93.6",
+    "man_made": "tower",
+    "multiple": "61 bells",
+    "name": "The Campanile (Sather Tower)",
+    "official_name": "Sather Tower",
+    "opening_hours": "Mo-Fr 10:00-15:45, Sa 10:00-16:45, Su 10:00-13:30, Su 15:00-16:45",
+    "operator": "UC Music Department",
+    "sound": "yes",
+    "source": "USGS Geonames",
+    "start_date": "1914",
+    "start_date:bells": "11/3/1917",
+    "support": "cage",
+    "tourism": "attraction",
+    "tower:construction": "freestanding",
+    "tower:type": "bell_tower",
+    "url": "https://www.berkeley.edu/map/campanile-sather-tower/",
+    "viewpoint": "yes",
+    "visibility": "area",
+    "wheelchair": "yes",
+    "wikidata": "Q357019",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sather_Tower"
+  }
+}

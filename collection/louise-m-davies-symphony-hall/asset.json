@@ -1,0 +1,310 @@
+{
+  "id": "louise-m-davies-symphony-hall",
+  "name": "Louise M. Davies Symphony Hall",
+  "anchor": [
+    -122.4205864,
+    37.7776139
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 63536,
+      "sha256": "18b989aad5702cb7ddf3f05e6007765c6f6301dfbb51eec660adc12cdec2f3e6"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 63536,
+      "sha256": "18b989aad5702cb7ddf3f05e6007765c6f6301dfbb51eec660adc12cdec2f3e6"
+    }
+  },
+  "triangles": 1390,
+  "boundsBlenderM": [
+    [
+      -63.677,
+      -46.953,
+      0
+    ],
+    [
+      55.786,
+      44.387,
+      31.8
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -122.4211543,
+          37.7779746
+        ],
+        [
+          -122.4211451,
+          37.7779211
+        ],
+        [
+          -122.4209893,
+          37.7779392
+        ],
+        [
+          -122.4209074,
+          37.7775609
+        ],
+        [
+          -122.4212997,
+          37.7775103
+        ],
+        [
+          -122.4212402,
+          37.7772104
+        ],
+        [
+          -122.420858,
+          37.7772586
+        ],
+        [
+          -122.4199382,
+          37.7773745
+        ],
+        [
+          -122.4199578,
+          37.7774763
+        ],
+        [
+          -122.4199375,
+          37.7774833
+        ],
+        [
+          -122.4199203,
+          37.7774946
+        ],
+        [
+          -122.4199089,
+          37.7775125
+        ],
+        [
+          -122.4199063,
+          37.7775373
+        ],
+        [
+          -122.4199172,
+          37.7775568
+        ],
+        [
+          -122.4199321,
+          37.7775713
+        ],
+        [
+          -122.419956,
+          37.7775795
+        ],
+        [
+          -122.419976,
+          37.7775814
+        ],
+        [
+          -122.4200057,
+          37.7777129
+        ],
+        [
+          -122.4200391,
+          37.7778011
+        ],
+        [
+          -122.4200952,
+          37.7778698
+        ],
+        [
+          -122.420181,
+          37.7779376
+        ],
+        [
+          -122.4202385,
+          37.7779682
+        ],
+        [
+          -122.4203011,
+          37.7779919
+        ],
+        [
+          -122.4203749,
+          37.7780075
+        ],
+        [
+          -122.4204441,
+          37.7780161
+        ],
+        [
+          -122.4205073,
+          37.7780169
+        ],
+        [
+          -122.420569,
+          37.778013
+        ],
+        [
+          -122.4206874,
+          37.7779986
+        ],
+        [
+          -122.4207043,
+          37.7780086
+        ],
+        [
+          -122.4207303,
+          37.7780122
+        ],
+        [
+          -122.4207629,
+          37.7780046
+        ],
+        [
+          -122.4207783,
+          37.7779934
+        ],
+        [
+          -122.4207909,
+          37.7779769
+        ],
+        [
+          -122.420798,
+          37.7779564
+        ],
+        [
+          -122.4208158,
+          37.7780351
+        ],
+        [
+          -122.4210565,
+          37.7780054
+        ],
+        [
+          -122.421054,
+          37.7779866
+        ],
+        [
+          -122.4211034,
+          37.7779807
+        ],
+        [
+          -122.4211543,
+          37.7779746
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 32865746,
+    "version": 25,
+    "timestamp": "2026-02-24T02:57:44Z",
+    "url": "https://www.openstreetmap.org/way/32865746"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 679356534,
+      "version": 1,
+      "timestamp": "2019-03-26T01:07:26Z",
+      "url": "https://www.openstreetmap.org/way/679356534"
+    },
+    {
+      "type": "way",
+      "id": 679356535,
+      "version": 1,
+      "timestamp": "2019-03-26T01:07:26Z",
+      "url": "https://www.openstreetmap.org/way/679356535"
+    },
+    {
+      "type": "way",
+      "id": 679356536,
+      "version": 2,
+      "timestamp": "2022-04-25T09:29:54Z",
+      "url": "https://www.openstreetmap.org/way/679356536"
+    }
+  ],
+  "wikidata": "Q6688842",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Daviessymphonyhall.jpg",
+      "author": "J. Ash Bowie",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Daviessymphonyhall.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Louise M. Davies Symphony Hall-San Francisco-2.jpg",
+      "author": "Yair Haklai",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Louise_M._Davies_Symphony_Hall-San_Francisco-2.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:San Francisco Davies Symphony Hall 1.jpg",
+      "author": "Photo: Andreas Praefcke",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:San_Francisco_Davies_Symphony_Hall_1.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Louise M. Davies Symphony Hall-San Francisco.jpg",
+      "author": "Yair Haklai",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Louise_M._Davies_Symphony_Hall-San_Francisco.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Louise M. Davies Symphony Hall, San Francisco, California.jpg",
+      "author": "Ken Lund",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Louise_M._Davies_Symphony_Hall,_San_Francisco,_California.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/sf-davies-symphony-hall.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Louise M. Davies Symphony Hall, San Francisco — original procedural geometry, CC0-1.0. bun generators/sf-davies-symphony-hall.ts",
+    "Frame: BEARING 350.7, turned to the street grid like its War Memorial neighbours. x east (Van Ness Avenue), y north (Grove Street), z up, metres. Origin = area centroid of the OSM outline way/32865746. y = 0 is the lowest ground the building touches (17.9 m NAVD88, the Franklin Street side); Van Ness and Hayes are ~0.6 m higher and Grove ~1.3 m.",
+    "The hall is symmetric about the diagonal through its curved corner: the Van Ness and Grove fronts are each ~31 m long, joined by a quarter circle of radius 32 m, with a round balcony \"saucer\" on each front where the glass ends. Behind, the south (Hayes) and west walls rise sheer.",
+    "Evidence",
+    "OSM way/32865746 (theatre, \"height 49 m\", which the lidar does not bear out: that is likely the flagpole) and its parts way/679356534 (the west block), 679356535 and 679356536 (the hall, \"height 27\"), all replaced.",
+    "USGS 3DEP lidar (CA_SanFrancisco_1_B23, 2023) at 1 m in the turned frame (/tmp/city/sf/work/sf-opera-house/lid.json): the curved wall fits a circle centred (15.0, 6.6) of radius 31.8 to within 0.6 m, tangent to the Van Ness wall at x = 47.5 and the Grove wall at y = 39.5. Along those fronts the roof slopes from an eave at 24.9 up to 31.8 about 9 m in; the south and west walls stand straight to 31.8, with a faceted bulge at the south-west corner; inside a 31.8 m parapet ring the roof deck sits at 28.8. A balcony band tops out at 19.7, 1 m proud of the wall. The saucer terraces read ~20 m, centred on the fronts 18.5 m from the corners. The lower wings: a 19 m block to the west (x -65..-26.5), a 13.5 m L round the hall's west and south sides, a 5.8 m terrace by Grove Street and a 5.5 m podium at the Van Ness / Hayes corner.",
+    "Published (Wikipedia): 1980, Skidmore, Owings & Merrill with Pietro Belluschi; 2,743 seats.",
+    "Photos (Wikimedia Commons): \"Daviessymphonyhall.jpg\" (J. Ash Bowie, CC BY-SA 3.0, the curved front from the north-east, with the saucers); \"Louise M. Davies Symphony Hall-San Francisco-2.jpg\" (Yair Haklai, CC BY-SA 3.0, the curve square on from the Grove / Van Ness corner); \"San Francisco Davies Symphony Hall 1.jpg\" and \"... 2.jpg\" (Andreas Praefcke, CC BY 3.0, the Hayes and Van Ness corner: the saucer, the half-round window, the sheer back walls); \"Louise M. Davies Symphony Hall-San Francisco.jpg\" (Yair Haklai, CC BY-SA 3.0, the Grove Street side and terrace); \"Louise M. Davies Symphony Hall, San Francisco, California.jpg\" (Ken Lund, CC BY-SA 2.0).",
+    "Estimated from the photos: the storey lines of the curved front (lobby glass to 7.5, a cantilevered balcony band to 9.3, the upper glass with white fins to 17.2, a second band to 19.7, a solid attic with a row of slot windows in its middle), the fin spacing (2.8 m), the saucers' drums and discs, the half-round and tall windows on the back walls. The lower wings are plain blocks: no photo shows their facades well.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"sf-davies-symphony-hall\", model \"sf-davies-symphony-hall\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/sf-davies-symphony-hall.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 514 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the sf-davies-symphony-hall-glazing finish in the window colour."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

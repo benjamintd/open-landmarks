@@ -1,0 +1,233 @@
+{
+  "id": "pacific-telephone-building",
+  "name": "Pacific Telephone Building",
+  "anchor": [
+    -122.4000099,
+    37.7866793
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 177208,
+      "sha256": "8b05497fc2d9db3d6ac20a077fc84e7b7ca69f667a760ce36c724c2904a88419"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 177208,
+      "sha256": "8b05497fc2d9db3d6ac20a077fc84e7b7ca69f667a760ce36c724c2904a88419"
+    }
+  },
+  "triangles": 3302,
+  "boundsBlenderM": [
+    [
+      -35.055,
+      -24.404,
+      0
+    ],
+    [
+      32.849,
+      28.553,
+      140
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -122.3998725,
+          37.7864549
+        ],
+        [
+          -122.3998149,
+          37.7865007
+        ],
+        [
+          -122.3998101,
+          37.7864969
+        ],
+        [
+          -122.3998023,
+          37.7864908
+        ],
+        [
+          -122.3996519,
+          37.7866102
+        ],
+        [
+          -122.4000448,
+          37.7869194
+        ],
+        [
+          -122.4004051,
+          37.7866334
+        ],
+        [
+          -122.4002867,
+          37.7865402
+        ],
+        [
+          -122.4000329,
+          37.7867416
+        ],
+        [
+          -122.4000019,
+          37.7867173
+        ],
+        [
+          -122.4000375,
+          37.786689
+        ],
+        [
+          -122.4000297,
+          37.7866829
+        ],
+        [
+          -122.4000947,
+          37.7866311
+        ],
+        [
+          -122.4000148,
+          37.7865685
+        ],
+        [
+          -122.399994,
+          37.786585
+        ],
+        [
+          -122.3999816,
+          37.7865754
+        ],
+        [
+          -122.399919,
+          37.7866253
+        ],
+        [
+          -122.399902,
+          37.7866119
+        ],
+        [
+          -122.3999292,
+          37.7865903
+        ],
+        [
+          -122.3999229,
+          37.7865853
+        ],
+        [
+          -122.3999803,
+          37.7865397
+        ],
+        [
+          -122.3998725,
+          37.7864549
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 80296766,
+    "version": 8,
+    "timestamp": "2023-05-01T06:16:36Z",
+    "url": "https://www.openstreetmap.org/way/80296766"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 684195506,
+      "version": 2,
+      "timestamp": "2023-05-01T06:16:36Z",
+      "url": "https://www.openstreetmap.org/way/684195506"
+    },
+    {
+      "type": "way",
+      "id": 684195508,
+      "version": 2,
+      "timestamp": "2023-05-01T06:16:36Z",
+      "url": "https://www.openstreetmap.org/way/684195508"
+    }
+  ],
+  "wikidata": "Q14681501",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:140 New Montgomery from Salesforce Park.jpg",
+      "author": "Dead.rabbit",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:140_New_Montgomery_from_Salesforce_Park.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:140 New Montgomery Street (PacBell Building) seen from Mission Street.jpg",
+      "author": "Joe Mabel",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:140_New_Montgomery_Street_(PacBell_Building)_seen_from_Mission_Street.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:140 New Montgomery 2021.jpg",
+      "author": "Dead.rabbit",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:140_New_Montgomery_2021.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:140 New Montgomery.jpg",
+      "author": "Todd Freeman",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:140_New_Montgomery.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Pacific Telephone Building.jpg",
+      "author": "Jellicatx3",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Pacific_Telephone_Building.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/sf-pacific-telephone.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Pacific Telephone Building (140 New Montgomery), San Francisco — original procedural geometry, CC0-1.0. bun generators/sf-pacific-telephone.ts",
+    "Frame: built turned to the SoMa grid, BEARING 44.7 (the outline's main axis). x along New Montgomery Street (+x towards Mission Street), +y towards the New Montgomery front, z up, metres. Origin = centroid of the OSM outline way/80296766.",
+    "Evidence",
+    "OSM way/80296766 (an L: a 49 x 19 m front block on New Montgomery and a 15 x 31 m back wing), parts 684195506 (26 levels) and 684195508 (one storey, in the yard). The outline sits ~1.5 m off the lidar; lidar wins.",
+    "USGS 3DEP lidar (CA_SanFrancisco_1_B23, 2023) at 0.5 m in the turned frame (/tmp/city/sf/work/fd/grid.py); y = 0 is the lowest ground (5.5 m NAVD88). The L rises to 78 m at its corners and 97 m elsewhere; a setback L inset 3-4 m to 119 m; a central top block (12.5 x 13 m) to 131 m; the lantern on it reads 146-150 m in a 3 m patch, which the photos show is mostly the flagstaff: drawn as a 4 m lantern to 136.5 m with a cap to 140 m; a small plant room (lidar: scattered 133-141 m returns, off the axis and not seen in the front photos as a separate mass) drawn low, to 123 m, behind the parapet so the crown stays one central block; the core projects 3.6 m into the yard to 119 m; the one-storey yard building ~8 m.",
+    "Published (Wikipedia, SF Landmark No. 239, NRHP): 1925, Miller & Pflueger with A. A. Cantin, 133 m, 26 floors, the city's first major art-deco tower, faced in pale terracotta with eagles along the parapets.",
+    "Commons daylight photos: \"140 New Montgomery from Salesforce Park.jpg\" (Dead.rabbit, CC BY-SA 4.0, the back face and setbacks, from the south-east), \"140 New Montgomery Street (PacBell Building) seen from Mission Street.jpg\" (Joe Mabel, CC BY 4.0), \"140 New Montgomery 2021.jpg\" (Dead.rabbit, CC BY-SA 4.0), \"140 New Montgomery.jpg\" (Todd Freeman, CC BY-SA 4.0), \"Pacific Telephone Building.jpg\" (Jellicatx3, CC BY-SA 4.0).",
+    "Estimated: storeys (~4.4 m), the window grouping (one panel per ~4.6 m bay, a pair of windows between the main piers, in three-storey groups with spandrel bands; piers 0.25 m proud), the parapet finials standing for the eagles (2 m, every ~5 m), the 4 m corner chamfers that make the 78 m corner steps, the lantern's pointed cap.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"sf-pacific-telephone\", model \"sf-pacific-telephone\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/sf-pacific-telephone.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

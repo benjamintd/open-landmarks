@@ -1,0 +1,450 @@
+{
+  "id": "oracle-park",
+  "name": "Oracle Park",
+  "anchor": [
+    -122.38951278,
+    37.77843769
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 205096,
+      "sha256": "139b763d78ffaf43d72ae7bd1dc7bd6f4dc7b8153c1a2aca5397ba7d2f1adae0"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 205096,
+      "sha256": "139b763d78ffaf43d72ae7bd1dc7bd6f4dc7b8153c1a2aca5397ba7d2f1adae0"
+    }
+  },
+  "triangles": 4414,
+  "boundsBlenderM": [
+    [
+      -147.281,
+      -115.17,
+      0
+    ],
+    [
+      148.917,
+      146.937,
+      75
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -122.3892878,
+          37.7797507
+        ],
+        [
+          -122.3894214,
+          37.7796438
+        ],
+        [
+          -122.3894494,
+          37.7796215
+        ],
+        [
+          -122.3899569,
+          37.7792166
+        ],
+        [
+          -122.390135,
+          37.7790747
+        ],
+        [
+          -122.3904119,
+          37.7788542
+        ],
+        [
+          -122.3908782,
+          37.7784725
+        ],
+        [
+          -122.3909736,
+          37.7783946
+        ],
+        [
+          -122.3908593,
+          37.7783126
+        ],
+        [
+          -122.3908378,
+          37.778297
+        ],
+        [
+          -122.3908692,
+          37.7782611
+        ],
+        [
+          -122.3908241,
+          37.7782279
+        ],
+        [
+          -122.3908982,
+          37.778144
+        ],
+        [
+          -122.3909972,
+          37.778032
+        ],
+        [
+          -122.3911809,
+          37.777824
+        ],
+        [
+          -122.3907951,
+          37.7775203
+        ],
+        [
+          -122.3907473,
+          37.7775742
+        ],
+        [
+          -122.3906527,
+          37.7775179
+        ],
+        [
+          -122.3906264,
+          37.7775022
+        ],
+        [
+          -122.3904984,
+          37.777426
+        ],
+        [
+          -122.3904531,
+          37.777478
+        ],
+        [
+          -122.3903212,
+          37.77741
+        ],
+        [
+          -122.3902612,
+          37.7773791
+        ],
+        [
+          -122.390193,
+          37.7773439
+        ],
+        [
+          -122.3900541,
+          37.7773995
+        ],
+        [
+          -122.3898825,
+          37.7774683
+        ],
+        [
+          -122.3898547,
+          37.7774579
+        ],
+        [
+          -122.389231,
+          37.7776808
+        ],
+        [
+          -122.3879688,
+          37.7781761
+        ],
+        [
+          -122.3879922,
+          37.7784374
+        ],
+        [
+          -122.3879574,
+          37.7784529
+        ],
+        [
+          -122.3879282,
+          37.778468
+        ],
+        [
+          -122.3879,
+          37.7784871
+        ],
+        [
+          -122.387875,
+          37.7785098
+        ],
+        [
+          -122.3878517,
+          37.7785377
+        ],
+        [
+          -122.3878338,
+          37.7785686
+        ],
+        [
+          -122.3878206,
+          37.7785976
+        ],
+        [
+          -122.3878275,
+          37.7786185
+        ],
+        [
+          -122.3883841,
+          37.7790548
+        ],
+        [
+          -122.3888503,
+          37.7794203
+        ],
+        [
+          -122.3888765,
+          37.7794409
+        ],
+        [
+          -122.3891842,
+          37.7796698
+        ],
+        [
+          -122.3892878,
+          37.7797507
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "relation",
+    "id": 7330762,
+    "version": 6,
+    "timestamp": "2025-01-15T13:51:30Z",
+    "url": "https://www.openstreetmap.org/relation/7330762"
+  },
+  "additionalOsm": [
+    {
+      "type": "relation",
+      "id": 7325085,
+      "version": 18,
+      "timestamp": "2026-10-06T23:30:20Z",
+      "url": "https://www.openstreetmap.org/relation/7325085"
+    },
+    {
+      "type": "way",
+      "id": 499568642,
+      "version": 3,
+      "timestamp": "2017-06-13T23:57:02Z",
+      "url": "https://www.openstreetmap.org/way/499568642"
+    },
+    {
+      "type": "way",
+      "id": 499568643,
+      "version": 1,
+      "timestamp": "2017-06-11T02:38:54Z",
+      "url": "https://www.openstreetmap.org/way/499568643"
+    },
+    {
+      "type": "way",
+      "id": 499568644,
+      "version": 2,
+      "timestamp": "2017-06-11T04:01:32Z",
+      "url": "https://www.openstreetmap.org/way/499568644"
+    },
+    {
+      "type": "way",
+      "id": 499568645,
+      "version": 4,
+      "timestamp": "2025-08-29T15:03:21Z",
+      "url": "https://www.openstreetmap.org/way/499568645"
+    },
+    {
+      "type": "way",
+      "id": 499568646,
+      "version": 2,
+      "timestamp": "2017-12-08T17:00:26Z",
+      "url": "https://www.openstreetmap.org/way/499568646"
+    },
+    {
+      "type": "way",
+      "id": 499568647,
+      "version": 1,
+      "timestamp": "2017-06-11T02:38:55Z",
+      "url": "https://www.openstreetmap.org/way/499568647"
+    },
+    {
+      "type": "way",
+      "id": 499568648,
+      "version": 1,
+      "timestamp": "2017-06-11T02:38:55Z",
+      "url": "https://www.openstreetmap.org/way/499568648"
+    },
+    {
+      "type": "way",
+      "id": 499568649,
+      "version": 2,
+      "timestamp": "2017-12-08T17:00:26Z",
+      "url": "https://www.openstreetmap.org/way/499568649"
+    },
+    {
+      "type": "way",
+      "id": 499568652,
+      "version": 2,
+      "timestamp": "2025-08-29T15:03:21Z",
+      "url": "https://www.openstreetmap.org/way/499568652"
+    },
+    {
+      "type": "way",
+      "id": 368215207,
+      "version": 3,
+      "timestamp": "2017-06-11T04:01:31Z",
+      "url": "https://www.openstreetmap.org/way/368215207"
+    },
+    {
+      "type": "way",
+      "id": 368215208,
+      "version": 2,
+      "timestamp": "2017-06-11T02:38:56Z",
+      "url": "https://www.openstreetmap.org/way/368215208"
+    },
+    {
+      "type": "way",
+      "id": 368214736,
+      "version": 3,
+      "timestamp": "2017-06-11T02:38:57Z",
+      "url": "https://www.openstreetmap.org/way/368214736"
+    },
+    {
+      "type": "way",
+      "id": 368214737,
+      "version": 2,
+      "timestamp": "2017-06-11T02:38:57Z",
+      "url": "https://www.openstreetmap.org/way/368214737"
+    }
+  ],
+  "wikidata": "Q298585",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Aerial photograph of AT&T Park, home of the San Francisco Giants.jpg",
+      "author": "The original uploader was Grant.gibson at English Wikipedia.",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Aerial_photograph_of_AT%26T_Park,_home_of_the_San_Francisco_Giants.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:AT&T Park SW side 1.JPG",
+      "author": "BrokenSphere",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:AT%26T_Park_SW_side_1.JPG",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:AT&T Park western side 5.JPG",
+      "author": "BrokenSphere",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:AT%26T_Park_western_side_5.JPG",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:CocaCola bottle and glove in the AT&T Park (TK1).JPG",
+      "author": "Tobias Kleinlercher / Wikipedia",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:CocaCola_bottle_and_glove_in_the_AT%26T_Park_(TK1).JPG",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Willie Mays Gate at AT&T Park (TK).JPG",
+      "author": "Tobias Kleinlercher / Wikipedia",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Willie_Mays_Gate_at_AT%26T_Park_(TK).JPG",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Oracle Park 1 2024-04-23.jpg",
+      "author": "Fastily",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Oracle_Park_1_2024-04-23.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Oracle Park 2 2024-04-23.jpg",
+      "author": "Fastily",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Oracle_Park_2_2024-04-23.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Oracle Park 2025-07-12 1.jpg",
+      "author": "Yelderberry (talk)",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Oracle_Park_2025-07-12_1.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:AT&T Park - panoramio.jpg",
+      "author": "Javier Branas",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:AT%26T_Park_-_panoramio.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:McCovey Cove AT^T Park - panoramio.jpg",
+      "author": "Noah_Loverbear",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:McCovey_Cove_AT%5ET_Park_-_panoramio.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Oracle Park - August 2025 - Sarah Stierch - 01.jpg",
+      "author": "Missvain",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Oracle_Park_-_August_2025_-_Sarah_Stierch_-_01.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/sf-oracle-park.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Oracle Park, San Francisco: the Giants' ballpark on McCovey Cove, with its green steel stands, red-brick streets fronts and twin clock towers, the arcade along the cove, the centre-field scoreboard, and the Coca-Cola bottle and four-fingered glove behind the left-field bleachers. Original procedural geometry, CC0-1.0. bun generators/sf-oracle-park.ts",
+    "Stadium rule (STYLE.md \"Ground\"): the model is the stands, roofs, towers and the buildings round them. The field, the warning track and the cove are the map's; nothing is drawn inside the field outline.",
+    "Frame: BEARING 315, so the model's +y points north-west at King Street and +x runs north-east along it towards 2nd Street; -y is McCovey Cove and -x 3rd Street. x, y, z metres. Origin = area centroid of the stadium building's outer ring (relation/7330762, way/24352572). y = 0 is the lowest ground under that ring, 3.5 m NAVD88 (the field and the cove promenade); King Street runs about 1 m higher.",
+    "Evidence",
+    "OSM: relation/7325085 (leisure=stadium, \"Oracle Park\", no building tag), relation/7330762 (building=stadium, height 30: outer way/24352572 round the whole block with the 3rd Street buildings, the field and a service yard as inner rings) and the building:parts inside it: way/499568642 (upper deck), 499568643 and 499568644 (the two corner towers), 499568645 (3rd Street wing), 499568646, 499568647, 499568648 (light banks), 499568649 (scoreboard), 499568652 (the Coke bottle), 368215207, 368215208 (3rd Street buildings), 368214736, 368214737 (centre-field kiosks). OSM's part heights (60-70 m) are wrong; the lidar sets every height.",
+    "USGS 3DEP lidar (CA_SanFrancisco_1_B23, 2023) at 1 m, sampled in this frame (/tmp/city/sf/work/sf-oracle-park): the stands are one deep L with a chamfered corner behind home plate. Their back (the canopy's outer edge) runs at y 87.5 along King Street, bowing in to 77 at the left-field end, and at x -99.5 to -87 along 3rd Street. Across it, measured from the back: canopy roof 38 for 8 m, then the upper deck from 30.5 down to 20.5 over 16 m, its fascia, the club-level roof at 10.8 for 5 m, then the lower bowl from 4.9 down to the field wall. Light banks: 34 m long at y 86.5 on King Street, 36 m long further east, a 48 m one along 3rd Street, all topping out at 56.6; a short bank stepping up from 62.7 to 75 at the left-field end of the King Street stand. The two brick towers (3rd and King, 2nd and King) are each 14 x 14 m, eaves 31.6, pyramid roofs to 38, finials 44.6. The arcade along the cove is 7.4-8.6 high; the left-field bleachers rise from 2.6 to 7.4 onto a deck at 7.4. The scoreboard: two towers 62 m apart on the south-east diagonal, light banks to 55.6, the board to 34.6 with its centre (clock and sign) to 47-49. The Coke bottle reaches 22, the glove 14.7. The 3rd Street buildings: 15 m (the outer block), 24 m and 13 m nearer the stand, 9 m to the south; the corner building at 3rd and King 23 m; a 15 m strip along King Street east of the stand; 22 m along 2nd Street.",
+    "Published (Wikipedia): opened 2000, HOK Sport; the right-field wall is brick, 24 ft (7.3 m), with archways to the cove; the Coca-Cola bottle is 80 ft (24 m) long with playground slides; the 1927-style four-fingered glove (steel and fibreglass) stands behind the 501 ft sign, to the bottle's right as seen from home plate.",
+    "Photos (Wikimedia Commons): \"Aerial photograph of AT&T Park, home of the San Francisco Giants.jpg\" (Grant.gibson, CC BY 2.5, from over the cove: the whole bowl, the arcade, the bottle and glove); \"AT&T Park SW side 1.JPG\" and \"AT&T Park western side 5.JPG\" (BrokenSphere, CC BY-SA 3.0, the clock tower at 3rd and King, the brick base with tall windows under the green steel); \"CocaCola bottle and glove in the AT&T Park (TK1).JPG\" and \"Willie Mays Gate at AT&T Park (TK).JPG\" (Tobias Kleinlercher, CC BY-SA 3.0); \"Oracle Park 1 2024-04-23.jpg\" and \"Oracle Park 2 2024-04-23.jpg\" (Fastily, CC BY-SA 4.0, from across the cove: the arcade's ~30 arches, the light banks, the scoreboard tower); \"Oracle Park 2025-07-12 1.jpg\" (Yelderberry, CC BY-SA 4.0, the 3rd Street end of the stands over the cove); \"AT&T Park - panoramio.jpg\" (Javier Branas, CC BY 3.0, from above King Street: the clock tower, the brick fronts); \"McCovey Cove AT^T Park - panoramio.jpg\" (Noah_Loverbear, CC BY-SA 3.0, the scoreboard and clock); \"Oracle Park - August 2025 - Sarah Stierch - 01.jpg\" (Missvain, CC0, the 2nd Street gate).",
+    "Estimated from the photos: the storey lines of the brick base (stone plinth to 2.2, brick to 14) and its arched windows, the steel columns above it, the arcade's arch size and spacing, the towers' clock faces and cornices, the light banks' legs, the scoreboard board and crown proportions, the bottle's contour (from the published 24 m length and the lidar's 22 m top) and the glove's fingers. The seats are drawn as plain green rakes; the centre-field wall is drawn as tall as the deck behind it.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"sf-oracle-park\", model \"sf-oracle-park\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/sf-oracle-park.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

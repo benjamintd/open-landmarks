@@ -1,0 +1,238 @@
+{
+  "id": "cathedral-of-saint-mary-of-the-assumption",
+  "name": "Cathedral of Saint Mary of the Assumption",
+  "anchor": [
+    -122.42537,
+    37.78423
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 71572,
+      "sha256": "fea846285d255950ae5e39580666f5e653a9c50b8011a8da483516548a7ea0aa"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 71572,
+      "sha256": "fea846285d255950ae5e39580666f5e653a9c50b8011a8da483516548a7ea0aa"
+    }
+  },
+  "triangles": 2486,
+  "boundsBlenderM": [
+    [
+      -45.748,
+      -92.697,
+      0
+    ],
+    [
+      65.099,
+      44.105,
+      94.5
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -122.4248614,
+          37.7838503
+        ],
+        [
+          -122.4246961,
+          37.7838711
+        ],
+        [
+          -122.4246741,
+          37.7837617
+        ],
+        [
+          -122.4246298,
+          37.7835418
+        ],
+        [
+          -122.4252776,
+          37.7834602
+        ],
+        [
+          -122.4258233,
+          37.7833915
+        ],
+        [
+          -122.4258286,
+          37.7834175
+        ],
+        [
+          -122.4258894,
+          37.7837194
+        ],
+        [
+          -122.4257218,
+          37.7837405
+        ],
+        [
+          -122.4257403,
+          37.7838321
+        ],
+        [
+          -122.4257947,
+          37.7841023
+        ],
+        [
+          -122.4258263,
+          37.7842588
+        ],
+        [
+          -122.425879,
+          37.7845206
+        ],
+        [
+          -122.4256767,
+          37.7845461
+        ],
+        [
+          -122.4252274,
+          37.7846026
+        ],
+        [
+          -122.4250183,
+          37.7846289
+        ],
+        [
+          -122.4249662,
+          37.7843703
+        ],
+        [
+          -122.4249343,
+          37.7842121
+        ],
+        [
+          -122.4248804,
+          37.7839446
+        ],
+        [
+          -122.4248712,
+          37.783899
+        ],
+        [
+          -122.4248614,
+          37.7838503
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "relation",
+    "id": 7814696,
+    "version": 4,
+    "timestamp": "2026-02-17T18:11:37Z",
+    "url": "https://www.openstreetmap.org/relation/7814696"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 435831007,
+      "version": 4,
+      "timestamp": "2017-12-16T09:18:10Z",
+      "url": "https://www.openstreetmap.org/way/435831007"
+    },
+    {
+      "type": "way",
+      "id": 436473546,
+      "version": 4,
+      "timestamp": "2023-03-17T17:56:33Z",
+      "url": "https://www.openstreetmap.org/way/436473546"
+    },
+    {
+      "type": "way",
+      "id": 436473547,
+      "version": 3,
+      "timestamp": "2017-12-16T09:18:10Z",
+      "url": "https://www.openstreetmap.org/way/436473547"
+    }
+  ],
+  "wikidata": "Q4347013",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:The Cathedral of Saint Mary of the Assumption, San Francisco, CA, USA (9482870704).jpg",
+      "author": "l0da_ralta",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:The_Cathedral_of_Saint_Mary_of_the_Assumption,_San_Francisco,_CA,_USA_(9482870704).jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Cathedral of Saint Mary of the Assumption and the moon, San Francisco, California, USA.jpg",
+      "author": "Semiautonomous",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Cathedral_of_Saint_Mary_of_the_Assumption_and_the_moon,_San_Francisco,_California,_USA.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Saint Mary of the Assumption - San Francisco, CA - 05.jpg",
+      "author": "Daderot",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Saint_Mary_of_the_Assumption_-_San_Francisco,_CA_-_05.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:St Mary's Cathedral - San Francisco.jpg",
+      "author": "Gndawydiak at English Wikipedia",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:St_Mary%27s_Cathedral_-_San_Francisco.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:St_Mary%27s_Cathedral_-_San_Francisco.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Cathedral of Saint Mary of the Assumption.jpg",
+      "author": "Fred Hsu (Wikipedia:User:Fredhsu on en.wikipedia)",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Cathedral_of_Saint_Mary_of_the_Assumption.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/sf-st-marys-cathedral.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Cathedral of Saint Mary of the Assumption, San Francisco — original procedural geometry, CC0-1.0. bun generators/sf-st-marys-cathedral.ts",
+    "Frame: built turned to the Western Addition street grid, BEARING 351. x east-ish (+x = the Gough Street side), y north-ish (+y = the Geary Boulevard side), z up, metres. Origin = the centre of the shells (lidar), which is the building's centre of symmetry; the OSM outline's centroid lies 20 m south of it because the outline takes in the annex.",
+    "Evidence",
+    "OSM relation/7814696 (multipolygon, height 18.9): outer way/256900649 is the cathedral's square base (77 x 87 m) plus the two-storey annex to its south (106 x 37 m), with courtyards way/547205110-113. The shells are building:parts way/435831007 (77.7 m), 436473546 and 436473547 (60 m).",
+    "USGS 3DEP lidar (CA_SanFrancisco_1_B23, 2023) at 0.5 m and 1 m, in this frame (/tmp/city/sf/work/sf-st-marys-cathedral). y = 0 is 55.2 m NAVD88, the lowest ground under the outline (the annex's south-east corner). The plaza deck and the annex roof are at 11.3-11.5; the base's roof slab is a 75 m square (±37.6) at 24.6, rising gently to 27.6 at ±21, where the shells start. The shells rise from that 42 m square to a cross of ridges at 70.7 (59 m above the plaza: published 190 ft, 58 m) whose arms run right out to ±21 and end in sheer vertical faces. The surface between them fits a ruled surface from each arm's edge down to half a side of the square to within 1-3 m (e.g. lidar 48 vs model 48.5 at (11, 11), 38 vs 39 at (19, 5)). The cross on top reads to 95 (24 m above the ridges).",
+    "Published (Wikipedia; SF Planning): 1971, Pietro Belluschi and Pier Luigi Nervi with McSweeney, Ryan and Lee; eight hyperbolic-paraboloid shell segments rising from a square to a cross; base 255 ft square; the Gyorgy Kepes stained glass runs up the four sides and across the top as a cross; Italian travertine cladding.",
+    "Commons daylight photos: \"The Cathedral of Saint Mary of the Assumption, San Francisco, CA, USA (9482870704).jpg\" (l0da_ralta, CC BY 2.0, the shells from a corner), \"Cathedral of Saint Mary of the Assumption and the moon, San Francisco, California, USA.jpg\" (Semiautonomous, CC BY-SA 4.0, the entrance front), \"Saint Mary of the Assumption - San Francisco, CA - 05.jpg\", \"- 06.jpg\", \"- 11.jpg\" and \"- 13.jpg\" (Daderot, CC0, the fronts head-on and the slot close up), \"St Mary's Cathedral - San Francisco.jpg\" (Gndawydiak, public domain, from the side), \"Cathedral of Saint Mary of the Assumption.jpg\" (Fred Hsu, CC BY-SA 3.0). NAIP 2022 (public domain) for the plan: white base roof, the shells, the annex and its courtyards.",
+    "Estimated: the arms' width (4.6 m, from the lidar's ridge), the shells' concave flare (a ruled surface whose height runs t + 0.9 t²(1 - t) down each ruling, fitted to the lidar), the base's walls set 4 m in under the slab, the glass walls and dark entrance panels on each side (the four sides are drawn alike), the annex's window bays, the cross's crossbar (at 88, 7 m across).",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"sf-st-marys-cathedral\", model \"sf-st-marys-cathedral\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/sf-st-marys-cathedral.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 793 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the sf-st-marys-cathedral-glazing finish in the window colour.",
+    "To fit six materials, folded sf-st-marys-cathedral-stmary-travertine into stone (ΔE 7.5)."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

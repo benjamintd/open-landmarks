@@ -1,0 +1,140 @@
+{
+  "id": "mount-davidson-cross",
+  "anchor": [
+    -122.4547473,
+    37.7383418
+  ],
+  "coordinateSystem": "Local metres about the anchor (equirectangular, WGS84 radius): X east, Y north, Z up. glTF export: X east, Y up, Z south. Heading already baked.",
+  "license": "ODbL-1.0",
+  "footprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -6.4000009907783255,
+          -7.903683846141854
+        ],
+        [
+          -6.303164662919845,
+          -8.003871388235629
+        ],
+        [
+          6.303164661668821,
+          -8.003871388235629
+        ],
+        [
+          6.4000009895273005,
+          -7.903683846141854
+        ],
+        [
+          6.4000009895273005,
+          7.903683846141854
+        ],
+        [
+          6.303164661668821,
+          8.003871388235629
+        ],
+        [
+          -6.303164662919845,
+          8.003871388235629
+        ],
+        [
+          -6.4000009907783255,
+          7.903683846141854
+        ],
+        [
+          -6.4000009907783255,
+          -7.903683846141854
+        ]
+      ]
+    ]
+  },
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -122.45482,
+          37.7382708
+        ],
+        [
+          -122.4548189,
+          37.7382699
+        ],
+        [
+          -122.4546757,
+          37.7382699
+        ],
+        [
+          -122.4546746,
+          37.7382708
+        ],
+        [
+          -122.4546746,
+          37.7384128
+        ],
+        [
+          -122.4546757,
+          37.7384137
+        ],
+        [
+          -122.4548189,
+          37.7384137
+        ],
+        [
+          -122.45482,
+          37.7384128
+        ],
+        [
+          -122.45482,
+          37.7382708
+        ]
+      ]
+    ]
+  },
+  "parts": [
+    {
+      "osm": "node/633021134",
+      "tags": {
+        "access": "yes",
+        "ele": "276.9",
+        "inscription": "\"If evil of this magnitude can be ignored, if our own children forget then we deserve oblivion and earn the world's scorn.\" Avedis Aharonian (writer and educator, 1866-1948) Armenian Genocide Commemoration Day April 24, 1998",
+        "man_made": "cross",
+        "material": "concrete",
+        "name": "Mount Davidson Cross",
+        "start_date": "1934",
+        "wikidata": "Q20508607",
+        "wpt_description": "07-FEB-10 12:31:15PM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9367265721818927,
+          -0.1892431341871611
+        ]
+      },
+      "version": 13,
+      "timestamp": "2023-03-21T17:19:11Z"
+    }
+  ],
+  "osm": {
+    "type": "node",
+    "id": 633021134,
+    "version": 13,
+    "timestamp": "2023-03-21T17:19:11Z",
+    "url": "https://www.openstreetmap.org/node/633021134"
+  },
+  "additionalOsm": [],
+  "tags": {
+    "access": "yes",
+    "ele": "276.9",
+    "inscription": "\"If evil of this magnitude can be ignored, if our own children forget then we deserve oblivion and earn the world's scorn.\" Avedis Aharonian (writer and educator, 1866-1948) Armenian Genocide Commemoration Day April 24, 1998",
+    "man_made": "cross",
+    "material": "concrete",
+    "name": "Mount Davidson Cross",
+    "start_date": "1934",
+    "wikidata": "Q20508607",
+    "wpt_description": "07-FEB-10 12:31:15PM"
+  },
+  "note": "This landmark replaces no mapped building; the OSM feature cited is the one that names it."
+}

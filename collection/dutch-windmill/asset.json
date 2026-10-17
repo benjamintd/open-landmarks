@@ -1,0 +1,216 @@
+{
+  "id": "dutch-windmill",
+  "name": "Dutch Windmill",
+  "anchor": [
+    -122.5094058,
+    37.77044089
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 44208,
+      "sha256": "0915680a560023821a47a1b4f16cd3c66fbba17c8d11237a06a4ca5b8ecc9855"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 44208,
+      "sha256": "0915680a560023821a47a1b4f16cd3c66fbba17c8d11237a06a4ca5b8ecc9855"
+    }
+  },
+  "triangles": 1084,
+  "boundsBlenderM": [
+    [
+      -9,
+      -14.29,
+      0
+    ],
+    [
+      9,
+      14.29,
+      38.89
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -122.5094466,
+          37.7703655
+        ],
+        [
+          -122.5094718,
+          37.7703769
+        ],
+        [
+          -122.5094945,
+          37.7703973
+        ],
+        [
+          -122.5095076,
+          37.7704225
+        ],
+        [
+          -122.5095096,
+          37.7704496
+        ],
+        [
+          -122.5095004,
+          37.7704758
+        ],
+        [
+          -122.509481,
+          37.7704982
+        ],
+        [
+          -122.5094611,
+          37.7705098
+        ],
+        [
+          -122.5094541,
+          37.770514
+        ],
+        [
+          -122.5094534,
+          37.7705144
+        ],
+        [
+          -122.5094206,
+          37.7705226
+        ],
+        [
+          -122.5093862,
+          37.770522
+        ],
+        [
+          -122.509354,
+          37.7705125
+        ],
+        [
+          -122.5093274,
+          37.7704954
+        ],
+        [
+          -122.5093092,
+          37.7704723
+        ],
+        [
+          -122.5093016,
+          37.7704458
+        ],
+        [
+          -122.5093052,
+          37.7704188
+        ],
+        [
+          -122.5093197,
+          37.7703941
+        ],
+        [
+          -122.5093436,
+          37.7703746
+        ],
+        [
+          -122.5093742,
+          37.7703622
+        ],
+        [
+          -122.5094082,
+          37.7703584
+        ],
+        [
+          -122.5094373,
+          37.7703627
+        ],
+        [
+          -122.5094466,
+          37.7703655
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 287921407,
+    "version": 12,
+    "timestamp": "2024-08-25T14:20:20Z",
+    "url": "https://www.openstreetmap.org/way/287921407"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q54799943",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Dutch Windmill Golden Gate Park.jpg",
+      "author": "Kaldari",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Dutch_Windmill_Golden_Gate_Park.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Golden Gate Park North Dutch Windmill.jpg",
+      "author": "Harry Cutts",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Golden_Gate_Park_North_Dutch_Windmill.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Golden Gate Park - Dutch Windmill - March 2018 (1792).jpg",
+      "author": "Gregory Varnum",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Golden_Gate_Park_-_Dutch_Windmill_-_March_2018_(1792).jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Historic Dutch windmill in Golden Gate Park, San Francisco.jpg",
+      "author": "Wouter Kiel",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Historic_Dutch_windmill_in_Golden_Gate_Park,_San_Francisco.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/sf-dutch-windmill.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Dutch Windmill (North Windmill), Golden Gate Park, San Francisco — original procedural geometry, CC0-1.0. bun generators/sf-dutch-windmill.ts",
+    "Map frame: x east, y north, z up, metres, bearing 0. Origin = centroid of the OSM outline way/287921407 (the gallery's circle, r ~9 m), on the lowest ground under it.",
+    "Evidence",
+    "OSM way/287921407 (building, height 13), a 9 m circle: the stage (gallery) round the tower.",
+    "USGS 3DEP lidar (CA_SanFrancisco_1_B23, 2023): ground at the foot 8.25 m NAVD88 (y = 0; the mound rises to 9.5 m on the south); gallery deck 17.1 m (+8.85); cap crown 34.7 m (+26.45), the cap r ~3.4 m, its curb ~+22.5; the sails face west, their plane ~4 m west of the tower's axis, hub ~+24.6, a sail reaching 47.6 m (+39.3) and the other pair spanning 31 m; the fantail east of the cap, its wheel's top +28.1 at 6-9 m east.",
+    "Published (SF Rec & Park; Wikipedia \"Dutch Windmill\"): 1903, 75 ft smock mill, sails 102 ft (31 m) tip to tip; restored 1981 and 2002.",
+    "Commons daylight photos: \"Dutch Windmill Golden Gate Park.jpg\" (Kaldari, CC0); \"Golden Gate Park North Dutch Windmill.jpg\" (Harry Cutts, CC BY-SA 4.0); \"Golden Gate Park - Dutch Windmill - March 2018 (1792).jpg\" and \"(1777).jpg\" (Gregory Varnum, CC BY-SA 4.0); \"Historic Dutch windmill in Golden Gate Park, San Francisco.jpg\" (Wouter Kiel, CC BY 2.0).",
+    "Estimated from the photos, scaled by the lidar: the concrete base's taper (r 5.1 to 4.4), the shingled tower's (r 4.2 to 3.05), the cap's onion profile, the gallery braces, sail widths (lattice 2.3 m, leading board 0.6 m) and the fantail's size. The tower is drawn round, as the photos show the shingles, not octagonal. The gallery railing is too thin to draw. The weathered timber reads grey-brown in the photos and is pulled to the palette's lightness; the copper cap is bronze with a green cast.",
+    "The sails are their own node, pivoting at the hub on a horizontal east-west axis, so they can turn (STYLE.md \"Animation\"). It ships static, in the X pose most photos show.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"sf-dutch-windmill\", model \"sf-dutch-windmill\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/sf-dutch-windmill.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 5 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the sf-dutch-windmill-glazing finish in the window colour."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

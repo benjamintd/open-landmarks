@@ -1,0 +1,178 @@
+{
+  "id": "spreckels-temple-of-music",
+  "name": "Spreckels Temple of Music",
+  "anchor": [
+    -122.4685871,
+    37.76986089
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 61080,
+      "sha256": "87cd87bd097a510f1425dee62058dbd505bbcc2d650d1a937e4fcd9cc01c46f2"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 61080,
+      "sha256": "87cd87bd097a510f1425dee62058dbd505bbcc2d650d1a937e4fcd9cc01c46f2"
+    }
+  },
+  "triangles": 2290,
+  "boundsBlenderM": [
+    [
+      -14.078,
+      -20.88,
+      0
+    ],
+    [
+      22.269,
+      26.616,
+      21
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -122.4683905,
+          37.769675
+        ],
+        [
+          -122.4683352,
+          37.7697134
+        ],
+        [
+          -122.4684674,
+          37.7698309
+        ],
+        [
+          -122.4684431,
+          37.7698481
+        ],
+        [
+          -122.4685774,
+          37.7699668
+        ],
+        [
+          -122.4686012,
+          37.76995
+        ],
+        [
+          -122.4687459,
+          37.7700778
+        ],
+        [
+          -122.4688029,
+          37.7700375
+        ],
+        [
+          -122.4686596,
+          37.7699109
+        ],
+        [
+          -122.4687491,
+          37.7698476
+        ],
+        [
+          -122.4686845,
+          37.7697906
+        ],
+        [
+          -122.4686135,
+          37.7697278
+        ],
+        [
+          -122.4685228,
+          37.769792
+        ],
+        [
+          -122.4683905,
+          37.769675
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 30896932,
+    "version": 13,
+    "timestamp": "2024-07-01T01:18:36Z",
+    "url": "https://www.openstreetmap.org/way/30896932"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q110559749",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Golden Gate Park - Spreckels Temple of Music 02.jpg",
+      "author": "Joe Mabel",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Golden_Gate_Park_-_Spreckels_Temple_of_Music_02.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Spreckels Temple of Music from Hamon Observation Tower, De Young Museum 01.jpg",
+      "author": "Joe Mabel",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Spreckels_Temple_of_Music_from_Hamon_Observation_Tower,_De_Young_Museum_01.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Spreckels Temple of Music - Golden Gate Park - 02.jpg",
+      "author": "Daderot",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Spreckels_Temple_of_Music_-_Golden_Gate_Park_-_02.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Spreckels Temple of Music 1 2019-02-25.jpg",
+      "author": "FASTILY",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Spreckels_Temple_of_Music_1_2019-02-25.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/sf-spreckels-temple-of-music.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Spreckels Temple of Music (the Golden Gate Park bandshell), San Francisco — original procedural geometry, CC0-1.0. bun generators/sf-spreckels-temple-of-music.ts",
+    "Map frame: x east, y north, z up, metres, built turned to bearing 235: the model's south (-y) is the stage's open side, facing north-east over the Music Concourse; +x runs along the colonnades (bearing 325). Origin = centroid of the OSM outline way/30896932.",
+    "Evidence",
+    "OSM way/30896932 (building, height 12): the arch block and both colonnades in one outline.",
+    "USGS 3DEP lidar (CA_SanFrancisco_1_B23, 2023) at 0.5 m: the concourse in front 73.0 m NAVD88 (y = 0), the ground behind 74.7; the arch block 20 m wide (x ±10) and 14.5 m deep, its cornice at +17.4 and the attic above it (set in 1 m) to +21.0 with its roof recessed to +18.1; the colonnades 16 m long and 6 m deep (y -8 to -2), roofed at +10.0 with balustrades to +11.4; the stage at +1.5; a low back-stage block behind to ~+5.",
+    "Published (Wikipedia; SF Rec & Park): 1900, architects Reid Brothers, Colusa sandstone, Italian Renaissance; gift of Claus Spreckels.",
+    "Commons daylight photos: \"Golden Gate Park - Spreckels Temple of Music 02.jpg\" and \"01.jpg\" (Joe Mabel, CC BY-SA 3.0); \"Spreckels Temple of Music from Hamon Observation Tower, De Young Museum 01.jpg\" (Joe Mabel, CC BY 4.0, from above); \"Spreckels Temple of Music - Golden Gate Park - 02.jpg\" (Daderot, CC0, the arch face on); \"Spreckels Temple of Music 1 2019-02-25.jpg\" (FASTILY, CC BY-SA 4.0).",
+    "Estimated from the photos, scaled by the lidar: the arch (r 6.8 m, springing at +7.0) and the depth of its half-dome; the engaged columns either side of the arch; eight column pairs per colonnade and their size. The half-dome's coffers, the spandrel reliefs, the attic lettering and the balustrade's balusters are left out (too fine); the balustrades are solid parapets.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"sf-spreckels-temple-of-music\", model \"sf-spreckels-temple-of-music\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/sf-spreckels-temple-of-music.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

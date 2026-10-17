@@ -1,0 +1,119 @@
+{
+  "id": "bay-bridge-west-span-tower-w2",
+  "anchor": [
+    -122.3858231,
+    37.7907531
+  ],
+  "coordinateSystem": "Local metres about the anchor (equirectangular, WGS84 radius): X east, Y north, Z up. glTF export: X east, Y up, Z south. Heading already baked.",
+  "license": "ODbL-1.0",
+  "footprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -14.559144859517723,
+          5.7997454700823035
+        ],
+        [
+          -8.43638665879834,
+          13.213623556546644
+        ],
+        [
+          14.559144858267585,
+          -5.799745470873276
+        ],
+        [
+          8.436386657548201,
+          -13.2024916081282
+        ],
+        [
+          -14.559144859517723,
+          5.7997454700823035
+        ]
+      ]
+    ]
+  },
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -122.3859886,
+          37.7908052
+        ],
+        [
+          -122.385919,
+          37.7908718
+        ],
+        [
+          -122.3856576,
+          37.790701
+        ],
+        [
+          -122.3857272,
+          37.7906345
+        ],
+        [
+          -122.3859886,
+          37.7908052
+        ]
+      ]
+    ]
+  },
+  "parts": [
+    {
+      "osm": "way/432712476",
+      "tags": {
+        "bridge:support": "pylon",
+        "building": "tower",
+        "height": "160",
+        "man_made": "tower",
+        "ref": "W2"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -14.559144859517723,
+              5.7997454700823035
+            ],
+            [
+              -8.43638665879834,
+              13.213623556546644
+            ],
+            [
+              14.559144858267585,
+              -5.799745470873276
+            ],
+            [
+              8.436386657548201,
+              -13.2024916081282
+            ],
+            [
+              -14.559144859517723,
+              5.7997454700823035
+            ]
+          ]
+        ]
+      },
+      "version": 3,
+      "timestamp": "2024-02-11T06:47:31Z"
+    }
+  ],
+  "osm": {
+    "type": "way",
+    "id": 432712476,
+    "version": 3,
+    "timestamp": "2024-02-11T06:47:31Z",
+    "url": "https://www.openstreetmap.org/way/432712476"
+  },
+  "additionalOsm": [],
+  "tags": {
+    "bridge:support": "pylon",
+    "building": "tower",
+    "height": "160",
+    "man_made": "tower",
+    "ref": "W2"
+  }
+}

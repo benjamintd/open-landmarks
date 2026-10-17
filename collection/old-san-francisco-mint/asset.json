@@ -1,0 +1,234 @@
+{
+  "id": "old-san-francisco-mint",
+  "name": "Old San Francisco Mint",
+  "anchor": [
+    -122.407238,
+    37.782728
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 133344,
+      "sha256": "4cfe17b8a3bfd11527773301b41c62de91a3ee08a3e7549df2078d980b603a76"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 133344,
+      "sha256": "4cfe17b8a3bfd11527773301b41c62de91a3ee08a3e7549df2078d980b603a76"
+    }
+  },
+  "triangles": 2758,
+  "boundsBlenderM": [
+    [
+      -40.234,
+      -41.649,
+      0
+    ],
+    [
+      41.436,
+      42.78,
+      33
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -122.4072997,
+          37.7831115
+        ],
+        [
+          -122.4074075,
+          37.7830257
+        ],
+        [
+          -122.4073772,
+          37.7830019
+        ],
+        [
+          -122.4075814,
+          37.7828393
+        ],
+        [
+          -122.4075999,
+          37.7828539
+        ],
+        [
+          -122.40769,
+          37.7827822
+        ],
+        [
+          -122.407505,
+          37.7826371
+        ],
+        [
+          -122.4075463,
+          37.7826042
+        ],
+        [
+          -122.4073933,
+          37.7824843
+        ],
+        [
+          -122.4073556,
+          37.7825144
+        ],
+        [
+          -122.4071528,
+          37.7823554
+        ],
+        [
+          -122.4070698,
+          37.7824215
+        ],
+        [
+          -122.4071058,
+          37.7824498
+        ],
+        [
+          -122.4068878,
+          37.7826234
+        ],
+        [
+          -122.4068614,
+          37.7826027
+        ],
+        [
+          -122.4067715,
+          37.7826743
+        ],
+        [
+          -122.406864,
+          37.7827468
+        ],
+        [
+          -122.4068893,
+          37.7827267
+        ],
+        [
+          -122.4069753,
+          37.7827942
+        ],
+        [
+          -122.406915,
+          37.7828423
+        ],
+        [
+          -122.4069936,
+          37.7829041
+        ],
+        [
+          -122.4070766,
+          37.7829689
+        ],
+        [
+          -122.4071381,
+          37.7829199
+        ],
+        [
+          -122.4072329,
+          37.7829943
+        ],
+        [
+          -122.4071919,
+          37.783027
+        ],
+        [
+          -122.4072997,
+          37.7831115
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 32863779,
+    "version": 18,
+    "timestamp": "2026-08-21T23:22:40Z",
+    "url": "https://www.openstreetmap.org/way/32863779"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q7414079",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Old US Mint in San Francisco 2023.jpg",
+      "author": "Olaf Meister",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Old_US_Mint_in_San_Francisco_2023.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Old US Mint (San Francisco) 2.JPG",
+      "author": "Sanfranman59",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Old_US_Mint_(San_Francisco)_2.JPG",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Old San Francisco Mint rear 06-2023.jpg",
+      "author": "Percival Kestreltail",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Old_San_Francisco_Mint_rear_06-2023.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Old U-S- Mint 2012-09-17 13-54-34.jpg",
+      "author": "tberning",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Old_U-S-_Mint_2012-09-17_13-54-34.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:2017 Old San Francisco Mint Building.jpg",
+      "author": "Beyond My Ken",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:2017_Old_San_Francisco_Mint_Building.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/sf-old-mint.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Old San Francisco Mint (\"the Granite Lady\") — original procedural geometry, CC0-1.0. bun generators/sf-old-mint.ts",
+    "Frame: built turned to the South of Market grid, BEARING 315. x across (+x = the Fifth Street front with the portico, facing north-east), y along (+y = the Mission Street front, north-west), z up, metres. Origin = centroid of the OSM outline way/32863779.",
+    "Evidence",
+    "OSM way/32863779 (height 16, 3 levels + 1 underground; architect Alfred B. Mullett, 1874; NRHP 66000231, NHL): a 58 x 68 m block with corner pavilions, a portico on Fifth Street and a pavilion at the back. It matches the lidar to within a metre and is used as drawn.",
+    "USGS 3DEP lidar (CA_SanFrancisco_1_B23, 2023) at 0.5 m in this frame (/tmp/city/sf/work/sf-old-mint). y = 0 is 8.9 m NAVD88, the lowest ground (the south corner); the site is nearly flat (8.9-10). Above that: the parapets at 17-18; a central range 20 m wide under a low gabled roof, ridge 20, from the back pediment to the portico, broken by the open courtyard (x -14..-2.5, y ±14, its floor at 4.7, the main floor); the portico's podium and the head of its stairs at 4.7; two square brick chimneys (4.4 m) at x -19, y ±5.8, to 33.",
+    "Published (Wikipedia; NPS NHL nomination): 1869-1874, Greek Revival, sandstone over a granite basement, a hexastyle Doric portico on Fifth Street, built around a central courtyard; survived the 1906 fire.",
+    "Commons daylight photos: \"Old US Mint in San Francisco 2023.jpg\" (Olaf Meister, CC BY-SA 4.0, the Fifth and Mission corner), \"Old US Mint (San Francisco) 2.JPG\" (Sanfranman59, CC BY-SA 4.0, the portico head-on), \"Old San Francisco Mint rear 06-2023.jpg\" (Percival Kestreltail, CC BY-SA 4.0, the back, roofs, courtyard and chimneys from above), \"Old U-S- Mint 2012-09-17 13-54-34.jpg\" (tberning, CC BY-SA 3.0, the south side with the chimneys and the granite basement), \"2017 Old San Francisco Mint Building.jpg\" (Beyond My Ken, CC BY-SA 4.0).",
+    "Estimated from the photos (scaled to the lidar): the storeys (granite basement to 4.8, two storeys of windows, entablature 15-17.6), the window bays (~4.2 m), the six columns (1.5 m across, 3.2 m apart, 4.8-14.6), the entablature and pediments, the pilasters on the corner pavilions, the stairs (six broad steps). Colours from the photos pulled to the palette's lightness: buff-grey sandstone, a greyer granite basement, red brick.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"sf-old-mint\", model \"sf-old-mint\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/sf-old-mint.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

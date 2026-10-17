@@ -1,0 +1,291 @@
+{
+  "id": "345-california-center",
+  "name": "345 California Center",
+  "anchor": [
+    -122.4004564,
+    37.7925879
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 13,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 105068,
+      "sha256": "932f96ecc84e42391c4f324b7bc0e226fba7a4f45d6698088a9ec6c566b1d12e"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 105068,
+      "sha256": "932f96ecc84e42391c4f324b7bc0e226fba7a4f45d6698088a9ec6c566b1d12e"
+    }
+  },
+  "triangles": 1708,
+  "boundsBlenderM": [
+    [
+      -44.924,
+      -26.968,
+      0
+    ],
+    [
+      44.924,
+      26.968,
+      214
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -122.3999458,
+          37.7924616
+        ],
+        [
+          -122.399951,
+          37.7924925
+        ],
+        [
+          -122.3999819,
+          37.7926504
+        ],
+        [
+          -122.4000174,
+          37.7928309
+        ],
+        [
+          -122.4001322,
+          37.7928168
+        ],
+        [
+          -122.4002119,
+          37.792807
+        ],
+        [
+          -122.4003767,
+          37.7927867
+        ],
+        [
+          -122.4005168,
+          37.7927695
+        ],
+        [
+          -122.4006151,
+          37.7927574
+        ],
+        [
+          -122.4007878,
+          37.7927361
+        ],
+        [
+          -122.4009682,
+          37.7927139
+        ],
+        [
+          -122.4009358,
+          37.7925499
+        ],
+        [
+          -122.400902,
+          37.7923784
+        ],
+        [
+          -122.400895,
+          37.7923452
+        ],
+        [
+          -122.4005959,
+          37.7923818
+        ],
+        [
+          -122.4004114,
+          37.7924044
+        ],
+        [
+          -122.3999458,
+          37.7924616
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 588355355,
+    "version": 5,
+    "timestamp": "2023-04-24T13:07:10Z",
+    "url": "https://www.openstreetmap.org/way/588355355"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 616812351,
+      "version": 1,
+      "timestamp": "2018-08-14T01:07:26Z",
+      "url": "https://www.openstreetmap.org/way/616812351"
+    },
+    {
+      "type": "way",
+      "id": 616812352,
+      "version": 1,
+      "timestamp": "2018-08-14T01:07:26Z",
+      "url": "https://www.openstreetmap.org/way/616812352"
+    },
+    {
+      "type": "way",
+      "id": 616812353,
+      "version": 4,
+      "timestamp": "2023-04-24T13:07:10Z",
+      "url": "https://www.openstreetmap.org/way/616812353"
+    },
+    {
+      "type": "way",
+      "id": 616812354,
+      "version": 1,
+      "timestamp": "2018-08-14T01:07:26Z",
+      "url": "https://www.openstreetmap.org/way/616812354"
+    },
+    {
+      "type": "way",
+      "id": 616812355,
+      "version": 1,
+      "timestamp": "2018-08-14T01:07:26Z",
+      "url": "https://www.openstreetmap.org/way/616812355"
+    },
+    {
+      "type": "way",
+      "id": 616812356,
+      "version": 1,
+      "timestamp": "2018-08-14T01:07:26Z",
+      "url": "https://www.openstreetmap.org/way/616812356"
+    },
+    {
+      "type": "way",
+      "id": 616812357,
+      "version": 1,
+      "timestamp": "2018-08-14T01:07:26Z",
+      "url": "https://www.openstreetmap.org/way/616812357"
+    },
+    {
+      "type": "way",
+      "id": 616812358,
+      "version": 1,
+      "timestamp": "2018-08-14T01:07:26Z",
+      "url": "https://www.openstreetmap.org/way/616812358"
+    },
+    {
+      "type": "way",
+      "id": 616812359,
+      "version": 1,
+      "timestamp": "2018-08-14T01:07:26Z",
+      "url": "https://www.openstreetmap.org/way/616812359"
+    },
+    {
+      "type": "way",
+      "id": 616812360,
+      "version": 1,
+      "timestamp": "2018-08-14T01:07:26Z",
+      "url": "https://www.openstreetmap.org/way/616812360"
+    },
+    {
+      "type": "way",
+      "id": 616812361,
+      "version": 1,
+      "timestamp": "2018-08-14T01:07:26Z",
+      "url": "https://www.openstreetmap.org/way/616812361"
+    },
+    {
+      "type": "way",
+      "id": 616812362,
+      "version": 1,
+      "timestamp": "2018-08-14T01:07:26Z",
+      "url": "https://www.openstreetmap.org/way/616812362"
+    }
+  ],
+  "wikidata": "Q680905",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:345 California Street.JPG",
+      "author": "Daniel Schwen",
+      "license": "CC BY-SA 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:345_California_Street.JPG",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:345 California Street from Coit Tower.jpg",
+      "author": "Daniel Schwen",
+      "license": "CC BY-SA 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:345_California_Street_from_Coit_Tower.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:345 California Center 01.JPG",
+      "author": "sailko",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:345_California_Center_01.JPG",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:345CaliforniaCenterWithItsTweezerTop.jpg",
+      "author": "Goodshoped35110s",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:345CaliforniaCenterWithItsTweezerTop.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:345CaliforniaCenterWithItsTweezerTop.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:345 California Center.jpg",
+      "author": "DestinationFearFan",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:345_California_Center.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:345 California Center from ground.jpg",
+      "author": "Dead.rabbit",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:345_California_Center_from_ground.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/sf-345-california.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "345 California Center, San Francisco — original procedural geometry, CC0-1.0. bun generators/sf-345-california.ts",
+    "Frame: built turned to the block, BEARING 351 (the outline runs 9° anticlockwise of north). x along the long (California Street) side, y across, z up, metres. Origin = centroid of the OSM outline way/588355355 (the four-storey podium, 84.6 x 41.4 m).",
+    "Evidence",
+    "OSM way/588355355 (48 levels, height 212) and parts 616812351-362: the podium, two 47-48 level towers drawn as squares turned 45°, the 36-38 level office block between them and two antennas. The parts sit ~2 m off the lidar; the lidar wins.",
+    "USGS 3DEP lidar (CA_SanFrancisco_1_B23, 2023) at 0.5 m in the turned frame (/tmp/city/sf/work/fd/code.py): y = 0 is the lowest ground (California St); ground varies 1.1 m under the outline. Podium roof 19.5 m. The two hotel towers are squares turned 45°, half-diagonal 14.75 m, centred 20.5 m either side of the middle; their outer halves end at 185 m, inner halves at 189 m. The office block between them: 38 x 31.6 m to 141 m, a step to 148 m (34 x 24 m), a top block to 154 m (14 x 15.5 m). The glass link between the towers' inner corners reaches 187 m; the two spires on its ends read 198 m (lower shaft) and 210-219 m (upper shaft and mast).",
+    "Published (Wikipedia, CTBUH): 212 m to the spires, 48 floors, SOM 1986; offices below, the hotel (Loews Regency, formerly Mandarin Oriental) in the twin tops, joined by glass skybridges.",
+    "Commons daylight photos: \"345 California Street.JPG\" and \"345 California Street from Coit Tower.jpg\" (Daniel Schwen, CC BY-SA 2.5, from the north), \"345 California Center 01.JPG\" (sailko, CC BY-SA 3.0, from the north), \"345CaliforniaCenterWithItsTweezerTop.jpg\" (Goodshoped35110s, public domain), \"345 California Center.jpg\" (DestinationFearFan, CC BY-SA 4.0, from below), \"345 California Center from ground.jpg\" (Dead.rabbit, CC BY-SA 4.0).",
+    "Estimated: the spire sections (4 m and 2.4 m square; the thin mast left out), the glass link's depth (3.2 m), storey heights, window grouping (two-storey panels per ~4.6 m bay (pairs of windows) on the pale towers and the dark office block), the podium's window band.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"sf-345-california\", model \"sf-345-california\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/sf-345-california.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

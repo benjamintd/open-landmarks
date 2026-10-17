@@ -1,0 +1,279 @@
+{
+  "id": "russ-building",
+  "name": "Russ Building",
+  "anchor": [
+    -122.4028624,
+    37.7914192
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 170648,
+      "sha256": "3dc5867a9d7ef96041b063a17d6b50f27491dd94779b7c71ccf45bfbcfc41b53"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 170648,
+      "sha256": "3dc5867a9d7ef96041b063a17d6b50f27491dd94779b7c71ccf45bfbcfc41b53"
+    }
+  },
+  "triangles": 3246,
+  "boundsBlenderM": [
+    [
+      -31.708,
+      -48.216,
+      0
+    ],
+    [
+      31.009,
+      43.527,
+      135.5
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -122.402978,
+          37.7910101
+        ],
+        [
+          -122.4025441,
+          37.791066
+        ],
+        [
+          -122.4025821,
+          37.7912503
+        ],
+        [
+          -122.4025899,
+          37.7912881
+        ],
+        [
+          -122.4025974,
+          37.7913245
+        ],
+        [
+          -122.4026421,
+          37.791541
+        ],
+        [
+          -122.4026493,
+          37.7915762
+        ],
+        [
+          -122.4026586,
+          37.791621
+        ],
+        [
+          -122.402696,
+          37.7918025
+        ],
+        [
+          -122.4032109,
+          37.7917362
+        ],
+        [
+          -122.4031844,
+          37.7916077
+        ],
+        [
+          -122.4031342,
+          37.7913642
+        ],
+        [
+          -122.4030532,
+          37.7913747
+        ],
+        [
+          -122.4030433,
+          37.7913266
+        ],
+        [
+          -122.4029999,
+          37.7911164
+        ],
+        [
+          -122.402978,
+          37.7910101
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 129142347,
+    "version": 8,
+    "timestamp": "2022-09-04T23:20:30Z",
+    "url": "https://www.openstreetmap.org/way/129142347"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 941918062,
+      "version": 2,
+      "timestamp": "2022-09-04T23:20:30Z",
+      "url": "https://www.openstreetmap.org/way/941918062"
+    },
+    {
+      "type": "way",
+      "id": 941918063,
+      "version": 2,
+      "timestamp": "2022-09-04T23:20:30Z",
+      "url": "https://www.openstreetmap.org/way/941918063"
+    },
+    {
+      "type": "way",
+      "id": 1091964668,
+      "version": 1,
+      "timestamp": "2022-09-04T23:20:30Z",
+      "url": "https://www.openstreetmap.org/way/1091964668"
+    },
+    {
+      "type": "way",
+      "id": 1091964669,
+      "version": 1,
+      "timestamp": "2022-09-04T23:20:30Z",
+      "url": "https://www.openstreetmap.org/way/1091964669"
+    },
+    {
+      "type": "way",
+      "id": 1091964670,
+      "version": 1,
+      "timestamp": "2022-09-04T23:20:30Z",
+      "url": "https://www.openstreetmap.org/way/1091964670"
+    },
+    {
+      "type": "way",
+      "id": 1091964671,
+      "version": 1,
+      "timestamp": "2022-09-04T23:20:30Z",
+      "url": "https://www.openstreetmap.org/way/1091964671"
+    },
+    {
+      "type": "way",
+      "id": 1091964672,
+      "version": 1,
+      "timestamp": "2022-09-04T23:20:30Z",
+      "url": "https://www.openstreetmap.org/way/1091964672"
+    },
+    {
+      "type": "way",
+      "id": 1091964673,
+      "version": 1,
+      "timestamp": "2022-09-04T23:20:30Z",
+      "url": "https://www.openstreetmap.org/way/1091964673"
+    },
+    {
+      "type": "way",
+      "id": 1091964674,
+      "version": 1,
+      "timestamp": "2022-09-04T23:20:30Z",
+      "url": "https://www.openstreetmap.org/way/1091964674"
+    },
+    {
+      "type": "way",
+      "id": 1091964675,
+      "version": 1,
+      "timestamp": "2022-09-04T23:20:30Z",
+      "url": "https://www.openstreetmap.org/way/1091964675"
+    },
+    {
+      "type": "way",
+      "id": 1091964676,
+      "version": 1,
+      "timestamp": "2022-09-04T23:20:30Z",
+      "url": "https://www.openstreetmap.org/way/1091964676"
+    },
+    {
+      "type": "way",
+      "id": 1091964677,
+      "version": 1,
+      "timestamp": "2022-09-04T23:20:30Z",
+      "url": "https://www.openstreetmap.org/way/1091964677"
+    },
+    {
+      "type": "way",
+      "id": 1091964678,
+      "version": 1,
+      "timestamp": "2022-09-04T23:20:30Z",
+      "url": "https://www.openstreetmap.org/way/1091964678"
+    }
+  ],
+  "wikidata": "Q7381107",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Russ Building San Francisco May 2014.jpg",
+      "author": "grizzlehizzle",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Russ_Building_San_Francisco_May_2014.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:RussBuildingWithItsTopInSanFrancisco.jpg",
+      "author": "Goodshoped35110s",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:RussBuildingWithItsTopInSanFrancisco.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:RussBuildingWithItsTopInSanFrancisco.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Russ Building front 1.JPG",
+      "author": "BrokenSphere",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Russ_Building_front_1.JPG",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:235 Montgomery St - Russ Building - Looking Up.jpg",
+      "author": "Douglaswth",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:235_Montgomery_St_-_Russ_Building_-_Looking_Up.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/sf-russ-building.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Russ Building, San Francisco — original procedural geometry, CC0-1.0. bun generators/sf-russ-building.ts",
+    "Frame: built turned to the block, BEARING 351 (the outline runs 9° anticlockwise of north). x across the block (+x = the Montgomery Street front, east), y along it (+y north), z up, metres. Origin = centroid of the OSM outline way/129142347.",
+    "Evidence",
+    "OSM way/129142347 and parts 941918062/063 (2 levels, the light courts), 1091964668/669 (16-level end wings), 1091964670-678 (22-32 levels, the tower, height 127.4; a 132.6 m finial). The outline sits ~2.5 m west of the lidar; the lidar wins.",
+    "USGS 3DEP lidar (CA_SanFrancisco_1_B23, 2023) at 0.5 m in the turned frame (/tmp/city/sf/work/fd/{grid,prof}.py); y = 0 is the lowest ground (7.6 m NAVD88), ground varies 2.3 m. An E plan opening west: the tower bar on Montgomery Street (22 x 34.5 m) to 128 m, with 22-storey shoulders (92 m) north and south of it, a 22-storey middle arm (91.5 m) running west, two 16-storey end wings (67-68 m), and two-storey light courts (12.5 m) between them. A small finial/flagstaff base on the tower roof reads 142 m.",
+    "Published (Wikipedia, SF Landmark): 1927, George Kelham, 133 m, 31-32 floors, neo-Gothic, the tallest building in San Francisco until 1964.",
+    "Commons daylight photos: \"Russ Building San Francisco May 2014.jpg\" (grizzlehizzle, CC BY-SA 3.0, from above, the E plan, crowns and pinnacles), \"RussBuildingWithItsTopInSanFrancisco.jpg\" (Goodshoped35110s, public domain, the Montgomery front from below), \"Russ Building front 1.JPG\" (BrokenSphere, CC BY-SA 3.0), \"235 Montgomery St - Russ Building - Looking Up.jpg\" (Douglaswth, CC BY-SA 4.0).",
+    "Estimated: storey heights (base 6.3 m each, then ~3.6 m), window grouping (one panel per ~6.8 m structural bay, i.e. per pair of windows between the main piers, in three-storey groups with stone spandrel bands; the main piers stand 0.25 m proud), the gothic arched top storeys and crown pinnacles (2.6 m on the wings, 4 m on the tower, at the corners and every few bays), the finial (drawn to 135 m, the flagstaff left out).",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"sf-russ-building\", model \"sf-russ-building\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/sf-russ-building.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 16 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the sf-russ-building-glazing finish in the window colour."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

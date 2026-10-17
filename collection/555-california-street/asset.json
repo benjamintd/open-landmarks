@@ -1,0 +1,444 @@
+{
+  "id": "555-california-street",
+  "name": "555 California Street",
+  "anchor": [
+    -122.4037122,
+    37.7921133
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 13,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 223708,
+      "sha256": "0f5a524da4b5a1cee65c4c930e2c7a2d25fe13d07a75d9e02cae5767a63c697d"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 223708,
+      "sha256": "0f5a524da4b5a1cee65c4c930e2c7a2d25fe13d07a75d9e02cae5767a63c697d"
+    }
+  },
+  "triangles": 3786,
+  "boundsBlenderM": [
+    [
+      -43.617,
+      -27.863,
+      0
+    ],
+    [
+      43.463,
+      27.29,
+      242
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -122.4032906,
+          37.7923624
+        ],
+        [
+          -122.4032849,
+          37.7923377
+        ],
+        [
+          -122.4032714,
+          37.792273
+        ],
+        [
+          -122.4032444,
+          37.7921342
+        ],
+        [
+          -122.4032256,
+          37.7920377
+        ],
+        [
+          -122.403214,
+          37.7919783
+        ],
+        [
+          -122.4032665,
+          37.7919719
+        ],
+        [
+          -122.4033177,
+          37.7919657
+        ],
+        [
+          -122.4033555,
+          37.7919714
+        ],
+        [
+          -122.4033778,
+          37.7919691
+        ],
+        [
+          -122.4033928,
+          37.7919581
+        ],
+        [
+          -122.4034289,
+          37.7919652
+        ],
+        [
+          -122.4034618,
+          37.7919434
+        ],
+        [
+          -122.403501,
+          37.7919547
+        ],
+        [
+          -122.4035246,
+          37.7919365
+        ],
+        [
+          -122.403569,
+          37.791948
+        ],
+        [
+          -122.4035988,
+          37.7919284
+        ],
+        [
+          -122.4036339,
+          37.7919385
+        ],
+        [
+          -122.4036637,
+          37.7919183
+        ],
+        [
+          -122.4037039,
+          37.7919291
+        ],
+        [
+          -122.4037368,
+          37.7919127
+        ],
+        [
+          -122.403772,
+          37.791921
+        ],
+        [
+          -122.4038017,
+          37.7919025
+        ],
+        [
+          -122.403844,
+          37.7919124
+        ],
+        [
+          -122.4038759,
+          37.7918939
+        ],
+        [
+          -122.403913,
+          37.7919032
+        ],
+        [
+          -122.403951,
+          37.7918848
+        ],
+        [
+          -122.403982,
+          37.7918954
+        ],
+        [
+          -122.4040077,
+          37.7918775
+        ],
+        [
+          -122.404048,
+          37.7918925
+        ],
+        [
+          -122.4040837,
+          37.7918693
+        ],
+        [
+          -122.4041263,
+          37.791886
+        ],
+        [
+          -122.4041586,
+          37.7919156
+        ],
+        [
+          -122.4041469,
+          37.7919352
+        ],
+        [
+          -122.4041758,
+          37.7919674
+        ],
+        [
+          -122.4041599,
+          37.7919932
+        ],
+        [
+          -122.4041887,
+          37.7920244
+        ],
+        [
+          -122.4041722,
+          37.7920567
+        ],
+        [
+          -122.4042002,
+          37.7920808
+        ],
+        [
+          -122.4041822,
+          37.7921119
+        ],
+        [
+          -122.4042102,
+          37.7921318
+        ],
+        [
+          -122.4041891,
+          37.7921643
+        ],
+        [
+          -122.4042136,
+          37.7921857
+        ],
+        [
+          -122.4041947,
+          37.792225
+        ],
+        [
+          -122.4041609,
+          37.7922503
+        ],
+        [
+          -122.4041291,
+          37.7922392
+        ],
+        [
+          -122.4040928,
+          37.7922615
+        ],
+        [
+          -122.4040538,
+          37.7922533
+        ],
+        [
+          -122.4040228,
+          37.7922717
+        ],
+        [
+          -122.4039838,
+          37.7922624
+        ],
+        [
+          -122.4039538,
+          37.7922813
+        ],
+        [
+          -122.4039159,
+          37.7922713
+        ],
+        [
+          -122.4038909,
+          37.7922901
+        ],
+        [
+          -122.4038478,
+          37.7922799
+        ],
+        [
+          -122.4038168,
+          37.7923019
+        ],
+        [
+          -122.4037758,
+          37.7922885
+        ],
+        [
+          -122.4037448,
+          37.7923113
+        ],
+        [
+          -122.4037077,
+          37.7922989
+        ],
+        [
+          -122.403688,
+          37.7923194
+        ],
+        [
+          -122.403646,
+          37.7923065
+        ],
+        [
+          -122.4036138,
+          37.7923279
+        ],
+        [
+          -122.4035749,
+          37.7923134
+        ],
+        [
+          -122.4035407,
+          37.7923362
+        ],
+        [
+          -122.4034976,
+          37.7923208
+        ],
+        [
+          -122.4034689,
+          37.7923401
+        ],
+        [
+          -122.4032906,
+          37.7923624
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 288511106,
+    "version": 14,
+    "timestamp": "2024-01-30T04:51:23Z",
+    "url": "https://www.openstreetmap.org/way/288511106"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 1243267628,
+      "version": 2,
+      "timestamp": "2024-01-30T04:18:00Z",
+      "url": "https://www.openstreetmap.org/way/1243267628"
+    },
+    {
+      "type": "way",
+      "id": 1244283830,
+      "version": 1,
+      "timestamp": "2024-01-30T04:51:23Z",
+      "url": "https://www.openstreetmap.org/way/1244283830"
+    },
+    {
+      "type": "way",
+      "id": 1244283832,
+      "version": 1,
+      "timestamp": "2024-01-30T04:51:23Z",
+      "url": "https://www.openstreetmap.org/way/1244283832"
+    },
+    {
+      "type": "way",
+      "id": 1244283833,
+      "version": 1,
+      "timestamp": "2024-01-30T04:51:23Z",
+      "url": "https://www.openstreetmap.org/way/1244283833"
+    },
+    {
+      "type": "way",
+      "id": 1244283834,
+      "version": 1,
+      "timestamp": "2024-01-30T04:51:23Z",
+      "url": "https://www.openstreetmap.org/way/1244283834"
+    },
+    {
+      "type": "way",
+      "id": 1244283835,
+      "version": 1,
+      "timestamp": "2024-01-30T04:51:23Z",
+      "url": "https://www.openstreetmap.org/way/1244283835"
+    },
+    {
+      "type": "way",
+      "id": 1244283836,
+      "version": 1,
+      "timestamp": "2024-01-30T04:51:23Z",
+      "url": "https://www.openstreetmap.org/way/1244283836"
+    }
+  ],
+  "wikidata": "Q243921",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:555 California Street from One Montgomery, San Francisco.jpg",
+      "author": "The wub",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:555_California_Street_from_One_Montgomery,_San_Francisco.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:555 California Street 2021.jpg",
+      "author": "Dead.rabbit",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:555_California_Street_2021.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:555 California Street, San Francisco.jpg",
+      "author": "Supercarwaar",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:555_California_Street,_San_Francisco.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Bank of America Tower San Francisco.jpg",
+      "author": "Chris Yunker from Portland, United States",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Bank_of_America_Tower_San_Francisco.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:555 California Street SAn Fran.JPG",
+      "author": "Cookaa",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:555_California_Street_SAn_Fran.JPG",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/sf-555-california.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "555 California Street (former Bank of America Center), San Francisco — original procedural geometry, CC0-1.0. bun generators/sf-555-california.ts",
+    "Frame: built turned to the tower, BEARING 351 (its faces run 9° anticlockwise of north, off the street grid; OSM and lidar agree). x along the long (north and south) faces, y across, z up, metres. Origin = centroid of the OSM outline way/288511106, which includes the low banking-hall wing on the east; the tower's own centre sits 4.75 m west and 0.4 m south of it.",
+    "Evidence",
+    "OSM way/288511106 (outline, 52 levels, SOM / Wurster Bernardi & Emmons, 1969) and its parts 1243267628, 1244283830-36. The parts are drawn loosely; the outline's bay teeth (about 6.2 m apart, 2 m deep) are used for rhythm.",
+    "USGS 3DEP lidar (CA_SanFrancisco_1_B23, 2023) at 0.5 m, sampled in the turned frame (/tmp/city/sf/work/fd/{code,prof}.py). y = 0 is the lowest ground under the outline (Montgomery St, east); the plaza round the tower is 4.65 m above it. Tower 73.5 x 43.6 m to the bay tips; main roof 231 m; mechanical screen 242 m over the middle 51 x 21 m. The bays end in three layers, each 2 m further out: the core to 231, a middle layer to 212 (204 at the east end), and the outer bays at 184-212 in groups, read tooth by tooth from the lidar (tables below). The four corners run full height. The short faces step once, 4 m deep: 184/192 on the west, 196/204 east. The east wing is ~10.5 m high.",
+    "Published (Wikipedia, CTBUH): 237 m, 52 floors, carnelian granite, sawtooth bay windows.",
+    "Commons daylight photos: \"555 California Street from One Montgomery, San Francisco.jpg\" (The wub, CC BY-SA 4.0, from the south, the stepped tops), \"555 California Street 2021.jpg\" (Dead.rabbit, CC BY-SA 4.0, from the south), \"555 California Street, San Francisco.jpg\" (Supercarwaar, CC BY-SA 4.0, from the north-west), \"Bank of America Tower San Francisco.jpg\" (Chris Yunker, CC BY-SA 2.0, south-east), \"555 California Street SAn Fran.JPG\" (Cookaa, CC BY-SA 3.0, south-west).",
+    "Estimated: the corner chamfers (from the OSM outline), windows as three-storey panels per bay face with granite showing at the bay tips and valleys, the 10 m lobby band, the east wing's facade. Colour: the photos' dark red-brown granite, pulled up to the palette's lightness.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"sf-555-california\", model \"sf-555-california\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/sf-555-california.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

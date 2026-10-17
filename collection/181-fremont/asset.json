@@ -1,0 +1,182 @@
+{
+  "id": "181-fremont",
+  "name": "181 Fremont",
+  "anchor": [
+    -122.3953407,
+    37.7897333
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 63276,
+      "sha256": "5388293b90161360e40927bc8d5b56945859eab9812c523f4608503980e74550"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 63276,
+      "sha256": "5388293b90161360e40927bc8d5b56945859eab9812c523f4608503980e74550"
+    }
+  },
+  "triangles": 1110,
+  "boundsBlenderM": [
+    [
+      -28.072,
+      -28.072,
+      0
+    ],
+    [
+      28.284,
+      27.86,
+      250.8
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -122.3952903,
+          37.7900077
+        ],
+        [
+          -122.3954153,
+          37.7899084
+        ],
+        [
+          -122.3954728,
+          37.7898627
+        ],
+        [
+          -122.3954996,
+          37.7898414
+        ],
+        [
+          -122.3956152,
+          37.7897496
+        ],
+        [
+          -122.3955396,
+          37.7896902
+        ],
+        [
+          -122.395328,
+          37.7895239
+        ],
+        [
+          -122.3951154,
+          37.7896928
+        ],
+        [
+          -122.3951995,
+          37.789759
+        ],
+        [
+          -122.3950873,
+          37.7898482
+        ],
+        [
+          -122.3952903,
+          37.7900077
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 445566153,
+    "version": 15,
+    "timestamp": "2026-07-23T07:07:18Z",
+    "url": "https://www.openstreetmap.org/way/445566153"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q4554120",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:181 Fremont from Folsom and Fremont.jpg",
+      "author": "Dead.rabbit",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:181_Fremont_from_Folsom_and_Fremont.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:181 Fremont from Salesforce Park.jpg",
+      "author": "Dead.rabbit",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:181_Fremont_from_Salesforce_Park.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:181 Fremont Street from Mission Street.jpg",
+      "author": "Dead.rabbit",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:181_Fremont_Street_from_Mission_Street.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:181 Fremont.jpg",
+      "author": "Dead.rabbit",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:181_Fremont.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:181 Fremont 2.jpg",
+      "author": "Dead.rabbit",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:181_Fremont_2.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Salesforce Tower alongside 181 Fremont.jpg",
+      "author": "Yair92002",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Salesforce_Tower_alongside_181_Fremont.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/sf-181-fremont.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "181 Fremont, San Francisco — original procedural geometry, CC0-1.0. bun generators/sf-181-fremont.ts",
+    "Map frame, rotated to the building: +x (u) is the south-east face's outward normal, +y (v) the north-east face's, z up, metres. BEARING 45 (the SoMa grid). Origin = the centre of the tower as the lidar draws it, 3.6 m south-west of the OSM outline's centroid (the OSM outline, way/445566153, sits ~3 m north-east of the lidar's walls and adds an L-shaped notch the tower does not have above the street).",
+    "Evidence",
+    "OSM way/445566153: outline, height 244.4, 57 levels. No parts.",
+    "USGS 3DEP lidar (CA_SanFrancisco_1_B23, 2023) at 0.5 m, in the building frame (/tmp/city/sf/lidar.py): street flat to 1.6 m. Walls (less ~0.4 m for the max-per-cell bias): u -17.8..22.4, v -21.7..16.0 up to ~150 m; the south-east and north-east faces lean in above ~100 m, by 2.6 and 3 m at the roof (the other two faces are plumb). Roof a diagonal ridge from the west corner (~231 m) to the east corner (~225 m), falling to ~216 m at the north and south corners. Spire tip 250.8 m, ~5 m in from the west corner along its diagonal; the photos show it as the corner column carried up, so it is drawn as a blade on the column leaning 1.6 m inward (a compromise).",
+    "Published (Wikipedia): 245 m with spire, 56-57 storeys, Heller Manus, 2018; diagonal mega-braces on every face. The lidar tip is ~6 m higher than the published height; the lidar is used.",
+    "Commons photos (daylight): \"181 Fremont from Folsom and Fremont.jpg\", \"181 Fremont from Salesforce Park.jpg\", \"181 Fremont Street from Mission Street.jpg\", \"181 Fremont.jpg\", \"181 Fremont 2.jpg\" (all Dead.rabbit, CC BY-SA 4.0), \"Salesforce Tower alongside 181 Fremont.jpg\" (Yair92002, CC BY-SA 4.0, from the west, the white frame at distance).",
+    "The frame, read from those photos: white corner columns full height; a belt at ~72 m and a double belt at ~156-163 m with a shallow V between its two chords; on each face one diagonal per tier zig-zagging between opposite corners, mirrored on neighbouring faces so the diagonals meet in chevrons at the corners. Estimated: the belt heights (from photo proportions, from two photos: ~0.3 and ~0.7 of the height), the member sizes, the glass colour (teal glass pulled light), the 9 m lobby.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"sf-181-fremont\", model \"sf-181-fremont\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/sf-181-fremont.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

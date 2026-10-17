@@ -1,0 +1,291 @@
+{
+  "id": "paramount-theatre",
+  "name": "Paramount Theatre",
+  "anchor": [
+    -122.2685961,
+    37.8098546
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 64284,
+      "sha256": "d78a3304913b557914c5c52090b3a4892a8a03744ee2f61305fe444c2bbdcd40"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 64284,
+      "sha256": "d78a3304913b557914c5c52090b3a4892a8a03744ee2f61305fe444c2bbdcd40"
+    }
+  },
+  "triangles": 1167,
+  "boundsBlenderM": [
+    [
+      -38.434,
+      -36.118,
+      0
+    ],
+    [
+      54.779,
+      36.769,
+      38
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -122.2686674,
+          37.8096435
+        ],
+        [
+          -122.268659,
+          37.8096686
+        ],
+        [
+          -122.2685842,
+          37.8096415
+        ],
+        [
+          -122.2685926,
+          37.8096145
+        ],
+        [
+          -122.2685294,
+          37.8095901
+        ],
+        [
+          -122.2685103,
+          37.8096143
+        ],
+        [
+          -122.2684824,
+          37.8096058
+        ],
+        [
+          -122.2684331,
+          37.8096825
+        ],
+        [
+          -122.2681228,
+          37.8095569
+        ],
+        [
+          -122.2680445,
+          37.8096773
+        ],
+        [
+          -122.2683382,
+          37.8098021
+        ],
+        [
+          -122.2683102,
+          37.8099346
+        ],
+        [
+          -122.2683175,
+          37.8099378
+        ],
+        [
+          -122.2682842,
+          37.8100774
+        ],
+        [
+          -122.2684285,
+          37.8101033
+        ],
+        [
+          -122.2684445,
+          37.8100546
+        ],
+        [
+          -122.268466,
+          37.8100405
+        ],
+        [
+          -122.2684809,
+          37.8099981
+        ],
+        [
+          -122.268514,
+          37.8100096
+        ],
+        [
+          -122.2685116,
+          37.8100227
+        ],
+        [
+          -122.268609,
+          37.8100427
+        ],
+        [
+          -122.2686234,
+          37.8100194
+        ],
+        [
+          -122.2687197,
+          37.8100398
+        ],
+        [
+          -122.2687162,
+          37.8100743
+        ],
+        [
+          -122.2687871,
+          37.8100851
+        ],
+        [
+          -122.2687704,
+          37.8101577
+        ],
+        [
+          -122.2689181,
+          37.8101873
+        ],
+        [
+          -122.2689426,
+          37.8101023
+        ],
+        [
+          -122.269031,
+          37.8097946
+        ],
+        [
+          -122.2688844,
+          37.8097344
+        ],
+        [
+          -122.2686674,
+          37.8096435
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 666976181,
+    "version": 1,
+    "timestamp": "2019-01-29T18:12:56Z",
+    "url": "https://www.openstreetmap.org/way/666976181"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 666976187,
+      "version": 1,
+      "timestamp": "2019-01-29T18:12:57Z",
+      "url": "https://www.openstreetmap.org/way/666976187"
+    },
+    {
+      "type": "way",
+      "id": 666974159,
+      "version": 1,
+      "timestamp": "2019-01-29T18:03:24Z",
+      "url": "https://www.openstreetmap.org/way/666974159"
+    },
+    {
+      "type": "way",
+      "id": 666974169,
+      "version": 1,
+      "timestamp": "2019-01-29T18:03:24Z",
+      "url": "https://www.openstreetmap.org/way/666974169"
+    },
+    {
+      "type": "way",
+      "id": 666976173,
+      "version": 1,
+      "timestamp": "2019-01-29T18:12:56Z",
+      "url": "https://www.openstreetmap.org/way/666976173"
+    },
+    {
+      "type": "way",
+      "id": 666976174,
+      "version": 1,
+      "timestamp": "2019-01-29T18:12:56Z",
+      "url": "https://www.openstreetmap.org/way/666976174"
+    }
+  ],
+  "wikidata": "Q14683611",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Paramount.jpg",
+      "author": "sierra jane from oakland, ca",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Paramount.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Paramount front facade.jpg",
+      "author": "sierra jane from Oakland, California",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Paramount_front_facade.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Paramount Theatre (Oakland, CA).JPG",
+      "author": "Sanfranman59",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Paramount_Theatre_(Oakland,_CA).JPG",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Paramount Theater, Oakland (4582609961).jpg",
+      "author": "Sandra Cohen-Rose and Colin Rose from Montreal, Canada",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Paramount_Theater,_Oakland_(4582609961).jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Oakland Paramount Theatre exterior, 1975.jpg",
+      "author": "Jack Boucher",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Oakland_Paramount_Theatre_exterior,_1975.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Oakland_Paramount_Theatre_exterior,_1975.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/sf-paramount-theatre.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Paramount Theatre, Oakland — original procedural geometry, CC0-1.0. bun generators/sf-paramount-theatre.ts",
+    "Frame: built turned to the block, BEARING 27.3 (the block's long side runs 27.3° east of north). x across the block (+x = east-south-east, the Broadway front), y along it (+y = north-north-east, towards 21st Street), z up, metres. Origin = the area centroid of the OSM outline way/666976181.",
+    "Evidence",
+    "OSM way/666976181 (outline, 33 m) with parts way/666976187 (the auditorium and lobby, 33 m), way/666974159, 666974169, 666976173 and 666976174 (one-storey annexes). The outline's Broadway front sits at x = 52.1, 3 m behind the facade the lidar shows; the lidar wins there.",
+    "USGS 3DEP lidar (CA_AlamedaCo_2_2021) at 0.5-1 m in the turned frame (/tmp/city/sf/work/oak/frame.py). y = 0 is the street level round the block, 5.9 m NAVD88 (the sidewalks read 5.9-6.7). The footprint's lowest return, 3.9 m, is a sunken areaway against the south wall, which the map's terrain cannot see; it is not used. Above street level: the auditorium, 62 x 42 m, walls 26 m and a low vaulted roof to 30; the lobby wing (x 21.5..47.5, 17 m wide) 25.9 with parapets 27.6; the facade slab (x 47.5..55) 32, the mosaic's crown 36, and the blade sign, 4 m on plan at its top, 38 m and reaching 2.5 m out over the sidewalk; the marquee's top 7.6. Annexes 8-11.5 m.",
+    "Published (Wikipedia; NRHP; National Historic Landmark): 1931, Timothy Pflueger; art deco; 3,040 seats; the facade's tile mosaic of two giant figures (by Gerald Fitzgerald) either side of the vertical PARAMOUNT sign.",
+    "Commons daylight photos: \"Paramount.jpg\" and \"Paramount front facade.jpg\" (sierra jane, CC BY 2.0, the front and the blade from the street); \"Paramount Theatre (Oakland, CA).JPG\" (Sanfranman59, CC BY-SA 3.0, from the south-east: the auditorium box behind); \"Paramount Theatre Building, Oakland, California LCCN2010630218\" and \"Paramount Theatre in Oakland, California LCCN2013635154/5\" (Carol M. Highsmith, public domain); \"Paramount Theater, Oakland (4582609961).jpg\" (Sandra Cohen-Rose and Colin Rose, CC BY-SA 2.0); \"Oakland Paramount Theatre exterior, 1975.jpg\" and the HABS views from the north-east and south-east (Jack E. Boucher, public domain).",
+    "Famous-sign exception (STYLE.md): the blade carries PARAMOUNT as extruded block letters, upright and stacked, on both faces.",
+    "The mosaic is drawn as two flat gold panels in a maroon tile frame, not as figures. Estimated from the photos: the mosaic's extent, the frame's margins, letter sizes (2.75 m tall), the marquee's depth and boards, the entrance, the auditorium's shallow pilasters and the annexes' detail.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"sf-paramount-theatre\", model \"sf-paramount-theatre\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/sf-paramount-theatre.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

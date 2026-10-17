@@ -1,0 +1,627 @@
+{
+  "id": "101-california-street",
+  "name": "101 California Street",
+  "anchor": [
+    -122.3981556,
+    37.7928605
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 13,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 177880,
+      "sha256": "d5216f8c2266cff099caa03386a89b40f2ea64a379dd1368f2ce36a4aa892c8f"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 177880,
+      "sha256": "d5216f8c2266cff099caa03386a89b40f2ea64a379dd1368f2ce36a4aa892c8f"
+    }
+  },
+  "triangles": 3946,
+  "boundsBlenderM": [
+    [
+      -43,
+      -38,
+      0
+    ],
+    [
+      50.1,
+      45,
+      190
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -122.3986583,
+          37.7932704
+        ],
+        [
+          -122.3985535,
+          37.7927233
+        ],
+        [
+          -122.3985118,
+          37.7925297
+        ],
+        [
+          -122.3981762,
+          37.7925683
+        ],
+        [
+          -122.3982033,
+          37.7927023
+        ],
+        [
+          -122.3981896,
+          37.7926949
+        ],
+        [
+          -122.3981922,
+          37.7926921
+        ],
+        [
+          -122.3981644,
+          37.7926759
+        ],
+        [
+          -122.3981636,
+          37.7926774
+        ],
+        [
+          -122.3981201,
+          37.7926521
+        ],
+        [
+          -122.3981167,
+          37.7926566
+        ],
+        [
+          -122.3981018,
+          37.7926481
+        ],
+        [
+          -122.3980986,
+          37.7926515
+        ],
+        [
+          -122.3980842,
+          37.7926432
+        ],
+        [
+          -122.3980807,
+          37.7926474
+        ],
+        [
+          -122.3980662,
+          37.7926394
+        ],
+        [
+          -122.3980628,
+          37.7926431
+        ],
+        [
+          -122.3980487,
+          37.7926362
+        ],
+        [
+          -122.3980443,
+          37.7926409
+        ],
+        [
+          -122.3980299,
+          37.7926338
+        ],
+        [
+          -122.3980245,
+          37.7926394
+        ],
+        [
+          -122.3980097,
+          37.7926316
+        ],
+        [
+          -122.3980038,
+          37.7926383
+        ],
+        [
+          -122.3979894,
+          37.7926306
+        ],
+        [
+          -122.3979821,
+          37.7926384
+        ],
+        [
+          -122.3979681,
+          37.7926306
+        ],
+        [
+          -122.3979595,
+          37.7926391
+        ],
+        [
+          -122.3979452,
+          37.7926323
+        ],
+        [
+          -122.3979359,
+          37.7926424
+        ],
+        [
+          -122.3979205,
+          37.7926353
+        ],
+        [
+          -122.3979109,
+          37.7926457
+        ],
+        [
+          -122.3978974,
+          37.7926389
+        ],
+        [
+          -122.3978873,
+          37.7926487
+        ],
+        [
+          -122.3978723,
+          37.7926415
+        ],
+        [
+          -122.3978626,
+          37.7926517
+        ],
+        [
+          -122.3978505,
+          37.7926454
+        ],
+        [
+          -122.3978442,
+          37.7926133
+        ],
+        [
+          -122.3975862,
+          37.7926474
+        ],
+        [
+          -122.3977029,
+          37.7927168
+        ],
+        [
+          -122.3976823,
+          37.7927401
+        ],
+        [
+          -122.3976745,
+          37.7927495
+        ],
+        [
+          -122.3976638,
+          37.792761
+        ],
+        [
+          -122.3976666,
+          37.7927636
+        ],
+        [
+          -122.3976592,
+          37.792774
+        ],
+        [
+          -122.3976614,
+          37.7927752
+        ],
+        [
+          -122.39766,
+          37.7927771
+        ],
+        [
+          -122.3976515,
+          37.7927872
+        ],
+        [
+          -122.3976556,
+          37.7927894
+        ],
+        [
+          -122.3976458,
+          37.7928001
+        ],
+        [
+          -122.3976503,
+          37.792802
+        ],
+        [
+          -122.397649,
+          37.7928041
+        ],
+        [
+          -122.3976409,
+          37.7928153
+        ],
+        [
+          -122.3976449,
+          37.7928184
+        ],
+        [
+          -122.397636,
+          37.7928296
+        ],
+        [
+          -122.3976418,
+          37.7928332
+        ],
+        [
+          -122.3976329,
+          37.7928434
+        ],
+        [
+          -122.3976399,
+          37.792847
+        ],
+        [
+          -122.3976309,
+          37.7928591
+        ],
+        [
+          -122.3976384,
+          37.792864
+        ],
+        [
+          -122.3976289,
+          37.7928761
+        ],
+        [
+          -122.3976389,
+          37.7928809
+        ],
+        [
+          -122.3976305,
+          37.7928914
+        ],
+        [
+          -122.3976408,
+          37.7928994
+        ],
+        [
+          -122.3976334,
+          37.7929114
+        ],
+        [
+          -122.3976445,
+          37.792918
+        ],
+        [
+          -122.3976362,
+          37.7929301
+        ],
+        [
+          -122.3976484,
+          37.7929358
+        ],
+        [
+          -122.3976432,
+          37.792946
+        ],
+        [
+          -122.3976557,
+          37.7929519
+        ],
+        [
+          -122.3976515,
+          37.7929611
+        ],
+        [
+          -122.3976618,
+          37.7929669
+        ],
+        [
+          -122.3976593,
+          37.7929755
+        ],
+        [
+          -122.3976714,
+          37.7929822
+        ],
+        [
+          -122.3976695,
+          37.7929891
+        ],
+        [
+          -122.3976819,
+          37.7929959
+        ],
+        [
+          -122.3976782,
+          37.7930006
+        ],
+        [
+          -122.3976909,
+          37.7930084
+        ],
+        [
+          -122.3976882,
+          37.793013
+        ],
+        [
+          -122.3977016,
+          37.7930207
+        ],
+        [
+          -122.3977,
+          37.7930242
+        ],
+        [
+          -122.3977121,
+          37.7930333
+        ],
+        [
+          -122.3977248,
+          37.7930402
+        ],
+        [
+          -122.3977234,
+          37.7930427
+        ],
+        [
+          -122.3977368,
+          37.7930495
+        ],
+        [
+          -122.3977357,
+          37.7930521
+        ],
+        [
+          -122.3977501,
+          37.7930595
+        ],
+        [
+          -122.397748,
+          37.7930623
+        ],
+        [
+          -122.397791,
+          37.7930874
+        ],
+        [
+          -122.3977933,
+          37.7930848
+        ],
+        [
+          -122.397822,
+          37.7931022
+        ],
+        [
+          -122.3978242,
+          37.7930998
+        ],
+        [
+          -122.3978364,
+          37.7931083
+        ],
+        [
+          -122.3978419,
+          37.7931063
+        ],
+        [
+          -122.3978531,
+          37.7931141
+        ],
+        [
+          -122.3978587,
+          37.7931111
+        ],
+        [
+          -122.3978722,
+          37.7931183
+        ],
+        [
+          -122.3978767,
+          37.793115
+        ],
+        [
+          -122.3978907,
+          37.7931234
+        ],
+        [
+          -122.3978938,
+          37.7931194
+        ],
+        [
+          -122.3979083,
+          37.7931258
+        ],
+        [
+          -122.3979116,
+          37.7931222
+        ],
+        [
+          -122.3979271,
+          37.7931294
+        ],
+        [
+          -122.3979329,
+          37.7931235
+        ],
+        [
+          -122.3979453,
+          37.7931316
+        ],
+        [
+          -122.397952,
+          37.7931246
+        ],
+        [
+          -122.3979655,
+          37.7931319
+        ],
+        [
+          -122.397973,
+          37.7931252
+        ],
+        [
+          -122.3979885,
+          37.7931318
+        ],
+        [
+          -122.3979972,
+          37.7931234
+        ],
+        [
+          -122.3980124,
+          37.7931297
+        ],
+        [
+          -122.3980224,
+          37.7931183
+        ],
+        [
+          -122.3980347,
+          37.7931253
+        ],
+        [
+          -122.398157,
+          37.792987
+        ],
+        [
+          -122.3982045,
+          37.7930139
+        ],
+        [
+          -122.3986583,
+          37.7932704
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 1279505488,
+    "version": 1,
+    "timestamp": "2024-05-03T23:12:45Z",
+    "url": "https://www.openstreetmap.org/way/1279505488"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 436484073,
+      "version": 6,
+      "timestamp": "2024-05-03T23:12:45Z",
+      "url": "https://www.openstreetmap.org/way/436484073"
+    },
+    {
+      "type": "way",
+      "id": 436484078,
+      "version": 8,
+      "timestamp": "2024-05-03T23:12:45Z",
+      "url": "https://www.openstreetmap.org/way/436484078"
+    },
+    {
+      "type": "way",
+      "id": 1089398909,
+      "version": 1,
+      "timestamp": "2022-08-26T07:55:51Z",
+      "url": "https://www.openstreetmap.org/way/1089398909"
+    },
+    {
+      "type": "way",
+      "id": 1279505487,
+      "version": 1,
+      "timestamp": "2024-05-03T23:12:45Z",
+      "url": "https://www.openstreetmap.org/way/1279505487"
+    }
+  ],
+  "wikidata": "Q2536727",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:101 California Street 2021 front.jpg",
+      "author": "Dead.rabbit",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:101_California_Street_2021_front.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:101 California Street 2021.jpg",
+      "author": "Dead.rabbit",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:101_California_Street_2021.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:101 California Street from Market Street.jpg",
+      "author": "DestinationFearFan",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:101_California_Street_from_Market_Street.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:101 California Street from Salesforce Park.jpg",
+      "author": "Dead.rabbit",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:101_California_Street_from_Salesforce_Park.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:101 California Street (42199762351).jpg",
+      "author": "Ian D. Keating",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:101_California_Street_(42199762351).jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:101 California 01 (8437377119).jpg",
+      "author": "Tom Hilton",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:101_California_01_(8437377119).jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/sf-101-california.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "101 California Street, San Francisco — original procedural geometry, CC0-1.0. bun generators/sf-101-california.ts",
+    "Map frame: x east, y north, z up, metres, no rotation (the tower is round). Origin = centroid of the OSM outline way/1279505488, which takes in the tower, the granite wing on the west, the sloped glass atrium between them and a low block at the south-east corner.",
+    "Evidence",
+    "OSM way/1279505488 (48 levels, height 183, Johnson/Burgee 1982) and parts 436484078 (tower), 436484073 (the four-storey wing), 1089398909 (atrium), 1279505487 (south-east block). Their edges sit ~2 m off the lidar.",
+    "USGS 3DEP lidar (CA_SanFrancisco_1_B23, 2023) at 0.5 m; y = 0 is the lowest ground under the outline (3.32 m NAVD88). The tower is a circle of radius 28.9 m about (18.35, 0.0) (edges fitted in twelve 30° sectors) with a re-entrant notch on the north-west (inner corner at (2, 13.8)); roof 184 m, a square plant room turned 45° to 190 m. Outwards from the roof edge the surface steps down 184 → 171 → 156 → 137 m within the outer ~2.2 m, all the way round: the stepped, serrated crown. The wing is 30 m, the atrium glass slopes from 30 m at the wing to ~10 m at the tower, the south-east block is 30 m.",
+    "Published (Wikipedia, CTBUH): 183 m, 48 floors; a serrated glass cylinder on a granite colonnade, with a sloped glass lobby atrium at the foot.",
+    "Commons daylight photos: \"101 California Street 2021 front.jpg\" and \"101 California Street 2021.jpg\" (Dead.rabbit, CC BY-SA 4.0: the colonnade, atrium and the flat faces of the notch, from the south-west); \"101 California Street from Market Street.jpg\" (DestinationFearFan, CC BY-SA 4.0, from the south-east); \"101 California Street from Salesforce Park.jpg\" (Dead.rabbit, CC BY-SA 4.0, from the south); \"101 California Street (42199762351).jpg\" (Ian D. Keating, CC BY 2.0: the serrated, stepped crown); \"101 California 01 (8437377119).jpg\" (Tom Hilton, CC BY 2.0, the serration from below).",
+    "Estimated: the serration (44 teeth on the round face, 1 m deep), the crown tiers drawn 1 m deep each (lidar ~0.7 m) so they read at map scale, the 20 m colonnade height and its column spacing, the lobby glass line, the trim floor lines every eight storeys on the curtain wall, the wing's window grouping (two-storey panels per ~6 m bay). The wing's 33-35 m parapet sections are drawn at 30 m.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"sf-101-california\", model \"sf-101-california\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/sf-101-california.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

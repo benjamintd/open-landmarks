@@ -1,0 +1,301 @@
+{
+  "id": "oakland-california-temple",
+  "name": "Oakland California Temple",
+  "anchor": [
+    -122.199095,
+    37.807815
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 65284,
+      "sha256": "d7d2a68fde3f2013eabdd60f3d934a550630059fad13515d0a8b2e7550b4b4fc"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 65284,
+      "sha256": "d7d2a68fde3f2013eabdd60f3d934a550630059fad13515d0a8b2e7550b4b4fc"
+    }
+  },
+  "triangles": 1160,
+  "boundsBlenderM": [
+    [
+      -34.849,
+      -29.849,
+      0
+    ],
+    [
+      34.588,
+      31.624,
+      52
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -122.1994099,
+          37.8079089
+        ],
+        [
+          -122.1994255,
+          37.8077678
+        ],
+        [
+          -122.1992697,
+          37.807757
+        ],
+        [
+          -122.1992732,
+          37.8077255
+        ],
+        [
+          -122.1992821,
+          37.8077261
+        ],
+        [
+          -122.1992858,
+          37.8076931
+        ],
+        [
+          -122.1992407,
+          37.80769
+        ],
+        [
+          -122.19924,
+          37.8076972
+        ],
+        [
+          -122.1992042,
+          37.8076947
+        ],
+        [
+          -122.1992065,
+          37.8076737
+        ],
+        [
+          -122.1990235,
+          37.807661
+        ],
+        [
+          -122.199021,
+          37.8076833
+        ],
+        [
+          -122.198986,
+          37.8076809
+        ],
+        [
+          -122.1989869,
+          37.8076732
+        ],
+        [
+          -122.1989472,
+          37.8076705
+        ],
+        [
+          -122.1989438,
+          37.8077009
+        ],
+        [
+          -122.1989543,
+          37.8077016
+        ],
+        [
+          -122.1989504,
+          37.8077372
+        ],
+        [
+          -122.1987892,
+          37.8077261
+        ],
+        [
+          -122.1987736,
+          37.8078678
+        ],
+        [
+          -122.1989297,
+          37.8078786
+        ],
+        [
+          -122.1989259,
+          37.8079127
+        ],
+        [
+          -122.1989162,
+          37.807912
+        ],
+        [
+          -122.1989127,
+          37.8079436
+        ],
+        [
+          -122.1989482,
+          37.807946
+        ],
+        [
+          -122.1989489,
+          37.8079395
+        ],
+        [
+          -122.1989952,
+          37.8079427
+        ],
+        [
+          -122.1989932,
+          37.8079602
+        ],
+        [
+          -122.1991774,
+          37.8079729
+        ],
+        [
+          -122.1991797,
+          37.807952
+        ],
+        [
+          -122.1992202,
+          37.8079548
+        ],
+        [
+          -122.1992193,
+          37.8079626
+        ],
+        [
+          -122.1992549,
+          37.8079651
+        ],
+        [
+          -122.199258,
+          37.807937
+        ],
+        [
+          -122.199249,
+          37.8079364
+        ],
+        [
+          -122.1992533,
+          37.807898
+        ],
+        [
+          -122.1994099,
+          37.8079089
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 52391545,
+    "version": 10,
+    "timestamp": "2024-11-02T23:10:32Z",
+    "url": "https://www.openstreetmap.org/way/52391545"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 894014038,
+      "version": 1,
+      "timestamp": "2021-01-10T19:36:41Z",
+      "url": "https://www.openstreetmap.org/way/894014038"
+    },
+    {
+      "type": "way",
+      "id": 894014037,
+      "version": 2,
+      "timestamp": "2023-09-12T05:20:24Z",
+      "url": "https://www.openstreetmap.org/way/894014037"
+    }
+  ],
+  "wikidata": "Q1541513",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Mormon Temple, Oakland.jpg",
+      "author": "USGS photographer",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Mormon_Temple,_Oakland.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Mormon_Temple,_Oakland.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Oaklandfront.JPG",
+      "author": "Hurling7 at English Wikipedia",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Oaklandfront.JPG",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Oaklandfront.JPG",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Main Tower, Oakland California Temple 1.jpg",
+      "author": "Hurling7 at English Wikipedia",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Main_Tower,_Oakland_California_Temple_1.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Main_Tower,_Oakland_California_Temple_1.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Mormontemplet i Oakland.jpg",
+      "author": "Johan Jönsson (Julle)",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Mormontemplet_i_Oakland.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Oakland LDS temple2.jpg",
+      "author": "Calibas",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Oakland_LDS_temple2.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Oakland Mormon Temple.jpg",
+      "author": "Calibas",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Oakland_Mormon_Temple.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Oakland_Mormon_Temple.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/sf-oakland-temple.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Oakland California Temple — original procedural geometry, CC0-1.0. bun generators/sf-oakland-temple.ts",
+    "Frame: built square to the temple, BEARING 5 (its walls run 5° clockwise of the compass points). x east-ish (+x = east wing), y north-ish (+y = the front, over the cascade and Temple Hill's gardens), z up, metres. Origin = the centre of the central tower (lidar), the temple's centre of symmetry, 0.7 m south-east of OSM's anchor point.",
+    "Evidence",
+    "OSM way/52391545 (the temple, building:part, 3 levels): a cross-shaped plan, an east-west bar 57 x 16 m through a central block 29 x 24 m with middle projections to ±16.7 and square towers at its four corners; way/894014038 (part, height 52) the central tower; way/894014037 (the two-level podium the temple stands on, 64 x 48 m plus its forecourt and, to the north, the two wings flanking the cascade, ways 52391546/7, which this model leaves to the map).",
+    "USGS 3DEP lidar (CA_AlamedaCo_2_2021) at 0.5 m in this frame (/tmp/city/sf/work/sf-oakland-temple). y = 0 is 202.1 m NAVD88, the ground round the podium (flat to ±0.4 m; the hill falls away beyond it to the east, west and south). Measured above it: the podium deck 6.7 (±33 m, y -27..+24, the forecourt to +30); the wings' roofs 15.5; the central block's roof 16.6 (parapet 16.9); the corner towers 4 m square to 21.6, their spires' tips ~29; the central tower's plinth 16 m square to 19.5, its main stage 12 m square to 29.1, then 8 m to 33.3 and 5.8 m to ~36.3; its spire's tip 51.",
+    "Published (Wikipedia; the Church's temple pages): dedicated 1964, architect Harold W. Burton; reinforced concrete faced with Sierra white granite; five spires of gold-anodised open latticework, the central one 170 ft (52 m); on a terrace on Temple Hill above the Bay.",
+    "Commons daylight photos: \"Mormon Temple, Oakland.jpg\" (USGS, public domain, the north front over the cascade), \"Oaklandfront.JPG\" (Hurling7, public domain, the front), \"Main Tower, Oakland California Temple 1.jpg\" (Hurling7, public domain, the stepped tower and a corner tower close up), \"Mormontemplet i Oakland.jpg\" (Johan Jönsson, CC BY-SA 4.0, the front on axis), \"Oakland LDS temple2.jpg\" and \"Oakland Mormon Temple.jpg\" (Calibas, CC BY-SA 4.0 / public domain, from the hills: plan, wings, podium).",
+    "Estimated: the stepped corners of the tower's main stage and of the corner towers (1 m), the spires' bases, the corner spires' tips (30.5, the lidar misses a slender tip), the shallow pilasters on the wings, the podium's ground-storey window band, the north front's relief panel. The latticework is drawn as solid gold faces. South and north fronts are drawn alike.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"sf-oakland-temple\", model \"sf-oakland-temple\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/sf-oakland-temple.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

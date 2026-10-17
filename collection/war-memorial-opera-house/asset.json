@@ -1,0 +1,516 @@
+{
+  "id": "war-memorial-opera-house",
+  "name": "War Memorial Opera House",
+  "anchor": [
+    -122.4209046,
+    37.7785751
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 111112,
+      "sha256": "2c8bc3574e6f541a41d7eb59e778e74949731bd4e9bf590d995add053248a065"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 111112,
+      "sha256": "2c8bc3574e6f541a41d7eb59e778e74949731bd4e9bf590d995add053248a065"
+    }
+  },
+  "triangles": 2356,
+  "boundsBlenderM": [
+    [
+      -56.939,
+      -39.254,
+      0
+    ],
+    [
+      54.663,
+      43.346,
+      46.4
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -122.4205115,
+          37.7789543
+        ],
+        [
+          -122.4205289,
+          37.7789528
+        ],
+        [
+          -122.4205293,
+          37.7789561
+        ],
+        [
+          -122.4206562,
+          37.7789414
+        ],
+        [
+          -122.4206553,
+          37.7789363
+        ],
+        [
+          -122.4206734,
+          37.7789344
+        ],
+        [
+          -122.4206737,
+          37.7789291
+        ],
+        [
+          -122.4206788,
+          37.7789219
+        ],
+        [
+          -122.4206845,
+          37.7789213
+        ],
+        [
+          -122.4206781,
+          37.7788871
+        ],
+        [
+          -122.4206771,
+          37.7788824
+        ],
+        [
+          -122.4206778,
+          37.7788782
+        ],
+        [
+          -122.4206802,
+          37.7788736
+        ],
+        [
+          -122.4206834,
+          37.77887
+        ],
+        [
+          -122.420688,
+          37.7788669
+        ],
+        [
+          -122.420693,
+          37.7788649
+        ],
+        [
+          -122.420705,
+          37.7788641
+        ],
+        [
+          -122.4207046,
+          37.7788569
+        ],
+        [
+          -122.4213295,
+          37.7787784
+        ],
+        [
+          -122.4213286,
+          37.7787733
+        ],
+        [
+          -122.4213425,
+          37.778772
+        ],
+        [
+          -122.4213418,
+          37.7787668
+        ],
+        [
+          -122.421368,
+          37.7787643
+        ],
+        [
+          -122.4213621,
+          37.7787264
+        ],
+        [
+          -122.4213965,
+          37.7787229
+        ],
+        [
+          -122.421398,
+          37.7787306
+        ],
+        [
+          -122.4215605,
+          37.7787119
+        ],
+        [
+          -122.4214723,
+          37.7782825
+        ],
+        [
+          -122.4213799,
+          37.7782918
+        ],
+        [
+          -122.4213004,
+          37.7782999
+        ],
+        [
+          -122.4213011,
+          37.7783092
+        ],
+        [
+          -122.4212766,
+          37.7783108
+        ],
+        [
+          -122.421274,
+          37.7782788
+        ],
+        [
+          -122.4212346,
+          37.7782818
+        ],
+        [
+          -122.4212347,
+          37.7782786
+        ],
+        [
+          -122.4206033,
+          37.7783572
+        ],
+        [
+          -122.4206013,
+          37.7783501
+        ],
+        [
+          -122.4205895,
+          37.7783507
+        ],
+        [
+          -122.4205776,
+          37.778348
+        ],
+        [
+          -122.420571,
+          37.778343
+        ],
+        [
+          -122.4205665,
+          37.7783362
+        ],
+        [
+          -122.4205612,
+          37.7783039
+        ],
+        [
+          -122.4205541,
+          37.7783046
+        ],
+        [
+          -122.420544,
+          37.7782991
+        ],
+        [
+          -122.4205437,
+          37.7782941
+        ],
+        [
+          -122.4205263,
+          37.7782955
+        ],
+        [
+          -122.4205259,
+          37.7782916
+        ],
+        [
+          -122.4204991,
+          37.7782929
+        ],
+        [
+          -122.4204987,
+          37.7782902
+        ],
+        [
+          -122.4204242,
+          37.7782991
+        ],
+        [
+          -122.4204248,
+          37.7783019
+        ],
+        [
+          -122.4204193,
+          37.7783021
+        ],
+        [
+          -122.4204189,
+          37.7783039
+        ],
+        [
+          -122.4204024,
+          37.7783053
+        ],
+        [
+          -122.4204027,
+          37.7783081
+        ],
+        [
+          -122.4203987,
+          37.7783081
+        ],
+        [
+          -122.4203986,
+          37.7783118
+        ],
+        [
+          -122.4203823,
+          37.7783129
+        ],
+        [
+          -122.4203828,
+          37.7783188
+        ],
+        [
+          -122.4203748,
+          37.7783272
+        ],
+        [
+          -122.4203696,
+          37.7783273
+        ],
+        [
+          -122.4203752,
+          37.7783637
+        ],
+        [
+          -122.4203751,
+          37.7783673
+        ],
+        [
+          -122.4203739,
+          37.7783708
+        ],
+        [
+          -122.4203725,
+          37.7783738
+        ],
+        [
+          -122.4203693,
+          37.7783763
+        ],
+        [
+          -122.420365,
+          37.7783789
+        ],
+        [
+          -122.4203601,
+          37.7783808
+        ],
+        [
+          -122.4203552,
+          37.7783816
+        ],
+        [
+          -122.4203503,
+          37.7783818
+        ],
+        [
+          -122.4203503,
+          37.7783898
+        ],
+        [
+          -122.4203375,
+          37.7783908
+        ],
+        [
+          -122.4203396,
+          37.77841
+        ],
+        [
+          -122.4203222,
+          37.7784126
+        ],
+        [
+          -122.4203249,
+          37.778426
+        ],
+        [
+          -122.4203087,
+          37.7784275
+        ],
+        [
+          -122.4203527,
+          37.7786463
+        ],
+        [
+          -122.4203975,
+          37.7788627
+        ],
+        [
+          -122.4204137,
+          37.7788609
+        ],
+        [
+          -122.420416,
+          37.7788741
+        ],
+        [
+          -122.4204346,
+          37.7788722
+        ],
+        [
+          -122.4204365,
+          37.7788921
+        ],
+        [
+          -122.4204476,
+          37.7788922
+        ],
+        [
+          -122.4204478,
+          37.7788941
+        ],
+        [
+          -122.4204539,
+          37.7788939
+        ],
+        [
+          -122.4204541,
+          37.7788965
+        ],
+        [
+          -122.4204628,
+          37.7788959
+        ],
+        [
+          -122.4204713,
+          37.7788961
+        ],
+        [
+          -122.4204764,
+          37.7788969
+        ],
+        [
+          -122.4204816,
+          37.7789
+        ],
+        [
+          -122.4204864,
+          37.7789061
+        ],
+        [
+          -122.4204869,
+          37.7789093
+        ],
+        [
+          -122.4204928,
+          37.7789437
+        ],
+        [
+          -122.4205015,
+          37.7789433
+        ],
+        [
+          -122.4205105,
+          37.7789486
+        ],
+        [
+          -122.4205115,
+          37.7789543
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 32865161,
+    "version": 24,
+    "timestamp": "2026-07-15T05:22:43Z",
+    "url": "https://www.openstreetmap.org/way/32865161"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q2915772",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:War Memorial Opera House (San Francisco).JPG",
+      "author": "Sanfranman59",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:War_Memorial_Opera_House_(San_Francisco).JPG",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:San Francisco Opera House, July 2015.jpg",
+      "author": "Chris06",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:San_Francisco_Opera_House,_July_2015.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:War Memorial Opera House side.jpg",
+      "author": "Photo: Andreas Praefcke",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:War_Memorial_Opera_House_side.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Aerial view of the Beaux Arts Civic Center of SF.jpg",
+      "author": "Dllu",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_the_Beaux_Arts_Civic_Center_of_SF.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:San Francisco City Hall, War Memorial Opera House, War Memorial Veterans Building.jpg",
+      "author": "Yair-haklai",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:San_Francisco_City_Hall,_War_Memorial_Opera_House,_War_Memorial_Veterans_Building.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/sf-opera-house.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "War Memorial Opera House, San Francisco — original procedural geometry, CC0-1.0. bun generators/sf-opera-house.ts",
+    "Also the shared kit for its near-twin, generators/sf-veterans-building.ts, which imports `warMemorial()` and the solids below, so the two stay consistent.",
+    "Frame: built turned to the street grid, BEARING 350.7 (Van Ness Avenue runs 9.3° west of north). x across the block (+x = the Van Ness front, east), y along it (+y north), z up, metres. Origin = area centroid of the OSM outline way/32865161. The building is drawn symmetric about y = VC, its measured centre line. y = 0 is the lowest ground the building touches (the Grove Street drive on the south side, 19.2 m NAVD88); Van Ness and the court are ~1.3 m higher, and the walls run down to y = 0 all round.",
+    "Evidence",
+    "OSM way/32865161 (civic, height 44, no building:parts).",
+    "USGS 3DEP lidar (CA_SanFrancisco_1_B23, 2023) at 1 m, sampled in the turned frame (/tmp/city/sf/work/sf-opera-house): the plan sits 1.5 m east and 1.5 m south of the OSM outline, and the lidar wins. Measured: colonnade front x = 50.9, its cornice 20.3 and ledge 21.6; attic 24.3; the mansard rising ~6.5 m inward to a flat roof at 31; side walls |y| = 28.8 with the same cornice and attic; corner pavilions to |y| = 37.2 between x = 25.5 and 43.5, joined to the colonnade by concave quadrant walls, their hipped caps peaking at 30; the stage block behind (x -53.5..-36, |y| 24.5) with the same mansard; the fly tower x -31.5..-6.5, |y| 21.9, cornice 40.2-41.5, its hipped roof to a flat top at 46.4 (a ridge reads 47.9); the Grove Street porte-cochère canopy 6 m up, 5 m deep.",
+    "Published (Wikipedia, NRHP Civic Center district): 1932, Arthur Brown Jr. with G. Albert Lansburgh; granite and terra cotta; Doric colonnade on a rusticated arcaded base.",
+    "Photos (Wikimedia Commons): \"War Memorial Opera House (San Francisco).JPG\" (Sanfranman59, CC BY-SA 3.0, the Van Ness front square on: 8 column pairs, 7 arches); \"San Francisco Opera House, July 2015.jpg\" (Chris06, CC BY-SA 4.0, the colonnade from the north-east); \"War Memorial Opera House side.jpg\" (Andreas Praefcke, CC BY 3.0, the south side, pavilion, fly tower); \"OPERA HOUSE, CORNER VIEW ... HABS CAL,38-SANFRA,71-B-1\" (HABS, public domain, from the south-east, the concave corners and the separate pavilion hips); \"Aerial view of the Beaux Arts Civic Center of SF.jpg\" (Dllu, CC BY-SA 4.0, from above the south-east: the roofs, the side arcades of arched windows over a ground arcade, the attic windows); \"San Francisco City Hall, War Memorial Opera House, War Memorial Veterans Building.jpg\" (Yair Haklai, CC BY-SA 4.0, the court sides).",
+    "Estimated from the photos: the storey lines of the front (base and balustrade to 10.4, columns to 18.8, from the photo's column-to-base ratio), the column size (1.4 m) and pair spacing (6.55 m), the arches (3 m wide), the side arcade (ten tall arched windows over ten ground arches on the main body, three on the stage block), the attic windows, the pavilion niches, and the rear (west) face, which no photo shows: drawn as three rows of plain windows. The fly tower's blind panels are drawn as pilaster strips. Colours: granite as City Hall's (sf-city-hall.ts), the mansard grey-green metal from the photos.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"sf-opera-house\", model \"sf-opera-house\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/sf-opera-house.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 26 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the sf-opera-house-glazing finish in the window colour."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

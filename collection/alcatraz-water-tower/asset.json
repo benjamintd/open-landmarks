@@ -1,0 +1,214 @@
+{
+  "id": "alcatraz-water-tower",
+  "name": "Alcatraz Water Tower",
+  "anchor": [
+    -122.4239316,
+    37.8275728
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 46260,
+      "sha256": "2ac2d3705e1af7ffcb43f7472004b28ec7f0b8f9dd8d3f4c22f9276bb83eee12"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 46260,
+      "sha256": "2ac2d3705e1af7ffcb43f7472004b28ec7f0b8f9dd8d3f4c22f9276bb83eee12"
+    }
+  },
+  "triangles": 1178,
+  "boundsBlenderM": [
+    [
+      -8.002,
+      -8.002,
+      0
+    ],
+    [
+      8.002,
+      8.002,
+      31.6
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -122.4239951,
+          37.8276063
+        ],
+        [
+          -122.4239787,
+          37.8276204
+        ],
+        [
+          -122.4239599,
+          37.8276289
+        ],
+        [
+          -122.4239371,
+          37.8276331
+        ],
+        [
+          -122.4239153,
+          37.8276318
+        ],
+        [
+          -122.4238933,
+          37.8276251
+        ],
+        [
+          -122.4238766,
+          37.8276148
+        ],
+        [
+          -122.4238644,
+          37.8276015
+        ],
+        [
+          -122.4238571,
+          37.8275865
+        ],
+        [
+          -122.4238556,
+          37.8275667
+        ],
+        [
+          -122.4238612,
+          37.8275492
+        ],
+        [
+          -122.4238713,
+          37.8275358
+        ],
+        [
+          -122.4238886,
+          37.8275229
+        ],
+        [
+          -122.4239077,
+          37.8275154
+        ],
+        [
+          -122.4239287,
+          37.8275125
+        ],
+        [
+          -122.423951,
+          37.8275144
+        ],
+        [
+          -122.4239705,
+          37.8275209
+        ],
+        [
+          -122.4239868,
+          37.827531
+        ],
+        [
+          -122.4239984,
+          37.8275435
+        ],
+        [
+          -122.4240053,
+          37.8275571
+        ],
+        [
+          -122.4240081,
+          37.8275732
+        ],
+        [
+          -122.4240043,
+          37.8275914
+        ],
+        [
+          -122.4239951,
+          37.8276063
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 660870452,
+    "version": 2,
+    "timestamp": "2020-02-03T21:34:55Z",
+    "url": "https://www.openstreetmap.org/way/660870452"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q1142684",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:San Francisco (CA, USA), Alcatraz, Water Tower -- 2022 -- 3106.jpg",
+      "author": "Dietmar Rabich",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:San_Francisco_(CA,_USA),_Alcatraz,_Water_Tower_--_2022_--_3106.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Water tower at Alcatraz prison, with Native American graffiti.jpg",
+      "author": "Pnw4077",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Water_tower_at_Alcatraz_prison,_with_Native_American_graffiti.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Alcatraz Island viewed from the north.jpg",
+      "author": "RL0919",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Alcatraz_Island_viewed_from_the_north.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Alcatraz Island, helicopter view.jpg",
+      "author": "Kitchen from San Francisco",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Alcatraz_Island,_helicopter_view.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/sf-alcatraz-water-tower.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Alcatraz water tower, San Francisco — original procedural geometry, CC0-1.0. bun generators/sf-alcatraz-water-tower.ts",
+    "Map frame: x east, y north, z up, metres, bearing 0. Origin = centroid of the OSM outline way/660870452 (the tank's circle).",
+    "Evidence",
+    "OSM way/660870452: a circle of r ~6.7 m, no height. OSM on Alcatraz sits 10-14 m west of the 2023 lidar (and agrees with NAIP), consistently for every feature; the model keeps OSM's position so it lines up with the map's paths, and takes every dimension from the lidar.",
+    "USGS 3DEP lidar (CA_SanFrancisco_1_B23, 2023) at 0.25 m: the tank roof's eave at r 6.5-7.0 m sits 28.5 m above the pad (30.0 m NAVD88, y = 0), the roof cone rises to 31.0 m, a vent cap to 31.6 m. Six legs show past the tank's shadow at r ~7.5 m, bearings -15, 45, 105, 165, 225 and 285°.",
+    "Published (Wikipedia \"Alcatraz water tower\"): built 1940-41, 94 ft (29 m), 250,000 US gal, six cross-braced steel legs on concrete footings; restored and repainted 2012.",
+    "Commons daylight photos: \"San Francisco (CA, USA), Alcatraz, Water Tower -- 2022 -- 3106.jpg\" and \"... -- 3136.jpg\" (Dietmar Rabich, CC BY-SA 4.0: legs, two tiers of X bracing, the catwalk, the round-bottomed bowl, the overhanging roof lip), \"Water tower at Alcatraz prison, with Native American graffiti.jpg\" (Pnw4077, CC BY-SA 4.0), \"Alcatraz Island viewed from the north.jpg\" (RL0919, CC BY-SA 4.0), \"Alcatraz Island, helicopter view.jpg\" (Kitchen, CC BY 2.0).",
+    "Estimated: the cylinder (r 6.2 m, 5.4 m tall) and bowl (4.3 m deep), from the photos' proportions and the published volume (~950 m3 checks out); the legs' batter (r 8.0 m at the ground to 6.1 m under the catwalk at 23 m); the strut ring at 12 m, all scaled off a level view from the north; member sizes, thickened so they read at phone size. The roof cone is rust-brown, as the aerials show it, pulled to the palette's lightness; the legs and bracing are a shade darker than the tank so the frame reads. The red graffiti is lettering and is left out; the railings are too thin to draw.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"sf-alcatraz-water-tower\", model \"sf-alcatraz-water-tower\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/sf-alcatraz-water-tower.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

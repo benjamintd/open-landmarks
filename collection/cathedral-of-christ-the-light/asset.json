@@ -1,0 +1,308 @@
+{
+  "id": "cathedral-of-christ-the-light",
+  "name": "Cathedral of Christ the Light",
+  "anchor": [
+    -122.263119,
+    37.81056
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 87576,
+      "sha256": "9c934acd95228f0eaf1faab6d36e0343020f387825211daa82f9529fc0f87eaf"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 87576,
+      "sha256": "9c934acd95228f0eaf1faab6d36e0343020f387825211daa82f9529fc0f87eaf"
+    }
+  },
+  "triangles": 1690,
+  "boundsBlenderM": [
+    [
+      -23.367,
+      -38.634,
+      0
+    ],
+    [
+      25.307,
+      29.647,
+      43.95
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -122.2632855,
+          37.8108133
+        ],
+        [
+          -122.2633442,
+          37.8107773
+        ],
+        [
+          -122.2633517,
+          37.8107683
+        ],
+        [
+          -122.2633807,
+          37.8107335
+        ],
+        [
+          -122.2633978,
+          37.8106657
+        ],
+        [
+          -122.2633978,
+          37.8105911
+        ],
+        [
+          -122.2633807,
+          37.8105368
+        ],
+        [
+          -122.2633635,
+          37.8104826
+        ],
+        [
+          -122.2633206,
+          37.8104216
+        ],
+        [
+          -122.2632577,
+          37.8103634
+        ],
+        [
+          -122.2632072,
+          37.8103307
+        ],
+        [
+          -122.2631504,
+          37.8103039
+        ],
+        [
+          -122.263119,
+          37.8102965
+        ],
+        [
+          -122.263091,
+          37.810293
+        ],
+        [
+          -122.2631267,
+          37.8102162
+        ],
+        [
+          -122.2630795,
+          37.81021
+        ],
+        [
+          -122.262991,
+          37.8102153
+        ],
+        [
+          -122.2629533,
+          37.8102259
+        ],
+        [
+          -122.2629108,
+          37.8102488
+        ],
+        [
+          -122.2628672,
+          37.810278
+        ],
+        [
+          -122.2628504,
+          37.810301
+        ],
+        [
+          -122.262927,
+          37.8103388
+        ],
+        [
+          -122.2629175,
+          37.8103463
+        ],
+        [
+          -122.2628833,
+          37.8103939
+        ],
+        [
+          -122.262867,
+          37.8104685
+        ],
+        [
+          -122.2628687,
+          37.8105393
+        ],
+        [
+          -122.2628915,
+          37.81061
+        ],
+        [
+          -122.262942,
+          37.8106834
+        ],
+        [
+          -122.2630071,
+          37.8107438
+        ],
+        [
+          -122.2630836,
+          37.8107889
+        ],
+        [
+          -122.2631585,
+          37.810821
+        ],
+        [
+          -122.2632237,
+          37.8108274
+        ],
+        [
+          -122.2632855,
+          37.8108133
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 26720620,
+    "version": 16,
+    "timestamp": "2026-07-09T05:09:22Z",
+    "url": "https://www.openstreetmap.org/way/26720620"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 782773169,
+      "version": 3,
+      "timestamp": "2026-07-09T05:09:22Z",
+      "url": "https://www.openstreetmap.org/way/782773169"
+    },
+    {
+      "type": "way",
+      "id": 782773173,
+      "version": 2,
+      "timestamp": "2024-01-19T21:55:50Z",
+      "url": "https://www.openstreetmap.org/way/782773173"
+    },
+    {
+      "type": "way",
+      "id": 782773174,
+      "version": 1,
+      "timestamp": "2020-03-19T18:29:44Z",
+      "url": "https://www.openstreetmap.org/way/782773174"
+    },
+    {
+      "type": "way",
+      "id": 782773175,
+      "version": 2,
+      "timestamp": "2024-01-19T21:55:50Z",
+      "url": "https://www.openstreetmap.org/way/782773175"
+    }
+  ],
+  "wikidata": "Q722744",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Oak Cathdrl 1.jpg",
+      "author": "Skier Dude",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Oak_Cathdrl_1.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Oak Cathdrl 2.jpg",
+      "author": "Skier Dude",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Oak_Cathdrl_2.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:The Cathedral of Christ the Light - Flickr - Joe Parks.jpg",
+      "author": "Joe Parks from Berkeley, CA",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:The_Cathedral_of_Christ_the_Light_-_Flickr_-_Joe_Parks.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Cathedral of Christ the Light and Health Net HQ in Oakland.jpg",
+      "author": "John Martinez Pavliga",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Cathedral_of_Christ_the_Light_and_Health_Net_HQ_in_Oakland.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Catedral de Oakland (4734075798).jpg",
+      "author": "Eneas De Troya from Mexico City, México",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Catedral_de_Oakland_(4734075798).jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:The Cathedral of Christ the Light 2724.JPG",
+      "author": "Pedro Xing",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:The_Cathedral_of_Christ_the_Light_2724.JPG",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Cathedral on Lake Merritt.jpg",
+      "author": "Poshotenk",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Cathedral_on_Lake_Merritt.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/sf-christ-the-light.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Cathedral of Christ the Light, Oakland — original procedural geometry, CC0-1.0. bun generators/sf-christ-the-light.ts",
+    "Frame: built along the nave, BEARING 356. x across it (+x = east-north- east, Harrison Street), y along it (+y = north-north-west, the Alpha window over Grand Avenue and the lake), z up, metres. Origin = the plan's centre of symmetry (lidar), 6.7 m north of OSM's anchor point. The plan has a half-turn symmetry, not a mirror: each shell's arc bulges toward the far end of the other, and every part below is drawn for one shell and turned half a turn for the other.",
+    "Evidence",
+    "OSM way/26720620 (the cathedral, height 41) and its parts way/782773169 (the glass shells, building:material glass, height 41), 782773174 (the north base, 1 level), 782773173 and 782773175 (the south base and the entrance canopy, 1 level). Relation/10864077 is the whole complex (plaza, conference centre, chancery, parking) and is left to the map. OSM's outline sits about 1.6 m west of the lidar; the lidar is used.",
+    "USGS 3DEP lidar (CA_AlamedaCo_2_2021) at 0.5 m in this frame (/tmp/city/sf/work/sf-christ-the-light). y = 0 is 5.6 m NAVD88, the ground at the north tip on Grand Avenue; the plaza round the cathedral is 2.55 m higher (8.15). Measured above the plaza: the two shells rise from the base arcs (west from (-17, 24) out to (-22.6, 4) and round to (0, -29); the east the same turned) and lean in, slightly convex, to top arcs 32 m across and 47 m long; the glass ends at 36, the fins along it reach 41.4; the roof inside sits at 33-36; at each end the shells' tops meet in a V whose foot, the apex of the end window, is at ~30; the north base and the south base and canopy are 4.4-5.2 high.",
+    "Published (Wikipedia; SOM): 2008, Craig W. Hartman of Skidmore, Owings & Merrill; a vesica-shaped plan; a glulam timber frame inside a skin of fritted glass louvres; the Omega window over the altar and the Alpha window at the north end; a concrete \"reliquary\" base; 41 m.",
+    "Commons daylight photos: \"Oak Cathdrl 1.jpg\" and \"Oak Cathdrl 2.jpg\" (Skier Dude, CC BY-SA 3.0, the Grand Avenue end: the two shells, the V at the top, the pointed-arch window with its frame and fold, the timber behind clear glass beside it, the fins, the base and steps), \"The Cathedral of Christ the Light - Flickr - Joe Parks.jpg\" (CC BY 2.0, from Lake Merritt), \"Cathedral of Christ the Light and Health Net HQ in Oakland.jpg\" (John Martinez Pavliga, CC BY 2.0), \"Catedral de Oakland (4734075798).jpg\" (Eneas De Troya, CC BY 2.0, the entrance end and its canopy), \"The Cathedral of Christ the Light 2724.JPG\" (Pedro Xing, CC0, the north end head-on), \"Cathedral on Lake Merritt.jpg\" (Poshotenk, CC BY-SA 4.0). Interior photos by Carol M. Highsmith (public domain) for the timber ribs and the Omega window.",
+    "Contrary to the brief, the shells lean in, not out: the lidar's slopes and every photo show a footprint wider than the top.",
+    "Estimated: the shells' convex profile (fitted to three lidar heights), the end windows' outline (an equilateral pointed arch from the shells' edges to the V), their frame, the fold up the middle, the fins' spacing and thickness (drawn thicker and fewer than the real rods so they read), the concrete plinth's height on the long sides, the entrance doors. The south end is drawn as the north turned, apart from its canopy.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"sf-christ-the-light\", model \"sf-christ-the-light\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/sf-christ-the-light.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

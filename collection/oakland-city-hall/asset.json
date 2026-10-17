@@ -1,0 +1,231 @@
+{
+  "id": "oakland-city-hall",
+  "name": "Oakland City Hall",
+  "anchor": [
+    -122.2725829,
+    37.8053134
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 191808,
+      "sha256": "837a4b0f7c2489ce7273db0deafb41b19636cba948245f70e3ca990bfab13f03"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 191808,
+      "sha256": "837a4b0f7c2489ce7273db0deafb41b19636cba948245f70e3ca990bfab13f03"
+    }
+  },
+  "triangles": 3962,
+  "boundsBlenderM": [
+    [
+      -30.434,
+      -37.603,
+      0
+    ],
+    [
+      34.013,
+      35.818,
+      99.6
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -122.2726209,
+          37.80562
+        ],
+        [
+          -122.272605,
+          37.8056138
+        ],
+        [
+          -122.2724431,
+          37.8055502
+        ],
+        [
+          -122.272393,
+          37.8055305
+        ],
+        [
+          -122.2722352,
+          37.8054686
+        ],
+        [
+          -122.2722101,
+          37.8054587
+        ],
+        [
+          -122.2723019,
+          37.8053028
+        ],
+        [
+          -122.2724087,
+          37.8051415
+        ],
+        [
+          -122.2725048,
+          37.8049911
+        ],
+        [
+          -122.2729259,
+          37.8051564
+        ],
+        [
+          -122.2728329,
+          37.8053044
+        ],
+        [
+          -122.2729082,
+          37.8053344
+        ],
+        [
+          -122.2727874,
+          37.8055242
+        ],
+        [
+          -122.2727076,
+          37.8054925
+        ],
+        [
+          -122.2726209,
+          37.80562
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 36977855,
+    "version": 16,
+    "timestamp": "2024-06-13T17:14:26Z",
+    "url": "https://www.openstreetmap.org/way/36977855"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 425117755,
+      "version": 6,
+      "timestamp": "2023-02-23T04:11:39Z",
+      "url": "https://www.openstreetmap.org/way/425117755"
+    },
+    {
+      "type": "way",
+      "id": 430610784,
+      "version": 3,
+      "timestamp": "2020-03-18T21:11:38Z",
+      "url": "https://www.openstreetmap.org/way/430610784"
+    },
+    {
+      "type": "way",
+      "id": 782510576,
+      "version": 2,
+      "timestamp": "2023-02-23T04:11:39Z",
+      "url": "https://www.openstreetmap.org/way/782510576"
+    },
+    {
+      "type": "way",
+      "id": 782510578,
+      "version": 3,
+      "timestamp": "2024-06-13T17:14:26Z",
+      "url": "https://www.openstreetmap.org/way/782510578"
+    },
+    {
+      "type": "way",
+      "id": 782510579,
+      "version": 2,
+      "timestamp": "2023-02-23T04:11:39Z",
+      "url": "https://www.openstreetmap.org/way/782510579"
+    },
+    {
+      "type": "way",
+      "id": 782510580,
+      "version": 2,
+      "timestamp": "2023-02-23T04:11:39Z",
+      "url": "https://www.openstreetmap.org/way/782510580"
+    },
+    {
+      "type": "way",
+      "id": 782510581,
+      "version": 2,
+      "timestamp": "2023-02-23T04:11:39Z",
+      "url": "https://www.openstreetmap.org/way/782510581"
+    },
+    {
+      "type": "way",
+      "id": 782510582,
+      "version": 2,
+      "timestamp": "2023-02-23T04:11:39Z",
+      "url": "https://www.openstreetmap.org/way/782510582"
+    }
+  ],
+  "wikidata": "Q932794",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Oakland City Hall (Oakland, CA) 2.JPG",
+      "author": "Sanfranman59",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Oakland_City_Hall_(Oakland,_CA)_2.JPG",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Oakland City Hall.jpg",
+      "author": "Daniel Ramirez from Oakland, USA",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Oakland_City_Hall.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Oakland City Hall 1917.jpg",
+      "author": "Oakland Chamber of Commerce, Publicity Bureau",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Oakland_City_Hall_1917.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Oakland_City_Hall_1917.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/sf-oakland-city-hall.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Oakland City Hall, Oakland — original procedural geometry, CC0-1.0. bun generators/sf-oakland-city-hall.ts",
+    "Frame: built turned to the block, BEARING 26.5 (Washington Street runs 26.5° east of north). x across the block (+x = east-south-east, the front on Frank H. Ogawa Plaza), y along it (+y = north-north-east, 15th Street), z up, metres. Origin = the area centroid of the OSM outline way/36977855.",
+    "Evidence",
+    "OSM way/36977855 (outline, 18 levels, 98 m) and its parts way/782510578, 782510579, 782510581, 782510582 (the podium, 13-16 m), 782510576 (14 levels, 82 m), 425117755 (16 levels, 90 m), 430610784 and 782510580 (the cupola, 98 m). The outline is roughly right; the parts' heights are not.",
+    "USGS 3DEP lidar (CA_AlamedaCo_2_2021) at 0.5 m in the turned frame (/tmp/city/sf/work/oak/frame.py). y = 0 is the lowest ground under the footprint, 12.5 m NAVD88 (the plaza side reaches 13.6). Measured above it: the three-storey podium, 40 x 60 m, roof 16.3 and its cresting 18; a cross block 51 x 22 m through it to 24 m, whose front (with the lunette, over the portico) stands 3.5 m proud of the podium; the office tower 26.6 x 37 m (x -10.3..16.3, y -18..19), roof 64.6 and cornice 65.8; the crown's first stage 14 x 23 m to 72.2 (balustrade 73.3); the second 14.4 m square to 80.5; the arched lantern stage 10 m square to 89.5; a small dome, r 4.5, to ~98, and the lantern's tip 99.5.",
+    "Published (Wikipedia; NRHP; Oakland Landmark): 1914, Palmer & Hornbostel, beaux-arts \"wedding cake\"; 320 ft (98 m), the first high-rise city hall in the United States; granite base, white terracotta above.",
+    "Commons daylight photos: \"Oakland City Hall (Oakland, CA) 2.JPG\" (Sanfranman59, CC BY-SA 3.0, the plaza front: portico, lunette, seven bays on the front and five on the side, arched top storey, the crown's stages); \"Oakland City Hall.jpg\" (Daniel Ramirez, CC BY 2.0, the front); \"Oakland City Hall-2/-4/-6/-8.jpg\" (Almonroth, CC BY-SA 3.0, the crown, lantern and clock, the cornice); \"USA-Oakland-City Hall-1/-2/-Back-1/-3.jpg\" (Eugene Zelenko, CC BY-SA 4.0, the sides and back); \"Oakland City Hall 1917.jpg\" (Oakland Chamber of Commerce, public domain, the whole from the plaza).",
+    "Estimated from the photos: storey heights (a base storey to 26 m, then twelve floors at 2.85 m), windows drawn as one panel per bay per three floors, the top group round-headed, the podium's arched windows (one per ~5 m bay over a ground storey), the portico's two columns between piers, the lunette (r 4.5), the lantern's corner piers and arched openings, the clock dials (r 1.05) above them, the dome's profile (r 3.8, a drum to 91.5 m and a half-ellipse 6 m tall), the urns. The back and the cross block's rear are drawn like the sides; no photo shows them square on.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"sf-oakland-city-hall\", model \"sf-oakland-city-hall\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/sf-oakland-city-hall.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

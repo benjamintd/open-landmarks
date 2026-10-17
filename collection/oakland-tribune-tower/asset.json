@@ -1,0 +1,168 @@
+{
+  "id": "oakland-tribune-tower",
+  "name": "Oakland Tribune Tower",
+  "anchor": [
+    -122.270827,
+    37.803054
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 168392,
+      "sha256": "87d631bf9695a8a2804e08df1edc53b45985f2e01badaf11574641a5abf0e528"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 168392,
+      "sha256": "87d631bf9695a8a2804e08df1edc53b45985f2e01badaf11574641a5abf0e528"
+    }
+  },
+  "triangles": 3278,
+  "boundsBlenderM": [
+    [
+      -21.436,
+      -22.73,
+      0
+    ],
+    [
+      24.745,
+      24.007,
+      119.2
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -122.2708902,
+          37.8032371
+        ],
+        [
+          -122.2709753,
+          37.8031019
+        ],
+        [
+          -122.2710244,
+          37.8030234
+        ],
+        [
+          -122.2710494,
+          37.8029835
+        ],
+        [
+          -122.2707627,
+          37.8028715
+        ],
+        [
+          -122.2706048,
+          37.8031238
+        ],
+        [
+          -122.2707705,
+          37.8031897
+        ],
+        [
+          -122.2708902,
+          37.8032371
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 91760682,
+    "version": 7,
+    "timestamp": "2019-01-05T22:10:21Z",
+    "url": "https://www.openstreetmap.org/way/91760682"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 425060610,
+      "version": 3,
+      "timestamp": "2019-01-05T22:10:22Z",
+      "url": "https://www.openstreetmap.org/way/425060610"
+    },
+    {
+      "type": "way",
+      "id": 660808995,
+      "version": 1,
+      "timestamp": "2019-01-05T22:10:21Z",
+      "url": "https://www.openstreetmap.org/way/660808995"
+    },
+    {
+      "type": "way",
+      "id": 660808996,
+      "version": 1,
+      "timestamp": "2019-01-05T22:10:21Z",
+      "url": "https://www.openstreetmap.org/way/660808996"
+    },
+    {
+      "type": "way",
+      "id": 660808997,
+      "version": 1,
+      "timestamp": "2019-01-05T22:10:21Z",
+      "url": "https://www.openstreetmap.org/way/660808997"
+    }
+  ],
+  "wikidata": "Q7840494",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Oakland tribune tower detail.jpg",
+      "author": "ArielGlenn",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Oakland_tribune_tower_detail.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Oakland, California (June 28, 2019) - old Tribune Tower and new construction.jpg",
+      "author": "Sharon Hahn Darlin",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Oakland,_California_(June_28,_2019)_-_old_Tribune_Tower_and_new_construction.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/sf-oakland-tribune-tower.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Oakland Tribune Tower, Oakland — original procedural geometry, CC0-1.0. bun generators/sf-oakland-tribune-tower.ts",
+    "Frame: built turned to the block, BEARING 26.5 (Franklin Street runs 26.5° east of north). x across the block (+x = east-south-east, towards Webster Street), y along Franklin Street (+y = north-north-east, 13th Street), z up, metres. Origin = the area centroid of the OSM outline way/91760682.",
+    "Evidence",
+    "OSM way/91760682 (outline, 20 levels, 93 m, \"source: bing- approx\"), parts way/425060610 (the tower, 20 levels, 93 m), way/660808996 (6 levels), way/660808997 (8 levels) and way/660808995 (the roof). The outline is 28 x 31 m and sits ~1.5 m east of the lidar; the lidar wins.",
+    "USGS 3DEP lidar (CA_AlamedaCo_2_2021) at 0.5 m in the turned frame (/tmp/city/sf/work/oak/frame.py). y = 0 is the lowest ground under the footprint, 13.0 m NAVD88; the block is flat (13.0-13.45). The tower shaft is 15 x 17.6 m (x -16..-1, y -0.6..17); the balcony with the TRIBUNE signs reaches 1.2 m out and its letters top out at 61.5 m; the arched stage's cornice edge reads 73.7; each face has a central gable peaking at 81 over a balustrade at ~77; the steep copper roof rises to a flat top at 94.5 (5 x 8.5 m); the mast tip reads 119.2. The eight-storey wing south of the tower reaches 38.9 (cornice 35.8); the six-storey Tribune Building 27.2; its L-shaped lower wing on the east and north 22.5-24.",
+    "Published (Wikipedia, Oakland landmark; NRHP Downtown Oakland Historic District): 1923, Edward T. Foulkes; 305 ft (93 m), 20 storeys; the TRIBUNE signs are neon, lit red at night.",
+    "Commons daylight photos: \"USA-Oakland-Tribune Building and Tower-1..20.jpg\" (Eugene Zelenko, CC BY-SA 4.0; -2, -6, -9, -12, -13, -15 used most: the crown from four sides, the shaft, the corbel band, the lower building); \"Oakland tribune tower detail.jpg\" (ArielGlenn, CC BY-SA 3.0, the crown and signs close up); \"Oakland, California (June 28, 2019) - old Tribune Tower and new construction.jpg\" (Sharon Hahn Darlin, CC BY 2.0, from afar).",
+    "Famous-sign exception (STYLE.md): the four TRIBUNE signs carry their lettering, as extruded block letters (a plain sans) standing on the balcony parapet. By day they are cream like the trim, as in the photos.",
+    "Estimated from the photos: storey heights (5.5 m ground storey, then 3.6 m), the window bays (three per face, each a pair of windows, drawn as one panel per bay per two storeys), the corbel band's depth and corbel spacing, the three arched windows per face, the attic's small windows, the clock aedicules (5.8 m wide, dial 3.9 m across), the roof's springing (inset 1.9 m at 77.3 m) and the mast's thickness. The flagpoles and the roof's small dormers are left out. The lower buildings' window rhythm is simplified.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"sf-oakland-tribune-tower\", model \"sf-oakland-tribune-tower\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/sf-oakland-tribune-tower.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}
