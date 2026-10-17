@@ -1,0 +1,353 @@
+{
+  "id": "main-street-u-s-a-station-walt-disney-world",
+  "name": "Main Street, U.S.A. Station",
+  "anchor": [
+    -81.5812004,
+    28.4164917
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 51460,
+      "sha256": "9ba2e02f35e5cc3c89c27f127bb606245da6f30c196175f8981fb63d227fd171"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 51460,
+      "sha256": "9ba2e02f35e5cc3c89c27f127bb606245da6f30c196175f8981fb63d227fd171"
+    }
+  },
+  "triangles": 937,
+  "boundsBlenderM": [
+    [
+      -29.1,
+      -10.3,
+      0
+    ],
+    [
+      29.1,
+      16.12,
+      32.6
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -81.5809077,
+          28.4164024
+        ],
+        [
+          -81.5809628,
+          28.4164022
+        ],
+        [
+          -81.5814378,
+          28.4164027
+        ],
+        [
+          -81.5814933,
+          28.4164027
+        ],
+        [
+          -81.5814933,
+          28.4164091
+        ],
+        [
+          -81.5814932,
+          28.4164504
+        ],
+        [
+          -81.5814926,
+          28.4164824
+        ],
+        [
+          -81.5814761,
+          28.4164821
+        ],
+        [
+          -81.5814416,
+          28.4164816
+        ],
+        [
+          -81.5814421,
+          28.4165204
+        ],
+        [
+          -81.5813764,
+          28.4165211
+        ],
+        [
+          -81.5813653,
+          28.4165207
+        ],
+        [
+          -81.5813053,
+          28.4165204
+        ],
+        [
+          -81.5813054,
+          28.416528
+        ],
+        [
+          -81.5813055,
+          28.4165331
+        ],
+        [
+          -81.5813056,
+          28.4165439
+        ],
+        [
+          -81.5813353,
+          28.4165548
+        ],
+        [
+          -81.5813542,
+          28.4165736
+        ],
+        [
+          -81.5813542,
+          28.4165866
+        ],
+        [
+          -81.5813468,
+          28.4166004
+        ],
+        [
+          -81.5813303,
+          28.4166062
+        ],
+        [
+          -81.5812723,
+          28.4166059
+        ],
+        [
+          -81.5812723,
+          28.4166145
+        ],
+        [
+          -81.5812602,
+          28.4166144
+        ],
+        [
+          -81.5812358,
+          28.4166143
+        ],
+        [
+          -81.5812356,
+          28.4166373
+        ],
+        [
+          -81.5811598,
+          28.4166369
+        ],
+        [
+          -81.5811599,
+          28.4166148
+        ],
+        [
+          -81.5811428,
+          28.4166147
+        ],
+        [
+          -81.5811216,
+          28.4166146
+        ],
+        [
+          -81.5811217,
+          28.4166051
+        ],
+        [
+          -81.5810537,
+          28.4166047
+        ],
+        [
+          -81.5810405,
+          28.4165997
+        ],
+        [
+          -81.5810356,
+          28.4165888
+        ],
+        [
+          -81.5810375,
+          28.4165776
+        ],
+        [
+          -81.5810389,
+          28.4165693
+        ],
+        [
+          -81.5810545,
+          28.4165533
+        ],
+        [
+          -81.5810916,
+          28.4165403
+        ],
+        [
+          -81.5810914,
+          28.4165287
+        ],
+        [
+          -81.5810904,
+          28.4165195
+        ],
+        [
+          -81.5810096,
+          28.4165195
+        ],
+        [
+          -81.5809689,
+          28.4165199
+        ],
+        [
+          -81.5809693,
+          28.4164814
+        ],
+        [
+          -81.5809389,
+          28.4164809
+        ],
+        [
+          -81.5809083,
+          28.4164814
+        ],
+        [
+          -81.5809083,
+          28.4164494
+        ],
+        [
+          -81.5809077,
+          28.4164024
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 296125663,
+    "version": 14,
+    "timestamp": "2025-01-15T22:30:20Z",
+    "url": "https://www.openstreetmap.org/way/296125663"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 1107878401,
+      "version": 1,
+      "timestamp": "2022-10-29T00:46:44Z",
+      "url": "https://www.openstreetmap.org/way/1107878401"
+    },
+    {
+      "type": "way",
+      "id": 1107878402,
+      "version": 1,
+      "timestamp": "2022-10-29T00:46:44Z",
+      "url": "https://www.openstreetmap.org/way/1107878402"
+    },
+    {
+      "type": "way",
+      "id": 1107878403,
+      "version": 1,
+      "timestamp": "2022-10-29T00:46:44Z",
+      "url": "https://www.openstreetmap.org/way/1107878403"
+    },
+    {
+      "type": "way",
+      "id": 1107878404,
+      "version": 1,
+      "timestamp": "2022-10-29T00:46:44Z",
+      "url": "https://www.openstreetmap.org/way/1107878404"
+    },
+    {
+      "type": "way",
+      "id": 1107878405,
+      "version": 1,
+      "timestamp": "2022-10-29T00:46:44Z",
+      "url": "https://www.openstreetmap.org/way/1107878405"
+    },
+    {
+      "type": "way",
+      "id": 1107878406,
+      "version": 1,
+      "timestamp": "2022-10-29T00:46:44Z",
+      "url": "https://www.openstreetmap.org/way/1107878406"
+    },
+    {
+      "type": "way",
+      "id": 1107878407,
+      "version": 1,
+      "timestamp": "2022-10-29T00:46:44Z",
+      "url": "https://www.openstreetmap.org/way/1107878407"
+    },
+    {
+      "type": "way",
+      "id": 1107878408,
+      "version": 1,
+      "timestamp": "2022-10-29T00:46:44Z",
+      "url": "https://www.openstreetmap.org/way/1107878408"
+    },
+    {
+      "type": "way",
+      "id": 1107878409,
+      "version": 1,
+      "timestamp": "2022-10-29T00:46:44Z",
+      "url": "https://www.openstreetmap.org/way/1107878409"
+    },
+    {
+      "type": "way",
+      "id": 1107878410,
+      "version": 1,
+      "timestamp": "2022-10-29T00:46:44Z",
+      "url": "https://www.openstreetmap.org/way/1107878410"
+    },
+    {
+      "type": "way",
+      "id": 1107878411,
+      "version": 1,
+      "timestamp": "2022-10-29T00:46:44Z",
+      "url": "https://www.openstreetmap.org/way/1107878411"
+    }
+  ],
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/wdw-main-street-station.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Main Street, U.S.A. Station (Walt Disney World Railroad), Magic Kingdom — procedural, CC0-1.0. bun generators/wdw-main-street-station.ts",
+    "Map frame: x east, y north, z up, metres. Origin at the area centroid of the OSM outline way/296125663 (-81.5812004, 28.4164917), on the ground of the entrance plaza, which is the lowest ground it touches. Bearing 0: the station's long side runs east–west along the railway berm, facing the park entrance to the south and Town Square to the north.",
+    "A Second Empire station on top of the railway berm: a cream stone base (the berm's retaining wall, pierced by the arcades on the Town Square side), the long platform canopy with its red-brown roof on the south, and above it the station itself — a brick storey under a cream cornice, a sage-green slate mansard with dormers, taller mansard pavilions at each end and the central brick clock tower with its curved mansard clock dome. Black iron cresting crowns the pavilions, the tower and the main roof.",
+    "Evidence: - OSM, measured: the outline and its parts — the station block (way/1107878404, 12 m; wings way/1107878407/8, 8 m), the platform canopy strip on the south (way/1107878403, 6 m) and its ends (way/1107878401/2/5/6), the Town Square side's central projection (way/1107878411, 8 m) and the two curved stair wings (way/1107878409/10, 3 m). - Photos: south front close up (SteamFan, CC BY 2.5), south across the Seven Seas Lagoon with a long lens (Diego Tirira, CC BY-SA 2.0) for the proportions, the south-west with the tunnels (Tom Arthur, CC BY-SA 2.0), the Town Square side (Jackdude101, CC BY-SA 4.0).",
+    "Estimated: every height. OSM's heights (8–12 m) look like they're taken from the berm, not the plaza; the long-lens photo, scaled on the OSM width, gives a berm of ~4.5 m, the cornice at ~11 m, the mansard at ~16.5 m and the clock dome's top at ~25 m. The tower is centred on the block, which OSM's parts suggest but do not show. The Town Square side's glass-roofed veranda is reduced to a plain porch roof.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"wdw-main-street-station\", model \"wdw-main-street-station\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/wdw-main-street-station.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 6 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the wdw-main-street-station-glazing finish in the window colour.",
+    "To fit six materials, folded wdw-main-street-station-station-canopy into wdw-main-street-station-station-brick (ΔE 11.2)."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

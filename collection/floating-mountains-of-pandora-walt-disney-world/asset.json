@@ -1,0 +1,247 @@
+{
+  "id": "floating-mountains-of-pandora-walt-disney-world",
+  "name": "Floating Mountains of Pandora",
+  "anchor": [
+    -81.5919766,
+    28.3554349
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 239084,
+      "sha256": "27268975baff8569c88f44450989ef143cf0799162d092476bdb7f2965547ff6"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 239084,
+      "sha256": "27268975baff8569c88f44450989ef143cf0799162d092476bdb7f2965547ff6"
+    }
+  },
+  "triangles": 5437,
+  "boundsBlenderM": [
+    [
+      -18.659,
+      -28.048,
+      0
+    ],
+    [
+      25.137,
+      39.386,
+      47.1
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -81.5919656,
+          28.3552288
+        ],
+        [
+          -81.5919786,
+          28.3552526
+        ],
+        [
+          -81.5919823,
+          28.3552621
+        ],
+        [
+          -81.5920056,
+          28.355264
+        ],
+        [
+          -81.5920202,
+          28.3552707
+        ],
+        [
+          -81.5920327,
+          28.3552812
+        ],
+        [
+          -81.5920094,
+          28.3552826
+        ],
+        [
+          -81.5919991,
+          28.3552855
+        ],
+        [
+          -81.5919937,
+          28.355295
+        ],
+        [
+          -81.591991,
+          28.3553112
+        ],
+        [
+          -81.5919807,
+          28.3553255
+        ],
+        [
+          -81.5919666,
+          28.3553355
+        ],
+        [
+          -81.5919558,
+          28.3553374
+        ],
+        [
+          -81.591938,
+          28.3553474
+        ],
+        [
+          -81.5919201,
+          28.3553555
+        ],
+        [
+          -81.5919038,
+          28.3553569
+        ],
+        [
+          -81.59188,
+          28.3553522
+        ],
+        [
+          -81.5918654,
+          28.3553479
+        ],
+        [
+          -81.5918513,
+          28.3553369
+        ],
+        [
+          -81.5918264,
+          28.355306
+        ],
+        [
+          -81.5918172,
+          28.3552883
+        ],
+        [
+          -81.5918156,
+          28.3552621
+        ],
+        [
+          -81.5918221,
+          28.3552431
+        ],
+        [
+          -81.5918438,
+          28.3552259
+        ],
+        [
+          -81.5918687,
+          28.3552145
+        ],
+        [
+          -81.5918963,
+          28.3552073
+        ],
+        [
+          -81.5919336,
+          28.3552097
+        ],
+        [
+          -81.5919526,
+          28.3552126
+        ],
+        [
+          -81.5919607,
+          28.3552169
+        ],
+        [
+          -81.5919656,
+          28.3552288
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 668089393,
+    "version": 2,
+    "timestamp": "2022-09-14T15:09:10Z",
+    "url": "https://www.openstreetmap.org/way/668089393"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 668089395,
+      "version": 2,
+      "timestamp": "2022-09-14T15:09:10Z",
+      "url": "https://www.openstreetmap.org/way/668089395"
+    },
+    {
+      "type": "way",
+      "id": 668089396,
+      "version": 2,
+      "timestamp": "2022-09-14T15:09:10Z",
+      "url": "https://www.openstreetmap.org/way/668089396"
+    },
+    {
+      "type": "way",
+      "id": 668089397,
+      "version": 2,
+      "timestamp": "2021-05-31T00:16:50Z",
+      "url": "https://www.openstreetmap.org/way/668089397"
+    },
+    {
+      "type": "way",
+      "id": 668089398,
+      "version": 2,
+      "timestamp": "2022-09-14T15:09:10Z",
+      "url": "https://www.openstreetmap.org/way/668089398"
+    }
+  ],
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Floating Mountain (33858129633).jpg",
+      "author": "Theme Park Tourist",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Floating_Mountain_(33858129633).jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/wdw-pandora-floating-mountains.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "The floating mountains of the Valley of Mo'ara, Pandora – The World of Avatar, Disney's Animal Kingdom — procedural, CC0-1.0. bun generators/wdw-pandora-floating-mountains.ts",
+    "Map frame: x east, y north, z up, metres. Written in a park frame about (-81.5925, 28.3555) and shifted so the origin is the centroid of the five rocks' outlines; the script prints that anchor. Bearing 0.",
+    "Five rock masses hang over the valley: craggy, leaning, faceted blocks, top-heavy with an overhanging brow, a grey-violet keel and a chunk fused on one flank, moss over the tops. They are held up by a tangle of vines that run down at angles in sagging bundles to roots spread round each rock, and swoop from rock to rock in catenaries; three thin waterfalls drop from the brows. Two small rocks float higher, slung on vines of their own.",
+    "Evidence",
+    "OSM (measured): the rocks are the five `building=roof` + `layer=1` blobs in the valley, ways 668089393, 668089395, 668089396, 668089397 and 668089398 (21 × 16 m down to 6 × 5 m), between the Flight of Passage rock ridge (way/668089387, not modelled here) and the Na'vi River pool. Each rock's plan is its outline, smoothed.",
+    "USGS NAIP orthophoto (public domain): each outline sits over a grey-green rock top with vegetation, the valley floor visible between them.",
+    "Photos (Wikimedia Commons; credits in the placement report): \"Floating Mountain (33858129633).jpg\", \"… (34537473301).jpg\", \"… (34667777355).jpg\" (Theme Park Tourist, CC BY 2.0) and the elisfkc set (CC BY-SA 2.0): the top-heavy anvil shape, tan-ochre rock over grey-violet lower strata, moss and plants over the tops, thick twisted vine stalks from the keels to the ground, vines draped between rocks.",
+    "Estimated: every height. The tallest rock tops out about 40 m; the undersides float 11 to 28 m up; no licensed source gives the real figures, so these come from the photos' proportions against people and trees. Where the vines root is invented, placed so each rock reads as held up from three sides.",
+    "Not modelled: the pool and the plants on the valley floor (ground, per STYLE.md), the Flight of Passage ridge.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"wdw-pandora-floating-mountains\", model \"wdw-pandora-floating-mountains\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/wdw-pandora-floating-mountains.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

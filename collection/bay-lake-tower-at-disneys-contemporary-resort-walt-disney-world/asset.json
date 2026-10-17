@@ -1,0 +1,503 @@
+{
+  "id": "bay-lake-tower-at-disneys-contemporary-resort-walt-disney-world",
+  "name": "Bay Lake Tower at Disney's Contemporary Resort",
+  "anchor": [
+    -81.5734315,
+    28.4164359
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 188020,
+      "sha256": "14b4827193741b56fc000d7a56e04950e6ade0ab97cb229962e034d7172cfd1d"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 188020,
+      "sha256": "14b4827193741b56fc000d7a56e04950e6ade0ab97cb229962e034d7172cfd1d"
+    }
+  },
+  "triangles": 3711,
+  "boundsBlenderM": [
+    [
+      -34.057,
+      -59.76,
+      0
+    ],
+    [
+      47.556,
+      56.855,
+      60
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -81.5737781,
+          28.4165302
+        ],
+        [
+          -81.5737616,
+          28.4165871
+        ],
+        [
+          -81.5737435,
+          28.4166272
+        ],
+        [
+          -81.5737275,
+          28.4166627
+        ],
+        [
+          -81.5736745,
+          28.4167497
+        ],
+        [
+          -81.5736474,
+          28.4167828
+        ],
+        [
+          -81.5736369,
+          28.4168259
+        ],
+        [
+          -81.5736498,
+          28.4168354
+        ],
+        [
+          -81.5736625,
+          28.416841
+        ],
+        [
+          -81.5736833,
+          28.4168504
+        ],
+        [
+          -81.5737142,
+          28.4168642
+        ],
+        [
+          -81.5737329,
+          28.4168726
+        ],
+        [
+          -81.5736077,
+          28.4169215
+        ],
+        [
+          -81.5735365,
+          28.4169499
+        ],
+        [
+          -81.5735337,
+          28.4169456
+        ],
+        [
+          -81.5735038,
+          28.4168989
+        ],
+        [
+          -81.5734928,
+          28.4168901
+        ],
+        [
+          -81.5734226,
+          28.4169133
+        ],
+        [
+          -81.5733496,
+          28.4169278
+        ],
+        [
+          -81.573266,
+          28.416935
+        ],
+        [
+          -81.5731612,
+          28.4169329
+        ],
+        [
+          -81.5730812,
+          28.4169236
+        ],
+        [
+          -81.5730176,
+          28.4169081
+        ],
+        [
+          -81.5729458,
+          28.4168822
+        ],
+        [
+          -81.5729882,
+          28.4167973
+        ],
+        [
+          -81.5729799,
+          28.416787
+        ],
+        [
+          -81.5729799,
+          28.4167745
+        ],
+        [
+          -81.5729858,
+          28.4167652
+        ],
+        [
+          -81.573,
+          28.4167621
+        ],
+        [
+          -81.5730164,
+          28.4167642
+        ],
+        [
+          -81.573039,
+          28.416772
+        ],
+        [
+          -81.5730918,
+          28.4167901
+        ],
+        [
+          -81.5730918,
+          28.4167052
+        ],
+        [
+          -81.5733602,
+          28.4167031
+        ],
+        [
+          -81.5733614,
+          28.4168077
+        ],
+        [
+          -81.5734155,
+          28.416787
+        ],
+        [
+          -81.573485,
+          28.4167528
+        ],
+        [
+          -81.5735015,
+          28.4167383
+        ],
+        [
+          -81.5735285,
+          28.4167052
+        ],
+        [
+          -81.5734803,
+          28.4166751
+        ],
+        [
+          -81.5734968,
+          28.4166461
+        ],
+        [
+          -81.5734591,
+          28.4166254
+        ],
+        [
+          -81.5734838,
+          28.4165913
+        ],
+        [
+          -81.573505,
+          28.4165467
+        ],
+        [
+          -81.5735135,
+          28.4165206
+        ],
+        [
+          -81.5735191,
+          28.4165033
+        ],
+        [
+          -81.5735297,
+          28.4164401
+        ],
+        [
+          -81.5735292,
+          28.4164294
+        ],
+        [
+          -81.5735292,
+          28.4163942
+        ],
+        [
+          -81.5735285,
+          28.4163738
+        ],
+        [
+          -81.5735179,
+          28.4163148
+        ],
+        [
+          -81.5735131,
+          28.4163024
+        ],
+        [
+          -81.5734979,
+          28.4162641
+        ],
+        [
+          -81.5734591,
+          28.4161999
+        ],
+        [
+          -81.5734909,
+          28.4161843
+        ],
+        [
+          -81.5734744,
+          28.4161554
+        ],
+        [
+          -81.5735297,
+          28.4161212
+        ],
+        [
+          -81.5735026,
+          28.416091
+        ],
+        [
+          -81.5734944,
+          28.4160818
+        ],
+        [
+          -81.5734831,
+          28.4160755
+        ],
+        [
+          -81.5734685,
+          28.4160673
+        ],
+        [
+          -81.573392,
+          28.4160384
+        ],
+        [
+          -81.573359,
+          28.4160321
+        ],
+        [
+          -81.5733578,
+          28.4161243
+        ],
+        [
+          -81.5730941,
+          28.4161212
+        ],
+        [
+          -81.5730941,
+          28.4160901
+        ],
+        [
+          -81.5730941,
+          28.4160673
+        ],
+        [
+          -81.5730941,
+          28.416028
+        ],
+        [
+          -81.5730023,
+          28.4160622
+        ],
+        [
+          -81.572987,
+          28.4160601
+        ],
+        [
+          -81.5729788,
+          28.4160508
+        ],
+        [
+          -81.5729788,
+          28.4160425
+        ],
+        [
+          -81.5729858,
+          28.4160311
+        ],
+        [
+          -81.5729458,
+          28.4159452
+        ],
+        [
+          -81.5730494,
+          28.4159172
+        ],
+        [
+          -81.5731236,
+          28.4159006
+        ],
+        [
+          -81.5733025,
+          28.4158965
+        ],
+        [
+          -81.5734061,
+          28.41591
+        ],
+        [
+          -81.5735074,
+          28.415939
+        ],
+        [
+          -81.5735768,
+          28.4159752
+        ],
+        [
+          -81.5735933,
+          28.4159887
+        ],
+        [
+          -81.573585,
+          28.415998
+        ],
+        [
+          -81.5735943,
+          28.4160075
+        ],
+        [
+          -81.5735975,
+          28.4160107
+        ],
+        [
+          -81.5736047,
+          28.4160261
+        ],
+        [
+          -81.5736058,
+          28.4160355
+        ],
+        [
+          -81.5736039,
+          28.4160466
+        ],
+        [
+          -81.5735968,
+          28.416057
+        ],
+        [
+          -81.5736074,
+          28.4160673
+        ],
+        [
+          -81.5736368,
+          28.4160497
+        ],
+        [
+          -81.5736828,
+          28.4160984
+        ],
+        [
+          -81.5737204,
+          28.4161574
+        ],
+        [
+          -81.5737391,
+          28.4161991
+        ],
+        [
+          -81.5737558,
+          28.4162361
+        ],
+        [
+          -81.5737699,
+          28.4162941
+        ],
+        [
+          -81.5737623,
+          28.4162934
+        ],
+        [
+          -81.5737748,
+          28.4163445
+        ],
+        [
+          -81.5737775,
+          28.4164064
+        ],
+        [
+          -81.5737751,
+          28.4164727
+        ],
+        [
+          -81.5737675,
+          28.4165285
+        ],
+        [
+          -81.5737781,
+          28.4165302
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 344911011,
+    "version": 11,
+    "timestamp": "2025-01-21T22:40:26Z",
+    "url": "https://www.openstreetmap.org/way/344911011"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q2002896",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:BayLakeTower.JPG",
+      "author": "Scdis32",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:BayLakeTower.JPG",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:BayLakeTower.JPG",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/wdw-bay-lake-tower.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Bay Lake Tower at Disney's Contemporary Resort — procedural, CC0-1.0. bun generators/wdw-bay-lake-tower.ts",
+    "Map frame: x east, y north, z up, metres, bearing 0. The anchor is the area centroid of OSM way/344911011, and the footprint is that outline, simplified to 0.6 m (56 corners), extruded whole.",
+    "What it is (2009, Disney Vacation Club): a 15-storey crescent opening east onto Bay Lake, its convex west face toward the Contemporary's A-frame. Tan walls, white floor slabs running round every storey, glass and balcony bands between; round glass stair towers at both ends of the convex face; an open square frame on a round drum on the roof (the Top of the World lounge); a skyway to the A-frame's 4th floor from the south-west corner.",
+    "Evidence:",
+    "OSM (measured): the outline, area 4,264 m². The crescent's outer face is close to a 74 m radius about a point 40 m east of the anchor, the inner face 50 m; the round bumps at the north-west and south-west corners are the stair towers. No height in OSM.",
+    "Published: 15 storeys (Wikipedia).",
+    "Photos (Wikimedia Commons, credits in the report): \"Bay lake towers\" and \"BayLakeTower.JPG\" from the west, \"Bay Lake Tower Front\", and Sam Howzit's aerial from the A-frame's roof (south-west). They give a tall ground floor, 14 even floors above, the cylinders a storey proud, and the roof frame on the west arc, north of centre.",
+    "Estimated: the heights (5 m ground floor, 3.1 m storeys, roof at 49.5 m), the roof frame's size and place, the stair towers' radius (4.2 m). The two rectangles on the inner side of each wing are extruded full height, as no photo shows the courtyard; they may be lower. The skyway is left to its own OSM way (way/357831862) and not modelled.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"wdw-bay-lake-tower\", model \"wdw-bay-lake-tower\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/wdw-bay-lake-tower.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 2651 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the wdw-bay-lake-tower-glazing finish in the window colour."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

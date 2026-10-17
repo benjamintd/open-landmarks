@@ -1,0 +1,144 @@
+{
+  "id": "disneys-animal-kingdom-entrance-walt-disney-world",
+  "name": "Disney's Animal Kingdom Entrance",
+  "anchor": [
+    -81.5900755,
+    28.3552589
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 108832,
+      "sha256": "e0cad27feeb49b23db55e31aec212f07f058b0c09d3ec0eb0182b8e1010789b9"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 108832,
+      "sha256": "e0cad27feeb49b23db55e31aec212f07f058b0c09d3ec0eb0182b8e1010789b9"
+    }
+  },
+  "triangles": 2040,
+  "boundsBlenderM": [
+    [
+      -24.283,
+      -21.282,
+      0
+    ],
+    [
+      28.922,
+      21.218,
+      7.05
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -81.5898138,
+          28.3552064
+        ],
+        [
+          -81.5898895,
+          28.3551954
+        ],
+        [
+          -81.5899519,
+          28.3551863
+        ],
+        [
+          -81.5899426,
+          28.3551363
+        ],
+        [
+          -81.58988,
+          28.3551454
+        ],
+        [
+          -81.5898044,
+          28.3551563
+        ],
+        [
+          -81.5898138,
+          28.3552064
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 295763702,
+    "version": 4,
+    "timestamp": "2023-10-09T12:37:28Z",
+    "url": "https://www.openstreetmap.org/way/295763702"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 295763703,
+      "version": 4,
+      "timestamp": "2023-10-09T12:37:28Z",
+      "url": "https://www.openstreetmap.org/way/295763703"
+    },
+    {
+      "type": "way",
+      "id": 295763704,
+      "version": 4,
+      "timestamp": "2023-10-09T12:37:28Z",
+      "url": "https://www.openstreetmap.org/way/295763704"
+    },
+    {
+      "type": "way",
+      "id": 295763710,
+      "version": 6,
+      "timestamp": "2021-05-06T01:16:41Z",
+      "url": "https://www.openstreetmap.org/way/295763710"
+    }
+  ],
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:AnimalKingdomEntrance.JPG",
+      "author": "UpstateNYer",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:AnimalKingdomEntrance.JPG",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/wdw-ak-entrance.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Disney's Animal Kingdom park entrance — procedural, CC0-1.0. bun generators/wdw-ak-entrance.ts",
+    "Map frame: x along the row of ticket booths (east-north-east), y into the park (north-north-west), z up, metres. Bearing 350°: the booths' row runs at 80°. Origin at (-81.5900755, 28.3552589), between the booths and the turnstiles, on the flat entrance plaza.",
+    "The entrance plaza's three ticket booths and the turnstile canopy behind them. Each booth is a dark-timber front on a river-rock base, its ticket windows under a dark-timber pergola, with a carved sage-green relief panel along its top; the middle booth's panel carries the elephant head and the gold \"Disney's\" arch that are the park's sign. Rough rockwork piers close the booths' ends. The turnstiles stand under a long dark-timber pergola roof behind.",
+    "Evidence: - OSM, measured: the booths way/295763702, way/295763703, way/295763704 (shop=ticket) and the turnstile structure way/295763710. - Photos: the middle booth head-on (Sam Howzit, CC BY 2.0, Commons \"Main Entrance (33395862323)\"; Jennifer Lynn, CC BY 2.0, \"Disney Animal Kingdom (27766103142)\"; Michael Lowin, CC BY-SA 3.0, \"AK Eingang\"), from the south-west (Ivan Curra, CC BY-SA 3.0, \"-DISNEY'S ANIMAL KINGDOM ENTRANCE- panoramio\"), with the east booth's rockwork (UpstateNYer, CC BY-SA 3.0, \"AnimalKingdomEntrance.JPG\"), and the three booths across the plaza (elisfkc, CC BY-SA 2.0, \"Animal Kingdom Front Entrance for the Holidays (31549495561)\").",
+    "Estimated: heights from the photos against the booth's OSM width — walls 2.8 m, pergola 3.3 m, relief panel to 5.3 m, elephant to 6.1 m, the arch to 7.1 m; the rock piers' size. The turnstile canopy and the booths' side and rear faces are seen in no usable photo (the plaza has no Mapillary coverage); the turnstile roof is drawn in the booths' timber style, which the far photo supports but does not show closely. Thatch: none of the photos shows a thatched roof at the entrance; the roofs are timber pergolas, so no thatch is modelled. Entrance arch: no photo shows an arch over the entrance, so none is modelled; the arched gold \"Disney's\" crest over the middle booth is the only arch evidenced. The gold \"ANIMAL KINGDOM\" letters are left off: at 1 m tall they do not read at map distance, and the elephant and arch carry the sign. Readability: the booths are 13 × 6 m and 5 m tall; at z16 they read as three dark-edged blocks with green tops, the middle one crowned.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"wdw-ak-entrance\", model \"wdw-ak-entrance\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/wdw-ak-entrance.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

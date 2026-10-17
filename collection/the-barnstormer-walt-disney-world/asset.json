@@ -1,0 +1,242 @@
+{
+  "id": "the-barnstormer-walt-disney-world",
+  "name": "The Barnstormer",
+  "anchor": [
+    -81.5784168,
+    28.4205129
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 68156,
+      "sha256": "dec28c400d1293e0528f96b49493e4317b6cded861a03de7abcfd8035b214b29"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 68156,
+      "sha256": "dec28c400d1293e0528f96b49493e4317b6cded861a03de7abcfd8035b214b29"
+    }
+  },
+  "triangles": 2014,
+  "boundsBlenderM": [
+    [
+      -20.645,
+      -34.376,
+      0
+    ],
+    [
+      22.996,
+      29.727,
+      14
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -81.5783314,
+          28.4207012
+        ],
+        [
+          -81.578343,
+          28.4206901
+        ],
+        [
+          -81.5783509,
+          28.4206964
+        ],
+        [
+          -81.5783715,
+          28.4206765
+        ],
+        [
+          -81.5783995,
+          28.4206493
+        ],
+        [
+          -81.5783533,
+          28.4206124
+        ],
+        [
+          -81.5783606,
+          28.4206053
+        ],
+        [
+          -81.5783495,
+          28.4205964
+        ],
+        [
+          -81.578338,
+          28.4205872
+        ],
+        [
+          -81.5783326,
+          28.4205924
+        ],
+        [
+          -81.5783096,
+          28.420574
+        ],
+        [
+          -81.5782995,
+          28.4205838
+        ],
+        [
+          -81.5782887,
+          28.4205752
+        ],
+        [
+          -81.578267,
+          28.4205962
+        ],
+        [
+          -81.5782564,
+          28.4206065
+        ],
+        [
+          -81.5782359,
+          28.4206265
+        ],
+        [
+          -81.5782501,
+          28.4206376
+        ],
+        [
+          -81.5782614,
+          28.4206468
+        ],
+        [
+          -81.5782524,
+          28.4206555
+        ],
+        [
+          -81.5782825,
+          28.4206796
+        ],
+        [
+          -81.5782923,
+          28.4206701
+        ],
+        [
+          -81.5783115,
+          28.4206854
+        ],
+        [
+          -81.5783186,
+          28.420691
+        ],
+        [
+          -81.5783314,
+          28.4207012
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 296370637,
+    "version": 7,
+    "timestamp": "2025-01-16T04:49:23Z",
+    "url": "https://www.openstreetmap.org/way/296370637"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 296366631,
+      "version": 8,
+      "timestamp": "2024-05-09T19:50:37Z",
+      "url": "https://www.openstreetmap.org/way/296366631"
+    },
+    {
+      "type": "way",
+      "id": 989772770,
+      "version": 2,
+      "timestamp": "2025-01-16T04:49:23Z",
+      "url": "https://www.openstreetmap.org/way/989772770"
+    },
+    {
+      "type": "way",
+      "id": 989772772,
+      "version": 2,
+      "timestamp": "2025-01-16T04:49:23Z",
+      "url": "https://www.openstreetmap.org/way/989772772"
+    },
+    {
+      "type": "way",
+      "id": 989772771,
+      "version": 2,
+      "timestamp": "2025-01-16T04:49:23Z",
+      "url": "https://www.openstreetmap.org/way/989772771"
+    },
+    {
+      "type": "way",
+      "id": 989772767,
+      "version": 2,
+      "timestamp": "2025-01-16T04:49:23Z",
+      "url": "https://www.openstreetmap.org/way/989772767"
+    },
+    {
+      "type": "way",
+      "id": 989772765,
+      "version": 2,
+      "timestamp": "2025-01-16T04:49:23Z",
+      "url": "https://www.openstreetmap.org/way/989772765"
+    },
+    {
+      "type": "way",
+      "id": 655715819,
+      "version": 6,
+      "timestamp": "2025-01-16T04:49:23Z",
+      "url": "https://www.openstreetmap.org/way/655715819"
+    },
+    {
+      "type": "way",
+      "id": 655715820,
+      "version": 6,
+      "timestamp": "2025-01-16T04:49:23Z",
+      "url": "https://www.openstreetmap.org/way/655715820"
+    }
+  ],
+  "wikidata": "Q2884723",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/wdw-barnstormer.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "The Barnstormer, Storybook Circus, Magic Kingdom: the junior coaster, its red and white checkered stunt tower, the blue-roofed station and the Great Goofini maintenance barn. Procedural, CC0-1.0. bun generators/wdw-barnstormer.ts (REPORT=1 for the element table)",
+    "Map frame: x east, y north, z up, metres; bearing 0. The park frame is equirectangular about 28.4195 N, 81.5800 W (`origin`); the model's origin is the anchor below, on the ground. Built with ./coaster-kit.ts.",
+    "Plan. OSM chains the circuit in ride order from the station (way/296370637, building=roof, 8 m, gabled): way/989772770 through the station, way/989772772 round to the lift, the lift way/989772771 west to the tower, way/989772767, then way/989772765 (the drop and the turn round the south-west), way/655715819 (the east loop and the figure eight under the lift) and way/655715820 (the north loop) back to the station: 239 m, against the published 794 ft (242 m). Laid over the USGS NAIP orthophoto (public domain) it follows the track's shadow. The transfer sidings to the maintenance barn (way/323947497, 746810916, 746810917) are not drawn.",
+    "Profile: Vekoma junior coaster (RCDB 274), a chain lift to 30 ft (9.1 m), 25 mph (40 km/h), one minute. Positions are metres along the OSM polyline:",
+    "station, the turn south onto the lift s 0-25 (0-11%) lift west, to 9.1 m, through the checkered tower s 25-51 (11-21%) drop, the turn round the south-west, under the lift s 51-96 (21-40%) up round the east loop, over the lift's foot s 96-118 (40-49%) the figure eight, under the lift again s 118-190 (49-79%) north loop, brakes, station s 190-239 (79-100%)",
+    "Where the circuit crosses itself the heights are set to clear (CLEARANCE=1 reports any near miss): it passes over the lift's foot and twice under the lift. Published: lift height, speed, length. Estimated: every other height; the tower (14 m, from the photos against the train at the lift's top; its footprint from NAIP); the station's and barn's heights (the station's 8 m is OSM's).",
+    "Photos: \"The Barnstormer 2012\" (Martin Lewison, CC BY-SA 2.0) for the tower and the blue roof; \"WDW Magic Kingdom Storybook Circus\" (zannaland, CC BY-SA 2.0); Flickr via Openverse: \"Magic Kingdom 132\" to \"138\" (Roller Coaster Philosophy, CC BY 2.0) for the track, columns and station, and \"Barnstormer\" 14249389995 and 14226243526 (HarshLight, CC BY 2.0). Plan: USGS NAIP (public domain).",
+    "Style: silver-grey track on green columns, as painted; the tower is white with bold red checks; the station has red gables under a blue roof, the barn a blue roof.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"wdw-barnstormer\", model \"wdw-barnstormer\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/wdw-barnstormer.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

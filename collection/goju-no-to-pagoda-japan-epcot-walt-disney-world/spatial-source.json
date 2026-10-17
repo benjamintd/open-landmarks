@@ -1,0 +1,139 @@
+{
+  "id": "goju-no-to-pagoda-japan-epcot-walt-disney-world",
+  "anchor": [
+    -81.5502911,
+    28.367906
+  ],
+  "coordinateSystem": "Local metres about the anchor (equirectangular, WGS84 radius): X east, Y north, Z up. glTF export: X east, Y up, Z south. Heading already baked.",
+  "license": "ODbL-1.0",
+  "footprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          5.7791487340852905,
+          -5.5548425906390335
+        ],
+        [
+          5.7497632323967425,
+          -3.807126585325945
+        ],
+        [
+          5.593040554404525,
+          5.732953775616778
+        ],
+        [
+          -5.798739070400292,
+          5.543710641429617
+        ],
+        [
+          -5.612630890719526,
+          -5.744085725221681
+        ],
+        [
+          5.7791487340852905,
+          -5.5548425906390335
+        ]
+      ]
+    ]
+  },
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -81.5502321,
+          28.3678561
+        ],
+        [
+          -81.5502324,
+          28.3678718
+        ],
+        [
+          -81.550234,
+          28.3679575
+        ],
+        [
+          -81.5503503,
+          28.3679558
+        ],
+        [
+          -81.5503484,
+          28.3678544
+        ],
+        [
+          -81.5502321,
+          28.3678561
+        ]
+      ]
+    ]
+  },
+  "parts": [
+    {
+      "osm": "way/295587740",
+      "tags": {
+        "building": "yes",
+        "height": "26",
+        "man_made": "tower",
+        "name": "Goju-no-to Pagoda",
+        "roof:colour": "blue",
+        "seamark:landmark:function": "pagoda",
+        "tower:construction": "freestanding",
+        "tower:type": "pagoda",
+        "wikimedia_commons": "File:Japanese pagoda at Epcot.jpg"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.7791487340852905,
+              -5.5548425906390335
+            ],
+            [
+              5.7497632323967425,
+              -3.807126585325945
+            ],
+            [
+              5.593040554404525,
+              5.732953775616778
+            ],
+            [
+              -5.798739070400292,
+              5.543710641429617
+            ],
+            [
+              -5.612630890719526,
+              -5.744085725221681
+            ],
+            [
+              5.7791487340852905,
+              -5.5548425906390335
+            ]
+          ]
+        ]
+      },
+      "version": 4,
+      "timestamp": "2019-11-03T23:13:07Z"
+    }
+  ],
+  "osm": {
+    "type": "way",
+    "id": 295587740,
+    "version": 4,
+    "timestamp": "2019-11-03T23:13:07Z",
+    "url": "https://www.openstreetmap.org/way/295587740"
+  },
+  "additionalOsm": [],
+  "tags": {
+    "building": "yes",
+    "height": "26",
+    "man_made": "tower",
+    "name": "Goju-no-to Pagoda",
+    "roof:colour": "blue",
+    "seamark:landmark:function": "pagoda",
+    "tower:construction": "freestanding",
+    "tower:type": "pagoda",
+    "wikimedia_commons": "File:Japanese pagoda at Epcot.jpg"
+  }
+}

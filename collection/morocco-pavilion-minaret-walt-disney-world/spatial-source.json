@@ -1,0 +1,142 @@
+{
+  "id": "morocco-pavilion-minaret-walt-disney-world",
+  "anchor": [
+    -81.551714,
+    28.3680362
+  ],
+  "coordinateSystem": "Local metres about the anchor (equirectangular, WGS84 radius): X east, Y north, Z up. glTF export: X east, Y up, Z south. Heading already baked.",
+  "license": "ODbL-1.0",
+  "footprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -5.211022634082948,
+          -1.3580977877293494
+        ],
+        [
+          -5.1424565466824905,
+          -1.60300066717262
+        ],
+        [
+          1.3615265904788456,
+          -5.2097521691019875
+        ],
+        [
+          1.6064054744496166,
+          -5.142960474636462
+        ],
+        [
+          5.211022635474923,
+          1.3580977877293494
+        ],
+        [
+          13.830759323128166,
+          17.944701915971507
+        ],
+        [
+          5.083685615420369,
+          22.7870997655131
+        ],
+        [
+          0.2840595043481933,
+          14.137575331041049
+        ],
+        [
+          0.23508372783243414,
+          14.04851973815669
+        ],
+        [
+          -5.211022634082948,
+          -1.3580977877293494
+        ]
+      ]
+    ]
+  },
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -81.5517672,
+          28.368024
+        ],
+        [
+          -81.5517665,
+          28.3680218
+        ],
+        [
+          -81.5517001,
+          28.3679894
+        ],
+        [
+          -81.5516976,
+          28.36799
+        ],
+        [
+          -81.5516608,
+          28.3680484
+        ],
+        [
+          -81.5515728,
+          28.3681974
+        ],
+        [
+          -81.5516621,
+          28.3682409
+        ],
+        [
+          -81.5517111,
+          28.3681632
+        ],
+        [
+          -81.5517116,
+          28.3681624
+        ],
+        [
+          -81.5517672,
+          28.368024
+        ]
+      ]
+    ]
+  },
+  "parts": [
+    {
+      "osm": "node/2993257884",
+      "tags": {
+        "name": "Morocco Pavilion",
+        "start_date": "1984-09-07",
+        "tourism": "attraction",
+        "wheelchair": "yes",
+        "wikidata": "Q2776572",
+        "wikipedia": "en:Morocco Pavilion at Epcot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.690985244494179,
+          13.647769571363533
+        ]
+      },
+      "version": 5,
+      "timestamp": "2025-04-08T09:54:47Z"
+    }
+  ],
+  "osm": {
+    "type": "node",
+    "id": 2993257884,
+    "version": 5,
+    "timestamp": "2025-04-08T09:54:47Z",
+    "url": "https://www.openstreetmap.org/node/2993257884"
+  },
+  "additionalOsm": [],
+  "tags": {
+    "name": "Morocco Pavilion",
+    "start_date": "1984-09-07",
+    "tourism": "attraction",
+    "wheelchair": "yes",
+    "wikidata": "Q2776572",
+    "wikipedia": "en:Morocco Pavilion at Epcot"
+  },
+  "note": "This landmark replaces no mapped building; the OSM feature cited is the one that names it."
+}

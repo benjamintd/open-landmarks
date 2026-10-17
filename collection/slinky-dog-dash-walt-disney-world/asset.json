@@ -1,0 +1,388 @@
+{
+  "id": "slinky-dog-dash-walt-disney-world",
+  "name": "Slinky Dog Dash",
+  "anchor": [
+    -81.5628374,
+    28.3560478
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 210844,
+      "sha256": "09eb7e0fa8cc28ea781921e465f4b9f8d8d53f5bdf8e8af9e4bc96756ded978e"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 210844,
+      "sha256": "09eb7e0fa8cc28ea781921e465f4b9f8d8d53f5bdf8e8af9e4bc96756ded978e"
+    }
+  },
+  "triangles": 5602,
+  "boundsBlenderM": [
+    [
+      -64.3,
+      -78.301,
+      0
+    ],
+    [
+      64.04,
+      77.315,
+      15.55
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -81.562957,
+          28.356554
+        ],
+        [
+          -81.5629977,
+          28.3565748
+        ],
+        [
+          -81.5630123,
+          28.3565822
+        ],
+        [
+          -81.5630156,
+          28.3565839
+        ],
+        [
+          -81.5630205,
+          28.3565864
+        ],
+        [
+          -81.5630275,
+          28.35659
+        ],
+        [
+          -81.5630558,
+          28.3566044
+        ],
+        [
+          -81.563176,
+          28.3566658
+        ],
+        [
+          -81.5632076,
+          28.3566818
+        ],
+        [
+          -81.5632434,
+          28.3567001
+        ],
+        [
+          -81.5632766,
+          28.356717
+        ],
+        [
+          -81.5634149,
+          28.3565071
+        ],
+        [
+          -81.563448,
+          28.3564568
+        ],
+        [
+          -81.5634943,
+          28.3563865
+        ],
+        [
+          -81.563436,
+          28.3563568
+        ],
+        [
+          -81.5634666,
+          28.3563103
+        ],
+        [
+          -81.5633964,
+          28.3562745
+        ],
+        [
+          -81.5634203,
+          28.3562382
+        ],
+        [
+          -81.5633295,
+          28.3561918
+        ],
+        [
+          -81.5633155,
+          28.356198
+        ],
+        [
+          -81.5632956,
+          28.3562067
+        ],
+        [
+          -81.5632663,
+          28.3562472
+        ],
+        [
+          -81.5632681,
+          28.3562616
+        ],
+        [
+          -81.5632498,
+          28.3562503
+        ],
+        [
+          -81.5632381,
+          28.3562443
+        ],
+        [
+          -81.5632013,
+          28.3562255
+        ],
+        [
+          -81.563174,
+          28.3562303
+        ],
+        [
+          -81.5631561,
+          28.3562334
+        ],
+        [
+          -81.5631291,
+          28.3562777
+        ],
+        [
+          -81.5631207,
+          28.3562928
+        ],
+        [
+          -81.5630923,
+          28.356344
+        ],
+        [
+          -81.5630752,
+          28.3563748
+        ],
+        [
+          -81.5630631,
+          28.3563641
+        ],
+        [
+          -81.5630564,
+          28.3563811
+        ],
+        [
+          -81.5630558,
+          28.356399
+        ],
+        [
+          -81.5630615,
+          28.3564023
+        ],
+        [
+          -81.5630476,
+          28.3564207
+        ],
+        [
+          -81.5630305,
+          28.3563661
+        ],
+        [
+          -81.5629931,
+          28.3563751
+        ],
+        [
+          -81.5629614,
+          28.3563828
+        ],
+        [
+          -81.5629211,
+          28.3563763
+        ],
+        [
+          -81.5629137,
+          28.3563751
+        ],
+        [
+          -81.5629048,
+          28.3563737
+        ],
+        [
+          -81.5627662,
+          28.3563514
+        ],
+        [
+          -81.5627499,
+          28.3564295
+        ],
+        [
+          -81.5628175,
+          28.3564404
+        ],
+        [
+          -81.5628581,
+          28.3564469
+        ],
+        [
+          -81.5628638,
+          28.3564425
+        ],
+        [
+          -81.5629007,
+          28.3565669
+        ],
+        [
+          -81.562957,
+          28.356554
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 685092736,
+    "version": 23,
+    "timestamp": "2026-09-24T16:15:52Z",
+    "url": "https://www.openstreetmap.org/way/685092736"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 751717116,
+      "version": 5,
+      "timestamp": "2024-06-20T21:04:51Z",
+      "url": "https://www.openstreetmap.org/way/751717116"
+    },
+    {
+      "type": "way",
+      "id": 1294595151,
+      "version": 1,
+      "timestamp": "2024-06-20T21:04:51Z",
+      "url": "https://www.openstreetmap.org/way/1294595151"
+    },
+    {
+      "type": "way",
+      "id": 1294595160,
+      "version": 1,
+      "timestamp": "2024-06-20T21:04:51Z",
+      "url": "https://www.openstreetmap.org/way/1294595160"
+    },
+    {
+      "type": "way",
+      "id": 1294595158,
+      "version": 1,
+      "timestamp": "2024-06-20T21:04:51Z",
+      "url": "https://www.openstreetmap.org/way/1294595158"
+    },
+    {
+      "type": "way",
+      "id": 798615126,
+      "version": 4,
+      "timestamp": "2024-06-20T21:04:51Z",
+      "url": "https://www.openstreetmap.org/way/798615126"
+    },
+    {
+      "type": "way",
+      "id": 1294595156,
+      "version": 1,
+      "timestamp": "2024-06-20T21:04:51Z",
+      "url": "https://www.openstreetmap.org/way/1294595156"
+    },
+    {
+      "type": "way",
+      "id": 1294595155,
+      "version": 1,
+      "timestamp": "2024-06-20T21:04:51Z",
+      "url": "https://www.openstreetmap.org/way/1294595155"
+    },
+    {
+      "type": "way",
+      "id": 1294595157,
+      "version": 1,
+      "timestamp": "2024-06-20T21:04:51Z",
+      "url": "https://www.openstreetmap.org/way/1294595157"
+    },
+    {
+      "type": "way",
+      "id": 1294595154,
+      "version": 1,
+      "timestamp": "2024-06-20T21:04:51Z",
+      "url": "https://www.openstreetmap.org/way/1294595154"
+    },
+    {
+      "type": "way",
+      "id": 685772990,
+      "version": 10,
+      "timestamp": "2024-06-20T21:04:51Z",
+      "url": "https://www.openstreetmap.org/way/685772990"
+    },
+    {
+      "type": "way",
+      "id": 1294595159,
+      "version": 1,
+      "timestamp": "2024-06-20T21:04:51Z",
+      "url": "https://www.openstreetmap.org/way/1294595159"
+    },
+    {
+      "type": "way",
+      "id": 1294595153,
+      "version": 1,
+      "timestamp": "2024-06-20T21:04:51Z",
+      "url": "https://www.openstreetmap.org/way/1294595153"
+    },
+    {
+      "type": "way",
+      "id": 1294595152,
+      "version": 1,
+      "timestamp": "2024-06-20T21:04:51Z",
+      "url": "https://www.openstreetmap.org/way/1294595152"
+    },
+    {
+      "type": "way",
+      "id": 685772991,
+      "version": 8,
+      "timestamp": "2024-06-20T21:04:51Z",
+      "url": "https://www.openstreetmap.org/way/685772991"
+    }
+  ],
+  "wikidata": "Q35006966",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/wdw-slinky-dog-dash.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Slinky Dog Dash, Toy Story Land, Disney's Hollywood Studios: procedural, CC0-1.0. bun generators/wdw-slinky-dog-dash.ts (REPORT=1 for the element table)",
+    "Map frame: x east, y north, z up, metres; bearing 0, so the frame is true north. The park frame here is equirectangular about 28.3565 N, 81.5610 W (`origin`); the model's origin is the middle of the ride's footprint (see the anchor), at the lowest ground under the track. Built with ./coaster-kit.ts.",
+    "Plan. OSM chains the ride as a closed, oneway circuit from the station (way/685092736, \"Slinky Dog Dash Show Building\"): way/751717116, 1294595151, 1294595160, 1294595158, 798615126, 1294595156, 1294595155, 1294595157, 1294595154, 685772990, 1294595159, 1294595153, 1294595152 and the covered way/685772991 through the station: 837 m. The sidings and transfer table of the maintenance bay (way/685772992, 685772993, 685772994, 685772995, 685772996, 685772997, 685772998, 685772999) are inside the show building and are not drawn. Laid over the USGS NAIP orthophoto (public domain), the OSM trace is up to 10 m out in places: the north loop and the helix sit 7-10 m too far north, the south loop 9 m too far south, the second launch 4-5 m west. So the circuit below keeps OSM's topology and ride direction but is redrawn node by node over NAIP: 787 m round, the 38 m through the station taken from OSM (it is under the roof). No length is published.",
+    "Profile: a custom Mack Rides Launch Coaster (RCDB 13377, opened 2018), two LSM launches, the first rolling (RCDB, Coasterpedia); 50 ft (15.2 m) high, 40 mph (64 km/h) (Wikipedia). The element order is Wikipedia's \"Layout\". Heights are estimated from the photos below; only the 15.2 m top and the 64 km/h are published. Positions are metres along the traced polyline (787 m round) and % of it:",
+    "out of the station, a right turn climbing onto the launch s 0-24 (0-3%) launch 1 on the elevated straight, 5.5 m s 24-55 (3-7%) up to 11.5 m, along the west side of the east loop, crest at 13 m over the plaza s 55-96 (7-12%) dive through the left turn at the bottom of the east loop s 96-118 (12-15%) east leg, low, with a small airtime hill s 118-168 (15-21%) left-handed helix round Jessie's blocks: a low lap under the exit, then up onto the top lap at 6.5 m s 168-262 (21-33%) dip into the north loop, left turn, low run back east s 262-357 (33-45%) right turn, through the blocks under the path bridge, stop s 357-400 (45-51%) launch 2 through the GO! rings, to 64 km/h s 400-452 (51-57%) top hill, 15.2 m, then the left turn of the south loop s 452-528 (57-67%) bunny hills north, the last one over the GO! rings s 528-600 (67-76%) left turn, right turn round the west loop s 600-700 (76-89%) final brake run (Wheezy), station s 708-787 (90-100%)",
+    "Measured: the plan (NAIP). Published: the 15.2 m top, the 64 km/h, the two launches and the element order. Estimated from the photos: every other height (launch 1's straight at about 5.5 m from \"Slinky Dog Dash (43084268832)\"; the 13 m crest from \"(29262639308)\"; the helix's top lap from \"(43134549171)\"; the bunny hills and the crossing over the rings from \"(29262621908)\" and Freddo's photo). Which hill is the 15.2 m one is a judgement: the tall climb after launch 2 stands out above the rest in every distant photo. The show building's 11 m is a guess.",
+    "Photos (Wikimedia Commons): \"Slinky Dog Dash (29262639308)\", \"(42415750424)\", \"(43084268832)\", \"(29262625858)\", \"(29262621908)\", \"(43134549171)\" and others of the set, elisfkc, July 2018, CC BY-SA 2.0; \"Slinky Dog Dash (Orlando) May 2023\" and \"Slinky Dog Dash May 2023 (1)\", Benoît Prieur, CC0; \"Slinky Dog Dash\", Freddo, 2018, CC BY-SA 4.0. The train: Flickr via Openverse, \"Disney's Hollywood Studios\" 54164351104 and 54164351039 (Roller Coaster Philosophy, 2024, CC BY 2.0) and \"Slinky Dog Dash - Roller Coaster\" 46303605301 (MagicGuides, CC BY 2.0). Plan: USGS NAIP (public domain). Terrain: Mapzen/AWS Terrarium (open data).",
+    "Style: the track painted raspberry red, rails and truss alike, on chunky golden-yellow columns; periwinkle catwalks along the two launches and the final brakes, and the four GO! rings over the second launch; one Slinky Dog train (head car, coil-wrapped cars, spring tail) cresting the bunny hill over the rings, as in most photos of it. The show building is plain walls and a flat roof, 11 m (estimated; OSM has no height). Jessie, Rex and the block towers are set pieces off the track and are left out.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"wdw-slinky-dog-dash\", model \"wdw-slinky-dog-dash\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/wdw-slinky-dog-dash.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

@@ -1,0 +1,320 @@
+{
+  "id": "seven-dwarfs-mine-train-walt-disney-world",
+  "name": "Seven Dwarfs Mine Train",
+  "anchor": [
+    -81.5801226,
+    28.4206305
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 217348,
+      "sha256": "e870d77b4bb07608041c7d76e28c17afa02edb631d242e1a663f8f7a4b28eb66"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 217348,
+      "sha256": "e870d77b4bb07608041c7d76e28c17afa02edb631d242e1a663f8f7a4b28eb66"
+    }
+  },
+  "triangles": 6126,
+  "boundsBlenderM": [
+    [
+      -55.707,
+      -46.013,
+      0
+    ],
+    [
+      70.41,
+      46.307,
+      25.92
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -81.5801106,
+          28.4204313
+        ],
+        [
+          -81.5801515,
+          28.4204778
+        ],
+        [
+          -81.580168,
+          28.4205034
+        ],
+        [
+          -81.5801713,
+          28.4205247
+        ],
+        [
+          -81.5801948,
+          28.420525
+        ],
+        [
+          -81.5802227,
+          28.4205323
+        ],
+        [
+          -81.5802348,
+          28.4205489
+        ],
+        [
+          -81.5802544,
+          28.4205682
+        ],
+        [
+          -81.5802565,
+          28.4205736
+        ],
+        [
+          -81.5802653,
+          28.4205959
+        ],
+        [
+          -81.580266,
+          28.4206006
+        ],
+        [
+          -81.5802703,
+          28.420628
+        ],
+        [
+          -81.58027,
+          28.4206572
+        ],
+        [
+          -81.5802596,
+          28.4206891
+        ],
+        [
+          -81.5802571,
+          28.4206998
+        ],
+        [
+          -81.5802501,
+          28.4207233
+        ],
+        [
+          -81.5802103,
+          28.4207134
+        ],
+        [
+          -81.5801622,
+          28.4206935
+        ],
+        [
+          -81.5801086,
+          28.4206628
+        ],
+        [
+          -81.5799506,
+          28.4205782
+        ],
+        [
+          -81.579903,
+          28.4205447
+        ],
+        [
+          -81.5798924,
+          28.420532
+        ],
+        [
+          -81.5798891,
+          28.4205215
+        ],
+        [
+          -81.5798865,
+          28.420499
+        ],
+        [
+          -81.5799131,
+          28.4204148
+        ],
+        [
+          -81.5799445,
+          28.4204393
+        ],
+        [
+          -81.5799638,
+          28.4204394
+        ],
+        [
+          -81.5799824,
+          28.4204508
+        ],
+        [
+          -81.5800009,
+          28.4204547
+        ],
+        [
+          -81.5800194,
+          28.420465
+        ],
+        [
+          -81.5800376,
+          28.4204735
+        ],
+        [
+          -81.5800513,
+          28.420474
+        ],
+        [
+          -81.5801106,
+          28.4204313
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 1313344974,
+    "version": 2,
+    "timestamp": "2025-01-15T22:30:20Z",
+    "url": "https://www.openstreetmap.org/way/1313344974"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 296781876,
+      "version": 6,
+      "timestamp": "2024-09-04T21:11:10Z",
+      "url": "https://www.openstreetmap.org/way/296781876"
+    },
+    {
+      "type": "way",
+      "id": 295016219,
+      "version": 8,
+      "timestamp": "2025-01-17T22:33:10Z",
+      "url": "https://www.openstreetmap.org/way/295016219"
+    },
+    {
+      "type": "way",
+      "id": 1351675202,
+      "version": 2,
+      "timestamp": "2025-01-16T04:49:23Z",
+      "url": "https://www.openstreetmap.org/way/1351675202"
+    },
+    {
+      "type": "way",
+      "id": 346646028,
+      "version": 10,
+      "timestamp": "2025-01-16T04:49:23Z",
+      "url": "https://www.openstreetmap.org/way/346646028"
+    },
+    {
+      "type": "way",
+      "id": 295016221,
+      "version": 14,
+      "timestamp": "2025-01-16T04:49:23Z",
+      "url": "https://www.openstreetmap.org/way/295016221"
+    },
+    {
+      "type": "way",
+      "id": 989772764,
+      "version": 4,
+      "timestamp": "2025-01-16T04:49:23Z",
+      "url": "https://www.openstreetmap.org/way/989772764"
+    },
+    {
+      "type": "way",
+      "id": 989772763,
+      "version": 4,
+      "timestamp": "2025-01-16T04:49:23Z",
+      "url": "https://www.openstreetmap.org/way/989772763"
+    },
+    {
+      "type": "way",
+      "id": 989772769,
+      "version": 4,
+      "timestamp": "2025-01-16T04:49:23Z",
+      "url": "https://www.openstreetmap.org/way/989772769"
+    },
+    {
+      "type": "way",
+      "id": 346646029,
+      "version": 10,
+      "timestamp": "2025-01-16T04:49:23Z",
+      "url": "https://www.openstreetmap.org/way/346646029"
+    },
+    {
+      "type": "way",
+      "id": 989772773,
+      "version": 4,
+      "timestamp": "2025-01-16T04:49:23Z",
+      "url": "https://www.openstreetmap.org/way/989772773"
+    },
+    {
+      "type": "way",
+      "id": 295016225,
+      "version": 12,
+      "timestamp": "2025-01-16T04:49:23Z",
+      "url": "https://www.openstreetmap.org/way/295016225"
+    },
+    {
+      "type": "way",
+      "id": 989772768,
+      "version": 5,
+      "timestamp": "2025-01-16T04:49:23Z",
+      "url": "https://www.openstreetmap.org/way/989772768"
+    },
+    {
+      "type": "way",
+      "id": 295038738,
+      "version": 8,
+      "timestamp": "2025-01-16T04:49:23Z",
+      "url": "https://www.openstreetmap.org/way/295038738"
+    },
+    {
+      "type": "way",
+      "id": 295038729,
+      "version": 13,
+      "timestamp": "2025-01-16T04:49:23Z",
+      "url": "https://www.openstreetmap.org/way/295038729"
+    }
+  ],
+  "wikidata": "Q2182970",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/wdw-seven-dwarfs-mine-train.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Seven Dwarfs Mine Train, Fantasyland, Magic Kingdom: the rockwork mountain with its waterfall and trestle bridges, the exposed track, the mine entrance and the Dwarfs' cottage. Procedural, CC0-1.0. bun generators/wdw-seven-dwarfs-mine-train.ts (REPORT=1 for the element table)",
+    "Map frame: x east, y north, z up, metres; bearing 0. The park frame is equirectangular about 28.4195 N, 81.5800 W (`origin`); the model's origin is the anchor below, on the ground. Built with ./coaster-kit.ts.",
+    "Plan. OSM chains the ride as one circuit, in ride order from the station under the rockwork (building way/1313344974, track way/1351675202): way/346646028 (tunnel) out to the south loop way/295016221, the first lift way/989772764 north to the trestle bridge at its top (way/989772763, over the lower track), the swooping double loop way/989772769 round the east mound, way/346646029 back west under the bridge into the mine, the second lift way/989772773 inside the mountain, the drop and north loop way/295016225 and way/989772768, the north bridge way/295038738, and the west loop way/295038729 past the cottage to the station: 588 m against the published 2,001 ft (610 m). Laid over the USGS NAIP orthophoto (public domain) every stretch sits in its rock channel, so the plan is OSM's.",
+    "Profile: Vekoma family mine train (RCDB 9720): two chain lifts, the first with a 31 ft (9.4 m) drop, the second with a 41 ft (12.5 m) drop; 34 mph (55 km/h). Positions are metres along the OSM polyline (588 m):",
+    "station and tunnel out under the mine building s 0-57 (0-10%) south loop at grade s 57-100 (10-17%) lift 1, north beside the waterfall, to 10.5 m s 100-131 (17-22%) the trestle bridge over the lower track, the 9.4 m drop s 131-160 (22-27%) swooping turns round the east mound s 160-288 (27-49%) back under the bridge into the mine; lift 2 to 13.5 m s 288-361 (49-61%) the 12.5 m drop out of the mountain's flank s 361-388 (61-66%) the north loop climbing to the north bridge at 9.5 m s 388-456 (66-78%) down round the west loop, brakes by the cottage s 456-588 (78-100%)",
+    "Rockwork. The rock areas are traced over NAIP: the main mountain on the diagonal from the north bridge to the mine building (OSM natural=hill way/1313344975 is its core), the mound inside the east loop and the rocks inside the north loop (OSM natural=bare_rock way/345136751). Each is a height field of fused rounded boulders over a dome, cut down into a channel wherever the track runs open and built up over the tunnels and lifts that run inside it. Conifers stand on the tops, as in every photo; the waterfall falls beside the first lift into the pool under the bridge.",
+    "Published: the lifts, drops, speed, length. Estimated: every height (from the published drops and the photos), the mountain's (about 14 m of rock, 17 m over the second lift's top), the mine building's (roof at 6 m, OSM says three levels) and the cottage's (OSM says two levels). Invented: the boulder layout and the trees' positions, beyond what NAIP shows.",
+    "Photos (Wikimedia Commons, Category:Seven Dwarfs Mine Train at Magic Kingdom): \"Seven Dwarfs Mine Train (14004242576)\", \"(14024173001)\", \"(14027806154)\" and others (Josh Hallett, CC BY-SA 2.0) for the bridge, waterfall and lift; \"(16629618021)\", \"(23318405812)\", \"(16443704050)\" and others (Theme Park Tourist, CC BY 2.0) for the lift, drop and rock colour; \"(24626877046)\" (Jennifer Lynn, CC BY 2.0). Plan: USGS NAIP (public domain).",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"wdw-seven-dwarfs-mine-train\", model \"wdw-seven-dwarfs-mine-train\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/wdw-seven-dwarfs-mine-train.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

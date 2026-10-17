@@ -1,0 +1,382 @@
+{
+  "id": "the-american-adventure-walt-disney-world",
+  "name": "The American Adventure",
+  "anchor": [
+    -81.5493874,
+    28.36722
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 110736,
+      "sha256": "18daa2e9f6e920263b3cd7e787b169bf3e839e75fc1a44c63b5457a4bd9ad6b3"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 110736,
+      "sha256": "18daa2e9f6e920263b3cd7e787b169bf3e839e75fc1a44c63b5457a4bd9ad6b3"
+    }
+  },
+  "triangles": 3363,
+  "boundsBlenderM": [
+    [
+      -31,
+      -51.6,
+      0
+    ],
+    [
+      52.1,
+      53.7,
+      27.2
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -81.5496662,
+          28.3676443
+        ],
+        [
+          -81.5496649,
+          28.3676354
+        ],
+        [
+          -81.5496639,
+          28.3675252
+        ],
+        [
+          -81.5496638,
+          28.3674287
+        ],
+        [
+          -81.5496637,
+          28.3674105
+        ],
+        [
+          -81.5496717,
+          28.3674104
+        ],
+        [
+          -81.54967,
+          28.3672619
+        ],
+        [
+          -81.5496618,
+          28.367262
+        ],
+        [
+          -81.5496602,
+          28.3671227
+        ],
+        [
+          -81.5496466,
+          28.3671229
+        ],
+        [
+          -81.5496449,
+          28.3669671
+        ],
+        [
+          -81.5495887,
+          28.3669675
+        ],
+        [
+          -81.5495884,
+          28.3669417
+        ],
+        [
+          -81.5495243,
+          28.3669422
+        ],
+        [
+          -81.5494923,
+          28.3669425
+        ],
+        [
+          -81.5494914,
+          28.3668539
+        ],
+        [
+          -81.5494352,
+          28.3668544
+        ],
+        [
+          -81.5494345,
+          28.3667812
+        ],
+        [
+          -81.5494496,
+          28.3667811
+        ],
+        [
+          -81.5494494,
+          28.3667533
+        ],
+        [
+          -81.5493005,
+          28.3667542
+        ],
+        [
+          -81.5493008,
+          28.3667933
+        ],
+        [
+          -81.5493143,
+          28.3667932
+        ],
+        [
+          -81.5493147,
+          28.3668512
+        ],
+        [
+          -81.5492601,
+          28.3668514
+        ],
+        [
+          -81.5492606,
+          28.366934
+        ],
+        [
+          -81.5491685,
+          28.3669344
+        ],
+        [
+          -81.5491687,
+          28.3669639
+        ],
+        [
+          -81.5491122,
+          28.3669641
+        ],
+        [
+          -81.5491127,
+          28.366956
+        ],
+        [
+          -81.549056,
+          28.3669556
+        ],
+        [
+          -81.5490559,
+          28.3669643
+        ],
+        [
+          -81.5489608,
+          28.3669647
+        ],
+        [
+          -81.5489367,
+          28.3669646
+        ],
+        [
+          -81.5488842,
+          28.3669649
+        ],
+        [
+          -81.5488846,
+          28.3670672
+        ],
+        [
+          -81.5488749,
+          28.3670672
+        ],
+        [
+          -81.5488628,
+          28.3670673
+        ],
+        [
+          -81.5488551,
+          28.3670673
+        ],
+        [
+          -81.5488558,
+          28.3672724
+        ],
+        [
+          -81.5488685,
+          28.3672724
+        ],
+        [
+          -81.548869,
+          28.3674394
+        ],
+        [
+          -81.5488803,
+          28.3674394
+        ],
+        [
+          -81.548887,
+          28.367439
+        ],
+        [
+          -81.5488951,
+          28.3674394
+        ],
+        [
+          -81.5489081,
+          28.3676766
+        ],
+        [
+          -81.5489911,
+          28.3676777
+        ],
+        [
+          -81.5489911,
+          28.3676357
+        ],
+        [
+          -81.5490813,
+          28.3676355
+        ],
+        [
+          -81.5490813,
+          28.3676443
+        ],
+        [
+          -81.5492138,
+          28.3676439
+        ],
+        [
+          -81.5492135,
+          28.3675887
+        ],
+        [
+          -81.5492655,
+          28.3675886
+        ],
+        [
+          -81.5492849,
+          28.3675885
+        ],
+        [
+          -81.549285,
+          28.3676208
+        ],
+        [
+          -81.5492987,
+          28.3676207
+        ],
+        [
+          -81.5492991,
+          28.3676761
+        ],
+        [
+          -81.5493235,
+          28.3676759
+        ],
+        [
+          -81.5493237,
+          28.3677074
+        ],
+        [
+          -81.54938,
+          28.3677071
+        ],
+        [
+          -81.5494362,
+          28.3677068
+        ],
+        [
+          -81.549436,
+          28.3676757
+        ],
+        [
+          -81.5494645,
+          28.3676755
+        ],
+        [
+          -81.5494641,
+          28.3676222
+        ],
+        [
+          -81.5494801,
+          28.3676221
+        ],
+        [
+          -81.5494798,
+          28.3675935
+        ],
+        [
+          -81.5494968,
+          28.3675934
+        ],
+        [
+          -81.5495432,
+          28.3675931
+        ],
+        [
+          -81.5495437,
+          28.3676452
+        ],
+        [
+          -81.5496662,
+          28.3676443
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 295592223,
+    "version": 10,
+    "timestamp": "2021-09-27T04:19:58Z",
+    "url": "https://www.openstreetmap.org/way/295592223"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 515970173,
+      "version": 2,
+      "timestamp": "2023-10-06T19:11:38Z",
+      "url": "https://www.openstreetmap.org/way/515970173"
+    }
+  ],
+  "wikidata": "Q2897054",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/wdw-epcot-american-adventure.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "The American Adventure, EPCOT World Showcase — procedural, CC0-1.0. bun generators/wdw-epcot-american-adventure.ts",
+    "Map frame: x east, y north, z up, metres; placed at bearing 0°, since the OSM outline's long walls run due north–south. The front faces north, over the plaza and fountain to the lagoon. The anchor sits on the portico's axis, 11.5 m west of the outline's own local origin, so the hall is symmetrical about x = 0.",
+    "What it is: a Georgian red-brick hall with white trim. A three-bay central block carries a steep slate hip roof up to a railed deck, with a white clock tower, an open lantern and a small dome on top, and a tall chimney either side. A two-storey white portico with a balcony stands in front. Lower two-bay wings run to an end pavilion at each side; each end pavilion has its own railed hip roof, a cupola and a pedimented porch. Forced perspective makes the five-storey building look two and a half storeys tall. Behind it is the Liberty Theatre's show building, a plain box covering the rest of the OSM outline, kept below the hall's roofs as the real one is. A flat-roofed annex sits to the east.",
+    "Evidence",
+    "OSM (measured): way/295592223, 80 × 105 m. Its front has a notch for the wings, a portico projection and end pavilions, which fix the hall's plan to within a metre or two. Its building:part way/515970173 lies inside. The outline's height=10 is only the wings' eaves, so it is not used.",
+    "USGS NAIP 2022 orthophoto (public domain), measured: the hall is 55.8 m wide, with 11.5 m end pavilions and a 16 m portico, the show building flat-roofed behind it, and the annex east of the hall.",
+    "Published (Wikipedia): five storeys forced to look like two and a half.",
+    "Photos (Wikimedia Commons, credited in the placement provenance): front (Epcotusa.jpg, public domain), front from the fountain (America - EPCOT - February 2009 by hyku.jpg, CC BY-SA 2.0), from the north-west (The American Adventure (37043444723).jpg, Sam Howzit, CC BY 2.0), and from across the lagoon (American Pavillion - panoramio.jpg, Eric Marshall, CC BY 3.0).",
+    "Estimated from the photos, with people and the portico for scale: portico columns 6.6 m, central eave 11 m, wing eaves 10.3 m, pavilion eaves 10.8 m, central deck 17 m, clock stage 17 to 21 m, dome top 25.9 m, pavilion decks 16 m with cupolas to 21 m.",
+    "Estimated without evidence: the show building's 12 m (it must sit below the hall's roofs, which hide it from the plaza) and the annex's 7.5 m. The depth of the hall's roofs (about 16 m) is what the aerial allows.",
+    "Simplified: the windows' green shutters, the banners and the clock face.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"wdw-epcot-american-adventure\", model \"wdw-epcot-american-adventure\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/wdw-epcot-american-adventure.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 6 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the wdw-epcot-american-adventure-glazing finish in the window colour.",
+    "To fit six materials, folded trim into stone (ΔE 4.8)."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

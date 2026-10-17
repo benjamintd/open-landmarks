@@ -1,0 +1,444 @@
+{
+  "id": "germany-pavilion-walt-disney-world",
+  "name": "Germany Pavilion",
+  "anchor": [
+    -81.54694,
+    28.36816
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 134696,
+      "sha256": "95a86066523a997c11d5a816d1c552835e4d117c5901cbe02623a01da9da42b5"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 134696,
+      "sha256": "95a86066523a997c11d5a816d1c552835e4d117c5901cbe02623a01da9da42b5"
+    }
+  },
+  "triangles": 3264,
+  "boundsBlenderM": [
+    [
+      -42.911,
+      -70.303,
+      0
+    ],
+    [
+      59.403,
+      33.202,
+      21.5
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -81.5472064,
+          28.3683137
+        ],
+        [
+          -81.5472875,
+          28.3682476
+        ],
+        [
+          -81.5472808,
+          28.3682417
+        ],
+        [
+          -81.5473063,
+          28.3682176
+        ],
+        [
+          -81.5472922,
+          28.3682052
+        ],
+        [
+          -81.5473096,
+          28.3681892
+        ],
+        [
+          -81.5473767,
+          28.3681639
+        ],
+        [
+          -81.5473666,
+          28.3681415
+        ],
+        [
+          -81.5473418,
+          28.3680866
+        ],
+        [
+          -81.5473188,
+          28.3680362
+        ],
+        [
+          -81.5472252,
+          28.368068
+        ],
+        [
+          -81.5471993,
+          28.368004
+        ],
+        [
+          -81.5471688,
+          28.3679562
+        ],
+        [
+          -81.5471856,
+          28.3679491
+        ],
+        [
+          -81.5470897,
+          28.3677744
+        ],
+        [
+          -81.5469536,
+          28.3678388
+        ],
+        [
+          -81.5468583,
+          28.3676983
+        ],
+        [
+          -81.5467618,
+          28.3677467
+        ],
+        [
+          -81.5467517,
+          28.3677396
+        ],
+        [
+          -81.546737,
+          28.3677373
+        ],
+        [
+          -81.5467249,
+          28.3677408
+        ],
+        [
+          -81.5465848,
+          28.3675249
+        ],
+        [
+          -81.5463346,
+          28.3676564
+        ],
+        [
+          -81.5464614,
+          28.3678417
+        ],
+        [
+          -81.546456,
+          28.3678511
+        ],
+        [
+          -81.54646,
+          28.3678629
+        ],
+        [
+          -81.5464728,
+          28.3678677
+        ],
+        [
+          -81.5465088,
+          28.3679236
+        ],
+        [
+          -81.54653,
+          28.3679561
+        ],
+        [
+          -81.5466029,
+          28.368063
+        ],
+        [
+          -81.5467048,
+          28.3681875
+        ],
+        [
+          -81.5467584,
+          28.3682004
+        ],
+        [
+          -81.5467678,
+          28.368214
+        ],
+        [
+          -81.5467786,
+          28.3682087
+        ],
+        [
+          -81.5468087,
+          28.3682524
+        ],
+        [
+          -81.5467859,
+          28.368263
+        ],
+        [
+          -81.5468081,
+          28.3682937
+        ],
+        [
+          -81.5468295,
+          28.368283
+        ],
+        [
+          -81.5468409,
+          28.3683013
+        ],
+        [
+          -81.5468563,
+          28.3682931
+        ],
+        [
+          -81.5468758,
+          28.3683232
+        ],
+        [
+          -81.5468664,
+          28.3683243
+        ],
+        [
+          -81.5468557,
+          28.3683302
+        ],
+        [
+          -81.546853,
+          28.3683391
+        ],
+        [
+          -81.5468543,
+          28.3683491
+        ],
+        [
+          -81.546861,
+          28.368358
+        ],
+        [
+          -81.5468724,
+          28.3683627
+        ],
+        [
+          -81.5468825,
+          28.3683615
+        ],
+        [
+          -81.5468966,
+          28.3683816
+        ],
+        [
+          -81.5468811,
+          28.3683904
+        ],
+        [
+          -81.5468778,
+          28.3684005
+        ],
+        [
+          -81.5468979,
+          28.3684264
+        ],
+        [
+          -81.54691,
+          28.3684205
+        ],
+        [
+          -81.5469355,
+          28.3684589
+        ],
+        [
+          -81.5470092,
+          28.3684199
+        ],
+        [
+          -81.5469884,
+          28.3683904
+        ],
+        [
+          -81.547028,
+          28.3683981
+        ],
+        [
+          -81.5470427,
+          28.3683586
+        ],
+        [
+          -81.5470521,
+          28.3683592
+        ],
+        [
+          -81.5470609,
+          28.3683238
+        ],
+        [
+          -81.5470629,
+          28.3683125
+        ],
+        [
+          -81.5470186,
+          28.3683043
+        ],
+        [
+          -81.5470246,
+          28.3682884
+        ],
+        [
+          -81.5470072,
+          28.3682594
+        ],
+        [
+          -81.5469851,
+          28.3682524
+        ],
+        [
+          -81.546975,
+          28.3682423
+        ],
+        [
+          -81.5469583,
+          28.3682488
+        ],
+        [
+          -81.5469609,
+          28.3682535
+        ],
+        [
+          -81.5469482,
+          28.3682594
+        ],
+        [
+          -81.5469489,
+          28.3682471
+        ],
+        [
+          -81.5469442,
+          28.3682457
+        ],
+        [
+          -81.5469254,
+          28.36824
+        ],
+        [
+          -81.546914,
+          28.3682199
+        ],
+        [
+          -81.5469194,
+          28.3681751
+        ],
+        [
+          -81.5469301,
+          28.3681757
+        ],
+        [
+          -81.5469375,
+          28.3681196
+        ],
+        [
+          -81.5469878,
+          28.3681019
+        ],
+        [
+          -81.5469925,
+          28.3681108
+        ],
+        [
+          -81.5470407,
+          28.3680936
+        ],
+        [
+          -81.5470381,
+          28.368086
+        ],
+        [
+          -81.5470493,
+          28.3680818
+        ],
+        [
+          -81.5470649,
+          28.3680759
+        ],
+        [
+          -81.5471306,
+          28.3681414
+        ],
+        [
+          -81.5471397,
+          28.3681965
+        ],
+        [
+          -81.5471809,
+          28.3681916
+        ],
+        [
+          -81.547144,
+          28.3682223
+        ],
+        [
+          -81.5471266,
+          28.3682364
+        ],
+        [
+          -81.5472064,
+          28.3683137
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 295593358,
+    "version": 9,
+    "timestamp": "2026-07-28T01:45:20Z",
+    "url": "https://www.openstreetmap.org/way/295593358"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q2129498",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/wdw-epcot-germany.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "EPCOT Germany pavilion: the platz — procedural, CC0-1.0. bun generators/wdw-epcot-germany.ts",
+    "Map frame: x east, y north, z up, metres; bearing 0. The anchor is the centroid of the pavilion's single OSM outline (way/295593358), which wraps the platz on three sides and runs back over the Biergarten's show building.",
+    "What it is: a Bavarian/Rhineland town square. The whole footprint is the plain flat-roofed show building it really is from above; standing on it, round the platz and the St George fountain: Das Kaufhaus (after Freiburg's Historisches Kaufhaus) facing the promenade, ochre with tall windows, a balcony, a steep red roof between stepped gables and two corner oriels with pointed caps; on the south side the Glockenspiel clock tower and an orange stepped-gable house, the painted Biergarten front, and behind them the pale crenellated castle walls and round tower; on the east and north-east the white round tower with red roof, lantern and onion dome, the big half-timbered gable of the Stein Haus, the orange stepped gable of the Weinkeller and a red-roofed house towards the promenade.",
+    "Evidence",
+    "OSM (measured): the outline (simplified to the metre: notches under a metre are dropped) and the shop nodes that place each front (Das Kaufhaus, Glockenspiel, Sommerfest, Stein Haus, Weinkeller, Kunstarbeit in Kristall, Die Weihnachts Ecke, Karamell-Küche) and the fountain.",
+    "Public-domain USGS NAIP orthophoto: which parts carry red tile roofs (the Kaufhaus wing, the north-east wing, the platz's south side) and which are flat show-building roof, and the Kaufhaus roof's size and ridge line.",
+    "Photos (Wikimedia Commons): looking south across the platz (Epcot Germany2.JPG), the fountain and north-east side (Epcot - 52636503733.jpg), the Kaufhaus front (Germany Pavilion (41459027350).jpg), the Kunstarbeit stepped gable (Kunstarbeit in Kristall Exterior (39978161491).jpg).",
+    "Estimated from the photos (nothing is published or tagged): eaves 7–11 m, ridges 13–17.5 m, the clock tower 21 m, the castle walls 15.5 m and its round tower 19.4 m, the show building 9 m.",
+    "Invented or simplified: the backs and the show building's walls (plain); where exactly each front's corners fall along the outline; the castle's footprint, placed behind the platz where the photos show it.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"wdw-epcot-germany\", model \"wdw-epcot-germany\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/wdw-epcot-germany.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 11 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the wdw-epcot-germany-glazing finish in the window colour.",
+    "To fit six materials, folded wdw-epcot-germany-timber into terracotta (ΔE 16.9)."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

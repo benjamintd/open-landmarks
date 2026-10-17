@@ -1,0 +1,495 @@
+{
+  "id": "the-chinese-theater-walt-disney-world",
+  "name": "The Chinese Theater",
+  "anchor": [
+    -81.560482,
+    28.356073
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 55600,
+      "sha256": "29a826c66f17e83588c51642994a403220c21b6c255c74198ab772f1f62180e9"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 55600,
+      "sha256": "29a826c66f17e83588c51642994a403220c21b6c255c74198ab772f1f62180e9"
+    }
+  },
+  "triangles": 945,
+  "boundsBlenderM": [
+    [
+      -38.96,
+      -56.91,
+      0
+    ],
+    [
+      45.83,
+      97.325,
+      26.5
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -81.5604422,
+          28.3566544
+        ],
+        [
+          -81.5604458,
+          28.3566379
+        ],
+        [
+          -81.5604508,
+          28.3566284
+        ],
+        [
+          -81.5604583,
+          28.3566172
+        ],
+        [
+          -81.5604898,
+          28.3565882
+        ],
+        [
+          -81.5605059,
+          28.3565765
+        ],
+        [
+          -81.5605261,
+          28.3565705
+        ],
+        [
+          -81.5605275,
+          28.3566157
+        ],
+        [
+          -81.5605493,
+          28.3566154
+        ],
+        [
+          -81.560561,
+          28.3566154
+        ],
+        [
+          -81.560624,
+          28.3566622
+        ],
+        [
+          -81.5605957,
+          28.3566875
+        ],
+        [
+          -81.5606808,
+          28.3567612
+        ],
+        [
+          -81.560706,
+          28.3567387
+        ],
+        [
+          -81.5607587,
+          28.3567813
+        ],
+        [
+          -81.5607926,
+          28.3567546
+        ],
+        [
+          -81.5608017,
+          28.3567788
+        ],
+        [
+          -81.5608026,
+          28.3568028
+        ],
+        [
+          -81.560798,
+          28.3568253
+        ],
+        [
+          -81.5607883,
+          28.3568464
+        ],
+        [
+          -81.560753,
+          28.3568772
+        ],
+        [
+          -81.5607318,
+          28.356886
+        ],
+        [
+          -81.560723,
+          28.356888
+        ],
+        [
+          -81.5607071,
+          28.3568918
+        ],
+        [
+          -81.5606862,
+          28.3568923
+        ],
+        [
+          -81.5606655,
+          28.3568893
+        ],
+        [
+          -81.56065,
+          28.3568835
+        ],
+        [
+          -81.5606376,
+          28.3568751
+        ],
+        [
+          -81.5606202,
+          28.3568606
+        ],
+        [
+          -81.5606132,
+          28.3568672
+        ],
+        [
+          -81.5606064,
+          28.3568736
+        ],
+        [
+          -81.5606978,
+          28.3569525
+        ],
+        [
+          -81.5607456,
+          28.3569097
+        ],
+        [
+          -81.5608612,
+          28.3568061
+        ],
+        [
+          -81.5608798,
+          28.3567916
+        ],
+        [
+          -81.5608679,
+          28.3567814
+        ],
+        [
+          -81.5607977,
+          28.356721
+        ],
+        [
+          -81.5607369,
+          28.3566672
+        ],
+        [
+          -81.5607346,
+          28.3565946
+        ],
+        [
+          -81.5607323,
+          28.3564116
+        ],
+        [
+          -81.5608486,
+          28.3564121
+        ],
+        [
+          -81.5608491,
+          28.3559224
+        ],
+        [
+          -81.5608492,
+          28.3558913
+        ],
+        [
+          -81.5608474,
+          28.3556849
+        ],
+        [
+          -81.5608473,
+          28.355667
+        ],
+        [
+          -81.5608708,
+          28.3556675
+        ],
+        [
+          -81.5608688,
+          28.3555586
+        ],
+        [
+          -81.56079,
+          28.3555583
+        ],
+        [
+          -81.5607465,
+          28.3555581
+        ],
+        [
+          -81.560747,
+          28.3555794
+        ],
+        [
+          -81.5607216,
+          28.3555791
+        ],
+        [
+          -81.5606914,
+          28.3555796
+        ],
+        [
+          -81.5602078,
+          28.35558
+        ],
+        [
+          -81.560208,
+          28.3556302
+        ],
+        [
+          -81.56007,
+          28.3556308
+        ],
+        [
+          -81.5600693,
+          28.3556878
+        ],
+        [
+          -81.5600151,
+          28.3556903
+        ],
+        [
+          -81.5600144,
+          28.3558219
+        ],
+        [
+          -81.5600143,
+          28.3558415
+        ],
+        [
+          -81.5600154,
+          28.3560324
+        ],
+        [
+          -81.5600642,
+          28.3560325
+        ],
+        [
+          -81.5600654,
+          28.3561519
+        ],
+        [
+          -81.5601419,
+          28.3561522
+        ],
+        [
+          -81.5601416,
+          28.3563621
+        ],
+        [
+          -81.5601464,
+          28.3563621
+        ],
+        [
+          -81.5602044,
+          28.3563651
+        ],
+        [
+          -81.5602045,
+          28.3563874
+        ],
+        [
+          -81.5602028,
+          28.3564535
+        ],
+        [
+          -81.5602987,
+          28.3564541
+        ],
+        [
+          -81.5602997,
+          28.3564139
+        ],
+        [
+          -81.5603367,
+          28.3564143
+        ],
+        [
+          -81.5603381,
+          28.3565491
+        ],
+        [
+          -81.5603717,
+          28.3565492
+        ],
+        [
+          -81.5604018,
+          28.356548
+        ],
+        [
+          -81.5604783,
+          28.3565466
+        ],
+        [
+          -81.560479,
+          28.3565764
+        ],
+        [
+          -81.5604506,
+          28.3566011
+        ],
+        [
+          -81.5604156,
+          28.3566281
+        ],
+        [
+          -81.5603661,
+          28.3566693
+        ],
+        [
+          -81.5604739,
+          28.356753
+        ],
+        [
+          -81.5604863,
+          28.3567423
+        ],
+        [
+          -81.5604648,
+          28.3567239
+        ],
+        [
+          -81.5604512,
+          28.356703
+        ],
+        [
+          -81.5604436,
+          28.3566798
+        ],
+        [
+          -81.5604422,
+          28.3566544
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 294898804,
+    "version": 46,
+    "timestamp": "2025-04-08T09:41:06Z",
+    "url": "https://www.openstreetmap.org/way/294898804"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 607996087,
+      "version": 1,
+      "timestamp": "2018-07-15T01:27:29Z",
+      "url": "https://www.openstreetmap.org/way/607996087"
+    },
+    {
+      "type": "way",
+      "id": 607972840,
+      "version": 2,
+      "timestamp": "2022-09-24T17:46:09Z",
+      "url": "https://www.openstreetmap.org/way/607972840"
+    }
+  ],
+  "wikidata": "Q33082878",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Disney's Hollywood Studios, October 2015 (22121989876).jpg",
+      "author": "Theme Park Tourist",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Disney%27s_Hollywood_Studios,_October_2015_(22121989876).jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:The Great Movie Ride (42346719425).jpg",
+      "author": "HarshLight from San Jose, CA, USA",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:The_Great_Movie_Ride_(42346719425).jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Chinese Theatre (9410830645).jpg",
+      "author": "Sam Howzit",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Chinese_Theatre_(9410830645).jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Runaway Railway Chinese Theater.jpg",
+      "author": "Jedi94",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Runaway_Railway_Chinese_Theater.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:The Great Movie Ride and Chinese Theater at Walt Disney World.jpg",
+      "author": "Jedi94",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:The_Great_Movie_Ride_and_Chinese_Theater_at_Walt_Disney_World.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Chinese Theater (49560227308).jpg",
+      "author": "Eden, Janine and Jim from New York City",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Chinese_Theater_(49560227308).jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/wdw-chinese-theater.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "The Chinese Theater, Disney's Hollywood Studios (home of Mickey & Minnie's Runaway Railway, formerly The Great Movie Ride) — procedural, CC0-1.0, no textures. bun generators/wdw-chinese-theater.ts",
+    "Map frame: x east, y north, z up, metres, bearing 0, origin at the centroid of the OSM outline way/294898804. That outline is the whole building: the theater front and its forecourt walls at the north end, turned 45° to face north-east down Hollywood Boulevard, and the square-set show building behind. The front is built in its own frame (u across the facade towards the south-east, v out of it towards the forecourt) and turned into place.",
+    "Evidence",
+    "OSM (measured): the outline way/294898804 with its forecourt cut-out and curved forecourt walls; way/607996087, the pagoda's portal (12 × 7 m); way/607972840, the round base of the forecourt's green-roofed pavilion. No heights are tagged.",
+    "Published: a full-size replica of Grauman's Chinese Theatre built from its 1927 drawings (Wikipedia, \"The Great Movie Ride\"); the original's pagoda is 27 m tall, with a 9.1 m dragon mural between its two red pillars and a bronze roof (Wikipedia, \"Grauman's Chinese Theatre\").",
+    "USGS NAIP orthophoto (public domain): the show building's flat white roof and its lower east strip.",
+    "Photos (Wikimedia Commons): \"Disney's Hollywood Studios, October 2015 (22121989876).jpg\", Theme Park Tourist, CC BY 2.0 — whole front, head-on \"The Great Movie Ride (42346719425).jpg\", HarshLight, CC BY 2.0 — pagoda, head-on \"Chinese Theatre (9410830645).jpg\", Sam Howzit, CC BY 2.0 — pagoda from the left \"Runaway Railway Chinese Theater.jpg\", Jedi94, CC BY-SA 4.0 — the 2020 front \"The Great Movie Ride and Chinese Theater at Walt Disney World.jpg\", Jedi94, CC BY-SA 3.0 — the four obelisks \"Chinese Theater (49560227308).jpg\", Eden, Janine and Jim, CC BY 2.0 — portal",
+    "Estimated: the forecourt walls (13 m), the wing fronts (15.5 m) and obelisks (23.5 m) are scaled from the head-on photo against the 27 m pagoda; the show building's 16 m is a guess, as no licensed photo shows it above the front. The pagoda's eave (14.3 m) and ridge (24.2 m) are scaled from the same photo. The pillars' ornament, the masks, the spiky dragon crests and the roof's small upright finials are simplified to blocks and spikes.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"wdw-chinese-theater\", model \"wdw-chinese-theater\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/wdw-chinese-theater.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 43 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the wdw-chinese-theater-glazing finish in the window colour.",
+    "To fit six materials, folded wdw-chinese-theater-glazing into wdw-chinese-theater-pagoda-bronze (ΔE 14.6)."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

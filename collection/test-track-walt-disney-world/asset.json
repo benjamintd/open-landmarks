@@ -1,0 +1,314 @@
+{
+  "id": "test-track-walt-disney-world",
+  "name": "Test Track",
+  "anchor": [
+    -81.54721781,
+    28.37284435
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 121044,
+      "sha256": "ffc143e9d9a3709c64f82f00782102589eaaa0327228582b9ecb85866b5e6e01"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 121044,
+      "sha256": "ffc143e9d9a3709c64f82f00782102589eaaa0327228582b9ecb85866b5e6e01"
+    }
+  },
+  "triangles": 3209,
+  "boundsBlenderM": [
+    [
+      -58.4,
+      -102.107,
+      0
+    ],
+    [
+      191.593,
+      71.9,
+      22
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -81.5476152,
+          28.3731119
+        ],
+        [
+          -81.5476585,
+          28.373053
+        ],
+        [
+          -81.5476903,
+          28.3729894
+        ],
+        [
+          -81.5477107,
+          28.3729206
+        ],
+        [
+          -81.5477181,
+          28.3728546
+        ],
+        [
+          -81.5477135,
+          28.3727838
+        ],
+        [
+          -81.5476951,
+          28.372712
+        ],
+        [
+          -81.5476667,
+          28.3726498
+        ],
+        [
+          -81.5476271,
+          28.372591
+        ],
+        [
+          -81.5475781,
+          28.3725388
+        ],
+        [
+          -81.5475171,
+          28.3724914
+        ],
+        [
+          -81.547452,
+          28.3724552
+        ],
+        [
+          -81.5473823,
+          28.3724285
+        ],
+        [
+          -81.5473092,
+          28.3724115
+        ],
+        [
+          -81.5472307,
+          28.3724042
+        ],
+        [
+          -81.5471557,
+          28.3724075
+        ],
+        [
+          -81.5470803,
+          28.3724211
+        ],
+        [
+          -81.5470113,
+          28.3724434
+        ],
+        [
+          -81.5469395,
+          28.3724785
+        ],
+        [
+          -81.5468774,
+          28.3725217
+        ],
+        [
+          -81.546828,
+          28.3725684
+        ],
+        [
+          -81.5467855,
+          28.3726228
+        ],
+        [
+          -81.5467502,
+          28.372688
+        ],
+        [
+          -81.5467277,
+          28.3727562
+        ],
+        [
+          -81.5467182,
+          28.3728211
+        ],
+        [
+          -81.5467202,
+          28.3728891
+        ],
+        [
+          -81.5467352,
+          28.3729601
+        ],
+        [
+          -81.5467627,
+          28.3730271
+        ],
+        [
+          -81.5467987,
+          28.3730847
+        ],
+        [
+          -81.5468275,
+          28.3731197
+        ],
+        [
+          -81.5468491,
+          28.3731411
+        ],
+        [
+          -81.5468682,
+          28.37316
+        ],
+        [
+          -81.5469162,
+          28.3731962
+        ],
+        [
+          -81.5469692,
+          28.3732263
+        ],
+        [
+          -81.5470418,
+          28.3732564
+        ],
+        [
+          -81.5471229,
+          28.3732765
+        ],
+        [
+          -81.5471959,
+          28.3732841
+        ],
+        [
+          -81.5472765,
+          28.3732815
+        ],
+        [
+          -81.5473523,
+          28.3732683
+        ],
+        [
+          -81.5474307,
+          28.3732428
+        ],
+        [
+          -81.547451,
+          28.3732784
+        ],
+        [
+          -81.5474577,
+          28.3732841
+        ],
+        [
+          -81.5474607,
+          28.3732865
+        ],
+        [
+          -81.5474677,
+          28.3732916
+        ],
+        [
+          -81.5474952,
+          28.3733077
+        ],
+        [
+          -81.5475511,
+          28.3732759
+        ],
+        [
+          -81.547602,
+          28.3732375
+        ],
+        [
+          -81.54759,
+          28.3732088
+        ],
+        [
+          -81.5475856,
+          28.3731982
+        ],
+        [
+          -81.5475632,
+          28.3731629
+        ],
+        [
+          -81.5476152,
+          28.3731119
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 295315993,
+    "version": 18,
+    "timestamp": "2021-09-05T03:45:11Z",
+    "url": "https://www.openstreetmap.org/way/295315993"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 295949487,
+      "version": 4,
+      "timestamp": "2020-02-23T23:30:25Z",
+      "url": "https://www.openstreetmap.org/way/295949487"
+    },
+    {
+      "type": "way",
+      "id": 721055302,
+      "version": 7,
+      "timestamp": "2025-06-30T13:36:04Z",
+      "url": "https://www.openstreetmap.org/way/721055302"
+    },
+    {
+      "type": "way",
+      "id": 1539425232,
+      "version": 1,
+      "timestamp": "2026-07-15T11:34:01Z",
+      "url": "https://www.openstreetmap.org/way/1539425232"
+    }
+  ],
+  "wikidata": "Q645233",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/wdw-epcot-test-track.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Test Track, EPCOT (Walt Disney World): procedural, CC0-1.0. bun generators/wdw-epcot-test-track.ts (REPORT=1 for the track table)",
+    "Map frame: x east, y north, z up, metres; bearing 0, so the frame is true north. The origin is the centre of the round show building (the area centroid of OSM way/295949487), on the ground (EPCOT is flat).",
+    "What it is. The old World of Motion drum, about 98 m across, with Test Track's outdoor run around and beyond it: out of the building's north-east side along a straight over the service road, a 90° right turn and a 270° left turn round the \"boot\" over the cast car park, back along the straight, then a full counter-clockwise lap of the drum on the 50° banked curve, and back in. The drum is clad in dark charcoal panels (reflective, they read near-black from above) over a recessed ground storey, with a low white dome of a roof. At the north-west entrance a low vestibule sits under the 2025 canopy.",
+    "Track. The outdoor track is one OSM way (way/721055302, `roller_coaster=track`, `slot_car=track`, 793 m), drawn with ./coaster-kit.ts as an open run (`shuttle`), from the doors where it leaves the drum to the doors where it goes back in. The kit's output is read back and merged with the building here, keeping its deck, beam and supports and dropping its station canopy (the station is indoors). The cars are powered, so the kit's energy walk is used only to set the speeds that bank the track: about 50 km/h out to the boot and round it, then the speed run at the published 104 km/h back along the straight and round the drum, where the banking is set by hand to the published 50°.",
+    "Evidence. Measured: the drum (OSM, a circle of 48.8 m radius, checked on USGS NAIP, public domain); the track's plan (OSM, which NAIP and the 2006 aerial plaque agree with: a lane each way along the straight, 4 m apart); the vestibule and canopy outlines (OSM way/295315993, way/1539425232). Published: top speed 65 mph (104.6 km/h) on a 50° banked curve, the lap of the building (Wikipedia, Disney). Estimated: the track's height (6.5 m everywhere, from the photos, where the shelf runs over the 3 m doors with room to spare); the drum's height (19 m to the eaves, the dome rising to 22 m), from the Jurvetson aerial and the entrance photos; the canopy (6.5 to 8.5 m). Invented: the boot's speed (no published figure), and so its banking.",
+    "Photos (Wikimedia Commons): \"Side of Test Track\" (Michael Rivera, CC BY-SA 4.0); \"Test Track, EPCOT (2024)\" (Jedi94, CC BY-SA 4.0); \"Test Track 3.0 Marquee 2025\" (ARC Adventures, CC BY 3.0); \"Aerial photo plaque of the Mission SPACE pavilion next door, Test Track, June 2006\" (ThrillZing, CC BY 4.0); \"EPCOT from above\" (Steve Jurvetson, CC BY 2.0). Plan: OSM and USGS NAIP (public domain).",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"wdw-epcot-test-track\", model \"wdw-epcot-test-track\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/wdw-epcot-test-track.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 2048 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the wdw-epcot-test-track-glazing finish in the window colour."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

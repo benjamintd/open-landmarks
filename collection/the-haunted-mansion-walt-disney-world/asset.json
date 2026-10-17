@@ -1,0 +1,286 @@
+{
+  "id": "the-haunted-mansion-walt-disney-world",
+  "name": "The Haunted Mansion",
+  "anchor": [
+    -81.583103,
+    28.4204763
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 39344,
+      "sha256": "f6a1186040f6a47d4d71be393ecb997bf7e674b334ebedebe24e97ee16f076d7"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 39344,
+      "sha256": "f6a1186040f6a47d4d71be393ecb997bf7e674b334ebedebe24e97ee16f076d7"
+    }
+  },
+  "triangles": 727,
+  "boundsBlenderM": [
+    [
+      -12.337,
+      -10.11,
+      0
+    ],
+    [
+      12.174,
+      19.187,
+      23.2
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -81.5829993,
+          28.4206307
+        ],
+        [
+          -81.5830044,
+          28.4205974
+        ],
+        [
+          -81.583006,
+          28.4205867
+        ],
+        [
+          -81.5830138,
+          28.4205329
+        ],
+        [
+          -81.5830169,
+          28.4205116
+        ],
+        [
+          -81.5830182,
+          28.4205031
+        ],
+        [
+          -81.5829924,
+          28.4204653
+        ],
+        [
+          -81.5829943,
+          28.4204471
+        ],
+        [
+          -81.582998,
+          28.4204111
+        ],
+        [
+          -81.5830189,
+          28.4203894
+        ],
+        [
+          -81.5830803,
+          28.4203994
+        ],
+        [
+          -81.5830942,
+          28.4203858
+        ],
+        [
+          -81.5831326,
+          28.4203932
+        ],
+        [
+          -81.5831425,
+          28.4204059
+        ],
+        [
+          -81.5832181,
+          28.4204141
+        ],
+        [
+          -81.5832204,
+          28.4204329
+        ],
+        [
+          -81.5832208,
+          28.4204478
+        ],
+        [
+          -81.5832212,
+          28.4204647
+        ],
+        [
+          -81.5832212,
+          28.4204941
+        ],
+        [
+          -81.5831796,
+          28.4205213
+        ],
+        [
+          -81.5831687,
+          28.4205284
+        ],
+        [
+          -81.583154,
+          28.4206497
+        ],
+        [
+          -81.5832406,
+          28.4207901
+        ],
+        [
+          -81.5831871,
+          28.4208484
+        ],
+        [
+          -81.5831171,
+          28.4209253
+        ],
+        [
+          -81.5831059,
+          28.4209374
+        ],
+        [
+          -81.5830946,
+          28.4209496
+        ],
+        [
+          -81.5830861,
+          28.4209861
+        ],
+        [
+          -81.5830721,
+          28.4210959
+        ],
+        [
+          -81.58306,
+          28.421153
+        ],
+        [
+          -81.5829236,
+          28.4213132
+        ],
+        [
+          -81.5826776,
+          28.4212843
+        ],
+        [
+          -81.582569,
+          28.4212716
+        ],
+        [
+          -81.5825906,
+          28.4211007
+        ],
+        [
+          -81.582605,
+          28.4209869
+        ],
+        [
+          -81.5826164,
+          28.4208973
+        ],
+        [
+          -81.5826382,
+          28.4207254
+        ],
+        [
+          -81.5826553,
+          28.4205905
+        ],
+        [
+          -81.5829993,
+          28.4206307
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 41831418,
+    "version": 31,
+    "timestamp": "2025-04-28T23:36:31Z",
+    "url": "https://www.openstreetmap.org/way/41831418"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 1107979231,
+      "version": 1,
+      "timestamp": "2022-10-29T14:37:30Z",
+      "url": "https://www.openstreetmap.org/way/1107979231"
+    },
+    {
+      "type": "way",
+      "id": 1107979232,
+      "version": 1,
+      "timestamp": "2022-10-29T14:37:30Z",
+      "url": "https://www.openstreetmap.org/way/1107979232"
+    },
+    {
+      "type": "way",
+      "id": 1107979233,
+      "version": 1,
+      "timestamp": "2022-10-29T14:37:30Z",
+      "url": "https://www.openstreetmap.org/way/1107979233"
+    },
+    {
+      "type": "way",
+      "id": 1107979234,
+      "version": 1,
+      "timestamp": "2022-10-29T14:37:30Z",
+      "url": "https://www.openstreetmap.org/way/1107979234"
+    },
+    {
+      "type": "way",
+      "id": 1107979235,
+      "version": 1,
+      "timestamp": "2022-10-29T14:37:30Z",
+      "url": "https://www.openstreetmap.org/way/1107979235"
+    },
+    {
+      "type": "way",
+      "id": 1107979236,
+      "version": 1,
+      "timestamp": "2022-10-29T14:37:30Z",
+      "url": "https://www.openstreetmap.org/way/1107979236"
+    }
+  ],
+  "wikidata": "Q2030983",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/wdw-haunted-mansion.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "The Haunted Mansion, Liberty Square, Magic Kingdom — procedural, CC0-1.0. bun generators/wdw-haunted-mansion.ts",
+    "Map frame, turned: x along the mansion's front (toward 98°), y back from it (toward 8°), z up, metres. Placed at bearing 8°, the line of the front terrace in OSM. Authored about the area centroid of the OSM outline way/41831418 (-81.5828906, 28.4208882), then shifted so the origin is the mansion's own centre (-81.583103, 28.4204763), on the ground.",
+    "The outline covers the mansion at its south-west corner and the big show building behind it. The model replaces the outline and the mansion's parts, and leaves the show building's own part (way/1107979230, 8 m) to the map, which draws it as the plain block it is.",
+    "A Dutch-gothic Hudson Valley manor in red brick with sandstone trim, on a balustraded terrace: a left wing under a steep slate roof with a coped front gable, the square brick tower with its open cupola and copper dome, the centre with its porch, and on the right the tall stone-coped front gable with its twin chimneys and the octagonal glass conservatory in front of it. Iron cresting runs along the ridges.",
+    "Evidence: - OSM, measured: the outline; the connector behind the mansion (way/1107979231, 4 m), the mansion's front strip (way/1107979233), the round end that is the conservatory (way/1107979236), and two small round parts that sit where the tower (way/1107979234) and the left chimneys (way/1107979235) stand. OSM's mansion heights (7–12 m) are too low against every photo, and its main block (way/1107979232) is drawn turned 45° to the front; neither is followed. - Photos: across the Rivers of America with a long lens (SteamFan, CC BY 2.5), scaled on the conservatory's OSM width (6.5 m): eaves 11 m, the big gable's apex 15.3 m, chimneys 18 m, tower 14.6 m and its dome 18.6 m above the terrace; close front three-quarter (Eden, Janine and Jim, CC BY 2.0); front (Benjamin D. Esham, CC BY-SA 4.0).",
+    "Estimated: the terrace's height (2.5 m), the mansion's depth (11 m) and everything behind the front face, which no photo shows over the trees. The mansion is a little narrower than the photos suggest (~22 m against ~28 m), held to OSM's front strip.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"wdw-haunted-mansion\", model \"wdw-haunted-mansion\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/wdw-haunted-mansion.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

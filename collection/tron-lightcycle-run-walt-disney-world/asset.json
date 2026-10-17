@@ -1,0 +1,204 @@
+{
+  "id": "tron-lightcycle-run-walt-disney-world",
+  "name": "TRON Lightcycle / Run",
+  "anchor": [
+    -81.5771401,
+    28.4203863
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 157368,
+      "sha256": "c6402222668b6767e1b339b20d7cfa93291106dbcc6235e974bc9afe4ff06cd3"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 157368,
+      "sha256": "c6402222668b6767e1b339b20d7cfa93291106dbcc6235e974bc9afe4ff06cd3"
+    }
+  },
+  "triangles": 5183,
+  "boundsBlenderM": [
+    [
+      -99.5,
+      -63,
+      0
+    ],
+    [
+      105.9,
+      73.3,
+      29.848
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -81.5763171,
+          28.4208213
+        ],
+        [
+          -81.5763596,
+          28.4208018
+        ],
+        [
+          -81.5764465,
+          28.420954
+        ],
+        [
+          -81.5765095,
+          28.4209286
+        ],
+        [
+          -81.5765799,
+          28.4210492
+        ],
+        [
+          -81.5773058,
+          28.4207284
+        ],
+        [
+          -81.5772696,
+          28.4206624
+        ],
+        [
+          -81.5773822,
+          28.4206105
+        ],
+        [
+          -81.5771482,
+          28.4201971
+        ],
+        [
+          -81.5770951,
+          28.4201042
+        ],
+        [
+          -81.5770805,
+          28.4200785
+        ],
+        [
+          -81.5770686,
+          28.4200835
+        ],
+        [
+          -81.576937,
+          28.4201387
+        ],
+        [
+          -81.5769121,
+          28.420071
+        ],
+        [
+          -81.576878,
+          28.419978
+        ],
+        [
+          -81.5767227,
+          28.4200148
+        ],
+        [
+          -81.5767201,
+          28.4200069
+        ],
+        [
+          -81.5766356,
+          28.4200305
+        ],
+        [
+          -81.5766386,
+          28.4200461
+        ],
+        [
+          -81.5764076,
+          28.4201098
+        ],
+        [
+          -81.5761022,
+          28.4202495
+        ],
+        [
+          -81.5760586,
+          28.4203675
+        ],
+        [
+          -81.5763171,
+          28.4208213
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 804994339,
+    "version": 10,
+    "timestamp": "2025-12-24T13:49:15Z",
+    "url": "https://www.openstreetmap.org/way/804994339"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 1089770163,
+      "version": 9,
+      "timestamp": "2025-12-24T13:49:15Z",
+      "url": "https://www.openstreetmap.org/way/1089770163"
+    },
+    {
+      "type": "way",
+      "id": 1283031001,
+      "version": 2,
+      "timestamp": "2025-01-15T22:30:20Z",
+      "url": "https://www.openstreetmap.org/way/1283031001"
+    },
+    {
+      "type": "way",
+      "id": 1283031000,
+      "version": 2,
+      "timestamp": "2024-09-18T15:51:09Z",
+      "url": "https://www.openstreetmap.org/way/1283031000"
+    }
+  ],
+  "wikidata": "Q123594444",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/wdw-tron-lightcycle-run.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "TRON Lightcycle / Run, Tomorrowland, Magic Kingdom: the undulating canopy over the outdoor run, the track and the show building. Procedural, CC0-1.0. bun generators/wdw-tron-lightcycle-run.ts (REPORT=1 for the element table)",
+    "Map frame: x east, y north, z up, metres; bearing 0. The park frame is equirectangular about 28.4195 N, 81.5800 W (`origin`); the model's origin is the anchor below, on the ground. Built with ./coaster-kit.ts.",
+    "Plan. OSM draws only the outdoor run, oneway in ride order: the launch straight way/1283031001 (63 m) out of the show building's south-west wall, then way/1283031000 (174 m), the loop under the canopy's west lobe and back east along its north arm into the building. Laid over the USGS NAIP orthophoto (public domain) both sit where the track shows through the canopy's open hook. The indoor run (the rest of the published 966 m) is not mapped and can't be seen: a short stand-in loop at ground level closes the circuit inside the show building, hidden by its walls.",
+    "Canopy. OSM's outline (way/1089770163, building=roof) is offset and rough against NAIP, so the outline here is traced over NAIP: a sock-shaped shell, a broad west lobe round an open hook, and an arm east to the building. The shell is a height field over that outline: high in the middle, its edge rising in arches between feet that come down to short legs, as the photos show; the arches are kept clear of the track where it runs out under them. Shallow diagonal cushions follow NAIP's rib pattern. It is drawn as the pale panelled roof it reads as by day (it is translucent ETFE), with the dark teal band along its edge.",
+    "Profile: Vekoma, LSM launch (RCDB 15286), 3,169 ft (966 m) of track, 78 ft (23.8 m) high, 59.3 mph (95 km/h). Wikipedia's layout: a right turn out of the station to the launch, out of the building under the canopy, back into the building for the indoor grid. Positions are metres along the OSM polyline from the building wall (237 m outdoors):",
+    "launch straight, climbing out of the building over the walkways s 0-63 out through the canopy's hook, under the west lobe s 63-110 the hairpin round the west end, cresting at about 15 m s 110-150 down the north arm and back into the show building s 150-237",
+    "Published: length, height, speed, the launch and the order. Estimated: every height (the track runs over the elevated walkways, OSM layer 2 over their layer 1; the crest from the photos), the canopy's heights (crown about 22 m over the west lobe, from the photos against the track and people), the show building's 22 m (no height in OSM). Invented: the indoor loop.",
+    "Photos: \"Tron Lightcycle Run\" (Paigeboyd02, CC BY-SA 4.0) for the Florida canopy from the Tomorrowland side; \"Tron Lightcycle Power Run (Magic Kingdom) 3\" and \"4\" (Wacky Windjammer, CC BY-SA 4.0) for the show building and the track and structure; \"Guests riding TRON Lightcycle Run\" (BallofyaRn, CC0). The Shanghai twin, same canopy design: \"TRON Lightcycle Power Run, attraction exterior\" (Jedi94, CC BY-SA 4.0) and \"Tron Lightcycles Power Run (29510933592)\", \"(29586661836)\" and others (Jeremy Thompson, CC BY 2.0). Plan: USGS NAIP (public domain).",
+    "Style: the show building is drawn dark slate, as briefed (in daylight its panels are mid grey with darker bands); the track white, its columns grey.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"wdw-tron-lightcycle-run\", model \"wdw-tron-lightcycle-run\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/wdw-tron-lightcycle-run.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

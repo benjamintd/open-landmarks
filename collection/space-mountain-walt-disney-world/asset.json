@@ -1,0 +1,305 @@
+{
+  "id": "space-mountain-walt-disney-world",
+  "name": "Space Mountain",
+  "anchor": [
+    -81.5772341,
+    28.4191494
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 159960,
+      "sha256": "e14b0f780b73a7431055a6a59531e7ce2688f1ec9f37645415d93f57fbd2e6dc"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 159960,
+      "sha256": "e14b0f780b73a7431055a6a59531e7ce2688f1ec9f37645415d93f57fbd2e6dc"
+    }
+  },
+  "triangles": 3333,
+  "boundsBlenderM": [
+    [
+      -55.7,
+      -52.77,
+      0
+    ],
+    [
+      52.77,
+      52.77,
+      56
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -81.5771915,
+          28.4196243
+        ],
+        [
+          -81.5771157,
+          28.4196142
+        ],
+        [
+          -81.5770421,
+          28.4195948
+        ],
+        [
+          -81.576972,
+          28.4195662
+        ],
+        [
+          -81.5769062,
+          28.4195284
+        ],
+        [
+          -81.5768493,
+          28.4194844
+        ],
+        [
+          -81.5767994,
+          28.4194332
+        ],
+        [
+          -81.5767577,
+          28.4193754
+        ],
+        [
+          -81.5767263,
+          28.419314
+        ],
+        [
+          -81.5767049,
+          28.4192483
+        ],
+        [
+          -81.5766944,
+          28.4191812
+        ],
+        [
+          -81.5766949,
+          28.4191133
+        ],
+        [
+          -81.5767063,
+          28.4190465
+        ],
+        [
+          -81.5767284,
+          28.4189815
+        ],
+        [
+          -81.5767614,
+          28.4189191
+        ],
+        [
+          -81.5768034,
+          28.4188626
+        ],
+        [
+          -81.5768538,
+          28.4188121
+        ],
+        [
+          -81.5769128,
+          28.4187677
+        ],
+        [
+          -81.5769785,
+          28.4187312
+        ],
+        [
+          -81.5770487,
+          28.4187035
+        ],
+        [
+          -81.5771217,
+          28.4186851
+        ],
+        [
+          -81.5771985,
+          28.4186758
+        ],
+        [
+          -81.5772756,
+          28.4186762
+        ],
+        [
+          -81.5773514,
+          28.4186861
+        ],
+        [
+          -81.5774257,
+          28.4187057
+        ],
+        [
+          -81.5774966,
+          28.4187347
+        ],
+        [
+          -81.577547,
+          28.4187626
+        ],
+        [
+          -81.5776073,
+          28.4187252
+        ],
+        [
+          -81.5777967,
+          28.4188936
+        ],
+        [
+          -81.5777975,
+          28.4189438
+        ],
+        [
+          -81.577801,
+          28.4191662
+        ],
+        [
+          -81.5778025,
+          28.4192618
+        ],
+        [
+          -81.5777744,
+          28.4192592
+        ],
+        [
+          -81.5777616,
+          28.4192538
+        ],
+        [
+          -81.5777417,
+          28.4193135
+        ],
+        [
+          -81.5777065,
+          28.4193812
+        ],
+        [
+          -81.5776649,
+          28.4194373
+        ],
+        [
+          -81.5776136,
+          28.4194888
+        ],
+        [
+          -81.5775557,
+          28.4195323
+        ],
+        [
+          -81.5774904,
+          28.4195688
+        ],
+        [
+          -81.5774203,
+          28.4195966
+        ],
+        [
+          -81.5773455,
+          28.4196155
+        ],
+        [
+          -81.5772689,
+          28.4196247
+        ],
+        [
+          -81.5771915,
+          28.4196243
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 296326395,
+    "version": 10,
+    "timestamp": "2025-01-29T21:58:23Z",
+    "url": "https://www.openstreetmap.org/way/296326395"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 1106733755,
+      "version": 2,
+      "timestamp": "2025-01-29T21:58:23Z",
+      "url": "https://www.openstreetmap.org/way/1106733755"
+    },
+    {
+      "type": "way",
+      "id": 373171485,
+      "version": 2,
+      "timestamp": "2025-01-15T22:30:20Z",
+      "url": "https://www.openstreetmap.org/way/373171485"
+    },
+    {
+      "type": "way",
+      "id": 373171486,
+      "version": 2,
+      "timestamp": "2025-01-15T22:30:20Z",
+      "url": "https://www.openstreetmap.org/way/373171486"
+    },
+    {
+      "type": "way",
+      "id": 373171487,
+      "version": 3,
+      "timestamp": "2025-01-15T22:30:20Z",
+      "url": "https://www.openstreetmap.org/way/373171487"
+    },
+    {
+      "type": "way",
+      "id": 373171488,
+      "version": 8,
+      "timestamp": "2025-01-29T21:58:23Z",
+      "url": "https://www.openstreetmap.org/way/373171488"
+    },
+    {
+      "type": "way",
+      "id": 1106733754,
+      "version": 2,
+      "timestamp": "2025-01-29T21:58:23Z",
+      "url": "https://www.openstreetmap.org/way/1106733754"
+    }
+  ],
+  "wikidata": "Q2306317",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/wdw-space-mountain.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Space Mountain, Magic Kingdom, Walt Disney World — procedural, CC0-1.0. bun generators/wdw-space-mountain.ts",
+    "Map frame: x east, y north, z up, metres. Origin at the centre of the cone's rings in OSM (way/373171487, -81.5772341, 28.4191494), on the ground. The building is round, so it is placed at bearing 0.",
+    "A white concrete cone ribbed by 72 external beams. Each beam runs from a pointed foot standing out past the pale-blue base wall, up the cone to a collar ring two-thirds of the way up; above the collar a shorter ribbed cone rises to a flat top carrying the central mast. Clusters of white spires stand on the collar.",
+    "Evidence: - OSM, measured: the outline (way/296326395) and its concentric building:parts — the base ring (way/1106733755, r 52.8 m, 13 m), the cone (way/373171488, r 47.9 m), the collar (way/373171487, r 18.6 m), the upper rings (way/373171486, r 12.8 m; way/373171485, r 8.9 m) — and the low entrance wing on the south-west (way/1106733754, 5 m), which is modelled as a plain block so the outline can be replaced. - Published: 183 ft (56 m) tall, 300 ft (91 m) across the cone, 72 ribs (Wikipedia). - Photos: from the Contemporary monorail (Raman Patel, CC BY 3.0) for the profile — collar, top ring and mast against the eave width; close ground view (Benjamin D. Esham, CC BY-SA 4.0) for the ribs, the feet and the spire clusters; Sam Howzit (Flickr, CC BY 2.0) exterior.",
+    "Estimated: the eave (9.5 m) and collar (31 m) heights, from the monorail photo's proportions against OSM's radii; the mast's form; the spire clusters' count and placement (four clusters of three, evenly spaced — the photos show clusters on every side but not their exact layout).",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"wdw-space-mountain\", model \"wdw-space-mountain\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/wdw-space-mountain.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

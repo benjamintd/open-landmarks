@@ -1,0 +1,495 @@
+{
+  "id": "expedition-everest-walt-disney-world",
+  "name": "Expedition Everest",
+  "anchor": [
+    -81.5862667,
+    28.3581626
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 246200,
+      "sha256": "414312b8b4c4c329f451bc47ee88af05a355cb65da3caf420561191e746a33ec"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 246200,
+      "sha256": "414312b8b4c4c329f451bc47ee88af05a355cb65da3caf420561191e746a33ec"
+    }
+  },
+  "triangles": 4762,
+  "boundsBlenderM": [
+    [
+      -125.851,
+      -37.464,
+      0
+    ],
+    [
+      38.337,
+      104.077,
+      61
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -81.5866156,
+          28.3581057
+        ],
+        [
+          -81.5866344,
+          28.3580621
+        ],
+        [
+          -81.5866561,
+          28.3580328
+        ],
+        [
+          -81.5866719,
+          28.3580113
+        ],
+        [
+          -81.5866719,
+          28.3579747
+        ],
+        [
+          -81.5866652,
+          28.357957
+        ],
+        [
+          -81.5865982,
+          28.3579429
+        ],
+        [
+          -81.5865928,
+          28.3579735
+        ],
+        [
+          -81.5865888,
+          28.3579924
+        ],
+        [
+          -81.586562,
+          28.357996
+        ],
+        [
+          -81.5865311,
+          28.3579818
+        ],
+        [
+          -81.5865083,
+          28.3579464
+        ],
+        [
+          -81.5864963,
+          28.3579204
+        ],
+        [
+          -81.5865016,
+          28.3579039
+        ],
+        [
+          -81.5864976,
+          28.3578897
+        ],
+        [
+          -81.5864426,
+          28.3578697
+        ],
+        [
+          -81.586416,
+          28.3578428
+        ],
+        [
+          -81.5863823,
+          28.357839
+        ],
+        [
+          -81.586312,
+          28.3578222
+        ],
+        [
+          -81.5861838,
+          28.3578815
+        ],
+        [
+          -81.5859786,
+          28.3579865
+        ],
+        [
+          -81.5859384,
+          28.3580054
+        ],
+        [
+          -81.5858753,
+          28.3580691
+        ],
+        [
+          -81.5859089,
+          28.3580857
+        ],
+        [
+          -81.585882,
+          28.3581163
+        ],
+        [
+          -81.5858767,
+          28.3582886
+        ],
+        [
+          -81.5858914,
+          28.3583028
+        ],
+        [
+          -81.5859075,
+          28.3583075
+        ],
+        [
+          -81.5859249,
+          28.3583382
+        ],
+        [
+          -81.5859786,
+          28.3583772
+        ],
+        [
+          -81.5859504,
+          28.3583925
+        ],
+        [
+          -81.5859236,
+          28.3584267
+        ],
+        [
+          -81.5859236,
+          28.3584562
+        ],
+        [
+          -81.5859518,
+          28.3584763
+        ],
+        [
+          -81.5859687,
+          28.3584779
+        ],
+        [
+          -81.585988,
+          28.3584798
+        ],
+        [
+          -81.5860081,
+          28.3584928
+        ],
+        [
+          -81.5860845,
+          28.3584775
+        ],
+        [
+          -81.58611,
+          28.3584574
+        ],
+        [
+          -81.5861345,
+          28.3584162
+        ],
+        [
+          -81.5861593,
+          28.3584171
+        ],
+        [
+          -81.5861999,
+          28.3584185
+        ],
+        [
+          -81.5862884,
+          28.3584161
+        ],
+        [
+          -81.5863072,
+          28.3584031
+        ],
+        [
+          -81.5864131,
+          28.358396
+        ],
+        [
+          -81.5864761,
+          28.3584173
+        ],
+        [
+          -81.5865123,
+          28.3584279
+        ],
+        [
+          -81.5865209,
+          28.3584157
+        ],
+        [
+          -81.5865302,
+          28.3584027
+        ],
+        [
+          -81.5865365,
+          28.3583937
+        ],
+        [
+          -81.5865378,
+          28.3583898
+        ],
+        [
+          -81.5865409,
+          28.35838
+        ],
+        [
+          -81.5865445,
+          28.3583689
+        ],
+        [
+          -81.5866183,
+          28.3583382
+        ],
+        [
+          -81.5866585,
+          28.3583146
+        ],
+        [
+          -81.5866694,
+          28.3582934
+        ],
+        [
+          -81.5866871,
+          28.3582587
+        ],
+        [
+          -81.5866947,
+          28.3582438
+        ],
+        [
+          -81.5866518,
+          28.3582285
+        ],
+        [
+          -81.5866156,
+          28.3581057
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 146269361,
+    "version": 5,
+    "timestamp": "2014-08-05T17:03:36Z",
+    "url": "https://www.openstreetmap.org/way/146269361"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 146269359,
+      "version": 3,
+      "timestamp": "2014-08-05T16:44:55Z",
+      "url": "https://www.openstreetmap.org/way/146269359"
+    },
+    {
+      "type": "relation",
+      "id": 3937134,
+      "version": 5,
+      "timestamp": "2023-12-04T17:14:23Z",
+      "url": "https://www.openstreetmap.org/relation/3937134"
+    },
+    {
+      "type": "way",
+      "id": 187631574,
+      "version": 8,
+      "timestamp": "2023-12-04T17:23:24Z",
+      "url": "https://www.openstreetmap.org/way/187631574"
+    },
+    {
+      "type": "way",
+      "id": 187631576,
+      "version": 8,
+      "timestamp": "2023-12-04T17:23:24Z",
+      "url": "https://www.openstreetmap.org/way/187631576"
+    },
+    {
+      "type": "way",
+      "id": 187631578,
+      "version": 9,
+      "timestamp": "2023-12-04T17:23:24Z",
+      "url": "https://www.openstreetmap.org/way/187631578"
+    },
+    {
+      "type": "way",
+      "id": 187631580,
+      "version": 7,
+      "timestamp": "2023-12-04T17:23:24Z",
+      "url": "https://www.openstreetmap.org/way/187631580"
+    },
+    {
+      "type": "way",
+      "id": 187631584,
+      "version": 9,
+      "timestamp": "2023-12-04T17:23:24Z",
+      "url": "https://www.openstreetmap.org/way/187631584"
+    },
+    {
+      "type": "way",
+      "id": 187631602,
+      "version": 8,
+      "timestamp": "2023-12-04T17:23:24Z",
+      "url": "https://www.openstreetmap.org/way/187631602"
+    },
+    {
+      "type": "way",
+      "id": 773718966,
+      "version": 5,
+      "timestamp": "2023-12-04T17:23:24Z",
+      "url": "https://www.openstreetmap.org/way/773718966"
+    },
+    {
+      "type": "way",
+      "id": 773718967,
+      "version": 4,
+      "timestamp": "2023-12-04T17:23:24Z",
+      "url": "https://www.openstreetmap.org/way/773718967"
+    },
+    {
+      "type": "way",
+      "id": 957958010,
+      "version": 3,
+      "timestamp": "2023-12-04T17:23:24Z",
+      "url": "https://www.openstreetmap.org/way/957958010"
+    },
+    {
+      "type": "way",
+      "id": 957958011,
+      "version": 3,
+      "timestamp": "2023-12-04T17:23:24Z",
+      "url": "https://www.openstreetmap.org/way/957958011"
+    },
+    {
+      "type": "way",
+      "id": 957958012,
+      "version": 3,
+      "timestamp": "2023-12-04T17:23:24Z",
+      "url": "https://www.openstreetmap.org/way/957958012"
+    },
+    {
+      "type": "way",
+      "id": 957958013,
+      "version": 3,
+      "timestamp": "2023-12-04T17:23:24Z",
+      "url": "https://www.openstreetmap.org/way/957958013"
+    },
+    {
+      "type": "way",
+      "id": 957958014,
+      "version": 3,
+      "timestamp": "2023-12-04T17:23:24Z",
+      "url": "https://www.openstreetmap.org/way/957958014"
+    },
+    {
+      "type": "way",
+      "id": 1228688570,
+      "version": 1,
+      "timestamp": "2023-12-04T17:23:24Z",
+      "url": "https://www.openstreetmap.org/way/1228688570"
+    },
+    {
+      "type": "way",
+      "id": 1228688571,
+      "version": 1,
+      "timestamp": "2023-12-04T17:23:24Z",
+      "url": "https://www.openstreetmap.org/way/1228688571"
+    },
+    {
+      "type": "way",
+      "id": 1228688572,
+      "version": 1,
+      "timestamp": "2023-12-04T17:23:24Z",
+      "url": "https://www.openstreetmap.org/way/1228688572"
+    },
+    {
+      "type": "way",
+      "id": 1228688573,
+      "version": 1,
+      "timestamp": "2023-12-04T17:23:24Z",
+      "url": "https://www.openstreetmap.org/way/1228688573"
+    },
+    {
+      "type": "way",
+      "id": 1228688575,
+      "version": 2,
+      "timestamp": "2023-12-21T14:20:28Z",
+      "url": "https://www.openstreetmap.org/way/1228688575"
+    },
+    {
+      "type": "way",
+      "id": 204972538,
+      "version": 2,
+      "timestamp": "2019-11-19T00:02:04Z",
+      "url": "https://www.openstreetmap.org/way/204972538"
+    },
+    {
+      "type": "way",
+      "id": 1228688574,
+      "version": 1,
+      "timestamp": "2023-12-04T17:23:24Z",
+      "url": "https://www.openstreetmap.org/way/1228688574"
+    }
+  ],
+  "wikidata": "Q1341067",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Expedition Everest.jpg",
+      "author": "Benjamin D. Esham (bdesham)",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Expedition_Everest.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/wdw-expedition-everest.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Expedition Everest – Legend of the Forbidden Mountain, Disney's Animal Kingdom — procedural, CC0-1.0. bun generators/wdw-expedition-everest.ts",
+    "Map frame: x east, y north, z up, metres. Geometry is written in a park frame about (-81.5866, 28.3588) and shifted so the origin is the centroid of the mountain's OSM outline; the script prints that anchor. Bearing 0.",
+    "What the model is: the Forbidden Mountain (a rock-and-snow heightfield over the show building's outline, three peaks), the temple tower the lift hill runs through, the station village as one low block, and the coaster track wherever it runs in the open, with chunky dark supports.",
+    "Evidence",
+    "OSM (measured): the mountain's outline is the show building way/146269361 (80 × 74 m); the temple way/146269359; the station relation/3937134 (outer way/296055418, a courtyard as its inner); the summit node/12797880133 (\"Mount Everest\", ele 60); every track way, with `covered` marking the stretches inside the mountain; cave_entrance nodes where the track goes in and out, most of them vertices of the outline.",
+    "USGS NAIP orthophoto (public domain), checked against OSM: the outline, the white snowfields over its west and middle, the flat grey show-building roof behind (south-east), and both open-air track rings (the outer loop west of the mountain, the helix north of it) where OSM draws them.",
+    "Published: mountain 199.5 ft (61 m); lift 112 ft (34 m); drop 80 ft; track 4,424 ft (Wikipedia, RCDB).",
+    "Photos (Wikimedia Commons; credits in the placement report), mostly from across the river to the south-west: \"Expedition Everest.jpg\" (bdesham, CC BY-SA 4.0) for the massing: the spire, a lower snowy peak to its north-west and a brown craggy one to its south-east, the rust-brown rock streaked with snow, the cliffs at its foot, the dark lift climbing from the red temple tower into the mountain's west face. Its projection checks the summit node: the spire stands where OSM puts it.",
+    "Estimated: the two lesser peaks' positions and heights (45 and 46 m, from that photo's projection), the cliff heights (about 20 to 28 m), every track height except the lift's, the temple (24 m tower on a 10 m body), the village's 7.5 m. The back of the mountain (the show building, seen in no licensed photo) is drawn as a lower rock plateau.",
+    "The coaster is drawn here rather than with coaster-kit.ts: the ride runs forward, backward and forward again through two switches, so it is not one circuit, and most of it is inside the mountain. The visible stretches are swept straight from the OSM ways with heights set by hand.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"wdw-expedition-everest\", model \"wdw-expedition-everest\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/wdw-expedition-everest.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

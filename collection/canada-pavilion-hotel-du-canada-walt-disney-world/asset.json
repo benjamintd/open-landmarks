@@ -1,0 +1,193 @@
+{
+  "id": "canada-pavilion-hotel-du-canada-walt-disney-world",
+  "name": "Canada Pavilion (Hôtel du Canada)",
+  "anchor": [
+    -81.55165,
+    28.37155
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 74416,
+      "sha256": "97d31a34ed6ffabc7f3759d94080813490c322cc0a6b4d8d9fb6f0f3e4ccd6ac"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 74416,
+      "sha256": "97d31a34ed6ffabc7f3759d94080813490c322cc0a6b4d8d9fb6f0f3e4ccd6ac"
+    }
+  },
+  "triangles": 1711,
+  "boundsBlenderM": [
+    [
+      -37.526,
+      -14.546,
+      0
+    ],
+    [
+      19.782,
+      55.797,
+      32.6
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -81.5515352,
+          28.3715147
+        ],
+        [
+          -81.5515291,
+          28.3715044
+        ],
+        [
+          -81.5515456,
+          28.3714968
+        ],
+        [
+          -81.5516028,
+          28.3714283
+        ],
+        [
+          -81.5517182,
+          28.3715029
+        ],
+        [
+          -81.5517233,
+          28.3714968
+        ],
+        [
+          -81.5517978,
+          28.371545
+        ],
+        [
+          -81.5517762,
+          28.3715709
+        ],
+        [
+          -81.5517675,
+          28.3715813
+        ],
+        [
+          -81.5517455,
+          28.3715671
+        ],
+        [
+          -81.5517198,
+          28.3715978
+        ],
+        [
+          -81.5517139,
+          28.3716054
+        ],
+        [
+          -81.5516519,
+          28.371568
+        ],
+        [
+          -81.5516554,
+          28.3715635
+        ],
+        [
+          -81.5516403,
+          28.3715544
+        ],
+        [
+          -81.5516387,
+          28.37156
+        ],
+        [
+          -81.5515665,
+          28.3715442
+        ],
+        [
+          -81.5515746,
+          28.3715154
+        ],
+        [
+          -81.5515773,
+          28.3715058
+        ],
+        [
+          -81.5515618,
+          28.3715024
+        ],
+        [
+          -81.5515352,
+          28.3715147
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 295396527,
+    "version": 2,
+    "timestamp": "2020-03-23T20:10:51Z",
+    "url": "https://www.openstreetmap.org/way/295396527"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 295396523,
+      "version": 8,
+      "timestamp": "2026-04-05T01:10:08Z",
+      "url": "https://www.openstreetmap.org/way/295396523"
+    },
+    {
+      "type": "way",
+      "id": 295396535,
+      "version": 13,
+      "timestamp": "2026-03-28T16:20:21Z",
+      "url": "https://www.openstreetmap.org/way/295396535"
+    }
+  ],
+  "wikidata": "Q2905034",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/wdw-epcot-canada.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Hôtel du Canada and the Canadian Rockies, Canada pavilion, EPCOT World Showcase — procedural, CC0-1.0. bun generators/wdw-epcot-canada.ts",
+    "Map frame: x along the château from its north-west end to its south-east end (the end seen across the lagoon), y from the street (south-west) to the garden and rocks (north-east), z up, metres. Placed at bearing 34°, the axis of the château's OSM outline (way/295396527), whose long walls run at 124°. The anchor is near the château's centre.",
+    "What it is: the pavilion's château, after Ottawa's Château Laurier, in buff stone. A tall rectangular block has two corbelled string courses and a steep green copper roof that rises to a pyramid at each end, with a saddle between them. Stone gablets with finials stand along its eaves. A round tower with a slender copper spire stands at the street front's north-west end. Le Cellier steakhouse is in the low block at its garden foot. North of it is the pavilion's pink granite rockwork, which wraps the round Circle-Vision theatre.",
+    "Evidence",
+    "OSM (measured): the château, way/295396527 (24 × 12 m, untagged, building:levels=2); Le Cellier, way/295396523, along its north-east side; the rockwork and theatre, way/295396535 (\"Canada Far and Wide\"). No heights are tagged.",
+    "USGS NAIP 2022 orthophoto (public domain): the theatre's round white roof (about 21 m across) inside the rockwork, and the rocks heaped on its south and east sides. The château's roof does not resolve in it.",
+    "Published (Wikipedia): modelled on the Château Laurier; forced perspective makes three storeys look like six; Le Cellier is a cellar under the château.",
+    "Photos (Wikimedia Commons): from the garden to the east (Canada Pavilion (43268891311).jpg, HarshLight, CC BY 2.0), from the street steps (Chateau Laurier Replica at Canada Pavillion - panoramio.jpg, Eric Marshall, CC BY 3.0), the north-west end (Canada Pavilion (41459068520).jpg, HarshLight, CC BY 2.0), and across the lagoon (Canada Pavilion (41459026620).jpg, HarshLight, CC BY 2.0).",
+    "Estimated from the photos: eave 17.6 m above Le Cellier's level, with Le Cellier's door for scale; the street-front corbel course at 12 m; roof peaks 28 m (the end is 1.6 widths tall to the eave and 2.5 to the peak from the lagoon); the tower's spire 32.6 m; the street-level terrace 4.5 m above Le Cellier; Le Cellier's block 5.6 m; the rock crags 9–15 m and the theatre roof 9.5 m.",
+    "Invented: the gap between the château and Le Cellier's outline, which the low block fills, and the crags' shapes and placings, which are only the rockwork's general heaping.",
+    "Simplified: the bay window and small domed oriel, the lower wing beyond the north-west end (outside this outline) and the corbel teeth.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"wdw-epcot-canada\", model \"wdw-epcot-canada\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/wdw-epcot-canada.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 8 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the wdw-epcot-canada-glazing finish in the window colour.",
+    "To fit six materials, folded entrance into trim (ΔE 8.1)."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

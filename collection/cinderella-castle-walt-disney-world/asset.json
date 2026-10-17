@@ -1,0 +1,822 @@
+{
+  "id": "cinderella-castle-walt-disney-world",
+  "name": "Cinderella Castle",
+  "anchor": [
+    -81.5811782,
+    28.4195023
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 169824,
+      "sha256": "29c32acd605562c4c6c014f012533b1fb2efb19fadcdf28cd292992e6173a49b"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 169824,
+      "sha256": "29c32acd605562c4c6c014f012533b1fb2efb19fadcdf28cd292992e6173a49b"
+    }
+  },
+  "triangles": 4015,
+  "boundsBlenderM": [
+    [
+      -17.95,
+      -16.95,
+      0
+    ],
+    [
+      17.791,
+      16.3,
+      57.5
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -81.5812433,
+          28.4196345
+        ],
+        [
+          -81.5813003,
+          28.4195987
+        ],
+        [
+          -81.5813101,
+          28.4195925
+        ],
+        [
+          -81.5813163,
+          28.4195952
+        ],
+        [
+          -81.5813231,
+          28.419596
+        ],
+        [
+          -81.5813288,
+          28.419595
+        ],
+        [
+          -81.581334,
+          28.4195926
+        ],
+        [
+          -81.5813379,
+          28.4195893
+        ],
+        [
+          -81.5813406,
+          28.4195854
+        ],
+        [
+          -81.5813421,
+          28.4195809
+        ],
+        [
+          -81.5813422,
+          28.4195761
+        ],
+        [
+          -81.5813409,
+          28.4195715
+        ],
+        [
+          -81.5813382,
+          28.4195673
+        ],
+        [
+          -81.5813332,
+          28.4195633
+        ],
+        [
+          -81.581327,
+          28.4195609
+        ],
+        [
+          -81.5813378,
+          28.4195271
+        ],
+        [
+          -81.5813459,
+          28.4195272
+        ],
+        [
+          -81.5813576,
+          28.4195171
+        ],
+        [
+          -81.5813577,
+          28.4195028
+        ],
+        [
+          -81.5813463,
+          28.4194926
+        ],
+        [
+          -81.5813381,
+          28.4194925
+        ],
+        [
+          -81.5813322,
+          28.4194543
+        ],
+        [
+          -81.5813354,
+          28.4194519
+        ],
+        [
+          -81.5813381,
+          28.419449
+        ],
+        [
+          -81.5813404,
+          28.4194449
+        ],
+        [
+          -81.5813415,
+          28.4194404
+        ],
+        [
+          -81.5813414,
+          28.419436
+        ],
+        [
+          -81.5813401,
+          28.4194317
+        ],
+        [
+          -81.5813371,
+          28.419427
+        ],
+        [
+          -81.5813327,
+          28.4194233
+        ],
+        [
+          -81.5813261,
+          28.4194204
+        ],
+        [
+          -81.581321,
+          28.4194197
+        ],
+        [
+          -81.5813158,
+          28.4194201
+        ],
+        [
+          -81.581313,
+          28.4194126
+        ],
+        [
+          -81.581288,
+          28.4193892
+        ],
+        [
+          -81.5812899,
+          28.4193839
+        ],
+        [
+          -81.5812905,
+          28.4193784
+        ],
+        [
+          -81.5812903,
+          28.4193757
+        ],
+        [
+          -81.5812886,
+          28.41937
+        ],
+        [
+          -81.5812855,
+          28.4193648
+        ],
+        [
+          -81.5812818,
+          28.4193609
+        ],
+        [
+          -81.5812772,
+          28.4193578
+        ],
+        [
+          -81.5812721,
+          28.4193556
+        ],
+        [
+          -81.5812667,
+          28.4193543
+        ],
+        [
+          -81.5812596,
+          28.419354
+        ],
+        [
+          -81.5812527,
+          28.4193553
+        ],
+        [
+          -81.5812446,
+          28.4193593
+        ],
+        [
+          -81.5812383,
+          28.4193652
+        ],
+        [
+          -81.5812284,
+          28.4193674
+        ],
+        [
+          -81.5812281,
+          28.4193631
+        ],
+        [
+          -81.5812019,
+          28.4193631
+        ],
+        [
+          -81.5811756,
+          28.419363
+        ],
+        [
+          -81.5811753,
+          28.4193738
+        ],
+        [
+          -81.5811657,
+          28.419374
+        ],
+        [
+          -81.5811642,
+          28.4193693
+        ],
+        [
+          -81.5811616,
+          28.4193649
+        ],
+        [
+          -81.5811568,
+          28.4193601
+        ],
+        [
+          -81.5811507,
+          28.4193566
+        ],
+        [
+          -81.5811462,
+          28.4193551
+        ],
+        [
+          -81.5811413,
+          28.4193544
+        ],
+        [
+          -81.5811331,
+          28.4193549
+        ],
+        [
+          -81.5811269,
+          28.4193569
+        ],
+        [
+          -81.5811217,
+          28.41936
+        ],
+        [
+          -81.5811175,
+          28.4193641
+        ],
+        [
+          -81.5811146,
+          28.4193686
+        ],
+        [
+          -81.5811128,
+          28.4193736
+        ],
+        [
+          -81.5811124,
+          28.4193784
+        ],
+        [
+          -81.5810938,
+          28.4193866
+        ],
+        [
+          -81.5810931,
+          28.4193784
+        ],
+        [
+          -81.581073,
+          28.4193784
+        ],
+        [
+          -81.5810609,
+          28.4193866
+        ],
+        [
+          -81.5810562,
+          28.4194019
+        ],
+        [
+          -81.5810534,
+          28.4194057
+        ],
+        [
+          -81.5810475,
+          28.4194137
+        ],
+        [
+          -81.5810542,
+          28.4194185
+        ],
+        [
+          -81.5810402,
+          28.4194365
+        ],
+        [
+          -81.5810251,
+          28.4194309
+        ],
+        [
+          -81.5810107,
+          28.4194609
+        ],
+        [
+          -81.581024,
+          28.4194659
+        ],
+        [
+          -81.5810201,
+          28.4194862
+        ],
+        [
+          -81.5810172,
+          28.4195012
+        ],
+        [
+          -81.5810118,
+          28.4195029
+        ],
+        [
+          -81.581007,
+          28.4195059
+        ],
+        [
+          -81.5810031,
+          28.4195106
+        ],
+        [
+          -81.5810016,
+          28.4195139
+        ],
+        [
+          -81.5810008,
+          28.4195173
+        ],
+        [
+          -81.5810008,
+          28.4195212
+        ],
+        [
+          -81.5810021,
+          28.4195258
+        ],
+        [
+          -81.5810046,
+          28.4195298
+        ],
+        [
+          -81.5810088,
+          28.4195337
+        ],
+        [
+          -81.5810153,
+          28.4195367
+        ],
+        [
+          -81.5810219,
+          28.4195375
+        ],
+        [
+          -81.5810257,
+          28.41955
+        ],
+        [
+          -81.5810314,
+          28.4195691
+        ],
+        [
+          -81.5810228,
+          28.4195698
+        ],
+        [
+          -81.5810117,
+          28.4195815
+        ],
+        [
+          -81.5810125,
+          28.4195891
+        ],
+        [
+          -81.5810133,
+          28.4195967
+        ],
+        [
+          -81.5810266,
+          28.4196065
+        ],
+        [
+          -81.5810352,
+          28.4196058
+        ],
+        [
+          -81.5810387,
+          28.4196114
+        ],
+        [
+          -81.5810372,
+          28.4196141
+        ],
+        [
+          -81.5810367,
+          28.4196176
+        ],
+        [
+          -81.5810378,
+          28.4196212
+        ],
+        [
+          -81.5810403,
+          28.4196243
+        ],
+        [
+          -81.5810449,
+          28.4196265
+        ],
+        [
+          -81.5810496,
+          28.4196267
+        ],
+        [
+          -81.581054,
+          28.4196251
+        ],
+        [
+          -81.5810579,
+          28.419621
+        ],
+        [
+          -81.5810589,
+          28.4196165
+        ],
+        [
+          -81.5810763,
+          28.4196166
+        ],
+        [
+          -81.581076,
+          28.4196209
+        ],
+        [
+          -81.581088,
+          28.4196242
+        ],
+        [
+          -81.5810899,
+          28.4196213
+        ],
+        [
+          -81.5811111,
+          28.4196343
+        ],
+        [
+          -81.5811093,
+          28.4196376
+        ],
+        [
+          -81.5811092,
+          28.4196404
+        ],
+        [
+          -81.5811101,
+          28.4196431
+        ],
+        [
+          -81.5811121,
+          28.4196453
+        ],
+        [
+          -81.5811145,
+          28.4196468
+        ],
+        [
+          -81.5811172,
+          28.4196475
+        ],
+        [
+          -81.5811201,
+          28.4196475
+        ],
+        [
+          -81.5811229,
+          28.4196466
+        ],
+        [
+          -81.5811246,
+          28.4196456
+        ],
+        [
+          -81.581126,
+          28.4196443
+        ],
+        [
+          -81.5811272,
+          28.4196424
+        ],
+        [
+          -81.5811278,
+          28.4196404
+        ],
+        [
+          -81.5811278,
+          28.4196383
+        ],
+        [
+          -81.5811662,
+          28.4196389
+        ],
+        [
+          -81.5811664,
+          28.4196417
+        ],
+        [
+          -81.5811675,
+          28.4196445
+        ],
+        [
+          -81.5811694,
+          28.4196468
+        ],
+        [
+          -81.581172,
+          28.4196487
+        ],
+        [
+          -81.5811756,
+          28.41965
+        ],
+        [
+          -81.5811795,
+          28.4196501
+        ],
+        [
+          -81.5811825,
+          28.4196494
+        ],
+        [
+          -81.5811852,
+          28.4196481
+        ],
+        [
+          -81.5811874,
+          28.4196462
+        ],
+        [
+          -81.5811889,
+          28.4196438
+        ],
+        [
+          -81.5811897,
+          28.4196412
+        ],
+        [
+          -81.5811897,
+          28.4196384
+        ],
+        [
+          -81.581207,
+          28.4196386
+        ],
+        [
+          -81.5812242,
+          28.4196389
+        ],
+        [
+          -81.5812246,
+          28.419641
+        ],
+        [
+          -81.5812255,
+          28.4196431
+        ],
+        [
+          -81.5812271,
+          28.4196449
+        ],
+        [
+          -81.5812297,
+          28.4196466
+        ],
+        [
+          -81.5812328,
+          28.4196475
+        ],
+        [
+          -81.5812361,
+          28.4196475
+        ],
+        [
+          -81.5812384,
+          28.4196469
+        ],
+        [
+          -81.5812404,
+          28.4196459
+        ],
+        [
+          -81.5812424,
+          28.4196442
+        ],
+        [
+          -81.5812437,
+          28.4196422
+        ],
+        [
+          -81.5812444,
+          28.4196401
+        ],
+        [
+          -81.5812445,
+          28.4196379
+        ],
+        [
+          -81.5812441,
+          28.4196361
+        ],
+        [
+          -81.5812433,
+          28.4196345
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 121516748,
+    "version": 24,
+    "timestamp": "2025-05-10T05:27:31Z",
+    "url": "https://www.openstreetmap.org/way/121516748"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 1109167338,
+      "version": 8,
+      "timestamp": "2023-02-04T06:59:10Z",
+      "url": "https://www.openstreetmap.org/way/1109167338"
+    },
+    {
+      "type": "way",
+      "id": 1109167339,
+      "version": 8,
+      "timestamp": "2023-02-04T06:59:10Z",
+      "url": "https://www.openstreetmap.org/way/1109167339"
+    },
+    {
+      "type": "way",
+      "id": 1109167340,
+      "version": 8,
+      "timestamp": "2023-02-04T06:59:10Z",
+      "url": "https://www.openstreetmap.org/way/1109167340"
+    },
+    {
+      "type": "way",
+      "id": 1109167341,
+      "version": 15,
+      "timestamp": "2025-01-15T22:30:20Z",
+      "url": "https://www.openstreetmap.org/way/1109167341"
+    },
+    {
+      "type": "way",
+      "id": 1109167342,
+      "version": 12,
+      "timestamp": "2025-01-15T22:30:20Z",
+      "url": "https://www.openstreetmap.org/way/1109167342"
+    },
+    {
+      "type": "way",
+      "id": 1109167343,
+      "version": 9,
+      "timestamp": "2025-01-15T22:30:20Z",
+      "url": "https://www.openstreetmap.org/way/1109167343"
+    },
+    {
+      "type": "way",
+      "id": 1109167344,
+      "version": 9,
+      "timestamp": "2025-01-15T22:30:20Z",
+      "url": "https://www.openstreetmap.org/way/1109167344"
+    },
+    {
+      "type": "way",
+      "id": 1109167348,
+      "version": 2,
+      "timestamp": "2025-01-15T22:30:20Z",
+      "url": "https://www.openstreetmap.org/way/1109167348"
+    },
+    {
+      "type": "way",
+      "id": 1109167349,
+      "version": 2,
+      "timestamp": "2025-01-15T22:30:20Z",
+      "url": "https://www.openstreetmap.org/way/1109167349"
+    },
+    {
+      "type": "way",
+      "id": 1109167350,
+      "version": 1,
+      "timestamp": "2022-11-02T00:55:32Z",
+      "url": "https://www.openstreetmap.org/way/1109167350"
+    },
+    {
+      "type": "way",
+      "id": 1109167351,
+      "version": 6,
+      "timestamp": "2025-01-15T22:30:20Z",
+      "url": "https://www.openstreetmap.org/way/1109167351"
+    },
+    {
+      "type": "way",
+      "id": 1109167352,
+      "version": 7,
+      "timestamp": "2023-02-04T06:59:10Z",
+      "url": "https://www.openstreetmap.org/way/1109167352"
+    },
+    {
+      "type": "way",
+      "id": 1351675222,
+      "version": 1,
+      "timestamp": "2025-01-15T22:30:20Z",
+      "url": "https://www.openstreetmap.org/way/1351675222"
+    },
+    {
+      "type": "way",
+      "id": 1351675223,
+      "version": 1,
+      "timestamp": "2025-01-15T22:30:20Z",
+      "url": "https://www.openstreetmap.org/way/1351675223"
+    },
+    {
+      "type": "way",
+      "id": 1351675224,
+      "version": 1,
+      "timestamp": "2025-01-15T22:30:20Z",
+      "url": "https://www.openstreetmap.org/way/1351675224"
+    }
+  ],
+  "wikidata": "Q2742709",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/wdw-cinderella-castle.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Cinderella Castle, Magic Kingdom, Walt Disney World — procedural, CC0-1.0. bun generators/wdw-cinderella-castle.ts",
+    "Map frame: x east, y north, z up, metres. Origin at the area centroid of the OSM outline way/121516748 (-81.5811782, 28.4195023), on the ground. Placed at bearing 0: the archway runs due north–south, from the hub (south) into Fantasyland (north), and OSM's parts sit square to it.",
+    "The castle is three layers, and the model keeps them: - a grey stone base: the curtain wall on the OSM outline, ringed by round towers with blue conical roofs, the front pair with a second blue \"skirt\" roof below the cone; pierced north–south by the archway; - the pink upper castle: the keep, the rear hall over the Fantasyland terrace with its tall gothic windows and gables, the pink gable over the archway with the clock and a steep blue roof behind it; - the turrets and the central spire, east of the arch's axis, with two galleries, a gold upper stage and a gold needle.",
+    "Evidence (the doubts are listed at the end): - OSM, measured: the outline (846 m², 35 × 33 m) and its building:parts — the round towers with their heights (way/1109167338–1109167344: 19 and 22 m), the keep (way/1109167349, 24 m), the spire (way/1109167351, 55 m), the west tower (way/1109167352, 35 m), the front-right turret (way/1351675224, 19 m), the square tower (way/1351675222/3, 15–18 m) and the base (way/1109167348, 13 m). The archway's axis is the notch in the outline's south side, x = −2.3, midway between the two front towers. - Published: 189 ft (57.6 m) to the spire's tip (Wikipedia). OSM says 55. The model's needle ends at 55.5 m and its finial at 57.5. - Photos (Wikimedia Commons / Flickr via Openverse, licensed): front from the hub (Jedi94, 2024, CC BY-SA 4.0), rear from Fantasyland (Farragutful, 2022, CC BY-SA 4.0), the west side across the moat (mrkathika, CC BY-SA 2.0), front (Jazzmanluc5, CC BY-SA 3.0); USGS aerial (public domain) for the plan. The spire's offset east of the arch, ~4 m, is measured on the 2024 front photo. - Look-only: a fan-drawn north elevation (The Disney Blueprint Page, CC BY-NC-SA) gave the relative heights of the terrace (7 m), the rear hall (18 m), the keep's crenellation (22 m) and the spire's two galleries (28 and 37 m above the main floor), scaled ×1.1 here to the published height. Its geometry is not copied; it only confirmed levels the photos show.",
+    "Colours are the castle's since its 2021 repaint: grey stone base, pale rose-pink upper walls, royal-blue roofs and gold finials and spire.",
+    "Doubts: heights other than OSM's and the published total are estimated from photos taken from the ground, which foreshorten the top. The turrets on the keep are placed from photos, not OSM, which only maps the west tower and the spire up there. The real castle has many more small turrets and pinnacles; the model keeps the ones that make its silhouette. The archway is open right through, as it really is.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"wdw-cinderella-castle\", model \"wdw-cinderella-castle\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/wdw-cinderella-castle.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 13 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the wdw-cinderella-castle-glazing finish in the window colour."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

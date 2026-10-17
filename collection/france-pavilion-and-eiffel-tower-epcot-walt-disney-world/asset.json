@@ -1,0 +1,368 @@
+{
+  "id": "france-pavilion-and-eiffel-tower-epcot-walt-disney-world",
+  "name": "France Pavilion and Eiffel Tower (EPCOT)",
+  "anchor": [
+    -81.5529155,
+    28.3687766
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 246084,
+      "sha256": "06d58e49e657eb6331268e16d6282270eebedac70a29a2590c7edf458b31892a"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 246084,
+      "sha256": "06d58e49e657eb6331268e16d6282270eebedac70a29a2590c7edf458b31892a"
+    }
+  },
+  "triangles": 4453,
+  "boundsBlenderM": [
+    [
+      -47.621,
+      -48.591,
+      0
+    ],
+    [
+      50.858,
+      34.2,
+      41
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -81.5527887,
+          28.3685767
+        ],
+        [
+          -81.5527089,
+          28.3686414
+        ],
+        [
+          -81.5526566,
+          28.3685971
+        ],
+        [
+          -81.5526203,
+          28.3686256
+        ],
+        [
+          -81.5526265,
+          28.3686315
+        ],
+        [
+          -81.552606,
+          28.3686517
+        ],
+        [
+          -81.552648,
+          28.3686908
+        ],
+        [
+          -81.5525123,
+          28.3688009
+        ],
+        [
+          -81.5524644,
+          28.3687552
+        ],
+        [
+          -81.5524214,
+          28.36879
+        ],
+        [
+          -81.5524212,
+          28.3688267
+        ],
+        [
+          -81.5523973,
+          28.3688266
+        ],
+        [
+          -81.5523971,
+          28.3688575
+        ],
+        [
+          -81.5524207,
+          28.3688577
+        ],
+        [
+          -81.5524204,
+          28.3688936
+        ],
+        [
+          -81.5525264,
+          28.3689968
+        ],
+        [
+          -81.5525638,
+          28.368967
+        ],
+        [
+          -81.5525688,
+          28.3689681
+        ],
+        [
+          -81.5525541,
+          28.3690186
+        ],
+        [
+          -81.5525806,
+          28.3690246
+        ],
+        [
+          -81.5526031,
+          28.3690297
+        ],
+        [
+          -81.5526101,
+          28.3690059
+        ],
+        [
+          -81.55262,
+          28.3689719
+        ],
+        [
+          -81.5526404,
+          28.3689562
+        ],
+        [
+          -81.5526561,
+          28.3689718
+        ],
+        [
+          -81.5526653,
+          28.368981
+        ],
+        [
+          -81.5527393,
+          28.3689238
+        ],
+        [
+          -81.552716,
+          28.3689005
+        ],
+        [
+          -81.552711,
+          28.3688955
+        ],
+        [
+          -81.5527305,
+          28.3688805
+        ],
+        [
+          -81.552704,
+          28.368854
+        ],
+        [
+          -81.5526775,
+          28.3688274
+        ],
+        [
+          -81.5526929,
+          28.3688155
+        ],
+        [
+          -81.5527325,
+          28.3688032
+        ],
+        [
+          -81.5527464,
+          28.3687664
+        ],
+        [
+          -81.5527177,
+          28.3687371
+        ],
+        [
+          -81.5527427,
+          28.3687182
+        ],
+        [
+          -81.5527526,
+          28.3687283
+        ],
+        [
+          -81.5527593,
+          28.3687232
+        ],
+        [
+          -81.5527714,
+          28.3687355
+        ],
+        [
+          -81.5527833,
+          28.3687356
+        ],
+        [
+          -81.5527921,
+          28.3687321
+        ],
+        [
+          -81.5527968,
+          28.3687209
+        ],
+        [
+          -81.5527968,
+          28.3687103
+        ],
+        [
+          -81.552821,
+          28.3686908
+        ],
+        [
+          -81.552871,
+          28.3686507
+        ],
+        [
+          -81.5527887,
+          28.3685767
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 305094683,
+    "version": 6,
+    "timestamp": "2021-09-24T02:09:45Z",
+    "url": "https://www.openstreetmap.org/way/305094683"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 295447782,
+      "version": 7,
+      "timestamp": "2021-09-17T17:12:23Z",
+      "url": "https://www.openstreetmap.org/way/295447782"
+    },
+    {
+      "type": "way",
+      "id": 305094845,
+      "version": 7,
+      "timestamp": "2026-04-01T17:03:47Z",
+      "url": "https://www.openstreetmap.org/way/305094845"
+    },
+    {
+      "type": "way",
+      "id": 305094686,
+      "version": 6,
+      "timestamp": "2025-04-08T09:55:26Z",
+      "url": "https://www.openstreetmap.org/way/305094686"
+    },
+    {
+      "type": "way",
+      "id": 305094846,
+      "version": 8,
+      "timestamp": "2026-09-05T16:35:46Z",
+      "url": "https://www.openstreetmap.org/way/305094846"
+    },
+    {
+      "type": "way",
+      "id": 305094685,
+      "version": 7,
+      "timestamp": "2026-09-05T16:35:46Z",
+      "url": "https://www.openstreetmap.org/way/305094685"
+    },
+    {
+      "type": "way",
+      "id": 805286022,
+      "version": 1,
+      "timestamp": "2020-05-18T08:22:11Z",
+      "url": "https://www.openstreetmap.org/way/805286022"
+    },
+    {
+      "type": "way",
+      "id": 173599405,
+      "version": 5,
+      "timestamp": "2022-09-13T19:06:58Z",
+      "url": "https://www.openstreetmap.org/way/173599405"
+    },
+    {
+      "type": "way",
+      "id": 311286680,
+      "version": 3,
+      "timestamp": "2024-01-04T20:55:17Z",
+      "url": "https://www.openstreetmap.org/way/311286680"
+    },
+    {
+      "type": "way",
+      "id": 311286681,
+      "version": 3,
+      "timestamp": "2024-01-04T20:55:17Z",
+      "url": "https://www.openstreetmap.org/way/311286681"
+    },
+    {
+      "type": "way",
+      "id": 311286682,
+      "version": 3,
+      "timestamp": "2024-01-04T20:55:17Z",
+      "url": "https://www.openstreetmap.org/way/311286682"
+    },
+    {
+      "type": "way",
+      "id": 311286683,
+      "version": 3,
+      "timestamp": "2024-01-04T20:55:17Z",
+      "url": "https://www.openstreetmap.org/way/311286683"
+    },
+    {
+      "type": "way",
+      "id": 311286684,
+      "version": 3,
+      "timestamp": "2024-01-04T20:55:17Z",
+      "url": "https://www.openstreetmap.org/way/311286684"
+    }
+  ],
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/wdw-epcot-france.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "EPCOT France pavilion: the Eiffel Tower and the boulevard — procedural, CC0-1.0. bun generators/wdw-epcot-france.ts",
+    "Map frame: x across the pavilion (south-east), y along its boulevard (north-east, towards the lagoon), z up, metres. Placed at bearing 47.5°, the grid the pavilion's OSM outlines share (their long edges run 47–48° and 137–138°). The anchor is the middle of the modelled block's extent.",
+    "What it covers, from OSM (all building=yes, none with a height):",
+    "way/305094683, the Les Chefs de France / Monsieur Paul building on the promenade and the boulevard's south-east side: ochre stone under a green copper mansard with dormers and tall chimneys, the pavilion's front.",
+    "way/295447782, the boulevard's north-west side: brick and stone houses under slate mansards.",
+    "way/305094845 (Souvenirs de France) with way/305094686, the strip OSM names \"France Pavilion\" at the boulevard's end, which is the Palais du Cinéma: a stone front with a pediment under a slate roof.",
+    "way/305094846, the Impressions de France theatre behind it, and on its roof the tower (building:part way/311286680–684, nested squares from a 6.65 m base to a 1.1 m top).",
+    "way/305094685, Les Halles, and way/805286022 beside it. The streets run between these as narrow gaps, so the block is drawn as a few dozen rectangles in this frame: each OSM outline is covered by one to five of them, a little over where a jog was smoothed.",
+    "The tower: a 1:10 replica of the upper part of Gustave Eiffel's, standing on the theatre's roof behind the Palais so it reads at full height from the boulevard. It has no textures (Open Landmarks allows none), so the lattice is drawn as its real members: four legs with the arches between them, the first platform, four corner posts braced in X up the shaft, the top platform and the lantern.",
+    "Evidence and doubts:",
+    "Measured: every footprint (OSM). The tower's base (6.65 m square) and platform widths follow OSM's nested squares.",
+    "Published: the tower is a 1:10 replica showing only its upper part.",
+    "The tower's height is the main doubt. The brief said about 31 m; the photos and OSM disagree. In two photos the shaft from the first platform to the tip is 4.2–4.3 times the platform's width, and OSM puts that width at 5.8–6.65 m, so the tower is about 25 m from its first platform up. Sight lines over the Palais from the boulevard and the Chefs building from the canal both put the tip near 38–40 m above the ground. The model puts the legs' feet on a 10.5 m roof, the first platform at 16.8 m, the top platform at 36.2 m and the tip at 41 m.",
+    "Estimated from photos (Wikimedia Commons, credits in the report): the eave and mansard heights (two storeys plus mansard, 7.5–10.5 m to the cornice, 10.5–14.8 m to the roof), which building is brick and which stone, chimney positions.",
+    "Invented: the bay rhythm of the windows (3.2 m, one panel per bay per storey) and the dormers' spacing; the backs of the buildings, which no licensed photo shows, are dressed like their fronts.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"wdw-epcot-france\", model \"wdw-epcot-france\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/wdw-epcot-france.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

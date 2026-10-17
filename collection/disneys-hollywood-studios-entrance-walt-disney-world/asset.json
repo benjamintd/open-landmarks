@@ -1,0 +1,272 @@
+{
+  "id": "disneys-hollywood-studios-entrance-walt-disney-world",
+  "name": "Disney's Hollywood Studios Entrance",
+  "anchor": [
+    -81.5587705,
+    28.3583562
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 195236,
+      "sha256": "9d2fb8f40c1f8f4f89d8974f5453a2ebc37aae85fd57846946bce52672999b52"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 195236,
+      "sha256": "9d2fb8f40c1f8f4f89d8974f5453a2ebc37aae85fd57846946bce52672999b52"
+    }
+  },
+  "triangles": 4090,
+  "boundsBlenderM": [
+    [
+      -21.92,
+      -21.496,
+      0
+    ],
+    [
+      29.204,
+      29.274,
+      21
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -81.5584971,
+          28.358187
+        ],
+        [
+          -81.5585198,
+          28.3581852
+        ],
+        [
+          -81.5585475,
+          28.3581974
+        ],
+        [
+          -81.558665,
+          28.3582999
+        ],
+        [
+          -81.5587627,
+          28.3582104
+        ],
+        [
+          -81.5587518,
+          28.3582
+        ],
+        [
+          -81.5587489,
+          28.3581896
+        ],
+        [
+          -81.5587518,
+          28.3581774
+        ],
+        [
+          -81.5587637,
+          28.358167
+        ],
+        [
+          -81.5587795,
+          28.3581618
+        ],
+        [
+          -81.5587953,
+          28.3581635
+        ],
+        [
+          -81.558816,
+          28.3581757
+        ],
+        [
+          -81.5589888,
+          28.3583355
+        ],
+        [
+          -81.5589947,
+          28.358352
+        ],
+        [
+          -81.5589907,
+          28.3583659
+        ],
+        [
+          -81.5589828,
+          28.3583738
+        ],
+        [
+          -81.558968,
+          28.3583781
+        ],
+        [
+          -81.5589623,
+          28.358378
+        ],
+        [
+          -81.5589493,
+          28.3583755
+        ],
+        [
+          -81.5589364,
+          28.3583677
+        ],
+        [
+          -81.5588377,
+          28.358455
+        ],
+        [
+          -81.5589651,
+          28.3585676
+        ],
+        [
+          -81.5589705,
+          28.3585833
+        ],
+        [
+          -81.5589661,
+          28.3585996
+        ],
+        [
+          -81.5589483,
+          28.358617
+        ],
+        [
+          -81.5589295,
+          28.3586213
+        ],
+        [
+          -81.5589127,
+          28.3586196
+        ],
+        [
+          -81.558896,
+          28.3586109
+        ],
+        [
+          -81.5584774,
+          28.35824
+        ],
+        [
+          -81.5584725,
+          28.3582182
+        ],
+        [
+          -81.5584804,
+          28.3582
+        ],
+        [
+          -81.5584971,
+          28.358187
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "relation",
+    "id": 3919136,
+    "version": 7,
+    "timestamp": "2025-04-08T09:39:08Z",
+    "url": "https://www.openstreetmap.org/relation/3919136"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 786082410,
+      "version": 1,
+      "timestamp": "2020-03-31T02:48:19Z",
+      "url": "https://www.openstreetmap.org/way/786082410"
+    },
+    {
+      "type": "way",
+      "id": 786082411,
+      "version": 1,
+      "timestamp": "2020-03-31T02:48:19Z",
+      "url": "https://www.openstreetmap.org/way/786082411"
+    },
+    {
+      "type": "way",
+      "id": 786082412,
+      "version": 1,
+      "timestamp": "2020-03-31T02:48:19Z",
+      "url": "https://www.openstreetmap.org/way/786082412"
+    },
+    {
+      "type": "way",
+      "id": 786082413,
+      "version": 1,
+      "timestamp": "2020-03-31T02:48:19Z",
+      "url": "https://www.openstreetmap.org/way/786082413"
+    },
+    {
+      "type": "way",
+      "id": 786082414,
+      "version": 1,
+      "timestamp": "2020-03-31T02:48:19Z",
+      "url": "https://www.openstreetmap.org/way/786082414"
+    },
+    {
+      "type": "way",
+      "id": 786082415,
+      "version": 1,
+      "timestamp": "2020-03-31T02:48:19Z",
+      "url": "https://www.openstreetmap.org/way/786082415"
+    },
+    {
+      "type": "way",
+      "id": 786082416,
+      "version": 1,
+      "timestamp": "2020-03-31T02:48:19Z",
+      "url": "https://www.openstreetmap.org/way/786082416"
+    },
+    {
+      "type": "way",
+      "id": 786082417,
+      "version": 1,
+      "timestamp": "2020-03-31T02:48:19Z",
+      "url": "https://www.openstreetmap.org/way/786082417"
+    }
+  ],
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/wdw-dhs-entrance.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Disney's Hollywood Studios park entrance — procedural, CC0-1.0. bun generators/wdw-dhs-entrance.ts",
+    "Map frame: x along the gate (south-east), y out through its front towards the entrance plaza (north-east), z up, metres. Bearing 45°: the gate's front faces the plaza at 45°. Origin at (-81.5587705, 28.3583562), the middle of the OSM footprint, on the flat plaza.",
+    "The streamline-moderne gate modelled on the Pan-Pacific Auditorium: a long flat canopy over a row of rounded aqua-and-teal ticket booths, a pale aqua banded parapet along its front, and four finned towers rising behind it — each a rounded pylon wrapped in stacked white fins with an aqua face, capped by a white hood that curls forward, with a flagpole on top. A deeper block behind the middle of the canopy covers the turnstiles, with an open passage through its centre.",
+    "Evidence: - OSM, measured: the ticket-booth roof relation/3919136 (outer way/294876144, the passage way/294876145 as its inner ring) and the four towers way/786082410, way/786082413, way/786082415, way/786082417 with their parts way/786082411, way/786082412, way/786082414, way/786082416 (1.5 and 2.5 levels; their 7.4 m spacing and 4.7 m depth are used). - Photos: the gate head-on, May 2023 (Benoît Prieur, CC0), the towers from below (HarshLight, CC BY 2.0), the booths at night, 2008 (Micha L. Rieser, attribution), and the gate from the plaza (Paigeboyd02, CC BY-SA 4.0; elisfkc, CC BY-SA 2.0, Flickr 31293453350).",
+    "Estimated: every height, from the 2023 photo scaled on people at the booths — canopy underside 3.5 m, fascia 4.4 m, parapet 5.6 m, tower hoods 12.6 m, flagpoles to 21 m. The towers are drawn 1.8 m wide (OSM says about 1 m; the photos read wider). The fin count (seven) is from the photos. The red \"DISNEY'S HOLLYWOOD STUDIOS\" letters and the pennants are left off: they do not read at map distance. The brief mentions pale yellow; current (2023) photos show the gate in aqua, teal and white only, so no yellow is used.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"wdw-dhs-entrance\", model \"wdw-dhs-entrance\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/wdw-dhs-entrance.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 14 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the wdw-dhs-entrance-glazing finish in the window colour.",
+    "To fit six materials, folded wdw-dhs-entrance-dhs-flagpole into roof (ΔE 14.6)."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

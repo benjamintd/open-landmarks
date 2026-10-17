@@ -1,0 +1,207 @@
+{
+  "id": "mexico-pavilion-walt-disney-world",
+  "name": "Mexico Pavilion",
+  "anchor": [
+    -81.54695,
+    28.37185
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 57616,
+      "sha256": "b93e0ed1f1efea3746753feecacf2a196ffbe74cdf70dc066b7ffcf0d3de862a"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 57616,
+      "sha256": "b93e0ed1f1efea3746753feecacf2a196ffbe74cdf70dc066b7ffcf0d3de862a"
+    }
+  },
+  "triangles": 1825,
+  "boundsBlenderM": [
+    [
+      -57.584,
+      -51.347,
+      0
+    ],
+    [
+      56.111,
+      52.996,
+      25.2
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -81.5463766,
+          28.3719715
+        ],
+        [
+          -81.5465588,
+          28.3718545
+        ],
+        [
+          -81.5465301,
+          28.3718199
+        ],
+        [
+          -81.5468168,
+          28.3716357
+        ],
+        [
+          -81.5468271,
+          28.3716481
+        ],
+        [
+          -81.5470293,
+          28.3715181
+        ],
+        [
+          -81.5470334,
+          28.371523
+        ],
+        [
+          -81.5470776,
+          28.3714945
+        ],
+        [
+          -81.5470914,
+          28.3715111
+        ],
+        [
+          -81.5472047,
+          28.3714381
+        ],
+        [
+          -81.5472206,
+          28.371428
+        ],
+        [
+          -81.5472319,
+          28.3714416
+        ],
+        [
+          -81.5472558,
+          28.3714263
+        ],
+        [
+          -81.5472664,
+          28.371439
+        ],
+        [
+          -81.5472889,
+          28.371467
+        ],
+        [
+          -81.5474213,
+          28.3713846
+        ],
+        [
+          -81.5474791,
+          28.3714566
+        ],
+        [
+          -81.5475388,
+          28.3715297
+        ],
+        [
+          -81.5474123,
+          28.3716096
+        ],
+        [
+          -81.547434,
+          28.3716362
+        ],
+        [
+          -81.5475322,
+          28.3717548
+        ],
+        [
+          -81.5475039,
+          28.371773
+        ],
+        [
+          -81.5475151,
+          28.3717866
+        ],
+        [
+          -81.5474975,
+          28.371798
+        ],
+        [
+          -81.5466737,
+          28.3723293
+        ],
+        [
+          -81.5466166,
+          28.3722608
+        ],
+        [
+          -81.5463766,
+          28.3719715
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 295598769,
+    "version": 8,
+    "timestamp": "2019-09-02T04:32:47Z",
+    "url": "https://www.openstreetmap.org/way/295598769"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 529602448,
+      "version": 1,
+      "timestamp": "2017-10-03T05:46:49Z",
+      "url": "https://www.openstreetmap.org/way/529602448"
+    }
+  ],
+  "wikidata": "Q2776455",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/wdw-epcot-mexico-pyramid.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Mexico pavilion pyramid, EPCOT World Showcase — procedural, CC0-1.0. bun generators/wdw-epcot-mexico-pyramid.ts",
+    "Map frame: x across the pavilion, y along its long axis from the plaza (south, -y) to the back of the show building (north), z up, metres. Placed at bearing 54°, the axis of the OSM outline (way/295598769), so the pyramid's front faces 234°, towards the promenade and the lagoon. The anchor is the outline's local origin (near its middle).",
+    "What it is: a Mesoamerican stepped pyramid in sand-coloured render. It has four tiers, each a battered wall under an upright panelled band and a deep red-brown cornice. A central stair between sloped balustrades carries jade serpent heads at every tier, and a carved stele stands at the stair's foot. The temple on top has a band of windows (the fireworks control room sits up there) and a stepped cap. Behind it is the show building that holds the indoor plaza and the boat ride, with a lower wing either side of the pyramid on the plaza front, banded with the same cornices and carved panels.",
+    "Evidence",
+    "OSM (measured): way/295598769, a 54 × 105 m rectangle with a 19.7 × 15.5 m projection at its south-west end. That projection is the pyramid (its centre line is 4.65 m east of the rectangle's), and it holds the untagged way/529602448. No heights are tagged.",
+    "USGS NAIP 2022 orthophoto (public domain): the pyramid sits on the projection with the plain flat-roofed show building behind. The building's shadow suggests about 11–13 m, so the model takes 13 m.",
+    "Published (Wikipedia): a Mesoamerican pyramid with steps up to the entrance, and the fireworks control office on top.",
+    "Photos (Wikimedia Commons): front from the stair foot (Mexico pavilion at Epcot.jpg, Benjamin D. Esham, CC BY-SA 4.0), front from the plaza (Mexico Pavilion (42550348454).jpg, HarshLight, CC BY 2.0), from the front left (Mexico Pyramid (49560738966).jpg, Eden, Janine and Jim, CC BY 2.0), and the side and temple (Mexico at EPCOT (cropped).jpg, public domain).",
+    "Estimated from the photos, with people and the stair for scale: tiers topping out at 6, 10.3, 13.8 and 17 m; the temple to 20.5 m, the cap to 25.2 m; the stair 3.3 m between 1 m balustrades; tier widths stepping in from the outline's 19.7 m; the plaza wings at 9.6 m, with a set-back upper wall to 14.5 m.",
+    "Invented: the pyramid's back half, which runs into the show building, and the number of recessed panels per tier. The carved reliefs and serpent heads are drawn as plain jade panels and blocks.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"wdw-epcot-mexico-pyramid\", model \"wdw-epcot-mexico-pyramid\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/wdw-epcot-mexico-pyramid.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

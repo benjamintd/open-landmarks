@@ -1,0 +1,786 @@
+{
+  "id": "disneys-contemporary-resort-walt-disney-world",
+  "name": "Disney's Contemporary Resort",
+  "anchor": [
+    -81.574435,
+    28.4149175
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 74560,
+      "sha256": "2d5671beb9a1f370e6d8309be30404ce64e0d140105c97c11ed711c494b7098b"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 74560,
+      "sha256": "2d5671beb9a1f370e6d8309be30404ce64e0d140105c97c11ed711c494b7098b"
+    }
+  },
+  "triangles": 1306,
+  "boundsBlenderM": [
+    [
+      -32.35,
+      -78.3,
+      0
+    ],
+    [
+      42.2,
+      78.75,
+      56
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -81.5747649,
+          28.4143065
+        ],
+        [
+          -81.5747652,
+          28.4143418
+        ],
+        [
+          -81.5747666,
+          28.4143794
+        ],
+        [
+          -81.5747666,
+          28.4144475
+        ],
+        [
+          -81.5747664,
+          28.4149254
+        ],
+        [
+          -81.5747659,
+          28.4151997
+        ],
+        [
+          -81.5747658,
+          28.4152868
+        ],
+        [
+          -81.5747658,
+          28.4153528
+        ],
+        [
+          -81.5747657,
+          28.4153682
+        ],
+        [
+          -81.5747656,
+          28.4154954
+        ],
+        [
+          -81.5747656,
+          28.4155285
+        ],
+        [
+          -81.5747305,
+          28.4155285
+        ],
+        [
+          -81.5747304,
+          28.4155622
+        ],
+        [
+          -81.574685,
+          28.4155621
+        ],
+        [
+          -81.5746648,
+          28.4155621
+        ],
+        [
+          -81.5746447,
+          28.415562
+        ],
+        [
+          -81.5746215,
+          28.415562
+        ],
+        [
+          -81.5746214,
+          28.4156296
+        ],
+        [
+          -81.5745769,
+          28.4156295
+        ],
+        [
+          -81.5745244,
+          28.4156294
+        ],
+        [
+          -81.5745245,
+          28.4155661
+        ],
+        [
+          -81.5744826,
+          28.4155657
+        ],
+        [
+          -81.5744663,
+          28.4155659
+        ],
+        [
+          -81.5742503,
+          28.4155652
+        ],
+        [
+          -81.5741923,
+          28.4155655
+        ],
+        [
+          -81.5741542,
+          28.4155654
+        ],
+        [
+          -81.5741543,
+          28.4155387
+        ],
+        [
+          -81.5741043,
+          28.4155386
+        ],
+        [
+          -81.5741043,
+          28.4155237
+        ],
+        [
+          -81.5741044,
+          28.4154993
+        ],
+        [
+          -81.5741044,
+          28.4154913
+        ],
+        [
+          -81.5741045,
+          28.4154706
+        ],
+        [
+          -81.5741045,
+          28.4154612
+        ],
+        [
+          -81.5741046,
+          28.4153838
+        ],
+        [
+          -81.5741046,
+          28.4153751
+        ],
+        [
+          -81.5741047,
+          28.415291
+        ],
+        [
+          -81.5741046,
+          28.4152828
+        ],
+        [
+          -81.5741049,
+          28.4152001
+        ],
+        [
+          -81.574105,
+          28.4151914
+        ],
+        [
+          -81.5741053,
+          28.4151077
+        ],
+        [
+          -81.5741052,
+          28.4150992
+        ],
+        [
+          -81.5741056,
+          28.4150846
+        ],
+        [
+          -81.5740671,
+          28.4150845
+        ],
+        [
+          -81.5740038,
+          28.4150843
+        ],
+        [
+          -81.5740041,
+          28.4150319
+        ],
+        [
+          -81.5740384,
+          28.415032
+        ],
+        [
+          -81.5740395,
+          28.4148141
+        ],
+        [
+          -81.5740055,
+          28.414814
+        ],
+        [
+          -81.5740058,
+          28.4147537
+        ],
+        [
+          -81.574068,
+          28.4147539
+        ],
+        [
+          -81.5741071,
+          28.4147537
+        ],
+        [
+          -81.5741065,
+          28.4147401
+        ],
+        [
+          -81.5741065,
+          28.4147317
+        ],
+        [
+          -81.5741057,
+          28.4146484
+        ],
+        [
+          -81.5741058,
+          28.4146402
+        ],
+        [
+          -81.5741054,
+          28.4145579
+        ],
+        [
+          -81.5741053,
+          28.4145492
+        ],
+        [
+          -81.5741051,
+          28.4144653
+        ],
+        [
+          -81.5741051,
+          28.4144563
+        ],
+        [
+          -81.5741052,
+          28.4143733
+        ],
+        [
+          -81.5741052,
+          28.4143652
+        ],
+        [
+          -81.5741182,
+          28.4143652
+        ],
+        [
+          -81.5741183,
+          28.4143436
+        ],
+        [
+          -81.5741181,
+          28.414309
+        ],
+        [
+          -81.5741456,
+          28.4143089
+        ],
+        [
+          -81.5741663,
+          28.4143088
+        ],
+        [
+          -81.5741662,
+          28.4142749
+        ],
+        [
+          -81.5742049,
+          28.4142748
+        ],
+        [
+          -81.574476,
+          28.4142744
+        ],
+        [
+          -81.5745149,
+          28.4142743
+        ],
+        [
+          -81.5745148,
+          28.4142095
+        ],
+        [
+          -81.5745769,
+          28.4142094
+        ],
+        [
+          -81.574616,
+          28.4142093
+        ],
+        [
+          -81.5746161,
+          28.4142739
+        ],
+        [
+          -81.5746546,
+          28.4142739
+        ],
+        [
+          -81.5746843,
+          28.4142738
+        ],
+        [
+          -81.5747048,
+          28.4142738
+        ],
+        [
+          -81.5747048,
+          28.4143068
+        ],
+        [
+          -81.5747649,
+          28.4143065
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 344910189,
+    "version": 24,
+    "timestamp": "2025-03-10T03:18:27Z",
+    "url": "https://www.openstreetmap.org/way/344910189"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 563012186,
+      "version": 5,
+      "timestamp": "2021-07-24T23:03:01Z",
+      "url": "https://www.openstreetmap.org/way/563012186"
+    },
+    {
+      "type": "way",
+      "id": 563012188,
+      "version": 5,
+      "timestamp": "2021-07-24T23:03:01Z",
+      "url": "https://www.openstreetmap.org/way/563012188"
+    },
+    {
+      "type": "way",
+      "id": 563012189,
+      "version": 12,
+      "timestamp": "2022-08-20T09:31:23Z",
+      "url": "https://www.openstreetmap.org/way/563012189"
+    },
+    {
+      "type": "way",
+      "id": 563012190,
+      "version": 3,
+      "timestamp": "2019-06-29T17:34:18Z",
+      "url": "https://www.openstreetmap.org/way/563012190"
+    },
+    {
+      "type": "way",
+      "id": 563012191,
+      "version": 6,
+      "timestamp": "2021-07-24T23:03:01Z",
+      "url": "https://www.openstreetmap.org/way/563012191"
+    },
+    {
+      "type": "way",
+      "id": 563012192,
+      "version": 5,
+      "timestamp": "2021-07-24T23:03:01Z",
+      "url": "https://www.openstreetmap.org/way/563012192"
+    },
+    {
+      "type": "way",
+      "id": 563012193,
+      "version": 6,
+      "timestamp": "2021-07-24T23:03:01Z",
+      "url": "https://www.openstreetmap.org/way/563012193"
+    },
+    {
+      "type": "way",
+      "id": 563718274,
+      "version": 5,
+      "timestamp": "2022-08-20T09:31:23Z",
+      "url": "https://www.openstreetmap.org/way/563718274"
+    },
+    {
+      "type": "way",
+      "id": 563718278,
+      "version": 5,
+      "timestamp": "2022-08-20T09:31:23Z",
+      "url": "https://www.openstreetmap.org/way/563718278"
+    },
+    {
+      "type": "way",
+      "id": 563718280,
+      "version": 5,
+      "timestamp": "2022-08-20T09:31:23Z",
+      "url": "https://www.openstreetmap.org/way/563718280"
+    },
+    {
+      "type": "way",
+      "id": 563718282,
+      "version": 7,
+      "timestamp": "2022-08-20T09:31:23Z",
+      "url": "https://www.openstreetmap.org/way/563718282"
+    },
+    {
+      "type": "way",
+      "id": 563718283,
+      "version": 5,
+      "timestamp": "2022-08-20T09:31:23Z",
+      "url": "https://www.openstreetmap.org/way/563718283"
+    },
+    {
+      "type": "way",
+      "id": 563718287,
+      "version": 6,
+      "timestamp": "2022-08-20T09:31:23Z",
+      "url": "https://www.openstreetmap.org/way/563718287"
+    },
+    {
+      "type": "way",
+      "id": 563718289,
+      "version": 6,
+      "timestamp": "2022-08-20T09:31:23Z",
+      "url": "https://www.openstreetmap.org/way/563718289"
+    },
+    {
+      "type": "way",
+      "id": 563718292,
+      "version": 6,
+      "timestamp": "2022-08-20T09:31:23Z",
+      "url": "https://www.openstreetmap.org/way/563718292"
+    },
+    {
+      "type": "way",
+      "id": 563718293,
+      "version": 6,
+      "timestamp": "2022-08-20T09:31:23Z",
+      "url": "https://www.openstreetmap.org/way/563718293"
+    },
+    {
+      "type": "way",
+      "id": 563718295,
+      "version": 6,
+      "timestamp": "2022-08-20T09:31:23Z",
+      "url": "https://www.openstreetmap.org/way/563718295"
+    },
+    {
+      "type": "way",
+      "id": 692275601,
+      "version": 4,
+      "timestamp": "2025-01-21T22:40:26Z",
+      "url": "https://www.openstreetmap.org/way/692275601"
+    },
+    {
+      "type": "way",
+      "id": 692275604,
+      "version": 4,
+      "timestamp": "2025-01-21T22:40:26Z",
+      "url": "https://www.openstreetmap.org/way/692275604"
+    },
+    {
+      "type": "way",
+      "id": 692275605,
+      "version": 4,
+      "timestamp": "2025-01-21T22:40:26Z",
+      "url": "https://www.openstreetmap.org/way/692275605"
+    },
+    {
+      "type": "way",
+      "id": 692275606,
+      "version": 4,
+      "timestamp": "2025-01-21T22:40:26Z",
+      "url": "https://www.openstreetmap.org/way/692275606"
+    },
+    {
+      "type": "way",
+      "id": 692275607,
+      "version": 4,
+      "timestamp": "2025-01-21T22:40:26Z",
+      "url": "https://www.openstreetmap.org/way/692275607"
+    },
+    {
+      "type": "way",
+      "id": 692275608,
+      "version": 4,
+      "timestamp": "2025-01-21T22:40:26Z",
+      "url": "https://www.openstreetmap.org/way/692275608"
+    },
+    {
+      "type": "way",
+      "id": 692275609,
+      "version": 4,
+      "timestamp": "2025-01-21T22:40:26Z",
+      "url": "https://www.openstreetmap.org/way/692275609"
+    },
+    {
+      "type": "way",
+      "id": 692275610,
+      "version": 4,
+      "timestamp": "2025-01-21T22:40:26Z",
+      "url": "https://www.openstreetmap.org/way/692275610"
+    },
+    {
+      "type": "way",
+      "id": 692275611,
+      "version": 4,
+      "timestamp": "2025-01-21T22:40:26Z",
+      "url": "https://www.openstreetmap.org/way/692275611"
+    },
+    {
+      "type": "way",
+      "id": 692275617,
+      "version": 4,
+      "timestamp": "2025-01-21T22:40:26Z",
+      "url": "https://www.openstreetmap.org/way/692275617"
+    },
+    {
+      "type": "way",
+      "id": 692834841,
+      "version": 5,
+      "timestamp": "2021-07-24T23:03:03Z",
+      "url": "https://www.openstreetmap.org/way/692834841"
+    },
+    {
+      "type": "way",
+      "id": 692834842,
+      "version": 3,
+      "timestamp": "2025-01-21T22:40:26Z",
+      "url": "https://www.openstreetmap.org/way/692834842"
+    },
+    {
+      "type": "way",
+      "id": 692834843,
+      "version": 3,
+      "timestamp": "2022-08-20T09:31:23Z",
+      "url": "https://www.openstreetmap.org/way/692834843"
+    },
+    {
+      "type": "way",
+      "id": 692834844,
+      "version": 3,
+      "timestamp": "2025-01-21T22:40:26Z",
+      "url": "https://www.openstreetmap.org/way/692834844"
+    },
+    {
+      "type": "way",
+      "id": 692834845,
+      "version": 8,
+      "timestamp": "2025-01-21T22:40:26Z",
+      "url": "https://www.openstreetmap.org/way/692834845"
+    },
+    {
+      "type": "way",
+      "id": 784959511,
+      "version": 3,
+      "timestamp": "2022-08-20T09:31:23Z",
+      "url": "https://www.openstreetmap.org/way/784959511"
+    },
+    {
+      "type": "way",
+      "id": 784959512,
+      "version": 3,
+      "timestamp": "2022-08-20T09:31:23Z",
+      "url": "https://www.openstreetmap.org/way/784959512"
+    },
+    {
+      "type": "way",
+      "id": 784959513,
+      "version": 3,
+      "timestamp": "2022-08-20T09:31:23Z",
+      "url": "https://www.openstreetmap.org/way/784959513"
+    },
+    {
+      "type": "way",
+      "id": 784959514,
+      "version": 3,
+      "timestamp": "2022-08-20T09:31:23Z",
+      "url": "https://www.openstreetmap.org/way/784959514"
+    },
+    {
+      "type": "way",
+      "id": 784959515,
+      "version": 3,
+      "timestamp": "2022-08-20T09:31:23Z",
+      "url": "https://www.openstreetmap.org/way/784959515"
+    },
+    {
+      "type": "way",
+      "id": 784959516,
+      "version": 3,
+      "timestamp": "2022-08-20T09:31:23Z",
+      "url": "https://www.openstreetmap.org/way/784959516"
+    },
+    {
+      "type": "way",
+      "id": 784959517,
+      "version": 3,
+      "timestamp": "2022-08-20T09:31:23Z",
+      "url": "https://www.openstreetmap.org/way/784959517"
+    },
+    {
+      "type": "way",
+      "id": 784959518,
+      "version": 3,
+      "timestamp": "2022-08-20T09:31:23Z",
+      "url": "https://www.openstreetmap.org/way/784959518"
+    },
+    {
+      "type": "way",
+      "id": 784959519,
+      "version": 3,
+      "timestamp": "2022-08-20T09:31:23Z",
+      "url": "https://www.openstreetmap.org/way/784959519"
+    },
+    {
+      "type": "way",
+      "id": 784959520,
+      "version": 3,
+      "timestamp": "2022-08-20T09:31:23Z",
+      "url": "https://www.openstreetmap.org/way/784959520"
+    },
+    {
+      "type": "way",
+      "id": 784959521,
+      "version": 3,
+      "timestamp": "2022-08-20T09:31:23Z",
+      "url": "https://www.openstreetmap.org/way/784959521"
+    },
+    {
+      "type": "way",
+      "id": 784959522,
+      "version": 4,
+      "timestamp": "2022-08-20T09:31:23Z",
+      "url": "https://www.openstreetmap.org/way/784959522"
+    },
+    {
+      "type": "way",
+      "id": 784959677,
+      "version": 3,
+      "timestamp": "2022-08-20T09:31:23Z",
+      "url": "https://www.openstreetmap.org/way/784959677"
+    },
+    {
+      "type": "way",
+      "id": 784959678,
+      "version": 3,
+      "timestamp": "2022-08-20T09:31:23Z",
+      "url": "https://www.openstreetmap.org/way/784959678"
+    },
+    {
+      "type": "way",
+      "id": 784959679,
+      "version": 3,
+      "timestamp": "2022-08-20T09:31:23Z",
+      "url": "https://www.openstreetmap.org/way/784959679"
+    },
+    {
+      "type": "way",
+      "id": 784959680,
+      "version": 3,
+      "timestamp": "2022-08-20T09:31:23Z",
+      "url": "https://www.openstreetmap.org/way/784959680"
+    },
+    {
+      "type": "way",
+      "id": 784959681,
+      "version": 3,
+      "timestamp": "2022-08-20T09:31:23Z",
+      "url": "https://www.openstreetmap.org/way/784959681"
+    },
+    {
+      "type": "way",
+      "id": 784960404,
+      "version": 3,
+      "timestamp": "2022-08-20T09:31:23Z",
+      "url": "https://www.openstreetmap.org/way/784960404"
+    },
+    {
+      "type": "way",
+      "id": 784960405,
+      "version": 3,
+      "timestamp": "2022-08-20T09:31:23Z",
+      "url": "https://www.openstreetmap.org/way/784960405"
+    },
+    {
+      "type": "way",
+      "id": 784960406,
+      "version": 3,
+      "timestamp": "2022-08-20T09:31:23Z",
+      "url": "https://www.openstreetmap.org/way/784960406"
+    },
+    {
+      "type": "way",
+      "id": 784960407,
+      "version": 3,
+      "timestamp": "2022-08-20T09:31:23Z",
+      "url": "https://www.openstreetmap.org/way/784960407"
+    },
+    {
+      "type": "way",
+      "id": 784960408,
+      "version": 1,
+      "timestamp": "2020-03-27T01:24:33Z",
+      "url": "https://www.openstreetmap.org/way/784960408"
+    }
+  ],
+  "wikidata": "Q2919960",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/wdw-contemporary-resort.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Disney's Contemporary Resort, the A-frame tower — procedural, CC0-1.0. bun generators/wdw-contemporary-resort.ts",
+    "Map frame: x east, y north, z up, metres. Placed at bearing 0: the tower's long axis runs due north (the OSM outline's long sides are within 0.1° of north). The anchor is the middle of the A-frame: halfway between the outer feet of its sloped sides (OSM x -41.7 and +23.1 m) and between the ends of its end legs (y -70.0 and +65.1 m), in the frame of OSM way/344910189.",
+    "What it is (Welton Becket for Disney and US Steel, 1971): a steel A-frame whose two sloped sides carry nine floors of stacked, balconied guest rooms, with the Grand Canyon Concourse atrium inside, glazed at both ends in bronze glass between two leaning end legs. The monorail runs straight through the concourse. A penthouse (California Grill) sits on the flat roof.",
+    "Evidence:",
+    "OSM (measured): outline way/344910189, 64.7 × 135.1 m; the slope strips way/784959501–522 put the side faces from x = ±32 m at the ground to the 40 m wide roof, and the frame ribs every 10.1 m along the sides (12 bays, as photo 01 shows); the end-wall parts way/692275601–617 and way/692834842–844 give the glass trapezoid (17 m wide at the top, 32 m near the bottom, 10 m to 48 m up) and the end legs about 12 m wide; the penthouse octagon way/692834841/5 (33 × 52 m) and its hipped cap way/563012186–193; the gabled concourse skylights way/563718274–280 and way/784959677–681. The glass ends sit 6–7 m behind the ends of the legs.",
+    "Published: 14 storeys, 184 ft (56 m) to the top of the penthouse.",
+    "Photos (Wikimedia Commons, see the report for credits): 01 and 02, the lake (west) side face-on, give the heights in proportion to 56 m: the white podium to 13.4 m, a dark recessed band to 19 m, nine room floors to the roof at 47.5 m, the end legs 2 m above it, the penthouse windows, fascia and cap. OSM's 51 m roof and 56 m top don't fit the photos; the photos win and the top stays at the published 56 m. \"Left\", \"Arriving Monorail Teal\" and Brian Kendig's 2005 photo show the north end: leaning legs of cream panels, balconies stepping along their inner edges, bronze glass between, the beams entering above a white base.",
+    "The monorail: OSM's two beams (way/692276307 and way/880022913, layer 2, tunnel=yes through the building) run north–south at x = -13.8 and -4.4 m in this frame. The concourse is the 4th floor; the photos put the beams entering just above the white base wall. The opening is modelled as a real tunnel through the whole building, 10.5 to 18.5 m up and x -16.3 to -1.5, so the monorail lines the map draws beneath show through both ends, and a train (beam top ~13 m, car roof ~17 m) would fit. The beam height is an estimate from photos; OSM's height=30 on the tunnel way doesn't match them.",
+    "Estimated: the beam opening, the depth of the room-band steps (1 m), the dark band's 2.2 m recess, the low podium blocks filling the outline's entrance wings (4.5 m), the penthouse piers. Invented: nothing structural.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"wdw-contemporary-resort\", model \"wdw-contemporary-resort\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/wdw-contemporary-resort.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 5839 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the wdw-contemporary-resort-glazing finish in the window colour."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

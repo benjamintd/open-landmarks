@@ -1,0 +1,357 @@
+{
+  "id": "black-spire-outpost-spires-walt-disney-world",
+  "name": "Black Spire Outpost spires",
+  "anchor": [
+    -81.5619811,
+    28.3536046
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 224204,
+      "sha256": "7edc8f6a5a18b1c30510b53ceee2b63a033e3a4fa384438e855d008a6698de35"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 224204,
+      "sha256": "7edc8f6a5a18b1c30510b53ceee2b63a033e3a4fa384438e855d008a6698de35"
+    }
+  },
+  "triangles": 2842,
+  "boundsBlenderM": [
+    [
+      -24.953,
+      -20.653,
+      0
+    ],
+    [
+      28.797,
+      20.179,
+      41
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -81.5624171,
+          28.3531778
+        ],
+        [
+          -81.5622721,
+          28.3531786
+        ],
+        [
+          -81.5622718,
+          28.3531055
+        ],
+        [
+          -81.5615742,
+          28.3531047
+        ],
+        [
+          -81.5615742,
+          28.3532559
+        ],
+        [
+          -81.5613401,
+          28.3532573
+        ],
+        [
+          -81.5609897,
+          28.3534375
+        ],
+        [
+          -81.5612492,
+          28.353834
+        ],
+        [
+          -81.5614267,
+          28.3539427
+        ],
+        [
+          -81.5614396,
+          28.353942
+        ],
+        [
+          -81.5614729,
+          28.3539237
+        ],
+        [
+          -81.5615576,
+          28.3538733
+        ],
+        [
+          -81.5615832,
+          28.35386
+        ],
+        [
+          -81.5616123,
+          28.3538439
+        ],
+        [
+          -81.561615,
+          28.3538598
+        ],
+        [
+          -81.5616198,
+          28.3538704
+        ],
+        [
+          -81.5616285,
+          28.3538816
+        ],
+        [
+          -81.5616415,
+          28.3538918
+        ],
+        [
+          -81.5616579,
+          28.3538989
+        ],
+        [
+          -81.5616776,
+          28.3539019
+        ],
+        [
+          -81.5616896,
+          28.3539012
+        ],
+        [
+          -81.5617032,
+          28.3538979
+        ],
+        [
+          -81.5617151,
+          28.3538926
+        ],
+        [
+          -81.5617221,
+          28.353888
+        ],
+        [
+          -81.5617279,
+          28.3538831
+        ],
+        [
+          -81.5617328,
+          28.3538779
+        ],
+        [
+          -81.5617361,
+          28.3538735
+        ],
+        [
+          -81.5617397,
+          28.3538675
+        ],
+        [
+          -81.5617433,
+          28.3538586
+        ],
+        [
+          -81.561745,
+          28.3538513
+        ],
+        [
+          -81.5617457,
+          28.3538423
+        ],
+        [
+          -81.5617442,
+          28.353831
+        ],
+        [
+          -81.5617418,
+          28.3538236
+        ],
+        [
+          -81.5617385,
+          28.3538167
+        ],
+        [
+          -81.5617332,
+          28.3538091
+        ],
+        [
+          -81.5617284,
+          28.3538038
+        ],
+        [
+          -81.5617252,
+          28.3538009
+        ],
+        [
+          -81.5617144,
+          28.3537935
+        ],
+        [
+          -81.5616996,
+          28.3537874
+        ],
+        [
+          -81.561691,
+          28.3537743
+        ],
+        [
+          -81.5616848,
+          28.3537536
+        ],
+        [
+          -81.5616853,
+          28.3537198
+        ],
+        [
+          -81.5616999,
+          28.3536864
+        ],
+        [
+          -81.5617249,
+          28.3536579
+        ],
+        [
+          -81.5617555,
+          28.3536426
+        ],
+        [
+          -81.561794,
+          28.3536312
+        ],
+        [
+          -81.5618311,
+          28.3536317
+        ],
+        [
+          -81.561874,
+          28.353636
+        ],
+        [
+          -81.5618993,
+          28.3536549
+        ],
+        [
+          -81.5619329,
+          28.3536665
+        ],
+        [
+          -81.561949,
+          28.3536811
+        ],
+        [
+          -81.5619531,
+          28.353682
+        ],
+        [
+          -81.5619737,
+          28.3536865
+        ],
+        [
+          -81.5619875,
+          28.3537133
+        ],
+        [
+          -81.562006,
+          28.3537283
+        ],
+        [
+          -81.562026,
+          28.3537369
+        ],
+        [
+          -81.5620444,
+          28.3537344
+        ],
+        [
+          -81.5620562,
+          28.3537226
+        ],
+        [
+          -81.5620947,
+          28.3537527
+        ],
+        [
+          -81.5621204,
+          28.3537486
+        ],
+        [
+          -81.56215,
+          28.3537288
+        ],
+        [
+          -81.5622647,
+          28.3536204
+        ],
+        [
+          -81.5623005,
+          28.3535851
+        ],
+        [
+          -81.5623201,
+          28.3535853
+        ],
+        [
+          -81.5623186,
+          28.3534863
+        ],
+        [
+          -81.5624171,
+          28.3534849
+        ],
+        [
+          -81.5624171,
+          28.3531778
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 688502132,
+    "version": 24,
+    "timestamp": "2026-09-24T16:15:52Z",
+    "url": "https://www.openstreetmap.org/way/688502132"
+  },
+  "additionalOsm": [],
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/wdw-batuu-spires.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "The rock spires of Black Spire Outpost, Star Wars: Galaxy's Edge, Disney's Hollywood Studios — procedural, CC0-1.0. bun generators/wdw-batuu-spires.ts",
+    "Map frame: x east, y north, z up, metres, bearing 0. The origin is the mean of the five main spires' bases. One model holds the whole group, since the spires are one piece of rockwork and read as a group from every side.",
+    "The spires are the petrified trees the outpost is named after: craggy blue-grey stone needles, fluted with vertical clefts, narrowing unevenly and leaning a little, with sharp lesser points clustered round their tops and stepping down their flanks. They grow in fused clusters out of broad, low mesas of layered tan and ochre rockwork. The tallest group stands behind the Millennium Falcon, along the north and west face of Smugglers Run's show building (way/688502132), which wraps round the Falcon's courtyard. Every base falls inside that building's outline, so the model replaces nothing: the show building is far larger and keeps its own extrusion.",
+    "Evidence",
+    "Published: 135 ft (41 m) spires (Wikipedia, \"Star Wars: Galaxy's Edge\"; fan sites give \"more than 130 feet\" for the tallest). The figure may be Disneyland's; Florida's tallest is taken to match.",
+    "Photos from the courtyard: Commons, Jedi94 (CC BY-SA 4.0; \"Black Spire, Walt Disney World\" and \"Star Wars, Galaxy's Edge at WDW\"), Eden, Janine and Jim (CC BY 2.0), Steven Miller (CC BY 2.0), Ekynox mg (CC BY-SA 4.0); Mapillary, jonahadkins and Lanka6359 (CC BY-SA 4.0). They show two tall needles behind the Falcon with a tunnel between them, a shorter crown of points west of them and lower needles further round, all rising from a tan rock mass about 40% of their height.",
+    "Positions: bearings to each spire from two Mapillary photos, their camera poses solved against the Falcon model's cockpit and mandible tips, and cross-checked with the long north-pointing spire shadows across the courtyard in the USGS NAIP orthophoto (public domain).",
+    "OSM's natural=bare_rock areas in the land (way/720122310, 732497074–6, 805583653, 805720820, 805936653–4, 823713027, 823729287, 589550174, 823707702, 823709426, 770929187, 1090823872) are the low rockwork walls round the Resistance camp and the market, and the outcrops in the market; none of them is under a spire, so none is used.",
+    "Doubts: the positions rest on two photo bearings that cross at a narrow angle, so each spire may be off by 5 to 10 m along the line of sight. The heights other than the tallest are scaled from the photos. The mesas' outline and height are estimated from the photos; the needles' facets and lesser points are a stylised stand-in for the sculpted rock.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"wdw-batuu-spires\", model \"wdw-batuu-spires\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/wdw-batuu-spires.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

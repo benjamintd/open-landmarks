@@ -1,0 +1,257 @@
+{
+  "id": "united-kingdom-pavilion-walt-disney-world",
+  "name": "United Kingdom Pavilion",
+  "anchor": [
+    -81.55163,
+    28.37038
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 151508,
+      "sha256": "2aabef373f13e3d1a51eefa47137ce75e698b687ac2ed6b42701ae3819f5e566"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 151508,
+      "sha256": "2aabef373f13e3d1a51eefa47137ce75e698b687ac2ed6b42701ae3819f5e566"
+    }
+  },
+  "triangles": 4358,
+  "boundsBlenderM": [
+    [
+      -73.255,
+      -16.527,
+      0
+    ],
+    [
+      17.461,
+      54.045,
+      15.6
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -81.5517049,
+          28.3705226
+        ],
+        [
+          -81.5517198,
+          28.3704551
+        ],
+        [
+          -81.5517263,
+          28.3704562
+        ],
+        [
+          -81.5517393,
+          28.3703975
+        ],
+        [
+          -81.5517096,
+          28.3703924
+        ],
+        [
+          -81.5517311,
+          28.3702952
+        ],
+        [
+          -81.5517697,
+          28.3703018
+        ],
+        [
+          -81.5517723,
+          28.37029
+        ],
+        [
+          -81.5517897,
+          28.370293
+        ],
+        [
+          -81.5517971,
+          28.3702595
+        ],
+        [
+          -81.5517842,
+          28.3702573
+        ],
+        [
+          -81.5517874,
+          28.3702427
+        ],
+        [
+          -81.551733,
+          28.3702333
+        ],
+        [
+          -81.5517268,
+          28.3702613
+        ],
+        [
+          -81.5516306,
+          28.3702447
+        ],
+        [
+          -81.5516226,
+          28.3702809
+        ],
+        [
+          -81.5515831,
+          28.3702741
+        ],
+        [
+          -81.5515766,
+          28.3703033
+        ],
+        [
+          -81.551573,
+          28.3703195
+        ],
+        [
+          -81.5515421,
+          28.3703142
+        ],
+        [
+          -81.5515367,
+          28.3703387
+        ],
+        [
+          -81.5515127,
+          28.3703346
+        ],
+        [
+          -81.5515032,
+          28.3703329
+        ],
+        [
+          -81.5514869,
+          28.3704053
+        ],
+        [
+          -81.551475,
+          28.3704033
+        ],
+        [
+          -81.551459,
+          28.3704739
+        ],
+        [
+          -81.5514719,
+          28.3704762
+        ],
+        [
+          -81.5514663,
+          28.3705011
+        ],
+        [
+          -81.5514823,
+          28.370525
+        ],
+        [
+          -81.5514894,
+          28.3705262
+        ],
+        [
+          -81.5514888,
+          28.3705293
+        ],
+        [
+          -81.5515979,
+          28.370548
+        ],
+        [
+          -81.5516072,
+          28.3705059
+        ],
+        [
+          -81.5517049,
+          28.3705226
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 44486037,
+    "version": 11,
+    "timestamp": "2025-12-26T13:24:01Z",
+    "url": "https://www.openstreetmap.org/way/44486037"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 784027061,
+      "version": 1,
+      "timestamp": "2020-03-23T20:18:46Z",
+      "url": "https://www.openstreetmap.org/way/784027061"
+    },
+    {
+      "type": "way",
+      "id": 295399246,
+      "version": 6,
+      "timestamp": "2023-05-03T20:38:35Z",
+      "url": "https://www.openstreetmap.org/way/295399246"
+    },
+    {
+      "type": "way",
+      "id": 44486036,
+      "version": 10,
+      "timestamp": "2020-03-23T20:10:51Z",
+      "url": "https://www.openstreetmap.org/way/44486036"
+    },
+    {
+      "type": "way",
+      "id": 784025250,
+      "version": 1,
+      "timestamp": "2020-03-23T20:10:51Z",
+      "url": "https://www.openstreetmap.org/way/784025250"
+    }
+  ],
+  "wikidata": "Q2904061",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/wdw-epcot-uk.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "EPCOT United Kingdom pavilion: the Rose & Crown and the High Street — procedural, CC0-1.0. bun generators/wdw-epcot-uk.ts",
+    "Map frame: x east, y north, z up, metres; bearing 0. The anchor is the Rose & Crown outline's centroid. Each building is built on its own OSM grid (the pub on 11°, the High Street blocks on 43°, the Tea Caddy on 66°) and turned into the model frame, so the footprints match OSM.",
+    "What it is: the pavilion as seen from the lagoon and the promenade. The Rose & Crown pub, red brick with a green shopfront and a domed round turret on its street corner, with its brick dining room on the lagoon and a row of stuccoed houses and the fish shop south of it; across the High Street the Hampton Court range (red brick, white stone strings, crenellations, square towers, a pair of cupola turrets and a cluster of tall chimneys) facing the knot garden, Sportsman's Shoppe's stone gatehouse with its stepped gable, a slate-roofed shop row, a Georgian corner by the square, and on the other side the Georgian Queen's Table front with its pediment and the thatched Tea Caddy cottage.",
+    "Evidence",
+    "OSM (measured): footprints of way/44486037 (Rose & Crown, 2 levels), way/784027061 (its fish-shop part), way/295399246 (High Street block, 2 levels), way/44486036 (2 levels) and its part way/784025250 (Tea Caddy). Shop nodes place Sportsman's Shoppe, The Crown & Crest, The Toy Soldier, Queen's Table, Lords & Ladies, the Tea Caddy and the fish shop. Each footprint is drawn as a few rectangles on its own grid, so small notches are filled or trimmed by up to a metre.",
+    "Public-domain USGS NAIP orthophoto: roof plan, slate vs. tile roofs, and the knot garden east of the High Street block that the Hampton Court range faces.",
+    "Photos (Wikimedia Commons): Rose & Crown corner and turret from the street (United Kingdom Pavilion (41459070980), panoramio 4911, The UK in Epcot), Hampton Court from the knot garden (41459069700), Sportsman's Shoppe (United Kingdom street at Epcot), the Georgian front (Epcotuk2).",
+    "Estimated from the photos (no heights published or tagged beyond levels): the pub's cornice 9 m, its turret dome top 13.8 m; Hampton Court 10 m, towers 13.4–14 m, chimneys 15.2 m; the shop rows 7.4–7.6 m to the eaves.",
+    "Invented or simplified: the Rose & Crown's lagoon (dining room) side and the backs of every building, which no photo shows; the order of the towers along Hampton Court is from one photo; half-timbering, the knot garden and the bandstand are left out.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"wdw-epcot-uk\", model \"wdw-epcot-uk\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/wdw-epcot-uk.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 9 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the wdw-epcot-uk-glazing finish in the window colour.",
+    "To fit six materials, folded wdw-epcot-uk-glazing into roof (ΔE 19.3)."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

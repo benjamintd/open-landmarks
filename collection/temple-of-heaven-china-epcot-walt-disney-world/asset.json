@@ -1,0 +1,186 @@
+{
+  "id": "temple-of-heaven-china-epcot-walt-disney-world",
+  "name": "Temple of Heaven (China, EPCOT)",
+  "anchor": [
+    -81.5463174,
+    28.3697663
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 62060,
+      "sha256": "97ae01d2400bc2196698d20ed3501ce236d3cb8d624e73b85b27580f2dc93aae"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 62060,
+      "sha256": "97ae01d2400bc2196698d20ed3501ce236d3cb8d624e73b85b27580f2dc93aae"
+    }
+  },
+  "triangles": 2246,
+  "boundsBlenderM": [
+    [
+      -9.642,
+      -8.599,
+      0
+    ],
+    [
+      8.599,
+      8.599,
+      18.32
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -81.5462358,
+          28.3697857
+        ],
+        [
+          -81.5462524,
+          28.3698111
+        ],
+        [
+          -81.5462655,
+          28.3698216
+        ],
+        [
+          -81.5462855,
+          28.369831
+        ],
+        [
+          -81.5463112,
+          28.3698355
+        ],
+        [
+          -81.5463349,
+          28.3698332
+        ],
+        [
+          -81.5463621,
+          28.3698221
+        ],
+        [
+          -81.5463853,
+          28.3697999
+        ],
+        [
+          -81.5463914,
+          28.3697839
+        ],
+        [
+          -81.5463964,
+          28.3697709
+        ],
+        [
+          -81.5463949,
+          28.369747
+        ],
+        [
+          -81.5463818,
+          28.369721
+        ],
+        [
+          -81.5463642,
+          28.3697049
+        ],
+        [
+          -81.5463431,
+          28.3696947
+        ],
+        [
+          -81.5463174,
+          28.3696902
+        ],
+        [
+          -81.5462861,
+          28.3696945
+        ],
+        [
+          -81.5462543,
+          28.3697127
+        ],
+        [
+          -81.5462373,
+          28.3697362
+        ],
+        [
+          -81.5462316,
+          28.3697636
+        ],
+        [
+          -81.5462358,
+          28.3697857
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 383670241,
+    "version": 3,
+    "timestamp": "2017-05-14T00:43:34Z",
+    "url": "https://www.openstreetmap.org/way/383670241"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q2681898",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:China showcase at Epcot.jpg",
+      "author": "Nixinova",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:China_showcase_at_Epcot.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:China_showcase_at_Epcot.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:China pavilion at Epcot.jpg",
+      "author": "Benjamin D. Esham (bdesham)",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:China_pavilion_at_Epcot.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/wdw-epcot-china-temple.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "EPCOT China pavilion: the Temple of Heaven — procedural, CC0-1.0. bun generators/wdw-epcot-china-temple.ts",
+    "Map frame: x east, y north, z up, metres; origin on the ground at the centre of the round OSM building (way/383670241, a 19-point circle of radius 7.5–8.6 m, mean 8.0 m, untagged beyond building=yes). The model is built with its door facing +y; the catalog turns it to 286°, the bearing of OSM's entrance node/4852835323 from the centre, which matches the photos: the walkway from the courtyard runs straight at the door, with the rest of the pavilion (way/295597521) joined on the hall's left.",
+    "A half-scale replica of the Hall of Prayer for Good Harvests, housing the Reflections of China theatre. A round red hall on a white marble terrace, under three diminishing tiers of blue glazed roof, each with a painted blue-green frieze drum beneath it, a gold-framed name tablet on the top drum and a gold ball finial.",
+    "Evidence:",
+    "Measured: the footprint radius (OSM) and every height and radius below, from two near-level photos scaled to that radius (Wikimedia Commons: \"China showcase at Epcot.jpg\", Nixinova, public domain, from the courtyard; \"China pavilion at Epcot.jpg\", Benjamin D. Esham, CC BY-SA 4.0, from the pond side). The lowest eave spans about the building's own height in both.",
+    "Published: half scale of the Beijing hall (38 m tall, ~32 m across the body), which agrees with the ~18 m total and 8.6 m eave radius measured.",
+    "Estimated: the terrace's three steps (the photos show one broad white platform with balustrades; the steps stand in for that and for the real hall's three-tier marble base). The balustrades themselves are left out as railings.",
+    "Invented: nothing structural. The plaque is a plain gold-edged panel.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"wdw-epcot-china-temple\", model \"wdw-epcot-china-temple\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/wdw-epcot-china-temple.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

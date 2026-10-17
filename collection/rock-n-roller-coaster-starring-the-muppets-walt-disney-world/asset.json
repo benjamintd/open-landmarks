@@ -1,0 +1,351 @@
+{
+  "id": "rock-n-roller-coaster-starring-the-muppets-walt-disney-world",
+  "name": "Rock ’n’ Roller Coaster Starring The Muppets",
+  "anchor": [
+    -81.5615788,
+    28.3596178
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 141664,
+      "sha256": "184d739abac072090ff3a343d8e8daefc9ea7a4dfcf6b9da21d759ad61d9e892"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 141664,
+      "sha256": "184d739abac072090ff3a343d8e8daefc9ea7a4dfcf6b9da21d759ad61d9e892"
+    }
+  },
+  "triangles": 3215,
+  "boundsBlenderM": [
+    [
+      -78.774,
+      -40.635,
+      0
+    ],
+    [
+      91.526,
+      45.865,
+      28
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -81.5607719,
+          28.3594717
+        ],
+        [
+          -81.5607956,
+          28.359472
+        ],
+        [
+          -81.5607963,
+          28.359434
+        ],
+        [
+          -81.5607729,
+          28.3594337
+        ],
+        [
+          -81.5607736,
+          28.3593979
+        ],
+        [
+          -81.5607961,
+          28.3593982
+        ],
+        [
+          -81.5607969,
+          28.3593546
+        ],
+        [
+          -81.5608212,
+          28.359355
+        ],
+        [
+          -81.5608223,
+          28.3592924
+        ],
+        [
+          -81.5608534,
+          28.3592928
+        ],
+        [
+          -81.5608394,
+          28.3592782
+        ],
+        [
+          -81.5608407,
+          28.3592636
+        ],
+        [
+          -81.5608598,
+          28.3592512
+        ],
+        [
+          -81.5608872,
+          28.3592512
+        ],
+        [
+          -81.5613859,
+          28.3592526
+        ],
+        [
+          -81.5613858,
+          28.3592819
+        ],
+        [
+          -81.5614266,
+          28.359282
+        ],
+        [
+          -81.5614264,
+          28.3593542
+        ],
+        [
+          -81.5613815,
+          28.3593541
+        ],
+        [
+          -81.5613815,
+          28.3593889
+        ],
+        [
+          -81.5613151,
+          28.3593888
+        ],
+        [
+          -81.5613151,
+          28.3594251
+        ],
+        [
+          -81.5618398,
+          28.3594253
+        ],
+        [
+          -81.5618398,
+          28.3595073
+        ],
+        [
+          -81.5623827,
+          28.3595072
+        ],
+        [
+          -81.5623828,
+          28.3597742
+        ],
+        [
+          -81.5623598,
+          28.3597743
+        ],
+        [
+          -81.5623605,
+          28.3600315
+        ],
+        [
+          -81.5618169,
+          28.3600327
+        ],
+        [
+          -81.5618157,
+          28.3596107
+        ],
+        [
+          -81.5617539,
+          28.3596108
+        ],
+        [
+          -81.561754,
+          28.3596559
+        ],
+        [
+          -81.561677,
+          28.3596562
+        ],
+        [
+          -81.5616768,
+          28.3596068
+        ],
+        [
+          -81.5612527,
+          28.3596081
+        ],
+        [
+          -81.5612526,
+          28.3596002
+        ],
+        [
+          -81.5611306,
+          28.3596007
+        ],
+        [
+          -81.5611312,
+          28.359726
+        ],
+        [
+          -81.5610361,
+          28.3597254
+        ],
+        [
+          -81.561036,
+          28.3597657
+        ],
+        [
+          -81.5610336,
+          28.3598046
+        ],
+        [
+          -81.5607937,
+          28.3598013
+        ],
+        [
+          -81.5607977,
+          28.3596444
+        ],
+        [
+          -81.5607091,
+          28.3596427
+        ],
+        [
+          -81.5607094,
+          28.35963
+        ],
+        [
+          -81.560678,
+          28.3596294
+        ],
+        [
+          -81.5606793,
+          28.3595804
+        ],
+        [
+          -81.5606798,
+          28.3595659
+        ],
+        [
+          -81.5606746,
+          28.3595589
+        ],
+        [
+          -81.5606663,
+          28.3595476
+        ],
+        [
+          -81.5606593,
+          28.3595378
+        ],
+        [
+          -81.5606617,
+          28.3595199
+        ],
+        [
+          -81.5606644,
+          28.3595007
+        ],
+        [
+          -81.5606774,
+          28.3594908
+        ],
+        [
+          -81.5606926,
+          28.3594794
+        ],
+        [
+          -81.5607053,
+          28.359476
+        ],
+        [
+          -81.5607232,
+          28.3594771
+        ],
+        [
+          -81.56075,
+          28.359485
+        ],
+        [
+          -81.5607628,
+          28.3594962
+        ],
+        [
+          -81.5607704,
+          28.3595187
+        ],
+        [
+          -81.5607717,
+          28.3594865
+        ],
+        [
+          -81.5607719,
+          28.3594717
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 357021885,
+    "version": 16,
+    "timestamp": "2026-09-24T16:15:52Z",
+    "url": "https://www.openstreetmap.org/way/357021885"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 357021883,
+      "version": 1,
+      "timestamp": "2015-06-29T02:32:33Z",
+      "url": "https://www.openstreetmap.org/way/357021883"
+    }
+  ],
+  "wikidata": "Q1502476",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/wdw-rock-n-roller-coaster.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Rock 'n' Roller Coaster Starring The Muppets, Disney's Hollywood Studios — procedural, CC0-1.0, no textures. bun generators/wdw-rock-n-roller-coaster.ts",
+    "Map frame: x east, y north, z up, metres, bearing 0. The anchor is the area centroid of the OSM outline (way/357021885, 7,147 m², no height tags), so the outline is drawn in its own local frame and shifted by `C` at the end.",
+    "What it is: the G-Force Records building at the end of Sunset Boulevard, with the giant Stratocaster leaning against its east front, and behind it the plain show building that holds the indoor coaster. The coaster is entirely indoors, so there is no track to draw. The guitar's strings run on past the fretboard, sweep up over the plaza and come down onto the upside-down limousine under the entrance arch; that sweep, the arch and the limo are modelled too, because the strings are half of what people see.",
+    "Today (Muppets re-theme, reopened 26 May 2026):",
+    "the building is painted dark grey, where it was salmon-tan stucco (Wikipedia; Commons photo of the entrance taken 3 Oct 2026);",
+    "the guitar is still a red Stratocaster with a white pickguard and dark fretboard, now with psychedelic Electric Mayhem bands of blue, purple, pink, green and yellow running round its edges (same photo; WDWNT 2026-04: \"the guitar will still be red\", \"the neck won't be painted\"). The model keeps the red body and draws the edge bands as a blue outer band and a pink inner band: six materials leave no room for the rest.",
+    "the limo is repainted in brighter colours; drawn in the band blue.",
+    "Evidence:",
+    "OSM (map call, /tmp/disney-work/dhs/map.osm): the outline, exact. The rounded bump at its east end is the guitar's planter (it matches the retaining wall way/357022892 and the guitar in the NAIP aerial). way/357021883 (4 × 4 m) sits where the arch and the limo are; the model covers it. way/357022423 is the standby-queue canopy north-east of the guitar, which the model does not draw.",
+    "Published: the guitar is 40 ft (12.2 m) tall (WDWNT, WDWMagic); the coaster reaches 80 ft (24 m) (Wikipedia, RCDB); the show building is 68,000 sq ft.",
+    "USGS NAIP orthophoto (public domain), winter, sun ~40–45° high in the south: the roof plan and steps; shadows give the show box ~31 m of shadow (→ ~28 m) and the connector ~7 m (→ ~7–8 m), and the strings' S-curve in plan from the neck, south along the front, east to the arch.",
+    "A 2008 aerial from the east (Flickr 7426555140, CC BY-SA 2.0): the show box in two heights, the south half ~18% taller than the north half.",
+    "Photos (Wikimedia Commons / Openverse, credits in the report): the guitar traced face-on from wwarby's photo (Flickr 1477821882, CC BY 2.0) and scaled so the fretboard end stands 40 ft above the keys; facade steps and heights from that photo, paulo guereta's two 2017 photos and the 2026 Muppets entrance photo; arch and limo from ThrillZing (2006) and the May 2023 CC0 photos.",
+    "Estimated: every height (no OSM tags). Show box 28 m (south) / 24 m (north) from the NAIP shadow, the aerial and the 80 ft coaster inside it; G-Force front block 11 m, measured against the 40 ft guitar in front of it; the steps north of it 9 and 7 m, the connector 8 m. The arch size (11 × 9.8 m) and the limo from photos with people for scale. The strings' height (~17 m at the top of the sweep) from the side photo. Invented: the arch colour after the re-theme (no photo found; drawn pale as before), the back of the show box (no photo; plain), and the exact pose of the keys under the guitar.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"wdw-rock-n-roller-coaster\", model \"wdw-rock-n-roller-coaster\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/wdw-rock-n-roller-coaster.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

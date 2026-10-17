@@ -1,0 +1,140 @@
+{
+  "id": "goju-no-to-pagoda-japan-epcot-walt-disney-world",
+  "name": "Goju-no-to Pagoda (Japan, EPCOT)",
+  "anchor": [
+    -81.5502911,
+    28.367906
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 119172,
+      "sha256": "bd9f272a218784cd549555843991ba7b4df8dfb1cd145837169f6ba80d79770b"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 119172,
+      "sha256": "bd9f272a218784cd549555843991ba7b4df8dfb1cd145837169f6ba80d79770b"
+    }
+  },
+  "triangles": 2180,
+  "boundsBlenderM": [
+    [
+      -6.124,
+      -6.124,
+      0
+    ],
+    [
+      6.124,
+      7.825,
+      26
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -81.5502321,
+          28.3678561
+        ],
+        [
+          -81.5502324,
+          28.3678718
+        ],
+        [
+          -81.550234,
+          28.3679575
+        ],
+        [
+          -81.5503503,
+          28.3679558
+        ],
+        [
+          -81.5503484,
+          28.3678544
+        ],
+        [
+          -81.5502321,
+          28.3678561
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 295587740,
+    "version": 4,
+    "timestamp": "2019-11-03T23:13:07Z",
+    "url": "https://www.openstreetmap.org/way/295587740"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q2162898",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Japanese pagoda at Epcot.jpg",
+      "author": "Benjamin D. Esham (bdesham)",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Japanese_pagoda_at_Epcot.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Pagoda (34163831116).jpg",
+      "author": "Sam Howzit",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Pagoda_(34163831116).jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Japanese pagoda in Walt Disney World.jpg",
+      "author": "Rafi B. from Somewhere in Texas :)",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Japanese_pagoda_in_Walt_Disney_World.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/wdw-epcot-japan-pagoda.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "EPCOT Japan pavilion: the Goju-no-to pagoda — procedural, CC0-1.0. bun generators/wdw-epcot-japan-pagoda.ts",
+    "Map frame: x across the pagoda, y towards its front stairs, z up, metres; origin on the ground at the centre of the OSM footprint (way/295587740, 11.4 × 11.2 m, height=26, roof:colour=blue). The footprint's sides run 359°/89°, and the front stairs face the plaza and the lagoon to the north, so the catalog places it at bearing 359.",
+    "A five-storey pagoda after the Hōryū-ji type: a granite plinth with a wooden deck and front stairs, then five storeys diminishing upward, each a cream plaster wall framed by dark timber posts with a dark bracket band under deep, slightly upturned hip eaves of blue-grey tile, and a bronze sōrin spire of nine rings and a flame finial on the top roof.",
+    "Evidence:",
+    "OSM: the footprint (taken as the plinth) and the 26 m overall height.",
+    "Published: 83 ft (25.3 m) to the top of the spire.",
+    "Measured: the storey heights and the eave and wall widths, from a near-frontal photo (\"Japanese pagoda at Epcot.jpg\", Benjamin D. Esham, CC BY-SA 4.0) scaled to the 26 m height, checked against a corner view (\"Pagoda (34163831116).jpg\", Sam Howzit, CC BY 2.0) and an older one (\"Japanese pagoda in Walt Disney World.jpg\", Rafi B., CC BY 2.0).",
+    "Colour: the body is dark-stained timber and cream plaster, not vermilion (every photo agrees). The roofs were teal-grey before a repaint and are navy-blue since; the model takes the blue-grey between, muted.",
+    "Estimated: the eave lift at the corners, the bracket bands' depth, the stairs (only the front flight is modelled; the side flights are left out).",
+    "Left out: the deck and stair railings, the bells, the latticed doors. The torii in the lagoon (way/118933968) is a separate structure and is not part of this model.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"wdw-epcot-japan-pagoda\", model \"wdw-epcot-japan-pagoda\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/wdw-epcot-japan-pagoda.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

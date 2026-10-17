@@ -1,0 +1,364 @@
+{
+  "id": "epcot-entrance-walt-disney-world",
+  "name": "EPCOT Entrance",
+  "anchor": [
+    -81.5494,
+    28.3758835
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 156092,
+      "sha256": "fdb66d586308858d1196ba2b58715b6d5cf4446dc8559033c234c2572a9a95d0"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 156092,
+      "sha256": "fdb66d586308858d1196ba2b58715b6d5cf4446dc8559033c234c2572a9a95d0"
+    }
+  },
+  "triangles": 4132,
+  "boundsBlenderM": [
+    [
+      -96.5,
+      -75.3,
+      0
+    ],
+    [
+      95.3,
+      67.3,
+      6.6
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -81.5487961,
+          28.3760229
+        ],
+        [
+          -81.5487975,
+          28.3760335
+        ],
+        [
+          -81.5488055,
+          28.3760418
+        ],
+        [
+          -81.5489444,
+          28.3760995
+        ],
+        [
+          -81.5490564,
+          28.3761351
+        ],
+        [
+          -81.5491034,
+          28.3761456
+        ],
+        [
+          -81.549143,
+          28.3761544
+        ],
+        [
+          -81.5491976,
+          28.376164
+        ],
+        [
+          -81.5492653,
+          28.3761727
+        ],
+        [
+          -81.549375,
+          28.3761784
+        ],
+        [
+          -81.549397,
+          28.3761779
+        ],
+        [
+          -81.5494628,
+          28.3761767
+        ],
+        [
+          -81.549569,
+          28.3761666
+        ],
+        [
+          -81.5496462,
+          28.3761539
+        ],
+        [
+          -81.5496994,
+          28.3761453
+        ],
+        [
+          -81.5497192,
+          28.3761391
+        ],
+        [
+          -81.5498307,
+          28.3761057
+        ],
+        [
+          -81.5499175,
+          28.3760736
+        ],
+        [
+          -81.5499902,
+          28.3760406
+        ],
+        [
+          -81.5499978,
+          28.3760334
+        ],
+        [
+          -81.549999,
+          28.3760245
+        ],
+        [
+          -81.5500322,
+          28.37607
+        ],
+        [
+          -81.5500573,
+          28.376112
+        ],
+        [
+          -81.5500493,
+          28.3761091
+        ],
+        [
+          -81.550043,
+          28.3761099
+        ],
+        [
+          -81.5500034,
+          28.3761297
+        ],
+        [
+          -81.5499427,
+          28.3761573
+        ],
+        [
+          -81.5498434,
+          28.3761925
+        ],
+        [
+          -81.5497536,
+          28.3762187
+        ],
+        [
+          -81.5497294,
+          28.3762256
+        ],
+        [
+          -81.5496873,
+          28.3762337
+        ],
+        [
+          -81.5496612,
+          28.3762381
+        ],
+        [
+          -81.5496009,
+          28.3762483
+        ],
+        [
+          -81.5495197,
+          28.3762569
+        ],
+        [
+          -81.5494882,
+          28.3762608
+        ],
+        [
+          -81.5494276,
+          28.3762628
+        ],
+        [
+          -81.5494069,
+          28.3762626
+        ],
+        [
+          -81.5493971,
+          28.3762625
+        ],
+        [
+          -81.5493871,
+          28.3762623
+        ],
+        [
+          -81.5493467,
+          28.3762619
+        ],
+        [
+          -81.5493047,
+          28.3762589
+        ],
+        [
+          -81.5492744,
+          28.3762566
+        ],
+        [
+          -81.549224,
+          28.3762522
+        ],
+        [
+          -81.5491299,
+          28.3762379
+        ],
+        [
+          -81.5491092,
+          28.3762325
+        ],
+        [
+          -81.5490761,
+          28.3762252
+        ],
+        [
+          -81.5490427,
+          28.3762184
+        ],
+        [
+          -81.5489881,
+          28.3762049
+        ],
+        [
+          -81.5489039,
+          28.3761774
+        ],
+        [
+          -81.5488237,
+          28.3761464
+        ],
+        [
+          -81.5487873,
+          28.3761296
+        ],
+        [
+          -81.5487539,
+          28.3761132
+        ],
+        [
+          -81.5487492,
+          28.3761115
+        ],
+        [
+          -81.5487458,
+          28.3761103
+        ],
+        [
+          -81.5487427,
+          28.3761109
+        ],
+        [
+          -81.5487379,
+          28.3761134
+        ],
+        [
+          -81.5487619,
+          28.3760701
+        ],
+        [
+          -81.5487961,
+          28.3760229
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 295176249,
+    "version": 9,
+    "timestamp": "2022-09-13T19:15:45Z",
+    "url": "https://www.openstreetmap.org/way/295176249"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 295174214,
+      "version": 6,
+      "timestamp": "2025-04-08T09:32:18Z",
+      "url": "https://www.openstreetmap.org/way/295174214"
+    },
+    {
+      "type": "way",
+      "id": 295174215,
+      "version": 5,
+      "timestamp": "2025-04-08T09:32:24Z",
+      "url": "https://www.openstreetmap.org/way/295174215"
+    },
+    {
+      "type": "way",
+      "id": 295176514,
+      "version": 6,
+      "timestamp": "2023-10-05T13:59:25Z",
+      "url": "https://www.openstreetmap.org/way/295176514"
+    },
+    {
+      "type": "way",
+      "id": 295176518,
+      "version": 6,
+      "timestamp": "2023-10-05T13:59:25Z",
+      "url": "https://www.openstreetmap.org/way/295176518"
+    },
+    {
+      "type": "way",
+      "id": 295174216,
+      "version": 11,
+      "timestamp": "2022-09-13T19:19:26Z",
+      "url": "https://www.openstreetmap.org/way/295174216"
+    },
+    {
+      "type": "way",
+      "id": 689241903,
+      "version": 4,
+      "timestamp": "2020-03-18T02:09:02Z",
+      "url": "https://www.openstreetmap.org/way/689241903"
+    }
+  ],
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/wdw-epcot-entrance.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "EPCOT main entrance (Walt Disney World) — procedural, CC0-1.0. bun generators/wdw-epcot-entrance.ts",
+    "Map frame: x east, y north, z up, metres. Bearing 0. Origin at (-81.5494, 28.3758835), the middle of the entrance plaza between the turnstiles and Spaceship Earth, on the flat ground.",
+    "The 1982 entrance as it stands since the 2019–2021 rebuild of the plaza: the two crescent ticket-booth canopies facing the parking lot, linked by small roofs to the long crescent turnstile canopy, and inside it the white colonnaded walkways that wrap the entry plaza down both sides to Spaceship Earth. All of it is flat white-edged roof on white columns, the ticket canopies with their ochre soffits. In the middle of the plaza stands the 2021 entrance fountain: a dark faceted basin with three tall clear pylons carrying the original EPCOT Center logo.",
+    "Leave a Legacy: the granite monoliths that stood in the plaza (2000–2019) are gone. OSM maps the plaza's 2021 garden beds and no monoliths, and the 2021 photo (Jedi94) and the 2021–2023 fountain photos show the plaza open to the sphere. They are not modelled.",
+    "International Gateway: left out. It is a separate entrance 1 km away between France and the UK, a cluster of low green barrel-vaulted turnstile awnings beside the Skyliner station (photo: Jedi94, CC BY-SA 4.0). At 4 m tall it would read at z16 as a green smear, and it would need its own placement.",
+    "Evidence: - OSM, measured: the turnstile canopy way/295176249 (roof), the ticket booths way/295174214 and way/295174215, the connecting roofs way/295176514 and way/295176518, the plaza walkways way/295174216 and way/689241903, the fountain way/114503911 (water, so only its basin and pylons are modelled; it is not in `replaces`). - Photos: the plaza and sphere, 2021 (Jedi94, CC BY-SA 4.0, Commons \"Spaceship Earth and entry plaza 2021\"); the turnstile canopy head-on, 2010 (fdenardo1, CC BY 2.0, Flickr 4532175905); a ticket booth with its soffit and columns (Michael Rivera, CC BY-SA 4.0, Commons \"Epcot ticket booth\"); the walkway roofs from the monorail, 2015 (Mapillary 164948838767269 and 332905721538604, riordan, CC BY-SA 4.0); the fountain pylons (milst1, CC BY 2.0, Flickr 51687509747; Sam Howzit, CC BY 2.0, Flickr 52289546765; noah brenn, CC BY-SA 2.0, Flickr 52870251426).",
+    "Estimated: all heights (OSM has none): canopy fascias at 5.2 m (ticket booths), 5.6 m (turnstiles) and 4.6 m (walkways), from people in the photos; the pylons at 6.6 and 5.4 m and the basin from the fountain photos; column spacing. The walkways are drawn as open colonnades; their shops are not modelled. Readability: everything but the pylons is 5 m tall and the pylons are thin, so at z16 this reads as a white crescent ring opening towards the sphere.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"wdw-epcot-entrance\", model \"wdw-epcot-entrance\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/wdw-epcot-entrance.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 25 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the wdw-epcot-entrance-glazing finish in the window colour.",
+    "To fit six materials, folded glass into wdw-epcot-entrance-epcot-canopy-roof (ΔE 13.7)."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

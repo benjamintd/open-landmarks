@@ -1,0 +1,341 @@
+{
+  "id": "spaceship-earth-walt-disney-world",
+  "name": "Spaceship Earth",
+  "anchor": [
+    -81.5493963,
+    28.3752927
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 234032,
+      "sha256": "939be183926b37fac8592b60dfb4543e1a38d3757832154f88e75037f354248f"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 234032,
+      "sha256": "939be183926b37fac8592b60dfb4543e1a38d3757832154f88e75037f354248f"
+    }
+  },
+  "triangles": 3693,
+  "boundsBlenderM": [
+    [
+      -25.53,
+      -25.521,
+      0
+    ],
+    [
+      25.53,
+      25.521,
+      55.03
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -81.5493861,
+          28.3755216
+        ],
+        [
+          -81.5494156,
+          28.3755212
+        ],
+        [
+          -81.5494594,
+          28.375515
+        ],
+        [
+          -81.5495131,
+          28.3754975
+        ],
+        [
+          -81.5495438,
+          28.3754816
+        ],
+        [
+          -81.5495717,
+          28.3754622
+        ],
+        [
+          -81.5495967,
+          28.3754392
+        ],
+        [
+          -81.5496178,
+          28.3754134
+        ],
+        [
+          -81.5496347,
+          28.3753853
+        ],
+        [
+          -81.549647,
+          28.3753555
+        ],
+        [
+          -81.5496544,
+          28.3753244
+        ],
+        [
+          -81.5496559,
+          28.3753129
+        ],
+        [
+          -81.5496568,
+          28.3753013
+        ],
+        [
+          -81.5496559,
+          28.3752712
+        ],
+        [
+          -81.5496515,
+          28.3752456
+        ],
+        [
+          -81.5496438,
+          28.3752206
+        ],
+        [
+          -81.549633,
+          28.3751964
+        ],
+        [
+          -81.5496189,
+          28.3751732
+        ],
+        [
+          -81.5496113,
+          28.3751628
+        ],
+        [
+          -81.5495992,
+          28.3751485
+        ],
+        [
+          -81.5495752,
+          28.3751258
+        ],
+        [
+          -81.5495602,
+          28.3751138
+        ],
+        [
+          -81.5495524,
+          28.3751091
+        ],
+        [
+          -81.5495426,
+          28.3751022
+        ],
+        [
+          -81.5495309,
+          28.3750962
+        ],
+        [
+          -81.5495133,
+          28.375088
+        ],
+        [
+          -81.5494929,
+          28.3750795
+        ],
+        [
+          -81.5494735,
+          28.3750735
+        ],
+        [
+          -81.5494183,
+          28.375064
+        ],
+        [
+          -81.5493623,
+          28.3750652
+        ],
+        [
+          -81.5493137,
+          28.3750751
+        ],
+        [
+          -81.5492985,
+          28.37508
+        ],
+        [
+          -81.5492728,
+          28.3750904
+        ],
+        [
+          -81.5492684,
+          28.3750928
+        ],
+        [
+          -81.5492463,
+          28.3751053
+        ],
+        [
+          -81.5492311,
+          28.3751155
+        ],
+        [
+          -81.5492113,
+          28.3751311
+        ],
+        [
+          -81.5491951,
+          28.3751469
+        ],
+        [
+          -81.5491894,
+          28.3751535
+        ],
+        [
+          -81.5491806,
+          28.3751639
+        ],
+        [
+          -81.5491677,
+          28.3751826
+        ],
+        [
+          -81.5491588,
+          28.3751984
+        ],
+        [
+          -81.5491509,
+          28.3752156
+        ],
+        [
+          -81.5491446,
+          28.3752334
+        ],
+        [
+          -81.54914,
+          28.3752515
+        ],
+        [
+          -81.5491371,
+          28.3752699
+        ],
+        [
+          -81.5491362,
+          28.3753056
+        ],
+        [
+          -81.5491364,
+          28.3753079
+        ],
+        [
+          -81.5491384,
+          28.3753252
+        ],
+        [
+          -81.5491475,
+          28.3753606
+        ],
+        [
+          -81.5491629,
+          28.3753943
+        ],
+        [
+          -81.5491841,
+          28.3754255
+        ],
+        [
+          -81.5492107,
+          28.3754534
+        ],
+        [
+          -81.5492419,
+          28.3754772
+        ],
+        [
+          -81.5492599,
+          28.3754878
+        ],
+        [
+          -81.5493008,
+          28.3755058
+        ],
+        [
+          -81.5493559,
+          28.375519
+        ],
+        [
+          -81.5493812,
+          28.3755214
+        ],
+        [
+          -81.5493861,
+          28.3755216
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 146221550,
+    "version": 35,
+    "timestamp": "2026-09-24T16:11:01Z",
+    "url": "https://www.openstreetmap.org/way/146221550"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 295176801,
+      "version": 5,
+      "timestamp": "2020-03-09T21:47:22Z",
+      "url": "https://www.openstreetmap.org/way/295176801"
+    },
+    {
+      "type": "way",
+      "id": 298641632,
+      "version": 6,
+      "timestamp": "2026-05-04T19:19:19Z",
+      "url": "https://www.openstreetmap.org/way/298641632"
+    }
+  ],
+  "wikidata": "Q2916749",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/wdw-spaceship-earth.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Spaceship Earth, EPCOT (Walt Disney World) — procedural, CC0-1.0. bun generators/wdw-spaceship-earth.ts",
+    "Map frame: x east, y north, z up, metres; origin on the ground at the centre of the circle fitted to the OSM outline (way/146221550: radius 25.45 m, every node within 0.1 m of it). Placed at bearing 0: the park's entrance axis runs north–south through the sphere.",
+    "A geodesic sphere of silver triangular facets held off the ground on three pairs of steel legs. It is modelled as what it is: a subdivided icosahedron, each triangle raised into a shallow three-sided pyramid as the real cladding is, flat-shaded so every facet catches the light on its own. The facet variation is a second, slightly darker silver on three pyramids in ten, as the real panels differ a little in tone. Under the sphere sit a dark glazed entrance core and, to the south, the low block joining it to the Project Tomorrow building.",
+    "Evidence:",
+    "OSM: outline way/146221550 (height 55, roof dome), and two buildings wholly inside it — way/295176801 (3 levels, the core under the sphere) and way/298641632 (a trapezoid on the south side under the sphere). The model covers all three; a 3-level extrusion would poke through the sphere's underside if left drawn. Project Tomorrow (way/295176970, tagged 25 m) is a separate building to the south and stays drawn.",
+    "Published (Wikipedia, Disney): 180 ft (54.9 m) tall, 165 ft (50.3 m) across, so the sphere clears the ground by about 4.6 m; six legs in three pairs.",
+    "Photos (Wikimedia Commons, credited in the report): the entrance views from the north (chensiyuan 2010, Katie Rommel-Esham, InSapphoWeTrust, Theme Park Tourist 2015) and the 2019 aerial from the south-west (Gfgbeach). They give the leg pairs at the north-east and north-west, left and right of the entrance, and the third pair to the south under Project Tomorrow; the facet density (about 32 facets across the visible face, so frequency 10; the model uses 8 for the file budget); and the colours: silver facets, legs with a pale top and warm grey flanks.",
+    "Estimated: the legs' cross-section, slope (about 66°) and spread, and where they meet the sphere (about 12 m up). The entrance photos and the aerial disagree on how far the feet spread, so the model splits the difference, and the pairs are set at exactly 60°, 180° and 300°. Also estimated: the core's radius and height, the south block's 6 m (from the aerial) and the pyramid depth. The icosahedron's orientation (a vertex at the top) is a choice; the real panel layout isn't recorded.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"wdw-spaceship-earth\", model \"wdw-spaceship-earth\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/wdw-spaceship-earth.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 517 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the wdw-spaceship-earth-glazing finish in the window colour."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

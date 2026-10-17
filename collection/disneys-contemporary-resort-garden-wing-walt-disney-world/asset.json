@@ -1,0 +1,459 @@
+{
+  "id": "disneys-contemporary-resort-garden-wing-walt-disney-world",
+  "name": "Disney's Contemporary Resort Garden Wing",
+  "anchor": [
+    -81.5733415,
+    28.4135208
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 35092,
+      "sha256": "12136baea845ba466663c1cd7120dcd8837aa995c9be0e80da5fdd204bbce12d"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 35092,
+      "sha256": "12136baea845ba466663c1cd7120dcd8837aa995c9be0e80da5fdd204bbce12d"
+    }
+  },
+  "triangles": 606,
+  "boundsBlenderM": [
+    [
+      -72.7,
+      -78.7,
+      0
+    ],
+    [
+      69.745,
+      73.4,
+      11
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -81.5738005,
+          28.412913
+        ],
+        [
+          -81.5738019,
+          28.4133461
+        ],
+        [
+          -81.5737019,
+          28.4133463
+        ],
+        [
+          -81.5737021,
+          28.4133813
+        ],
+        [
+          -81.5737022,
+          28.4134156
+        ],
+        [
+          -81.5737585,
+          28.4134154
+        ],
+        [
+          -81.5737865,
+          28.4134366
+        ],
+        [
+          -81.5737885,
+          28.413463
+        ],
+        [
+          -81.5737719,
+          28.4134743
+        ],
+        [
+          -81.5737625,
+          28.4134807
+        ],
+        [
+          -81.5737625,
+          28.4135247
+        ],
+        [
+          -81.5737711,
+          28.4135329
+        ],
+        [
+          -81.5737865,
+          28.4135477
+        ],
+        [
+          -81.5737865,
+          28.4135706
+        ],
+        [
+          -81.5737625,
+          28.4135917
+        ],
+        [
+          -81.5737042,
+          28.4135915
+        ],
+        [
+          -81.573704,
+          28.4136265
+        ],
+        [
+          -81.5737039,
+          28.4136558
+        ],
+        [
+          -81.5738015,
+          28.4136561
+        ],
+        [
+          -81.5738006,
+          28.4138756
+        ],
+        [
+          -81.5739097,
+          28.4139301
+        ],
+        [
+          -81.5740738,
+          28.4140122
+        ],
+        [
+          -81.5740225,
+          28.4140912
+        ],
+        [
+          -81.5740385,
+          28.4140998
+        ],
+        [
+          -81.5740471,
+          28.4140847
+        ],
+        [
+          -81.574084,
+          28.4141042
+        ],
+        [
+          -81.5740741,
+          28.414121
+        ],
+        [
+          -81.5740631,
+          28.4141182
+        ],
+        [
+          -81.5740385,
+          28.4141507
+        ],
+        [
+          -81.5740462,
+          28.4141567
+        ],
+        [
+          -81.5740312,
+          28.4141765
+        ],
+        [
+          -81.5740085,
+          28.4141642
+        ],
+        [
+          -81.5739966,
+          28.4141594
+        ],
+        [
+          -81.5740225,
+          28.4141204
+        ],
+        [
+          -81.5740077,
+          28.4141117
+        ],
+        [
+          -81.5739621,
+          28.414185
+        ],
+        [
+          -81.5739496,
+          28.4141787
+        ],
+        [
+          -81.5738008,
+          28.4141044
+        ],
+        [
+          -81.573576,
+          28.413992
+        ],
+        [
+          -81.5735736,
+          28.4136601
+        ],
+        [
+          -81.5736711,
+          28.4136596
+        ],
+        [
+          -81.5736706,
+          28.4135932
+        ],
+        [
+          -81.5736081,
+          28.4135935
+        ],
+        [
+          -81.573584,
+          28.4135706
+        ],
+        [
+          -81.5735836,
+          28.4135163
+        ],
+        [
+          -81.5735391,
+          28.4135165
+        ],
+        [
+          -81.5735231,
+          28.4135166
+        ],
+        [
+          -81.5735068,
+          28.4135167
+        ],
+        [
+          -81.5735074,
+          28.4136072
+        ],
+        [
+          -81.5729212,
+          28.4136106
+        ],
+        [
+          -81.5729205,
+          28.4135194
+        ],
+        [
+          -81.5729108,
+          28.4135195
+        ],
+        [
+          -81.5729025,
+          28.4135195
+        ],
+        [
+          -81.5728918,
+          28.4135196
+        ],
+        [
+          -81.5728567,
+          28.4135198
+        ],
+        [
+          -81.5728587,
+          28.4138019
+        ],
+        [
+          -81.5728268,
+          28.4138021
+        ],
+        [
+          -81.5728275,
+          28.4139067
+        ],
+        [
+          -81.5727586,
+          28.4139071
+        ],
+        [
+          -81.5726676,
+          28.4139076
+        ],
+        [
+          -81.572667,
+          28.4138059
+        ],
+        [
+          -81.5726327,
+          28.4138061
+        ],
+        [
+          -81.572629,
+          28.4132033
+        ],
+        [
+          -81.5726672,
+          28.4132031
+        ],
+        [
+          -81.5726667,
+          28.413111
+        ],
+        [
+          -81.5727475,
+          28.4131107
+        ],
+        [
+          -81.5728203,
+          28.4131104
+        ],
+        [
+          -81.5728208,
+          28.4132069
+        ],
+        [
+          -81.572857,
+          28.4132067
+        ],
+        [
+          -81.5728584,
+          28.4134858
+        ],
+        [
+          -81.5728927,
+          28.4134857
+        ],
+        [
+          -81.5729025,
+          28.4134856
+        ],
+        [
+          -81.5729122,
+          28.4134856
+        ],
+        [
+          -81.5729221,
+          28.4134856
+        ],
+        [
+          -81.5729217,
+          28.4134007
+        ],
+        [
+          -81.5735029,
+          28.4133986
+        ],
+        [
+          -81.5735031,
+          28.4134456
+        ],
+        [
+          -81.5735033,
+          28.4134882
+        ],
+        [
+          -81.5735231,
+          28.4134881
+        ],
+        [
+          -81.573538,
+          28.4134881
+        ],
+        [
+          -81.5735782,
+          28.4134879
+        ],
+        [
+          -81.573578,
+          28.4134383
+        ],
+        [
+          -81.5735981,
+          28.4134154
+        ],
+        [
+          -81.5736743,
+          28.4134152
+        ],
+        [
+          -81.573674,
+          28.4133433
+        ],
+        [
+          -81.5735634,
+          28.4133436
+        ],
+        [
+          -81.5735617,
+          28.4129179
+        ],
+        [
+          -81.5735876,
+          28.4129178
+        ],
+        [
+          -81.5735872,
+          28.4128099
+        ],
+        [
+          -81.5736877,
+          28.4128096
+        ],
+        [
+          -81.5737639,
+          28.4128094
+        ],
+        [
+          -81.5737642,
+          28.4129131
+        ],
+        [
+          -81.5738005,
+          28.412913
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 344887164,
+    "version": 9,
+    "timestamp": "2020-03-27T17:55:36Z",
+    "url": "https://www.openstreetmap.org/way/344887164"
+  },
+  "additionalOsm": [],
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/wdw-contemporary-garden-wing.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Disney's Contemporary Resort, the (South) Garden Wing — procedural, CC0-1.0. bun generators/wdw-contemporary-garden-wing.ts",
+    "Map frame: x east, y north, z up, metres, bearing 0. The anchor is the area centroid of OSM way/344887164 (\"South Garden Wing\", building=hotel, building:levels=3), and the footprint is that outline simplified to 0.6 m (68 corners), extruded whole.",
+    "What it is: the three-storey room wings south of the A-frame (1971), long arms joined at an octagonal hub, flat roofs behind a plain parapet. Buff render, a white slab line at each floor, and the rooms' balconies as a recessed band along the long faces; the ends are plain walls.",
+    "Evidence:",
+    "OSM (measured): the outline and its three levels. No height tag.",
+    "Photos (Flickr, CC BY 2.0, credits in the report): cvorobek's view from Bay Lake with the A-frame behind, and Jeff Christiansen's view down on a wing from the A-frame. They show three even storeys under a parapet, slab lines, balcony bays, blank buff ends and a pale flat roof.",
+    "Estimated: the heights (3.2 m storeys over a 0.8 m base, parapet at 11 m). Simplified: the balconies are one continuous band per floor rather than one bay per room.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"wdw-contemporary-garden-wing\", model \"wdw-contemporary-garden-wing\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/wdw-contemporary-garden-wing.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

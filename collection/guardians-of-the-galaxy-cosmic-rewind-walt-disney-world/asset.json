@@ -1,0 +1,456 @@
+{
+  "id": "guardians-of-the-galaxy-cosmic-rewind-walt-disney-world",
+  "name": "Guardians of the Galaxy: Cosmic Rewind",
+  "anchor": [
+    -81.547025,
+    28.3754942
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 48560,
+      "sha256": "ff3ad3cfb8b14582f84ae8ee8c6c1e071980179de80d84873364aec044b67d8b"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 48560,
+      "sha256": "ff3ad3cfb8b14582f84ae8ee8c6c1e071980179de80d84873364aec044b67d8b"
+    }
+  },
+  "triangles": 832,
+  "boundsBlenderM": [
+    [
+      -145.454,
+      -98.527,
+      0
+    ],
+    [
+      160.846,
+      89.673,
+      40.6
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -81.5462719,
+          28.3763049
+        ],
+        [
+          -81.5453829,
+          28.3759668
+        ],
+        [
+          -81.5456719,
+          28.3753969
+        ],
+        [
+          -81.5465254,
+          28.3757275
+        ],
+        [
+          -81.5466814,
+          28.3755949
+        ],
+        [
+          -81.5469588,
+          28.3753412
+        ],
+        [
+          -81.5471266,
+          28.3751866
+        ],
+        [
+          -81.5471433,
+          28.3752005
+        ],
+        [
+          -81.5472186,
+          28.3751373
+        ],
+        [
+          -81.5472527,
+          28.3751072
+        ],
+        [
+          -81.5472403,
+          28.3751057
+        ],
+        [
+          -81.5472635,
+          28.3750816
+        ],
+        [
+          -81.5472835,
+          28.3750809
+        ],
+        [
+          -81.5473026,
+          28.3750618
+        ],
+        [
+          -81.5472885,
+          28.3750611
+        ],
+        [
+          -81.5473201,
+          28.375037
+        ],
+        [
+          -81.5473359,
+          28.3750362
+        ],
+        [
+          -81.5473591,
+          28.3750121
+        ],
+        [
+          -81.5473483,
+          28.3750121
+        ],
+        [
+          -81.5473733,
+          28.3749894
+        ],
+        [
+          -81.5473832,
+          28.3749894
+        ],
+        [
+          -81.5474024,
+          28.3749697
+        ],
+        [
+          -81.5473924,
+          28.3749697
+        ],
+        [
+          -81.5474265,
+          28.3749404
+        ],
+        [
+          -81.5474439,
+          28.3749404
+        ],
+        [
+          -81.5474639,
+          28.3749199
+        ],
+        [
+          -81.5474515,
+          28.3749197
+        ],
+        [
+          -81.547469,
+          28.3749031
+        ],
+        [
+          -81.5474797,
+          28.3748929
+        ],
+        [
+          -81.547493,
+          28.3748929
+        ],
+        [
+          -81.5475059,
+          28.3748793
+        ],
+        [
+          -81.5475146,
+          28.3748702
+        ],
+        [
+          -81.5475063,
+          28.374869
+        ],
+        [
+          -81.5475271,
+          28.3748497
+        ],
+        [
+          -81.547542,
+          28.3748512
+        ],
+        [
+          -81.5475521,
+          28.3748433
+        ],
+        [
+          -81.5475736,
+          28.3748263
+        ],
+        [
+          -81.5475636,
+          28.3748263
+        ],
+        [
+          -81.5475791,
+          28.3748129
+        ],
+        [
+          -81.5476527,
+          28.3747492
+        ],
+        [
+          -81.547667,
+          28.374737
+        ],
+        [
+          -81.5478113,
+          28.3747366
+        ],
+        [
+          -81.5478366,
+          28.3747365
+        ],
+        [
+          -81.5479986,
+          28.374736
+        ],
+        [
+          -81.5480085,
+          28.3747457
+        ],
+        [
+          -81.5480755,
+          28.3748105
+        ],
+        [
+          -81.5480867,
+          28.3748231
+        ],
+        [
+          -81.5480782,
+          28.3748234
+        ],
+        [
+          -81.5481098,
+          28.3748475
+        ],
+        [
+          -81.5481223,
+          28.3748475
+        ],
+        [
+          -81.5481447,
+          28.3748702
+        ],
+        [
+          -81.5481347,
+          28.3748702
+        ],
+        [
+          -81.5481475,
+          28.3748811
+        ],
+        [
+          -81.5481638,
+          28.3748951
+        ],
+        [
+          -81.548173,
+          28.3748951
+        ],
+        [
+          -81.5481946,
+          28.3749185
+        ],
+        [
+          -81.5481871,
+          28.3749185
+        ],
+        [
+          -81.5482,
+          28.3749306
+        ],
+        [
+          -81.548212,
+          28.3749419
+        ],
+        [
+          -81.5482262,
+          28.3749419
+        ],
+        [
+          -81.5482478,
+          28.3749638
+        ],
+        [
+          -81.5482386,
+          28.3749638
+        ],
+        [
+          -81.5482572,
+          28.3749782
+        ],
+        [
+          -81.5482736,
+          28.3749909
+        ],
+        [
+          -81.5482827,
+          28.3749909
+        ],
+        [
+          -81.548301,
+          28.3750092
+        ],
+        [
+          -81.5482935,
+          28.3750092
+        ],
+        [
+          -81.5483226,
+          28.3750362
+        ],
+        [
+          -81.5483309,
+          28.3750362
+        ],
+        [
+          -81.5483525,
+          28.3750545
+        ],
+        [
+          -81.5483434,
+          28.3750553
+        ],
+        [
+          -81.54837,
+          28.3750772
+        ],
+        [
+          -81.5483816,
+          28.3750765
+        ],
+        [
+          -81.5484049,
+          28.3750999
+        ],
+        [
+          -81.5483966,
+          28.3751006
+        ],
+        [
+          -81.5484765,
+          28.3751711
+        ],
+        [
+          -81.5485101,
+          28.3752008
+        ],
+        [
+          -81.548163,
+          28.3755051
+        ],
+        [
+          -81.5479727,
+          28.3755196
+        ],
+        [
+          -81.547967,
+          28.375736
+        ],
+        [
+          -81.547389,
+          28.3757448
+        ],
+        [
+          -81.5473881,
+          28.3755065
+        ],
+        [
+          -81.5474813,
+          28.3755043
+        ],
+        [
+          -81.5472416,
+          28.3752903
+        ],
+        [
+          -81.5469633,
+          28.375535
+        ],
+        [
+          -81.5469769,
+          28.3755445
+        ],
+        [
+          -81.5469473,
+          28.375573
+        ],
+        [
+          -81.5469326,
+          28.3755621
+        ],
+        [
+          -81.546839,
+          28.3756447
+        ],
+        [
+          -81.5465408,
+          28.3759137
+        ],
+        [
+          -81.546475,
+          28.3758866
+        ],
+        [
+          -81.5462719,
+          28.3763049
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 719079634,
+    "version": 15,
+    "timestamp": "2025-01-19T12:41:21Z",
+    "url": "https://www.openstreetmap.org/way/719079634"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q36259219",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/wdw-epcot-cosmic-rewind.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Guardians of the Galaxy: Cosmic Rewind, EPCOT (Walt Disney World): procedural, CC0-1.0. bun generators/wdw-epcot-cosmic-rewind.ts",
+    "Map frame: x east, y north, z up, metres; bearing 0, so the frame is true north. The origin is the area centroid of the OSM outline (see ANCHOR), on the ground (EPCOT is flat).",
+    "What it is. One OSM way (way/719079634) draws three things joined together, and the model draws all three: - the Wonders of Xandar pavilion, the old Universe of Energy building (1982), reclad in slate grey: a narrow front on the plaza, two long diagonal sides of sawtooth fins, a roof that rises in shallow steps from the front, and a taller block at the back; - a long connector running north-east from the pavilion's back corner, which climbs towards the show building; - the show building, a plain box painted to vanish into the sky: pale sky blue over a sage-green band at the bottom, with six T-shaped plant units on the roof. In front of the pavilion stands the Nova Corps Starblaster on its leaning pylon, the pavilion's emblem. It is outside the OSM outline and replaces nothing.",
+    "Evidence. Measured: the plan of all three parts, from the OSM outline, checked over USGS NAIP orthoimagery (public domain), which agrees to a metre or two; the roof units' positions and the Starblaster's spot, from NAIP. Published: the Starblaster is 51 ft (15.5 m) tall (Disney, via WDWInfo); the show building is \"more than 12 stories\" and holds four Spaceship Earths by volume (Disney). Four times Spaceship Earth's 2.2 million ft³ over the OSM footprint (95 × 69 m) gives 38 m, which the NAIP shadow (about 46 m long) agrees with. Estimated: the pavilion's heights (a 10 m front, rising to 17 m, the back block at 20 m), from photos against the 15.5 m Starblaster; the connector's profile (16 m at the pavilion, climbing to 31 m near the show building), from Steve Jurvetson's aerial and the construction photo; the green band's height (9 m), from the same two photos; the pylon's lean and the Starblaster's blade lengths, from the plaza photos. Invented: nothing structural. The Starblaster is drawn as a faceted head and eight flat blades, which is a simplification, not a copy.",
+    "Photos (Wikimedia Commons): \"Guardians of the Galaxy Cosmic Rewind-Cast Preview (52030963400) (cropped)\" (elisfkc2, CC BY-SA 2.0); \"Guardians of the Galaxy Cosmic Rewind at EPCOT\" (Jedi94, CC BY-SA 4.0); \"Guardians of the Galaxy Cosmic Rewind at Epcot (2026-07-27 k82z)\" (CoasterCredit, CC0); \"Guardians of the Galaxy Cosmic Rewind 2\" (Wacky Windjammer, CC BY-SA 4.0, the show building from the car park); \"Guardians of the Galaxy Cosmic Rewind construction 1\" (Alexander Alzona, CC BY-SA 2.0) and \"… construction 3\" (Anthony Quintano, CC BY 2.0); \"EPCOT from above\" (Steve Jurvetson, CC BY 2.0). Plan and roof: USGS NAIP (public domain).",
+    "Style: palette roof; the pavilion's slate grey is kept dark because it is what the pavilion is, but no darker than the style's charcoal floor; the show building's sky blue and sage green are its paint scheme, muted to the palette's lightness.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"wdw-epcot-cosmic-rewind\", model \"wdw-epcot-cosmic-rewind\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/wdw-epcot-cosmic-rewind.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 166 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the wdw-epcot-cosmic-rewind-glazing finish in the window colour."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

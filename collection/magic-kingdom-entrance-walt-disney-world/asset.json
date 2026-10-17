@@ -1,0 +1,228 @@
+{
+  "id": "magic-kingdom-entrance-walt-disney-world",
+  "name": "Magic Kingdom Entrance",
+  "anchor": [
+    -81.5812,
+    28.416234
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 79844,
+      "sha256": "b7f909e1ced7769efc231fe8958b87695bfb4640d228dc9a147a72e7f982d124"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 79844,
+      "sha256": "b7f909e1ced7769efc231fe8958b87695bfb4640d228dc9a147a72e7f982d124"
+    }
+  },
+  "triangles": 1604,
+  "boundsBlenderM": [
+    [
+      -60.423,
+      -14.9,
+      0
+    ],
+    [
+      70.52,
+      14.921,
+      6.542
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -81.5816675,
+          28.416193
+        ],
+        [
+          -81.5816198,
+          28.4161519
+        ],
+        [
+          -81.5815495,
+          28.4161262
+        ],
+        [
+          -81.5814588,
+          28.4161264
+        ],
+        [
+          -81.5814585,
+          28.4160997
+        ],
+        [
+          -81.5814062,
+          28.4160991
+        ],
+        [
+          -81.5813556,
+          28.4160993
+        ],
+        [
+          -81.5813552,
+          28.4161273
+        ],
+        [
+          -81.5812722,
+          28.4161271
+        ],
+        [
+          -81.5812719,
+          28.4161443
+        ],
+        [
+          -81.5812721,
+          28.416165
+        ],
+        [
+          -81.5814057,
+          28.4161652
+        ],
+        [
+          -81.5815431,
+          28.416165
+        ],
+        [
+          -81.5815968,
+          28.4161855
+        ],
+        [
+          -81.5816322,
+          28.416217
+        ],
+        [
+          -81.5816675,
+          28.416193
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 296122624,
+    "version": 10,
+    "timestamp": "2022-10-29T00:46:44Z",
+    "url": "https://www.openstreetmap.org/way/296122624"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 296122627,
+      "version": 10,
+      "timestamp": "2022-10-29T00:46:44Z",
+      "url": "https://www.openstreetmap.org/way/296122627"
+    },
+    {
+      "type": "way",
+      "id": 621686707,
+      "version": 4,
+      "timestamp": "2022-10-29T00:46:44Z",
+      "url": "https://www.openstreetmap.org/way/621686707"
+    },
+    {
+      "type": "way",
+      "id": 621686708,
+      "version": 4,
+      "timestamp": "2022-10-29T00:46:44Z",
+      "url": "https://www.openstreetmap.org/way/621686708"
+    },
+    {
+      "type": "way",
+      "id": 296122623,
+      "version": 8,
+      "timestamp": "2024-07-06T19:49:05Z",
+      "url": "https://www.openstreetmap.org/way/296122623"
+    },
+    {
+      "type": "way",
+      "id": 1107878395,
+      "version": 1,
+      "timestamp": "2022-10-29T00:46:44Z",
+      "url": "https://www.openstreetmap.org/way/1107878395"
+    },
+    {
+      "type": "way",
+      "id": 1107878396,
+      "version": 1,
+      "timestamp": "2022-10-29T00:46:44Z",
+      "url": "https://www.openstreetmap.org/way/1107878396"
+    },
+    {
+      "type": "relation",
+      "id": 9287955,
+      "version": 6,
+      "timestamp": "2019-07-05T14:43:18Z",
+      "url": "https://www.openstreetmap.org/relation/9287955"
+    },
+    {
+      "type": "way",
+      "id": 1107878397,
+      "version": 1,
+      "timestamp": "2022-10-29T00:46:44Z",
+      "url": "https://www.openstreetmap.org/way/1107878397"
+    },
+    {
+      "type": "way",
+      "id": 1107878398,
+      "version": 1,
+      "timestamp": "2022-10-29T00:46:44Z",
+      "url": "https://www.openstreetmap.org/way/1107878398"
+    },
+    {
+      "type": "way",
+      "id": 1107878399,
+      "version": 1,
+      "timestamp": "2022-10-29T00:46:44Z",
+      "url": "https://www.openstreetmap.org/way/1107878399"
+    },
+    {
+      "type": "way",
+      "id": 1107878400,
+      "version": 1,
+      "timestamp": "2022-10-29T00:46:44Z",
+      "url": "https://www.openstreetmap.org/way/1107878400"
+    }
+  ],
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/wdw-mk-entrance.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Magic Kingdom park entrance (Walt Disney World) — procedural, CC0-1.0. bun generators/wdw-mk-entrance.ts",
+    "Map frame: x east, y north, z up, metres. Bearing 0. Origin at (-81.5812, 28.416234), the middle of the turnstile line in front of Main Street station, on the plaza (which is flat).",
+    "The turnstile and ticket area between the ferry/monorail plaza and the railway berm: two long, low, flat canopies over the turnstile rows, west and east of the central flower bed, each curving back towards the berm at its outer end; a ticket booth under each canopy's inner half, crowned by a white Victorian pediment that stands above the roof; two small canopies at the mouths of the tunnels under the station; and the white entrance buildings closing the plaza's west and east corners (lockers, Guest Relations). The canopies are white-topped with deep dark-green fascias on green posts — Main Street's Victorian green.",
+    "The Mickey floral display in the middle is flowers on the ground, so it is the map's, not the model's. The station itself is wdw-main-street-station.",
+    "Evidence: - OSM, measured: the canopies way/296122624 and way/296122627 (roof, 4 m), the tunnel-mouth roofs way/621686707 and way/621686708 (4 m), the west building way/296122623 with parts way/1107878395 (4 m) and way/1107878396 (5 m), the east building relation/9287955 with parts way/1107878397–400 (4–6 m), and barrier=toll_booth nodes at the two booths (node/9984457120, node/9984457121). - Photos: the plaza from the ferry's upper deck, 2015 (Mapillary 218899782907088, riordan, CC BY-SA 4.0), the same from the monorail beam, 2025 (Mapillary 1530049898401850, Lanka6359, CC BY-SA 4.0), along the east canopy from the east, 2025 (Mapillary 1409526190133373, Lanka6359), the west end from the south-west, 2025 (Mapillary 1470556090732845, Lanka6359), the plaza from the monorail station (Raman Patel, CC BY 3.0, Commons \"Magic Kingdom, Disney World - panoramio (4)\") and the turnstiles close up (Raman Patel, CC BY 3.0, \"… panoramio (2)\").",
+    "Estimated: the canopy underside (3.3 m) and fascia depth from the photos against people; the pediments' size and shape (two 2015/2025 distant views only); the post spacing. The entrance buildings' walls are plain: no photo shows their plaza faces clearly, so their doors and windows are left out rather than guessed. Readability: the canopies are 4 m tall and only 4–7 m deep, so at z16 the entrance reads as two thin white crescents with the two pediments and the corner buildings; the posts and booth windows are below what reads and are kept only so the roofs do not float in close views.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"wdw-mk-entrance\", model \"wdw-mk-entrance\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/wdw-mk-entrance.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

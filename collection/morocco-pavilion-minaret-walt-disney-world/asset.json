@@ -1,0 +1,130 @@
+{
+  "id": "morocco-pavilion-minaret-walt-disney-world",
+  "name": "Morocco Pavilion minaret",
+  "anchor": [
+    -81.551714,
+    28.3680362
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 67264,
+      "sha256": "88bc5f15f9d08b2e83844436f2220243d8d9da5e3894e061e0f13381f479df7e"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 67264,
+      "sha256": "88bc5f15f9d08b2e83844436f2220243d8d9da5e3894e061e0f13381f479df7e"
+    }
+  },
+  "triangles": 1610,
+  "boundsBlenderM": [
+    [
+      -5.215,
+      -5.215,
+      0
+    ],
+    [
+      13.833,
+      22.791,
+      33.2
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -81.5517672,
+          28.368024
+        ],
+        [
+          -81.5517665,
+          28.3680218
+        ],
+        [
+          -81.5517001,
+          28.3679894
+        ],
+        [
+          -81.5516976,
+          28.36799
+        ],
+        [
+          -81.5516608,
+          28.3680484
+        ],
+        [
+          -81.5515728,
+          28.3681974
+        ],
+        [
+          -81.5516621,
+          28.3682409
+        ],
+        [
+          -81.5517111,
+          28.3681632
+        ],
+        [
+          -81.5517116,
+          28.3681624
+        ],
+        [
+          -81.5517672,
+          28.368024
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "node",
+    "id": 2993257884,
+    "version": 5,
+    "timestamp": "2025-04-08T09:54:47Z",
+    "url": "https://www.openstreetmap.org/node/2993257884"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q2776572",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/wdw-epcot-morocco.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "EPCOT Morocco pavilion: the Koutoubia minaret — procedural, CC0-1.0. bun generators/wdw-epcot-morocco.ts",
+    "Map frame: x and y along the pavilion's grid, z up, metres. Placed at bearing 29°, the axis of the fortress buildings around it (the long edges of OSM way/295448855 run 29°/119°). The anchor is the minaret's centre.",
+    "What it is: Disney's replica of the Koutoubia minaret of Marrakesh, a plain square tower of rose-tan sandstone, each face carrying tiers of recessed arched windows, a band of green zellige tile under a crown of stepped merlons, and a small lantern of the same design topped by a ribbed brass dome and a finial of three balls. At its foot, towards the plaza and the fountain, stands a white arcaded pavilion under a green-tiled pyramid roof, which every plaza photo shows in front of the minaret's base.",
+    "Evidence",
+    "OSM: the minaret is not mapped. It stands in an unmapped gap east of the pavilion's buildings (way/295448855, /858, /859), so the model replaces nothing and simply stands there.",
+    "Position (measured, public-domain USGS NAIP orthophoto): an 8.8 m square with a dark core (the tower top round its lantern) about 28 m east and 4 m north of node -81.5520, 28.3680; the green pyramid roof 17 m north of it. A tower's top is displaced in an orthophoto, so the base may be off by a few metres. Checked against the plaza photos: from the plaza the minaret rises just behind the green roof, the Tangierine Café's fortress tower to the right, as computed from these positions.",
+    "Published: no height is published for the replica.",
+    "Estimated from the lagoon photo (Morocco Pavilion (42550347444).jpg), scaled from the Spice Road Table in front of it: the shaft is 3.6 widths tall to the merlon tops there, so with the orthophoto's 8.8 m top (merlons included) the shaft is drawn 7.6 m wide and 27 m to the merlon tops, the lantern 3.8 m wide, the finial at about 33 m. Stage proportions (tile band, lantern, dome) are from the close photos (Morocco Pavilion (cropped).jpg, (32272553154).jpg).",
+    "Simplified: the real faces differ (the windows step with the internal ramp); every face here carries the same three tiers. The pavilion is a 9 m square from the orthophoto, its height estimated from photo 32272556694.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"wdw-epcot-morocco\", model \"wdw-epcot-morocco\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/wdw-epcot-morocco.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

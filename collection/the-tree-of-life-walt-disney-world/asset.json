@@ -1,0 +1,290 @@
+{
+  "id": "the-tree-of-life-walt-disney-world",
+  "name": "The Tree of Life",
+  "anchor": [
+    -81.5905973,
+    28.3579434
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 206020,
+      "sha256": "1a143aea4fc71d8e9ef7b2450344d892fc5aaa08e9c1416224d5ae8dff992516"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 206020,
+      "sha256": "1a143aea4fc71d8e9ef7b2450344d892fc5aaa08e9c1416224d5ae8dff992516"
+    }
+  },
+  "triangles": 6390,
+  "boundsBlenderM": [
+    [
+      -33.842,
+      -32.849,
+      0
+    ],
+    [
+      28.951,
+      28.481,
+      43.594
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -81.5906125,
+          28.3577138
+        ],
+        [
+          -81.5906431,
+          28.357769
+        ],
+        [
+          -81.5906801,
+          28.3577958
+        ],
+        [
+          -81.5907428,
+          28.3577803
+        ],
+        [
+          -81.5907798,
+          28.3577987
+        ],
+        [
+          -81.5907894,
+          28.3578425
+        ],
+        [
+          -81.5908489,
+          28.3578567
+        ],
+        [
+          -81.5908811,
+          28.357885
+        ],
+        [
+          -81.5909374,
+          28.3578864
+        ],
+        [
+          -81.5909535,
+          28.3579091
+        ],
+        [
+          -81.5909229,
+          28.3579657
+        ],
+        [
+          -81.5909068,
+          28.3579968
+        ],
+        [
+          -81.590947,
+          28.3580152
+        ],
+        [
+          -81.5909309,
+          28.3580435
+        ],
+        [
+          -81.590865,
+          28.3580308
+        ],
+        [
+          -81.5908103,
+          28.3580562
+        ],
+        [
+          -81.5907975,
+          28.3581171
+        ],
+        [
+          -81.5907975,
+          28.3581567
+        ],
+        [
+          -81.5907653,
+          28.3581666
+        ],
+        [
+          -81.5907347,
+          28.3581525
+        ],
+        [
+          -81.5906608,
+          28.3581242
+        ],
+        [
+          -81.5905981,
+          28.358161
+        ],
+        [
+          -81.5905402,
+          28.3581723
+        ],
+        [
+          -81.5904839,
+          28.3581567
+        ],
+        [
+          -81.5904195,
+          28.3581539
+        ],
+        [
+          -81.5903938,
+          28.3581992
+        ],
+        [
+          -81.5903584,
+          28.358202
+        ],
+        [
+          -81.5903745,
+          28.358168
+        ],
+        [
+          -81.5903761,
+          28.35811
+        ],
+        [
+          -81.590344,
+          28.3580506
+        ],
+        [
+          -81.59036,
+          28.3579841
+        ],
+        [
+          -81.5903424,
+          28.3579317
+        ],
+        [
+          -81.5903295,
+          28.3578737
+        ],
+        [
+          -81.590381,
+          28.3578454
+        ],
+        [
+          -81.5903938,
+          28.3577873
+        ],
+        [
+          -81.5903633,
+          28.3577265
+        ],
+        [
+          -81.5903617,
+          28.3576784
+        ],
+        [
+          -81.5904067,
+          28.3576699
+        ],
+        [
+          -81.5904517,
+          28.3577067
+        ],
+        [
+          -81.5904887,
+          28.3577053
+        ],
+        [
+          -81.590553,
+          28.3576699
+        ],
+        [
+          -81.5905868,
+          28.3576586
+        ],
+        [
+          -81.5905948,
+          28.3576784
+        ],
+        [
+          -81.5905739,
+          28.3577039
+        ],
+        [
+          -81.5905788,
+          28.3577208
+        ],
+        [
+          -81.5906125,
+          28.3577138
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 295879946,
+    "version": 5,
+    "timestamp": "2023-12-18T17:47:30Z",
+    "url": "https://www.openstreetmap.org/way/295879946"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q3538315",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Tree of Life, Disney's Animal Kingdom.jpg",
+      "author": "Jedi94",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Tree_of_Life,_Disney%27s_Animal_Kingdom.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Tree of Life (49560198253).jpg",
+      "author": "Eden, Janine and Jim from New York City",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Tree_of_Life_(49560198253).jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/wdw-tree-of-life.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "The Tree of Life, Disney's Animal Kingdom — procedural, CC0-1.0. bun generators/wdw-tree-of-life.ts",
+    "Map frame: x east, y north, z up, metres; origin at the centroid of the OSM outline (way/295879946, \"Tree of Life\", Q3538315), on the ground. Bearing 0: the tree has no front.",
+    "Evidence",
+    "OSM (measured): the outline way/295879946, 2,280 m², about 60 × 60 m across its spurs, no height. The canopy's plan is this outline, smoothed (a low-order Fourier fit of its radius about the centroid) and pulled in a little, so the crown covers what it replaces without its spikes.",
+    "Published: 145 ft (44 m) tall; trunk about 50 ft (15 m) across at the base (Wikipedia, \"The Tree of Life (Disney)\").",
+    "Photos (Wikimedia Commons; credits in the placement report): - \"Tree of Life, Disney's Animal Kingdom.jpg\" (Jedi94, CC BY-SA 4.0), side-on from the south-west across the water: the proportions. The crown is an umbrella, much wider than it is deep, with a fairly flat top and a ragged edge; the trunk and its spreading limbs take the lower half of the height, the crown the upper; the bulbous trunk flares into buttress roots about one and a half times its waist. - \"-ARBOL DE LA VIDA-…panoramio.jpg\" (Ivan Curra, CC BY-SA 3.0), from below: thick twisting limbs under the crown, the carved bark. - \"Tree of Life (49560198253).jpg\", \"The Tree of Life05/06.jpg\", the ThrillZing 2006 set: other sides, the same squat dome.",
+    "Estimated: the trunk's waist (about 15 m, from the photos against the published base), the limb count and spread (nine visible limbs), the crown's underside heights. The animal carvings are too fine to model; they are drawn as broad lighter bark masses swelling out of the trunk and roots, which is how they read from a distance.",
+    "Not modelled: the rockwork and waterfalls at the foot, the garden paths (ground, per STYLE.md).",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"wdw-tree-of-life\", model \"wdw-tree-of-life\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/wdw-tree-of-life.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

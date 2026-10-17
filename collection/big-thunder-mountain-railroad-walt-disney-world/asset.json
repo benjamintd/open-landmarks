@@ -1,0 +1,444 @@
+{
+  "id": "big-thunder-mountain-railroad-walt-disney-world",
+  "name": "Big Thunder Mountain Railroad",
+  "anchor": [
+    -81.5846891,
+    28.4205673
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 242344,
+      "sha256": "cc21bfea0232f390c20f0d30a6edf8b4a2de4fa96a9ead2ed8f84d0a57603aaf"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 242344,
+      "sha256": "cc21bfea0232f390c20f0d30a6edf8b4a2de4fa96a9ead2ed8f84d0a57603aaf"
+    }
+  },
+  "triangles": 5913,
+  "boundsBlenderM": [
+    [
+      -52.468,
+      -80.9,
+      0
+    ],
+    [
+      35.983,
+      47.599,
+      32.3
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -81.5847325,
+          28.4200438
+        ],
+        [
+          -81.5846935,
+          28.4200288
+        ],
+        [
+          -81.5845981,
+          28.4200645
+        ],
+        [
+          -81.584583,
+          28.4200438
+        ],
+        [
+          -81.5845769,
+          28.4200462
+        ],
+        [
+          -81.5845052,
+          28.4200745
+        ],
+        [
+          -81.5844784,
+          28.4200757
+        ],
+        [
+          -81.5844214,
+          28.420101
+        ],
+        [
+          -81.5843972,
+          28.4200615
+        ],
+        [
+          -81.5844232,
+          28.4200488
+        ],
+        [
+          -81.5843872,
+          28.4200461
+        ],
+        [
+          -81.5843902,
+          28.4200272
+        ],
+        [
+          -81.5843931,
+          28.4200082
+        ],
+        [
+          -81.5844287,
+          28.4200102
+        ],
+        [
+          -81.5845592,
+          28.4199518
+        ],
+        [
+          -81.5846145,
+          28.419927
+        ],
+        [
+          -81.5846044,
+          28.4198905
+        ],
+        [
+          -81.5846684,
+          28.4198615
+        ],
+        [
+          -81.5846871,
+          28.4198566
+        ],
+        [
+          -81.5847023,
+          28.4198485
+        ],
+        [
+          -81.5847164,
+          28.4198427
+        ],
+        [
+          -81.5847325,
+          28.4198722
+        ],
+        [
+          -81.5847628,
+          28.4198455
+        ],
+        [
+          -81.5848039,
+          28.4198355
+        ],
+        [
+          -81.5848244,
+          28.4198864
+        ],
+        [
+          -81.5847976,
+          28.4198982
+        ],
+        [
+          -81.5847748,
+          28.4199618
+        ],
+        [
+          -81.5847814,
+          28.419973
+        ],
+        [
+          -81.5847913,
+          28.4199897
+        ],
+        [
+          -81.5847836,
+          28.4200202
+        ],
+        [
+          -81.5847325,
+          28.4200438
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 324922573,
+    "version": 4,
+    "timestamp": "2025-01-16T22:30:56Z",
+    "url": "https://www.openstreetmap.org/way/324922573"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 310114442,
+      "version": 2,
+      "timestamp": "2025-01-16T22:30:56Z",
+      "url": "https://www.openstreetmap.org/way/310114442"
+    },
+    {
+      "type": "way",
+      "id": 71194272,
+      "version": 13,
+      "timestamp": "2025-01-16T22:30:56Z",
+      "url": "https://www.openstreetmap.org/way/71194272"
+    },
+    {
+      "type": "way",
+      "id": 820348480,
+      "version": 5,
+      "timestamp": "2025-01-16T22:30:56Z",
+      "url": "https://www.openstreetmap.org/way/820348480"
+    },
+    {
+      "type": "way",
+      "id": 71194300,
+      "version": 10,
+      "timestamp": "2025-01-16T22:30:56Z",
+      "url": "https://www.openstreetmap.org/way/71194300"
+    },
+    {
+      "type": "way",
+      "id": 71194287,
+      "version": 10,
+      "timestamp": "2025-01-16T22:30:56Z",
+      "url": "https://www.openstreetmap.org/way/71194287"
+    },
+    {
+      "type": "way",
+      "id": 1351939293,
+      "version": 1,
+      "timestamp": "2025-01-16T22:30:56Z",
+      "url": "https://www.openstreetmap.org/way/1351939293"
+    },
+    {
+      "type": "way",
+      "id": 1351939292,
+      "version": 1,
+      "timestamp": "2025-01-16T22:30:56Z",
+      "url": "https://www.openstreetmap.org/way/1351939292"
+    },
+    {
+      "type": "way",
+      "id": 71194288,
+      "version": 10,
+      "timestamp": "2025-01-16T22:30:56Z",
+      "url": "https://www.openstreetmap.org/way/71194288"
+    },
+    {
+      "type": "way",
+      "id": 71194279,
+      "version": 10,
+      "timestamp": "2025-01-16T22:30:56Z",
+      "url": "https://www.openstreetmap.org/way/71194279"
+    },
+    {
+      "type": "way",
+      "id": 1351939291,
+      "version": 1,
+      "timestamp": "2025-01-16T22:30:56Z",
+      "url": "https://www.openstreetmap.org/way/1351939291"
+    },
+    {
+      "type": "way",
+      "id": 1351939290,
+      "version": 1,
+      "timestamp": "2025-01-16T22:30:56Z",
+      "url": "https://www.openstreetmap.org/way/1351939290"
+    },
+    {
+      "type": "way",
+      "id": 683642206,
+      "version": 7,
+      "timestamp": "2025-01-16T22:30:56Z",
+      "url": "https://www.openstreetmap.org/way/683642206"
+    },
+    {
+      "type": "way",
+      "id": 1351939289,
+      "version": 1,
+      "timestamp": "2025-01-16T22:30:56Z",
+      "url": "https://www.openstreetmap.org/way/1351939289"
+    },
+    {
+      "type": "way",
+      "id": 71194292,
+      "version": 9,
+      "timestamp": "2025-01-16T22:30:56Z",
+      "url": "https://www.openstreetmap.org/way/71194292"
+    },
+    {
+      "type": "way",
+      "id": 71194289,
+      "version": 10,
+      "timestamp": "2025-01-16T22:30:56Z",
+      "url": "https://www.openstreetmap.org/way/71194289"
+    },
+    {
+      "type": "way",
+      "id": 71194297,
+      "version": 10,
+      "timestamp": "2025-01-16T22:30:56Z",
+      "url": "https://www.openstreetmap.org/way/71194297"
+    },
+    {
+      "type": "way",
+      "id": 1351939288,
+      "version": 1,
+      "timestamp": "2025-01-16T22:30:56Z",
+      "url": "https://www.openstreetmap.org/way/1351939288"
+    },
+    {
+      "type": "way",
+      "id": 71194298,
+      "version": 10,
+      "timestamp": "2025-01-16T22:30:56Z",
+      "url": "https://www.openstreetmap.org/way/71194298"
+    },
+    {
+      "type": "way",
+      "id": 1351939287,
+      "version": 1,
+      "timestamp": "2025-01-16T22:30:56Z",
+      "url": "https://www.openstreetmap.org/way/1351939287"
+    },
+    {
+      "type": "way",
+      "id": 71194274,
+      "version": 10,
+      "timestamp": "2025-01-16T22:30:56Z",
+      "url": "https://www.openstreetmap.org/way/71194274"
+    },
+    {
+      "type": "way",
+      "id": 71194276,
+      "version": 11,
+      "timestamp": "2025-01-16T22:30:56Z",
+      "url": "https://www.openstreetmap.org/way/71194276"
+    },
+    {
+      "type": "way",
+      "id": 71194281,
+      "version": 11,
+      "timestamp": "2025-01-16T22:30:56Z",
+      "url": "https://www.openstreetmap.org/way/71194281"
+    },
+    {
+      "type": "way",
+      "id": 71194273,
+      "version": 10,
+      "timestamp": "2025-01-16T22:30:56Z",
+      "url": "https://www.openstreetmap.org/way/71194273"
+    },
+    {
+      "type": "way",
+      "id": 1351939284,
+      "version": 1,
+      "timestamp": "2025-01-16T22:30:56Z",
+      "url": "https://www.openstreetmap.org/way/1351939284"
+    },
+    {
+      "type": "way",
+      "id": 1351939283,
+      "version": 1,
+      "timestamp": "2025-01-16T22:30:56Z",
+      "url": "https://www.openstreetmap.org/way/1351939283"
+    },
+    {
+      "type": "way",
+      "id": 71194299,
+      "version": 12,
+      "timestamp": "2025-01-16T22:30:56Z",
+      "url": "https://www.openstreetmap.org/way/71194299"
+    },
+    {
+      "type": "way",
+      "id": 71194271,
+      "version": 11,
+      "timestamp": "2023-12-04T17:41:33Z",
+      "url": "https://www.openstreetmap.org/way/71194271"
+    },
+    {
+      "type": "way",
+      "id": 1228692341,
+      "version": 2,
+      "timestamp": "2025-01-16T22:30:56Z",
+      "url": "https://www.openstreetmap.org/way/1228692341"
+    },
+    {
+      "type": "way",
+      "id": 1228692337,
+      "version": 2,
+      "timestamp": "2025-01-16T22:30:56Z",
+      "url": "https://www.openstreetmap.org/way/1228692337"
+    },
+    {
+      "type": "way",
+      "id": 71194269,
+      "version": 9,
+      "timestamp": "2025-01-16T22:30:56Z",
+      "url": "https://www.openstreetmap.org/way/71194269"
+    },
+    {
+      "type": "way",
+      "id": 71194270,
+      "version": 14,
+      "timestamp": "2025-01-16T22:30:56Z",
+      "url": "https://www.openstreetmap.org/way/71194270"
+    },
+    {
+      "type": "way",
+      "id": 1228692340,
+      "version": 2,
+      "timestamp": "2025-01-16T22:30:56Z",
+      "url": "https://www.openstreetmap.org/way/1228692340"
+    },
+    {
+      "type": "way",
+      "id": 1228692339,
+      "version": 2,
+      "timestamp": "2025-01-16T22:30:56Z",
+      "url": "https://www.openstreetmap.org/way/1228692339"
+    }
+  ],
+  "wikidata": "Q859406",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/wdw-big-thunder-mountain.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Big Thunder Mountain Railroad, Frontierland, Magic Kingdom — the rockwork, the track and the station. Procedural, CC0-1.0. bun generators/wdw-big-thunder-mountain.ts",
+    "Map frame: x east, y north, z up, metres. Origin at OSM's peak node (node/12797882777, -81.5846891, 28.4205673), on the ground. Bearing 0.",
+    "One fused mass of red sandstone, after Monument Valley: - a broad, low rock base over the whole ride site (OSM's rock area, way/698843396), 3–9 m high, terraced in 1.3 m steps, rising over the track's tunnels and cut down into canyons where the track runs open; - hoodoos rising out of it in fused clusters, each a tapering fluted column with irregular ledges and a narrowing, jagged crown; - the main peak, a jagged pinnacle group whose tallest spire is 32 m (OSM's peak ele, read as metres above the park); - horizontal strata in three tones, dark rust at the foot to pale sandstone above.",
+    "The coaster is drawn as a simple swept track, not with coaster-kit.ts: most of it runs in rock cuts and tunnels at a few metres, and the kit's energy model has nothing to check on a mine train with three chain lifts and short drops. The centreline is OSM's circuit (888 m, against the published 2,780 ft / 847 m), chained in ride order; the height at the end of each way is set by hand from the ride's published layout (three lifts, the helix off the second, the drop off the third into the tunnel under the peak) and the OSM layer tags, interpolated and smoothed. Tunnels are not drawn: the rock closes over them. Open track is a wooden deck with dark rails, on timber bents where it stands clear of the rock. The two sheds OSM tags covered get a plank roof.",
+    "The station (way/324922573) is a plain timber building with a gabled roof, 9 m at the ridge as OSM tags it.",
+    "Evidence: - OSM: the rock area, the peak node, every track way with its tunnel, covered and layer tags, the station, and the rock mapped as a building (way/310114442) which is the rock over the covered run into the second lift. - Published: track length, ride order (Wikipedia). - Photos: an aerial from the Contemporary side (larrywkoester, Flickr, CC BY 2.0) for the layout and how the rock fuses; the main peak from the queue side (AmaryllisGardener, CC BY-SA 4.0); Haydn Blackey (Flickr, CC BY-SA 2.0) from the east.",
+    "Estimated: every track height (no published profile; the lifts are put at 12–14 m), every hoodoo's position and height but the peak's, and the base's relief, which is a terraced noise field shaped by the track.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"wdw-big-thunder-mountain\", model \"wdw-big-thunder-mountain\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/wdw-big-thunder-mountain.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}
