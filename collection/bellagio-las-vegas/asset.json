@@ -1,0 +1,266 @@
+{
+  "id": "bellagio-las-vegas",
+  "name": "Bellagio",
+  "anchor": [
+    -115.176606,
+    36.113113
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 161080,
+      "sha256": "1bb543044b8d6627d8a0937f50c5c760d03fa6ac03d8b3ae0801f522c464da49"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 161080,
+      "sha256": "1bb543044b8d6627d8a0937f50c5c760d03fa6ac03d8b3ae0801f522c464da49"
+    }
+  },
+  "triangles": 3318,
+  "boundsBlenderM": [
+    [
+      -105.509,
+      -117.961,
+      0
+    ],
+    [
+      56.965,
+      117.66,
+      154.5
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -115.1763353,
+          36.1132058
+        ],
+        [
+          -115.1762187,
+          36.1136402
+        ],
+        [
+          -115.1761136,
+          36.1138371
+        ],
+        [
+          -115.1761012,
+          36.1138601
+        ],
+        [
+          -115.1759862,
+          36.1140754
+        ],
+        [
+          -115.1762491,
+          36.1141719
+        ],
+        [
+          -115.1763815,
+          36.1139348
+        ],
+        [
+          -115.1764973,
+          36.1137281
+        ],
+        [
+          -115.1766268,
+          36.1132377
+        ],
+        [
+          -115.1775302,
+          36.1132342
+        ],
+        [
+          -115.1777684,
+          36.1132333
+        ],
+        [
+          -115.1777741,
+          36.1129884
+        ],
+        [
+          -115.1775302,
+          36.1129896
+        ],
+        [
+          -115.1766264,
+          36.1129938
+        ],
+        [
+          -115.1764946,
+          36.1124984
+        ],
+        [
+          -115.1763802,
+          36.1122886
+        ],
+        [
+          -115.1762514,
+          36.1120524
+        ],
+        [
+          -115.1759805,
+          36.1121513
+        ],
+        [
+          -115.176113,
+          36.1123872
+        ],
+        [
+          -115.176151,
+          36.1124548
+        ],
+        [
+          -115.1762217,
+          36.1125807
+        ],
+        [
+          -115.1763388,
+          36.1130216
+        ],
+        [
+          -115.1763127,
+          36.1130272
+        ],
+        [
+          -115.1762786,
+          36.1130443
+        ],
+        [
+          -115.1762537,
+          36.1130698
+        ],
+        [
+          -115.1762415,
+          36.1130987
+        ],
+        [
+          -115.176242,
+          36.1131312
+        ],
+        [
+          -115.1762561,
+          36.1131615
+        ],
+        [
+          -115.1762824,
+          36.1131861
+        ],
+        [
+          -115.1763174,
+          36.113202
+        ],
+        [
+          -115.1763353,
+          36.1132058
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 25723909,
+    "version": 20,
+    "timestamp": "2026-02-20T21:07:37Z",
+    "url": "https://www.openstreetmap.org/way/25723909"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 114703388,
+      "version": 6,
+      "timestamp": "2025-09-20T21:56:13Z",
+      "url": "https://www.openstreetmap.org/way/114703388"
+    }
+  ],
+  "wikidata": "Q25007",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Bellagio Las Vegas 2011.jpg",
+      "author": "ZooFari",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Bellagio_Las_Vegas_2011.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Bellagio_Las_Vegas_2011.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Bellagio Las Vegas.jpg",
+      "author": "Clément Bardot",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Bellagio_Las_Vegas.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Reflection of the Flamingo Hotel in front of the Bellagio.jpg",
+      "author": "Julian Lupyan",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Reflection_of_the_Flamingo_Hotel_in_front_of_the_Bellagio.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Bellagio and Caesars Palace during the day.jpg",
+      "author": "Ypsilon from Finland",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Bellagio_and_Caesars_Palace_during_the_day.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Las Vegas Bellagio P4220718.jpg",
+      "author": "Alexander Migl",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Las_Vegas_Bellagio_P4220718.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/lv-bellagio.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Bellagio, Las Vegas: the bowed cream hotel tower with its three wings, the lower wing ends, and the round hub with its lantern and cupola. Procedural, CC0-1.0. bun generators/lv-bellagio.ts",
+    "Map frame: x east, y north, z up, metres. Bearing 0: drawn in OSM's own orientation. The origin is the area centroid of the main tower outline, way/25723909 (36.113113, -115.176606).",
+    "Published (Wikipedia, \"Bellagio (resort)\"; Jon Jerde, opened 1998): a 36-storey hotel tower. OSM: way/25723909, 120 m, 34 levels; the hub's cupola part way/114703388, 155 m.",
+    "Measured, from OSM: the main tower is a bowed slab about 25 m deep, its two arms bending in two steps to wrap the lake to the east, with a third wing 27 m wide running 103 m west from the hub; the hub's round bay, 21 m across, stands out on the lake front. USGS NAIP (public domain): the pitched blue-grey roofs run round every wing with flat centres, the cupola sits on the hub, and each wing end has its own lower roof.",
+    "Photos (Wikimedia Commons):",
+    "\"Bellagio Las Vegas 2011.jpg\", ZooFari, public domain: the lake front head on, the hub bay with its lantern, the belt two-thirds up, the row of arched windows under the cornice, the lower wing ends;",
+    "\"Bellagio Las Vegas.jpg\", Clément Bardot, CC BY-SA 3.0: the same from the Eiffel Tower, high up, for the height of the cupola over the roof;",
+    "\"Reflection of the Flamingo Hotel in front of the Bellagio.jpg\", Julian Lupyan, CC0: from the north-east, the north arm's lower end and the blue-grey roofs;",
+    "\"Bellagio and Caesars Palace during the day.jpg\", Ypsilon, CC0: from the north-east, the stepped wing ends and the cream walls;",
+    "\"Las Vegas Bellagio P4220718.jpg\", Alexander Migl, CC BY-SA 4.0: from the south-west, the west wing and the south arm meeting at the hub, both with arched attics, the south arm's lower end.",
+    "Estimated: the heights. The published storeys and the photos put the main eave at 128 m (OSM's 120 m is short of the 36 storeys), the wing ends three storeys lower at 118 m, the lantern and cupola to OSM's 155 m. The west wing has no photo from the west; its end is drawn lower like the arms'. The belt course, window rows and the bay rhythm are read from the photos; the windows are drawn three storeys to a panel. The roofs are the palette's blue-grey: the photos show slate blue-grey roofs on the towers, not terracotta, which is only on the low pavilions round the lake. Left out: the 33-storey Spa Tower (way/25723910, a separate building 180 m south-west, left to the map), the casino podium and conservatory (relation/1599958, left on the map), the lake and fountains, signs, balustrades.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"lv-bellagio\", model \"lv-bellagio\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/lv-bellagio.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 1932 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the lv-bellagio-glazing finish in the window colour."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

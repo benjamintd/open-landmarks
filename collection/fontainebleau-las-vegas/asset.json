@@ -1,0 +1,226 @@
+{
+  "id": "fontainebleau-las-vegas",
+  "name": "Fontainebleau Las Vegas",
+  "anchor": [
+    -115.159404,
+    36.137992
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 13,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 21708,
+      "sha256": "afca12b9601340ecf64d157ce8f64be56ba62d530535465e0d78d33a7ab583e2"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 21708,
+      "sha256": "afca12b9601340ecf64d157ce8f64be56ba62d530535465e0d78d33a7ab583e2"
+    }
+  },
+  "triangles": 349,
+  "boundsBlenderM": [
+    [
+      -64.238,
+      -38.672,
+      0
+    ],
+    [
+      91.165,
+      63.794,
+      224
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -115.158533,
+          36.1382594
+        ],
+        [
+          -115.1591267,
+          36.1379345
+        ],
+        [
+          -115.1593922,
+          36.1378998
+        ],
+        [
+          -115.1597624,
+          36.1380991
+        ],
+        [
+          -115.1598106,
+          36.1384219
+        ],
+        [
+          -115.1601191,
+          36.1385713
+        ],
+        [
+          -115.1600655,
+          36.1381446
+        ],
+        [
+          -115.1600494,
+          36.1380623
+        ],
+        [
+          -115.1600199,
+          36.1379821
+        ],
+        [
+          -115.1599743,
+          36.1379128
+        ],
+        [
+          -115.1599233,
+          36.1378565
+        ],
+        [
+          -115.1598509,
+          36.1378023
+        ],
+        [
+          -115.159765,
+          36.1377417
+        ],
+        [
+          -115.1596738,
+          36.1377005
+        ],
+        [
+          -115.1595558,
+          36.1376659
+        ],
+        [
+          -115.1594378,
+          36.1376464
+        ],
+        [
+          -115.1593198,
+          36.137642
+        ],
+        [
+          -115.1592152,
+          36.137655
+        ],
+        [
+          -115.1591079,
+          36.1376854
+        ],
+        [
+          -115.1590462,
+          36.1377114
+        ],
+        [
+          -115.1588906,
+          36.137798
+        ],
+        [
+          -115.1583864,
+          36.1380818
+        ],
+        [
+          -115.158533,
+          36.1382594
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 134068318,
+    "version": 12,
+    "timestamp": "2025-05-29T03:22:45Z",
+    "url": "https://www.openstreetmap.org/way/134068318"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q278380",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:South end of Fontainebleau Las Vegas (2024).png",
+      "author": "Ron Mader",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:South_end_of_Fontainebleau_Las_Vegas_(2024).png",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Fontainebleau Las Vegas - October 2021.jpg",
+      "author": "APK",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Fontainebleau_Las_Vegas_-_October_2021.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:North side of Fontainebleau tower in Las Vegas.jpg",
+      "author": "AJFU",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:North_side_of_Fontainebleau_tower_in_Las_Vegas.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Fontainebleau Las Vegas tower, seen from Sahara.jpg",
+      "author": "AJFU",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Fontainebleau_Las_Vegas_tower,_seen_from_Sahara.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Fontainebleau Las Vegas exterior.jpg",
+      "author": "Dialh",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Fontainebleau_Las_Vegas_exterior.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/lv-fontainebleau.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Fontainebleau Las Vegas: the blue-glass hotel tower (begun 2007, stalled 2009, finished and opened December 2023), the tallest occupied building in Nevada. Procedural, CC0-1.0. bun generators/lv-fontainebleau.ts",
+    "Map frame: x east, y north, z up, metres. Bearing 0: the plan is drawn in OSM's own orientation. The origin is the area centroid of the tower's outline, way/134068318 (36.137992, -115.159404).",
+    "Published (Wikipedia, \"Fontainebleau Las Vegas\"): 735 ft (224 m), 67 storeys, by Bergman Walls & Associates; blue glass, the tallest occupied building in Nevada. OSM tags way/134068318 height=224, building:levels=63.",
+    "Measured, from OSM way/134068318: a boomerang plan. Its outer side is a straight west face, a broad rounded corner sweeping round the south-west, and a straight south-east face running out to the north-east arm; the inner (north) side is three faces round a recessed middle bay. Arms are 24 to 32 m deep. Taken as is, unsimplified.",
+    "Photos (Wikimedia Commons):",
+    "\"South end of Fontainebleau Las Vegas (2024).png\", Ron Mader, CC BY-SA 2.0: from the south-east, the rounded corner as a few broad facets of mid-blue glass; a pale belt at about the middle; the crown, a white rim over a dark band of glass;",
+    "\"Fontainebleau Las Vegas - October 2021.jpg\", APK, CC BY-SA 4.0: from the south-west, the west face and the corner, the belt and the white rim;",
+    "\"North side of Fontainebleau tower in Las Vegas.jpg\", AJFU, CC BY-SA 4.0: the inner side from the Strip, two arms and the recessed middle, the belt running round all of them at one level;",
+    "\"Fontainebleau Las Vegas tower, seen from Sahara.jpg\", AJFU, CC BY-SA 4.0: the inner side from the north-west;",
+    "\"Fontainebleau Las Vegas exterior.jpg\", Dialh, CC BY 4.0: at night, the glass lit by rooms (so it is a `window` wall) and the crown band lit.",
+    "Measured from the photos (scaled by the published height): the belt at about 106 to 109 m, the dark crown band about 4 m and the white rim about 6 m. Estimated: the glass colour (the real glass is a saturated cobalt, pulled to the palette's lightness), the bevels. The podium, way/134068317, is a large angular block whose heights OSM does not record; it is left to the map, as is the separate building:part way/134068316 beside it.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"lv-fontainebleau\", model \"lv-fontainebleau\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/lv-fontainebleau.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 2302 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the lv-fontainebleau-glazing finish in the window colour."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

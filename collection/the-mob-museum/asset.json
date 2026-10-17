@@ -1,0 +1,166 @@
+{
+  "id": "the-mob-museum",
+  "name": "The Mob Museum",
+  "anchor": [
+    -115.1412791,
+    36.172784
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 38360,
+      "sha256": "12da8f2a2e0349743adbd9f2a2fdc0bbb5d7d7b6afd1d627e7daf1933378498e"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 38360,
+      "sha256": "12da8f2a2e0349743adbd9f2a2fdc0bbb5d7d7b6afd1d627e7daf1933378498e"
+    }
+  },
+  "triangles": 698,
+  "boundsBlenderM": [
+    [
+      -21.81,
+      -18.554,
+      0
+    ],
+    [
+      23.549,
+      21.876,
+      22.7
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -115.141515,
+          36.1727802
+        ],
+        [
+          -115.1411541,
+          36.1726217
+        ],
+        [
+          -115.141025,
+          36.1728195
+        ],
+        [
+          -115.1411147,
+          36.1728575
+        ],
+        [
+          -115.1411229,
+          36.172861
+        ],
+        [
+          -115.1411882,
+          36.1727612
+        ],
+        [
+          -115.1413493,
+          36.1728292
+        ],
+        [
+          -115.1412848,
+          36.1729279
+        ],
+        [
+          -115.1413851,
+          36.1729728
+        ],
+        [
+          -115.141515,
+          36.1727802
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 206128504,
+    "version": 11,
+    "timestamp": "2026-09-20T22:58:51Z",
+    "url": "https://www.openstreetmap.org/way/206128504"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q6886561",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:The Mob Museum -2022 (1).jpg",
+      "author": "Alberto-g-rovi",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:The_Mob_Museum_-2022_(1).jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Las Vegas USPS gf 374.jpg",
+      "author": "Gillfoto",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Las_Vegas_USPS_gf_374.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Las Vegas Post Office and Courthouse, Las Vegas, Nevada.jpg",
+      "author": "Ken Lund",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Las_Vegas_Post_Office_and_Courthouse,_Las_Vegas,_Nevada.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Las Vegas Mob Museum 2012.jpg",
+      "author": "Wtstoffs",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Las_Vegas_Mob_Museum_2012.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/lv-mob-museum.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "The Mob Museum, Las Vegas: the former United States Post Office and Courthouse (1933), a three-storey neoclassical block on Stewart Avenue. Its front is a rusticated stone base with an arcade of arched doorways up a broad flight of steps, a giant order of pilasters framing two storeys of tall windows, an inscribed entablature and a balustraded parapet, between brick end pavilions; the sides repeat the pilasters on brick. Procedural, CC0-1.0. bun generators/lv-mob-museum.ts",
+    "Map frame: x along the Stewart Avenue front, y back from it, z up, metres. The front faces −y; the placement's bearing (28.4°) turns it to face 208° (south-south-west), as it does. The origin is the area centroid of OSM way/206128504.",
+    "Measured:",
+    "OSM way/206128504 (building=commercial, 3 levels): a U, 36.9 m along the front and 24.4 m deep, its rear light court 16.3 m wide and 12.5 m deep, open to the north-north-east. The USGS NAIP orthophoto (public domain) shows a low roof filling the court, drawn here one storey high;",
+    "heights, from p4 (square on to the front, scaled by the bay pitch, 4.27 m: seven bays between eight pilasters over 30 m) and p2 (the side, scaled by its 24.4 m): the base 9 m to the sill band over 1.5 m of steps, the pilasters 9.6 m, the entablature 2.6 m, the parapet 1.5 m; 22.7 m in all;",
+    "the brick end pavilions, 3.45 m wide, and the side bays: five between six pilasters, with 3.3 m of brick at each end.",
+    "Photos (Wikimedia Commons):",
+    "p4 \"The Mob Museum -2022 (1).jpg\", Alberto-g-rovi, CC BY 3.0: the front, square on;",
+    "p7 \"Las Vegas USPS gf 374.jpg\", Gillfoto, CC BY-SA 4.0: from the south-east, front and east side;",
+    "p2 \"Las Vegas Post Office and Courthouse, Las Vegas, Nevada.jpg\", Ken Lund, CC BY-SA 2.0: from the south-west, front and west side;",
+    "p1 \"Las Vegas Mob Museum 2012.jpg\", Wtstoffs, CC BY-SA 3.0: the front.",
+    "Estimated: the back and the court walls (no licensed photo shows them): plain brick with a window per bay per floor; the court's low roof; the steps' depth. Left out: the balusters (the parapet is solid), the inscription, the pilasters' capitals, the green spandrel panels (the two windows of each bay are separate panels), the banners and lamps.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"lv-mob-museum\", model \"lv-mob-museum\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/lv-mob-museum.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

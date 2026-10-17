@@ -1,0 +1,213 @@
+{
+  "id": "the-mob-museum",
+  "anchor": [
+    -115.1412791,
+    36.172784
+  ],
+  "coordinateSystem": "Local metres about the anchor (equirectangular, WGS84 radius): X east, Y north, Z up. glTF export: X east, Y up, Z south. Heading already baked.",
+  "license": "ODbL-1.0",
+  "footprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -21.198358703862386,
+          -0.42301406521198787
+        ],
+        [
+          11.232703850372806,
+          -18.067153355693144
+        ],
+        [
+          22.833840385563658,
+          3.951841923466413
+        ],
+        [
+          14.773252102925365,
+          8.181982573213373
+        ],
+        [
+          14.036386730735252,
+          8.571600790797111
+        ],
+        [
+          8.16842223957531,
+          -2.5380843904809542
+        ],
+        [
+          -6.308286481454007,
+          5.031640984124243
+        ],
+        [
+          -0.5122112944930733,
+          16.0188747248897
+        ],
+        [
+          -9.525332863195516,
+          21.017119861385698
+        ],
+        [
+          -21.198358703862386,
+          -0.42301406521198787
+        ]
+      ]
+    ]
+  },
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -115.141515,
+          36.1727802
+        ],
+        [
+          -115.1411541,
+          36.1726217
+        ],
+        [
+          -115.141025,
+          36.1728195
+        ],
+        [
+          -115.1411147,
+          36.1728575
+        ],
+        [
+          -115.1411229,
+          36.172861
+        ],
+        [
+          -115.1411882,
+          36.1727612
+        ],
+        [
+          -115.1413493,
+          36.1728292
+        ],
+        [
+          -115.1412848,
+          36.1729279
+        ],
+        [
+          -115.1413851,
+          36.1729728
+        ],
+        [
+          -115.141515,
+          36.1727802
+        ]
+      ]
+    ]
+  },
+  "parts": [
+    {
+      "osm": "way/206128504",
+      "tags": {
+        "addr:city": "Las Vegas",
+        "addr:country": "US",
+        "addr:housenumber": "300",
+        "addr:postcode": "89101",
+        "addr:state": "NV",
+        "addr:street": "Stewart Avenue",
+        "building": "commercial",
+        "building:levels": "3",
+        "contact:email": "info@themobmuseum.org",
+        "contact:facebook": "themobmuseum",
+        "contact:instagram": "themobmuseum",
+        "contact:twitter": "themobmuseum",
+        "museum": "history",
+        "museum_type": "municipal",
+        "name": "The Mob Museum",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "phone": "+1 702-229-2734",
+        "source": "Bing",
+        "tourism": "museum",
+        "website": "https://themobmuseum.org",
+        "wikidata": "Q6886561",
+        "wikipedia": "en:Mob Museum"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -21.198358703862386,
+              -0.42301406521198787
+            ],
+            [
+              11.232703850372806,
+              -18.067153355693144
+            ],
+            [
+              22.833840385563658,
+              3.951841923466413
+            ],
+            [
+              14.773252102925365,
+              8.181982573213373
+            ],
+            [
+              14.036386730735252,
+              8.571600790797111
+            ],
+            [
+              8.16842223957531,
+              -2.5380843904809542
+            ],
+            [
+              -6.308286481454007,
+              5.031640984124243
+            ],
+            [
+              -0.5122112944930733,
+              16.0188747248897
+            ],
+            [
+              -9.525332863195516,
+              21.017119861385698
+            ],
+            [
+              -21.198358703862386,
+              -0.42301406521198787
+            ]
+          ]
+        ]
+      },
+      "version": 11,
+      "timestamp": "2026-09-20T22:58:51Z"
+    }
+  ],
+  "osm": {
+    "type": "way",
+    "id": 206128504,
+    "version": 11,
+    "timestamp": "2026-09-20T22:58:51Z",
+    "url": "https://www.openstreetmap.org/way/206128504"
+  },
+  "additionalOsm": [],
+  "tags": {
+    "addr:city": "Las Vegas",
+    "addr:country": "US",
+    "addr:housenumber": "300",
+    "addr:postcode": "89101",
+    "addr:state": "NV",
+    "addr:street": "Stewart Avenue",
+    "building": "commercial",
+    "building:levels": "3",
+    "contact:email": "info@themobmuseum.org",
+    "contact:facebook": "themobmuseum",
+    "contact:instagram": "themobmuseum",
+    "contact:twitter": "themobmuseum",
+    "museum": "history",
+    "museum_type": "municipal",
+    "name": "The Mob Museum",
+    "opening_hours": "Mo-Su 09:00-21:00",
+    "phone": "+1 702-229-2734",
+    "source": "Bing",
+    "tourism": "museum",
+    "website": "https://themobmuseum.org",
+    "wikidata": "Q6886561",
+    "wikipedia": "en:Mob Museum"
+  }
+}

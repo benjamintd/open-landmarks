@@ -1,0 +1,138 @@
+{
+  "id": "slotzilla-las-vegas",
+  "name": "SlotZilla",
+  "anchor": [
+    -115.1412707,
+    36.1695016
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 121172,
+      "sha256": "5331fe2e7534ff0dd1c3ef0b6c13bfb2414be9680714ff3b62fcaf75f88384a5"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 121172,
+      "sha256": "5331fe2e7534ff0dd1c3ef0b6c13bfb2414be9680714ff3b62fcaf75f88384a5"
+    }
+  },
+  "triangles": 2330,
+  "boundsBlenderM": [
+    [
+      -11.574,
+      -9.681,
+      0
+    ],
+    [
+      11.453,
+      10.809,
+      39.1
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -115.1413161,
+          36.169582
+        ],
+        [
+          -115.1411447,
+          36.1695078
+        ],
+        [
+          -115.1411596,
+          36.1694854
+        ],
+        [
+          -115.1411984,
+          36.1695022
+        ],
+        [
+          -115.1412311,
+          36.1694529
+        ],
+        [
+          -115.1411928,
+          36.1694363
+        ],
+        [
+          -115.141208,
+          36.1694135
+        ],
+        [
+          -115.1412795,
+          36.1694448
+        ],
+        [
+          -115.1413008,
+          36.1694537
+        ],
+        [
+          -115.1413788,
+          36.1694874
+        ],
+        [
+          -115.1413161,
+          36.169582
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 1093169256,
+    "version": 2,
+    "timestamp": "2025-09-03T21:26:53Z",
+    "url": "https://www.openstreetmap.org/way/1093169256"
+  },
+  "additionalOsm": [],
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/lv-slotzilla.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "SlotZilla (2014), the zip-line launch tower at the east end of the Fremont Street Experience: a steel frame tower whose west face, looking down Fremont Street under the canopy, is dressed as a giant slot machine, with a showgirl on each side. Procedural, CC0-1.0. bun generators/lv-slotzilla.ts",
+    "Famous-sign exception (STYLE.md): the slot machine is the landmark, so its marquee carries SLOTZILLA as extruded block letters, and the coins, reels, lever and the two showgirls are kept as bold flat masses.",
+    "Map frame: x east, y north, z up, metres, built turned: the model's +y is the street's axis towards Las Vegas Boulevard, so the placement bearing of 118° (Fremont Street's axis, from the canopy outline way/1428180251) turns the slot face (-y) to look west-north-west down the street. The origin is the area centroid of OSM way/1093169256.",
+    "Measured, from OSM way/1093169256 (\"Slotzilla launch tower\", man_made=tower): 11.9 m across the street and 17.5 m along it, the back end split into two legs round a 6.2 × 3.9 m notch.",
+    "Published (Fremont Street Experience fact sheet; Las Vegas Review-Journal, 2014): 128 ft (39 m) and 12 storeys, \"the world's largest slot machine\"; the Zipline launches from 77 ft (23.5 m), the Zoomline from 114 ft (34.7 m).",
+    "Proportions measured from photos, scaled to the published 39 m: the navy base 17 m with its walk-through portal, the chrome coin tray to the lower deck at 23.5 m, the red SLOTZILLA marquee, the white reel band with three reels, the red top round the upper deck at 34.7 m, the beacon; the showgirls about 10 m tall beside the tray; the blue lever ball on the south side at reel height.",
+    "Photos:",
+    "kl2 \"Slotzilla (Beginning of Zip-Line), Las Vegas, Nevada\", Ken Lund, CC BY-SA 2.0, flickr.com/photos/75683070@N00/15278934258: the slot face square on from the west, by day;",
+    "kl1, the same set (…/15278926868): the steel frame from the east;",
+    "daryl1 \"Slotzilla 1\", daryl_mitchell, CC BY-SA 2.0, flickr.com/photos/49169223@N00/24156642311: the slot face from the west-north-west, raised, by day, the source of the band heights;",
+    "galy \"Slotzilla, Vegas\", Sergiy Galyonkin, CC BY-SA 2.0, flickr.com/photos/22974618@N00/54340834257: the tray and coins;",
+    "fam1 \"2015-11-04 11 29 30 View northwest along Fremont Street at the southeast end of the Fremont Street Experience…\", Famartin, CC BY-SA 4.0 (Commons): the east side, a grey steel frame with orange boxes;",
+    "\"Slotzilla at the Fremont Street Experience\" 1 and 2, Julian Lupyan, CC0 (Commons): the face at night.",
+    "Estimated: the depth of the slot cabinet (7 m of the 17.5 m; the rest is the open frame), the tray's slope, the frame's beam levels, the showgirls' outline, all colours (pulled to the palette's lightness). Left out: the palm tree, dice and flamingo sculptures on the base, the video screens, the signs on the east face, the zip lines, the bridge.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"lv-slotzilla\", model \"lv-slotzilla\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/lv-slotzilla.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

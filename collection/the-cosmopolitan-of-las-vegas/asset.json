@@ -1,0 +1,171 @@
+{
+  "id": "the-cosmopolitan-of-las-vegas",
+  "name": "The Cosmopolitan of Las Vegas",
+  "anchor": [
+    -115.174091,
+    36.110181
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 217992,
+      "sha256": "8868af083bc09e414417b9e37be66e61a2a632609be5e51080b7bcb662614ec7"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 217992,
+      "sha256": "8868af083bc09e414417b9e37be66e61a2a632609be5e51080b7bcb662614ec7"
+    }
+  },
+  "triangles": 3972,
+  "boundsBlenderM": [
+    [
+      -266.58,
+      -84.2,
+      0
+    ],
+    [
+      30.407,
+      23.702,
+      183.99
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -115.174388,
+          36.1103887
+        ],
+        [
+          -115.1743458,
+          36.110388
+        ],
+        [
+          -115.1739113,
+          36.1103807
+        ],
+        [
+          -115.1738074,
+          36.1103789
+        ],
+        [
+          -115.1737613,
+          36.1103341
+        ],
+        [
+          -115.173818,
+          36.1099694
+        ],
+        [
+          -115.1743987,
+          36.1099792
+        ],
+        [
+          -115.174388,
+          36.1103887
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 134795273,
+    "version": 8,
+    "timestamp": "2024-12-09T02:01:18Z",
+    "url": "https://www.openstreetmap.org/way/134795273"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 27897905,
+      "version": 8,
+      "timestamp": "2019-06-22T04:13:54Z",
+      "url": "https://www.openstreetmap.org/way/27897905"
+    },
+    {
+      "type": "way",
+      "id": 472669744,
+      "version": 4,
+      "timestamp": "2022-08-30T09:38:42Z",
+      "url": "https://www.openstreetmap.org/way/472669744"
+    }
+  ],
+  "wikidata": "Q1436845",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Cosmopolitan - North - 2011-06-04.jpg",
+      "author": "Cygnusloop99",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Cosmopolitan_-_North_-_2011-06-04.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Cosmopolitan - North - 2010-12-12.JPG",
+      "author": "Cygnusloop99",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Cosmopolitan_-_North_-_2010-12-12.JPG",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:The Cosmopolitan Las Vegas 2019.jpg",
+      "author": "Steven Lek",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:The_Cosmopolitan_Las_Vegas_2019.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Cosmopolitan Casino Beach Club Tower.jpg",
+      "author": "Supercarwaar",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Cosmopolitan_Casino_Beach_Club_Tower.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/lv-cosmopolitan.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "The Cosmopolitan of Las Vegas: its two dark glass hotel towers striped with balconies, the square Boulevard Tower on the Strip with its crown sloping up towards the Strip, and the long, kinked Chelsea Tower running west from it, with the casino podium between. Procedural, CC0-1.0. bun generators/lv-cosmopolitan.ts",
+    "Map frame: x east, y north, z up, metres. Bearing 0: drawn in OSM's own orientation. The origin is the area centroid of the Boulevard Tower's outline, way/134795273 (36.110181, -115.174091).",
+    "Published (Wikipedia, \"Cosmopolitan of Las Vegas\"; Arquitectonica, opened 2010): 3,033 rooms in two towers, the Chelsea and the Boulevard, of 52 and 50 storeys. OSM: way/134795273, 184 m, 51 levels (the Boulevard Tower); way/27897905, \"The Cosmopolitan Chelsea Tower\", 184 m, 53 levels; way/472669744, tagged \"Boulevard Tower\" and 184 m, which is in fact the podium south-west of the Boulevard Tower, with the pool decks and the round theatre on its roof (USGS NAIP).",
+    "Measured, from OSM: the Boulevard Tower 52 x 45 m; the Chelsea a slab 25 m deep and 163 m long, its middle third turned 21 degrees. The USGS NAIP orthophoto (public domain) shows both towers' roofs, displaced about 40 m west by relief, with the Chelsea's kink.",
+    "Photos (Wikimedia Commons):",
+    "\"Cosmopolitan - North - 2011-06-04.jpg\", Cygnusloop99, CC BY-SA 3.0: from the Bellagio lake, north: the Boulevard Tower's crown rising to the east; the Chelsea's long north face, about 200 m of it in view, folded at the kink, its west end plain dark glass under the sign;",
+    "\"Cosmopolitan - North - 2010-12-12.JPG\", Cygnusloop99, CC BY-SA 3.0: from the Eiffel Tower, north-east: the Boulevard in front, the Chelsea behind, the balcony stripes, the dark west end;",
+    "\"The Cosmopolitan Las Vegas 2019.jpg\", Steven Lek, CC BY-SA 4.0, and \"Cosmopolitan Casino Beach Club Tower.jpg\", Supercarwaar, CC BY-SA 4.0: the dark glass, the white balcony edges, the dark crown.",
+    "Estimated: the crowns: the Boulevard's sloping from 176 m on the west to 184 m on the Strip side, the Chelsea's flat at 182 m; the dark west end, 30 m; the podium at 25 m. The balconies are every floor; they are drawn every second floor so the stripes stay clean at map distance. Left out: the signs and \"C\" logo, the pool decks, the Marquee club, the porte-cochère, and the low buildings round the towers (way/1212809711, way/699020452), left to the map.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"lv-cosmopolitan\", model \"lv-cosmopolitan\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/lv-cosmopolitan.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 88919 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the lv-cosmopolitan-glazing finish in the window colour."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

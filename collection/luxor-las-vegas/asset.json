@@ -1,0 +1,352 @@
+{
+  "id": "luxor-las-vegas",
+  "name": "Luxor Las Vegas",
+  "anchor": [
+    -115.175804,
+    36.09547
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 13,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 186064,
+      "sha256": "dd03513af64c953c8b7630ecad2d89c6974cfbda134eadd658b35103669933ae"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 186064,
+      "sha256": "dd03513af64c953c8b7630ecad2d89c6974cfbda134eadd658b35103669933ae"
+    }
+  },
+  "triangles": 3348,
+  "boundsBlenderM": [
+    [
+      -136.3,
+      -91.5,
+      0
+    ],
+    [
+      228.8,
+      192.7,
+      109
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -115.1747895,
+          36.0962937
+        ],
+        [
+          -115.1747771,
+          36.0946583
+        ],
+        [
+          -115.1757872,
+          36.094654
+        ],
+        [
+          -115.1759548,
+          36.09465
+        ],
+        [
+          -115.1768089,
+          36.0946483
+        ],
+        [
+          -115.1768192,
+          36.0946482
+        ],
+        [
+          -115.1768255,
+          36.0954611
+        ],
+        [
+          -115.1768315,
+          36.0962837
+        ],
+        [
+          -115.176465,
+          36.0962854
+        ],
+        [
+          -115.1758211,
+          36.0962889
+        ],
+        [
+          -115.1751622,
+          36.0962925
+        ],
+        [
+          -115.1747895,
+          36.0962937
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 27858544,
+    "version": 34,
+    "timestamp": "2026-06-28T04:48:47Z",
+    "url": "https://www.openstreetmap.org/way/27858544"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 136520122,
+      "version": 8,
+      "timestamp": "2025-10-10T23:20:19Z",
+      "url": "https://www.openstreetmap.org/way/136520122"
+    },
+    {
+      "type": "way",
+      "id": 136516661,
+      "version": 4,
+      "timestamp": "2019-06-14T19:27:40Z",
+      "url": "https://www.openstreetmap.org/way/136516661"
+    },
+    {
+      "type": "way",
+      "id": 136516662,
+      "version": 4,
+      "timestamp": "2019-06-14T19:27:40Z",
+      "url": "https://www.openstreetmap.org/way/136516662"
+    },
+    {
+      "type": "way",
+      "id": 136516663,
+      "version": 4,
+      "timestamp": "2019-06-14T19:27:40Z",
+      "url": "https://www.openstreetmap.org/way/136516663"
+    },
+    {
+      "type": "way",
+      "id": 136516665,
+      "version": 4,
+      "timestamp": "2019-06-14T19:27:40Z",
+      "url": "https://www.openstreetmap.org/way/136516665"
+    },
+    {
+      "type": "way",
+      "id": 136516667,
+      "version": 4,
+      "timestamp": "2019-06-14T19:27:40Z",
+      "url": "https://www.openstreetmap.org/way/136516667"
+    },
+    {
+      "type": "way",
+      "id": 136516668,
+      "version": 4,
+      "timestamp": "2019-06-14T19:27:40Z",
+      "url": "https://www.openstreetmap.org/way/136516668"
+    },
+    {
+      "type": "way",
+      "id": 136516669,
+      "version": 4,
+      "timestamp": "2019-06-14T19:27:40Z",
+      "url": "https://www.openstreetmap.org/way/136516669"
+    },
+    {
+      "type": "way",
+      "id": 136516670,
+      "version": 5,
+      "timestamp": "2023-12-05T05:05:29Z",
+      "url": "https://www.openstreetmap.org/way/136516670"
+    },
+    {
+      "type": "way",
+      "id": 136516672,
+      "version": 4,
+      "timestamp": "2019-06-14T19:27:40Z",
+      "url": "https://www.openstreetmap.org/way/136516672"
+    },
+    {
+      "type": "way",
+      "id": 136516673,
+      "version": 4,
+      "timestamp": "2019-06-14T19:27:40Z",
+      "url": "https://www.openstreetmap.org/way/136516673"
+    },
+    {
+      "type": "way",
+      "id": 136516674,
+      "version": 4,
+      "timestamp": "2019-06-14T19:27:40Z",
+      "url": "https://www.openstreetmap.org/way/136516674"
+    },
+    {
+      "type": "way",
+      "id": 136520109,
+      "version": 3,
+      "timestamp": "2016-02-23T07:49:52Z",
+      "url": "https://www.openstreetmap.org/way/136520109"
+    },
+    {
+      "type": "way",
+      "id": 136520110,
+      "version": 3,
+      "timestamp": "2016-02-23T07:49:53Z",
+      "url": "https://www.openstreetmap.org/way/136520110"
+    },
+    {
+      "type": "way",
+      "id": 136520112,
+      "version": 3,
+      "timestamp": "2016-02-23T07:49:53Z",
+      "url": "https://www.openstreetmap.org/way/136520112"
+    },
+    {
+      "type": "way",
+      "id": 136520113,
+      "version": 3,
+      "timestamp": "2016-02-23T07:49:53Z",
+      "url": "https://www.openstreetmap.org/way/136520113"
+    },
+    {
+      "type": "way",
+      "id": 136520114,
+      "version": 3,
+      "timestamp": "2016-02-23T07:49:53Z",
+      "url": "https://www.openstreetmap.org/way/136520114"
+    },
+    {
+      "type": "way",
+      "id": 136520116,
+      "version": 3,
+      "timestamp": "2016-02-23T07:49:53Z",
+      "url": "https://www.openstreetmap.org/way/136520116"
+    },
+    {
+      "type": "way",
+      "id": 136520117,
+      "version": 3,
+      "timestamp": "2016-02-23T07:49:53Z",
+      "url": "https://www.openstreetmap.org/way/136520117"
+    },
+    {
+      "type": "way",
+      "id": 136520118,
+      "version": 3,
+      "timestamp": "2016-02-23T07:49:54Z",
+      "url": "https://www.openstreetmap.org/way/136520118"
+    },
+    {
+      "type": "way",
+      "id": 136520119,
+      "version": 3,
+      "timestamp": "2016-02-23T07:49:54Z",
+      "url": "https://www.openstreetmap.org/way/136520119"
+    },
+    {
+      "type": "way",
+      "id": 136520121,
+      "version": 3,
+      "timestamp": "2016-02-23T07:49:54Z",
+      "url": "https://www.openstreetmap.org/way/136520121"
+    },
+    {
+      "type": "way",
+      "id": 136520124,
+      "version": 3,
+      "timestamp": "2016-02-23T07:49:54Z",
+      "url": "https://www.openstreetmap.org/way/136520124"
+    },
+    {
+      "type": "way",
+      "id": 118344867,
+      "version": 9,
+      "timestamp": "2025-10-10T22:16:56Z",
+      "url": "https://www.openstreetmap.org/way/118344867"
+    },
+    {
+      "type": "way",
+      "id": 118344869,
+      "version": 4,
+      "timestamp": "2019-05-09T20:48:01Z",
+      "url": "https://www.openstreetmap.org/way/118344869"
+    },
+    {
+      "type": "way",
+      "id": 399368723,
+      "version": 1,
+      "timestamp": "2016-02-23T07:49:49Z",
+      "url": "https://www.openstreetmap.org/way/399368723"
+    }
+  ],
+  "wikidata": "Q637389",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Luxor pyramid Las Vegas.jpg",
+      "author": "ArticCynda",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Luxor_pyramid_Las_Vegas.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Luxor hotel Las Vegas.jpg",
+      "author": "ArticCynda",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Luxor_hotel_Las_Vegas.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Las Vegas - Luxor Hotel.jpg",
+      "author": "P. Hughes",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Las_Vegas_-_Luxor_Hotel.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/lv-luxor.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Luxor Las Vegas: the pyramid, its two ziggurat hotel towers, the sphinx and the obelisk. Procedural, CC0-1.0. bun generators/lv-luxor.ts",
+    "Map frame: x east, y north, z up, metres. Bearing 0: the pyramid's OSM outline (way/27858544) runs within 0.4° of true north. The origin is that outline's area centroid, the middle of the pyramid's base.",
+    "Published (Wikipedia, \"Luxor Las Vegas\"; architect Veldon Simpson):",
+    "the pyramid is 30 storeys and 357 ft (109 m) tall, clad in black glass; the top three storeys are the lamp room under the Sky Beam;",
+    "the two hotel towers (1997, Klai Juba) are 22-storey ziggurats just north of the pyramid, in the same black glass;",
+    "the sphinx is 32 m high, 24 m wide and 80 m long, facing the Strip, with the porte-cochère in its body; an obelisk stands in front of it, about 140 ft (43 m) by secondary sources, which agrees with its height against the sphinx in the Highsmith aerials below. OSM's 62 m is not used.",
+    "Measured, from OSM: the pyramid base, 183.7 x 181.6 m (modelled as a 183 m square); the towers, each an 80 m north-south spine 21.4 x 94 m with an east-west arm 20 m deep stepping down 70, 60, 50, 40, 30 m in 9.3 m bays on both sides (the building:parts of way/136520122); the podium outline (way/136520122); the sphinx (way/118344867, head way/118344869) and the obelisk (way/399368723). The USGS NAIP orthophoto (public domain) confirms the pyramid square, the head over the chest and the two paws running east.",
+    "Photos (Wikimedia Commons):",
+    "\"Aerial view showing the Luxor Hotel Sphynx and Pyramid\" and \"Aerial view of Las Vegas ... Luxor Hotel pyramid\", Carol M. Highsmith, public domain: massing, the towers' stepped arms with white terraces, sphinx, obelisk;",
+    "\"Luxor pyramid Las Vegas.jpg\" and \"Luxor hotel Las Vegas.jpg\", ArticCynda, CC BY-SA 4.0: the glass, the pale hip edges, the east tower's steps;",
+    "\"Las Vegas - Luxor Hotel.jpg\", P. Hughes, CC BY 4.0: the sphinx's nemes in blue and gold bands, the face, the pale grey capstone;",
+    "\"Luxor Pyramid & Sphinx in Las Vegas (Day)\", Rob Young, CC BY 2.0: the head and nemes from the front;",
+    "\"2012.10.05.182704 Nightfall Luxor Hotel\", Hermann Luyken, CC0: at night the faces stay dark and only the hip edges and the tip are lit, so the faces are an unlit finish and the hips and capstone are `window-3`.",
+    "Estimated: the white podium's height, 14 m from the photos rather than OSM's 20 (the dark glass runs down to a two- or three-storey colonnade); the sphinx's body, chest and head proportions inside the published envelope; the obelisk's plinth and taper. The tower podium's own shape is OSM's. Left out: the Sky Beam (light, not geometry), the advertising on the pyramid, the avenue of small sphinxes, the vent slot under the tip.",
+    "The dark glass is identity, so it stays dark, held at the charcoal limit.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"lv-luxor\", model \"lv-luxor\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/lv-luxor.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

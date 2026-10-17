@@ -1,0 +1,289 @@
+{
+  "id": "the-palazzo",
+  "name": "The Palazzo",
+  "anchor": [
+    -115.1682593,
+    36.1241116
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 139524,
+      "sha256": "5983690ba1035f645ff285e2c68f4918a391470e2421e368d20cf5404bb0aac6"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 139524,
+      "sha256": "5983690ba1035f645ff285e2c68f4918a391470e2421e368d20cf5404bb0aac6"
+    }
+  },
+  "triangles": 2456,
+  "boundsBlenderM": [
+    [
+      -126.591,
+      -98.293,
+      0
+    ],
+    [
+      144.2,
+      113.615,
+      196.4
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -115.1669952,
+          36.1242063
+        ],
+        [
+          -115.1666519,
+          36.1235022
+        ],
+        [
+          -115.1666519,
+          36.1234612
+        ],
+        [
+          -115.1680881,
+          36.1234855
+        ],
+        [
+          -115.1680983,
+          36.1232201
+        ],
+        [
+          -115.1696532,
+          36.1232476
+        ],
+        [
+          -115.169649,
+          36.1233092
+        ],
+        [
+          -115.1696477,
+          36.1233285
+        ],
+        [
+          -115.1696452,
+          36.1233657
+        ],
+        [
+          -115.1694709,
+          36.1234913
+        ],
+        [
+          -115.1694033,
+          36.1234863
+        ],
+        [
+          -115.1693597,
+          36.1234831
+        ],
+        [
+          -115.169267,
+          36.1234762
+        ],
+        [
+          -115.1690605,
+          36.1237925
+        ],
+        [
+          -115.1690847,
+          36.1238585
+        ],
+        [
+          -115.1691383,
+          36.1240048
+        ],
+        [
+          -115.1691899,
+          36.124025
+        ],
+        [
+          -115.1695049,
+          36.1241623
+        ],
+        [
+          -115.1696721,
+          36.1242323
+        ],
+        [
+          -115.1694513,
+          36.1245644
+        ],
+        [
+          -115.1693481,
+          36.1245073
+        ],
+        [
+          -115.1692955,
+          36.1245111
+        ],
+        [
+          -115.1692821,
+          36.1245615
+        ],
+        [
+          -115.1692706,
+          36.1246047
+        ],
+        [
+          -115.1692447,
+          36.1246451
+        ],
+        [
+          -115.1691818,
+          36.1246775
+        ],
+        [
+          -115.1692017,
+          36.1247191
+        ],
+        [
+          -115.1692754,
+          36.1246888
+        ],
+        [
+          -115.1693205,
+          36.1247612
+        ],
+        [
+          -115.1691061,
+          36.1250837
+        ],
+        [
+          -115.16898,
+          36.1251314
+        ],
+        [
+          -115.1687762,
+          36.1250426
+        ],
+        [
+          -115.168677,
+          36.1251422
+        ],
+        [
+          -115.1682961,
+          36.1249711
+        ],
+        [
+          -115.168229,
+          36.1250664
+        ],
+        [
+          -115.1678951,
+          36.1249183
+        ],
+        [
+          -115.1674914,
+          36.1247393
+        ],
+        [
+          -115.1672259,
+          36.1245204
+        ],
+        [
+          -115.1669952,
+          36.1242063
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 180584269,
+    "version": 11,
+    "timestamp": "2026-01-06T20:07:36Z",
+    "url": "https://www.openstreetmap.org/way/180584269"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 30424125,
+      "version": 18,
+      "timestamp": "2024-08-04T05:58:13Z",
+      "url": "https://www.openstreetmap.org/way/30424125"
+    }
+  ],
+  "wikidata": "Q1514587",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Palazzo Las Vegas new resort dec 2007.jpg",
+      "author": "[2]",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Palazzo_Las_Vegas_new_resort_dec_2007.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Palazzo Hotel - panoramio.jpg",
+      "author": "Alen Ištoković",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Palazzo_Hotel_-_panoramio.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:EM PALAZZO HOTEL&CASINO (2845054044).jpg",
+      "author": "Eddie Maloney from North Las Vegas, USA",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:EM_PALAZZO_HOTEL%26CASINO_(2845054044).jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:The Palazzo at the Venetian Resort.jpg",
+      "author": "Julian Lupyan",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:The_Palazzo_at_the_Venetian_Resort.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/lv-palazzo.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "The Palazzo, Las Vegas: the 50-storey tan tower with its three wings, stepped tops and wing-end pavilions, on the shopping podium with the domed tempietto at the Strip corner. Procedural, CC0-1.0. bun generators/lv-palazzo.ts",
+    "Map frame: x east, y north, z up, metres. Bearing 0: drawn in OSM's own orientation. The origin is the area centroid of the resort outline, way/180584269. The Venezia tower belongs to the Venetian's outline and is in lv-venetian.ts.",
+    "Published (Wikipedia, \"The Palazzo\"; HKS Architects, opened 2007-08): a 50-storey hotel tower, 642 ft (196 m), briefly the tallest building in Nevada. OSM: way/30424125, 196 m, 53 levels.",
+    "Measured, from OSM: the tower footprint, a north wing about 33 m wide and 75 m long, a south-west wing 31 m wide and a shorter east-south-east wing, meeting at a hub; the podium outline. A 6 m spike on the north end (49.9, 71.3), which no photo shows, is left out. USGS NAIP (public domain): the stepped roofs (leaning west in the image, so the footprint is OSM's), the round tempietto at the west corner and the grey dome over the atrium.",
+    "Photos (Wikimedia Commons):",
+    "\"Palazzo Las Vegas new resort dec 2007.jpg\", CC BY-SA 3.0, and \"Palazzo Hotel - panoramio.jpg\", Alen Ištoković, CC BY 3.0: the west faces from the Strip, the north wing tallest with its pavilion, the \"PALAZZO\" crown at the hub, the lower south-west wing, the cream belt a third of the way up, the tempietto on the podium;",
+    "\"EM PALAZZO HOTEL&CASINO (2845054044).jpg\", Eddie Maloney, CC BY-SA 2.0: from the north-east, the north end with its cream panel and the east wing's own pavilion;",
+    "\"The Palazzo at the Venetian Resort.jpg\", Julian Lupyan, CC0: the hub crown and the colours, tan piers and blue-grey glass;",
+    "\"Looking over the Las Vegas strip from our hotel room (5202630353)\", Roy Luck, CC BY 2.0: the north end close up, the belt and top band.",
+    "Estimated: the roofs (north wing 182 m with its pavilion to the published 196 m, hub crown 188 m, the other wings 172 m with pavilions to 182 m), read from the photos' relative heights; the belt at 66-80 m; the podium at 20 m; the tempietto (drum 20-28 m, dome to 33 m) and the atrium dome. The tops are drawn flat: the \"domed/arched crown pieces\" the brief mentions do not appear in any photo found, which all show flat-topped pavilions and a pedimented hub crown. Left out: signs, lettering, the unfinished St. Regis tower (a separate building), pools and gardens.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"lv-palazzo\", model \"lv-palazzo\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/lv-palazzo.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 242 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the lv-palazzo-glazing finish in the window colour."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

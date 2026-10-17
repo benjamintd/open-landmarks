@@ -1,0 +1,387 @@
+{
+  "id": "the-shops-at-crystals",
+  "name": "The Shops at Crystals",
+  "anchor": [
+    -115.1743244,
+    36.1078197
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 22912,
+      "sha256": "86527cf8289e02bd9a44ddbbe66dbf7e6b7247cc26cec1849305382d683f0854"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 22912,
+      "sha256": "86527cf8289e02bd9a44ddbbe66dbf7e6b7247cc26cec1849305382d683f0854"
+    }
+  },
+  "triangles": 327,
+  "boundsBlenderM": [
+    [
+      -118,
+      -105.5,
+      0
+    ],
+    [
+      86.2,
+      86.4,
+      35
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -115.175251,
+          36.108265
+        ],
+        [
+          -115.1752044,
+          36.1082661
+        ],
+        [
+          -115.1751904,
+          36.1082664
+        ],
+        [
+          -115.1751891,
+          36.1082403
+        ],
+        [
+          -115.1743229,
+          36.1083145
+        ],
+        [
+          -115.1743648,
+          36.1084641
+        ],
+        [
+          -115.1743041,
+          36.1084455
+        ],
+        [
+          -115.1742174,
+          36.1084189
+        ],
+        [
+          -115.1740356,
+          36.1083632
+        ],
+        [
+          -115.1739421,
+          36.1083346
+        ],
+        [
+          -115.1738086,
+          36.1083002
+        ],
+        [
+          -115.1737992,
+          36.108325
+        ],
+        [
+          -115.1737692,
+          36.1083191
+        ],
+        [
+          -115.1737226,
+          36.1083238
+        ],
+        [
+          -115.173677,
+          36.1083403
+        ],
+        [
+          -115.1736513,
+          36.1083561
+        ],
+        [
+          -115.1735972,
+          36.1083163
+        ],
+        [
+          -115.1735324,
+          36.1083421
+        ],
+        [
+          -115.1734722,
+          36.1083663
+        ],
+        [
+          -115.1734191,
+          36.108341
+        ],
+        [
+          -115.1733961,
+          36.1081179
+        ],
+        [
+          -115.1735254,
+          36.1078899
+        ],
+        [
+          -115.1733658,
+          36.1076881
+        ],
+        [
+          -115.1734534,
+          36.1075903
+        ],
+        [
+          -115.1733826,
+          36.1073407
+        ],
+        [
+          -115.1733939,
+          36.1072159
+        ],
+        [
+          -115.1734735,
+          36.1072281
+        ],
+        [
+          -115.1734396,
+          36.1068923
+        ],
+        [
+          -115.1738949,
+          36.1070657
+        ],
+        [
+          -115.1738825,
+          36.1070946
+        ],
+        [
+          -115.1739036,
+          36.1071107
+        ],
+        [
+          -115.1739674,
+          36.1071592
+        ],
+        [
+          -115.1740847,
+          36.1072448
+        ],
+        [
+          -115.1740752,
+          36.1071418
+        ],
+        [
+          -115.1740948,
+          36.1071491
+        ],
+        [
+          -115.1741503,
+          36.1071684
+        ],
+        [
+          -115.1741946,
+          36.1071829
+        ],
+        [
+          -115.1745282,
+          36.1072865
+        ],
+        [
+          -115.1745162,
+          36.1075286
+        ],
+        [
+          -115.1749859,
+          36.1076616
+        ],
+        [
+          -115.1751842,
+          36.1077229
+        ],
+        [
+          -115.1751847,
+          36.1077599
+        ],
+        [
+          -115.1752139,
+          36.1077701
+        ],
+        [
+          -115.1752563,
+          36.1077849
+        ],
+        [
+          -115.1753118,
+          36.1078043
+        ],
+        [
+          -115.1753084,
+          36.1075403
+        ],
+        [
+          -115.1755554,
+          36.1076877
+        ],
+        [
+          -115.1754766,
+          36.1078829
+        ],
+        [
+          -115.1754997,
+          36.1080357
+        ],
+        [
+          -115.1755177,
+          36.1081552
+        ],
+        [
+          -115.1756028,
+          36.1081842
+        ],
+        [
+          -115.1755509,
+          36.1082074
+        ],
+        [
+          -115.1756364,
+          36.108234
+        ],
+        [
+          -115.1756294,
+          36.1083532
+        ],
+        [
+          -115.1755101,
+          36.1083522
+        ],
+        [
+          -115.1755101,
+          36.1086003
+        ],
+        [
+          -115.1753534,
+          36.1086011
+        ],
+        [
+          -115.175317,
+          36.1085026
+        ],
+        [
+          -115.1753105,
+          36.1082637
+        ],
+        [
+          -115.175251,
+          36.108265
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 52134608,
+    "version": 21,
+    "timestamp": "2026-04-23T18:37:36Z",
+    "url": "https://www.openstreetmap.org/way/52134608"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q1281026",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Part of CityCenter, Las Vegas.jpg",
+      "author": "Supercarwaar",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Part_of_CityCenter,_Las_Vegas.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:The Shops at Crystals (from across the Strip).jpg",
+      "author": "Coolcaesar",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:The_Shops_at_Crystals_(from_across_the_Strip).jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Project CityCenter (2).jpg",
+      "author": "Tristan Surtel",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Project_CityCenter_(2).jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Project CityCenter in Las Vegas.jpg",
+      "author": "Tristan Surtel",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Project_CityCenter_in_Las_Vegas.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:The Veer Nima.JPG",
+      "author": "Zereshk",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:The_Veer_Nima.JPG",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Las Vegas Strip at The Crystals.jpg",
+      "author": "Tristan Surtel",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Las_Vegas_Strip_at_The_Crystals.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/lv-crystals.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "The Shops at Crystals, CityCenter, Las Vegas (Daniel Libeskind, exterior; David Rockwell, interior; 2009): a low mall roofed by a pile of shattered, steel-clad prisms, its tallest shards along the Strip, where they stand over the storefronts as leaning crystals: Prada's dark block at the north corner, the dark horn cantilevered over the entrance, the Louis Vuitton crystal, the Tiffany peak and the Gucci wedge at the south end. Procedural, CC0-1.0. bun generators/lv-crystals.ts",
+    "Map frame: x east, y north, z up, metres; bearing 0 (the plan has no one main axis). The origin is the area centroid of OSM way/52134608.",
+    "Published (Wikipedia, \"The Shops at Crystals\"): Libeskind's exterior of sharp angles and glass, \"19 separate roofs, uniquely shaped and overlapping in some cases\"; interior ceilings up to 120 ft. OSM gives height=30 for the whole outline.",
+    "Measured:",
+    "OSM way/52134608: the plan. It wraps round the foot of Veer Towers East (way/52134834), which the model steps round, so the tower keeps its own base;",
+    "USGS NAIP orthophoto (public domain): where the shards are, from their sunlit and shaded facets and the shadows of their ridges: the cluster of tall shards along the Strip, two more in the middle, a long ridged band across the north, a large steep facet in the west, and the broad plane south of the middle under Veer's shadow;",
+    "photos, for heights (against the 6 m storefronts and the palms): the Strip-front shards stand 26 to 33 m, the back roofs 16 to 22 m.",
+    "Photos (Wikimedia Commons):",
+    "a1 \"Part of CityCenter, Las Vegas.jpg\", Supercarwaar, CC BY-SA 4.0: from across the Strip, Tom Ford, Louis Vuitton, the horn and Prada;",
+    "p26 \"The Shops at Crystals (from across the Strip).jpg\", Coolcaesar, CC BY-SA 4.0: the south half, the Tiffany peak and Louis Vuitton;",
+    "a3 \"Project CityCenter (2).jpg\", Tristan Surtel, CC BY-SA 4.0: from high in the east, the whole roofscape;",
+    "p58 \"Project CityCenter in Las Vegas.jpg\", Tristan Surtel, CC BY-SA 4.0: the same, wider;",
+    "a7 \"The Veer Nima.JPG\", Zereshk, CC BY-SA 3.0: the Gucci wedge from the south-east;",
+    "p29 \"Las Vegas Strip at The Crystals.jpg\", Tristan Surtel, CC BY-SA 4.0: the front from the north.",
+    "Estimated: every height and slope (no published dimensions), the shards' outlines in plan (traced from the orthophoto's light and shade), the 17 m podium the back crystals rise from, the 6 m storefront band, which faces of the back crystals are glazed. The model draws a dozen bold crystals for the real nineteen roofs; the steel cladding's seams, the Louis Vuitton pattern and the storefronts' detail are left out. The building=roof canopy north of the mall (way/1422113646, over the drive) is left to the map.",
+    "The horn, Prada's perforated front and the skylight faces are one dark steel-grey finish; the glazed shop faces (Tiffany, Gucci, the storefront band) are `window`.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"lv-crystals\", model \"lv-crystals\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/lv-crystals.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 2103 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the lv-crystals-glazing finish in the window colour."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

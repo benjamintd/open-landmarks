@@ -1,0 +1,310 @@
+{
+  "id": "fremont-street-experience-canopy",
+  "name": "Fremont Street Experience canopy",
+  "anchor": [
+    -115.1440772,
+    36.1707045
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 208324,
+      "sha256": "c4626c93741f266d4ba6fec697ee790a4466b34af150d06218ef9d86819b06fd"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 208324,
+      "sha256": "c4626c93741f266d4ba6fec697ee790a4466b34af150d06218ef9d86819b06fd"
+    }
+  },
+  "triangles": 4600,
+  "boundsBlenderM": [
+    [
+      -192.856,
+      -112.403,
+      0
+    ],
+    [
+      194.537,
+      111.517,
+      33.1
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -115.1420562,
+          36.1697144
+        ],
+        [
+          -115.1419927,
+          36.1698114
+        ],
+        [
+          -115.1419276,
+          36.1699093
+        ],
+        [
+          -115.1420147,
+          36.169947
+        ],
+        [
+          -115.1421607,
+          36.1700102
+        ],
+        [
+          -115.14231,
+          36.1700749
+        ],
+        [
+          -115.1425012,
+          36.1701553
+        ],
+        [
+          -115.1425474,
+          36.1701753
+        ],
+        [
+          -115.1427627,
+          36.1702713
+        ],
+        [
+          -115.1427428,
+          36.170303
+        ],
+        [
+          -115.1427583,
+          36.1703097
+        ],
+        [
+          -115.1428507,
+          36.1703498
+        ],
+        [
+          -115.1429551,
+          36.1703951
+        ],
+        [
+          -115.1429741,
+          36.1703626
+        ],
+        [
+          -115.1437035,
+          36.1706854
+        ],
+        [
+          -115.1438986,
+          36.1707683
+        ],
+        [
+          -115.1439052,
+          36.1707659
+        ],
+        [
+          -115.1439743,
+          36.1707958
+        ],
+        [
+          -115.1440657,
+          36.1708354
+        ],
+        [
+          -115.1441146,
+          36.1708567
+        ],
+        [
+          -115.1445072,
+          36.1710268
+        ],
+        [
+          -115.1450303,
+          36.1712534
+        ],
+        [
+          -115.1450126,
+          36.1712804
+        ],
+        [
+          -115.1451124,
+          36.1713222
+        ],
+        [
+          -115.1452379,
+          36.1713766
+        ],
+        [
+          -115.1452556,
+          36.1713496
+        ],
+        [
+          -115.14571,
+          36.1715398
+        ],
+        [
+          -115.1460767,
+          36.1716933
+        ],
+        [
+          -115.1460797,
+          36.1716887
+        ],
+        [
+          -115.146083,
+          36.1716837
+        ],
+        [
+          -115.1461334,
+          36.1716055
+        ],
+        [
+          -115.1462087,
+          36.1714897
+        ],
+        [
+          -115.1458725,
+          36.171342
+        ],
+        [
+          -115.1454072,
+          36.1711414
+        ],
+        [
+          -115.1453026,
+          36.1710963
+        ],
+        [
+          -115.1444657,
+          36.1707355
+        ],
+        [
+          -115.1444566,
+          36.1707169
+        ],
+        [
+          -115.1443452,
+          36.1706724
+        ],
+        [
+          -115.1435782,
+          36.1703365
+        ],
+        [
+          -115.1429335,
+          36.1700495
+        ],
+        [
+          -115.1429101,
+          36.1700843
+        ],
+        [
+          -115.1428528,
+          36.1700594
+        ],
+        [
+          -115.1426855,
+          36.1699855
+        ],
+        [
+          -115.1425361,
+          36.1699223
+        ],
+        [
+          -115.1424436,
+          36.1698823
+        ],
+        [
+          -115.1420562,
+          36.1697144
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 1428180251,
+    "version": 5,
+    "timestamp": "2026-08-27T19:05:30Z",
+    "url": "https://www.openstreetmap.org/way/1428180251"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q1368842",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Fremont street during daytime.jpg",
+      "author": "Ypsilon from Finland",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Fremont_street_during_daytime.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Fremont Experience, Saturday morning in downtown Las Vegas 08.2020.jpg",
+      "author": "Ron Mader",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Fremont_Experience,_Saturday_morning_in_downtown_Las_Vegas_08.2020.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:The Fremont Street Experience.jpg",
+      "author": "Julian Lupyan",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:The_Fremont_Street_Experience.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Fremont Street Experience March 2020 1.jpg",
+      "author": "ZappaOMatic",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Fremont_Street_Experience_March_2020_1.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/lv-fremont-canopy.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "The Fremont Street Experience canopy (Jon Jerde, 1995; Viva Vision LED screen 2004, renewed 2019): the barrel vault over four blocks of Fremont Street on its rows of white columns. Only the canopy and its supports; the street and the casinos under it are the map's. Procedural, CC0-1.0. bun generators/lv-fremont-canopy.ts",
+    "Map frame: x east, y north, z up, metres, built turned: the vault runs along the model's y axis, and the placement bearing of 117.8° lays it along Fremont Street, +y towards Las Vegas Boulevard. The origin is the area centroid of OSM way/1428180251 (building=roof, the canopy outline).",
+    "Ground: Fremont Street falls about 3.7 m from Main Street down to Las Vegas Boulevard (USGS 3DEP, via the EPQS service: 616.5 m at the west end, 614.6 m mid-way, 612.8 m at the east end). y = 0 is the low east end, so the vault and the columns' branches rise with the street towards the west, and the columns run down to y = 0 everywhere, sinking into the slope at the uphill end.",
+    "Measured, from OSM way/1428180251: 422 m long and 26 m wide, straight to within a metre; it narrows to 24.5 m at its ends.",
+    "Published (Wikipedia, \"Fremont Street Experience\"): \"a barrel vault canopy, 90 ft (27 m) high at the peak and four blocks, or about 1,375 ft (419 m), in length\"; space frames erected in 1995 on support poles set into the street.",
+    "From photos: the vault's lower edges meet the casino fronts three or four storeys up (about 14 m, the vault's springing); a pair of white columns every bay, standing in from the shop fronts, each branching about 15 m up into struts that carry the screen; white arched trusses riding over the screen's back.",
+    "Photos (Wikimedia Commons):",
+    "day1 \"Fremont street during daytime.jpg\", Ypsilon from Finland, CC0: the vault, the columns' branches and the trusses on top, by day;",
+    "fam2 \"2015-11-04 11 10 42 View southeast down the Fremont Street Experience from Casino Center Boulevard…\", Famartin, CC BY-SA 4.0: the vault's section and the column rows;",
+    "mader \"Fremont Experience, Saturday morning in downtown Las Vegas 08.2020.jpg\", Ron Mader, CC BY-SA 2.0: the column pairs and their spacing under the new screen;",
+    "fse \"The Fremont Street Experience.jpg\", Julian Lupyan, CC0, and zappa \"Fremont Street Experience March 2020 1.jpg\", ZappaOMatic, CC BY-SA 4.0: the screen lit.",
+    "Estimated: the springing (14 m) and the section (a semicircle of 13 m radius, which lands on the published 27 m crown), the column spacing (30 m), the trusses' size and spacing (one every 15 m; the aerial shows a closer grid, too fine to draw), the depth of the screen and its frame (1 m). The underside, the screen itself, is `window-2` so it glows at night as Viva Vision does. Left out: the speaker rings, the cross gantries, the zip-line cables, the canopy's bump-outs at the cross streets.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"lv-fremont-canopy\", model \"lv-fremont-canopy\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/lv-fremont-canopy.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

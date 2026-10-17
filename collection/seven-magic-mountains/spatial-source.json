@@ -1,0 +1,254 @@
+{
+  "id": "seven-magic-mountains",
+  "anchor": [
+    -115.2709478,
+    35.838299
+  ],
+  "coordinateSystem": "Local metres about the anchor (equirectangular, WGS84 radius): X east, Y north, Z up. glTF export: X east, Y up, Z south. Heading already baked.",
+  "license": "ODbL-1.0",
+  "footprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -12.697283523728217,
+          -6.1782317392475985
+        ],
+        [
+          -11.975334211061805,
+          -15.629256507305964
+        ],
+        [
+          -11.488018426230292,
+          -16.72018751717321
+        ],
+        [
+          -9.809486275627442,
+          -17.454896156293994
+        ],
+        [
+          -9.628998948102057,
+          -17.37697251261905
+        ],
+        [
+          -8.401685117595107,
+          -16.72018751717321
+        ],
+        [
+          4.755841092092304,
+          -3.885050228209915
+        ],
+        [
+          5.279254344224307,
+          -2.9944943025302186
+        ],
+        [
+          10.901434610490357,
+          6.679169447343555
+        ],
+        [
+          11.316555464568204,
+          7.402746138045896
+        ],
+        [
+          11.352652930586252,
+          7.480669781720839
+        ],
+        [
+          11.478994060367,
+          8.337829860563259
+        ],
+        [
+          11.7677737846641,
+          14.081915585389455
+        ],
+        [
+          11.451920960212242,
+          15.195110493675532
+        ],
+        [
+          11.280457998550148,
+          15.406617525490551
+        ],
+        [
+          10.558508687166176,
+          16.096798368564645
+        ],
+        [
+          9.195829361015186,
+          16.208117859867833
+        ],
+        [
+          7.98656426351726,
+          15.161714646047283
+        ],
+        [
+          -12.200943371750972,
+          -4.452779631562371
+        ],
+        [
+          -12.53484492792942,
+          -4.953717340449301
+        ],
+        [
+          -12.661186057710166,
+          -5.7106898779889175
+        ],
+        [
+          -12.697283523728217,
+          -6.1782317392475985
+        ]
+      ]
+    ]
+  },
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -115.2710885,
+          35.8382435
+        ],
+        [
+          -115.2710805,
+          35.8381586
+        ],
+        [
+          -115.2710751,
+          35.8381488
+        ],
+        [
+          -115.2710565,
+          35.8381422
+        ],
+        [
+          -115.2710545,
+          35.8381429
+        ],
+        [
+          -115.2710409,
+          35.8381488
+        ],
+        [
+          -115.2708951,
+          35.8382641
+        ],
+        [
+          -115.2708893,
+          35.8382721
+        ],
+        [
+          -115.270827,
+          35.838359
+        ],
+        [
+          -115.2708224,
+          35.8383655
+        ],
+        [
+          -115.270822,
+          35.8383662
+        ],
+        [
+          -115.2708206,
+          35.8383739
+        ],
+        [
+          -115.2708174,
+          35.8384255
+        ],
+        [
+          -115.2708209,
+          35.8384355
+        ],
+        [
+          -115.2708228,
+          35.8384374
+        ],
+        [
+          -115.2708308,
+          35.8384436
+        ],
+        [
+          -115.2708459,
+          35.8384446
+        ],
+        [
+          -115.2708593,
+          35.8384352
+        ],
+        [
+          -115.271083,
+          35.838259
+        ],
+        [
+          -115.2710867,
+          35.8382545
+        ],
+        [
+          -115.2710881,
+          35.8382477
+        ],
+        [
+          -115.2710885,
+          35.8382435
+        ]
+      ]
+    ]
+  },
+  "parts": [
+    {
+      "osm": "node/4489080290",
+      "tags": {
+        "artist_name": "Ugo Rondinone",
+        "artist:wikidata": "Q599273",
+        "artist:wikipedia": "en:Ugo Rondinone",
+        "artwork_type": "sculpture",
+        "description": "Internationally renowned Swiss artist Ugo Rondinone’s Seven Magic Mountains is a large-scale site-specific public art installation located near Jean Dry Lake and Interstate 15, approximately ten miles south of Las Vegas, Nevada. Comprised of seven towers",
+        "image": "http://sevenmagicmountains.com/wp-content/uploads/2015/12/7MM-3-web.jpg",
+        "material": "stone",
+        "name": "Seven Magic Mountains",
+        "name:en": "Seven Magic Mountains",
+        "name:ru": "Семь магических гор",
+        "start_date": "2016-05-11",
+        "tourism": "artwork",
+        "website": "https://sevenmagicmountains.com/",
+        "wikipedia": "en:Seven Magic Mountains"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.19853606053440997,
+          1.3914936353575988
+        ]
+      },
+      "version": 31,
+      "timestamp": "2026-04-09T03:30:50Z"
+    }
+  ],
+  "osm": {
+    "type": "node",
+    "id": 4489080290,
+    "version": 31,
+    "timestamp": "2026-04-09T03:30:50Z",
+    "url": "https://www.openstreetmap.org/node/4489080290"
+  },
+  "additionalOsm": [],
+  "tags": {
+    "artist_name": "Ugo Rondinone",
+    "artist:wikidata": "Q599273",
+    "artist:wikipedia": "en:Ugo Rondinone",
+    "artwork_type": "sculpture",
+    "description": "Internationally renowned Swiss artist Ugo Rondinone’s Seven Magic Mountains is a large-scale site-specific public art installation located near Jean Dry Lake and Interstate 15, approximately ten miles south of Las Vegas, Nevada. Comprised of seven towers",
+    "image": "http://sevenmagicmountains.com/wp-content/uploads/2015/12/7MM-3-web.jpg",
+    "material": "stone",
+    "name": "Seven Magic Mountains",
+    "name:en": "Seven Magic Mountains",
+    "name:ru": "Семь магических гор",
+    "start_date": "2016-05-11",
+    "tourism": "artwork",
+    "website": "https://sevenmagicmountains.com/",
+    "wikipedia": "en:Seven Magic Mountains"
+  },
+  "note": "This landmark replaces no mapped building; the OSM feature cited is the one that names it."
+}

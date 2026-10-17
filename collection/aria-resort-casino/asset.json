@@ -1,0 +1,286 @@
+{
+  "id": "aria-resort-casino",
+  "name": "Aria Resort & Casino",
+  "anchor": [
+    -115.177226,
+    36.107191
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 181288,
+      "sha256": "1d157fa20b78545b9cdcae29d5aac745b437a55e0270edc0321b01085ecaf97e"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 181288,
+      "sha256": "1d157fa20b78545b9cdcae29d5aac745b437a55e0270edc0321b01085ecaf97e"
+    }
+  },
+  "triangles": 3389,
+  "boundsBlenderM": [
+    [
+      -117.888,
+      -71.14,
+      0
+    ],
+    [
+      144.754,
+      185.647,
+      183
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -115.1770078,
+          36.1077522
+        ],
+        [
+          -115.1770656,
+          36.1078789
+        ],
+        [
+          -115.1770937,
+          36.1078202
+        ],
+        [
+          -115.177229,
+          36.1078349
+        ],
+        [
+          -115.1772884,
+          36.1077229
+        ],
+        [
+          -115.1773255,
+          36.1076361
+        ],
+        [
+          -115.1773363,
+          36.1076109
+        ],
+        [
+          -115.1773677,
+          36.1075122
+        ],
+        [
+          -115.1773941,
+          36.1073962
+        ],
+        [
+          -115.1773987,
+          36.107363
+        ],
+        [
+          -115.1774061,
+          36.1072756
+        ],
+        [
+          -115.1774061,
+          36.1071506
+        ],
+        [
+          -115.1774003,
+          36.1070837
+        ],
+        [
+          -115.1773958,
+          36.1070323
+        ],
+        [
+          -115.177371,
+          36.1069173
+        ],
+        [
+          -115.1773265,
+          36.1067836
+        ],
+        [
+          -115.1772721,
+          36.1066689
+        ],
+        [
+          -115.1772061,
+          36.1065569
+        ],
+        [
+          -115.1771516,
+          36.1064662
+        ],
+        [
+          -115.1770493,
+          36.1065529
+        ],
+        [
+          -115.1770955,
+          36.1066182
+        ],
+        [
+          -115.1770196,
+          36.1066849
+        ],
+        [
+          -115.177074,
+          36.1067783
+        ],
+        [
+          -115.1771103,
+          36.1068823
+        ],
+        [
+          -115.17714,
+          36.1069796
+        ],
+        [
+          -115.1771615,
+          36.1070863
+        ],
+        [
+          -115.1771664,
+          36.1071863
+        ],
+        [
+          -115.177164,
+          36.1073153
+        ],
+        [
+          -115.1771491,
+          36.1074313
+        ],
+        [
+          -115.1771439,
+          36.107462
+        ],
+        [
+          -115.1771293,
+          36.107514
+        ],
+        [
+          -115.1771118,
+          36.1075607
+        ],
+        [
+          -115.1770947,
+          36.107606
+        ],
+        [
+          -115.1770484,
+          36.1076927
+        ],
+        [
+          -115.1770078,
+          36.1077522
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 134930092,
+    "version": 6,
+    "timestamp": "2026-04-23T18:37:36Z",
+    "url": "https://www.openstreetmap.org/way/134930092"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 134930090,
+      "version": 4,
+      "timestamp": "2026-04-23T18:37:36Z",
+      "url": "https://www.openstreetmap.org/way/134930090"
+    },
+    {
+      "type": "way",
+      "id": 134930089,
+      "version": 6,
+      "timestamp": "2026-04-23T18:37:36Z",
+      "url": "https://www.openstreetmap.org/way/134930089"
+    },
+    {
+      "type": "way",
+      "id": 134930091,
+      "version": 3,
+      "timestamp": "2026-04-23T18:37:36Z",
+      "url": "https://www.openstreetmap.org/way/134930091"
+    },
+    {
+      "type": "way",
+      "id": 134930088,
+      "version": 3,
+      "timestamp": "2026-04-23T18:37:36Z",
+      "url": "https://www.openstreetmap.org/way/134930088"
+    }
+  ],
+  "wikidata": "Q654279",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Aria Las Vegas December 2013.jpg",
+      "author": "King of Hearts",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Aria_Las_Vegas_December_2013.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Project CityCenter in Las Vegas.jpg",
+      "author": "Tristan Surtel",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Project_CityCenter_in_Las_Vegas.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:CityCenter - East Pano 1 - 2011-06-04.jpg",
+      "author": "Cygnusloop99",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:CityCenter_-_East_Pano_1_-_2011-06-04.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/lv-aria.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Aria Resort & Casino, Las Vegas: the two curved silver-blue glass hotel towers set back to back, each with its pale louvred crown and a taller slab at its ends past a slot, and their lower glass wings. Procedural, CC0-1.0. bun generators/lv-aria.ts",
+    "Also the curved-tower helper this batch's Vdara uses.",
+    "Map frame: x east, y north, z up, metres. Bearing 0: drawn in OSM's own orientation. The origin is the area centroid of the main tower's outline, way/134930092 (36.107191, -115.177226).",
+    "Published (Wikipedia, \"Aria Resort and Casino\"; Pelli Clarke Pelli, opened 2009): \"two curvilinear glass towers\"; the main one 50 storeys (numbered to 61), the other ten storeys shorter. OSM: way/134930092, 183 m, and way/134930090, 163 m; the lower wings way/134930089 and way/134930091, 65 m, and way/134930088, 100 m.",
+    "Measured, from OSM: both towers are crescents about 21.5 m deep. The main tower's faces fit circles about one centre (138.5, 2.7) within 0.4 m, radius 155 m (the convex west face) and 133.6 m (the concave east face), running 152.5° to 208.5°, 150 m long. The second tower, to the north-east, bends the other way: radii 140 m (west) and 161.7 m (east) about (-88, 159), from -35° to 9.5°. Both outlines end in steps, where the end slabs stand past a slot.",
+    "Photos (Wikimedia Commons):",
+    "\"Aria Las Vegas December 2013.jpg\", King of Hearts, CC BY-SA 3.0: from the south-east, high up, the main tower's concave east face, its crown and the slot and taller slab at its south end; the second tower behind;",
+    "\"Project CityCenter in Las Vegas.jpg\", Tristan Surtel, CC BY-SA 4.0: from the east, both towers, the pale louvred crowns, the silver-blue glass with its pale floor lines, the lower wings;",
+    "\"CityCenter - East Pano 1 - 2011-06-04.jpg\" and \"East Pano 2\", Cygnusloop99, CC BY-SA 3.0: from the Strip, the curved tops;",
+    "\"Daytime aerial view of the Strip ... LCCN2010630596\", Carol M. Highsmith, public domain: from the south, the two towers' tops.",
+    "Estimated: the crown band (the top 12 m), the end slabs 5 m above the roof, the slot 3 m deep, the floor lines every four storeys (14 m). Left out: the casino podium (way/52175576, left on the map), the \"Aria\" signs, the porte-cochère canopies.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"lv-aria\", model \"lv-aria\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/lv-aria.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

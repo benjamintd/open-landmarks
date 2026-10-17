@@ -1,0 +1,203 @@
+{
+  "id": "resorts-world-las-vegas",
+  "name": "Resorts World Las Vegas",
+  "anchor": [
+    -115.166194,
+    36.134767
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 15112,
+      "sha256": "72563eef9e0dcab51fa823af63a797f04129795fcefee9bb6ab71f64fe100b3b"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 15112,
+      "sha256": "72563eef9e0dcab51fa823af63a797f04129795fcefee9bb6ab71f64fe100b3b"
+    }
+  },
+  "triangles": 247,
+  "boundsBlenderM": [
+    [
+      -123.976,
+      -82.585,
+      0
+    ],
+    [
+      101.783,
+      51.392,
+      215.4
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -115.1650746,
+          36.1342079
+        ],
+        [
+          -115.1651926,
+          36.1340303
+        ],
+        [
+          -115.1654179,
+          36.1341343
+        ],
+        [
+          -115.1657129,
+          36.1343249
+        ],
+        [
+          -115.1659275,
+          36.1345372
+        ],
+        [
+          -115.1661528,
+          36.1348361
+        ],
+        [
+          -115.1662386,
+          36.1349964
+        ],
+        [
+          -115.1663405,
+          36.1350354
+        ],
+        [
+          -115.1667267,
+          36.135044
+        ],
+        [
+          -115.16707,
+          36.1349921
+        ],
+        [
+          -115.1674508,
+          36.1348794
+        ],
+        [
+          -115.1675635,
+          36.1350267
+        ],
+        [
+          -115.1670271,
+          36.135187
+        ],
+        [
+          -115.1666623,
+          36.1352217
+        ],
+        [
+          -115.1663244,
+          36.1352043
+        ],
+        [
+          -115.166024,
+          36.1350614
+        ],
+        [
+          -115.1658899,
+          36.1348448
+        ],
+        [
+          -115.1657022,
+          36.1346412
+        ],
+        [
+          -115.1654769,
+          36.1344202
+        ],
+        [
+          -115.1650746,
+          36.1342079
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 316303708,
+    "version": 8,
+    "timestamp": "2024-02-17T09:09:50Z",
+    "url": "https://www.openstreetmap.org/way/316303708"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q14705265",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Resorts World Las Vegas May 2022.jpg",
+      "author": "Logan Frick",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Resorts_World_Las_Vegas_May_2022.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Resorts World Las Vegas (Sep 2021).jpg",
+      "author": "Tomás Del Coro",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Resorts_World_Las_Vegas_(Sep_2021).jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Conrad Las Vegas at Resorts World February 2023 HDR.jpg",
+      "author": "King of Hearts",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Conrad_Las_Vegas_at_Resorts_World_February_2023_HDR.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Resorts World Las Vegas 2026-05-14 1.jpg",
+      "author": "Yelderberry (talk)",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Resorts_World_Las_Vegas_2026-05-14_1.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/lv-resorts-world.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Resorts World Las Vegas: the hotel tower (2021), two curved wings of copper-red glass, the Hilton's and the Conrad's (with Crockfords), held between tall red piers at their ends and where they meet. Procedural, CC0-1.0. bun generators/lv-resorts-world.ts",
+    "Map frame: x east, y north, z up, metres. Bearing 0: the plan is drawn in OSM's own orientation. The origin is the area centroid of the tower's outline, way/316303708 (36.134767, -115.166194).",
+    "Published (Wikipedia, \"Resorts World Las Vegas\"): opened June 2021; the tower rose on the steel left by Boyd's unfinished Echelon; 59 storeys, about 3,500 rooms in three hotels: Hilton, Conrad and Crockfords. The red-framed curved towers are its identity. OSM tags way/316303708 height=205.4, building:levels=57.",
+    "Measured, from OSM way/316303708: one slab about 20 m deep, bent at (−9, 37): a west wing (the Conrad, 112 m long, its north face convex) and a south-east wing (the Hilton, 130 m long, its north-east face concave). The USGS NAIP orthophoto (public domain) shows the same bent slab on the roof.",
+    "Photos (Wikimedia Commons):",
+    "\"Resorts World Las Vegas May 2022.jpg\", Logan Frick, CC BY-SA 4.0: from the Strip to the north-east: the Hilton wing's concave face on the left, the Conrad's sweeping face on the right, a red pier at each outer end and a narrower red pier between them standing above both roofs;",
+    "\"Resorts World Las Vegas (Sep 2021).jpg\", Tomás Del Coro, CC BY-SA 2.0: from the north, the same three piers, the Conrad glass copper in sun;",
+    "\"Conrad Las Vegas at Resorts World February 2023 HDR.jpg\", King of Hearts, CC BY-SA 4.0, and \"Resorts World Las Vegas 2026-05-14 1.jpg\", Yelderberry, CC BY-SA 4.0: the red piers and the dark glass from the Strip, by day and at night (the glass is lit by rooms: a `window` wall).",
+    "Measured from the photos (scaled by the tower's height): the piers about 12 to 14 m wide; the middle pier about 10 m above the roofs, the end piers about 2 m. Estimated: the piers' depth (drawn wrapping the slab and 0.8 m proud of it), the glass colour (a dark maroon-copper, pulled up to the palette's lightness), the red (a saturated signal red, pulled to the palette's lightness), the bevels. The Hilton face's LED screen, the signs and the casino podium (way/972129019, whose heights OSM does not record) are left out.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"lv-resorts-world\", model \"lv-resorts-world\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/lv-resorts-world.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

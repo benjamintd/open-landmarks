@@ -1,0 +1,308 @@
+{
+  "id": "wynn-las-vegas",
+  "name": "Wynn Las Vegas",
+  "anchor": [
+    -115.165516,
+    36.126665
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 13,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 85256,
+      "sha256": "eac97ab72a73d0985dbecdc6d5d384774eb8121856174899d9c489af970bc3e8"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 85256,
+      "sha256": "eac97ab72a73d0985dbecdc6d5d384774eb8121856174899d9c489af970bc3e8"
+    }
+  },
+  "triangles": 1556,
+  "boundsBlenderM": [
+    [
+      -44.724,
+      -116.264,
+      0
+    ],
+    [
+      24.546,
+      112.285,
+      190
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -115.1656325,
+          36.1256892
+        ],
+        [
+          -115.1655574,
+          36.1256697
+        ],
+        [
+          -115.1655735,
+          36.1256502
+        ],
+        [
+          -115.1655467,
+          36.125635
+        ],
+        [
+          -115.1655118,
+          36.1256242
+        ],
+        [
+          -115.1654796,
+          36.125622
+        ],
+        [
+          -115.1654608,
+          36.1256242
+        ],
+        [
+          -115.1654474,
+          36.125648
+        ],
+        [
+          -115.1653911,
+          36.1256307
+        ],
+        [
+          -115.1653321,
+          36.1257607
+        ],
+        [
+          -115.165308,
+          36.1258387
+        ],
+        [
+          -115.1652865,
+          36.1259405
+        ],
+        [
+          -115.1652758,
+          36.1259968
+        ],
+        [
+          -115.1652704,
+          36.126051
+        ],
+        [
+          -115.165257,
+          36.1261572
+        ],
+        [
+          -115.1652463,
+          36.1262677
+        ],
+        [
+          -115.1652516,
+          36.1263716
+        ],
+        [
+          -115.1652597,
+          36.1264778
+        ],
+        [
+          -115.1652731,
+          36.1265861
+        ],
+        [
+          -115.1652919,
+          36.1266923
+        ],
+        [
+          -115.165316,
+          36.1268071
+        ],
+        [
+          -115.1653428,
+          36.1269046
+        ],
+        [
+          -115.1653804,
+          36.1270043
+        ],
+        [
+          -115.1654206,
+          36.1271126
+        ],
+        [
+          -115.1654528,
+          36.1271841
+        ],
+        [
+          -115.1654646,
+          36.1272042
+        ],
+        [
+          -115.1655225,
+          36.1273032
+        ],
+        [
+          -115.1655923,
+          36.1273985
+        ],
+        [
+          -115.1656566,
+          36.127496
+        ],
+        [
+          -115.1657291,
+          36.1275849
+        ],
+        [
+          -115.1658042,
+          36.1276802
+        ],
+        [
+          -115.1658659,
+          36.1276455
+        ],
+        [
+          -115.1658846,
+          36.1276672
+        ],
+        [
+          -115.1659785,
+          36.1276152
+        ],
+        [
+          -115.1659624,
+          36.1275892
+        ],
+        [
+          -115.1660161,
+          36.1275589
+        ],
+        [
+          -115.165941,
+          36.1274635
+        ],
+        [
+          -115.1658793,
+          36.1273855
+        ],
+        [
+          -115.1658122,
+          36.1272902
+        ],
+        [
+          -115.1657612,
+          36.1272144
+        ],
+        [
+          -115.1657103,
+          36.1271234
+        ],
+        [
+          -115.1656593,
+          36.1270324
+        ],
+        [
+          -115.1656245,
+          36.1269458
+        ],
+        [
+          -115.1655896,
+          36.1268504
+        ],
+        [
+          -115.1655601,
+          36.1267551
+        ],
+        [
+          -115.1655359,
+          36.1266576
+        ],
+        [
+          -115.1655172,
+          36.126558
+        ],
+        [
+          -115.1655091,
+          36.1264583
+        ],
+        [
+          -115.1655064,
+          36.1263651
+        ],
+        [
+          -115.1655064,
+          36.1262655
+        ],
+        [
+          -115.1655172,
+          36.1261702
+        ],
+        [
+          -115.1655252,
+          36.1260727
+        ],
+        [
+          -115.165544,
+          36.1259708
+        ],
+        [
+          -115.1655654,
+          36.1258842
+        ],
+        [
+          -115.1655976,
+          36.1257889
+        ],
+        [
+          -115.1656325,
+          36.1256892
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 205501268,
+    "version": 13,
+    "timestamp": "2025-12-26T19:05:41Z",
+    "url": "https://www.openstreetmap.org/way/205501268"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q1309059",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/lv-wynn.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Wynn Las Vegas: the curved bronze-glass hotel tower (2005, DeRuyter Butler with Jon Jerde). Procedural, CC0-1.0. bun generators/lv-wynn.ts",
+    "Also the kit shared by this batch's curved towers (Encore, Fontainebleau, Resorts World, Trump): arc slabs, bevelled prisms, floor stripes and window bands. Importing this file builds nothing; running it writes models/lv-wynn.glb.",
+    "The Wynn's own header is below the kit.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"lv-wynn\", model \"lv-wynn\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/lv-wynn.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

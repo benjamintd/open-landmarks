@@ -1,0 +1,393 @@
+{
+  "id": "the-venetian",
+  "name": "The Venetian",
+  "anchor": [
+    -115.1692833,
+    36.1217638
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 228972,
+      "sha256": "64883ea134cecd5c7a40ca9f285ef730ae00876a80f71fbf0f244dede746bc03"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 228972,
+      "sha256": "64883ea134cecd5c7a40ca9f285ef730ae00876a80f71fbf0f244dede746bc03"
+    }
+  },
+  "triangles": 4462,
+  "boundsBlenderM": [
+    [
+      -194.397,
+      -181.796,
+      0
+    ],
+    [
+      106.291,
+      167.491,
+      151.4
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -115.1704253,
+          36.1232816
+        ],
+        [
+          -115.1697919,
+          36.1232537
+        ],
+        [
+          -115.1696532,
+          36.1232476
+        ],
+        [
+          -115.1680983,
+          36.1232201
+        ],
+        [
+          -115.1681454,
+          36.121985
+        ],
+        [
+          -115.1681521,
+          36.1218467
+        ],
+        [
+          -115.1681707,
+          36.1210547
+        ],
+        [
+          -115.1681743,
+          36.1209112
+        ],
+        [
+          -115.1681757,
+          36.1208578
+        ],
+        [
+          -115.168293,
+          36.1208579
+        ],
+        [
+          -115.1684176,
+          36.120858
+        ],
+        [
+          -115.1687604,
+          36.1211438
+        ],
+        [
+          -115.1687627,
+          36.120969
+        ],
+        [
+          -115.1687084,
+          36.1209683
+        ],
+        [
+          -115.1687104,
+          36.120918
+        ],
+        [
+          -115.1686721,
+          36.1209164
+        ],
+        [
+          -115.1686733,
+          36.1208665
+        ],
+        [
+          -115.1686445,
+          36.120866
+        ],
+        [
+          -115.1686475,
+          36.1207786
+        ],
+        [
+          -115.1682167,
+          36.1207725
+        ],
+        [
+          -115.1682229,
+          36.1202746
+        ],
+        [
+          -115.1682235,
+          36.1202262
+        ],
+        [
+          -115.1682245,
+          36.1201563
+        ],
+        [
+          -115.1682257,
+          36.1201194
+        ],
+        [
+          -115.1687573,
+          36.1201242
+        ],
+        [
+          -115.1702478,
+          36.1201356
+        ],
+        [
+          -115.170246,
+          36.1201787
+        ],
+        [
+          -115.170245,
+          36.1202371
+        ],
+        [
+          -115.1702434,
+          36.120306
+        ],
+        [
+          -115.1702307,
+          36.1208685
+        ],
+        [
+          -115.1702285,
+          36.1209682
+        ],
+        [
+          -115.1702229,
+          36.121166
+        ],
+        [
+          -115.1702176,
+          36.1213521
+        ],
+        [
+          -115.170207,
+          36.1216632
+        ],
+        [
+          -115.170517,
+          36.1216686
+        ],
+        [
+          -115.170516,
+          36.1216893
+        ],
+        [
+          -115.1705142,
+          36.1217253
+        ],
+        [
+          -115.1705128,
+          36.1217526
+        ],
+        [
+          -115.170508,
+          36.1218489
+        ],
+        [
+          -115.1703057,
+          36.1218446
+        ],
+        [
+          -115.1703037,
+          36.1219045
+        ],
+        [
+          -115.170504,
+          36.1219093
+        ],
+        [
+          -115.1704967,
+          36.1222086
+        ],
+        [
+          -115.1704895,
+          36.1225004
+        ],
+        [
+          -115.1702653,
+          36.1224968
+        ],
+        [
+          -115.1702633,
+          36.1225416
+        ],
+        [
+          -115.1703883,
+          36.1225349
+        ],
+        [
+          -115.1704585,
+          36.122813
+        ],
+        [
+          -115.1704897,
+          36.1228069
+        ],
+        [
+          -115.1705239,
+          36.1227587
+        ],
+        [
+          -115.1707693,
+          36.1228617
+        ],
+        [
+          -115.1707194,
+          36.1229414
+        ],
+        [
+          -115.1706928,
+          36.1229839
+        ],
+        [
+          -115.1706446,
+          36.1229807
+        ],
+        [
+          -115.1704253,
+          36.1232816
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "relation",
+    "id": 7770314,
+    "version": 7,
+    "timestamp": "2024-11-25T01:33:33Z",
+    "url": "https://www.openstreetmap.org/relation/7770314"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 30618090,
+      "version": 17,
+      "timestamp": "2026-04-24T21:24:22Z",
+      "url": "https://www.openstreetmap.org/way/30618090"
+    },
+    {
+      "type": "way",
+      "id": 111322067,
+      "version": 14,
+      "timestamp": "2026-05-26T12:53:10Z",
+      "url": "https://www.openstreetmap.org/way/111322067"
+    },
+    {
+      "type": "way",
+      "id": 43875964,
+      "version": 5,
+      "timestamp": "2017-11-29T02:51:33Z",
+      "url": "https://www.openstreetmap.org/way/43875964"
+    },
+    {
+      "type": "way",
+      "id": 543728945,
+      "version": 4,
+      "timestamp": "2025-08-04T07:00:26Z",
+      "url": "https://www.openstreetmap.org/way/543728945"
+    }
+  ],
+  "wikidata": "Q1049209",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:The Venetian Las Vegas (3).jpg",
+      "author": "Patrick Pelster",
+      "license": "CC BY-SA 3.0 de",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:The_Venetian_Las_Vegas_(3).jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Venetian Las Vegas, NV.jpg",
+      "author": "Ricky Barnard",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Venetian_Las_Vegas,_NV.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Campanile Tower at The Venetian, Las Vegas.jpg",
+      "author": "Supercarwaar",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Campanile_Tower_at_The_Venetian,_Las_Vegas.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Las Vegas. Campanile di San Marco del The Venetian Hotel.jpg",
+      "author": "André Corboz",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Las_Vegas._Campanile_di_San_Marco_del_The_Venetian_Hotel.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Rialto Bridge at the Venetian.jpg",
+      "author": "Andrek02",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Rialto_Bridge_at_the_Venetian.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Las Vegas (Nevada, USA), The Venetian -- 2012 -- 6331.jpg",
+      "author": "Dietmar Rabich",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Las_Vegas_(Nevada,_USA),_The_Venetian_--_2012_--_6331.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/lv-venetian.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "The Venetian, Las Vegas: the street-front Venice replica (St Mark's Campanile, the Rialto Bridge, the Doge's Palace, the clock tower) and the hotel towers behind it, the three-winged Venetian tower and the U-shaped Venezia tower, on the casino podium. Procedural, CC0-1.0. bun generators/lv-venetian.ts",
+    "The kit at the top (`prism`, `panels`, `box`, ...) is shared with lv-palazzo.ts and lv-treasure-island.ts; the model itself is built only when this file is run, not when it is imported.",
+    "Map frame: x east, y north, z up, metres. Bearing 0: everything is drawn in OSM's own orientation. The origin is the area centroid of the resort outline (relation/7770314, outer way/115774497).",
+    "Published (Wikipedia, \"The Venetian Las Vegas\"; Stubbins Associates and WATG, 1999): the street front is modelled on the Doge's Palace with a recreation of the Rialto Bridge and a 315 ft (96 m) replica of St Mark's Campanile topped by Gabriel; the hotel tower is 35 storeys and 480 ft (146 m; OSM 145); the 12-storey Venezia tower (2003) stands on the 10-storey parking garage (OSM: 24 levels, 99 m).",
+    "Measured, from OSM: the resort outline with its courtyard hole; the Venetian tower (way/30618090), a west wing and two wings to the north-east and south-east, each about 32 m wide; the Venezia tower and garage (way/111322067), a U open to the north; the campanile's base (way/43875964), 16.4 m square, turned 8.8 degrees; the small building at the bridge's south-west foot (way/543728945). USGS NAIP (public domain) gives the Doge's Palace block (30 x 65 m, west face on the outline), the Rialto's position and axis (56 m long, 16 m wide, bearing 60), the lagoon with the clock tower at its north end, and the white roofs.",
+    "Photos (Wikimedia Commons):",
+    "\"The Venetian Las Vegas (3).jpg\", Patrick Pelster, CC BY-SA 3.0 de, and \"Venetian Las Vegas, NV.jpg\", Ricky Barnard, CC BY 2.0: the street front and towers from the north and north-west, campanile proportions, the salmon walls with blue glass, cream crown and wing-end pavilions;",
+    "\"Campanile Tower at The Venetian, Las Vegas.jpg\", Supercarwaar, CC BY-SA 4.0, and \"Las Vegas. Campanile di San Marco del The Venetian Hotel.jpg\", André Corboz, CC BY-SA 4.0: shaft, white belfry, red attic, green spire, gold angel, the base with its balustrade;",
+    "\"Rialto Bridge at the Venetian.jpg\", Andrek02, CC0: the bridge over the drive, its arch, arcades and central portico;",
+    "\"The Venetian Hotel on the Strip ... LCCN2010630614\", Carol M. Highsmith, public domain: the clock tower behind the lagoon;",
+    "\"Side of the Venetian Las Vegas's Replica of the Doge's Palace\", Julian Lupyan, CC0, and \"Las Vegas (Nevada, USA), The Venetian -- 2012 -- 6331.jpg\", Dietmar Rabich, CC BY-SA 4.0: the palace's two arcades, the pink-and-white upper wall, the tower's glass and stone.",
+    "Estimated: the podium at 16 m; the Doge's Palace at 24 m with its arcades at 0-6 and 6-12 m; the campanile's stages (shaft to 51 m, belfry, attic, spire from 72 m) from the photos against the published 96 m, the shaft drawn 15% broader than life (14.5 m) so it reads at phone size; the Rialto's heights (arch 8 m, deck 10 m, portico 18 m); the clock tower (13 x 10 m, 30 m) and its position; the red-roofed palazzo south of the Doge's Palace; the crowns (cream above 133 m on the main tower, 90 m on Venezia) and pavilions (14 m deep, 5 m above the roof). Left out: the canal water, the lagoon columns, gondola poles, statues, signs and lettering.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"lv-venetian\", model \"lv-venetian\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/lv-venetian.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 366 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the lv-venetian-glazing finish in the window colour.",
+    "To fit six materials, folded lv-venetian-venetian-rose into trim (ΔE 23.5)."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

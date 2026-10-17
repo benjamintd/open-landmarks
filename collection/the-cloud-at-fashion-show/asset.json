@@ -1,0 +1,329 @@
+{
+  "id": "the-cloud-at-fashion-show",
+  "name": "The Cloud at Fashion Show",
+  "anchor": [
+    -115.1688864,
+    36.1269765
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 97640,
+      "sha256": "4699d545dfb6b44c16930ec1dd9b75eca9e25a8b2372eafe50ea1c797792a9f0"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 97640,
+      "sha256": "4699d545dfb6b44c16930ec1dd9b75eca9e25a8b2372eafe50ea1c797792a9f0"
+    }
+  },
+  "triangles": 1900,
+  "boundsBlenderM": [
+    [
+      -41.57,
+      -64.722,
+      0
+    ],
+    [
+      41.57,
+      64.722,
+      54.41
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -115.169019,
+          36.1264769
+        ],
+        [
+          -115.1689904,
+          36.1264962
+        ],
+        [
+          -115.1689133,
+          36.1265688
+        ],
+        [
+          -115.1688708,
+          36.126613
+        ],
+        [
+          -115.1687825,
+          36.1267047
+        ],
+        [
+          -115.1686518,
+          36.1268742
+        ],
+        [
+          -115.1685512,
+          36.1270508
+        ],
+        [
+          -115.1684828,
+          36.1272176
+        ],
+        [
+          -115.1684533,
+          36.1272907
+        ],
+        [
+          -115.1684345,
+          36.1273768
+        ],
+        [
+          -115.1684388,
+          36.1274194
+        ],
+        [
+          -115.1684456,
+          36.1274858
+        ],
+        [
+          -115.1684545,
+          36.1275036
+        ],
+        [
+          -115.168465,
+          36.1275247
+        ],
+        [
+          -115.1684878,
+          36.1275439
+        ],
+        [
+          -115.1685157,
+          36.1275572
+        ],
+        [
+          -115.1685626,
+          36.1275634
+        ],
+        [
+          -115.1685928,
+          36.1275577
+        ],
+        [
+          -115.1686159,
+          36.1275491
+        ],
+        [
+          -115.1686736,
+          36.1275255
+        ],
+        [
+          -115.1687135,
+          36.1275036
+        ],
+        [
+          -115.1687732,
+          36.127463
+        ],
+        [
+          -115.1688352,
+          36.1274074
+        ],
+        [
+          -115.1688972,
+          36.1273476
+        ],
+        [
+          -115.1689747,
+          36.1272685
+        ],
+        [
+          -115.1691054,
+          36.127099
+        ],
+        [
+          -115.1691715,
+          36.1269974
+        ],
+        [
+          -115.1692136,
+          36.1269181
+        ],
+        [
+          -115.1692673,
+          36.1268044
+        ],
+        [
+          -115.1692906,
+          36.1267449
+        ],
+        [
+          -115.1693219,
+          36.126629
+        ],
+        [
+          -115.1693231,
+          36.1265881
+        ],
+        [
+          -115.1693128,
+          36.1265822
+        ],
+        [
+          -115.1693128,
+          36.1265758
+        ],
+        [
+          -115.1693225,
+          36.1265711
+        ],
+        [
+          -115.1693224,
+          36.1265483
+        ],
+        [
+          -115.1693331,
+          36.126548
+        ],
+        [
+          -115.1693324,
+          36.1265335
+        ],
+        [
+          -115.169327,
+          36.1264577
+        ],
+        [
+          -115.1693146,
+          36.1264287
+        ],
+        [
+          -115.1692915,
+          36.1264079
+        ],
+        [
+          -115.1692721,
+          36.126396
+        ],
+        [
+          -115.1692474,
+          36.1263893
+        ],
+        [
+          -115.1692134,
+          36.1263881
+        ],
+        [
+          -115.1691752,
+          36.1263954
+        ],
+        [
+          -115.1691359,
+          36.1264101
+        ],
+        [
+          -115.1690803,
+          36.1264355
+        ],
+        [
+          -115.169019,
+          36.1264769
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "relation",
+    "id": 19447588,
+    "version": 2,
+    "timestamp": "2025-08-12T01:25:10Z",
+    "url": "https://www.openstreetmap.org/relation/19447588"
+  },
+  "additionalOsm": [],
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Fashion Show Mall Las Vegas 2019.jpg",
+      "author": "Steven Lek",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Fashion_Show_Mall_Las_Vegas_2019.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Fashionshowmall.jpg",
+      "author": "Coolcaesar at English Wikipedia",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Fashionshowmall.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Las Vegas Shopping P4220702.jpg",
+      "author": "Alexander Migl",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Las_Vegas_Shopping_P4220702.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Fashion Show Mall - Las Vegas.jpg",
+      "author": "APK",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Fashion_Show_Mall_-_Las_Vegas.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Fashion Show Las Vegas - tomasdelcoro.jpg",
+      "author": "Tomás Del Coro",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Fashion_Show_Las_Vegas_-_tomasdelcoro.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/lv-fashion-show-cloud.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "The Cloud, Fashion Show Las Vegas (2003): the tilted, saucer-shaped steel canopy over the mall's plaza on the Strip, held up on two banded drum columns that pierce it and carry lattice masts, the south one topped by the FASHION SHOW sign. Only the Cloud and its supports; the mall is the map's. Procedural, CC0-1.0. bun generators/lv-fashion-show-cloud.ts",
+    "Map frame: x across, y along the Cloud's long axis, z up, metres. The placement's bearing (29.3°) turns +y to the north-north-east tip. The origin is the area centroid of the OSM outline (relation/19447588, building:part=roof, roof:shape=round, outer way/402792174).",
+    "Published (Wikipedia, \"Fashion Show Las Vegas\", Plaza and Cloud): 479 ft (146 m) long and 160 ft (48.8 m) wide; \"situated at an angle, its lowest and highest point above the ground is 96 and 128 feet\" (29.3 and 39.0 m); mostly steel, held by cables.",
+    "Measured:",
+    "OSM: the outline is an ellipse 145.3 × 47.7 m on a 29.3° axis (fits x²/a² + y²/b² = 1 to within a metre); its two inner rings, ~15 m square holes where the columns pass through, centred 38.4 m north and 39.0 m south of the middle and 3–4 m east of the axis, turned 31° to it;",
+    "USGS NAIP orthophoto (public domain): the same ellipse and holes;",
+    "photos, for which end is high: from the Wynn frontage across the Strip (c4, c6) the south end is clearly higher and nearer; the masts rise about 9 m above the disc, the drums are about 11 m across, the underside is a shallow bowl under a thin rim, the top nearly flat.",
+    "Photos (Wikimedia Commons):",
+    "c4 \"Fashion Show Mall Las Vegas 2019.jpg\", Steven Lek, CC BY-SA 4.0: from the east across the Strip, south to the left;",
+    "c6 \"Fashionshowmall.jpg\", Coolcaesar, CC BY-SA 3.0: from the east;",
+    "c7 \"Las Vegas Shopping P4220702.jpg\", Alexander Migl, CC BY-SA 4.0: from the south-east, under the south end;",
+    "c9 \"Fashion Show Mall - Las Vegas.jpg\", APK, CC BY-SA 4.0: square on from the east;",
+    "c11 \"Fashion Show Las Vegas - tomasdelcoro.jpg\", Tomás Del Coro, CC BY-SA 2.0: the underside and the north column.",
+    "Estimated: which way the tilt runs (along the long axis, south end high; the photos show no cross-tilt), the bowl's depth (4.5 m) and the rim's thickness (1.5 m), the drums' 11 m width (photos c6, c9, against the disc's width), the masts' height (9–10 m) and the sign's size. The rim follows the published heights: its top 39.0 m at the south tip, its underside 29.3 m at the north tip; the bowl dips about a metre lower. Left out: the cables, the column's fine louvre rings, the lettering of the sign (a plain panel here), and the holes round the columns (the drums fill most of them).",
+    "The LED screens wrapping the lower columns on the Strip side are `window`, so they glow at night as the real screens do.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"lv-fashion-show-cloud\", model \"lv-fashion-show-cloud\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/lv-fashion-show-cloud.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 528 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the lv-fashion-show-cloud-glazing finish in the window colour."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

@@ -1,0 +1,188 @@
+{
+  "id": "welcome-to-fabulous-las-vegas-sign",
+  "name": "Welcome to Fabulous Las Vegas sign",
+  "anchor": [
+    -115.1727735,
+    36.0820593
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 128724,
+      "sha256": "192aedb7c1d4257ae3216d6ea9570e947c53605ac75a7bb8c490c58b0859039f"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 128724,
+      "sha256": "192aedb7c1d4257ae3216d6ea9570e947c53605ac75a7bb8c490c58b0859039f"
+    }
+  },
+  "triangles": 2624,
+  "boundsBlenderM": [
+    [
+      -3.17,
+      -0.545,
+      0
+    ],
+    [
+      3.17,
+      0.524,
+      7.85
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -115.1728087,
+          36.0820591
+        ],
+        [
+          -115.1728082,
+          36.0820546
+        ],
+        [
+          -115.1727994,
+          36.0820544
+        ],
+        [
+          -115.1727987,
+          36.0820545
+        ],
+        [
+          -115.1727959,
+          36.0820547
+        ],
+        [
+          -115.1727512,
+          36.0820578
+        ],
+        [
+          -115.1727492,
+          36.082058
+        ],
+        [
+          -115.1727485,
+          36.082058
+        ],
+        [
+          -115.1727383,
+          36.0820595
+        ],
+        [
+          -115.1727388,
+          36.082064
+        ],
+        [
+          -115.172747,
+          36.0820639
+        ],
+        [
+          -115.1727764,
+          36.0820631
+        ],
+        [
+          -115.1727807,
+          36.0820628
+        ],
+        [
+          -115.1727909,
+          36.0820621
+        ],
+        [
+          -115.1727952,
+          36.0820618
+        ],
+        [
+          -115.1728087,
+          36.0820591
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "node",
+    "id": 1485974042,
+    "version": 7,
+    "timestamp": "2026-08-30T16:00:11Z",
+    "url": "https://www.openstreetmap.org/node/1485974042"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q175665",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Las Vegas 2016 Welcome to Fabulous Las Vegas sign.jpg",
+      "author": "© Pierre André",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Las_Vegas_2016_Welcome_to_Fabulous_Las_Vegas_sign.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Las Vegas Welcome Sign P4230733.jpg",
+      "author": "Alexander Migl",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Las_Vegas_Welcome_Sign_P4230733.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Side View of Fabulous Las Vegas Sign.jpg",
+      "author": "Beckettphotographer1",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Side_View_of_Fabulous_Las_Vegas_Sign.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:2012.10.05.175758 Welcome sign Las Vegas Nevada.jpg",
+      "author": "Hermann Luyken",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:2012.10.05.175758_Welcome_sign_Las_Vegas_Nevada.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/lv-welcome-sign.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "The Welcome to Fabulous Las Vegas sign (1959, Betty Willis for Western Neon): the stretched diamond with its yellow rim, the seven silver dollars spelling WELCOME, the red eight-pointed star between the two blue posts. Procedural, CC0-1.0. bun generators/lv-welcome-sign.ts",
+    "Lettering: STYLE.md's \"Famous signs\" exception. The sign is the landmark, so it carries its words as extruded block letters on the panel: WELCOME, TO FABULOUS, LAS VEGAS and NEVADA on the south face, and DRIVE CAREFULLY, COME BACK SOON on the north. The real \"to Fabulous\" and \"Come Back\" are script; here they are the same block capitals as the rest.",
+    "Map frame: x east, y north, z up, metres. The model's front faces -y; the placement's bearing of 355° turns it to face 175°, the direction OSM gives (node/1485974042, direction=175). The origin is that node, under the middle of the panel. There is no OSM building, so it replaces nothing.",
+    "Published (Wikipedia, \"Welcome to Fabulous Las Vegas sign\", and its NRHP listing): 25 ft (7.6 m) tall, \"mounted offset on two flat poles which are joined by a cross piece at the top\"; \"a horizontally stretched diamond shape, with the top and bottom angles pointed while the side angles are rounded\"; white circles for silver dollars, each with a red letter of WELCOME; \"an eight-pointed, red-painted metal star\" between the poles under the cross piece; the back reads \"Drive Carefully / Come Back Soon\".",
+    "Measured, from p5 (straight on from the south), scaled so the posts are 7.6 m: the diamond 6.3 m wide and 3.2 m tall from 3.15 to 6.36 m, its rounded sides at 4.8 m; posts 0.39 m square, 1.73 m and 0.42 m west of the middle; the dollars 0.69 m across at 5.8 m; the star 1.9 m across, centred 1.08 m west at 6.9 m; the lines of lettering.",
+    "Photos (Wikimedia Commons):",
+    "p5 \"Las Vegas 2016 Welcome to Fabulous Las Vegas sign.jpg\", Pierre André Leclercq, CC BY-SA 4.0: the front, square on;",
+    "p4 \"Las Vegas Welcome Sign P4230733.jpg\", Alexander Migl, CC BY-SA 4.0, and p3 \"Side View of Fabulous Las Vegas Sign.jpg\", Beckettphotographer1, CC BY-SA 4.0: from the south-west, the panel's depth and the posts;",
+    "p1 \"2012.10.05.175758 Welcome sign Las Vegas Nevada.jpg\", Hermann Luyken, CC0: the sign in the median, Mandalay Bay behind.",
+    "Estimated: the panel's depth (0.5 m) and the dollars' (0.6 m), the north face's layout (no licensed photo of it was found), the colours, pulled towards the palette's lightness. The bulbs round the rim are left out. The white face is `window-2` so it glows at night, as the real cabinet is lit from inside.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"lv-welcome-sign\", model \"lv-welcome-sign\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/lv-welcome-sign.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

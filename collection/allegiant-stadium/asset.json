@@ -1,0 +1,715 @@
+{
+  "id": "allegiant-stadium",
+  "name": "Allegiant Stadium",
+  "anchor": [
+    -115.18307,
+    36.090734
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 102496,
+      "sha256": "e21bd4d55d71d052057d1ea097dd206c0b1c9ca7bc7371a49c01d01b7c0f44ae"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 102496,
+      "sha256": "e21bd4d55d71d052057d1ea097dd206c0b1c9ca7bc7371a49c01d01b7c0f44ae"
+    }
+  },
+  "triangles": 1708,
+  "boundsBlenderM": [
+    [
+      -138,
+      -116.5,
+      0
+    ],
+    [
+      138,
+      116.5,
+      69
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -115.1832801,
+          36.0920139
+        ],
+        [
+          -115.1831271,
+          36.0920236
+        ],
+        [
+          -115.183011,
+          36.0920167
+        ],
+        [
+          -115.1829886,
+          36.0920153
+        ],
+        [
+          -115.1828518,
+          36.0919945
+        ],
+        [
+          -115.1828445,
+          36.0919927
+        ],
+        [
+          -115.1827074,
+          36.0919554
+        ],
+        [
+          -115.1825667,
+          36.0919027
+        ],
+        [
+          -115.182435,
+          36.0918339
+        ],
+        [
+          -115.1823266,
+          36.0917591
+        ],
+        [
+          -115.182228,
+          36.0916715
+        ],
+        [
+          -115.1821261,
+          36.0915584
+        ],
+        [
+          -115.18205,
+          36.0914267
+        ],
+        [
+          -115.1819803,
+          36.0912744
+        ],
+        [
+          -115.1819384,
+          36.0910984
+        ],
+        [
+          -115.181926,
+          36.0910153
+        ],
+        [
+          -115.1819124,
+          36.0909185
+        ],
+        [
+          -115.1819154,
+          36.0908492
+        ],
+        [
+          -115.1819198,
+          36.0907601
+        ],
+        [
+          -115.1819205,
+          36.0907553
+        ],
+        [
+          -115.1819329,
+          36.0906762
+        ],
+        [
+          -115.1819417,
+          36.0906261
+        ],
+        [
+          -115.181945,
+          36.090612
+        ],
+        [
+          -115.1819628,
+          36.0905495
+        ],
+        [
+          -115.181967,
+          36.090535
+        ],
+        [
+          -115.1819778,
+          36.0904998
+        ],
+        [
+          -115.1820018,
+          36.0904362
+        ],
+        [
+          -115.1820283,
+          36.0903691
+        ],
+        [
+          -115.1820336,
+          36.0903577
+        ],
+        [
+          -115.182075,
+          36.0902742
+        ],
+        [
+          -115.1820843,
+          36.0902564
+        ],
+        [
+          -115.1821059,
+          36.0902229
+        ],
+        [
+          -115.1821617,
+          36.0901388
+        ],
+        [
+          -115.1821698,
+          36.090128
+        ],
+        [
+          -115.1822467,
+          36.090035
+        ],
+        [
+          -115.1822532,
+          36.0900273
+        ],
+        [
+          -115.1823129,
+          36.0899629
+        ],
+        [
+          -115.1823437,
+          36.0899304
+        ],
+        [
+          -115.1823973,
+          36.0898843
+        ],
+        [
+          -115.1824588,
+          36.0898327
+        ],
+        [
+          -115.1825112,
+          36.0897938
+        ],
+        [
+          -115.1825968,
+          36.0897318
+        ],
+        [
+          -115.1826133,
+          36.0897222
+        ],
+        [
+          -115.1826187,
+          36.0897192
+        ],
+        [
+          -115.1827405,
+          36.0896517
+        ],
+        [
+          -115.1827603,
+          36.0896409
+        ],
+        [
+          -115.1829756,
+          36.0895454
+        ],
+        [
+          -115.1831394,
+          36.0894981
+        ],
+        [
+          -115.18331,
+          36.0894608
+        ],
+        [
+          -115.1834816,
+          36.089446
+        ],
+        [
+          -115.1836627,
+          36.0894529
+        ],
+        [
+          -115.1838032,
+          36.0894737
+        ],
+        [
+          -115.1839568,
+          36.0895125
+        ],
+        [
+          -115.1840218,
+          36.0895367
+        ],
+        [
+          -115.1840953,
+          36.0895637
+        ],
+        [
+          -115.1842249,
+          36.0896341
+        ],
+        [
+          -115.1843411,
+          36.0897111
+        ],
+        [
+          -115.1844286,
+          36.0897868
+        ],
+        [
+          -115.1845285,
+          36.089901
+        ],
+        [
+          -115.1846123,
+          36.0900235
+        ],
+        [
+          -115.1846824,
+          36.0901847
+        ],
+        [
+          -115.1847296,
+          36.0903648
+        ],
+        [
+          -115.1847499,
+          36.0905493
+        ],
+        [
+          -115.1847401,
+          36.0907164
+        ],
+        [
+          -115.1847199,
+          36.0908449
+        ],
+        [
+          -115.1846865,
+          36.0909679
+        ],
+        [
+          -115.1846368,
+          36.0910932
+        ],
+        [
+          -115.1845757,
+          36.0912106
+        ],
+        [
+          -115.1845553,
+          36.0912419
+        ],
+        [
+          -115.1845017,
+          36.0913285
+        ],
+        [
+          -115.184418,
+          36.091432
+        ],
+        [
+          -115.1843188,
+          36.0915355
+        ],
+        [
+          -115.1842085,
+          36.0916314
+        ],
+        [
+          -115.1840521,
+          36.091742
+        ],
+        [
+          -115.1838768,
+          36.0918386
+        ],
+        [
+          -115.183861,
+          36.0918448
+        ],
+        [
+          -115.1836689,
+          36.0919245
+        ],
+        [
+          -115.1834675,
+          36.0919841
+        ],
+        [
+          -115.1832801,
+          36.0920139
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 691478555,
+    "version": 19,
+    "timestamp": "2025-06-23T12:48:48Z",
+    "url": "https://www.openstreetmap.org/way/691478555"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 1249542290,
+      "version": 6,
+      "timestamp": "2025-03-21T18:10:42Z",
+      "url": "https://www.openstreetmap.org/way/1249542290"
+    },
+    {
+      "type": "way",
+      "id": 1249571723,
+      "version": 6,
+      "timestamp": "2025-03-21T18:10:42Z",
+      "url": "https://www.openstreetmap.org/way/1249571723"
+    },
+    {
+      "type": "way",
+      "id": 1249571724,
+      "version": 6,
+      "timestamp": "2025-03-21T18:10:42Z",
+      "url": "https://www.openstreetmap.org/way/1249571724"
+    },
+    {
+      "type": "way",
+      "id": 1249571727,
+      "version": 4,
+      "timestamp": "2025-07-21T17:23:31Z",
+      "url": "https://www.openstreetmap.org/way/1249571727"
+    },
+    {
+      "type": "way",
+      "id": 1249571728,
+      "version": 4,
+      "timestamp": "2025-07-21T17:23:31Z",
+      "url": "https://www.openstreetmap.org/way/1249571728"
+    },
+    {
+      "type": "way",
+      "id": 1249571730,
+      "version": 4,
+      "timestamp": "2025-07-21T17:23:31Z",
+      "url": "https://www.openstreetmap.org/way/1249571730"
+    },
+    {
+      "type": "way",
+      "id": 1249571731,
+      "version": 8,
+      "timestamp": "2025-03-21T18:10:42Z",
+      "url": "https://www.openstreetmap.org/way/1249571731"
+    },
+    {
+      "type": "way",
+      "id": 1249571733,
+      "version": 4,
+      "timestamp": "2025-07-21T17:23:31Z",
+      "url": "https://www.openstreetmap.org/way/1249571733"
+    },
+    {
+      "type": "way",
+      "id": 1249571734,
+      "version": 8,
+      "timestamp": "2025-03-21T18:10:42Z",
+      "url": "https://www.openstreetmap.org/way/1249571734"
+    },
+    {
+      "type": "way",
+      "id": 1249571735,
+      "version": 8,
+      "timestamp": "2025-03-21T18:10:42Z",
+      "url": "https://www.openstreetmap.org/way/1249571735"
+    },
+    {
+      "type": "way",
+      "id": 1249571736,
+      "version": 8,
+      "timestamp": "2025-03-21T18:10:42Z",
+      "url": "https://www.openstreetmap.org/way/1249571736"
+    },
+    {
+      "type": "way",
+      "id": 1249571737,
+      "version": 8,
+      "timestamp": "2025-03-21T18:10:42Z",
+      "url": "https://www.openstreetmap.org/way/1249571737"
+    },
+    {
+      "type": "way",
+      "id": 1249571739,
+      "version": 4,
+      "timestamp": "2025-07-21T17:23:31Z",
+      "url": "https://www.openstreetmap.org/way/1249571739"
+    },
+    {
+      "type": "way",
+      "id": 1249571741,
+      "version": 4,
+      "timestamp": "2025-07-21T17:23:31Z",
+      "url": "https://www.openstreetmap.org/way/1249571741"
+    },
+    {
+      "type": "way",
+      "id": 1249571742,
+      "version": 8,
+      "timestamp": "2025-03-21T18:10:42Z",
+      "url": "https://www.openstreetmap.org/way/1249571742"
+    },
+    {
+      "type": "way",
+      "id": 1249571743,
+      "version": 8,
+      "timestamp": "2025-03-21T18:10:42Z",
+      "url": "https://www.openstreetmap.org/way/1249571743"
+    },
+    {
+      "type": "way",
+      "id": 1249571744,
+      "version": 8,
+      "timestamp": "2025-03-21T18:10:42Z",
+      "url": "https://www.openstreetmap.org/way/1249571744"
+    },
+    {
+      "type": "way",
+      "id": 1249571745,
+      "version": 8,
+      "timestamp": "2025-03-21T18:10:42Z",
+      "url": "https://www.openstreetmap.org/way/1249571745"
+    },
+    {
+      "type": "way",
+      "id": 1249878676,
+      "version": 8,
+      "timestamp": "2025-03-21T18:10:42Z",
+      "url": "https://www.openstreetmap.org/way/1249878676"
+    },
+    {
+      "type": "way",
+      "id": 1249878677,
+      "version": 8,
+      "timestamp": "2025-03-21T18:10:42Z",
+      "url": "https://www.openstreetmap.org/way/1249878677"
+    },
+    {
+      "type": "way",
+      "id": 1252866554,
+      "version": 4,
+      "timestamp": "2025-07-21T17:23:31Z",
+      "url": "https://www.openstreetmap.org/way/1252866554"
+    },
+    {
+      "type": "way",
+      "id": 1252866556,
+      "version": 4,
+      "timestamp": "2025-07-21T17:23:31Z",
+      "url": "https://www.openstreetmap.org/way/1252866556"
+    },
+    {
+      "type": "way",
+      "id": 1252866558,
+      "version": 4,
+      "timestamp": "2025-07-21T17:23:31Z",
+      "url": "https://www.openstreetmap.org/way/1252866558"
+    },
+    {
+      "type": "way",
+      "id": 1252866560,
+      "version": 4,
+      "timestamp": "2025-07-21T17:23:31Z",
+      "url": "https://www.openstreetmap.org/way/1252866560"
+    },
+    {
+      "type": "way",
+      "id": 1252866562,
+      "version": 4,
+      "timestamp": "2025-07-21T17:23:31Z",
+      "url": "https://www.openstreetmap.org/way/1252866562"
+    },
+    {
+      "type": "way",
+      "id": 1252866564,
+      "version": 4,
+      "timestamp": "2025-07-21T17:23:31Z",
+      "url": "https://www.openstreetmap.org/way/1252866564"
+    },
+    {
+      "type": "way",
+      "id": 1252866565,
+      "version": 6,
+      "timestamp": "2025-03-21T18:10:42Z",
+      "url": "https://www.openstreetmap.org/way/1252866565"
+    },
+    {
+      "type": "way",
+      "id": 1252866566,
+      "version": 6,
+      "timestamp": "2025-03-21T18:10:42Z",
+      "url": "https://www.openstreetmap.org/way/1252866566"
+    },
+    {
+      "type": "way",
+      "id": 1252866567,
+      "version": 6,
+      "timestamp": "2025-03-21T18:10:42Z",
+      "url": "https://www.openstreetmap.org/way/1252866567"
+    },
+    {
+      "type": "way",
+      "id": 1252866568,
+      "version": 6,
+      "timestamp": "2025-03-21T18:10:42Z",
+      "url": "https://www.openstreetmap.org/way/1252866568"
+    },
+    {
+      "type": "way",
+      "id": 1252866569,
+      "version": 6,
+      "timestamp": "2025-03-21T18:10:42Z",
+      "url": "https://www.openstreetmap.org/way/1252866569"
+    },
+    {
+      "type": "way",
+      "id": 1252866570,
+      "version": 6,
+      "timestamp": "2025-03-21T18:10:42Z",
+      "url": "https://www.openstreetmap.org/way/1252866570"
+    },
+    {
+      "type": "way",
+      "id": 1252866571,
+      "version": 6,
+      "timestamp": "2025-03-21T18:10:42Z",
+      "url": "https://www.openstreetmap.org/way/1252866571"
+    },
+    {
+      "type": "way",
+      "id": 1252866572,
+      "version": 6,
+      "timestamp": "2025-03-21T18:10:42Z",
+      "url": "https://www.openstreetmap.org/way/1252866572"
+    },
+    {
+      "type": "way",
+      "id": 1252866573,
+      "version": 6,
+      "timestamp": "2025-03-21T18:10:42Z",
+      "url": "https://www.openstreetmap.org/way/1252866573"
+    },
+    {
+      "type": "way",
+      "id": 1252866574,
+      "version": 6,
+      "timestamp": "2025-03-21T18:10:42Z",
+      "url": "https://www.openstreetmap.org/way/1252866574"
+    },
+    {
+      "type": "way",
+      "id": 1252866575,
+      "version": 6,
+      "timestamp": "2025-03-21T18:10:42Z",
+      "url": "https://www.openstreetmap.org/way/1252866575"
+    },
+    {
+      "type": "way",
+      "id": 1252866576,
+      "version": 6,
+      "timestamp": "2025-03-21T18:10:42Z",
+      "url": "https://www.openstreetmap.org/way/1252866576"
+    },
+    {
+      "type": "way",
+      "id": 1252866577,
+      "version": 6,
+      "timestamp": "2025-03-21T18:10:42Z",
+      "url": "https://www.openstreetmap.org/way/1252866577"
+    }
+  ],
+  "wikidata": "Q27768421",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Allegiantstadiumjune2020.jpg",
+      "author": "JediRich, Creative Producer",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Allegiantstadiumjune2020.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Allegiant Stadium.jpg",
+      "author": "Tomás Del Coro",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Allegiant_Stadium.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Allegiant Stadium (cropped).jpg",
+      "author": "Tomás Del Coro",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Allegiant_Stadium_(cropped).jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Allegiant Stadium, view from Interstate 15 (2024-02-04).jpg",
+      "author": "Amin Eshaiker",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Allegiant_Stadium,_view_from_Interstate_15_(2024-02-04).jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/lv-allegiant-stadium.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Allegiant Stadium, Las Vegas (2020, Manica Architecture with HNTB): the black glass drum that flares outward as it rises, the white light lines sweeping across it, the translucent ETFE roof, and the lanai, the great glass wall at the north end that opens towards the Strip. The pitch is not modelled. Procedural, CC0-1.0. bun generators/lv-allegiant-stadium.ts",
+    "Map frame: x east, y north, z up, metres. Bearing 0. The origin is the centre of the roof as the NAIP orthophoto shows it; OSM's outline (way/691478555) is the same size but sits about 25 m west of it.",
+    "Measured, from NAIP (USGS, public domain), on a 20 m grid: the roof's outer edge, a rounded rectangle 276 m east-west by 233 m north-south, and the ETFE oval inside it, about 180 by 170 m.",
+    "Published: OSM tags 69 m with a 7 m roof rise (roof:height). Wikipedia (\"Allegiant Stadium\"): \"a ten-level domed stadium featuring an ETFE roof, silver and black exterior with light-up strips\", \"large retractable curtain-like side windows facing the Las Vegas Strip\", with the north end zone \"in front of the retractable windows\".",
+    "Photos (Wikimedia Commons), compared against the renders:",
+    "p9 \"Allegiantstadiumjune2020.jpg\", JediRich, CC BY 3.0: from the north, the lanai's glass in six tall bays inside a white-lined frame, the black band below it, the flared rounded corners;",
+    "p12 \"Allegiant Stadium.jpg\" and p1 \"Allegiant Stadium (cropped).jpg\", Tomás Del Coro, CC BY-SA 2.0: the long east side from I-15, the lines swooping down from the corners to meet low in the middle;",
+    "p3, p5 \"Allegiant Stadium, Las Vegas, Nevada (51426794436, 52258484672)\", Ken Lund, CC BY-SA 2.0: the north entry and the lanai close up;",
+    "p8 \"Allegiant Stadium, view from Interstate 15 (2024-02-04).jpg\", Amin Eshaiker, CC BY-SA 4.0: the east side's flare and roof edge.",
+    "Estimated: the flare (the base 8 m inside the roof edge), the edge at 62 m, the lines' paths, the lanai's extent (its centre a little east of north, facing the Strip), the bay mullions. The black glass is pulled to charcoal, per STYLE.md. The media mesh facing I-15 is a screen and is not drawn; nor are the Al Davis torch and the entry canopies.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"lv-allegiant-stadium\", model \"lv-allegiant-stadium\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/lv-allegiant-stadium.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 4443 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the lv-allegiant-stadium-glazing finish in the window colour."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

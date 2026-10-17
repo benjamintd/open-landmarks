@@ -1,0 +1,351 @@
+{
+  "id": "the-cosmopolitan-of-las-vegas",
+  "anchor": [
+    -115.174091,
+    36.110181
+  ],
+  "coordinateSystem": "Local metres about the anchor (equirectangular, WGS84 radius): X east, Y north, Z up. glTF export: X east, Y up, Z south. Heading already baked.",
+  "license": "ODbL-1.0",
+  "footprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -26.710209812749778,
+          23.121058238236216
+        ],
+        [
+          -22.915021752054585,
+          23.043134594561277
+        ],
+        [
+          16.161025938151592,
+          22.23050231176555
+        ],
+        [
+          25.505102704562162,
+          22.03012722836897
+        ],
+        [
+          29.65103089502821,
+          17.043014041082394
+        ],
+        [
+          24.551809021336517,
+          -23.55520425186665
+        ],
+        [
+          -27.672496833357155,
+          -22.464273241999404
+        ],
+        [
+          -26.710209812749778,
+          23.121058238236216
+        ]
+      ]
+    ]
+  },
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -115.174388,
+          36.1103887
+        ],
+        [
+          -115.1743458,
+          36.110388
+        ],
+        [
+          -115.1739113,
+          36.1103807
+        ],
+        [
+          -115.1738074,
+          36.1103789
+        ],
+        [
+          -115.1737613,
+          36.1103341
+        ],
+        [
+          -115.173818,
+          36.1099694
+        ],
+        [
+          -115.1743987,
+          36.1099792
+        ],
+        [
+          -115.174388,
+          36.1103887
+        ]
+      ]
+    ]
+  },
+  "parts": [
+    {
+      "osm": "way/134795273",
+      "tags": {
+        "addr:city": "Las Vegas",
+        "addr:housenumber": "3708",
+        "addr:postcode": "89109",
+        "addr:state": "NV",
+        "addr:street": "South Las Vegas Boulevard",
+        "air_conditioning": "yes",
+        "bar": "yes",
+        "building": "yes",
+        "building:levels": "51",
+        "check_date": "2024-12-08",
+        "dog": "yes",
+        "height": "184 m",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:ssid": "MGMResorts-WiFi",
+        "name": "The Cosmopolitan of Las Vegas",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+1-702-698-7000",
+        "rooms": "3027",
+        "source": "survey",
+        "tourism": "hotel",
+        "website": "https://www.cosmopolitanlasvegas.com",
+        "wikidata": "Q1436845",
+        "wikipedia": "en:Cosmopolitan of Las Vegas"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -26.710209812749778,
+              23.121058238236216
+            ],
+            [
+              -22.915021752054585,
+              23.043134594561277
+            ],
+            [
+              16.161025938151592,
+              22.23050231176555
+            ],
+            [
+              25.505102704562162,
+              22.03012722836897
+            ],
+            [
+              29.65103089502821,
+              17.043014041082394
+            ],
+            [
+              24.551809021336517,
+              -23.55520425186665
+            ],
+            [
+              -27.672496833357155,
+              -22.464273241999404
+            ],
+            [
+              -26.710209812749778,
+              23.121058238236216
+            ]
+          ]
+        ]
+      },
+      "version": 8,
+      "timestamp": "2024-12-09T02:01:18Z"
+    },
+    {
+      "osm": "way/27897905",
+      "tags": {
+        "building": "yes",
+        "building:levels": "53",
+        "height": "184 m",
+        "name": "The Cosmopolitan Chelsea Tower",
+        "start_date": "2010",
+        "wikipedia": "en:Cosmopolitan of Las Vegas"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -266.59847128524194,
+              -14.516061599019883
+            ],
+            [
+              -265.8250443343146,
+              -39.173328809963195
+            ],
+            [
+              -259.8534688074427,
+              -38.90616203210109
+            ],
+            [
+              -224.34777576128084,
+              -39.09540516628825
+            ],
+            [
+              -165.5673274984679,
+              -63.095887380994746
+            ],
+            [
+              -103.46833801529453,
+              -63.37418610806627
+            ],
+            [
+              -103.65719808497452,
+              -34.93205621100682
+            ],
+            [
+              -159.78461203999794,
+              -34.68715333077258
+            ],
+            [
+              -214.25725205481007,
+              -13.81474880752735
+            ],
+            [
+              -243.64747618621652,
+              -13.747957112270852
+            ],
+            [
+              -258.5404416583425,
+              -13.714561265433572
+            ],
+            [
+              -266.59847128524194,
+              -14.516061599019883
+            ]
+          ]
+        ]
+      },
+      "version": 8,
+      "timestamp": "2019-06-22T04:13:54Z"
+    },
+    {
+      "osm": "way/472669744",
+      "tags": {
+        "building": "yes",
+        "height": "184",
+        "name": "The Cosmopolitan Boulevard Tower"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.72914477763824,
+              -27.551573971379757
+            ],
+            [
+              -103.65719808497452,
+              -34.93205621100682
+            ],
+            [
+              -103.46833801529453,
+              -63.37418610806627
+            ],
+            [
+              -104.37666501544561,
+              -77.62308093001502
+            ],
+            [
+              -104.65545845127474,
+              -82.33189539023007
+            ],
+            [
+              2.16739413007302,
+              -84.72526444257056
+            ],
+            [
+              6.511175726322762,
+              -77.72326847131782
+            ],
+            [
+              4.5776083490043025,
+              -65.18869380784488
+            ],
+            [
+              -1.447927198323904,
+              -58.431600716826395
+            ],
+            [
+              -3.1386744867841,
+              -44.683643603764565
+            ],
+            [
+              -3.3814945756423627,
+              -26.59422635044356
+            ],
+            [
+              -27.987263616157147,
+              -25.870649659741222
+            ],
+            [
+              -28.230083705015407,
+              -29.967206921348104
+            ],
+            [
+              -103.72914477763824,
+              -27.551573971379757
+            ]
+          ]
+        ]
+      },
+      "version": 4,
+      "timestamp": "2022-08-30T09:38:42Z"
+    }
+  ],
+  "osm": {
+    "type": "way",
+    "id": 134795273,
+    "version": 8,
+    "timestamp": "2024-12-09T02:01:18Z",
+    "url": "https://www.openstreetmap.org/way/134795273"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 27897905,
+      "version": 8,
+      "timestamp": "2019-06-22T04:13:54Z",
+      "url": "https://www.openstreetmap.org/way/27897905"
+    },
+    {
+      "type": "way",
+      "id": 472669744,
+      "version": 4,
+      "timestamp": "2022-08-30T09:38:42Z",
+      "url": "https://www.openstreetmap.org/way/472669744"
+    }
+  ],
+  "tags": {
+    "addr:city": "Las Vegas",
+    "addr:housenumber": "3708",
+    "addr:postcode": "89109",
+    "addr:state": "NV",
+    "addr:street": "South Las Vegas Boulevard",
+    "air_conditioning": "yes",
+    "bar": "yes",
+    "building": "yes",
+    "building:levels": "51",
+    "check_date": "2024-12-08",
+    "dog": "yes",
+    "height": "184 m",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "internet_access:ssid": "MGMResorts-WiFi",
+    "name": "The Cosmopolitan of Las Vegas",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "phone": "+1-702-698-7000",
+    "rooms": "3027",
+    "source": "survey",
+    "tourism": "hotel",
+    "website": "https://www.cosmopolitanlasvegas.com",
+    "wikidata": "Q1436845",
+    "wikipedia": "en:Cosmopolitan of Las Vegas"
+  }
+}

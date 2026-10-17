@@ -1,0 +1,262 @@
+{
+  "id": "mandalay-bay",
+  "name": "Mandalay Bay",
+  "anchor": [
+    -115.174814,
+    36.091804
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 63148,
+      "sha256": "a7ad4fbc4868d4e07160144de8996ecdd60218264f0ed166e5e32e6df0ac655c"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 63148,
+      "sha256": "a7ad4fbc4868d4e07160144de8996ecdd60218264f0ed166e5e32e6df0ac655c"
+    }
+  },
+  "triangles": 1159,
+  "boundsBlenderM": [
+    [
+      -269.381,
+      -57.4,
+      0
+    ],
+    [
+      92.577,
+      183.6,
+      152
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -115.1749269,
+          36.0926944
+        ],
+        [
+          -115.1748673,
+          36.0927429
+        ],
+        [
+          -115.1747655,
+          36.0927428
+        ],
+        [
+          -115.1747145,
+          36.0926951
+        ],
+        [
+          -115.1747033,
+          36.0919821
+        ],
+        [
+          -115.174688,
+          36.0919401
+        ],
+        [
+          -115.1746647,
+          36.0918969
+        ],
+        [
+          -115.1746422,
+          36.091863
+        ],
+        [
+          -115.174607,
+          36.0918284
+        ],
+        [
+          -115.1745635,
+          36.0917958
+        ],
+        [
+          -115.1738043,
+          36.0914417
+        ],
+        [
+          -115.1737856,
+          36.0913784
+        ],
+        [
+          -115.1738418,
+          36.0913024
+        ],
+        [
+          -115.1739203,
+          36.0912859
+        ],
+        [
+          -115.1746667,
+          36.0916344
+        ],
+        [
+          -115.1747279,
+          36.0916488
+        ],
+        [
+          -115.1747793,
+          36.0916573
+        ],
+        [
+          -115.1748336,
+          36.0916587
+        ],
+        [
+          -115.1748862,
+          36.0916548
+        ],
+        [
+          -115.1749277,
+          36.0916445
+        ],
+        [
+          -115.1749723,
+          36.0916301
+        ],
+        [
+          -115.175706,
+          36.0912851
+        ],
+        [
+          -115.1757882,
+          36.0913029
+        ],
+        [
+          -115.1758433,
+          36.0913778
+        ],
+        [
+          -115.1758199,
+          36.0914404
+        ],
+        [
+          -115.175067,
+          36.0917935
+        ],
+        [
+          -115.1750233,
+          36.0918284
+        ],
+        [
+          -115.1749879,
+          36.0918671
+        ],
+        [
+          -115.174963,
+          36.0919036
+        ],
+        [
+          -115.1749453,
+          36.0919407
+        ],
+        [
+          -115.1749312,
+          36.0919822
+        ],
+        [
+          -115.1749269,
+          36.0926944
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 27858550,
+    "version": 15,
+    "timestamp": "2026-01-27T20:04:16Z",
+    "url": "https://www.openstreetmap.org/way/27858550"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 118347176,
+      "version": 16,
+      "timestamp": "2025-08-22T19:44:29Z",
+      "url": "https://www.openstreetmap.org/way/118347176"
+    }
+  ],
+  "wikidata": "Q1368043",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Mandalay Bay Hotel Las Vegas (July 15 2008).jpg",
+      "author": "Cyberdoomslayer",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Mandalay_Bay_Hotel_Las_Vegas_(July_15_2008).jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Mandalay Bay hotel.jpg",
+      "author": "Supercarwaar",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Mandalay_Bay_hotel.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Delano Hotel Las Vegas.jpg",
+      "author": "EconomicOldenburger",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Delano_Hotel_Las_Vegas.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Mandalay Bay Resort and Casino.jpg",
+      "author": "Ken Lund",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Mandalay_Bay_Resort_and_Casino.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/lv-mandalay-bay.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Mandalay Bay, Las Vegas: the gold Y-shaped hotel tower and, beside it, the W Las Vegas tower (THEhotel, later Delano) in the same gold glass. Procedural, CC0-1.0. bun generators/lv-mandalay-bay.ts",
+    "Map frame: x east, y north, z up, metres. Bearing 0: the plan is drawn in OSM's own orientation (the north arm runs within 1° of true north). The origin is the area centroid of the main tower's outline, way/27858550, which falls on the hub of the Y.",
+    "Published (Wikipedia, \"Mandalay Bay\" and \"W Las Vegas\"): the tower opened in 1999, 43 storeys, built out in a Y, with rows of gold neon tubing up its sides between mirrored gold windows; the Four Seasons occupies floors 35 to 39. W Las Vegas (2003) is also 43 storeys and has \"the same exterior appearance as the main resort\". A slackline record was set 480 ft (146 m) up, at the roof.",
+    "Measured, from OSM: both footprints (way/27858550, 146 m tagged; way/118347176, 148 m tagged), simplified to 0.4 m. The Y's arms are about 20 m wide and 85 m from the hub, 120° apart, with chamfered ends; the W is an L, an 83 x 18 m slab with a 21 x 61 m wing running north.",
+    "Photos (Wikimedia Commons):",
+    "\"Mandalay Bay Hotel Las Vegas (July 15 2008).jpg\", Cyberdoomslayer, CC BY-SA 4.0: the north and south-west arms, the pale pilasters, the white crown band with the sign, the stone base;",
+    "\"Mandalay Bay hotel.jpg\", Supercarwaar, CC BY-SA 4.0: the crown and the gold band under it, the recessed glass at the hub, pilaster spacing;",
+    "\"Mandalay Bay Resort and Casino from McCarran International Airport\" (15700532911), Ken Lund, CC BY-SA 2.0: the tower from the south-east;",
+    "\"Las Vegas Strip 006.Mandalay Bay Complex\", Zyrckonicks, CC BY-SA 4.0, and \"Delano Hotel Las Vegas.jpg\", EconomicOldenburger, CC BY-SA 4.0: the W tower beside it, gold with pilasters and a pale crown;",
+    "\"Mandalay Bay Resort and Casino.jpg\", Ken Lund, CC BY-SA 2.0: at night, the glass is lit by rooms, so the gold walls are a `window-2` wall.",
+    "Estimated: the stone base at 10 m, the crown band at 9 m with an 8 m gold band under it where the fins stop, the hub's 6 m lift and its extent (13 m out along each arm, from the photos), the fin spacing (about 9 m).",
+    "Checked and not modelled: a sawtooth of facets along the wing faces. The OSM outline (31 nodes) and the NAIP roofline give each wing side as one straight edge, and the frontal Supercarwaar photo shows one flat plane of glass between the fins; the bands of fins seen crowded together are the curved inner junctions between arms, seen obliquely, which are modelled. The casino and convention podiums (way/116660358 and others) are left to the map; the signs are left out.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"lv-mandalay-bay\", model \"lv-mandalay-bay\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/lv-mandalay-bay.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

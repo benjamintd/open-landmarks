@@ -1,0 +1,1271 @@
+{
+  "id": "excalibur-hotel-casino",
+  "name": "Excalibur Hotel & Casino",
+  "anchor": [
+    -115.175458,
+    36.098913
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 240788,
+      "sha256": "cf436a7b4dfaadf88f5b750667fbba30fa696084a537c0e60f4474c52189db23"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 240788,
+      "sha256": "cf436a7b4dfaadf88f5b750667fbba30fa696084a537c0e60f4474c52189db23"
+    }
+  },
+  "triangles": 5630,
+  "boundsBlenderM": [
+    [
+      -128.139,
+      -128.939,
+      0
+    ],
+    [
+      118.175,
+      118.775,
+      95
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -115.1763958,
+          36.0983249
+        ],
+        [
+          -115.1763934,
+          36.0983187
+        ],
+        [
+          -115.1763888,
+          36.0983134
+        ],
+        [
+          -115.1763824,
+          36.0983096
+        ],
+        [
+          -115.1763748,
+          36.0983076
+        ],
+        [
+          -115.1763661,
+          36.0983076
+        ],
+        [
+          -115.176358,
+          36.0983101
+        ],
+        [
+          -115.1762753,
+          36.0982441
+        ],
+        [
+          -115.176193,
+          36.0981784
+        ],
+        [
+          -115.1761956,
+          36.0981723
+        ],
+        [
+          -115.1761958,
+          36.0981659
+        ],
+        [
+          -115.1761934,
+          36.0981597
+        ],
+        [
+          -115.1761888,
+          36.0981544
+        ],
+        [
+          -115.1761824,
+          36.0981506
+        ],
+        [
+          -115.1761748,
+          36.0981486
+        ],
+        [
+          -115.1761703,
+          36.0980721
+        ],
+        [
+          -115.1761973,
+          36.0979986
+        ],
+        [
+          -115.1762527,
+          36.0979364
+        ],
+        [
+          -115.1763305,
+          36.0978925
+        ],
+        [
+          -115.1764218,
+          36.0978718
+        ],
+        [
+          -115.1765165,
+          36.0978765
+        ],
+        [
+          -115.1765207,
+          36.0978827
+        ],
+        [
+          -115.1765272,
+          36.0978874
+        ],
+        [
+          -115.1765353,
+          36.0978899
+        ],
+        [
+          -115.176544,
+          36.0978901
+        ],
+        [
+          -115.1765523,
+          36.0978878
+        ],
+        [
+          -115.1765591,
+          36.0978834
+        ],
+        [
+          -115.1765636,
+          36.0978774
+        ],
+        [
+          -115.1765653,
+          36.0978705
+        ],
+        [
+          -115.176564,
+          36.0978636
+        ],
+        [
+          -115.1765598,
+          36.0978574
+        ],
+        [
+          -115.1765533,
+          36.0978528
+        ],
+        [
+          -115.1765724,
+          36.0977972
+        ],
+        [
+          -115.1765803,
+          36.0977975
+        ],
+        [
+          -115.1765878,
+          36.0977957
+        ],
+        [
+          -115.1765943,
+          36.0977922
+        ],
+        [
+          -115.1765991,
+          36.0977871
+        ],
+        [
+          -115.1766017,
+          36.0977811
+        ],
+        [
+          -115.1766019,
+          36.0977748
+        ],
+        [
+          -115.1765996,
+          36.0977687
+        ],
+        [
+          -115.176595,
+          36.0977635
+        ],
+        [
+          -115.1765887,
+          36.0977598
+        ],
+        [
+          -115.1765812,
+          36.0977578
+        ],
+        [
+          -115.1765727,
+          36.0977579
+        ],
+        [
+          -115.1765648,
+          36.0977603
+        ],
+        [
+          -115.1765583,
+          36.0977648
+        ],
+        [
+          -115.1764168,
+          36.0977543
+        ],
+        [
+          -115.1762789,
+          36.097782
+        ],
+        [
+          -115.17616,
+          36.0978448
+        ],
+        [
+          -115.1760733,
+          36.0979358
+        ],
+        [
+          -115.1760285,
+          36.0980448
+        ],
+        [
+          -115.1759722,
+          36.0980442
+        ],
+        [
+          -115.1759713,
+          36.0981049
+        ],
+        [
+          -115.1759595,
+          36.0981048
+        ],
+        [
+          -115.1759574,
+          36.0982502
+        ],
+        [
+          -115.1759432,
+          36.098251
+        ],
+        [
+          -115.1759226,
+          36.0982568
+        ],
+        [
+          -115.1759053,
+          36.0982677
+        ],
+        [
+          -115.1758958,
+          36.0982785
+        ],
+        [
+          -115.1757539,
+          36.0982379
+        ],
+        [
+          -115.175734,
+          36.0982491
+        ],
+        [
+          -115.1757044,
+          36.0982749
+        ],
+        [
+          -115.175679,
+          36.0982965
+        ],
+        [
+          -115.1756285,
+          36.0982587
+        ],
+        [
+          -115.1756261,
+          36.0981163
+        ],
+        [
+          -115.1755451,
+          36.0981172
+        ],
+        [
+          -115.1755451,
+          36.0980887
+        ],
+        [
+          -115.1755223,
+          36.0980876
+        ],
+        [
+          -115.1755219,
+          36.0980319
+        ],
+        [
+          -115.1745428,
+          36.0980408
+        ],
+        [
+          -115.1745427,
+          36.0980572
+        ],
+        [
+          -115.1744611,
+          36.0980569
+        ],
+        [
+          -115.1744107,
+          36.0980972
+        ],
+        [
+          -115.174364,
+          36.0981345
+        ],
+        [
+          -115.1743637,
+          36.0981967
+        ],
+        [
+          -115.1743418,
+          36.0981973
+        ],
+        [
+          -115.1743438,
+          36.0983292
+        ],
+        [
+          -115.174345,
+          36.0984149
+        ],
+        [
+          -115.1743538,
+          36.0990066
+        ],
+        [
+          -115.1744076,
+          36.0990063
+        ],
+        [
+          -115.1744077,
+          36.0990306
+        ],
+        [
+          -115.1745241,
+          36.0990319
+        ],
+        [
+          -115.1745243,
+          36.0990058
+        ],
+        [
+          -115.1745851,
+          36.0990056
+        ],
+        [
+          -115.1746553,
+          36.0990549
+        ],
+        [
+          -115.1747133,
+          36.0991015
+        ],
+        [
+          -115.1746695,
+          36.099137
+        ],
+        [
+          -115.1746214,
+          36.0990983
+        ],
+        [
+          -115.1744938,
+          36.0992017
+        ],
+        [
+          -115.1744941,
+          36.0993332
+        ],
+        [
+          -115.1744125,
+          36.0993993
+        ],
+        [
+          -115.1744126,
+          36.0994573
+        ],
+        [
+          -115.1744644,
+          36.099499
+        ],
+        [
+          -115.1744569,
+          36.0995051
+        ],
+        [
+          -115.1743639,
+          36.0995804
+        ],
+        [
+          -115.1743002,
+          36.0996334
+        ],
+        [
+          -115.1742667,
+          36.0996592
+        ],
+        [
+          -115.1742622,
+          36.0996562
+        ],
+        [
+          -115.1742361,
+          36.0996501
+        ],
+        [
+          -115.1742173,
+          36.0996511
+        ],
+        [
+          -115.1741998,
+          36.0996562
+        ],
+        [
+          -115.1741846,
+          36.0996651
+        ],
+        [
+          -115.1741744,
+          36.0996752
+        ],
+        [
+          -115.174166,
+          36.0996915
+        ],
+        [
+          -115.1741644,
+          36.0997086
+        ],
+        [
+          -115.1741697,
+          36.0997254
+        ],
+        [
+          -115.174181,
+          36.0997397
+        ],
+        [
+          -115.1741967,
+          36.0997501
+        ],
+        [
+          -115.1742172,
+          36.0997566
+        ],
+        [
+          -115.1742487,
+          36.0997558
+        ],
+        [
+          -115.1742685,
+          36.0997485
+        ],
+        [
+          -115.1743328,
+          36.0997963
+        ],
+        [
+          -115.1743576,
+          36.0998148
+        ],
+        [
+          -115.1743963,
+          36.0998447
+        ],
+        [
+          -115.1744453,
+          36.0998826
+        ],
+        [
+          -115.1744342,
+          36.0999009
+        ],
+        [
+          -115.1744315,
+          36.0999204
+        ],
+        [
+          -115.1744372,
+          36.0999398
+        ],
+        [
+          -115.1744508,
+          36.0999567
+        ],
+        [
+          -115.1744708,
+          36.099969
+        ],
+        [
+          -115.1744951,
+          36.0999749
+        ],
+        [
+          -115.1745206,
+          36.0999737
+        ],
+        [
+          -115.1745439,
+          36.0999655
+        ],
+        [
+          -115.1745621,
+          36.0999513
+        ],
+        [
+          -115.1745731,
+          36.0999332
+        ],
+        [
+          -115.1745758,
+          36.0999133
+        ],
+        [
+          -115.174568,
+          36.0998903
+        ],
+        [
+          -115.1745756,
+          36.099884
+        ],
+        [
+          -115.1745936,
+          36.0998691
+        ],
+        [
+          -115.1746529,
+          36.0998191
+        ],
+        [
+          -115.1747516,
+          36.0997366
+        ],
+        [
+          -115.1747555,
+          36.099733
+        ],
+        [
+          -115.174802,
+          36.0997692
+        ],
+        [
+          -115.1748772,
+          36.0997681
+        ],
+        [
+          -115.1749575,
+          36.0997007
+        ],
+        [
+          -115.1749563,
+          36.0996429
+        ],
+        [
+          -115.1749803,
+          36.0996379
+        ],
+        [
+          -115.1750034,
+          36.0996255
+        ],
+        [
+          -115.1750203,
+          36.0996078
+        ],
+        [
+          -115.1751558,
+          36.0996073
+        ],
+        [
+          -115.1751692,
+          36.0996089
+        ],
+        [
+          -115.1751826,
+          36.0996069
+        ],
+        [
+          -115.1751944,
+          36.0996016
+        ],
+        [
+          -115.1752036,
+          36.0995935
+        ],
+        [
+          -115.1752089,
+          36.0995834
+        ],
+        [
+          -115.1752101,
+          36.0995725
+        ],
+        [
+          -115.1752068,
+          36.0995618
+        ],
+        [
+          -115.1752495,
+          36.0995288
+        ],
+        [
+          -115.1752759,
+          36.0995503
+        ],
+        [
+          -115.1752589,
+          36.0995639
+        ],
+        [
+          -115.1752774,
+          36.0995788
+        ],
+        [
+          -115.1753348,
+          36.0996252
+        ],
+        [
+          -115.1753351,
+          36.0996426
+        ],
+        [
+          -115.1753542,
+          36.0996423
+        ],
+        [
+          -115.1753546,
+          36.0996696
+        ],
+        [
+          -115.1753118,
+          36.0996697
+        ],
+        [
+          -115.1753118,
+          36.0997564
+        ],
+        [
+          -115.1753119,
+          36.0997653
+        ],
+        [
+          -115.1753505,
+          36.0997653
+        ],
+        [
+          -115.1753507,
+          36.0997965
+        ],
+        [
+          -115.1753505,
+          36.0998032
+        ],
+        [
+          -115.176353,
+          36.0998073
+        ],
+        [
+          -115.1764357,
+          36.0998031
+        ],
+        [
+          -115.1765307,
+          36.0997211
+        ],
+        [
+          -115.1765306,
+          36.099712
+        ],
+        [
+          -115.1765301,
+          36.0996528
+        ],
+        [
+          -115.1765291,
+          36.0995469
+        ],
+        [
+          -115.17652,
+          36.0988342
+        ],
+        [
+          -115.1764474,
+          36.0988366
+        ],
+        [
+          -115.1764463,
+          36.0987042
+        ],
+        [
+          -115.1763283,
+          36.0987053
+        ],
+        [
+          -115.1763068,
+          36.098689
+        ],
+        [
+          -115.1762827,
+          36.0987085
+        ],
+        [
+          -115.1762835,
+          36.0987786
+        ],
+        [
+          -115.1762647,
+          36.0987789
+        ],
+        [
+          -115.1762075,
+          36.0987325
+        ],
+        [
+          -115.1762915,
+          36.098665
+        ],
+        [
+          -115.1764282,
+          36.0986698
+        ],
+        [
+          -115.1764436,
+          36.0984473
+        ],
+        [
+          -115.176576,
+          36.0984325
+        ],
+        [
+          -115.1766962,
+          36.0983854
+        ],
+        [
+          -115.1767927,
+          36.0983106
+        ],
+        [
+          -115.1768559,
+          36.0982155
+        ],
+        [
+          -115.1768798,
+          36.0981092
+        ],
+        [
+          -115.176862,
+          36.0980022
+        ],
+        [
+          -115.1768667,
+          36.0979968
+        ],
+        [
+          -115.1768689,
+          36.0979905
+        ],
+        [
+          -115.1768686,
+          36.0979839
+        ],
+        [
+          -115.1768655,
+          36.0979778
+        ],
+        [
+          -115.1768602,
+          36.0979728
+        ],
+        [
+          -115.1768532,
+          36.0979695
+        ],
+        [
+          -115.1768452,
+          36.0979682
+        ],
+        [
+          -115.1768372,
+          36.0979691
+        ],
+        [
+          -115.1768299,
+          36.097972
+        ],
+        [
+          -115.1768242,
+          36.0979767
+        ],
+        [
+          -115.1768207,
+          36.0979826
+        ],
+        [
+          -115.1768197,
+          36.0979891
+        ],
+        [
+          -115.1768214,
+          36.0979956
+        ],
+        [
+          -115.1767521,
+          36.098014
+        ],
+        [
+          -115.1767504,
+          36.0980107
+        ],
+        [
+          -115.1767449,
+          36.0980054
+        ],
+        [
+          -115.1767375,
+          36.098002
+        ],
+        [
+          -115.1767291,
+          36.0980006
+        ],
+        [
+          -115.1767206,
+          36.0980015
+        ],
+        [
+          -115.1767129,
+          36.0980046
+        ],
+        [
+          -115.1767069,
+          36.0980095
+        ],
+        [
+          -115.1767032,
+          36.0980158
+        ],
+        [
+          -115.1767022,
+          36.0980226
+        ],
+        [
+          -115.1767041,
+          36.0980294
+        ],
+        [
+          -115.1767085,
+          36.0980353
+        ],
+        [
+          -115.1767151,
+          36.0980397
+        ],
+        [
+          -115.1767231,
+          36.0980422
+        ],
+        [
+          -115.1767329,
+          36.0981188
+        ],
+        [
+          -115.1767103,
+          36.0981937
+        ],
+        [
+          -115.176658,
+          36.0982581
+        ],
+        [
+          -115.176582,
+          36.0983045
+        ],
+        [
+          -115.1764911,
+          36.0983277
+        ],
+        [
+          -115.1763958,
+          36.0983249
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "relation",
+    "id": 8086330,
+    "version": 11,
+    "timestamp": "2025-11-23T12:55:41Z",
+    "url": "https://www.openstreetmap.org/relation/8086330"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 114859870,
+      "version": 6,
+      "timestamp": "2018-03-06T18:06:32Z",
+      "url": "https://www.openstreetmap.org/way/114859870"
+    },
+    {
+      "type": "way",
+      "id": 114857390,
+      "version": 7,
+      "timestamp": "2018-03-06T18:06:30Z",
+      "url": "https://www.openstreetmap.org/way/114857390"
+    },
+    {
+      "type": "way",
+      "id": 114870395,
+      "version": 5,
+      "timestamp": "2018-03-06T18:06:33Z",
+      "url": "https://www.openstreetmap.org/way/114870395"
+    },
+    {
+      "type": "way",
+      "id": 114870398,
+      "version": 4,
+      "timestamp": "2018-03-06T18:06:34Z",
+      "url": "https://www.openstreetmap.org/way/114870398"
+    },
+    {
+      "type": "way",
+      "id": 114857376,
+      "version": 3,
+      "timestamp": "2018-03-06T18:06:30Z",
+      "url": "https://www.openstreetmap.org/way/114857376"
+    },
+    {
+      "type": "way",
+      "id": 114857379,
+      "version": 4,
+      "timestamp": "2018-03-06T18:06:30Z",
+      "url": "https://www.openstreetmap.org/way/114857379"
+    },
+    {
+      "type": "way",
+      "id": 114857381,
+      "version": 4,
+      "timestamp": "2018-03-06T18:06:30Z",
+      "url": "https://www.openstreetmap.org/way/114857381"
+    },
+    {
+      "type": "way",
+      "id": 114857385,
+      "version": 3,
+      "timestamp": "2018-03-06T18:06:30Z",
+      "url": "https://www.openstreetmap.org/way/114857385"
+    },
+    {
+      "type": "way",
+      "id": 114857387,
+      "version": 4,
+      "timestamp": "2018-03-06T18:06:30Z",
+      "url": "https://www.openstreetmap.org/way/114857387"
+    },
+    {
+      "type": "way",
+      "id": 114857388,
+      "version": 4,
+      "timestamp": "2018-03-06T18:06:30Z",
+      "url": "https://www.openstreetmap.org/way/114857388"
+    },
+    {
+      "type": "way",
+      "id": 114857392,
+      "version": 4,
+      "timestamp": "2018-03-06T18:06:31Z",
+      "url": "https://www.openstreetmap.org/way/114857392"
+    },
+    {
+      "type": "way",
+      "id": 114857393,
+      "version": 4,
+      "timestamp": "2018-03-06T18:06:31Z",
+      "url": "https://www.openstreetmap.org/way/114857393"
+    },
+    {
+      "type": "way",
+      "id": 114857395,
+      "version": 4,
+      "timestamp": "2018-03-06T18:06:31Z",
+      "url": "https://www.openstreetmap.org/way/114857395"
+    },
+    {
+      "type": "way",
+      "id": 114857396,
+      "version": 4,
+      "timestamp": "2018-03-06T18:06:31Z",
+      "url": "https://www.openstreetmap.org/way/114857396"
+    },
+    {
+      "type": "way",
+      "id": 114857398,
+      "version": 5,
+      "timestamp": "2018-03-06T18:06:31Z",
+      "url": "https://www.openstreetmap.org/way/114857398"
+    },
+    {
+      "type": "way",
+      "id": 114857399,
+      "version": 4,
+      "timestamp": "2018-03-06T18:06:31Z",
+      "url": "https://www.openstreetmap.org/way/114857399"
+    },
+    {
+      "type": "way",
+      "id": 114857401,
+      "version": 5,
+      "timestamp": "2018-03-06T18:06:31Z",
+      "url": "https://www.openstreetmap.org/way/114857401"
+    },
+    {
+      "type": "way",
+      "id": 114857405,
+      "version": 3,
+      "timestamp": "2018-03-06T18:06:31Z",
+      "url": "https://www.openstreetmap.org/way/114857405"
+    },
+    {
+      "type": "way",
+      "id": 114857406,
+      "version": 3,
+      "timestamp": "2018-03-06T18:06:31Z",
+      "url": "https://www.openstreetmap.org/way/114857406"
+    },
+    {
+      "type": "way",
+      "id": 114857408,
+      "version": 3,
+      "timestamp": "2018-03-06T18:06:32Z",
+      "url": "https://www.openstreetmap.org/way/114857408"
+    },
+    {
+      "type": "way",
+      "id": 114866100,
+      "version": 4,
+      "timestamp": "2025-04-29T21:24:27Z",
+      "url": "https://www.openstreetmap.org/way/114866100"
+    },
+    {
+      "type": "way",
+      "id": 114866101,
+      "version": 3,
+      "timestamp": "2018-03-06T18:06:33Z",
+      "url": "https://www.openstreetmap.org/way/114866101"
+    },
+    {
+      "type": "way",
+      "id": 114866102,
+      "version": 4,
+      "timestamp": "2018-03-06T18:06:33Z",
+      "url": "https://www.openstreetmap.org/way/114866102"
+    },
+    {
+      "type": "way",
+      "id": 114866542,
+      "version": 4,
+      "timestamp": "2018-03-06T18:06:33Z",
+      "url": "https://www.openstreetmap.org/way/114866542"
+    },
+    {
+      "type": "way",
+      "id": 114866543,
+      "version": 4,
+      "timestamp": "2018-03-06T18:06:33Z",
+      "url": "https://www.openstreetmap.org/way/114866543"
+    },
+    {
+      "type": "way",
+      "id": 114866546,
+      "version": 4,
+      "timestamp": "2018-03-06T18:06:33Z",
+      "url": "https://www.openstreetmap.org/way/114866546"
+    },
+    {
+      "type": "way",
+      "id": 114866547,
+      "version": 4,
+      "timestamp": "2018-03-06T18:06:33Z",
+      "url": "https://www.openstreetmap.org/way/114866547"
+    },
+    {
+      "type": "way",
+      "id": 114866549,
+      "version": 5,
+      "timestamp": "2018-03-06T18:06:33Z",
+      "url": "https://www.openstreetmap.org/way/114866549"
+    },
+    {
+      "type": "way",
+      "id": 114866551,
+      "version": 5,
+      "timestamp": "2019-06-22T04:13:54Z",
+      "url": "https://www.openstreetmap.org/way/114866551"
+    },
+    {
+      "type": "way",
+      "id": 114866553,
+      "version": 4,
+      "timestamp": "2018-03-06T18:06:33Z",
+      "url": "https://www.openstreetmap.org/way/114866553"
+    },
+    {
+      "type": "way",
+      "id": 114871424,
+      "version": 3,
+      "timestamp": "2018-03-06T18:06:34Z",
+      "url": "https://www.openstreetmap.org/way/114871424"
+    },
+    {
+      "type": "way",
+      "id": 114865271,
+      "version": 7,
+      "timestamp": "2018-03-06T18:06:32Z",
+      "url": "https://www.openstreetmap.org/way/114865271"
+    },
+    {
+      "type": "way",
+      "id": 114865278,
+      "version": 6,
+      "timestamp": "2018-03-06T18:06:32Z",
+      "url": "https://www.openstreetmap.org/way/114865278"
+    },
+    {
+      "type": "way",
+      "id": 114865280,
+      "version": 5,
+      "timestamp": "2018-03-06T18:06:32Z",
+      "url": "https://www.openstreetmap.org/way/114865280"
+    },
+    {
+      "type": "way",
+      "id": 114865283,
+      "version": 6,
+      "timestamp": "2018-03-06T18:06:32Z",
+      "url": "https://www.openstreetmap.org/way/114865283"
+    },
+    {
+      "type": "way",
+      "id": 114865286,
+      "version": 8,
+      "timestamp": "2018-03-06T18:06:32Z",
+      "url": "https://www.openstreetmap.org/way/114865286"
+    },
+    {
+      "type": "way",
+      "id": 114865290,
+      "version": 7,
+      "timestamp": "2018-03-06T18:06:32Z",
+      "url": "https://www.openstreetmap.org/way/114865290"
+    },
+    {
+      "type": "way",
+      "id": 567108281,
+      "version": 1,
+      "timestamp": "2018-03-06T18:06:17Z",
+      "url": "https://www.openstreetmap.org/way/567108281"
+    },
+    {
+      "type": "way",
+      "id": 567108283,
+      "version": 1,
+      "timestamp": "2018-03-06T18:06:17Z",
+      "url": "https://www.openstreetmap.org/way/567108283"
+    }
+  ],
+  "wikidata": "Q1064873",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Hotel Excalibur Las Vegas.jpg",
+      "author": "ArticCynda",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Hotel_Excalibur_Las_Vegas.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Excalibur Hotel and Casino.jpg",
+      "author": "Clément Bardot",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Excalibur_Hotel_and_Casino.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Las Vegas - Excalibur Hotel 02.jpg",
+      "author": "P. Hughes",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Las_Vegas_-_Excalibur_Hotel_02.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Las Vegas. Excalibur Hotel visto dal New York New York Hotel.jpg",
+      "author": "André Corboz",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Las_Vegas._Excalibur_Hotel_visto_dal_New_York_New_York_Hotel.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/lv-excalibur.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Excalibur Hotel & Casino, Las Vegas: the two L-shaped hotel towers and the castle with its coloured turrets. Procedural, CC0-1.0. bun generators/lv-excalibur.ts",
+    "Map frame: x east, y north, z up, metres. Bearing 0: the tower wings run true north-south and east-west in OSM. The origin is the area centroid of the resort's multipolygon, relation/8086330.",
+    "Published (Wikipedia, \"Excalibur Hotel and Casino\"; Veldon Simpson, 1990): 3,981 rooms in four 28-storey towers built out in a square, with a castle front inspired by Neuschwanstein, a moat and a drawbridge. Height 79.5 m (261 ft) to the roof (Skyscraper Center / SkyscraperPage).",
+    "Measured, from OSM: the casino outline (relation/8086330's outer way, way/403190926, simplified to 1.5 m); the two L towers (way/114859870, way/114857390); the two castle blocks (way/114870395 at the Strip front, way/114870398 at the back); every turret's position and radius, and its building:levels, from the building:parts listed in the placement. The complex is near point-symmetric about its centre, and so is the turret plan: each turret on the front has a twin on the back.",
+    "Turret colours come from the USGS NAIP orthophoto (public domain), which shows the cone colours from above, matched to the photos: two big blue cones either side of a red square-pyramid roof, a tall red cone and a gold one behind them, the pink-red \"candle\" with its two corbelled drums at the north end, white crenellated drums at the south end. NAIP leans tall things west by up to ~15 m, so the match is by arrangement, not by pixel.",
+    "Photos (Wikimedia Commons):",
+    "\"Hotel Excalibur Las Vegas.jpg\", ArticCynda, CC BY-SA 4.0: a tower corner, its two blue-roofed keeps and slim red-capped turrets, the beige base with its row of small red cones, the crenellated parapet;",
+    "\"Excalibur Hotel and Casino.jpg\", Clément Bardot, CC BY-SA 4.0, and \"Las Vegas - Excalibur Hotel 02.jpg\", P. Hughes, CC BY 4.0: the castle front from the Strip side, its turrets in order;",
+    "\"Las Vegas. Excalibur Hotel visto dal New York New York Hotel.jpg\", André Corboz, CC BY-SA 4.0: the north tower and castle from above;",
+    "\"Excalibur Hotel turrets\", Carol M. Highsmith, public domain, and \"Excalibur Hotel and Casino. Las Vegas.\", Bernard Spragg, CC0: cone shapes and the corbelled drums.",
+    "Estimated: turret heights, from OSM's levels at 3.5 m and the photos (the tallest cone tip ~58 m); drum and cone proportions; the castle walls at 20 m and the casino podium at 12 m; the keeps rising 6 m over the parapet with 8 m blue roofs; the base band at 18 m. The cones are drawn a little fuller than life so they read at phone size. Left out: the moat, drawbridge, arcades, signs, finials and the merlons of the hotel parapet.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"lv-excalibur\", model \"lv-excalibur\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/lv-excalibur.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

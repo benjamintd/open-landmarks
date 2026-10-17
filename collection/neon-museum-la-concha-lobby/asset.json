@@ -1,0 +1,213 @@
+{
+  "id": "neon-museum-la-concha-lobby",
+  "name": "Neon Museum (La Concha lobby)",
+  "anchor": [
+    -115.1354129,
+    36.1770538
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 43504,
+      "sha256": "bf7d2994affa69407881f7a84d7c8d7338898cd0d8aeae22a6aa9c08c00ed17c"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 43504,
+      "sha256": "bf7d2994affa69407881f7a84d7c8d7338898cd0d8aeae22a6aa9c08c00ed17c"
+    }
+  },
+  "triangles": 1278,
+  "boundsBlenderM": [
+    [
+      -6.908,
+      -8.695,
+      0
+    ],
+    [
+      8.82,
+      7.213,
+      9.8
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -115.1353004,
+          36.1770451
+        ],
+        [
+          -115.1352834,
+          36.1770589
+        ],
+        [
+          -115.1352834,
+          36.1770832
+        ],
+        [
+          -115.1353026,
+          36.1771058
+        ],
+        [
+          -115.1353263,
+          36.177116
+        ],
+        [
+          -115.1353498,
+          36.1771144
+        ],
+        [
+          -115.1353842,
+          36.1771006
+        ],
+        [
+          -115.1354184,
+          36.1771126
+        ],
+        [
+          -115.1354443,
+          36.1771126
+        ],
+        [
+          -115.1354548,
+          36.1771059
+        ],
+        [
+          -115.1354721,
+          36.1770953
+        ],
+        [
+          -115.1354785,
+          36.1770762
+        ],
+        [
+          -115.1354744,
+          36.1770554
+        ],
+        [
+          -115.135498,
+          36.1770329
+        ],
+        [
+          -115.1355065,
+          36.1770156
+        ],
+        [
+          -115.1355087,
+          36.1770005
+        ],
+        [
+          -115.1355107,
+          36.1769932
+        ],
+        [
+          -115.1354828,
+          36.1769636
+        ],
+        [
+          -115.1354658,
+          36.176962
+        ],
+        [
+          -115.1354314,
+          36.1769793
+        ],
+        [
+          -115.1353161,
+          36.1770372
+        ],
+        [
+          -115.1353004,
+          36.1770451
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 543178410,
+    "version": 4,
+    "timestamp": "2026-05-09T21:17:05Z",
+    "url": "https://www.openstreetmap.org/way/543178410"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q6461932",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:La Concha Motel lobby.jpg",
+      "author": "Carol M. Highsmith",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:La_Concha_Motel_lobby.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:La_Concha_Motel_lobby.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:La Concha Motel, Las Vegas, Nevada.jpg",
+      "author": "designmilk from USA",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:La_Concha_Motel,_Las_Vegas,_Nevada.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Neon Museum - La Concha Motel.jpg",
+      "author": "APK",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Neon_Museum_-_La_Concha_Motel.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:La Concha Motel - Neon Museum.jpg",
+      "author": "APK",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:La_Concha_Motel_-_Neon_Museum.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/lv-neon-museum.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "The Neon Museum's visitor centre: the lobby of the La Concha Motel (Paul Revere Williams, 1961), moved from the Strip in 2006. Three thin concrete shells, each a pointed arch flaring up and out to a tip, meeting in valleys that come down almost to the ground, with glass walls under each arch. Procedural, CC0-1.0. bun generators/lv-neon-museum.ts",
+    "Map frame: x east, y north, z up, metres, built turned: three equal shells round a centre, the front valley (between the two shells with the doors) on -y. The placement bearing of 197° turns that valley to face 17°, north-north-east, towards the car park: of OSM's three valleys that is the one whose opposite shell sits off to one side, as the third shell peeks out behind the right-hand one in both front photos. The origin is the shells' centre, 0.8 m west and 0.6 m north of the area centroid of OSM way/543178410 (\"Neon Museum Gift Shop\", name:historic \"La Concha Motel Lobby\").",
+    "Measured, from OSM way/543178410, the roof outline: three lobes, the valleys between them about 5.7 m from the centre, the tips 7 to 12 m out; drawn here as an even trefoil with the tips 9 m out, which also matches the photos' ratio of tip spread to height (about 0.75).",
+    "Published: Docomomo US register and Neon Museum, Googie, \"a hyperbolic paraboloid lobby of glass and thin concrete shell\", about 1,100 sq ft inside; the tallest point about 32 ft (9.8 m), as reported in the press (Las Vegas Review-Journal).",
+    "Measured from photos: the middle of the roof about half the tips' height, the valleys coming down to about 1.5 m onto short piers, the glass under each arch rising to about 9 m.",
+    "Photos (Wikimedia Commons):",
+    "p1 \"La Concha Motel lobby.jpg\", Carol M. Highsmith, public domain: the front, square on, on its original site;",
+    "p2 \"La Concha Motel, Las Vegas, Nevada.jpg\", designmilk, CC BY-SA 2.0: the front at the Neon Museum, both front shells and the back one;",
+    "p3 \"Neon Museum - La Concha Motel.jpg\" and p4 \"La Concha Motel - Neon Museum.jpg\", APK, CC BY-SA 4.0: the front lit at night, and one shell end on.",
+    "Estimated: the shells' exact curvature (drawn as a ruled surface from a central point to each rounded-pointed arch, sagged a little), the facing (inferred, see above), the third shell's size (taken equal to the others; no licensed photo shows it square on), the shell's thickness (0.35 m). Left out: the boneyard signs, the neighbouring museum building, the planting.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"lv-neon-museum\", model \"lv-neon-museum\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/lv-neon-museum.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 142 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the lv-neon-museum-glazing finish in the window colour."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

@@ -1,0 +1,326 @@
+{
+  "id": "cleveland-clinic-lou-ruvo-center-for-brain-health",
+  "name": "Cleveland Clinic Lou Ruvo Center for Brain Health",
+  "anchor": [
+    -115.1546623,
+    36.1672742
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 155936,
+      "sha256": "531725e493c407e245e48410407ae6fab3ac3b40e2de5e7124376875444f599e"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 155936,
+      "sha256": "531725e493c407e245e48410407ae6fab3ac3b40e2de5e7124376875444f599e"
+    }
+  },
+  "triangles": 3063,
+  "boundsBlenderM": [
+    [
+      -34.399,
+      -36.54,
+      0
+    ],
+    [
+      41.127,
+      39.665,
+      24.9
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -115.1549554,
+          36.1671791
+        ],
+        [
+          -115.1550013,
+          36.1670798
+        ],
+        [
+          -115.1549801,
+          36.1670201
+        ],
+        [
+          -115.1549172,
+          36.1669632
+        ],
+        [
+          -115.1548578,
+          36.1669434
+        ],
+        [
+          -115.154806,
+          36.1669783
+        ],
+        [
+          -115.1547703,
+          36.1669632
+        ],
+        [
+          -115.1546685,
+          36.1669948
+        ],
+        [
+          -115.154632,
+          36.166979
+        ],
+        [
+          -115.154609,
+          36.1670002
+        ],
+        [
+          -115.1545802,
+          36.1670078
+        ],
+        [
+          -115.1545496,
+          36.1670489
+        ],
+        [
+          -115.1544647,
+          36.1670146
+        ],
+        [
+          -115.1543739,
+          36.1671606
+        ],
+        [
+          -115.1544002,
+          36.1671689
+        ],
+        [
+          -115.1543399,
+          36.1672264
+        ],
+        [
+          -115.1543399,
+          36.1672415
+        ],
+        [
+          -115.1541964,
+          36.1673587
+        ],
+        [
+          -115.1542609,
+          36.1674177
+        ],
+        [
+          -115.1542677,
+          36.1674108
+        ],
+        [
+          -115.154317,
+          36.1674444
+        ],
+        [
+          -115.1543127,
+          36.1674533
+        ],
+        [
+          -115.1544944,
+          36.1675349
+        ],
+        [
+          -115.1544987,
+          36.1675253
+        ],
+        [
+          -115.1545921,
+          36.1675554
+        ],
+        [
+          -115.1545802,
+          36.1675671
+        ],
+        [
+          -115.1546354,
+          36.1676
+        ],
+        [
+          -115.1546498,
+          36.1675911
+        ],
+        [
+          -115.1548153,
+          36.1676274
+        ],
+        [
+          -115.154868,
+          36.1674787
+        ],
+        [
+          -115.154885,
+          36.1674554
+        ],
+        [
+          -115.1547831,
+          36.1674197
+        ],
+        [
+          -115.1547653,
+          36.1673848
+        ],
+        [
+          -115.1548306,
+          36.1673615
+        ],
+        [
+          -115.1549325,
+          36.1673985
+        ],
+        [
+          -115.154975,
+          36.1673368
+        ],
+        [
+          -115.155031,
+          36.1673594
+        ],
+        [
+          -115.1550743,
+          36.1672881
+        ],
+        [
+          -115.1550251,
+          36.1672696
+        ],
+        [
+          -115.1550522,
+          36.1671963
+        ],
+        [
+          -115.1549554,
+          36.1671791
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 484153262,
+    "version": 4,
+    "timestamp": "2025-06-27T22:29:32Z",
+    "url": "https://www.openstreetmap.org/way/484153262"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q1988897",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Lou Ruvo Center - 2010-12-10 - South.JPG",
+      "author": "Cygnusloop99",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Lou_Ruvo_Center_-_2010-12-10_-_South.JPG",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Lou Ruvo Center - West - 2010-12-10.JPG",
+      "author": "Cygnusloop99",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Lou_Ruvo_Center_-_West_-_2010-12-10.JPG",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Lou Ruvo Center Brain Clinic - panoramio.jpg",
+      "author": "Alen Ištoković",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Lou_Ruvo_Center_Brain_Clinic_-_panoramio.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Lou Ruvo, Center for Brain Health, Las Vegas (4583166580).jpg",
+      "author": "Sandra Cohen-Rose and Colin Rose from Montreal, Canada",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Lou_Ruvo,_Center_for_Brain_Health,_Las_Vegas_(4583166580).jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Lou Ruvo Center For Brain Health Las Vegas (59457436).jpeg",
+      "author": "O Palsson",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Lou_Ruvo_Center_For_Brain_Health_Las_Vegas_(59457436).jpeg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Lou Ruvo Center (20287814466).jpg",
+      "author": "Janusz Sobolewski from Mississauga, Ontario, Canada",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Lou_Ruvo_Center_(20287814466).jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Center for Brain Health gf 429.jpg",
+      "author": "Gillfoto",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Center_for_Brain_Health_gf_429.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Gehry Las Vegas.jpg",
+      "author": "Monster4711",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Gehry_Las_Vegas.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/lv-lou-ruvo.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Cleveland Clinic Lou Ruvo Center for Brain Health, Las Vegas (Frank Gehry, 2009-10). Procedural, CC0-1.0. bun generators/lv-lou-ruvo.ts",
+    "Three parts: the white stucco clinic of stacked, staggered boxes on the north-east; the stainless-steel Keep Memory Alive event center on the south-west, drawn as three free-form lobes with a fold that overhangs the lower wall and broad punched windows; and the steel trellis between them, drawn as its long perforated grid frame and the open cage at the west end. A low white block stands at the south-east corner.",
+    "Map frame: x east, y north, z up, metres; bearing 0 (the parts are not on one axis). Origin: centroid of OSM way/484153262.",
+    "Measured:",
+    "OSM way/484153262 (\"Keep Memory Alive Event Center\", architect Frank Gehry): the outline of the whole complex. Its north-east edge, (-13.7, 39.1) to (41.9, 9.3), bearing 118°, is the clinic's long face; its south-east corner is the white block. way/130585544 (\"Lou Ruvo Center for Brain Health\") is the untagged site lot, not a building.",
+    "USGS NAIP orthophoto (public domain): the clinic's 17 m depth and the courtyard 10 m wide south-west of it; the steel lobes' grey roofs across the south-west (x -31..10, y -37..-10); the pale flat roof between them and the courtyard; the cage's bright steel at the west end (-22, 4).",
+    "Published (Wikipedia): about 65,000 sq ft; Gehry Partners; opened 2009-10. No published heights.",
+    "Photos (Wikimedia Commons), compared with renders from the same sides:",
+    "\"Lou Ruvo Center - 2010-12-10 - South.JPG\", \"... - North.JPG\", \"Lou Ruvo Center - West - 2010-12-10.JPG\", \"... - South West Corner - 2010-12-10.JPG\", \"... - South East Corner - 2010-03-05.JPG\", \"... - North West Corner - 2010-03-05.JPG\", Cygnusloop99, CC BY-SA 3.0;",
+    "\"Lou Ruvo Center Brain Clinic - panoramio.jpg\", Alen Ištoković, CC BY 3.0 (from the south-west);",
+    "\"Lou Ruvo, Center for Brain Health, Las Vegas (4583166580).jpg\", Sandra Cohen-Rose and Colin Rose, CC BY-SA 2.0 (the long grid frame behind);",
+    "\"Lou Ruvo Center For Brain Health Las Vegas (59457436).jpeg\", O Palsson, CC BY 3.0; \"Lou Ruvo Center (20287814466).jpg\", Janusz Sobolewski, CC BY 2.0; \"Center for Brain Health gf 429.jpg\", Gillfoto, CC BY-SA 4.0; \"Gehry Las Vegas.jpg\", Monster4711, CC BY-SA 3.0;",
+    "\"View of the World Market Center, Lou Ruvo Brain Institute ... LCCN2010630608\", Carol M. Highsmith, public domain (from the Stratosphere, under construction: the plan of the three parts).",
+    "Estimated: every height. The clinic at four tiers of 5-5.6 m (20.6 m), from the photos' storey count; the frame at 21 m, rising to about 25 m at its west end (N and NW photos show it just over the clinic); the steel lobes at 17.5-21 m, the white block at 9.5 m, the cage at 13-14.5 m, all scaled against the clinic in the photos. The box and bay lengths are a seeded stagger, not a survey of the real facade. The lobes' shapes are an abstraction: positions from NAIP, lean, fold and tilt from the photos.",
+    "Not modelled: the trellis's curved overhead beams over the courtyard (only its frame and cage), the coloured courtyard walls, signage.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"lv-lou-ruvo\", model \"lv-lou-ruvo\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/lv-lou-ruvo.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 540 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the lv-lou-ruvo-glazing finish in the window colour."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

@@ -1,0 +1,467 @@
+{
+  "id": "treasure-island",
+  "name": "Treasure Island",
+  "anchor": [
+    -115.1716227,
+    36.1247323
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 151504,
+      "sha256": "a2d6ecec4333f690337363f1f71a3b793f539bdf9d2d79303600ae2231089b75"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 151504,
+      "sha256": "a2d6ecec4333f690337363f1f71a3b793f539bdf9d2d79303600ae2231089b75"
+    }
+  },
+  "triangles": 2922,
+  "boundsBlenderM": [
+    [
+      -121.491,
+      -106.405,
+      0
+    ],
+    [
+      142.43,
+      71.6,
+      112.3
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -115.1729771,
+          36.1244021
+        ],
+        [
+          -115.1728682,
+          36.1243967
+        ],
+        [
+          -115.1728718,
+          36.124345
+        ],
+        [
+          -115.1716997,
+          36.1243442
+        ],
+        [
+          -115.1719027,
+          36.1241899
+        ],
+        [
+          -115.1719128,
+          36.1241777
+        ],
+        [
+          -115.1719174,
+          36.1241635
+        ],
+        [
+          -115.1719139,
+          36.1241472
+        ],
+        [
+          -115.1719048,
+          36.1241307
+        ],
+        [
+          -115.1718258,
+          36.1240653
+        ],
+        [
+          -115.1718562,
+          36.1240427
+        ],
+        [
+          -115.1717472,
+          36.1239493
+        ],
+        [
+          -115.1716324,
+          36.1240434
+        ],
+        [
+          -115.1714976,
+          36.1241093
+        ],
+        [
+          -115.1714422,
+          36.1241078
+        ],
+        [
+          -115.1714444,
+          36.1240581
+        ],
+        [
+          -115.171448,
+          36.123978
+        ],
+        [
+          -115.17145,
+          36.1239325
+        ],
+        [
+          -115.1713923,
+          36.1239285
+        ],
+        [
+          -115.1713757,
+          36.1239273
+        ],
+        [
+          -115.1713783,
+          36.1238892
+        ],
+        [
+          -115.1713795,
+          36.1238715
+        ],
+        [
+          -115.1710866,
+          36.1238624
+        ],
+        [
+          -115.1710789,
+          36.1238622
+        ],
+        [
+          -115.1710701,
+          36.1239302
+        ],
+        [
+          -115.1710468,
+          36.1239295
+        ],
+        [
+          -115.1710048,
+          36.1239283
+        ],
+        [
+          -115.1710039,
+          36.1240584
+        ],
+        [
+          -115.1710037,
+          36.1240822
+        ],
+        [
+          -115.170878,
+          36.1239847
+        ],
+        [
+          -115.1708839,
+          36.123903
+        ],
+        [
+          -115.1708862,
+          36.1238736
+        ],
+        [
+          -115.1708897,
+          36.1238273
+        ],
+        [
+          -115.1708354,
+          36.1238012
+        ],
+        [
+          -115.1707631,
+          36.1237666
+        ],
+        [
+          -115.1707379,
+          36.1237941
+        ],
+        [
+          -115.1706806,
+          36.1238892
+        ],
+        [
+          -115.170614,
+          36.1239749
+        ],
+        [
+          -115.1704811,
+          36.1241684
+        ],
+        [
+          -115.1705658,
+          36.1242289
+        ],
+        [
+          -115.1705845,
+          36.1242423
+        ],
+        [
+          -115.1706691,
+          36.1243324
+        ],
+        [
+          -115.1707172,
+          36.1244246
+        ],
+        [
+          -115.1707135,
+          36.1244993
+        ],
+        [
+          -115.1707299,
+          36.1245657
+        ],
+        [
+          -115.1708223,
+          36.1245871
+        ],
+        [
+          -115.1708025,
+          36.1246249
+        ],
+        [
+          -115.1707791,
+          36.1246681
+        ],
+        [
+          -115.1707629,
+          36.1247706
+        ],
+        [
+          -115.1707609,
+          36.1248885
+        ],
+        [
+          -115.1707053,
+          36.1249312
+        ],
+        [
+          -115.1706705,
+          36.1249262
+        ],
+        [
+          -115.1705944,
+          36.1249831
+        ],
+        [
+          -115.1705887,
+          36.1250702
+        ],
+        [
+          -115.1705674,
+          36.1251514
+        ],
+        [
+          -115.1705323,
+          36.1251748
+        ],
+        [
+          -115.1703448,
+          36.1251615
+        ],
+        [
+          -115.1703553,
+          36.1251066
+        ],
+        [
+          -115.1701804,
+          36.1250927
+        ],
+        [
+          -115.1701716,
+          36.125092
+        ],
+        [
+          -115.1701416,
+          36.1250428
+        ],
+        [
+          -115.1700351,
+          36.1252069
+        ],
+        [
+          -115.1701396,
+          36.1252906
+        ],
+        [
+          -115.1702802,
+          36.1252939
+        ],
+        [
+          -115.1705928,
+          36.1253312
+        ],
+        [
+          -115.1706395,
+          36.1253355
+        ],
+        [
+          -115.1707932,
+          36.1253436
+        ],
+        [
+          -115.170878,
+          36.1253427
+        ],
+        [
+          -115.1709084,
+          36.125353
+        ],
+        [
+          -115.1710474,
+          36.1253587
+        ],
+        [
+          -115.1710936,
+          36.1253605
+        ],
+        [
+          -115.1711863,
+          36.125364
+        ],
+        [
+          -115.1712916,
+          36.1253657
+        ],
+        [
+          -115.1717571,
+          36.1253724
+        ],
+        [
+          -115.1724951,
+          36.1253827
+        ],
+        [
+          -115.1727271,
+          36.12536
+        ],
+        [
+          -115.1728392,
+          36.1253597
+        ],
+        [
+          -115.1728444,
+          36.1252371
+        ],
+        [
+          -115.1729457,
+          36.1252372
+        ],
+        [
+          -115.172951,
+          36.1250712
+        ],
+        [
+          -115.1729524,
+          36.1250115
+        ],
+        [
+          -115.1729569,
+          36.1249217
+        ],
+        [
+          -115.1729605,
+          36.1248392
+        ],
+        [
+          -115.1729771,
+          36.1244021
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 33959894,
+    "version": 19,
+    "timestamp": "2026-03-03T20:51:54Z",
+    "url": "https://www.openstreetmap.org/way/33959894"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 27727145,
+      "version": 10,
+      "timestamp": "2025-04-25T22:40:53Z",
+      "url": "https://www.openstreetmap.org/way/27727145"
+    }
+  ],
+  "wikidata": "Q1360313",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Treasure Island Hotel Las Vegas.jpg",
+      "author": "Markbriggs at English Wikipedia",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Treasure_Island_Hotel_Las_Vegas.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Treasure_Island_Hotel_Las_Vegas.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Treasure Island Hotel, Las Vegas.jpg",
+      "author": "Clément Bardot",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Treasure_Island_Hotel,_Las_Vegas.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Mirage-treasure island tram in front of treasure island.jpg",
+      "author": "C4K3",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Mirage-treasure_island_tram_in_front_of_treasure_island.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Las Vegas. Treasure Island Hotel.jpg",
+      "author": "André Corboz",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Las_Vegas._Treasure_Island_Hotel.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/lv-treasure-island.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Treasure Island (TI), Las Vegas: the 36-storey Y-shaped hotel tower in terracotta with white-framed window stacks, arched top windows and a white cornice, on its casino podium. Procedural, CC0-1.0. bun generators/lv-treasure-island.ts",
+    "Map frame: x east, y north, z up, metres. Bearing 0: drawn in OSM's own orientation. The origin is the area centroid of the resort outline, way/33959894.",
+    "Published (Wikipedia, \"Treasure Island Hotel and Casino\"; Joel Bergman, 1993): a 36-storey tower whose plan branches three ways in a Y with the elevators in the centre, modelled on the Mirage's; repainted in 2003 in terra cotta (\"Salmon Stream\") over the earlier pink.",
+    "Measured, from OSM: the tower (way/27727145, 112 m, 38 levels, colour #B43104): a west wing 21 m wide and 75 m long and two arms to the north-east and south-east, the concave side to the Strip; the podium outline. USGS NAIP (public domain) confirms the Y and its grey roof.",
+    "Photos (Wikimedia Commons):",
+    "\"Treasure Island Hotel Las Vegas.jpg\", Markbriggs, public domain, and \"Treasure Island Hotel, Las Vegas.jpg\", Clément Bardot, CC BY-SA 4.0: the concave east face, terracotta walls, white-framed window stacks (about 7 m apart), the arched top row, white string course and cornice, white quoins up the arm ends;",
+    "\"Mirage-treasure island tram in front of treasure island.jpg\", C4K3, CC BY-SA 4.0: the same from the south-west, colours in shade;",
+    "\"Las Vegas. Treasure Island Hotel.jpg\", André Corboz, CC BY-SA 4.0: the earlier pink, for the window rhythm only.",
+    "Estimated: the podium at 14 m; the window stacks (5.6 m apart, white frame 3.4 m, glass 2.4 m in two-floor groups; the glass reads pale, sky reflected, so it is a light window variant); the crown (string course at 101 m, arched windows to 109 m, cornice at 112 m); quoins 2.4 m wide. Left out: the TI sign, the lettering, the Sirens' Cove lagoon and ships, the small stair towers at the arm ends.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"lv-treasure-island\", model \"lv-treasure-island\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/lv-treasure-island.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

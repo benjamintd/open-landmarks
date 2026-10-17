@@ -1,0 +1,181 @@
+{
+  "id": "seven-magic-mountains",
+  "name": "Seven Magic Mountains",
+  "anchor": [
+    -115.2709478,
+    35.838299
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 157792,
+      "sha256": "c86f29f2771e150134468351a579c66c3d8b4c6205b50a98d2fe1c439e17faf6"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 157792,
+      "sha256": "c86f29f2771e150134468351a579c66c3d8b4c6205b50a98d2fe1c439e17faf6"
+    }
+  },
+  "triangles": 2112,
+  "boundsBlenderM": [
+    [
+      -12.693,
+      -17.456,
+      0
+    ],
+    [
+      11.764,
+      16.203,
+      10.802
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -115.2710885,
+          35.8382435
+        ],
+        [
+          -115.2710805,
+          35.8381586
+        ],
+        [
+          -115.2710751,
+          35.8381488
+        ],
+        [
+          -115.2710565,
+          35.8381422
+        ],
+        [
+          -115.2710545,
+          35.8381429
+        ],
+        [
+          -115.2710409,
+          35.8381488
+        ],
+        [
+          -115.2708951,
+          35.8382641
+        ],
+        [
+          -115.2708893,
+          35.8382721
+        ],
+        [
+          -115.270827,
+          35.838359
+        ],
+        [
+          -115.2708224,
+          35.8383655
+        ],
+        [
+          -115.270822,
+          35.8383662
+        ],
+        [
+          -115.2708206,
+          35.8383739
+        ],
+        [
+          -115.2708174,
+          35.8384255
+        ],
+        [
+          -115.2708209,
+          35.8384355
+        ],
+        [
+          -115.2708228,
+          35.8384374
+        ],
+        [
+          -115.2708308,
+          35.8384436
+        ],
+        [
+          -115.2708459,
+          35.8384446
+        ],
+        [
+          -115.2708593,
+          35.8384352
+        ],
+        [
+          -115.271083,
+          35.838259
+        ],
+        [
+          -115.2710867,
+          35.8382545
+        ],
+        [
+          -115.2710881,
+          35.8382477
+        ],
+        [
+          -115.2710885,
+          35.8382435
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "node",
+    "id": 4489080290,
+    "version": 31,
+    "timestamp": "2026-04-09T03:30:50Z",
+    "url": "https://www.openstreetmap.org/node/4489080290"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q124059502",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/lv-seven-magic-mountains.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Seven Magic Mountains (Ugo Rondinone, 2016), in the desert south of Las Vegas: seven totems of stacked limestone boulders, each boulder painted one day-glo colour. Procedural, CC0-1.0. bun generators/lv-seven-magic-mountains.ts",
+    "Map frame: x east, y north, z up, metres. Bearing 0. The origin is the middle of the seven totems (their mean position), 4 m east-north-east of the OSM node (node/4489080290); there is no OSM building to replace.",
+    "Published (Wikipedia, \"Seven Magic Mountains\"; sevenmagicmountains.com): seven towers of painted, locally quarried boulders, 30 to 35 ft (9.1 to 10.7 m) tall, the boulders up to about 25 tons each.",
+    "Measured: the layout from the USGS NAIP orthophoto (public domain), where each totem is a bright spot with its shadow to the east: a loose line running north-north-east for about 33 m, the totems 5 to 8 m apart, the second-southernmost set back to the west. Positions to about a metre.",
+    "Photos (Openverse / Flickr), naming the totems T1 (south) to T7 (north):",
+    "f19 \"Seven Magic Mountains Nevada\", lewblank, CC BY-SA 2.0: all seven from the east, far off, so their heights compare at one scale (T3 tallest, T6 shortest) and the order of colours reads cleanly;",
+    "f1 \"Seven Magic Mountain\", Prayitno, CC BY 2.0 (49298463898): the same side, closer, boulder sizes and T3's sixth boulder;",
+    "f4 \"Seven Magic Mountains by Ugo Rondinone\", TDelCoro, CC BY-SA 2.0 (50017559538): all seven from the west, in reverse order, with people for scale: boulder heights and widths;",
+    "f5 and f3 (TDelCoro 50018885982, CC BY-SA 2.0; Prayitno 49370591508, CC BY 2.0): close views of T1, T2, T5 and T7, the boulders' blocky, rounded shapes.",
+    "The colours, top to bottom: T1 red, white, yellow, blue, black; T2 blue, white, black, white, dark teal; T3 green, yellow, orange, red, pink, pale pink; T4 pink, red, orange, yellow; T5 yellow, blue, white, pink; T6 pink, black, white; T7 orange, yellow, green, blue, pink, red. T2's teal base is drawn in the green, the pale pinks and T6's mauve in the pink, the grey-white boulders in the white.",
+    "Estimated: heights from f19 with T3 at the published 10.7 m; each boulder's height and width from f4 and f1 (people for scale), widened 15% after f5 and f3, its depth at 0.9 of its width; the boulders' irregular shapes (a seeded jitter on an eight-sided lump), their small offsets and turns in the stack. Eight finishes, two over the house limit of six: the totems are their colours, and merging any pair (red into orange, black into blue) puts two neighbouring boulders in one colour on several totems.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"lv-seven-magic-mountains\", model \"lv-seven-magic-mountains\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/lv-seven-magic-mountains.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "To fit six materials, folded lv-seven-magic-mountains-magic-orange into lv-seven-magic-mountains-magic-red (ΔE 36.5), lv-seven-magic-mountains-magic-pink into lv-seven-magic-mountains-magic-red (ΔE 45.7)."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

@@ -1,0 +1,307 @@
+{
+  "id": "the-big-apple-coaster",
+  "name": "The Big Apple Coaster",
+  "anchor": [
+    -115.174878,
+    36.1022266
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 177728,
+      "sha256": "ace93959ed8ecb1e72d0714eee13f1d651209cfa77dd772bdb7de9acad3d9699"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 177728,
+      "sha256": "ace93959ed8ecb1e72d0714eee13f1d651209cfa77dd772bdb7de9acad3d9699"
+    }
+  },
+  "triangles": 5807,
+  "boundsBlenderM": [
+    [
+      -126.63,
+      -120.431,
+      0
+    ],
+    [
+      119.732,
+      109.213,
+      61.958
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -115.1762859,
+          36.1015644
+        ],
+        [
+          -115.1762859,
+          36.101555
+        ],
+        [
+          -115.1762827,
+          36.1013803
+        ],
+        [
+          -115.1760289,
+          36.1011557
+        ],
+        [
+          -115.1760287,
+          36.1011556
+        ],
+        [
+          -115.1760188,
+          36.1011507
+        ],
+        [
+          -115.1748572,
+          36.1011447
+        ],
+        [
+          -115.1746674,
+          36.1011505
+        ],
+        [
+          -115.1744728,
+          36.1011569
+        ],
+        [
+          -115.1742557,
+          36.1011795
+        ],
+        [
+          -115.1740576,
+          36.1012422
+        ],
+        [
+          -115.1740573,
+          36.1012423
+        ],
+        [
+          -115.174049,
+          36.1012463
+        ],
+        [
+          -115.1736385,
+          36.1014727
+        ],
+        [
+          -115.1735468,
+          36.101668
+        ],
+        [
+          -115.1735468,
+          36.1016683
+        ],
+        [
+          -115.1735469,
+          36.1016761
+        ],
+        [
+          -115.1735503,
+          36.1018334
+        ],
+        [
+          -115.1735742,
+          36.1026113
+        ],
+        [
+          -115.174287,
+          36.1031813
+        ],
+        [
+          -115.1742983,
+          36.103188
+        ],
+        [
+          -115.1743226,
+          36.1031967
+        ],
+        [
+          -115.1743581,
+          36.103202
+        ],
+        [
+          -115.1745044,
+          36.1032077
+        ],
+        [
+          -115.1746385,
+          36.1032061
+        ],
+        [
+          -115.1747634,
+          36.1031989
+        ],
+        [
+          -115.1747776,
+          36.1031949
+        ],
+        [
+          -115.1750295,
+          36.1030639
+        ],
+        [
+          -115.1751827,
+          36.1029706
+        ],
+        [
+          -115.17579,
+          36.1025958
+        ],
+        [
+          -115.1759169,
+          36.1025007
+        ],
+        [
+          -115.1760518,
+          36.1023929
+        ],
+        [
+          -115.1762055,
+          36.1022485
+        ],
+        [
+          -115.1762618,
+          36.1020348
+        ],
+        [
+          -115.1762859,
+          36.1015644
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 115662438,
+    "version": 9,
+    "timestamp": "2025-08-27T21:46:43Z",
+    "url": "https://www.openstreetmap.org/way/115662438"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 1035252213,
+      "version": 3,
+      "timestamp": "2025-08-27T21:46:43Z",
+      "url": "https://www.openstreetmap.org/way/1035252213"
+    },
+    {
+      "type": "way",
+      "id": 1035252211,
+      "version": 3,
+      "timestamp": "2025-08-27T21:46:43Z",
+      "url": "https://www.openstreetmap.org/way/1035252211"
+    },
+    {
+      "type": "way",
+      "id": 1035251668,
+      "version": 5,
+      "timestamp": "2025-08-27T21:46:43Z",
+      "url": "https://www.openstreetmap.org/way/1035251668"
+    },
+    {
+      "type": "way",
+      "id": 1035251667,
+      "version": 5,
+      "timestamp": "2025-08-27T21:46:43Z",
+      "url": "https://www.openstreetmap.org/way/1035251667"
+    },
+    {
+      "type": "way",
+      "id": 1035252212,
+      "version": 5,
+      "timestamp": "2025-08-27T21:46:43Z",
+      "url": "https://www.openstreetmap.org/way/1035252212"
+    },
+    {
+      "type": "way",
+      "id": 1035252215,
+      "version": 3,
+      "timestamp": "2025-08-27T21:46:43Z",
+      "url": "https://www.openstreetmap.org/way/1035252215"
+    },
+    {
+      "type": "way",
+      "id": 1035251772,
+      "version": 5,
+      "timestamp": "2025-08-27T21:46:43Z",
+      "url": "https://www.openstreetmap.org/way/1035251772"
+    },
+    {
+      "type": "way",
+      "id": 646113820,
+      "version": 6,
+      "timestamp": "2025-08-27T21:46:43Z",
+      "url": "https://www.openstreetmap.org/way/646113820"
+    },
+    {
+      "type": "way",
+      "id": 646113823,
+      "version": 7,
+      "timestamp": "2025-08-27T21:46:43Z",
+      "url": "https://www.openstreetmap.org/way/646113823"
+    },
+    {
+      "type": "way",
+      "id": 1035252214,
+      "version": 3,
+      "timestamp": "2025-08-27T21:46:43Z",
+      "url": "https://www.openstreetmap.org/way/1035252214"
+    },
+    {
+      "type": "way",
+      "id": 646113825,
+      "version": 8,
+      "timestamp": "2025-09-24T04:08:41Z",
+      "url": "https://www.openstreetmap.org/way/646113825"
+    }
+  ],
+  "wikidata": "Q1670601",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/lv-big-apple-coaster.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "The Big Apple Coaster (Manhattan Express, 1997), New York-New York, Las Vegas: procedural, CC0-1.0. bun generators/lv-big-apple-coaster.ts (REPORT=1 for the element table)",
+    "Map frame: x east, y north, z up, metres; bearing 0. The park frame's origin is lon -115.1745, lat 36.1021 (`origin`); the model's origin is the middle of the track's footprint (see anchor), on the ground. The Strip is flat here, so the terrain grid is level. Built with ./coaster-kit.ts.",
+    "Plan: the OSM route relation 19531865, its twelve `roller_coaster=track` ways in relation order and direction of travel (way/115662438 … way/646113825), checked against a USGS NAIP orthophoto (public domain): the west and south runs, the lift on the north-west diagonal and the structure on the casino roof along the Strip all sit on the trace. The chain starts where the track leaves the casino at its north wall, just after the indoor station (node/9536189989), and is 1,333 m round in plan.",
+    "Profile: a TOGO custom looper (RCDB 139; Wikipedia: 4,777 ft, 203 ft high, a 144 ft drop, 67 mph, a vertical loop and a dive loop). The order is Wikipedia's ride description, placed on the plan by its shape:",
+    "left 135° turn out of the station s 0–48 chain lift on the north-west diagonal s 48–164, crest 62 m (203 ft) 45° left over the top, first drop (76 ft) over the driveway, foot s 240 hill curving left at the south-west corner, 54 m, s 300 second drop (144 ft, 55°) along Tropicana, foot s 352 hill in front of the tower (the big arch in every photo from the south-east), 40 m, s 410, then left over the corner onto the roof, passing 27–31 m up over the helix vertical loop on the casino roof, 24 m s 560–600 twist right into the dive loop, north end s 615–685 (a 180° hand roll) mid-course brakes on the hill along the Strip side, s 705–760 180° turn at the south end, airtime hill, 180° turn at the north end two airtime hills south, the 540° helix to the right, s 1046–1140, its stacked turns 5 m apart (its OSM turns are drawn 2 m tighter, so the helix clears the south hairpin) last airtime hill, final brakes, and indoors to the station",
+    "Heights above the ground are published for the lift (203 ft) and the second drop (144 ft); everything else is estimated from the photos below and from the energy check: modelled track 1,389 m (published 1,456; OSM's plan is simplified) and top speed 110 km/h (published 108). The casino roof under the east half is 11 m up, and every stretch over it is kept above 13 m.",
+    "Photos (Wikimedia Commons): \"New York New York Hotel and Casino in Las Vegas\" (Jbro1186, CC BY-SA 4.0), \"Las Vegas New York New York 2013\" (Tuxyso, CC BY-SA 3.0), \"The Roller Coaster of New York New York and Excalibur\" and \"New York New York in Las Vegas and its roller coaster\" (Supercarwaar, CC BY-SA 4.0), \"Big Apple Coaster 1\" and \"2\" (Jeremy Thompson, CC BY 2.0), \"New York New York Las Vegas December 2013\" (King of Hearts, CC BY-SA 3.0).",
+    "Style: red track and spine as one swept ribbon (the photos' crimson, pulled to the palette's lightness), on cream columns and A-frames. The station is indoors, so its canopy sits hidden under the casino roof of lv-new-york-new-york, which draws the building the track runs over.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"lv-big-apple-coaster\", model \"lv-big-apple-coaster\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/lv-big-apple-coaster.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

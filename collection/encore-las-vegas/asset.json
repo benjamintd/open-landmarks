@@ -1,0 +1,258 @@
+{
+  "id": "encore-las-vegas",
+  "name": "Encore Las Vegas",
+  "anchor": [
+    -115.16476,
+    36.129408
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 13,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 71192,
+      "sha256": "dc7b9a98ec736424d134a6a2921b16c61b314d30b1059011b39c6e7bb04f19bd"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 71192,
+      "sha256": "dc7b9a98ec736424d134a6a2921b16c61b314d30b1059011b39c6e7bb04f19bd"
+    }
+  },
+  "triangles": 1292,
+  "boundsBlenderM": [
+    [
+      -71.35,
+      -55.687,
+      0
+    ],
+    [
+      77.787,
+      65.359,
+      195
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -115.1655558,
+          36.1298666
+        ],
+        [
+          -115.1654081,
+          36.1297022
+        ],
+        [
+          -115.1652257,
+          36.1295203
+        ],
+        [
+          -115.1650689,
+          36.1294003
+        ],
+        [
+          -115.1648866,
+          36.1292716
+        ],
+        [
+          -115.1646928,
+          36.1291491
+        ],
+        [
+          -115.1644275,
+          36.1290372
+        ],
+        [
+          -115.1641732,
+          36.1289633
+        ],
+        [
+          -115.1640026,
+          36.128911
+        ],
+        [
+          -115.1639796,
+          36.1289734
+        ],
+        [
+          -115.1639383,
+          36.1289687
+        ],
+        [
+          -115.163897,
+          36.1290262
+        ],
+        [
+          -115.1639008,
+          36.1290701
+        ],
+        [
+          -115.1639251,
+          36.1290929
+        ],
+        [
+          -115.1639136,
+          36.1291476
+        ],
+        [
+          -115.1640995,
+          36.1291913
+        ],
+        [
+          -115.1642165,
+          36.1292272
+        ],
+        [
+          -115.1642654,
+          36.1292474
+        ],
+        [
+          -115.1643677,
+          36.1292891
+        ],
+        [
+          -115.1645579,
+          36.1293861
+        ],
+        [
+          -115.164707,
+          36.1294712
+        ],
+        [
+          -115.1648969,
+          36.1296064
+        ],
+        [
+          -115.1650687,
+          36.1297576
+        ],
+        [
+          -115.1650971,
+          36.1297826
+        ],
+        [
+          -115.1651975,
+          36.1298922
+        ],
+        [
+          -115.1653012,
+          36.130001
+        ],
+        [
+          -115.1653704,
+          36.1299482
+        ],
+        [
+          -115.1654139,
+          36.129987
+        ],
+        [
+          -115.1655024,
+          36.1299337
+        ],
+        [
+          -115.1654799,
+          36.1299022
+        ],
+        [
+          -115.1655558,
+          36.1298666
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 27910891,
+    "version": 22,
+    "timestamp": "2023-11-26T23:52:07Z",
+    "url": "https://www.openstreetmap.org/way/27910891"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q1340132",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Encore, Las Vegas Strip.jpg",
+      "author": "Ken Lund",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Encore,_Las_Vegas_Strip.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Encore, Las Vegas.jpg",
+      "author": "Clément Bardot",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Encore,_Las_Vegas.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Desert Inn Road and the Encore in Las Vegas, Nevada, September 2026.jpg",
+      "author": "TheYearbookTeacher",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Desert_Inn_Road_and_the_Encore_in_Las_Vegas,_Nevada,_September_2026.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Encore-wynn-towers.JPG",
+      "author": "HoppingRabbit34",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Encore-wynn-towers.JPG",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Encore in Las Vegas (4096504781).jpg",
+      "author": "John Fowler from Placitas, NM, USA",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Encore_in_Las_Vegas_(4096504781).jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/lv-encore.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Encore Las Vegas: the Wynn's sister tower (2008), a taller, deeper, shorter crescent of the same bronze glass. Procedural, CC0-1.0. bun generators/lv-encore.ts",
+    "Built with the Wynn-family tower in lv-wynn.ts: a crescent slab striped with pale floor lines, square ends each with a projecting bay.",
+    "Map frame: x east, y north, z up, metres. Bearing 0: the plan is drawn in OSM's own orientation. The origin is the area centroid of the tower's outline, way/27910891 (36.129408, -115.164760).",
+    "Published (Wikipedia, \"Encore Las Vegas\"): opened December 2008, 631 ft (192 m), 52 storeys (numbered to 63); \"a curved bronze-glass tower similar to Wynn Las Vegas\". OSM tags height=192, building:levels=52, building:colour=#B8860B, building:material=glass.",
+    "Measured, from OSM way/27910891: both curved faces fit circles about one centre (135, 176) within 1 m, radius 213.7 m (the concave north-east face, towards Desert Inn Road) and 241.3 m (the convex south-west face), so the slab is 27.6 m deep, deeper than the Wynn's 23.5, and runs from −148.9° to −106.1°, 169 m along its middle: shorter and more tightly curved than the Wynn. Each end carries a bay about 10 to 13 m wide and 4 m proud. The USGS NAIP orthophoto (public domain) confirms the crescent and the squared block at the south-east end.",
+    "Photos (Wikimedia Commons):",
+    "\"Encore, Las Vegas Strip.jpg\", Ken Lund, CC BY-SA 2.0: the concave face close on: dark bronze, a pale line every two storeys, a plain top band;",
+    "\"Encore, Las Vegas.jpg\", Clément Bardot, CC BY-SA 4.0: from the Strip to the north-west, the end bay as a narrower slab, a dark slot beside it, rising a little above the roof;",
+    "\"Desert Inn Road and the Encore in Las Vegas, Nevada, September 2026.jpg\", TheYearbookTeacher, CC BY-SA 4.0: from the east, the concave face and the south-east end block;",
+    "\"Encore-wynn-towers.JPG\", HoppingRabbit34, CC BY-SA 3.0: from the golf course, beside the Wynn, slimmer and taller;",
+    "\"Encore in Las Vegas (4096504781).jpg\", John Fowler, CC BY 2.0: with the Wynn from the Strip, same glass and lines.",
+    "Estimated: as for the Wynn, the bays' size and their 3 m rise, the line spacing (drawn every 12 m, three storeys, so they stay clean at phone size; the real lines are every two) and the bevels. Signage, the podium and the Encore Beach Club are left out.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"lv-encore\", model \"lv-encore\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/lv-encore.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

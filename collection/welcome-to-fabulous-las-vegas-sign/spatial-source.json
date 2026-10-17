@@ -1,0 +1,230 @@
+{
+  "id": "welcome-to-fabulous-las-vegas-sign",
+  "anchor": [
+    -115.1727735,
+    36.0820593
+  ],
+  "coordinateSystem": "Local metres about the anchor (equirectangular, WGS84 radius): X east, Y north, Z up. glTF export: X east, Y up, Z south. Heading already baked.",
+  "license": "ODbL-1.0",
+  "footprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -3.166787555385673,
+          -0.02226389762786024
+        ],
+        [
+          -3.1218047777229017,
+          -0.5232016065147902
+        ],
+        [
+          -2.330107888556862,
+          -0.5454655049336231
+        ],
+        [
+          -2.2671319995732855,
+          -0.5343335557242067
+        ],
+        [
+          -2.01522844363898,
+          -0.5120696573053739
+        ],
+        [
+          2.0062318898963087,
+          -0.16697923576832832
+        ],
+        [
+          2.186163000547391,
+          -0.1447153373494955
+        ],
+        [
+          2.2491388895309674,
+          -0.1447153373494955
+        ],
+        [
+          3.166787555385673,
+          0.022263898418832796
+        ],
+        [
+          3.1218047777229017,
+          0.5232016073057628
+        ],
+        [
+          2.3840872225192795,
+          0.5120696580963464
+        ],
+        [
+          -0.2609001109554645,
+          0.42301406521198787
+        ],
+        [
+          -0.6477519998780815,
+          0.3896182183747112
+        ],
+        [
+          -1.5654006657327866,
+          0.3116945746997689
+        ],
+        [
+          -1.952252554655404,
+          0.27829872707151976
+        ],
+        [
+          -3.166787555385673,
+          -0.02226389762786024
+        ]
+      ]
+    ]
+  },
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -115.1728087,
+          36.0820591
+        ],
+        [
+          -115.1728082,
+          36.0820546
+        ],
+        [
+          -115.1727994,
+          36.0820544
+        ],
+        [
+          -115.1727987,
+          36.0820545
+        ],
+        [
+          -115.1727959,
+          36.0820547
+        ],
+        [
+          -115.1727512,
+          36.0820578
+        ],
+        [
+          -115.1727492,
+          36.082058
+        ],
+        [
+          -115.1727485,
+          36.082058
+        ],
+        [
+          -115.1727383,
+          36.0820595
+        ],
+        [
+          -115.1727388,
+          36.082064
+        ],
+        [
+          -115.172747,
+          36.0820639
+        ],
+        [
+          -115.1727764,
+          36.0820631
+        ],
+        [
+          -115.1727807,
+          36.0820628
+        ],
+        [
+          -115.1727909,
+          36.0820621
+        ],
+        [
+          -115.1727952,
+          36.0820618
+        ],
+        [
+          -115.1728087,
+          36.0820591
+        ]
+      ]
+    ]
+  },
+  "parts": [
+    {
+      "osm": "node/1485974042",
+      "tags": {
+        "addr:city": "Las Vegas",
+        "addr:housenumber": "5200",
+        "addr:postcode": "89119",
+        "addr:state": "NV",
+        "addr:street": "South Las Vegas Boulevard",
+        "alt_name": "Welcome to Las Vegas Sign",
+        "board_type": "welcome_sign",
+        "direction": "175",
+        "image": "https://commons.wikimedia.org/wiki/File:Welcome_to_Fabulous_Las_Vegas.jpg",
+        "information": "board",
+        "inscription": "Welcome to Fabulous Las Vegas",
+        "landmark": "10",
+        "name": "Welcome to Fabulous Las Vegas Sign",
+        "name:de": "Schild „Willkommen im fabelhaften Las Vegas“",
+        "name:ko": "라스베이거스 사인",
+        "note": "way/135295757",
+        "operator": "Young Electric Sign Company",
+        "source": "wikipedia;aerial imagery",
+        "start_date": "1959",
+        "subject:wikidata": "Q23768",
+        "subject:wikipedia": "en:Las Vegas",
+        "tourism": "attraction",
+        "website": "https://www.vegas.com/attractions/on-the-strip/welcome-las-vegas-sign/",
+        "wheelchair": "yes",
+        "wikidata": "Q175665",
+        "wikipedia": "en:Welcome to Fabulous Las Vegas sign"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "version": 7,
+      "timestamp": "2026-08-30T16:00:11Z"
+    }
+  ],
+  "osm": {
+    "type": "node",
+    "id": 1485974042,
+    "version": 7,
+    "timestamp": "2026-08-30T16:00:11Z",
+    "url": "https://www.openstreetmap.org/node/1485974042"
+  },
+  "additionalOsm": [],
+  "tags": {
+    "addr:city": "Las Vegas",
+    "addr:housenumber": "5200",
+    "addr:postcode": "89119",
+    "addr:state": "NV",
+    "addr:street": "South Las Vegas Boulevard",
+    "alt_name": "Welcome to Las Vegas Sign",
+    "board_type": "welcome_sign",
+    "direction": "175",
+    "image": "https://commons.wikimedia.org/wiki/File:Welcome_to_Fabulous_Las_Vegas.jpg",
+    "information": "board",
+    "inscription": "Welcome to Fabulous Las Vegas",
+    "landmark": "10",
+    "name": "Welcome to Fabulous Las Vegas Sign",
+    "name:de": "Schild „Willkommen im fabelhaften Las Vegas“",
+    "name:ko": "라스베이거스 사인",
+    "note": "way/135295757",
+    "operator": "Young Electric Sign Company",
+    "source": "wikipedia;aerial imagery",
+    "start_date": "1959",
+    "subject:wikidata": "Q23768",
+    "subject:wikipedia": "en:Las Vegas",
+    "tourism": "attraction",
+    "website": "https://www.vegas.com/attractions/on-the-strip/welcome-las-vegas-sign/",
+    "wheelchair": "yes",
+    "wikidata": "Q175665",
+    "wikipedia": "en:Welcome to Fabulous Las Vegas sign"
+  },
+  "note": "This landmark replaces no mapped building; the OSM feature cited is the one that names it."
+}

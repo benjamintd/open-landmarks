@@ -1,0 +1,167 @@
+{
+  "id": "veer-towers",
+  "name": "Veer Towers",
+  "anchor": [
+    -115.174681,
+    36.107407
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 40072,
+      "sha256": "e949337ba96f0ef213b82769674b91649f2eb3de67de2e9f072dffbd716bb67a"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 40072,
+      "sha256": "e949337ba96f0ef213b82769674b91649f2eb3de67de2e9f072dffbd716bb67a"
+    }
+  },
+  "triangles": 687,
+  "boundsBlenderM": [
+    [
+      -44.27,
+      -37.43,
+      0
+    ],
+    [
+      44.03,
+      36.432,
+      132
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -115.1751633,
+          36.1076413
+        ],
+        [
+          -115.1748337,
+          36.1075382
+        ],
+        [
+          -115.1748316,
+          36.107175
+        ],
+        [
+          -115.1751705,
+          36.1072761
+        ],
+        [
+          -115.1751633,
+          36.1076413
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 52134835,
+    "version": 10,
+    "timestamp": "2026-05-27T16:18:12Z",
+    "url": "https://www.openstreetmap.org/way/52134835"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 52134834,
+      "version": 10,
+      "timestamp": "2026-05-27T16:18:12Z",
+      "url": "https://www.openstreetmap.org/way/52134834"
+    }
+  ],
+  "wikidata": "Q634258",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Veer Towers - South - 2010-03-07.JPG",
+      "author": "Cygnusloop99",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Veer_Towers_-_South_-_2010-03-07.JPG",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Veer Towers (23793655619).jpg",
+      "author": "Thomas Duesing from San Antonio, Texas",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Veer_Towers_(23793655619).jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Veer Towers Las Vegas.jpg",
+      "author": "Antoine Taveneaux",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Veer_Towers_Las_Vegas.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Veer Towers West.jpg",
+      "author": "Supercarwaar",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Veer_Towers_West.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Veer Towers East.jpg",
+      "author": "Supercarwaar",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Veer_Towers_East.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Aria and Veer Towers - December 2019 - Sarah Stierch.jpg",
+      "author": "Missvain",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Aria_and_Veer_Towers_-_December_2019_-_Sarah_Stierch.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/lv-veer-towers.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Veer Towers, Las Vegas: the twin 37-storey condominium towers that lean five degrees in opposite directions, glass walls patched with yellow panels, each crowned by a pale louvre screen. One model, both towers. Procedural, CC0-1.0. bun generators/lv-veer-towers.ts",
+    "Map frame: x east, y north, z up, metres. Bearing 0: drawn in OSM's own orientation. The origin is the midpoint between the two outlines' centroids (36.107407, -115.174681).",
+    "Published (Wikipedia, \"Veer Towers\"; Murphy/Jahn, opened 2010): twin 37-storey towers, 480 ft (146 m), that \"tilt in opposite directions at a five-degree angle\" on parallelogram-shaped footprints, with yellow panels on the glass to reflect sunlight. OSM: way/52134835 (West) and way/52134834 (East), 132 m, 37 levels.",
+    "Measured, from OSM: both footprints are the same parallelogram, about 30 m east-west, with north-south sides 40 m long and the north and south sides sloping 11.4 m down to the east; the towers stand 57 m apart.",
+    "Photos (Wikimedia Commons):",
+    "\"Veer Towers - South - 2010-03-07.JPG\", Cygnusloop99, CC BY-SA 3.0: from Aria, to the west: the West tower in front, square to the view; the East tower behind it leaning clearly to the north;",
+    "\"Veer Towers (23793655619).jpg\", Thomas Duesing, CC BY 2.0: from the Strip, east: the West tower leaning south, behind the East tower (whose own lean hardly shows from there);",
+    "\"Veer Towers Las Vegas.jpg\", Antoine Taveneaux, CC BY-SA 3.0, \"Veer Towers West.jpg\" and \"Veer Towers East.jpg\", Supercarwaar, CC BY-SA 4.0, and \"Aria and Veer Towers - December 2019 - Sarah Stierch.jpg\", Missvain, CC BY 4.0: the patchwork of yellow and clear glass panels, in vertical runs, and the pale louvred screen at the top.",
+    "Estimated: the lean directions, West to the south and East to the north (along their north-south sides), from the two photos above. The USGS NAIP orthophoto could not confirm it: its relief displacement of the roofs is larger than the lean. The height: OSM's 132 m is used for the roof; the published 146 m would include the screen, drawn here to 136 m. The yellow pattern is drawn as panels three storeys tall and a fifth of a face wide, about three in five of them yellow, placed by a fixed hash rather than copied panel for panel. Left out: the glass lobbies and the podium bridges, which belong to the Crystals and the sidewalk.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"lv-veer-towers\", model \"lv-veer-towers\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/lv-veer-towers.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

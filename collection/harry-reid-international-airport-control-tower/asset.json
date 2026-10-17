@@ -1,0 +1,194 @@
+{
+  "id": "harry-reid-international-airport-control-tower",
+  "name": "Harry Reid International Airport control tower",
+  "anchor": [
+    -115.141597,
+    36.084946
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 23920,
+      "sha256": "fc38058c8d702f9784336eeda1bc7f53d9f20eb5cd6ddc77f84ef17effa1dcc6"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 23920,
+      "sha256": "fc38058c8d702f9784336eeda1bc7f53d9f20eb5cd6ddc77f84ef17effa1dcc6"
+    }
+  },
+  "triangles": 424,
+  "boundsBlenderM": [
+    [
+      -11.641,
+      -11.641,
+      0
+    ],
+    [
+      11.641,
+      11.641,
+      109
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -115.1416492,
+          36.0850022
+        ],
+        [
+          -115.1416241,
+          36.0850129
+        ],
+        [
+          -115.1415959,
+          36.0850167
+        ],
+        [
+          -115.1415679,
+          36.085013
+        ],
+        [
+          -115.1415426,
+          36.0850021
+        ],
+        [
+          -115.141523,
+          36.0849855
+        ],
+        [
+          -115.1415111,
+          36.0849646
+        ],
+        [
+          -115.141508,
+          36.0849407
+        ],
+        [
+          -115.1415149,
+          36.0849173
+        ],
+        [
+          -115.1415312,
+          36.0848971
+        ],
+        [
+          -115.1415548,
+          36.0848825
+        ],
+        [
+          -115.141583,
+          36.0848749
+        ],
+        [
+          -115.1416127,
+          36.0848755
+        ],
+        [
+          -115.1416406,
+          36.084884
+        ],
+        [
+          -115.1416633,
+          36.0848995
+        ],
+        [
+          -115.1416779,
+          36.0849191
+        ],
+        [
+          -115.141684,
+          36.0849417
+        ],
+        [
+          -115.1416809,
+          36.0849646
+        ],
+        [
+          -115.1416689,
+          36.0849854
+        ],
+        [
+          -115.1416492,
+          36.0850022
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 340018195,
+    "version": 4,
+    "timestamp": "2025-02-08T06:20:51Z",
+    "url": "https://www.openstreetmap.org/way/340018195"
+  },
+  "additionalOsm": [],
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:LAS LAS VEGAS TOWER CONTROL (10509713443).jpg",
+      "author": "Eric Salard",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:LAS_LAS_VEGAS_TOWER_CONTROL_(10509713443).jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:LAS ATC & Viewing Tower.jpg",
+      "author": "Noah Wulf",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:LAS_ATC_%26_Viewing_Tower.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:LAS Control Tower (5997073831).jpg",
+      "author": "Tomás Del Coro from Las Vegas, Nevada, USA",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:LAS_Control_Tower_(5997073831).jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/lv-las-tower.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "The air traffic control tower at Harry Reid International Airport, Las Vegas (FAA, completed 2016): a fluted sandstone shaft whose four ribs flare out under a pale faceted bulb of equipment floors, topped by the glass cab and its roof. Procedural, CC0-1.0. bun generators/lv-las-tower.ts",
+    "Map frame: x east, y north, z up, metres. Bearing 0 (the shaft's ribs stand at the corners, the flutes face the compass). The origin is the centroid of the OSM outline, way/340018195, a 16 m circle.",
+    "Measured, from OSM: the shaft's 16 m footprint; height 109 m (way/340018195, building:levels 28).",
+    "Measured, from photos, scaled by the 109 m total and the 16 m shaft:",
+    "p2 \"LAS LAS VEGAS TOWER CONTROL (10509713443).jpg\", Eric Salard, CC BY-SA 2.0 (from the south-west across the apron): the shaft to 78 m, flaring over its top 8 m; the bulb about 23 m across from 78 to 102 m, with window bands at its foot and two thirds of the way up; the cab;",
+    "p3 \"LAS ATC & Viewing Tower.jpg\", Noah Wulf, CC BY-SA 4.0 (from the east): the four ribs and the flutes between them, the bulb's facets narrowing in to the cab, and the cab's roof;",
+    "p1 \"LAS Control Tower (5997073831).jpg\" and p4 \"New LAS Control Tower under construction... (6890232105)\", Tomás Del Coro, CC BY-SA 2.0: the shaft's warm sandstone against the pale bulb.",
+    "Estimated: the flutes' width and depth (5.2 m, 2 m), the bulb's octagon and its exact profile, the cab's size (13 m across, 4.5 m of glass), the window bands' heights. The lower buildings round the base (way/340018196, way/340018197) are left to the map.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"lv-las-tower\", model \"lv-las-tower\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/lv-las-tower.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 480 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the lv-las-tower-glazing finish in the window colour."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

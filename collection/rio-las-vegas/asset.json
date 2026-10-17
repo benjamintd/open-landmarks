@@ -1,0 +1,788 @@
+{
+  "id": "rio-las-vegas",
+  "name": "Rio Las Vegas",
+  "anchor": [
+    -115.1875384,
+    36.1173512
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 71760,
+      "sha256": "59e0870b581b50373a287e18f2f962b7c81cbaa5210dd41b193267082f6ebd30"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 71760,
+      "sha256": "59e0870b581b50373a287e18f2f962b7c81cbaa5210dd41b193267082f6ebd30"
+    }
+  },
+  "triangles": 1440,
+  "boundsBlenderM": [
+    [
+      -161.1,
+      -139.201,
+      0
+    ],
+    [
+      196.798,
+      178.6,
+      140.3
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -115.1859004,
+          36.1170677
+        ],
+        [
+          -115.1853465,
+          36.117072
+        ],
+        [
+          -115.1853479,
+          36.1169572
+        ],
+        [
+          -115.1854129,
+          36.116896
+        ],
+        [
+          -115.1854135,
+          36.1168514
+        ],
+        [
+          -115.1854143,
+          36.1167893
+        ],
+        [
+          -115.1856107,
+          36.1166252
+        ],
+        [
+          -115.1856101,
+          36.1165174
+        ],
+        [
+          -115.1857516,
+          36.116402
+        ],
+        [
+          -115.1857871,
+          36.1164296
+        ],
+        [
+          -115.1858737,
+          36.1163569
+        ],
+        [
+          -115.1858772,
+          36.1163244
+        ],
+        [
+          -115.1858893,
+          36.1162992
+        ],
+        [
+          -115.1859158,
+          36.1162769
+        ],
+        [
+          -115.1859879,
+          36.1162349
+        ],
+        [
+          -115.1860757,
+          36.1161988
+        ],
+        [
+          -115.186133,
+          36.1161797
+        ],
+        [
+          -115.1861756,
+          36.1161655
+        ],
+        [
+          -115.1863261,
+          36.1161316
+        ],
+        [
+          -115.1864329,
+          36.1161181
+        ],
+        [
+          -115.1865203,
+          36.1160968
+        ],
+        [
+          -115.1865848,
+          36.1160949
+        ],
+        [
+          -115.1866683,
+          36.1161141
+        ],
+        [
+          -115.1866724,
+          36.116115
+        ],
+        [
+          -115.1867671,
+          36.1161255
+        ],
+        [
+          -115.1868006,
+          36.1161326
+        ],
+        [
+          -115.1869071,
+          36.1161551
+        ],
+        [
+          -115.1870011,
+          36.1161843
+        ],
+        [
+          -115.1871067,
+          36.1162289
+        ],
+        [
+          -115.1872036,
+          36.1162758
+        ],
+        [
+          -115.1872254,
+          36.1162947
+        ],
+        [
+          -115.1872366,
+          36.1163142
+        ],
+        [
+          -115.1872406,
+          36.1163365
+        ],
+        [
+          -115.1872373,
+          36.1163586
+        ],
+        [
+          -115.1872844,
+          36.116402
+        ],
+        [
+          -115.1872737,
+          36.1164112
+        ],
+        [
+          -115.1874346,
+          36.1165461
+        ],
+        [
+          -115.1879157,
+          36.1165461
+        ],
+        [
+          -115.1879235,
+          36.1165461
+        ],
+        [
+          -115.1879704,
+          36.1165634
+        ],
+        [
+          -115.1882252,
+          36.1165602
+        ],
+        [
+          -115.1882781,
+          36.116541
+        ],
+        [
+          -115.1883447,
+          36.1165408
+        ],
+        [
+          -115.1883634,
+          36.1165407
+        ],
+        [
+          -115.188393,
+          36.1165177
+        ],
+        [
+          -115.1884136,
+          36.1165017
+        ],
+        [
+          -115.188696,
+          36.1164981
+        ],
+        [
+          -115.1887931,
+          36.1164969
+        ],
+        [
+          -115.1890991,
+          36.1167461
+        ],
+        [
+          -115.1890941,
+          36.1167502
+        ],
+        [
+          -115.1890481,
+          36.1167876
+        ],
+        [
+          -115.188958,
+          36.1168617
+        ],
+        [
+          -115.1889348,
+          36.1168808
+        ],
+        [
+          -115.1891277,
+          36.1170347
+        ],
+        [
+          -115.1891425,
+          36.1170239
+        ],
+        [
+          -115.1892498,
+          36.1170249
+        ],
+        [
+          -115.1893316,
+          36.1170889
+        ],
+        [
+          -115.1893329,
+          36.1175406
+        ],
+        [
+          -115.1891344,
+          36.1177053
+        ],
+        [
+          -115.1891384,
+          36.118143
+        ],
+        [
+          -115.189066,
+          36.1181451
+        ],
+        [
+          -115.1890633,
+          36.1182394
+        ],
+        [
+          -115.1889105,
+          36.1182416
+        ],
+        [
+          -115.1888823,
+          36.1182199
+        ],
+        [
+          -115.1888219,
+          36.1182665
+        ],
+        [
+          -115.1887549,
+          36.1182145
+        ],
+        [
+          -115.1887549,
+          36.1181506
+        ],
+        [
+          -115.188771,
+          36.1181343
+        ],
+        [
+          -115.1887522,
+          36.1181181
+        ],
+        [
+          -115.1887308,
+          36.1181354
+        ],
+        [
+          -115.1887267,
+          36.1182502
+        ],
+        [
+          -115.1885792,
+          36.1182513
+        ],
+        [
+          -115.1885122,
+          36.1181961
+        ],
+        [
+          -115.188244,
+          36.1181961
+        ],
+        [
+          -115.188185,
+          36.1181484
+        ],
+        [
+          -115.1881166,
+          36.1182036
+        ],
+        [
+          -115.1878631,
+          36.1180011
+        ],
+        [
+          -115.187792,
+          36.1180606
+        ],
+        [
+          -115.1876727,
+          36.1179588
+        ],
+        [
+          -115.1874595,
+          36.1181332
+        ],
+        [
+          -115.1875533,
+          36.118208
+        ],
+        [
+          -115.1875144,
+          36.1182372
+        ],
+        [
+          -115.1875131,
+          36.1183206
+        ],
+        [
+          -115.187446,
+          36.1183217
+        ],
+        [
+          -115.1874434,
+          36.1184701
+        ],
+        [
+          -115.1874943,
+          36.1184701
+        ],
+        [
+          -115.1874943,
+          36.1186738
+        ],
+        [
+          -115.1875654,
+          36.1186727
+        ],
+        [
+          -115.1875627,
+          36.1188861
+        ],
+        [
+          -115.1874367,
+          36.1188872
+        ],
+        [
+          -115.187434,
+          36.1189695
+        ],
+        [
+          -115.187322,
+          36.1189701
+        ],
+        [
+          -115.1869084,
+          36.1189694
+        ],
+        [
+          -115.186909,
+          36.1187339
+        ],
+        [
+          -115.1865904,
+          36.1187333
+        ],
+        [
+          -115.1865918,
+          36.1186532
+        ],
+        [
+          -115.1865495,
+          36.1186537
+        ],
+        [
+          -115.1865508,
+          36.1185683
+        ],
+        [
+          -115.1865522,
+          36.1184788
+        ],
+        [
+          -115.1865924,
+          36.1184782
+        ],
+        [
+          -115.1865924,
+          36.1180243
+        ],
+        [
+          -115.1863852,
+          36.1180238
+        ],
+        [
+          -115.1863868,
+          36.1178794
+        ],
+        [
+          -115.1863868,
+          36.1178523
+        ],
+        [
+          -115.1864546,
+          36.1178523
+        ],
+        [
+          -115.1865534,
+          36.1178526
+        ],
+        [
+          -115.1865541,
+          36.1177784
+        ],
+        [
+          -115.1866455,
+          36.1177779
+        ],
+        [
+          -115.1866571,
+          36.1177683
+        ],
+        [
+          -115.1866065,
+          36.1177269
+        ],
+        [
+          -115.1866548,
+          36.117687
+        ],
+        [
+          -115.1866234,
+          36.117663
+        ],
+        [
+          -115.186708,
+          36.1175955
+        ],
+        [
+          -115.1867381,
+          36.1176196
+        ],
+        [
+          -115.1867844,
+          36.1175826
+        ],
+        [
+          -115.1868694,
+          36.1176512
+        ],
+        [
+          -115.1869043,
+          36.11762
+        ],
+        [
+          -115.1870638,
+          36.1175876
+        ],
+        [
+          -115.1871476,
+          36.1175216
+        ],
+        [
+          -115.1871986,
+          36.1175601
+        ],
+        [
+          -115.1872549,
+          36.117513
+        ],
+        [
+          -115.1872073,
+          36.117474
+        ],
+        [
+          -115.1874943,
+          36.1172335
+        ],
+        [
+          -115.1873562,
+          36.1171273
+        ],
+        [
+          -115.1872871,
+          36.1171284
+        ],
+        [
+          -115.1872281,
+          36.1170829
+        ],
+        [
+          -115.1871993,
+          36.1171051
+        ],
+        [
+          -115.1871215,
+          36.1170439
+        ],
+        [
+          -115.187036,
+          36.1171114
+        ],
+        [
+          -115.1870475,
+          36.1171217
+        ],
+        [
+          -115.1869638,
+          36.1171885
+        ],
+        [
+          -115.1869539,
+          36.1171799
+        ],
+        [
+          -115.1869351,
+          36.1171858
+        ],
+        [
+          -115.1869143,
+          36.1171901
+        ],
+        [
+          -115.1868975,
+          36.1171918
+        ],
+        [
+          -115.1868788,
+          36.1171907
+        ],
+        [
+          -115.1868627,
+          36.1171863
+        ],
+        [
+          -115.1868459,
+          36.1171769
+        ],
+        [
+          -115.1868338,
+          36.1171869
+        ],
+        [
+          -115.1866058,
+          36.1170265
+        ],
+        [
+          -115.186581,
+          36.1170098
+        ],
+        [
+          -115.1865616,
+          36.1169946
+        ],
+        [
+          -115.1865441,
+          36.1169794
+        ],
+        [
+          -115.1865287,
+          36.1169621
+        ],
+        [
+          -115.186514,
+          36.116942
+        ],
+        [
+          -115.1865032,
+          36.1169242
+        ],
+        [
+          -115.1864945,
+          36.1169063
+        ],
+        [
+          -115.1864281,
+          36.1169058
+        ],
+        [
+          -115.1863946,
+          36.1169345
+        ],
+        [
+          -115.1863631,
+          36.116955
+        ],
+        [
+          -115.1863296,
+          36.116967
+        ],
+        [
+          -115.186296,
+          36.1169729
+        ],
+        [
+          -115.1862618,
+          36.116974
+        ],
+        [
+          -115.1862297,
+          36.116968
+        ],
+        [
+          -115.1861961,
+          36.1169578
+        ],
+        [
+          -115.1859019,
+          36.1169616
+        ],
+        [
+          -115.1859004,
+          36.1170677
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 116876230,
+    "version": 16,
+    "timestamp": "2026-05-21T10:38:34Z",
+    "url": "https://www.openstreetmap.org/way/116876230"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 27998220,
+      "version": 10,
+      "timestamp": "2025-10-25T21:11:41Z",
+      "url": "https://www.openstreetmap.org/way/27998220"
+    },
+    {
+      "type": "way",
+      "id": 27998223,
+      "version": 9,
+      "timestamp": "2025-09-01T23:42:08Z",
+      "url": "https://www.openstreetmap.org/way/27998223"
+    },
+    {
+      "type": "way",
+      "id": 134938477,
+      "version": 5,
+      "timestamp": "2025-10-24T01:20:10Z",
+      "url": "https://www.openstreetmap.org/way/134938477"
+    },
+    {
+      "type": "way",
+      "id": 134938479,
+      "version": 3,
+      "timestamp": "2025-10-24T01:20:10Z",
+      "url": "https://www.openstreetmap.org/way/134938479"
+    },
+    {
+      "type": "way",
+      "id": 134938481,
+      "version": 3,
+      "timestamp": "2019-07-25T16:28:04Z",
+      "url": "https://www.openstreetmap.org/way/134938481"
+    }
+  ],
+  "wikidata": "Q739914",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Rio Hotel and Casino new tower.jpg",
+      "author": "Amadscientist",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Rio_Hotel_and_Casino_new_tower.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Rio Hotel Vegas (7980421069).jpg",
+      "author": "Sean MacEntee from Monaghan, Ireland",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Rio_Hotel_Vegas_(7980421069).jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Rio All-Suite Hotel & Casino Las Vegas.jpg",
+      "author": "Tomás Del Coro",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Rio_All-Suite_Hotel_%26_Casino_Las_Vegas.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Rio Vegas.JPG",
+      "author": "Ypsilon from Finland",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Rio_Vegas.JPG",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/lv-rio.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Rio Las Vegas: the Masquerade Tower, a crescent of blue glass whose faces carry the Rio's red sweeping bands, stepping up in the middle to the VooDoo lounge; the red-glass Ipanema Tower, a Y of three wings; and the casino podium. Procedural, CC0-1.0. bun generators/lv-rio.ts",
+    "Map frame: x east, y north, z up, metres. Bearing 0: drawn in OSM's own orientation. The origin is the area centroid of the resort outline, way/116876230.",
+    "Published (Wikipedia, \"Rio Las Vegas\", \"List of tallest buildings in Las Vegas\"): the Masquerade Tower, 41 storeys, 423 ft (129 m), 1997; the original hotel tower of 1990, extended into its Y in the early 1990s.",
+    "Measured, from OSM: the resort outline; the Ipanema Tower (way/27998220, 74 m, 20 levels): wings to the north-west, north-east and south, each about 20 m wide; the Masquerade Tower (way/27998223, tagged 129 m and 41 levels): a crescent 123 m long, convex to the south, concave to the north, with round ends, and its stepped crown (way/134938481, 120 m; way/134938477, 130 m; way/134938479, 140 m, the VooDoo rooftop), nested in the middle of the plan. USGS NAIP (public domain) confirms the plan and the flat pale podium roofs.",
+    "Photos (Wikimedia Commons):",
+    "p12 \"Rio Hotel and Casino new tower.jpg\", Amadscientist, CC BY-SA 4.0: the Masquerade's concave north face: blue glass, a blue middle column rising into the crown, and red bands either side that run straight up for about half the height, then sweep out to the top corners, with a red band along the wing tops;",
+    "p10 \"Rio Hotel Vegas (7980421069).jpg\", Sean MacEntee, CC BY 2.0: the convex south face with the same pattern, the stepped crown, and the red Ipanema wings either side;",
+    "p1 \"Rio All-Suite Hotel & Casino Las Vegas.jpg\", Tomás Del Coro, CC BY-SA 2.0: the Masquerade's east end (blue, the red sweeping over its top) and the Ipanema's red glass with its frame lines;",
+    "p11 \"Rio Vegas.JPG\", Ypsilon from Finland, CC0: the same from the east.",
+    "Estimated: the podium at 12 m; the Masquerade's wings at the published and OSM-tagged 129 m (41 storeys of about 3.05 m), and the crown steps at 132, 136 and 140 m, topping out at OSM's 140 m for the VooDoo rooftop (OSM's 120 m on way/134938481 would sit below the wings, so it is not used; the steps' proportions are from p10); the band geometry on each face, from p12 and p10; the trim lines on the Ipanema every five floors. Which face p12 and p10 show is read from their curvature (p12 concave, p10 convex), not from a landmark in view. Left out: the Rio sign, the lettering, the VooDoo deck's railings, the pool.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"lv-rio\", model \"lv-rio\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/lv-rio.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

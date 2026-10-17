@@ -1,0 +1,168 @@
+{
+  "id": "the-smith-center-for-the-performing-arts",
+  "name": "The Smith Center for the Performing Arts",
+  "anchor": [
+    -115.1518646,
+    36.1687433
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 69928,
+      "sha256": "704f21f783bbb08f5f4b152e6f8d033e1a59fe3f516426a1cac918ff8e6ac8cc"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 69928,
+      "sha256": "704f21f783bbb08f5f4b152e6f8d033e1a59fe3f516426a1cac918ff8e6ac8cc"
+    }
+  },
+  "triangles": 1279,
+  "boundsBlenderM": [
+    [
+      -42.223,
+      -72.222,
+      0
+    ],
+    [
+      45.742,
+      57.353,
+      52
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -115.1519505,
+          36.1680872
+        ],
+        [
+          -115.1520656,
+          36.1681365
+        ],
+        [
+          -115.1519477,
+          36.1683158
+        ],
+        [
+          -115.1523383,
+          36.1684831
+        ],
+        [
+          -115.1522192,
+          36.1686643
+        ],
+        [
+          -115.152066,
+          36.1688972
+        ],
+        [
+          -115.1521797,
+          36.1689459
+        ],
+        [
+          -115.1519708,
+          36.1692635
+        ],
+        [
+          -115.1513515,
+          36.1689981
+        ],
+        [
+          -115.1519505,
+          36.1680872
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 135294818,
+    "version": 4,
+    "timestamp": "2018-04-27T14:05:12Z",
+    "url": "https://www.openstreetmap.org/way/135294818"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q7545102",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Smithcenterlv.jpg",
+      "author": "Neaco at English Wikipedia",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Smithcenterlv.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:The Smith Center for the Performing Arts & DISCOVERY Children's Museum.jpg",
+      "author": "June H. Johns",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:The_Smith_Center_for_the_Performing_Arts_%26_DISCOVERY_Children%27s_Museum.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:LasVegasSymphonyPark1.jpg",
+      "author": "Rmvisuals",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:LasVegasSymphonyPark1.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Smith Center - West - 2010-03-05.JPG",
+      "author": "Cygnusloop99",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Smith_Center_-_West_-_2010-03-05.JPG",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/lv-smith-center.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "The Smith Center for the Performing Arts, Las Vegas (2012, David M. Schwarz Architects): Reynolds Hall with its lobby, wings and carillon tower. Procedural, CC0-1.0. bun generators/lv-smith-center.ts",
+    "Map frame: x east, y north, z up, metres, in the building's own grid: the model's north is turned to bearing 28°, the line of the long east face on Grand Central Parkway. So \"north\" below is the Symphony Park Avenue front (real NNE), \"east\" the parkway side (real ESE). The origin is the area centroid of the Reynolds Hall outline, way/135294818 (36.1687433, -115.1518646).",
+    "Measured:",
+    "OSM way/135294818 (Smith Center for the Performing Arts) is Reynolds Hall only: a 63 x 114 m block with a south leg, square to the 28° grid. Only this outline is modelled. The untagged building=public way west of it (way/182464619) is left to the map: no photo confirms what it is. way/182464620 (Discovery Children's Museum) is separate and left out.",
+    "USGS NAIP orthophoto (public domain), rotated into the model grid: the lobby block along the north front (about 24 m deep), the auditorium's hipped roof behind it (39 x 36 m, its flat top offset), the stage house south of the auditorium with plant on its roof, lower back-of-house ranges round the east, west and south sides. The tower's lantern shows as a bright spot 10 m from the east corner, 6 m in from the north front.",
+    "Published (Wikipedia, \"Smith Center for the Performing Arts\"): Neo Art Deco echoing Hoover Dam, white Indiana limestone; \"a 17-story carillon tower containing 47 bells\" at the corner; 2,050-seat Reynolds Hall. The carillon tower is 170 ft (52 m), 17 storeys, with 47 bells (The Smith Center, thesmithcenter.com/about; Wikipedia).",
+    "Photos:",
+    "\"Smithcenterlv.jpg\", Neaco, CC BY-SA 3.0 (Wikimedia Commons): from the north-north-east, the tower at the east end of the north front, the five-bay front, the hipped grey roof and the stage house behind;",
+    "\"Smith Center For The Performing Arts 02/03/04/06.jpg\", pony rojo, CC BY-SA 2.0 (Commons): under construction in green sheathing, from the north. The cleanest massing evidence: a lower wing east of the tower, the five-bay front in two tiers between full-height piers, a taller pylon at its west end, the hip roof. Proportions here are read off 02, the most distant;",
+    "\"The Smith Center for the Performing Arts & DISCOVERY Children's Museum.jpg\", June H. Johns, CC BY-SA 3.0 (Commons): from the west, the tower far behind, and the window colour;",
+    "\"LasVegasSymphonyPark1.jpg\", Rmvisuals, CC BY-SA 4.0 (Commons): night, from the park, the tower beside the north front;",
+    "\"Smith Center - West - 2010-03-05.JPG\", Cygnusloop99, CC BY-SA 3.0 (Commons): the concrete stage house standing above the steel frame. Look-only (not licensed for reuse; described, not copied): \"Smith Center Tower\", flexible fotography, Flickr, CC BY-NC-SA 2.0 (the tower's corner piers rising into pinnacles, the louvered belfry in the recessed middle bay, the stepped blue glass lantern); \"The Smith Center\", Sky Island, Flickr, CC BY-ND 2.0 (the north front at dusk). No usable photo shows the east (parkway) or south faces.",
+    "Published: the tower's 52 m, taken to the lantern top. Estimated: every other height. The tower's pinnacles at 48 m, the shaft at 44 m, 12.4 m square (its width against its height in pony rojo 02); the north front's parapet at 22 m and its west pylon at 24.5 m, the wing east of the tower at 17 m (all scaled from the tower in 02); the auditorium's eaves at 26 m and its hip at 31 m, the stage house at 36 m (from Neaco's view, where it shows above the hip, and from 02, where it does not); the back-of-house ranges at 12-18 m (photos; none published). The window layout follows the photos for the north front; the east and south faces are left plain stone, unseen.",
+    "Not modelled: the Discovery Children's Museum, the park, the colonnade lettering, the bronze reliefs, the balconies' railings.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"lv-smith-center\", model \"lv-smith-center\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/lv-smith-center.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

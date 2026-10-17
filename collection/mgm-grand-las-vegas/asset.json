@@ -1,0 +1,324 @@
+{
+  "id": "mgm-grand-las-vegas",
+  "name": "MGM Grand Las Vegas",
+  "anchor": [
+    -115.169646,
+    36.10242
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 95660,
+      "sha256": "43e3a6c31c5d33011313e2961b289006450c8d9fea9974296fb2031a6d9cd8f2"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 95660,
+      "sha256": "43e3a6c31c5d33011313e2961b289006450c8d9fea9974296fb2031a6d9cd8f2"
+    }
+  },
+  "triangles": 1873,
+  "boundsBlenderM": [
+    [
+      -260.1,
+      -129.5,
+      0
+    ],
+    [
+      147.495,
+      120.596,
+      89
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -115.1692303,
+          36.1034421
+        ],
+        [
+          -115.1692302,
+          36.1034764
+        ],
+        [
+          -115.1692723,
+          36.1035111
+        ],
+        [
+          -115.1694234,
+          36.1035106
+        ],
+        [
+          -115.1694674,
+          36.1034782
+        ],
+        [
+          -115.1694632,
+          36.1025672
+        ],
+        [
+          -115.1695249,
+          36.102513
+        ],
+        [
+          -115.1699529,
+          36.1025087
+        ],
+        [
+          -115.1700023,
+          36.1024696
+        ],
+        [
+          -115.170005,
+          36.1023549
+        ],
+        [
+          -115.1699562,
+          36.1023097
+        ],
+        [
+          -115.1695303,
+          36.1023137
+        ],
+        [
+          -115.1694605,
+          36.1022552
+        ],
+        [
+          -115.1694585,
+          36.101805
+        ],
+        [
+          -115.1694572,
+          36.1014205
+        ],
+        [
+          -115.1694571,
+          36.1013856
+        ],
+        [
+          -115.1694101,
+          36.1013415
+        ],
+        [
+          -115.169268,
+          36.1013409
+        ],
+        [
+          -115.1692139,
+          36.1013808
+        ],
+        [
+          -115.1692159,
+          36.1018022
+        ],
+        [
+          -115.1692151,
+          36.1022551
+        ],
+        [
+          -115.169144,
+          36.1023169
+        ],
+        [
+          -115.1683837,
+          36.102332
+        ],
+        [
+          -115.1680534,
+          36.1023344
+        ],
+        [
+          -115.168006,
+          36.1023761
+        ],
+        [
+          -115.1680072,
+          36.1024902
+        ],
+        [
+          -115.1680679,
+          36.1025413
+        ],
+        [
+          -115.1691454,
+          36.1025152
+        ],
+        [
+          -115.1692178,
+          36.1025726
+        ],
+        [
+          -115.1692303,
+          36.1034421
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 115093734,
+    "version": 12,
+    "timestamp": "2026-06-09T12:55:33Z",
+    "url": "https://www.openstreetmap.org/way/115093734"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 115095169,
+      "version": 5,
+      "timestamp": "2023-11-26T01:51:53Z",
+      "url": "https://www.openstreetmap.org/way/115095169"
+    },
+    {
+      "type": "way",
+      "id": 115095172,
+      "version": 5,
+      "timestamp": "2023-11-26T01:51:53Z",
+      "url": "https://www.openstreetmap.org/way/115095172"
+    },
+    {
+      "type": "way",
+      "id": 115095167,
+      "version": 5,
+      "timestamp": "2023-11-26T01:51:53Z",
+      "url": "https://www.openstreetmap.org/way/115095167"
+    },
+    {
+      "type": "way",
+      "id": 115095174,
+      "version": 5,
+      "timestamp": "2023-11-26T01:51:53Z",
+      "url": "https://www.openstreetmap.org/way/115095174"
+    },
+    {
+      "type": "way",
+      "id": 115095166,
+      "version": 5,
+      "timestamp": "2023-11-26T01:51:53Z",
+      "url": "https://www.openstreetmap.org/way/115095166"
+    },
+    {
+      "type": "way",
+      "id": 115095173,
+      "version": 5,
+      "timestamp": "2023-11-26T01:51:53Z",
+      "url": "https://www.openstreetmap.org/way/115095173"
+    },
+    {
+      "type": "way",
+      "id": 115095160,
+      "version": 5,
+      "timestamp": "2023-11-26T01:51:53Z",
+      "url": "https://www.openstreetmap.org/way/115095160"
+    },
+    {
+      "type": "way",
+      "id": 115095161,
+      "version": 5,
+      "timestamp": "2023-11-26T01:50:15Z",
+      "url": "https://www.openstreetmap.org/way/115095161"
+    }
+  ],
+  "wikidata": "Q713960",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:20080404-Vegas-MGMGrand-Day.jpg",
+      "author": "Bobak Ha'Eri",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:20080404-Vegas-MGMGrand-Day.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Las Vegas MGM Grand at day 2013.jpg",
+      "author": "Tuxyso",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Las_Vegas_MGM_Grand_at_day_2013.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:MGM Grand Hotel.jpg",
+      "author": "Clément Bardot",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:MGM_Grand_Hotel.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Las Vegas MGM Grand P4220724.jpg",
+      "author": "Alexander Migl",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Las_Vegas_MGM_Grand_P4220724.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Las Vegas. MGM Grand Las Vegas visto dall'Excalibur.jpg",
+      "author": "André Corboz",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Las_Vegas._MGM_Grand_Las_Vegas_visto_dall%27Excalibur.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:MGM Lion in Las Vegas.JPG",
+      "author": "Simeon87",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:MGM_Lion_in_Las_Vegas.JPG",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/lv-mgm-grand.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "MGM Grand Las Vegas: the emerald-green glass hotel tower (1993, Veldon Simpson) in its cross plan, the stepped terraces down to the old Marina wing, and the bronze lion at the Strip corner. Procedural, CC0-1.0. bun generators/lv-mgm-grand.ts",
+    "Also a small kit shared by this builder's other Las Vegas models (the arena, the stadium, the airport tower, the welcome sign): faces oriented by a wanted normal, profile extrusions in any vertical plane, and solids of revolution. Importing this file builds nothing; running it writes models/lv-mgm-grand.glb.",
+    "Map frame: x east, y north, z up, metres. Bearing 0: the wings run within 1° of the compass, so the plan is drawn in OSM's own orientation. The origin is the area centroid of the tower parts below.",
+    "Measured, from OSM:",
+    "way/115093734, the cross: the north, east and south wings and the core, all 22 m wide with 4-5 m chamfers at the wing ends, tagged 89 m and 30 levels, building:colour #018438;",
+    "the west wing in slices: way/115095169 (30 levels), 115095172 (28), 115095167 (26), 115095174 (24), 115095166 (22), 115095173 (20), 115095160 (18), each about 8.5 m long, then way/115095161 (tagged 18 levels) running 120 m on to the Strip;",
+    "the lion's round pedestal, from the 2023 NAIP orthophoto (USGS, public domain): a drum about 15 m across at the Strip and Tropicana corner.",
+    "Published (Wikipedia, \"MGM Grand Las Vegas\"): 30 storeys, \"excluding a 14-story section, which originally opened as the Marina Hotel in 1975\" and is now the west wing; \"the hotel's exterior consists of green glass panels, originally meant to evoke Emerald City\". The lion is 45 ft (13.7 m) tall on a 25 ft (7.6 m) pedestal, the largest bronze statue in the US (Snellen Johnson, 1997).",
+    "Photos (Wikimedia Commons), compared against the renders:",
+    "p1 \"20080404-Vegas-MGMGrand-Day.jpg\", Bobak Ha'Eri, CC BY 3.0, and p2 \"Las Vegas MGM Grand at day 2013.jpg\", Tuxyso, CC BY-SA 3.0: from the west, the north and south wings' long faces with the stepped west wing coming at the camera between them, and the lion on its drum;",
+    "p7 \"MGM Grand Hotel.jpg\", Clément Bardot, CC BY-SA 4.0: from the south-west, the staircase of terraces with a slanted glass riser on every step, down to the low Marina block;",
+    "p5 \"Las Vegas MGM Grand P4220724.jpg\", Alexander Migl, CC BY-SA 4.0: from the north-west, the north wing's face and the steps beyond;",
+    "p9 \"Las Vegas. MGM Grand Las Vegas visto dall'Excalibur.jpg\", André Corboz, CC BY-SA 4.0 (1990s): the staircase ending on the flat Marina;",
+    "p8 \"MGM Lion in Las Vegas.JPG\", Simeon87, CC BY-SA 3.0: the lion in profile, lying with its head up, facing the Strip, on a pale fluted drum;",
+    "a1 \"Las Vegas Strip During Takeoff from McCarran International Airport (15517068968)\", Ken Lund, CC BY-SA 2.0: the cross from the air.",
+    "Estimated: the Marina wing at 14 storeys of 3.1 m (OSM's 18 levels would put it level with the lowest step, which every photo shows above it); the green bands (one light band every four floors, the top two floors solid), which abstract the real per-floor striping; the slanted glass on each step (4.5 m of each 6 m riser, from p7); a seventh step at 16 levels, over the Marina's east end, where p7 counts more steps than OSM's six; the lion's proportions, from p8.",
+    "Not modelled: the casino podium, the arena and the glass rotunda behind the lion (their own OSM buildings), the signs and lettering.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"lv-mgm-grand\", model \"lv-mgm-grand\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/lv-mgm-grand.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

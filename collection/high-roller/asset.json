@@ -1,0 +1,846 @@
+{
+  "id": "high-roller",
+  "name": "High Roller",
+  "anchor": [
+    -115.168164,
+    36.117694
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 163080,
+      "sha256": "ffdfd412a8530bcd2546c10bea40fe490e0741513bc1f9164183e5cd714cf7b3"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 163080,
+      "sha256": "ffdfd412a8530bcd2546c10bea40fe490e0741513bc1f9164183e5cd714cf7b3"
+    }
+  },
+  "triangles": 6347,
+  "boundsBlenderM": [
+    [
+      -17.4,
+      -78.817,
+      0
+    ],
+    [
+      92.471,
+      78.817,
+      167.15
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -115.1681775,
+          36.1170266
+        ],
+        [
+          -115.1681782,
+          36.117124
+        ],
+        [
+          -115.1681818,
+          36.1171272
+        ],
+        [
+          -115.1681845,
+          36.117131
+        ],
+        [
+          -115.1681861,
+          36.1171353
+        ],
+        [
+          -115.1681864,
+          36.1171399
+        ],
+        [
+          -115.1681851,
+          36.1171453
+        ],
+        [
+          -115.1681819,
+          36.1171503
+        ],
+        [
+          -115.1681787,
+          36.1171532
+        ],
+        [
+          -115.1681749,
+          36.1171556
+        ],
+        [
+          -115.1681745,
+          36.1172247
+        ],
+        [
+          -115.168182,
+          36.1172286
+        ],
+        [
+          -115.1681866,
+          36.1172329
+        ],
+        [
+          -115.1681896,
+          36.1172381
+        ],
+        [
+          -115.1681908,
+          36.1172437
+        ],
+        [
+          -115.16819,
+          36.1172498
+        ],
+        [
+          -115.1681871,
+          36.1172554
+        ],
+        [
+          -115.1681823,
+          36.1172602
+        ],
+        [
+          -115.1681784,
+          36.1172627
+        ],
+        [
+          -115.168174,
+          36.1172645
+        ],
+        [
+          -115.1681746,
+          36.1173135
+        ],
+        [
+          -115.1681754,
+          36.1173545
+        ],
+        [
+          -115.1681824,
+          36.1173574
+        ],
+        [
+          -115.1681882,
+          36.1173617
+        ],
+        [
+          -115.1681923,
+          36.1173672
+        ],
+        [
+          -115.1681944,
+          36.1173734
+        ],
+        [
+          -115.1681945,
+          36.1173776
+        ],
+        [
+          -115.1681937,
+          36.1173817
+        ],
+        [
+          -115.1681917,
+          36.1173861
+        ],
+        [
+          -115.1681886,
+          36.1173901
+        ],
+        [
+          -115.1681832,
+          36.1173945
+        ],
+        [
+          -115.1681765,
+          36.1173975
+        ],
+        [
+          -115.1681784,
+          36.1174963
+        ],
+        [
+          -115.1681848,
+          36.1174991
+        ],
+        [
+          -115.1681903,
+          36.1175029
+        ],
+        [
+          -115.1681947,
+          36.1175075
+        ],
+        [
+          -115.1681979,
+          36.1175126
+        ],
+        [
+          -115.1681999,
+          36.1175182
+        ],
+        [
+          -115.1682004,
+          36.1175239
+        ],
+        [
+          -115.1681996,
+          36.1175297
+        ],
+        [
+          -115.1681973,
+          36.1175352
+        ],
+        [
+          -115.1681938,
+          36.1175403
+        ],
+        [
+          -115.1681892,
+          36.1175446
+        ],
+        [
+          -115.1681787,
+          36.1175503
+        ],
+        [
+          -115.1681799,
+          36.1176495
+        ],
+        [
+          -115.1681897,
+          36.1176543
+        ],
+        [
+          -115.1681948,
+          36.1176588
+        ],
+        [
+          -115.1681994,
+          36.1176652
+        ],
+        [
+          -115.1682845,
+          36.1176656
+        ],
+        [
+          -115.1683268,
+          36.1176658
+        ],
+        [
+          -115.1683266,
+          36.1177044
+        ],
+        [
+          -115.1682843,
+          36.1177042
+        ],
+        [
+          -115.1681739,
+          36.1177053
+        ],
+        [
+          -115.1681763,
+          36.117807
+        ],
+        [
+          -115.1681899,
+          36.1178139
+        ],
+        [
+          -115.1681976,
+          36.1178236
+        ],
+        [
+          -115.1682001,
+          36.1178349
+        ],
+        [
+          -115.1681971,
+          36.1178462
+        ],
+        [
+          -115.1681889,
+          36.1178557
+        ],
+        [
+          -115.1681769,
+          36.1178619
+        ],
+        [
+          -115.1681746,
+          36.1179545
+        ],
+        [
+          -115.1681817,
+          36.1179576
+        ],
+        [
+          -115.1681871,
+          36.1179613
+        ],
+        [
+          -115.1681916,
+          36.1179658
+        ],
+        [
+          -115.1681948,
+          36.117971
+        ],
+        [
+          -115.1681968,
+          36.1179765
+        ],
+        [
+          -115.1681974,
+          36.1179823
+        ],
+        [
+          -115.1681966,
+          36.117988
+        ],
+        [
+          -115.1681944,
+          36.1179935
+        ],
+        [
+          -115.1681909,
+          36.1179986
+        ],
+        [
+          -115.1681863,
+          36.1180031
+        ],
+        [
+          -115.1681811,
+          36.1180064
+        ],
+        [
+          -115.1681753,
+          36.118009
+        ],
+        [
+          -115.168176,
+          36.1180914
+        ],
+        [
+          -115.1681885,
+          36.1180981
+        ],
+        [
+          -115.1681962,
+          36.1181078
+        ],
+        [
+          -115.1681987,
+          36.1181191
+        ],
+        [
+          -115.1681957,
+          36.1181304
+        ],
+        [
+          -115.1681876,
+          36.1181398
+        ],
+        [
+          -115.1681756,
+          36.118146
+        ],
+        [
+          -115.1681615,
+          36.1181481
+        ],
+        [
+          -115.1681476,
+          36.1181456
+        ],
+        [
+          -115.1681359,
+          36.1181391
+        ],
+        [
+          -115.1681282,
+          36.1181294
+        ],
+        [
+          -115.1681256,
+          36.118118
+        ],
+        [
+          -115.1681287,
+          36.1181068
+        ],
+        [
+          -115.1681368,
+          36.1180973
+        ],
+        [
+          -115.1681484,
+          36.1180913
+        ],
+        [
+          -115.1681472,
+          36.1180092
+        ],
+        [
+          -115.1681404,
+          36.1180063
+        ],
+        [
+          -115.1681345,
+          36.1180022
+        ],
+        [
+          -115.1681301,
+          36.1179977
+        ],
+        [
+          -115.1681269,
+          36.1179925
+        ],
+        [
+          -115.1681246,
+          36.1179852
+        ],
+        [
+          -115.1681244,
+          36.1179812
+        ],
+        [
+          -115.1681252,
+          36.1179755
+        ],
+        [
+          -115.1681275,
+          36.11797
+        ],
+        [
+          -115.168131,
+          36.117965
+        ],
+        [
+          -115.1681356,
+          36.1179606
+        ],
+        [
+          -115.1681409,
+          36.1179572
+        ],
+        [
+          -115.1681468,
+          36.1179546
+        ],
+        [
+          -115.168149,
+          36.1178615
+        ],
+        [
+          -115.1681373,
+          36.1178549
+        ],
+        [
+          -115.1681296,
+          36.1178452
+        ],
+        [
+          -115.168127,
+          36.1178339
+        ],
+        [
+          -115.1681301,
+          36.1178226
+        ],
+        [
+          -115.1681382,
+          36.1178131
+        ],
+        [
+          -115.1681485,
+          36.1178078
+        ],
+        [
+          -115.1681478,
+          36.1177038
+        ],
+        [
+          -115.1680496,
+          36.1177035
+        ],
+        [
+          -115.167995,
+          36.1177033
+        ],
+        [
+          -115.1679952,
+          36.1176648
+        ],
+        [
+          -115.1680498,
+          36.1176649
+        ],
+        [
+          -115.1681325,
+          36.117665
+        ],
+        [
+          -115.168137,
+          36.1176588
+        ],
+        [
+          -115.1681431,
+          36.1176537
+        ],
+        [
+          -115.1681507,
+          36.1176499
+        ],
+        [
+          -115.1681501,
+          36.1175507
+        ],
+        [
+          -115.1681435,
+          36.1175478
+        ],
+        [
+          -115.1681377,
+          36.1175439
+        ],
+        [
+          -115.1681332,
+          36.1175394
+        ],
+        [
+          -115.16813,
+          36.1175342
+        ],
+        [
+          -115.168128,
+          36.1175287
+        ],
+        [
+          -115.1681274,
+          36.1175229
+        ],
+        [
+          -115.1681282,
+          36.1175172
+        ],
+        [
+          -115.1681304,
+          36.1175116
+        ],
+        [
+          -115.1681339,
+          36.1175066
+        ],
+        [
+          -115.1681385,
+          36.1175022
+        ],
+        [
+          -115.1681441,
+          36.1174986
+        ],
+        [
+          -115.1681504,
+          36.117496
+        ],
+        [
+          -115.1681512,
+          36.1173956
+        ],
+        [
+          -115.1681461,
+          36.1173922
+        ],
+        [
+          -115.168142,
+          36.117388
+        ],
+        [
+          -115.1681387,
+          36.1173817
+        ],
+        [
+          -115.1681379,
+          36.117375
+        ],
+        [
+          -115.1681394,
+          36.1173687
+        ],
+        [
+          -115.168143,
+          36.117363
+        ],
+        [
+          -115.1681467,
+          36.1173595
+        ],
+        [
+          -115.1681512,
+          36.1173567
+        ],
+        [
+          -115.1681528,
+          36.1173134
+        ],
+        [
+          -115.168153,
+          36.1172639
+        ],
+        [
+          -115.1681474,
+          36.1172611
+        ],
+        [
+          -115.1681428,
+          36.1172572
+        ],
+        [
+          -115.1681388,
+          36.1172507
+        ],
+        [
+          -115.1681377,
+          36.1172434
+        ],
+        [
+          -115.1681393,
+          36.117237
+        ],
+        [
+          -115.1681433,
+          36.1172313
+        ],
+        [
+          -115.1681478,
+          36.1172276
+        ],
+        [
+          -115.1681532,
+          36.117225
+        ],
+        [
+          -115.1681534,
+          36.1171573
+        ],
+        [
+          -115.1681469,
+          36.1171544
+        ],
+        [
+          -115.1681412,
+          36.1171493
+        ],
+        [
+          -115.1681384,
+          36.1171442
+        ],
+        [
+          -115.1681375,
+          36.1171387
+        ],
+        [
+          -115.1681383,
+          36.1171337
+        ],
+        [
+          -115.1681407,
+          36.117129
+        ],
+        [
+          -115.1681434,
+          36.117126
+        ],
+        [
+          -115.1681467,
+          36.1171233
+        ],
+        [
+          -115.1681526,
+          36.1171205
+        ],
+        [
+          -115.1681496,
+          36.1170262
+        ],
+        [
+          -115.1681392,
+          36.1170207
+        ],
+        [
+          -115.1681316,
+          36.1170127
+        ],
+        [
+          -115.1681279,
+          36.117003
+        ],
+        [
+          -115.1681283,
+          36.1169929
+        ],
+        [
+          -115.168133,
+          36.1169836
+        ],
+        [
+          -115.1681413,
+          36.116976
+        ],
+        [
+          -115.1681523,
+          36.1169712
+        ],
+        [
+          -115.1681646,
+          36.1169696
+        ],
+        [
+          -115.1681769,
+          36.1169715
+        ],
+        [
+          -115.1681877,
+          36.1169766
+        ],
+        [
+          -115.1681957,
+          36.1169843
+        ],
+        [
+          -115.1682,
+          36.1169938
+        ],
+        [
+          -115.1682002,
+          36.1170039
+        ],
+        [
+          -115.1681961,
+          36.1170134
+        ],
+        [
+          -115.1681882,
+          36.1170213
+        ],
+        [
+          -115.1681775,
+          36.1170266
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 402543930,
+    "version": 10,
+    "timestamp": "2025-08-22T22:20:02Z",
+    "url": "https://www.openstreetmap.org/way/402543930"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q892103",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:High Roller Observation Wheel.jpg",
+      "author": "CRJO-CRJO",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:High_Roller_Observation_Wheel.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Las Vegas - The High Roller-03.JPG",
+      "author": "Priwo",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Las_Vegas_-_The_High_Roller-03.JPG",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Las_Vegas_-_The_High_Roller-03.JPG",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Las Vegas - The High Roller-02.JPG",
+      "author": "Priwo",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Las_Vegas_-_The_High_Roller-02.JPG",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Las_Vegas_-_The_High_Roller-02.JPG",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Las Vegas High Roller Wheel Mar 2013.jpg",
+      "author": "Fubaz",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Las_Vegas_High_Roller_Wheel_Mar_2013.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:The High Roller under construction in January 2014.jpg",
+      "author": "Neon068",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:The_High_Roller_under_construction_in_January_2014.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Las Vegas High Roller (20216869960).jpg",
+      "author": "Tony Webster from San Francisco, California",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Las_Vegas_High_Roller_(20216869960).jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/lv-high-roller.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "High Roller, Las Vegas — procedural, CC0-1.0. bun generators/lv-high-roller.ts",
+    "Map frame: x east, y north, z up, metres; bearing 0. The wheel turns in the north–south plane (OSM way/402543930 runs at 0.1° from north), so its axle, the spindle, runs east–west. The origin is on the ground under the hub: 17 m north of the outline's centroid, where the spindle crosses the wheel in the outline and in a USGS NAIP orthophoto (public domain; the spindle and the backstay's foot both lie 15–20 m north of it).",
+    "Published (Wikipedia, \"High Roller (Ferris wheel)\"; OSM height tag): 550 ft (167.6 m) tall, 520 ft (158.5 m) across, 28 spherical cabins 22 ft (6.7 m) across on the outboard rim, one turn in 30 minutes.",
+    "Measured and inferred:",
+    "158.5 m is the span across the cabins, not the rim. In the face-on photo \"High Roller Observation Wheel.jpg\" (CRJO-CRJO, CC BY-SA 4.0, from the west) the rim is 0.89 of the cabin span: rim radius ~70.5 m, cabin centres ~75.5 m. Then the hub stands at 167.6 − 79.3 = 88.3 m and the lowest cabin's floor about 9.5 m up, at the raised boarding deck seen in \"Las Vegas - The High Roller-03.JPG\" (Priwo, public domain);",
+    "the support, from \"Las Vegas - The High Roller-02.JPG\" and \"-03.JPG\" (Priwo, public domain, edge-on from the south), \"Las Vegas High Roller Wheel Mar 2013.jpg\" (Fubaz, CC BY-SA 3.0, the hub being lifted), \"The High Roller under construction in January 2014.jpg\" (Neon068, CC BY-SA 3.0, from the north-east, low) and \"Las Vegas High Roller (20216869960).jpg\" (Tony Webster, CC BY 2.0, from below): the hub is a horizontal drum ~30 m long, the full width between two A-frames, each of two white tubes splayed north and south and leaning in toward the wheel; the cable spokes fan from flanges at the hub's ends to the rim, so edge-on the wheel is a tall lens. One long backstay runs from the east bearing down to the east. Spans scaled from the edge-on photo at ~0.15 m per pixel (hub height known): bearings ±16 m from the wheel, tubes ~3 m across, the hub ~3.5 m;",
+    "the backstay's foot, ~90 m east of the wheel, from the NAIP image, where the white tube itself shows; it agrees with the ~40° slope in the edge-on photos;",
+    "the A-frame feet, ±23 m north and south and ~8 m either side of the wheel, scaled from the photos (about ±15° off vertical). Estimated.",
+    "Simplified: the cable spokes are drawn as 28 members a side, from the hub flanges to the rim, so the wheel still reads as a wheel rather than a hoop; the rim's box truss is one chamfered band; each cabin is a white sphere with a glass band, on a short bracket.",
+    "It turns (experimental; see \"Animation\" in STYLE.md). The rim, spokes and hub are a node at the hub; each cabin is a child node turned back by as much as the wheel turns, so it stays plumb, as the real cabins are motor-driven to keep level. One turn every 150 s, against the real 30 minutes, which would not show on a map. The real direction of turn isn't evidenced in the photos; this one turns clockwise seen from the Strip (west). Everything else is the static root. At t = 0 it is the static model.",
+    "Replaces the attraction outline (way/402543930, not a building, but it is the wheel). The boarding station and the LINQ buildings around the foot stay drawn by the map.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"lv-high-roller\", model \"lv-high-roller\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/lv-high-roller.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 1595 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the lv-high-roller-glazing finish in the window colour."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

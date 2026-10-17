@@ -1,0 +1,659 @@
+{
+  "id": "vdara-hotel-spa",
+  "name": "Vdara Hotel & Spa",
+  "anchor": [
+    -115.178022,
+    36.109526
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 118600,
+      "sha256": "558b5e80c36fa27a626ea26d87fa759232eb01edbb4fdab4fdbf09b311223999"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 118600,
+      "sha256": "558b5e80c36fa27a626ea26d87fa759232eb01edbb4fdab4fdbf09b311223999"
+    }
+  },
+  "triangles": 2217,
+  "boundsBlenderM": [
+    [
+      -64.7,
+      -47.1,
+      0
+    ],
+    [
+      70,
+      24.8,
+      174
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "MultiPolygon",
+    "coordinates": [
+      [
+        [
+          [
+            -115.1786778,
+            36.1095174
+          ],
+          [
+            -115.1787251,
+            36.1096102
+          ],
+          [
+            -115.1786429,
+            36.1096394
+          ],
+          [
+            -115.1785814,
+            36.1096611
+          ],
+          [
+            -115.1785122,
+            36.1096775
+          ],
+          [
+            -115.1784195,
+            36.1096942
+          ],
+          [
+            -115.1783487,
+            36.1097048
+          ],
+          [
+            -115.178269,
+            36.1097115
+          ],
+          [
+            -115.1781979,
+            36.1097184
+          ],
+          [
+            -115.1781418,
+            36.1097182
+          ],
+          [
+            -115.1780594,
+            36.1097192
+          ],
+          [
+            -115.1779666,
+            36.109715
+          ],
+          [
+            -115.1778724,
+            36.1097018
+          ],
+          [
+            -115.1777919,
+            36.1096913
+          ],
+          [
+            -115.1777116,
+            36.1096764
+          ],
+          [
+            -115.177751,
+            36.1095812
+          ],
+          [
+            -115.1778476,
+            36.1096004
+          ],
+          [
+            -115.1779824,
+            36.1096143
+          ],
+          [
+            -115.1780999,
+            36.1096181
+          ],
+          [
+            -115.1782064,
+            36.1096156
+          ],
+          [
+            -115.1783081,
+            36.1096081
+          ],
+          [
+            -115.1783802,
+            36.1095979
+          ],
+          [
+            -115.178443,
+            36.1095852
+          ],
+          [
+            -115.1785057,
+            36.10957
+          ],
+          [
+            -115.1785668,
+            36.109551
+          ],
+          [
+            -115.1786412,
+            36.1095304
+          ],
+          [
+            -115.1786778,
+            36.1095174
+          ]
+        ]
+      ],
+      [
+        [
+          [
+            -115.1786412,
+            36.1095304
+          ],
+          [
+            -115.1785668,
+            36.109551
+          ],
+          [
+            -115.1785057,
+            36.10957
+          ],
+          [
+            -115.178443,
+            36.1095852
+          ],
+          [
+            -115.1783802,
+            36.1095979
+          ],
+          [
+            -115.1783081,
+            36.1096081
+          ],
+          [
+            -115.1782064,
+            36.1096156
+          ],
+          [
+            -115.1780999,
+            36.1096181
+          ],
+          [
+            -115.1779824,
+            36.1096143
+          ],
+          [
+            -115.1778476,
+            36.1096004
+          ],
+          [
+            -115.177751,
+            36.1095812
+          ],
+          [
+            -115.1776681,
+            36.1095607
+          ],
+          [
+            -115.1775907,
+            36.1095349
+          ],
+          [
+            -115.1775128,
+            36.1095034
+          ],
+          [
+            -115.17745,
+            36.1094746
+          ],
+          [
+            -115.1775373,
+            36.1093733
+          ],
+          [
+            -115.1775943,
+            36.1094025
+          ],
+          [
+            -115.1776711,
+            36.1094316
+          ],
+          [
+            -115.1777604,
+            36.1094594
+          ],
+          [
+            -115.1778701,
+            36.1094809
+          ],
+          [
+            -115.177961,
+            36.1094949
+          ],
+          [
+            -115.1780738,
+            36.1095062
+          ],
+          [
+            -115.1781537,
+            36.10951
+          ],
+          [
+            -115.1782268,
+            36.1095109
+          ],
+          [
+            -115.1782827,
+            36.1095086
+          ],
+          [
+            -115.1783419,
+            36.109503
+          ],
+          [
+            -115.178391,
+            36.109494
+          ],
+          [
+            -115.1784624,
+            36.1094776
+          ],
+          [
+            -115.1785178,
+            36.1094612
+          ],
+          [
+            -115.1785866,
+            36.1094377
+          ],
+          [
+            -115.1786412,
+            36.1095304
+          ]
+        ]
+      ],
+      [
+        [
+          [
+            -115.1782268,
+            36.1095109
+          ],
+          [
+            -115.1781537,
+            36.10951
+          ],
+          [
+            -115.1780738,
+            36.1095062
+          ],
+          [
+            -115.177961,
+            36.1094949
+          ],
+          [
+            -115.1778701,
+            36.1094809
+          ],
+          [
+            -115.1777604,
+            36.1094594
+          ],
+          [
+            -115.1776711,
+            36.1094316
+          ],
+          [
+            -115.1775943,
+            36.1094025
+          ],
+          [
+            -115.1775373,
+            36.1093733
+          ],
+          [
+            -115.1775094,
+            36.1093569
+          ],
+          [
+            -115.1774583,
+            36.1093272
+          ],
+          [
+            -115.1775281,
+            36.1092531
+          ],
+          [
+            -115.1775838,
+            36.1092889
+          ],
+          [
+            -115.1776449,
+            36.1093184
+          ],
+          [
+            -115.177708,
+            36.1093456
+          ],
+          [
+            -115.1777937,
+            36.1093754
+          ],
+          [
+            -115.177866,
+            36.1093952
+          ],
+          [
+            -115.1779394,
+            36.1094117
+          ],
+          [
+            -115.1780156,
+            36.1094221
+          ],
+          [
+            -115.1780904,
+            36.1094263
+          ],
+          [
+            -115.1781607,
+            36.1094269
+          ],
+          [
+            -115.1782222,
+            36.1094231
+          ],
+          [
+            -115.1782268,
+            36.1095109
+          ]
+        ]
+      ],
+      [
+        [
+          [
+            -115.1787406,
+            36.109612
+          ],
+          [
+            -115.1787251,
+            36.1096102
+          ],
+          [
+            -115.1786429,
+            36.1096394
+          ],
+          [
+            -115.1785814,
+            36.1096611
+          ],
+          [
+            -115.1785122,
+            36.1096775
+          ],
+          [
+            -115.1784195,
+            36.1096942
+          ],
+          [
+            -115.1783487,
+            36.1097048
+          ],
+          [
+            -115.178269,
+            36.1097115
+          ],
+          [
+            -115.1781979,
+            36.1097184
+          ],
+          [
+            -115.1781418,
+            36.1097182
+          ],
+          [
+            -115.1780594,
+            36.1097192
+          ],
+          [
+            -115.1779666,
+            36.109715
+          ],
+          [
+            -115.1778724,
+            36.1097018
+          ],
+          [
+            -115.1777919,
+            36.1096913
+          ],
+          [
+            -115.1777116,
+            36.1096764
+          ],
+          [
+            -115.177751,
+            36.1095812
+          ],
+          [
+            -115.1776681,
+            36.1095607
+          ],
+          [
+            -115.1775907,
+            36.1095349
+          ],
+          [
+            -115.1775128,
+            36.1095034
+          ],
+          [
+            -115.17745,
+            36.1094746
+          ],
+          [
+            -115.1775373,
+            36.1093733
+          ],
+          [
+            -115.1775094,
+            36.1093569
+          ],
+          [
+            -115.1774583,
+            36.1093272
+          ],
+          [
+            -115.1775281,
+            36.1092531
+          ],
+          [
+            -115.1775613,
+            36.1092074
+          ],
+          [
+            -115.1775016,
+            36.1091917
+          ],
+          [
+            -115.1773957,
+            36.1091359
+          ],
+          [
+            -115.1773212,
+            36.1091001
+          ],
+          [
+            -115.1773239,
+            36.1091976
+          ],
+          [
+            -115.1772435,
+            36.1091483
+          ],
+          [
+            -115.1772455,
+            36.1092805
+          ],
+          [
+            -115.1772985,
+            36.109326
+          ],
+          [
+            -115.1773635,
+            36.1093943
+          ],
+          [
+            -115.1774084,
+            36.1094528
+          ],
+          [
+            -115.1774688,
+            36.1095487
+          ],
+          [
+            -115.1774956,
+            36.1096202
+          ],
+          [
+            -115.177513,
+            36.1096884
+          ],
+          [
+            -115.1775171,
+            36.1097502
+          ],
+          [
+            -115.1787398,
+            36.1097475
+          ],
+          [
+            -115.1787406,
+            36.109612
+          ]
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "relation",
+    "id": 20214578,
+    "version": 2,
+    "timestamp": "2026-02-20T17:13:42Z",
+    "url": "https://www.openstreetmap.org/relation/20214578"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 1481167211,
+      "version": 2,
+      "timestamp": "2026-04-23T18:37:36Z",
+      "url": "https://www.openstreetmap.org/way/1481167211"
+    },
+    {
+      "type": "way",
+      "id": 52175577,
+      "version": 14,
+      "timestamp": "2026-02-13T22:25:34Z",
+      "url": "https://www.openstreetmap.org/way/52175577"
+    },
+    {
+      "type": "way",
+      "id": 134932949,
+      "version": 5,
+      "timestamp": "2026-02-13T22:25:34Z",
+      "url": "https://www.openstreetmap.org/way/134932949"
+    },
+    {
+      "type": "way",
+      "id": 134932948,
+      "version": 5,
+      "timestamp": "2026-02-13T22:25:34Z",
+      "url": "https://www.openstreetmap.org/way/134932948"
+    }
+  ],
+  "wikidata": "Q280910",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Vdara - South - 2010-03-06.JPG",
+      "author": "Cygnusloop99",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Vdara_-_South_-_2010-03-06.JPG",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Vdara (23793642159).jpg",
+      "author": "Thomas Duesing from San Antonio, Texas",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Vdara_(23793642159).jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:The Vdara (Mike Murry) - Flickr.jpg",
+      "author": "Mike Murry from Bellevue, United States",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:The_Vdara_(Mike_Murry)_-_Flickr.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Vdara, Las Vegas.jpg",
+      "author": "Supercarwaar",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Vdara,_Las_Vegas.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Aria Las Vegas December 2013.jpg",
+      "author": "King of Hearts",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Aria_Las_Vegas_December_2013.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/lv-vdara.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Vdara Hotel & Spa, Las Vegas: the crescent of blue glass, three curved slabs side by side and stepped in height, the tallest in the middle, concave to the south. Procedural, CC0-1.0. bun generators/lv-vdara.ts",
+    "Map frame: x east, y north, z up, metres. Bearing 0: drawn in OSM's own orientation. The origin is the area centroid of the middle slab, way/52175577 (36.109526, -115.178022).",
+    "Published (Wikipedia, \"Vdara\"; Rafael Viñoly, opened 2009): a crescent-shaped 57-storey tower of 1,495 suites. OSM, relation/20214578: three building:parts, way/134932949 (north, 165 m, 55 levels), way/52175577 (middle, 174 m, 57 levels) and way/134932948 (south, 140 m, 48 levels), and the outline way/1481167211 over them and the lobby.",
+    "Measured, from OSM: the slab faces fit circles about one centre (-8.5, -108) within 0.5 m: the north slab between radii 118.2 and 129.4 m, from 73.7° to 115°; the middle between 106.3 and 118.2 m, from 59.7° to 113.5°; the south between 95.5 and 106.3 m, from 55.8° to 95.6°. So the three slabs are each about 11 m deep, offset along the curve, and their ends step.",
+    "Photos (Wikimedia Commons):",
+    "\"Vdara - South - 2010-03-06.JPG\", Cygnusloop99, CC BY-SA 3.0: the concave south face, the three slabs and their steps, blue glass with fine pale floor lines;",
+    "\"Vdara (23793642159).jpg\", Thomas Duesing, CC BY 2.0, and \"The Vdara (Mike Murry) - Flickr.jpg\", Mike Murry, CC BY-SA 2.0: close up, the sweep of the curved faces and the stepped ends;",
+    "\"Vdara, Las Vegas.jpg\", Supercarwaar, CC BY-SA 4.0: from the east, the slabs end-on, stepped in height;",
+    "\"Aria Las Vegas December 2013.jpg\", King of Hearts, CC BY-SA 3.0: from the south-east, Vdara behind Aria.",
+    "Estimated: the lobby block under the outline, 10 m; the floor lines, every four storeys; the glass colour, the photos' blue pulled light. Left out: the \"Vdara\" sign, the porte-cochère canopy and pool deck.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"lv-vdara\", model \"lv-vdara\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/lv-vdara.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

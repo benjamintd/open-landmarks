@@ -1,0 +1,176 @@
+{
+  "id": "veer-towers",
+  "anchor": [
+    -115.174681,
+    36.107407
+  ],
+  "coordinateSystem": "Local metres about the anchor (equirectangular, WGS84 radius): X east, Y north, Z up. glTF export: X east, Y up, Z south. Heading already baked.",
+  "license": "ODbL-1.0",
+  "footprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -43.37639447857492,
+          26.082156692347215
+        ],
+        [
+          -13.733310048680776,
+          14.605117191904244
+        ],
+        [
+          -13.544443310279693,
+          -25.826121864485497
+        ],
+        [
+          -44.02393758495083,
+          -14.571721345066967
+        ],
+        [
+          -43.37639447857492,
+          26.082156692347215
+        ]
+      ]
+    ]
+  },
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -115.1751633,
+          36.1076413
+        ],
+        [
+          -115.1748337,
+          36.1075382
+        ],
+        [
+          -115.1748316,
+          36.107175
+        ],
+        [
+          -115.1751705,
+          36.1072761
+        ],
+        [
+          -115.1751633,
+          36.1076413
+        ]
+      ]
+    ]
+  },
+  "parts": [
+    {
+      "osm": "way/52134835",
+      "tags": {
+        "building": "residential",
+        "building:levels": "37",
+        "height": "132",
+        "layer": "1",
+        "name": "Veer Towers West",
+        "start_date": "2010",
+        "wikipedia": "en:Veer Towers"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -43.37639447857492,
+              26.082156692347215
+            ],
+            [
+              -13.733310048680776,
+              14.605117191904244
+            ],
+            [
+              -13.544443310279693,
+              -25.826121864485497
+            ],
+            [
+              -44.02393758495083,
+              -14.571721345066967
+            ],
+            [
+              -43.37639447857492,
+              26.082156692347215
+            ]
+          ]
+        ]
+      },
+      "version": 10,
+      "timestamp": "2026-05-27T16:18:12Z"
+    },
+    {
+      "osm": "way/52134834",
+      "tags": {
+        "building": "apartments",
+        "building:levels": "37",
+        "height": "132",
+        "layer": "1",
+        "name": "Veer Towers East",
+        "start_date": "2010",
+        "wikipedia": "en:Veer Towers"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              15.262231273559403,
+              24.712926956199425
+            ],
+            [
+              41.55967632051141,
+              15.495673118374912
+            ],
+            [
+              43.74513430421055,
+              -24.946697887224243
+            ],
+            [
+              13.742303704959614,
+              -13.413998640734194
+            ],
+            [
+              14.821542215586115,
+              13.536450080455829
+            ],
+            [
+              15.262231273559403,
+              24.712926956199425
+            ]
+          ]
+        ]
+      },
+      "version": 10,
+      "timestamp": "2026-05-27T16:18:12Z"
+    }
+  ],
+  "osm": {
+    "type": "way",
+    "id": 52134835,
+    "version": 10,
+    "timestamp": "2026-05-27T16:18:12Z",
+    "url": "https://www.openstreetmap.org/way/52134835"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 52134834,
+      "version": 10,
+      "timestamp": "2026-05-27T16:18:12Z",
+      "url": "https://www.openstreetmap.org/way/52134834"
+    }
+  ],
+  "tags": {
+    "building": "residential",
+    "building:levels": "37",
+    "height": "132",
+    "layer": "1",
+    "name": "Veer Towers West",
+    "start_date": "2010",
+    "wikipedia": "en:Veer Towers"
+  }
+}

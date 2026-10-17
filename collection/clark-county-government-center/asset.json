@@ -1,0 +1,970 @@
+{
+  "id": "clark-county-government-center",
+  "name": "Clark County Government Center",
+  "anchor": [
+    -115.1536529,
+    36.1658876
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 155592,
+      "sha256": "d86063a1fa04f6093df3941fb3c2658598554078172f436d4f96698232a3bc0c"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 155592,
+      "sha256": "d86063a1fa04f6093df3941fb3c2658598554078172f436d4f96698232a3bc0c"
+    }
+  },
+  "triangles": 3352,
+  "boundsBlenderM": [
+    [
+      -122.2,
+      -90.1,
+      0
+    ],
+    [
+      78.8,
+      74.7,
+      43.818
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -115.1536383,
+          36.1658199
+        ],
+        [
+          -115.1536468,
+          36.1658394
+        ],
+        [
+          -115.1536476,
+          36.1658578
+        ],
+        [
+          -115.1536767,
+          36.1658672
+        ],
+        [
+          -115.153669,
+          36.1658859
+        ],
+        [
+          -115.1536631,
+          36.1658972
+        ],
+        [
+          -115.1537013,
+          36.165926
+        ],
+        [
+          -115.1537866,
+          36.1659811
+        ],
+        [
+          -115.1538638,
+          36.1660151
+        ],
+        [
+          -115.1539461,
+          36.1660429
+        ],
+        [
+          -115.1539969,
+          36.1660529
+        ],
+        [
+          -115.1540449,
+          36.1660586
+        ],
+        [
+          -115.1541182,
+          36.1660605
+        ],
+        [
+          -115.1541693,
+          36.1660577
+        ],
+        [
+          -115.1542212,
+          36.1660515
+        ],
+        [
+          -115.1542319,
+          36.1661034
+        ],
+        [
+          -115.154237,
+          36.1661283
+        ],
+        [
+          -115.1542524,
+          36.1662026
+        ],
+        [
+          -115.1543154,
+          36.1661909
+        ],
+        [
+          -115.1543711,
+          36.1661789
+        ],
+        [
+          -115.1544279,
+          36.166164
+        ],
+        [
+          -115.1543612,
+          36.1661036
+        ],
+        [
+          -115.1544736,
+          36.1660508
+        ],
+        [
+          -115.1545226,
+          36.1660627
+        ],
+        [
+          -115.1545787,
+          36.1660227
+        ],
+        [
+          -115.1546372,
+          36.1659809
+        ],
+        [
+          -115.1546326,
+          36.1659409
+        ],
+        [
+          -115.1547109,
+          36.1658611
+        ],
+        [
+          -115.1550127,
+          36.1661383
+        ],
+        [
+          -115.1547405,
+          36.1663279
+        ],
+        [
+          -115.1546677,
+          36.1663786
+        ],
+        [
+          -115.1546032,
+          36.1663196
+        ],
+        [
+          -115.1545408,
+          36.1662625
+        ],
+        [
+          -115.1545351,
+          36.1662573
+        ],
+        [
+          -115.1545263,
+          36.1662605
+        ],
+        [
+          -115.1545173,
+          36.1662638
+        ],
+        [
+          -115.1544834,
+          36.1662761
+        ],
+        [
+          -115.154425,
+          36.1662965
+        ],
+        [
+          -115.1543642,
+          36.1663125
+        ],
+        [
+          -115.1543031,
+          36.1663238
+        ],
+        [
+          -115.1542787,
+          36.1663287
+        ],
+        [
+          -115.1542919,
+          36.1663828
+        ],
+        [
+          -115.1542871,
+          36.1663851
+        ],
+        [
+          -115.1542186,
+          36.1664177
+        ],
+        [
+          -115.153946,
+          36.1665473
+        ],
+        [
+          -115.1539122,
+          36.1665634
+        ],
+        [
+          -115.1538777,
+          36.166516
+        ],
+        [
+          -115.1538389,
+          36.1664629
+        ],
+        [
+          -115.1536552,
+          36.1665514
+        ],
+        [
+          -115.1535331,
+          36.166384
+        ],
+        [
+          -115.1534759,
+          36.1663056
+        ],
+        [
+          -115.1534013,
+          36.1662033
+        ],
+        [
+          -115.1533375,
+          36.1662358
+        ],
+        [
+          -115.1532785,
+          36.1662659
+        ],
+        [
+          -115.1532188,
+          36.1662964
+        ],
+        [
+          -115.1531037,
+          36.1661387
+        ],
+        [
+          -115.1531576,
+          36.1661031
+        ],
+        [
+          -115.1531291,
+          36.1660649
+        ],
+        [
+          -115.1531007,
+          36.1660268
+        ],
+        [
+          -115.1530338,
+          36.166048
+        ],
+        [
+          -115.1529187,
+          36.1658889
+        ],
+        [
+          -115.1527766,
+          36.1656925
+        ],
+        [
+          -115.1528413,
+          36.1656627
+        ],
+        [
+          -115.152869,
+          36.1656499
+        ],
+        [
+          -115.1528948,
+          36.1656378
+        ],
+        [
+          -115.1529163,
+          36.1656277
+        ],
+        [
+          -115.1529188,
+          36.1656322
+        ],
+        [
+          -115.152922,
+          36.1656307
+        ],
+        [
+          -115.1529605,
+          36.1656134
+        ],
+        [
+          -115.1529545,
+          36.1656055
+        ],
+        [
+          -115.1529693,
+          36.1655971
+        ],
+        [
+          -115.1530173,
+          36.1655736
+        ],
+        [
+          -115.1529988,
+          36.165549
+        ],
+        [
+          -115.1528754,
+          36.1653769
+        ],
+        [
+          -115.1528401,
+          36.1653278
+        ],
+        [
+          -115.1529025,
+          36.1652988
+        ],
+        [
+          -115.1528648,
+          36.1652473
+        ],
+        [
+          -115.1529885,
+          36.1651904
+        ],
+        [
+          -115.1529497,
+          36.1651386
+        ],
+        [
+          -115.1530819,
+          36.1650726
+        ],
+        [
+          -115.1531162,
+          36.1651227
+        ],
+        [
+          -115.1531378,
+          36.1651482
+        ],
+        [
+          -115.153158,
+          36.1651665
+        ],
+        [
+          -115.1531795,
+          36.1651822
+        ],
+        [
+          -115.1531986,
+          36.1651927
+        ],
+        [
+          -115.1532162,
+          36.1652011
+        ],
+        [
+          -115.1532306,
+          36.1652061
+        ],
+        [
+          -115.1532391,
+          36.165209
+        ],
+        [
+          -115.1532508,
+          36.1652131
+        ],
+        [
+          -115.1533063,
+          36.1652325
+        ],
+        [
+          -115.153361,
+          36.1652035
+        ],
+        [
+          -115.1535573,
+          36.1653041
+        ],
+        [
+          -115.1535775,
+          36.1653145
+        ],
+        [
+          -115.1535929,
+          36.1652937
+        ],
+        [
+          -115.1536378,
+          36.1652477
+        ],
+        [
+          -115.1536924,
+          36.165203
+        ],
+        [
+          -115.1537558,
+          36.165164
+        ],
+        [
+          -115.1537679,
+          36.1651804
+        ],
+        [
+          -115.1537751,
+          36.1651903
+        ],
+        [
+          -115.1537782,
+          36.1651941
+        ],
+        [
+          -115.1537822,
+          36.165199
+        ],
+        [
+          -115.1537898,
+          36.1652082
+        ],
+        [
+          -115.1538673,
+          36.1653025
+        ],
+        [
+          -115.153874,
+          36.1653106
+        ],
+        [
+          -115.1539109,
+          36.1653555
+        ],
+        [
+          -115.1539283,
+          36.1653767
+        ],
+        [
+          -115.1538011,
+          36.1655288
+        ],
+        [
+          -115.1535473,
+          36.1654745
+        ],
+        [
+          -115.1535324,
+          36.1655378
+        ],
+        [
+          -115.1535294,
+          36.1655505
+        ],
+        [
+          -115.1535295,
+          36.1655635
+        ],
+        [
+          -115.1535298,
+          36.1656077
+        ],
+        [
+          -115.1535377,
+          36.165668
+        ],
+        [
+          -115.1535523,
+          36.1657157
+        ],
+        [
+          -115.1535724,
+          36.1656913
+        ],
+        [
+          -115.1535838,
+          36.1656924
+        ],
+        [
+          -115.1536016,
+          36.165697
+        ],
+        [
+          -115.1536126,
+          36.1657035
+        ],
+        [
+          -115.1536287,
+          36.1657135
+        ],
+        [
+          -115.1536336,
+          36.1657182
+        ],
+        [
+          -115.1536445,
+          36.1657284
+        ],
+        [
+          -115.1536576,
+          36.1657444
+        ],
+        [
+          -115.1536598,
+          36.1657481
+        ],
+        [
+          -115.153669,
+          36.1657633
+        ],
+        [
+          -115.1536747,
+          36.165779
+        ],
+        [
+          -115.1536787,
+          36.1657961
+        ],
+        [
+          -115.15368,
+          36.1658082
+        ],
+        [
+          -115.1536383,
+          36.1658199
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "relation",
+    "id": 19293385,
+    "version": 8,
+    "timestamp": "2025-09-04T21:29:03Z",
+    "url": "https://www.openstreetmap.org/relation/19293385"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 1410016952,
+      "version": 8,
+      "timestamp": "2025-06-27T12:04:23Z",
+      "url": "https://www.openstreetmap.org/way/1410016952"
+    },
+    {
+      "type": "way",
+      "id": 1410018175,
+      "version": 6,
+      "timestamp": "2025-06-27T12:04:47Z",
+      "url": "https://www.openstreetmap.org/way/1410018175"
+    },
+    {
+      "type": "way",
+      "id": 1410020941,
+      "version": 7,
+      "timestamp": "2025-07-05T02:33:12Z",
+      "url": "https://www.openstreetmap.org/way/1410020941"
+    },
+    {
+      "type": "way",
+      "id": 1410020942,
+      "version": 4,
+      "timestamp": "2025-06-27T10:59:56Z",
+      "url": "https://www.openstreetmap.org/way/1410020942"
+    },
+    {
+      "type": "way",
+      "id": 1410020943,
+      "version": 2,
+      "timestamp": "2025-06-27T10:27:42Z",
+      "url": "https://www.openstreetmap.org/way/1410020943"
+    },
+    {
+      "type": "way",
+      "id": 1410020944,
+      "version": 2,
+      "timestamp": "2025-06-27T10:27:42Z",
+      "url": "https://www.openstreetmap.org/way/1410020944"
+    },
+    {
+      "type": "way",
+      "id": 1410020945,
+      "version": 2,
+      "timestamp": "2025-06-27T10:27:42Z",
+      "url": "https://www.openstreetmap.org/way/1410020945"
+    },
+    {
+      "type": "way",
+      "id": 1410021783,
+      "version": 5,
+      "timestamp": "2025-07-02T11:39:39Z",
+      "url": "https://www.openstreetmap.org/way/1410021783"
+    },
+    {
+      "type": "way",
+      "id": 1410021784,
+      "version": 3,
+      "timestamp": "2025-07-02T11:39:39Z",
+      "url": "https://www.openstreetmap.org/way/1410021784"
+    },
+    {
+      "type": "way",
+      "id": 1410022596,
+      "version": 6,
+      "timestamp": "2025-07-02T09:42:49Z",
+      "url": "https://www.openstreetmap.org/way/1410022596"
+    },
+    {
+      "type": "way",
+      "id": 1410023637,
+      "version": 1,
+      "timestamp": "2025-06-27T10:35:27Z",
+      "url": "https://www.openstreetmap.org/way/1410023637"
+    },
+    {
+      "type": "way",
+      "id": 1410023828,
+      "version": 3,
+      "timestamp": "2025-06-27T10:59:56Z",
+      "url": "https://www.openstreetmap.org/way/1410023828"
+    },
+    {
+      "type": "way",
+      "id": 1410023898,
+      "version": 2,
+      "timestamp": "2025-07-02T09:47:25Z",
+      "url": "https://www.openstreetmap.org/way/1410023898"
+    },
+    {
+      "type": "way",
+      "id": 1410024001,
+      "version": 2,
+      "timestamp": "2025-06-27T10:38:25Z",
+      "url": "https://www.openstreetmap.org/way/1410024001"
+    },
+    {
+      "type": "way",
+      "id": 1410024039,
+      "version": 1,
+      "timestamp": "2025-06-27T10:38:25Z",
+      "url": "https://www.openstreetmap.org/way/1410024039"
+    },
+    {
+      "type": "way",
+      "id": 1410024119,
+      "version": 1,
+      "timestamp": "2025-06-27T10:38:55Z",
+      "url": "https://www.openstreetmap.org/way/1410024119"
+    },
+    {
+      "type": "way",
+      "id": 1410024120,
+      "version": 2,
+      "timestamp": "2025-09-04T21:29:03Z",
+      "url": "https://www.openstreetmap.org/way/1410024120"
+    },
+    {
+      "type": "way",
+      "id": 1410024424,
+      "version": 1,
+      "timestamp": "2025-06-27T10:39:22Z",
+      "url": "https://www.openstreetmap.org/way/1410024424"
+    },
+    {
+      "type": "way",
+      "id": 1410024584,
+      "version": 2,
+      "timestamp": "2025-06-27T10:59:56Z",
+      "url": "https://www.openstreetmap.org/way/1410024584"
+    },
+    {
+      "type": "way",
+      "id": 1410024765,
+      "version": 4,
+      "timestamp": "2025-07-02T12:51:26Z",
+      "url": "https://www.openstreetmap.org/way/1410024765"
+    },
+    {
+      "type": "way",
+      "id": 1410024775,
+      "version": 1,
+      "timestamp": "2025-06-27T10:41:22Z",
+      "url": "https://www.openstreetmap.org/way/1410024775"
+    },
+    {
+      "type": "way",
+      "id": 1410024864,
+      "version": 4,
+      "timestamp": "2025-07-02T11:43:44Z",
+      "url": "https://www.openstreetmap.org/way/1410024864"
+    },
+    {
+      "type": "way",
+      "id": 1410025397,
+      "version": 1,
+      "timestamp": "2025-06-27T10:44:42Z",
+      "url": "https://www.openstreetmap.org/way/1410025397"
+    },
+    {
+      "type": "way",
+      "id": 1410025398,
+      "version": 1,
+      "timestamp": "2025-06-27T10:44:42Z",
+      "url": "https://www.openstreetmap.org/way/1410025398"
+    },
+    {
+      "type": "way",
+      "id": 1410025399,
+      "version": 1,
+      "timestamp": "2025-06-27T10:44:42Z",
+      "url": "https://www.openstreetmap.org/way/1410025399"
+    },
+    {
+      "type": "way",
+      "id": 1410025400,
+      "version": 1,
+      "timestamp": "2025-06-27T10:44:42Z",
+      "url": "https://www.openstreetmap.org/way/1410025400"
+    },
+    {
+      "type": "way",
+      "id": 1410027177,
+      "version": 1,
+      "timestamp": "2025-06-27T10:52:52Z",
+      "url": "https://www.openstreetmap.org/way/1410027177"
+    },
+    {
+      "type": "way",
+      "id": 1410027178,
+      "version": 1,
+      "timestamp": "2025-06-27T10:52:52Z",
+      "url": "https://www.openstreetmap.org/way/1410027178"
+    },
+    {
+      "type": "way",
+      "id": 1410027179,
+      "version": 1,
+      "timestamp": "2025-06-27T10:52:52Z",
+      "url": "https://www.openstreetmap.org/way/1410027179"
+    },
+    {
+      "type": "way",
+      "id": 1410027180,
+      "version": 1,
+      "timestamp": "2025-06-27T10:52:52Z",
+      "url": "https://www.openstreetmap.org/way/1410027180"
+    },
+    {
+      "type": "way",
+      "id": 1410027181,
+      "version": 1,
+      "timestamp": "2025-06-27T10:52:52Z",
+      "url": "https://www.openstreetmap.org/way/1410027181"
+    },
+    {
+      "type": "way",
+      "id": 1410027182,
+      "version": 1,
+      "timestamp": "2025-06-27T10:52:52Z",
+      "url": "https://www.openstreetmap.org/way/1410027182"
+    },
+    {
+      "type": "way",
+      "id": 1410027183,
+      "version": 1,
+      "timestamp": "2025-06-27T10:52:52Z",
+      "url": "https://www.openstreetmap.org/way/1410027183"
+    },
+    {
+      "type": "way",
+      "id": 1410027184,
+      "version": 1,
+      "timestamp": "2025-06-27T10:52:52Z",
+      "url": "https://www.openstreetmap.org/way/1410027184"
+    },
+    {
+      "type": "way",
+      "id": 1410027185,
+      "version": 1,
+      "timestamp": "2025-06-27T10:52:52Z",
+      "url": "https://www.openstreetmap.org/way/1410027185"
+    },
+    {
+      "type": "way",
+      "id": 1410027186,
+      "version": 1,
+      "timestamp": "2025-06-27T10:52:52Z",
+      "url": "https://www.openstreetmap.org/way/1410027186"
+    },
+    {
+      "type": "way",
+      "id": 1410027187,
+      "version": 1,
+      "timestamp": "2025-06-27T10:52:52Z",
+      "url": "https://www.openstreetmap.org/way/1410027187"
+    },
+    {
+      "type": "way",
+      "id": 1410027188,
+      "version": 1,
+      "timestamp": "2025-06-27T10:52:52Z",
+      "url": "https://www.openstreetmap.org/way/1410027188"
+    },
+    {
+      "type": "way",
+      "id": 1410027189,
+      "version": 1,
+      "timestamp": "2025-06-27T10:52:52Z",
+      "url": "https://www.openstreetmap.org/way/1410027189"
+    },
+    {
+      "type": "way",
+      "id": 1410027190,
+      "version": 1,
+      "timestamp": "2025-06-27T10:52:52Z",
+      "url": "https://www.openstreetmap.org/way/1410027190"
+    },
+    {
+      "type": "way",
+      "id": 1410027191,
+      "version": 1,
+      "timestamp": "2025-06-27T10:52:52Z",
+      "url": "https://www.openstreetmap.org/way/1410027191"
+    },
+    {
+      "type": "way",
+      "id": 1410027192,
+      "version": 1,
+      "timestamp": "2025-06-27T10:52:52Z",
+      "url": "https://www.openstreetmap.org/way/1410027192"
+    },
+    {
+      "type": "way",
+      "id": 1410027349,
+      "version": 2,
+      "timestamp": "2025-06-27T11:09:27Z",
+      "url": "https://www.openstreetmap.org/way/1410027349"
+    },
+    {
+      "type": "way",
+      "id": 1410028575,
+      "version": 3,
+      "timestamp": "2025-06-29T02:29:26Z",
+      "url": "https://www.openstreetmap.org/way/1410028575"
+    },
+    {
+      "type": "way",
+      "id": 1410028576,
+      "version": 2,
+      "timestamp": "2025-06-29T02:29:26Z",
+      "url": "https://www.openstreetmap.org/way/1410028576"
+    },
+    {
+      "type": "way",
+      "id": 1410029920,
+      "version": 2,
+      "timestamp": "2025-06-27T11:29:48Z",
+      "url": "https://www.openstreetmap.org/way/1410029920"
+    },
+    {
+      "type": "way",
+      "id": 1410029921,
+      "version": 2,
+      "timestamp": "2025-06-27T11:33:11Z",
+      "url": "https://www.openstreetmap.org/way/1410029921"
+    }
+  ],
+  "wikidata": "Q5127188",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Clark County Government Center aerial view.png",
+      "author": "Carol M. Highsmith",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Clark_County_Government_Center_aerial_view.png",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Clark_County_Government_Center_aerial_view.png",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Clarkcountygovernmentcenter.jpg",
+      "author": "Coolcaesar at English Wikipedia",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Clarkcountygovernmentcenter.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Clark County Government Center Amphitheater.jpg",
+      "author": "Coolcaesar",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Clark_County_Government_Center_Amphitheater.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Clark County Government Center - panoramio.jpg",
+      "author": "Alen Ištoković",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Clark_County_Government_Center_-_panoramio.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/lv-clark-county-government-center.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Clark County Government Center, Las Vegas (C. W. Fentress, J. H. Bradburn and Associates, 1995): stepped red-sandstone office blocks wrapped round a sloped lawn amphitheatre, the six-storey administration block on its two-storey colonnade, the cylindrical rotunda with its sliced top and tilted beam, the low pyramid of the cafeteria, the sawtooth skylights of the commission chambers and the shaded circular arcade. Procedural, CC0-1.0. bun generators/lv-clark-county-government-center.ts",
+    "Map frame: x east, y north, z up, metres; bearing 0 (the plan is radial, with no one main axis). The origin is the area centroid of the OSM outline, relation/19293385 (outer way/226508856, inner way/1410015395).",
+    "Published (Wikipedia, \"Clark County Government Center\"): a six-story administration building, one-story commission chambers, a pyramid-shaped cafeteria and a cylindrical six-story reception hall (the rotunda); \"the shaded, circular arcade\" round an amphitheatre 280 ft (85 m) across.",
+    "Measured:",
+    "OSM: the outline and its 44 building:parts, used as drawn for the plan of every block, the pyramid (a square 41 m on a side, turned 45°, 12 m tall), the rotunda (a circle 23.6 m across), the stepped south-east and east wings (15, 10 and 5 m), the arcade roofs (building=roof, 5 m);",
+    "USGS NAIP orthophoto (public domain): the plan again, the penthouses (from their shadows), the rotunda's round skylight and the beam across it, the sawtooth roof south of the amphitheatre;",
+    "heights from the photos, where OSM disagrees with them: the north-west wing has three storeys (13 m, OSM 10), the administration block south- east of the rotunda six (26 m; OSM leaves it untagged), on a two-storey colonnade facing the amphitheatre; the rotunda rises above it, its top cut on a slope from about 29 m to 36 m.",
+    "Photos (Wikimedia Commons):",
+    "g2 \"Clark County Government Center aerial view.png\" and g4/g6 (the pyramid and Lou Ruvo), Carol M. Highsmith, public domain: from the south-west, above, and the pyramid from the north;",
+    "g5 \"Clarkcountygovernmentcenter.jpg\", Coolcaesar, CC BY-SA 3.0: the same view from the Stratosphere;",
+    "g3 \"Clark County Government Center Amphitheater.jpg\", Coolcaesar, CC BY-SA 4.0: the rotunda and the administration block from the west;",
+    "g1 \"Clark County Government Center - panoramio.jpg\", Alen Ištoković, CC BY 3.0: the pyramid and its skylight slots.",
+    "Estimated: the storey height (4.2 m), the window rhythm (two windows to a panel), the penthouses' size, the slope and peak of the rotunda's top and the beam's angle, the sawtooth's rows (four, standing for OSM's sixteen small skillion parts), the arcades' column spacing. The plaza, the lawn and the stage are the map's.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"lv-clark-county-government-center\", model \"lv-clark-county-government-center\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/lv-clark-county-government-center.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 141 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the lv-clark-county-government-center-glazing finish in the window colour."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

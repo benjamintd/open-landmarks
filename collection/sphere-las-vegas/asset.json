@@ -1,0 +1,262 @@
+{
+  "id": "sphere-las-vegas",
+  "name": "Sphere",
+  "anchor": [
+    -115.162067,
+    36.121244
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 13,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 95404,
+      "sha256": "8e7953dbca76ec4d345d31a99aff55321d1bd19ecdd624ee0bcc3cefdcd65f32"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 95404,
+      "sha256": "8e7953dbca76ec4d345d31a99aff55321d1bd19ecdd624ee0bcc3cefdcd65f32"
+    }
+  },
+  "triangles": 4824,
+  "boundsBlenderM": [
+    [
+      -80,
+      -80,
+      0
+    ],
+    [
+      80,
+      80,
+      112
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -115.1628379,
+          36.1217241
+        ],
+        [
+          -115.1627244,
+          36.1218238
+        ],
+        [
+          -115.1625915,
+          36.1219063
+        ],
+        [
+          -115.162443,
+          36.1219692
+        ],
+        [
+          -115.1622833,
+          36.1220105
+        ],
+        [
+          -115.1621172,
+          36.1220291
+        ],
+        [
+          -115.1619496,
+          36.1220244
+        ],
+        [
+          -115.1617856,
+          36.1219965
+        ],
+        [
+          -115.1616299,
+          36.1219463
+        ],
+        [
+          -115.1614871,
+          36.1218752
+        ],
+        [
+          -115.1613616,
+          36.1217854
+        ],
+        [
+          -115.1612571,
+          36.1216795
+        ],
+        [
+          -115.1611766,
+          36.1215607
+        ],
+        [
+          -115.1611225,
+          36.1214325
+        ],
+        [
+          -115.1610965,
+          36.1212987
+        ],
+        [
+          -115.1610993,
+          36.1211633
+        ],
+        [
+          -115.1611309,
+          36.1210303
+        ],
+        [
+          -115.1611902,
+          36.1209036
+        ],
+        [
+          -115.1612756,
+          36.120787
+        ],
+        [
+          -115.1613746,
+          36.120692
+        ],
+        [
+          -115.1614909,
+          36.1206108
+        ],
+        [
+          -115.1616216,
+          36.1205454
+        ],
+        [
+          -115.1617634,
+          36.1204974
+        ],
+        [
+          -115.1619128,
+          36.1204681
+        ],
+        [
+          -115.1620661,
+          36.1204581
+        ],
+        [
+          -115.1622194,
+          36.1204678
+        ],
+        [
+          -115.1623689,
+          36.1204968
+        ],
+        [
+          -115.1625108,
+          36.1205445
+        ],
+        [
+          -115.1626417,
+          36.1206097
+        ],
+        [
+          -115.1627583,
+          36.1206907
+        ],
+        [
+          -115.1628575,
+          36.1207856
+        ],
+        [
+          -115.1629371,
+          36.1208918
+        ],
+        [
+          -115.1629949,
+          36.1210069
+        ],
+        [
+          -115.1630296,
+          36.1211279
+        ],
+        [
+          -115.1630403,
+          36.1212518
+        ],
+        [
+          -115.1630266,
+          36.1213755
+        ],
+        [
+          -115.162989,
+          36.1214959
+        ],
+        [
+          -115.1629284,
+          36.1216101
+        ],
+        [
+          -115.1628379,
+          36.1217241
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 976405284,
+    "version": 16,
+    "timestamp": "2026-05-18T05:28:34Z",
+    "url": "https://www.openstreetmap.org/way/976405284"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q60749353",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:View of Sphere from High Roller on Jan 31 2024.jpg",
+      "author": "zenm",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:View_of_Sphere_from_High_Roller_on_Jan_31_2024.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:The Las Vegas Sphere, Nevada (53349695459).jpg",
+      "author": "Harold Litwiler from Orcutt/Istanbul, USA",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:The_Las_Vegas_Sphere,_Nevada_(53349695459).jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/lv-sphere.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Sphere, Las Vegas — procedural, CC0-1.0. bun generators/lv-sphere.ts",
+    "Map frame: x east, y north, z up, metres; bearing 0 (it is round). The origin is the area centroid of OSM way/976405284 (building=commercial, height=112, shape=spherical_cutted), a circle of radius 87 m.",
+    "Published (Wikipedia, \"Sphere (venue)\"; OSM height tag): 366 ft (112 m) tall and 516 ft (157 m) wide, so the globe's radius is 78.5 m and its centre, the widest point, stands 33.5 m above the ground.",
+    "Measured:",
+    "the base, from the daylight photos \"Sphere-exosphere-in-daytime-on-Jan- 27-2024.jpg\" (Y2kcrazyjoker4, CC BY 4.0; from the south-east parking lot, about 0.16 m per pixel at the sphere) and \"View of Sphere from High Roller on Jan 31 2024.jpg\" (zenm, CC BY 2.0; from the south-west, above). The shell curves visibly inward below its widest point, its lower edge about 0.9 of the equator's width, and comes down to within ~6 m of the ground (against the people and light poles), where a low battered concrete skirt hides its foot. About 27 m of under-curve shows;",
+    "the pale ring in a USGS NAIP orthophoto (public domain, taken during construction) and in the view from above, reaching out toward the OSM outline (87 m), is a low apron at ground level: drawn as a 1.2 m ledge out to 80 m.",
+    "Colour. The Exosphere is an LED skin showing changing content, so the model takes it as it looks in daylight with the screens dark: a charcoal shell with a faint blue cast and soft highlights (the two photos above, and \"The Las Vegas Sphere, Nevada (53349695459).jpg\", Harold Litwiler, CC BY-SA 2.0). STYLE.md's floor for a defining dark colour, #4a4f57, is about that shade. The LED pucks and ring beams are too fine to model; the shell is a smooth, finely faceted sphere. Its material is not a window name, so it stays unlit at night rather than glowing a uniform warm tone.",
+    "Estimated: the skirt's 6 m height and batter (76 m at its foot), the apron's height and reach. Not modelled: the pedestrian bridge to the Venetian (outside the outline; it stays the map's), the loading docks and plant to the east. Replaces the outline only; nothing else in OSM lies inside it.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"lv-sphere\", model \"lv-sphere\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/lv-sphere.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

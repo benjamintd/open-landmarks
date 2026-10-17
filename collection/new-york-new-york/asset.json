@@ -1,0 +1,567 @@
+{
+  "id": "new-york-new-york",
+  "name": "New York-New York",
+  "anchor": [
+    -115.1744447,
+    36.1022215
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 220172,
+      "sha256": "7740588acfb4a8a98827cc8d4c260d9c01a348f660516c03defc6700433d61c4"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 220172,
+      "sha256": "7740588acfb4a8a98827cc8d4c260d9c01a348f660516c03defc6700433d61c4"
+    }
+  },
+  "triangles": 4474,
+  "boundsBlenderM": [
+    [
+      -117.37,
+      -120.13,
+      0
+    ],
+    [
+      100.313,
+      105.184,
+      161
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -115.1738798,
+          36.1011357
+        ],
+        [
+          -115.1738804,
+          36.1013348
+        ],
+        [
+          -115.173924,
+          36.1013359
+        ],
+        [
+          -115.1739236,
+          36.1013948
+        ],
+        [
+          -115.1738821,
+          36.1013948
+        ],
+        [
+          -115.1738056,
+          36.1013373
+        ],
+        [
+          -115.1738401,
+          36.1013066
+        ],
+        [
+          -115.1737823,
+          36.1012578
+        ],
+        [
+          -115.1734961,
+          36.1014931
+        ],
+        [
+          -115.1734365,
+          36.1014919
+        ],
+        [
+          -115.1734359,
+          36.1015914
+        ],
+        [
+          -115.1734353,
+          36.1016821
+        ],
+        [
+          -115.17351,
+          36.1016829
+        ],
+        [
+          -115.1735108,
+          36.10186
+        ],
+        [
+          -115.1735871,
+          36.1018615
+        ],
+        [
+          -115.1735899,
+          36.1020765
+        ],
+        [
+          -115.173612,
+          36.1020769
+        ],
+        [
+          -115.173612,
+          36.1021679
+        ],
+        [
+          -115.1736256,
+          36.1021682
+        ],
+        [
+          -115.1736231,
+          36.1023996
+        ],
+        [
+          -115.1735692,
+          36.1023992
+        ],
+        [
+          -115.1735694,
+          36.1024372
+        ],
+        [
+          -115.1735479,
+          36.102438
+        ],
+        [
+          -115.1735479,
+          36.1025503
+        ],
+        [
+          -115.1735651,
+          36.1025507
+        ],
+        [
+          -115.1735639,
+          36.1026468
+        ],
+        [
+          -115.1735798,
+          36.1026471
+        ],
+        [
+          -115.17358,
+          36.1027306
+        ],
+        [
+          -115.1736016,
+          36.1027308
+        ],
+        [
+          -115.1736016,
+          36.1028701
+        ],
+        [
+          -115.1735675,
+          36.1028707
+        ],
+        [
+          -115.1735668,
+          36.1029279
+        ],
+        [
+          -115.1735665,
+          36.1031429
+        ],
+        [
+          -115.1738025,
+          36.1031442
+        ],
+        [
+          -115.1742829,
+          36.1031456
+        ],
+        [
+          -115.1743352,
+          36.1031458
+        ],
+        [
+          -115.1743734,
+          36.1031459
+        ],
+        [
+          -115.1743727,
+          36.1031715
+        ],
+        [
+          -115.1745371,
+          36.1031729
+        ],
+        [
+          -115.1745383,
+          36.1031463
+        ],
+        [
+          -115.1745766,
+          36.1031464
+        ],
+        [
+          -115.1747353,
+          36.1031469
+        ],
+        [
+          -115.1755405,
+          36.1025053
+        ],
+        [
+          -115.1754572,
+          36.1024362
+        ],
+        [
+          -115.1754936,
+          36.1024075
+        ],
+        [
+          -115.1755737,
+          36.1023442
+        ],
+        [
+          -115.1755185,
+          36.1022984
+        ],
+        [
+          -115.1755358,
+          36.1022842
+        ],
+        [
+          -115.1754631,
+          36.1022266
+        ],
+        [
+          -115.1754488,
+          36.1022383
+        ],
+        [
+          -115.1754281,
+          36.1022219
+        ],
+        [
+          -115.175371,
+          36.102269
+        ],
+        [
+          -115.1753259,
+          36.1022332
+        ],
+        [
+          -115.1752802,
+          36.1022689
+        ],
+        [
+          -115.1752516,
+          36.1022446
+        ],
+        [
+          -115.1754075,
+          36.1021193
+        ],
+        [
+          -115.1753277,
+          36.1020476
+        ],
+        [
+          -115.1755045,
+          36.1019085
+        ],
+        [
+          -115.1754709,
+          36.1018781
+        ],
+        [
+          -115.1757494,
+          36.1016592
+        ],
+        [
+          -115.1756587,
+          36.1015847
+        ],
+        [
+          -115.1756315,
+          36.1015646
+        ],
+        [
+          -115.1752583,
+          36.1015584
+        ],
+        [
+          -115.1751667,
+          36.1016337
+        ],
+        [
+          -115.1748522,
+          36.1016317
+        ],
+        [
+          -115.1748527,
+          36.1015379
+        ],
+        [
+          -115.174853,
+          36.1014669
+        ],
+        [
+          -115.1748546,
+          36.1013587
+        ],
+        [
+          -115.1748102,
+          36.1013586
+        ],
+        [
+          -115.1748105,
+          36.1013206
+        ],
+        [
+          -115.1748112,
+          36.1012413
+        ],
+        [
+          -115.1745631,
+          36.1012416
+        ],
+        [
+          -115.174563,
+          36.1013185
+        ],
+        [
+          -115.174563,
+          36.1013551
+        ],
+        [
+          -115.1745163,
+          36.1013555
+        ],
+        [
+          -115.1745156,
+          36.1014738
+        ],
+        [
+          -115.1745152,
+          36.1015385
+        ],
+        [
+          -115.1745151,
+          36.1015657
+        ],
+        [
+          -115.174534,
+          36.1015652
+        ],
+        [
+          -115.1745331,
+          36.1016321
+        ],
+        [
+          -115.1743245,
+          36.1016311
+        ],
+        [
+          -115.1742882,
+          36.1016069
+        ],
+        [
+          -115.1743353,
+          36.101567
+        ],
+        [
+          -115.1740842,
+          36.1013556
+        ],
+        [
+          -115.1740843,
+          36.1013359
+        ],
+        [
+          -115.1740848,
+          36.1011353
+        ],
+        [
+          -115.1739902,
+          36.1011347
+        ],
+        [
+          -115.1738798,
+          36.1011357
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 115661793,
+    "version": 24,
+    "timestamp": "2026-05-22T14:11:48Z",
+    "url": "https://www.openstreetmap.org/way/115661793"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 115661791,
+      "version": 6,
+      "timestamp": "2026-04-25T02:26:47Z",
+      "url": "https://www.openstreetmap.org/way/115661791"
+    },
+    {
+      "type": "way",
+      "id": 115661792,
+      "version": 5,
+      "timestamp": "2026-04-25T02:26:47Z",
+      "url": "https://www.openstreetmap.org/way/115661792"
+    },
+    {
+      "type": "way",
+      "id": 115661794,
+      "version": 6,
+      "timestamp": "2026-04-25T02:26:47Z",
+      "url": "https://www.openstreetmap.org/way/115661794"
+    },
+    {
+      "type": "way",
+      "id": 115661795,
+      "version": 5,
+      "timestamp": "2026-04-25T02:26:47Z",
+      "url": "https://www.openstreetmap.org/way/115661795"
+    },
+    {
+      "type": "way",
+      "id": 115661796,
+      "version": 4,
+      "timestamp": "2023-11-03T19:45:16Z",
+      "url": "https://www.openstreetmap.org/way/115661796"
+    },
+    {
+      "type": "way",
+      "id": 115661797,
+      "version": 5,
+      "timestamp": "2026-04-25T02:26:47Z",
+      "url": "https://www.openstreetmap.org/way/115661797"
+    },
+    {
+      "type": "way",
+      "id": 115661798,
+      "version": 5,
+      "timestamp": "2026-04-25T02:26:47Z",
+      "url": "https://www.openstreetmap.org/way/115661798"
+    },
+    {
+      "type": "way",
+      "id": 115661799,
+      "version": 6,
+      "timestamp": "2026-04-25T02:26:47Z",
+      "url": "https://www.openstreetmap.org/way/115661799"
+    },
+    {
+      "type": "way",
+      "id": 115661800,
+      "version": 5,
+      "timestamp": "2026-04-25T02:26:47Z",
+      "url": "https://www.openstreetmap.org/way/115661800"
+    },
+    {
+      "type": "way",
+      "id": 115661801,
+      "version": 6,
+      "timestamp": "2026-04-25T02:26:47Z",
+      "url": "https://www.openstreetmap.org/way/115661801"
+    },
+    {
+      "type": "way",
+      "id": 115661802,
+      "version": 3,
+      "timestamp": "2023-11-03T19:41:43Z",
+      "url": "https://www.openstreetmap.org/way/115661802"
+    },
+    {
+      "type": "way",
+      "id": 115661803,
+      "version": 3,
+      "timestamp": "2023-11-03T19:35:15Z",
+      "url": "https://www.openstreetmap.org/way/115661803"
+    },
+    {
+      "type": "way",
+      "id": 115661804,
+      "version": 1,
+      "timestamp": "2011-05-30T19:40:24Z",
+      "url": "https://www.openstreetmap.org/way/115661804"
+    },
+    {
+      "type": "way",
+      "id": 115661805,
+      "version": 3,
+      "timestamp": "2023-11-03T19:37:47Z",
+      "url": "https://www.openstreetmap.org/way/115661805"
+    },
+    {
+      "type": "way",
+      "id": 115661806,
+      "version": 5,
+      "timestamp": "2023-11-03T19:24:06Z",
+      "url": "https://www.openstreetmap.org/way/115661806"
+    },
+    {
+      "type": "way",
+      "id": 115661807,
+      "version": 5,
+      "timestamp": "2026-04-25T02:26:47Z",
+      "url": "https://www.openstreetmap.org/way/115661807"
+    }
+  ],
+  "wikidata": "Q1429071",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:NewYork-NewYork.JPG",
+      "author": "Kris Ziel",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:NewYork-NewYork.JPG",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/lv-new-york-new-york.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "New York-New York Hotel and Casino, Las Vegas: procedural, CC0-1.0. bun generators/lv-new-york-new-york.ts",
+    "Map frame: x east, y north, z up, metres; bearing 0. Coordinates are written in a park frame about lon -115.1745, lat 36.1021 (the same frame as lv-big-apple-coaster.ts) and shifted at the end so the origin is the centroid of the casino outline (way/115661793), on the ground. The Strip is flat here.",
+    "What it draws: the skyline replica of about a dozen towers at roughly a third of the size of their New York originals, standing on the two-storey casino; the replica Statue of Liberty at the Strip-Tropicana corner, the Brooklyn Bridge walkway along the Strip, the brick \"Ellis Island\" front with its two teal domes, the columned main entrance, the white rotunda, and the 222 ft sign pylon. The Big Apple Coaster is a separate model (lv-big-apple-coaster); nothing here stands where its track runs: the casino roof under the track on the Strip side is 11 m up and the track never comes below 13 m over it, and every front building is checked against the coaster's centreline.",
+    "Evidence.",
+    "OSM: the casino outline way/115661793 and its building:parts, which are the tower footprints used here as drawn (way/115661791 … 115661807). Only the Empire State replica has a height tag (161 m); the others carry building:levels, which at 3.3 m a floor agree with the photos to within a few metres, and were adjusted to the photos where they did not.",
+    "Published: Wikipedia (New York-New York Hotel and Casino): the Empire State replica is 47 storeys and 529 ft (161 m); the Statue of Liberty replica is 150 ft (46 m); the Brooklyn Bridge replica is 300 ft long; the sign rises 222 ft (68 m); the skyline is about a third of real size.",
+    "Photos (Wikimedia Commons), used for every tower's colour, crown and relative height: \"Las Vegas New York New York 2013\" (Tuxyso, CC BY-SA 3.0) and \"New York New York Hotel and Casino in Las Vegas\" (Jbro1186, CC BY-SA 4.0), from the south-east corner; \"New York New York Las Vegas December 2013\" (King of Hearts, CC BY-SA 3.0) and \"NewYork-NewYork.JPG\" (Kris Ziel, CC BY 3.0), from the west; \"Las Vegas Hotel New York, New York 01\" (Miguel Hermoso Cuesta, CC BY-SA 3.0), from the south-west; \"New York, New York hotel, Las Vegas\" (Clément Bardot, CC BY-SA 4.0), from the Strip; \"Big Apple Coaster 1\" (Jeremy Thompson, CC BY 2.0), from the north-east; \"New York New York Hotel - Las Vegas (9227754702)\" (Joao Carlos Medau, CC BY 2.0), the bridge.",
+    "USGS NAIP orthophoto (public domain) for the plan of the front and the pale roofs; the towers lean too far in it to measure.",
+    "Which tower is which, matched between the south-east and west photos: 802 teal glass slab (south-west end), 105 m 796 Empire State: shaft to 132 m, three setbacks, mast to 161 m 805 magenta-maroon curtain wall, 114 m 798 salmon tower with a stepped crown, 128 m 801 blue-and-white banded tower, 106 m 795 dark glass tower, 100 m; 797 green glass slab, 84 m 799 tan tower with a stepped top, 120 m 791 dark bronze slab (the Seagram), 100 m 792 + 807 Chrysler: shaft to 98 m, the cross-plan stage to 110 m, five arched tiers to 129 m and the needle to 143 m (estimated; the photos put its tip a little under nine-tenths of the Empire State's) 800 tan slab at the north end, 96 m Estimated, not in OSM: the white Municipal Building replica (12 m square, 78 m to its cupola) east of the tan tower, placed from the south-east and west photos; the rotunda on part 803 (the 6-level part); the front buildings' depths; the bridge towers' positions (a third and two-thirds of the OSM bridge way/1419902125) and height (22 m, from the bridge photo); the statue's pedestal (about a third of its 46 m, from the photos). The yellow gabled tower seen only from the west, and the low facades of the Strip front, are left out.",
+    "Style: six materials. Towers in stone or a salmon-tan finish carry slate window panels, one per bay over five or six floors; the curtain-wall towers are their glass colour (maroon, teal, dark slate) with pale floor bands. The statue is a simple bold figure in patina, which also covers the domes and the main entrance roof.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"lv-new-york-new-york\", model \"lv-new-york-new-york\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/lv-new-york-new-york.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 9857 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the lv-new-york-new-york-glazing finish in the window colour.",
+    "To fit six materials, folded lv-new-york-new-york-glazing into lv-new-york-new-york-window-3 (ΔE 14.9)."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

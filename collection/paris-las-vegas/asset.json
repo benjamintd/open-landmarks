@@ -1,0 +1,373 @@
+{
+  "id": "paris-las-vegas",
+  "name": "Paris Las Vegas",
+  "anchor": [
+    -115.17049,
+    36.1123056
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 177748,
+      "sha256": "7a0cae95a197f942efd1b517e1bd436a2fb8acefaf717ccd8aa3f17f8ce1de54"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 177748,
+      "sha256": "7a0cae95a197f942efd1b517e1bd436a2fb8acefaf717ccd8aa3f17f8ce1de54"
+    }
+  },
+  "triangles": 3785,
+  "boundsBlenderM": [
+    [
+      -195.5,
+      -111.2,
+      0
+    ],
+    [
+      148.6,
+      83.5,
+      112
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -115.1719736,
+          36.1119143
+        ],
+        [
+          -115.1720365,
+          36.1119118
+        ],
+        [
+          -115.1720401,
+          36.1118359
+        ],
+        [
+          -115.1720411,
+          36.1118141
+        ],
+        [
+          -115.1724302,
+          36.1118125
+        ],
+        [
+          -115.1724252,
+          36.1118814
+        ],
+        [
+          -115.1724262,
+          36.1122729
+        ],
+        [
+          -115.1724275,
+          36.112293
+        ],
+        [
+          -115.1723523,
+          36.1122913
+        ],
+        [
+          -115.1723507,
+          36.1123949
+        ],
+        [
+          -115.172347,
+          36.1126285
+        ],
+        [
+          -115.1725016,
+          36.1126302
+        ],
+        [
+          -115.1725101,
+          36.1130181
+        ],
+        [
+          -115.1712036,
+          36.1130137
+        ],
+        [
+          -115.1712002,
+          36.1130606
+        ],
+        [
+          -115.169674,
+          36.1130603
+        ],
+        [
+          -115.1696267,
+          36.1130623
+        ],
+        [
+          -115.1694974,
+          36.1130602
+        ],
+        [
+          -115.1691456,
+          36.1130602
+        ],
+        [
+          -115.169058,
+          36.1130602
+        ],
+        [
+          -115.1690154,
+          36.1130257
+        ],
+        [
+          -115.1688389,
+          36.113027
+        ],
+        [
+          -115.1688376,
+          36.112965
+        ],
+        [
+          -115.1688529,
+          36.1129645
+        ],
+        [
+          -115.1688475,
+          36.1114279
+        ],
+        [
+          -115.169265,
+          36.111427
+        ],
+        [
+          -115.1706464,
+          36.1114309
+        ],
+        [
+          -115.1706462,
+          36.1113845
+        ],
+        [
+          -115.1711132,
+          36.1113878
+        ],
+        [
+          -115.1711083,
+          36.1116838
+        ],
+        [
+          -115.1711187,
+          36.1117394
+        ],
+        [
+          -115.1711387,
+          36.1117933
+        ],
+        [
+          -115.1711679,
+          36.1118444
+        ],
+        [
+          -115.1712056,
+          36.1118917
+        ],
+        [
+          -115.1712513,
+          36.1119342
+        ],
+        [
+          -115.1713038,
+          36.1119711
+        ],
+        [
+          -115.1713623,
+          36.1120017
+        ],
+        [
+          -115.1714254,
+          36.1120253
+        ],
+        [
+          -115.1714975,
+          36.1120425
+        ],
+        [
+          -115.1715075,
+          36.1120436
+        ],
+        [
+          -115.1715719,
+          36.1120506
+        ],
+        [
+          -115.1716471,
+          36.1120496
+        ],
+        [
+          -115.1717211,
+          36.1120393
+        ],
+        [
+          -115.1717924,
+          36.1120201
+        ],
+        [
+          -115.1718592,
+          36.1119924
+        ],
+        [
+          -115.1719201,
+          36.1119569
+        ],
+        [
+          -115.1719736,
+          36.1119143
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 33974140,
+    "version": 23,
+    "timestamp": "2025-10-24T08:23:41Z",
+    "url": "https://www.openstreetmap.org/way/33974140"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 27831697,
+      "version": 7,
+      "timestamp": "2023-10-24T16:00:09Z",
+      "url": "https://www.openstreetmap.org/way/27831697"
+    },
+    {
+      "type": "way",
+      "id": 114722037,
+      "version": 1,
+      "timestamp": "2011-05-24T20:55:01Z",
+      "url": "https://www.openstreetmap.org/way/114722037"
+    },
+    {
+      "type": "way",
+      "id": 114697072,
+      "version": 1,
+      "timestamp": "2011-05-24T17:17:15Z",
+      "url": "https://www.openstreetmap.org/way/114697072"
+    },
+    {
+      "type": "way",
+      "id": 114697073,
+      "version": 1,
+      "timestamp": "2011-05-24T17:17:15Z",
+      "url": "https://www.openstreetmap.org/way/114697073"
+    },
+    {
+      "type": "way",
+      "id": 114697074,
+      "version": 3,
+      "timestamp": "2024-02-02T13:33:26Z",
+      "url": "https://www.openstreetmap.org/way/114697074"
+    },
+    {
+      "type": "way",
+      "id": 364846544,
+      "version": 4,
+      "timestamp": "2024-05-26T01:28:55Z",
+      "url": "https://www.openstreetmap.org/way/364846544"
+    }
+  ],
+  "wikidata": "Q691491",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:The hotel Paris Las Vegas as seen from the hotel The Bellagio.jpg",
+      "author": "Jürgen Matern",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:The_hotel_Paris_Las_Vegas_as_seen_from_the_hotel_The_Bellagio.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:LasVegas - ParisLasVegas.jpg",
+      "author": "Jean-Christophe BENOIST",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:LasVegas_-_ParisLasVegas.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Paris Las Vegas (hotel and casino on the Las Vegas Strip).jpg",
+      "author": "Roland Arhelger",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Paris_Las_Vegas_(hotel_and_casino_on_the_Las_Vegas_Strip).jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Hotel Paris with triumphal arch in Las Vegas 2013.jpg",
+      "author": "Tuxyso",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Hotel_Paris_with_triumphal_arch_in_Las_Vegas_2013.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:The Strip (2026)-L1000592.jpg",
+      "author": "Frank Schulenburg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:The_Strip_(2026)-L1000592.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Paris Las Vegas. (30647833152).jpg",
+      "author": "Bernard Spragg. NZ from Christchurch, New Zealand",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Paris_Las_Vegas._(30647833152).jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/lv-paris-resort.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Paris Las Vegas: the hotel tower, the Arc de Triomphe, the Montgolfier balloon sign, the Opéra and Louvre fronts on the Strip and the casino podium. Procedural, CC0-1.0. bun generators/lv-paris-resort.ts",
+    "The resort's Eiffel Tower is not here: it is its own placement of the eiffel-tower model (paris-las-vegas-eiffel-tower, which replaces way/27831699). This model draws no tower and does not list that way. The Opéra and Louvre fronts stay outside the tower's footprint; the casino podium runs under its legs, as the real casino does and as the plain casino extrusion did before.",
+    "Map frame: x east, y north, z up, metres. Bearing 0: the casino outline runs true north-south. The origin is the area centroid of the resort's outline, way/33974140.",
+    "Published (Wikipedia, \"Paris Las Vegas\"; Joel Bergman, 1999): a 34-storey hotel tower; replicas of the Arc de Triomphe at two-thirds scale, the Louvre and the Paris Opera House on the Strip front; the Montgolfier balloon sign, 23 m (75 ft) across. Two-thirds of the real Arc (49.5 m high, 44.8 m wide, 22.2 m deep, central arch 29.2 m high) gives 33 m high, 29.9 m wide, 14.8 m deep and a 19.5 m arch crown, which OSM's footprint confirms; the model is built to those figures.",
+    "Measured, from OSM: the casino outline; the tower's X plan and its 112 m (way/27831697, mistagged \"Le Boulevard At Paris\"); the Arc's two piers and attic (way/114697072, way/114697073, way/114697074), 29.3 m across and 15.2 m deep with an 11.6 m opening; the balloon's position (way/364846544) and its 46 m height (the OSM note); the Opéra block with its rounded end to the Strip (way/114722037); the Louvre wing, the outline's Strip-side arm north of the tower. The USGS NAIP orthophoto (public domain) confirms the X, the Arc astride the drive, the Opéra's rotunda and the Louvre wing's slate roof.",
+    "Photos (Wikimedia Commons):",
+    "\"The hotel Paris Las Vegas as seen from the hotel The Bellagio.jpg\", Jürgen Matern, CC BY-SA 3.0: the tower from the west, its cream walls and slate teal-blue mansards with taller end pavilions, the Opéra, the Louvre front, the Arc and the balloon;",
+    "\"LasVegas - ParisLasVegas.jpg\", Jean-Christophe Benoist, CC BY 3.0: the Opéra's arcaded front, its raised centre and low dome, the slate mansard of the tower behind;",
+    "\"Paris Las Vegas (hotel and casino on the Las Vegas Strip).jpg\", Roland Arhelger, CC BY-SA 4.0: the Opéra rotunda and its pavilions;",
+    "\"Hotel Paris with triumphal arch in Las Vegas 2013.jpg\", Tuxyso, CC BY-SA 3.0: the Arc's east face and an arm end of the tower;",
+    "\"The Strip (2026)-L1000592.jpg\", Frank Schulenburg, CC BY-SA 4.0, and \"Paris Las Vegas. (30647833152).jpg\", Bernard Spragg, CC0: the balloon, bright blue with gold bands, on its sign box.",
+    "Estimated: the tower's cornice at 98 m with the mansards to 107 m and the end pavilions to OSM's 112 m; the podium at 15 m, stepping down to an 8 m terrace along the Strip so the fronts stand clear; the Opéra's cornice at 20 m, its raised centre at 27 m and rotunda dome to 30.6 m; the Louvre front's cornice at 19 m and pavilion at 26 m; the balloon's profile and sign box. The slate is sampled from the sunlit mansard in the Matern photo and pulled to the palette's lightness. Left out: statues, the green-patina roof details, dormers, the porte-cochère canopy, signs.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"lv-paris-resort\", model \"lv-paris-resort\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/lv-paris-resort.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

@@ -1,0 +1,299 @@
+{
+  "id": "the-strat-tower",
+  "name": "The STRAT Tower",
+  "anchor": [
+    -115.15552,
+    36.147409
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 13,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 109728,
+      "sha256": "42f4abbe3c5d0c648556c0ca360878c4fe7e51a18b1ece8cc39ef959abf9182d"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 109728,
+      "sha256": "42f4abbe3c5d0c648556c0ca360878c4fe7e51a18b1ece8cc39ef959abf9182d"
+    }
+  },
+  "triangles": 2130,
+  "boundsBlenderM": [
+    [
+      -25.6,
+      -25.6,
+      0
+    ],
+    [
+      28.141,
+      32.888,
+      350.2
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -115.1556035,
+          36.1476311
+        ],
+        [
+          -115.1556394,
+          36.1476201
+        ],
+        [
+          -115.1556842,
+          36.1475996
+        ],
+        [
+          -115.1557288,
+          36.1475687
+        ],
+        [
+          -115.1557561,
+          36.1475417
+        ],
+        [
+          -115.1557824,
+          36.1475044
+        ],
+        [
+          -115.1557997,
+          36.1474637
+        ],
+        [
+          -115.1558074,
+          36.1474212
+        ],
+        [
+          -115.1558053,
+          36.1473783
+        ],
+        [
+          -115.1557876,
+          36.1473236
+        ],
+        [
+          -115.1557557,
+          36.1472758
+        ],
+        [
+          -115.1557109,
+          36.1472353
+        ],
+        [
+          -115.1556557,
+          36.1472043
+        ],
+        [
+          -115.1555995,
+          36.147186
+        ],
+        [
+          -115.1555636,
+          36.1471797
+        ],
+        [
+          -115.155527,
+          36.1471771
+        ],
+        [
+          -115.1554583,
+          36.1471826
+        ],
+        [
+          -115.1554068,
+          36.147196
+        ],
+        [
+          -115.1553694,
+          36.1472118
+        ],
+        [
+          -115.1553231,
+          36.1472406
+        ],
+        [
+          -115.155299,
+          36.1472614
+        ],
+        [
+          -115.1552771,
+          36.147286
+        ],
+        [
+          -115.1552623,
+          36.1473076
+        ],
+        [
+          -115.155249,
+          36.1473335
+        ],
+        [
+          -115.1552399,
+          36.1473596
+        ],
+        [
+          -115.1552337,
+          36.1473981
+        ],
+        [
+          -115.1552384,
+          36.1474524
+        ],
+        [
+          -115.1552513,
+          36.1474898
+        ],
+        [
+          -115.1552665,
+          36.1475171
+        ],
+        [
+          -115.1552954,
+          36.147553
+        ],
+        [
+          -115.1553314,
+          36.1475835
+        ],
+        [
+          -115.1553592,
+          36.1476009
+        ],
+        [
+          -115.1553926,
+          36.1476166
+        ],
+        [
+          -115.1554479,
+          36.1476334
+        ],
+        [
+          -115.1554997,
+          36.1476403
+        ],
+        [
+          -115.1555521,
+          36.1476395
+        ],
+        [
+          -115.1556035,
+          36.1476311
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 135457469,
+    "version": 8,
+    "timestamp": "2025-07-28T19:18:29Z",
+    "url": "https://www.openstreetmap.org/way/135457469"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 503324066,
+      "version": 4,
+      "timestamp": "2025-07-28T19:18:29Z",
+      "url": "https://www.openstreetmap.org/way/503324066"
+    }
+  ],
+  "wikidata": "Q845846",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Stratosphere Tower attractions LAS 09 2017 4908.jpg",
+      "author": "Mariordo (Mario Roberto Durán Ortiz)",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Stratosphere_Tower_attractions_LAS_09_2017_4908.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Stratosphere Tower 4.jpg",
+      "author": "Noah Wulf",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Stratosphere_Tower_4.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Stratosphere Las Vegas.JPG",
+      "author": "Laslovarga",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Stratosphere_Las_Vegas.JPG",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Stratosphere from Sahara Las Vegas.jpg",
+      "author": "Mikerussell",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Stratosphere_from_Sahara_Las_Vegas.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Stratosphere Tower (40714248821).jpg",
+      "author": "Mike McBey",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Stratosphere_Tower_(40714248821).jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/lv-strat.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "The STRAT tower (Stratosphere Tower), Las Vegas — procedural, CC0-1.0. bun generators/lv-strat.ts",
+    "Map frame: x east, y north, z up, metres; bearing 0. The origin is the centroid of OSM way/135457469 (building=tower, man_made=tower, height=350), a 51 m circle, taken as the tower's axis.",
+    "Published (Wikipedia, \"The Strat\", citing the Las Vegas Review-Journal and Las Vegas Sun):",
+    "1,149 ft (350.2 m) to the top of the antenna;",
+    "three concrete legs rise 264 ft (80 m) before meeting the core;",
+    "the pod starts at about 775 ft (236 m) and has 12 storeys;",
+    "the 108th-floor indoor deck is at 855 ft (261 m);",
+    "a 149 ft (45 m) steel needle stands on the pod;",
+    "Big Shot rides the needle to 1,081 ft (329 m); X-Scream (866 ft) is a see-saw track overhanging the rim; Insanity (900 ft) is an arm that swings riders out over the edge.",
+    "Measured:",
+    "pod diameter 51 m from the OSM circle; it matches the widest pod ring in the photos when 350 m is used for the vertical scale;",
+    "pod tiers (cream ring, lattice drum, white band, flared restaurant band, rim, dark roof cap, white plant box, needle) scaled from Commons photos \"Stratosphere Tower attractions LAS 09 2017 4908.jpg\" (Mariordo, CC BY-SA 4.0) and \"Stratosphere Tower 4.jpg\" (Noah Wulf, CC BY-SA 4.0): about 0.16 m per pixel at the pod;",
+    "shaft widths from \"Stratosphere Las Vegas.JPG\" (Laslovarga, CC BY-SA 3.0) and \"Stratosphere from Sahara Las Vegas.jpg\" (Mikerussell, CC BY-SA 3.0): ~47 m across the feet, ~18 m at the waist (~200 m), flaring to the ~31 m cream ring under the pod.",
+    "Colour: the pod's glass, deck and cap are charcoal #4a4f57 (the STYLE's darkest tone), since the real pod reads near-black against the white ring and lattice. Big Shot's lattice is white with a red stripe up the middle of each face from the plant box to ~320 m (one red band, per the Mariordo and Noah Wulf photos); white above to 338.5 m; antenna.",
+    "Estimated:",
+    "leg directions (118°, 238°, 358°): one leg faces Las Vegas Boulevard, which carries the old sign in \"Stratosphere Tower (40714248821).jpg\" (Mike McBey, CC BY 2.0), taken from across the boulevard;",
+    "ride directions from a USGS NAIP orthophoto (public domain): X-Scream points south-east (~124°), Insanity's green arm north-north-east (~25°). Both are small at that resolution;",
+    "leg width (~8 m), core radius (7 m), the gaps between legs and core below 60 m;",
+    "the round glass base with its red cornice, from the photos only;",
+    "the rides are static, bold shapes in a plausible resting pose.",
+    "The resort's hotel towers are separate OSM buildings (way/135456188 does not contain the tower) and are not modelled. Replaces the tower and its \"Thrill Rides\" building:part (way/503324066).",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"lv-strat\", model \"lv-strat\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/lv-strat.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

@@ -1,0 +1,798 @@
+{
+  "id": "caesars-palace",
+  "name": "Caesars Palace",
+  "anchor": [
+    -115.1762721,
+    36.1165611
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 238452,
+      "sha256": "a39e9f99fb33158299b96d7285d3f8aad29704f4e2c0ff9b449e47655733ae2b"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 238452,
+      "sha256": "a39e9f99fb33158299b96d7285d3f8aad29704f4e2c0ff9b449e47655733ae2b"
+    }
+  },
+  "triangles": 4773,
+  "boundsBlenderM": [
+    [
+      -286.078,
+      -171.098,
+      0
+    ],
+    [
+      217.576,
+      185.601,
+      132
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -115.1753101,
+          36.1178379
+        ],
+        [
+          -115.1754232,
+          36.1179924
+        ],
+        [
+          -115.1754497,
+          36.1180276
+        ],
+        [
+          -115.1753558,
+          36.1181424
+        ],
+        [
+          -115.1754039,
+          36.1182007
+        ],
+        [
+          -115.1755949,
+          36.1181534
+        ],
+        [
+          -115.1757124,
+          36.1181255
+        ],
+        [
+          -115.1757524,
+          36.118116
+        ],
+        [
+          -115.1758737,
+          36.1180876
+        ],
+        [
+          -115.1760442,
+          36.118064
+        ],
+        [
+          -115.1762004,
+          36.1180957
+        ],
+        [
+          -115.1762044,
+          36.1180312
+        ],
+        [
+          -115.1762318,
+          36.1172575
+        ],
+        [
+          -115.177593,
+          36.1172908
+        ],
+        [
+          -115.1776855,
+          36.1172954
+        ],
+        [
+          -115.1776986,
+          36.116946
+        ],
+        [
+          -115.1781702,
+          36.1169628
+        ],
+        [
+          -115.1781668,
+          36.1170554
+        ],
+        [
+          -115.1781616,
+          36.1172004
+        ],
+        [
+          -115.1789799,
+          36.1172245
+        ],
+        [
+          -115.1789807,
+          36.1171815
+        ],
+        [
+          -115.1793907,
+          36.1171917
+        ],
+        [
+          -115.1793967,
+          36.1170887
+        ],
+        [
+          -115.1794537,
+          36.1161182
+        ],
+        [
+          -115.1793052,
+          36.1155784
+        ],
+        [
+          -115.1782892,
+          36.1155521
+        ],
+        [
+          -115.1782674,
+          36.1166208
+        ],
+        [
+          -115.1781803,
+          36.1166179
+        ],
+        [
+          -115.1766226,
+          36.1165655
+        ],
+        [
+          -115.1766223,
+          36.1165311
+        ],
+        [
+          -115.1764713,
+          36.1165283
+        ],
+        [
+          -115.1765066,
+          36.1165028
+        ],
+        [
+          -115.1764494,
+          36.1164586
+        ],
+        [
+          -115.1764573,
+          36.1164053
+        ],
+        [
+          -115.1765514,
+          36.1163432
+        ],
+        [
+          -115.1764332,
+          36.1162495
+        ],
+        [
+          -115.1763541,
+          36.1163187
+        ],
+        [
+          -115.1762911,
+          36.1163202
+        ],
+        [
+          -115.1762396,
+          36.1162717
+        ],
+        [
+          -115.1761847,
+          36.1163133
+        ],
+        [
+          -115.1761301,
+          36.1162726
+        ],
+        [
+          -115.1760776,
+          36.1163109
+        ],
+        [
+          -115.1759875,
+          36.1162701
+        ],
+        [
+          -115.1759772,
+          36.1162789
+        ],
+        [
+          -115.1759017,
+          36.1162418
+        ],
+        [
+          -115.1759953,
+          36.1161147
+        ],
+        [
+          -115.1760785,
+          36.1161885
+        ],
+        [
+          -115.1762798,
+          36.1161993
+        ],
+        [
+          -115.1762772,
+          36.1161155
+        ],
+        [
+          -115.1763631,
+          36.1161174
+        ],
+        [
+          -115.1763654,
+          36.1160336
+        ],
+        [
+          -115.1763983,
+          36.116033
+        ],
+        [
+          -115.1763999,
+          36.1158824
+        ],
+        [
+          -115.1763712,
+          36.1158815
+        ],
+        [
+          -115.176373,
+          36.1157964
+        ],
+        [
+          -115.1762882,
+          36.1157945
+        ],
+        [
+          -115.1763063,
+          36.115484
+        ],
+        [
+          -115.1763329,
+          36.1154842
+        ],
+        [
+          -115.1767683,
+          36.115496
+        ],
+        [
+          -115.1767684,
+          36.1155185
+        ],
+        [
+          -115.1771802,
+          36.1155291
+        ],
+        [
+          -115.1771819,
+          36.1155059
+        ],
+        [
+          -115.1776159,
+          36.1155166
+        ],
+        [
+          -115.1776224,
+          36.1153094
+        ],
+        [
+          -115.1776257,
+          36.1152354
+        ],
+        [
+          -115.1771912,
+          36.1152247
+        ],
+        [
+          -115.1771921,
+          36.1151991
+        ],
+        [
+          -115.1767809,
+          36.1151928
+        ],
+        [
+          -115.1767812,
+          36.1152096
+        ],
+        [
+          -115.1763493,
+          36.1152014
+        ],
+        [
+          -115.176344,
+          36.1152926
+        ],
+        [
+          -115.1761622,
+          36.1152819
+        ],
+        [
+          -115.1761666,
+          36.1151632
+        ],
+        [
+          -115.1759977,
+          36.1151591
+        ],
+        [
+          -115.175999,
+          36.1151258
+        ],
+        [
+          -115.1755684,
+          36.1151154
+        ],
+        [
+          -115.1755699,
+          36.1150731
+        ],
+        [
+          -115.175061,
+          36.1150607
+        ],
+        [
+          -115.1750594,
+          36.1151031
+        ],
+        [
+          -115.1746955,
+          36.1150942
+        ],
+        [
+          -115.1746944,
+          36.1151256
+        ],
+        [
+          -115.1745984,
+          36.1151227
+        ],
+        [
+          -115.1746027,
+          36.1150157
+        ],
+        [
+          -115.1745288,
+          36.1150147
+        ],
+        [
+          -115.1744618,
+          36.1150138
+        ],
+        [
+          -115.1744333,
+          36.1154496
+        ],
+        [
+          -115.1743421,
+          36.1154496
+        ],
+        [
+          -115.1743269,
+          36.1157336
+        ],
+        [
+          -115.1743234,
+          36.1158072
+        ],
+        [
+          -115.1744038,
+          36.1158115
+        ],
+        [
+          -115.1744926,
+          36.1159211
+        ],
+        [
+          -115.1744699,
+          36.1159315
+        ],
+        [
+          -115.1744098,
+          36.1159591
+        ],
+        [
+          -115.1743973,
+          36.1159648
+        ],
+        [
+          -115.1743038,
+          36.1160077
+        ],
+        [
+          -115.1743438,
+          36.1160674
+        ],
+        [
+          -115.174355,
+          36.1161106
+        ],
+        [
+          -115.1743581,
+          36.1161463
+        ],
+        [
+          -115.1743552,
+          36.1161828
+        ],
+        [
+          -115.1743436,
+          36.1162179
+        ],
+        [
+          -115.1743243,
+          36.116252
+        ],
+        [
+          -115.1742922,
+          36.1162963
+        ],
+        [
+          -115.1744435,
+          36.1163715
+        ],
+        [
+          -115.1744735,
+          36.116388
+        ],
+        [
+          -115.1744422,
+          36.1164246
+        ],
+        [
+          -115.1743791,
+          36.1164785
+        ],
+        [
+          -115.1743434,
+          36.1164978
+        ],
+        [
+          -115.1742892,
+          36.1165236
+        ],
+        [
+          -115.1742758,
+          36.1165299
+        ],
+        [
+          -115.1742791,
+          36.1165374
+        ],
+        [
+          -115.1742906,
+          36.116567
+        ],
+        [
+          -115.1740669,
+          36.1166346
+        ],
+        [
+          -115.1741628,
+          36.116828
+        ],
+        [
+          -115.1739135,
+          36.1169052
+        ],
+        [
+          -115.1739087,
+          36.1170313
+        ],
+        [
+          -115.1738541,
+          36.1170319
+        ],
+        [
+          -115.1738522,
+          36.1172428
+        ],
+        [
+          -115.1739926,
+          36.1172452
+        ],
+        [
+          -115.173985,
+          36.117305
+        ],
+        [
+          -115.173936,
+          36.1173071
+        ],
+        [
+          -115.1739303,
+          36.1173819
+        ],
+        [
+          -115.1739959,
+          36.1173852
+        ],
+        [
+          -115.1739825,
+          36.1175587
+        ],
+        [
+          -115.1744446,
+          36.1175662
+        ],
+        [
+          -115.1744486,
+          36.1175318
+        ],
+        [
+          -115.1745015,
+          36.1175315
+        ],
+        [
+          -115.1745753,
+          36.1175834
+        ],
+        [
+          -115.1746745,
+          36.1175314
+        ],
+        [
+          -115.1747213,
+          36.1175874
+        ],
+        [
+          -115.1746307,
+          36.1176329
+        ],
+        [
+          -115.1745408,
+          36.1177147
+        ],
+        [
+          -115.1744912,
+          36.1178049
+        ],
+        [
+          -115.1744843,
+          36.1178519
+        ],
+        [
+          -115.174476,
+          36.1179087
+        ],
+        [
+          -115.174491,
+          36.1179798
+        ],
+        [
+          -115.1744954,
+          36.1179988
+        ],
+        [
+          -115.1745365,
+          36.118072
+        ],
+        [
+          -115.1745973,
+          36.118135
+        ],
+        [
+          -115.1747075,
+          36.1181996
+        ],
+        [
+          -115.1747984,
+          36.1182264
+        ],
+        [
+          -115.1748963,
+          36.1182357
+        ],
+        [
+          -115.1749974,
+          36.1182257
+        ],
+        [
+          -115.1750737,
+          36.1182039
+        ],
+        [
+          -115.1751533,
+          36.1181647
+        ],
+        [
+          -115.1752209,
+          36.1181116
+        ],
+        [
+          -115.1752683,
+          36.1180538
+        ],
+        [
+          -115.1753128,
+          36.1179403
+        ],
+        [
+          -115.1753101,
+          36.1178379
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 115672893,
+    "version": 36,
+    "timestamp": "2026-05-29T12:53:59Z",
+    "url": "https://www.openstreetmap.org/way/115672893"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 1176928048,
+      "version": 3,
+      "timestamp": "2026-04-24T21:24:22Z",
+      "url": "https://www.openstreetmap.org/way/1176928048"
+    },
+    {
+      "type": "way",
+      "id": 126267789,
+      "version": 10,
+      "timestamp": "2026-04-24T21:24:22Z",
+      "url": "https://www.openstreetmap.org/way/126267789"
+    },
+    {
+      "type": "way",
+      "id": 134944648,
+      "version": 9,
+      "timestamp": "2026-04-24T21:24:22Z",
+      "url": "https://www.openstreetmap.org/way/134944648"
+    },
+    {
+      "type": "way",
+      "id": 134949102,
+      "version": 6,
+      "timestamp": "2026-04-24T21:24:22Z",
+      "url": "https://www.openstreetmap.org/way/134949102"
+    },
+    {
+      "type": "way",
+      "id": 134949098,
+      "version": 7,
+      "timestamp": "2026-04-24T21:24:22Z",
+      "url": "https://www.openstreetmap.org/way/134949098"
+    },
+    {
+      "type": "way",
+      "id": 134949101,
+      "version": 6,
+      "timestamp": "2026-04-24T21:24:22Z",
+      "url": "https://www.openstreetmap.org/way/134949101"
+    },
+    {
+      "type": "way",
+      "id": 134949402,
+      "version": 11,
+      "timestamp": "2026-06-01T13:33:49Z",
+      "url": "https://www.openstreetmap.org/way/134949402"
+    },
+    {
+      "type": "way",
+      "id": 134949715,
+      "version": 10,
+      "timestamp": "2026-04-24T21:24:22Z",
+      "url": "https://www.openstreetmap.org/way/134949715"
+    },
+    {
+      "type": "way",
+      "id": 1168129083,
+      "version": 5,
+      "timestamp": "2025-10-09T16:48:21Z",
+      "url": "https://www.openstreetmap.org/way/1168129083"
+    }
+  ],
+  "wikidata": "Q569978",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Caesars Palace - South East - 2010-12-12.jpg",
+      "author": "Cygnusloop99",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Caesars_Palace_-_South_East_-_2010-12-12.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Caesars Palace & The Mirage, Las Vegas (42491485504).jpg",
+      "author": "Mike McBey",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Caesars_Palace_%26_The_Mirage,_Las_Vegas_(42491485504).jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Caesars Palace, Las Vegas (39801633275).jpg",
+      "author": "Mike McBey",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Caesars_Palace,_Las_Vegas_(39801633275).jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Las Vegas, Caesars Palace 01.jpg",
+      "author": "When reusing, please credit me as author: Adam Kliczek, http://memoriesstay.com (CC-BY-SA-3.0) If you use my image on your website, please send me an email with webpage adress. Contact me at: adam.kliczekgmail.com pl en +/− pl en +/−",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Las_Vegas,_Caesars_Palace_01.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Caesars Palace. Las Vegas. (37399855570).jpg",
+      "author": "Bernard Spragg. NZ from Christchurch, New Zealand",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Caesars_Palace._Las_Vegas._(37399855570).jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Colosseum at Caesars Palace in Las Vegas.jpg",
+      "author": "Supercarwaar",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Colosseum_at_Caesars_Palace_in_Las_Vegas.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/lv-caesars-palace.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Caesars Palace, Las Vegas: the hotel towers, the Colosseum and the casino podium they stand on. Procedural, CC0-1.0. bun generators/lv-caesars-palace.ts",
+    "This file also exports the small plan-and-facade kit that the other Las Vegas resorts built alongside it (lv-paris-resort) import. The model itself is only written when the file is run directly.",
+    "Map frame: x east, y north, z up, metres. Bearing 1.8°: the towers' long walls run 1.5–2.3° clockwise of east in OSM, so the plans are turned by that much and squared to this frame. The origin is the area centroid of the resort's outline, way/115672893.",
+    "Published (Wikipedia, \"Caesars Palace\"; Skyscraper Center): the Palace Tower (1997) is 29 storeys, the Augustus Tower (2005) 26 and the Octavius Tower (2009/2012) 23; the original 1966 tower (now Julius) 14 storeys and the Forum Tower (1979) 22. The Colosseum (2003) is a round 4,300-seat theatre on the north side of the site, modelled on its namesake.",
+    "Measured, from OSM: every footprint, the towers' heights (Palace 133 m, Augustus 111, Octavius 107, Forum 71, Julius 52 and its extension 45, Nobu 40) and the Colosseum's 35 m and outline (way/34000314, an indoor room, so not in `replaces`). The casino outline is simplified to 1 m.",
+    "From the USGS NAIP orthophoto (public domain), which leans the towers' roofs some 13–35 m west but keeps their shape: the Palace Tower's roof is three red-tiled hip roofs on its two end pavilions and its centre one, with flat roofs between; Augustus has a big red hip on its centre pavilion and red mansard slopes along both long sides of each wing, as does Octavius, whose centre is flat.",
+    "Photos (Wikimedia Commons):",
+    "\"Caesars Palace - South East - 2010-12-12.jpg\", Cygnusloop99, CC BY-SA 3.0, and \"Caesars Palace & The Mirage, Las Vegas (42491485504).jpg\" and \"Caesars Palace, Las Vegas (39801633275).jpg\", Mike McBey, CC BY 2.0: the whole resort from the Paris Eiffel Tower, south-east. The cream towers, their red roofs and white pediments, the row of arched attic windows under the cornice, the Colosseum drum;",
+    "\"Las Vegas, Caesars Palace 01.jpg\", CC BY-SA 3.0, from Flamingo Road to the south-west: the end faces' three dark full-height window recesses, the belt course under the attic, the pediments on the ends;",
+    "\"Caesars Palace. Las Vegas. (37399855570).jpg\", Bernard Spragg, CC0, and \"Caesar's Palace Hotel and Casino with Forum Shops ...\", Jim Gateley, CC BY 3.0: Augustus's long south face from the Bellagio lake, its centre pediment over a recessed colonnade;",
+    "\"Colosseum at Caesars Palace in Las Vegas.jpg\", Supercarwaar, CC BY-SA 4.0: the drum's plain base, two arcaded tiers and plain attic.",
+    "Estimated: the cornice at 7–9 m under the OSM heights, the red roofs taking the rest; the attic at 9 m; the casino podium at 12 m everywhere (it really ranges from two to four storeys); the pediments' widths from the photos; the Colosseum's tiers. The Forum, Julius and Nobu towers are drawn plainly (cream walls and window bays), as they read from the Strip. Left out: the fountains, statues, porticoes and temple fronts on the podium, signs, and the Colosseum's stage house.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"lv-caesars-palace\", model \"lv-caesars-palace\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/lv-caesars-palace.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}
