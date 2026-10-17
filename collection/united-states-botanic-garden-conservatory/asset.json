@@ -1,0 +1,215 @@
+{
+  "id": "united-states-botanic-garden-conservatory",
+  "name": "United States Botanic Garden Conservatory",
+  "anchor": [
+    -77.0129058,
+    38.8879645
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 78488,
+      "sha256": "03aa462ff301b674a1f7b050faa40c87012dc8dcf174226180151bf233ca7eb1"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 78488,
+      "sha256": "03aa462ff301b674a1f7b050faa40c87012dc8dcf174226180151bf233ca7eb1"
+    }
+  },
+  "triangles": 1456,
+  "boundsBlenderM": [
+    [
+      -43.869,
+      -30.67,
+      0
+    ],
+    [
+      44.792,
+      37.707,
+      24.4
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -77.0134121,
+          38.8880804
+        ],
+        [
+          -77.0133703,
+          38.8877956
+        ],
+        [
+          -77.0133553,
+          38.8877839
+        ],
+        [
+          -77.0132315,
+          38.8876988
+        ],
+        [
+          -77.0130019,
+          38.8876893
+        ],
+        [
+          -77.0128115,
+          38.887689
+        ],
+        [
+          -77.0125818,
+          38.8876975
+        ],
+        [
+          -77.0124574,
+          38.8877822
+        ],
+        [
+          -77.0124424,
+          38.8877938
+        ],
+        [
+          -77.0123896,
+          38.8880785
+        ],
+        [
+          -77.0123891,
+          38.8882294
+        ],
+        [
+          -77.0123889,
+          38.8883013
+        ],
+        [
+          -77.0132463,
+          38.8883029
+        ],
+        [
+          -77.0134114,
+          38.8883032
+        ],
+        [
+          -77.0134116,
+          38.8882314
+        ],
+        [
+          -77.0134121,
+          38.8880804
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "relation",
+    "id": 1029372,
+    "version": 12,
+    "timestamp": "2021-08-31T14:47:13Z",
+    "url": "https://www.openstreetmap.org/relation/1029372"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 905917535,
+      "version": 2,
+      "timestamp": "2021-07-25T18:46:36Z",
+      "url": "https://www.openstreetmap.org/way/905917535"
+    }
+  ],
+  "wikidata": "Q1848855",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:U.S. Botanic Garden Conservatory (8242569566).jpg",
+      "author": "USCapitol",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:U.S._Botanic_Garden_Conservatory_(8242569566).jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:U.S._Botanic_Garden_Conservatory_(8242569566).jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:United States Botanic Garden entrance.jpg",
+      "author": "Daniel Mietchen",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:United_States_Botanic_Garden_entrance.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:United States Botanic Garden by Matt Bisanz.JPG",
+      "author": "MBisanz",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:United_States_Botanic_Garden_by_Matt_Bisanz.JPG",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:United States Botanic Garden - Washington, D.C. in 2012.JPG",
+      "author": "Another Believer",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:United_States_Botanic_Garden_-_Washington,_D.C._in_2012.JPG",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:United States Botanic Garden, Washington, D.C. 2012.JPG",
+      "author": "Another Believer",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:United_States_Botanic_Garden,_Washington,_D.C._2012.JPG",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:2017 United States Botanic Garden.jpg",
+      "author": "Farragutful",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:2017_United_States_Botanic_Garden.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/dc-botanic-garden.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "United States Botanic Garden Conservatory, Washington DC — procedural, CC0-1.0, no textures. bun generators/dc-botanic-garden.ts",
+    "Exports `bonnet` and `vault` (curved glasshouse and barrel roofs) for dc-union-station; the model is only written when this file is run.",
+    "Map frame: x east, y north, z up, metres. The anchor is the area centroid of the conservatory's main outline, way/66418744 (lng -77.0129058, lat 38.8879645), which is also the middle of the Palm House to a metre or two. The walls are turned 0.14° clockwise from the compass, so the model is placed at bearing 0.14 and built square.",
+    "What it is: the Lord & Burnham glasshouse of 1933 (Bennett, Parsons & Frost), renovated 1997–2001. A long limestone orangery faces the Mall on Maryland Avenue: a range of tall arched windows under a balustrade, with a stone pavilion at each end, and the Garden Court's glass roof rising behind it. Behind that stands the Palm House, the tall glasshouse in the middle: chamfered corners, straight glass walls, a curved glass bonnet and a lantern. Glass wings with curved roofs run back down both sides to a glass range along the south, with a small bonnet-roofed glasshouse at each south corner; between them lie two open courts. A low limestone lobby with the south entrance closes the Independence Avenue side.",
+    "Covers and replaces: way/905917535 (the stone front and its end pavilions) and relation/1029372 (\"Conservatory\", building=greenhouse; broken in OSM: its outline way/66418744 is tagged as an inner member, so it may not draw at all). No building:parts. The two open courts are the relation's real inner rings and are left open.",
+    "Evidence",
+    "OSM (measured): the main outline x ±40, y -30.4 to 30.1 (the south lobby x ±28 to y -19, its middle to -30.4); the courts x ±13–31, y -10 to 15.5; the stone front x -43.5 to 44.3, y 30 to 37.2, its end pavilions back to y 13.2.",
+    "USGS NAIP orthophoto (public domain): the plan of the glass: the Palm House about 21 × 26 m (x ±10.5, y -19 to 7), the wings x ±30–40, the south range y -19 to -10.6, the Garden Court's hipped glass roof with a raised middle, the green roofs on the end pavilions.",
+    "Published (USBG, Architect of the Capitol; Wikipedia, \"United States Botanic Garden\"): Lord & Burnham glasshouse, 1933; the Palm House is about 80 ft (24.4 m) tall.",
+    "Photos (Wikimedia Commons): \"U.S. Botanic Garden Conservatory (8242569566).jpg\" (Architect of the Capitol, public domain), the Palm House square-on from Independence Avenue, used for its profile; \"United States Botanic Garden entrance.jpg\" (CC0), the same side; \"United States Botanic Garden.jpg\" (public domain), the Maryland Avenue front; \"United States Botanic Garden by Matt Bisanz.JPG\" (MBisanz, CC BY-SA 3.0), from the north-west with the end pavilion; \"United States Botanic Garden - Washington, D.C. in 2012.JPG\" and \"United States Botanic Garden, Washington, D.C. 2012.JPG\" (Wknight94, CC BY-SA 3.0), the south-west corner; \"2017 United States Botanic Garden.jpg\" (CC BY-SA 4.0), from the south-east.",
+    "Measured from the square-on photo against the Palm House's width: straight walls to 15 m, the bonnet to 22.6 m (inset 5 m), the lantern to 24.4 m; the south lobby 6.5 m, its middle 8.2 m.",
+    "Estimated: the stone front's height (cornice 9 m, balustrade to 10.2 m) from the cars in the north photo; the Garden Court roof (9.5 to 12 m, the raised middle to 14.5 m); the wings and south range (walls 5 m, curved roofs to 9.5 m); the corner glasshouses (walls 6 m, bonnets to 11 m); the low glass link round the Palm House's foot.",
+    "Simplified: the glazing bars, the arched windows' tracery, the balusters, louvres and the vents are left out; the glass is one pale material (named `glass`, lightened to the silver the photos show), its white aluminium frame shown only as bands at the cornices.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"dc-botanic-garden\", model \"dc-botanic-garden\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/dc-botanic-garden.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

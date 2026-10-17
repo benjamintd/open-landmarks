@@ -1,0 +1,330 @@
+{
+  "id": "national-museum-of-african-american-history-and-culture",
+  "anchor": [
+    -77.0327036,
+    38.8910616
+  ],
+  "coordinateSystem": "Local metres about the anchor (equirectangular, WGS84 radius): X east, Y north, Z up. glTF export: X east, Y up, Z south. Heading already baked.",
+  "license": "ODbL-1.0",
+  "footprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -30.49021199817619,
+          29.444005314833312
+        ],
+        [
+          -29.5024642944444,
+          -30.534936324700556
+        ],
+        [
+          -26.13199186900157,
+          -30.47927657944445
+        ],
+        [
+          20.39612362789384,
+          -29.766831837951525
+        ],
+        [
+          25.291539876512275,
+          -29.68890819427658
+        ],
+        [
+          30.005002600564655,
+          -29.622116499811057
+        ],
+        [
+          30.420896370297765,
+          -29.610984551392615
+        ],
+        [
+          30.39490300999727,
+          -28.241754814453845
+        ],
+        [
+          29.485135388398263,
+          30.679651662841028
+        ],
+        [
+          11.237796238279705,
+          30.30116539367573
+        ],
+        [
+          -21.964389717416083,
+          29.622116499811057
+        ],
+        [
+          -24.31245662580356,
+          29.577588703764366
+        ],
+        [
+          -30.49021199817619,
+          29.444005314833312
+        ]
+      ]
+    ]
+  },
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -77.0330555,
+          38.8913261
+        ],
+        [
+          -77.0330441,
+          38.8907873
+        ],
+        [
+          -77.0330052,
+          38.8907878
+        ],
+        [
+          -77.0324682,
+          38.8907942
+        ],
+        [
+          -77.0324117,
+          38.8907949
+        ],
+        [
+          -77.0323573,
+          38.8907955
+        ],
+        [
+          -77.0323525,
+          38.8907956
+        ],
+        [
+          -77.0323528,
+          38.8908079
+        ],
+        [
+          -77.0323633,
+          38.8913372
+        ],
+        [
+          -77.0325739,
+          38.8913338
+        ],
+        [
+          -77.0329571,
+          38.8913277
+        ],
+        [
+          -77.0329842,
+          38.8913273
+        ],
+        [
+          -77.0330555,
+          38.8913261
+        ]
+      ]
+    ]
+  },
+  "parts": [
+    {
+      "osm": "way/398810868",
+      "tags": {
+        "addr:city": "Washington",
+        "addr:housenumber": "1400",
+        "addr:postcode": "20560",
+        "addr:state": "DC",
+        "addr:street": "Constitution Avenue Northwest",
+        "building": "civic",
+        "building:levels": "5",
+        "building:levels:underground": "5",
+        "description": "free. timed-entry passes are required",
+        "fee": "no",
+        "height": "18.1356",
+        "name": "National Museum of African American History and Culture",
+        "name:de": "Nationalmuseum für Afrikanisch-Amerikanische Geschichte und Kultur",
+        "name:el": "Εθνικό Μουσείο Αφροαμερικανικής Ιστορίας και Πολιτισμού",
+        "name:en": "National Museum of African American History and Culture",
+        "name:es": "Museo Nacional de Historia y Cultura Afroamericana",
+        "name:fr": "Musée national de l'histoire et de la culture afro-américaines",
+        "name:pl": "Muzeum Narodowe Historii i Kultury Afroamerykańskiej",
+        "name:ro": "Muzeul național de istorie și cultură afro-americană",
+        "name:zh": "美国非洲裔国家历史和文化博物馆",
+        "opening_hours": "Mo-Su 10:00-17:30",
+        "operator": "Smithsonian Institution",
+        "phone": "+1 844-750-3012",
+        "short_name": "NMAAHC",
+        "start_date": "2016-09-24",
+        "tourism": "museum",
+        "website": "https://nmaahc.si.edu/",
+        "wikidata": "Q3073495",
+        "wikimedia_commons": "File:National_Museum_of_African_American_History_and_Culture_in_February_2020.jpg",
+        "wikipedia": "en:National Museum of African American History and Culture"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -30.49021199817619,
+              29.444005314833312
+            ],
+            [
+              -29.5024642944444,
+              -30.534936324700556
+            ],
+            [
+              -26.13199186900157,
+              -30.47927657944445
+            ],
+            [
+              20.39612362789384,
+              -29.766831837951525
+            ],
+            [
+              25.291539876512275,
+              -29.68890819427658
+            ],
+            [
+              30.005002600564655,
+              -29.622116499811057
+            ],
+            [
+              30.420896370297765,
+              -29.610984551392615
+            ],
+            [
+              30.39490300999727,
+              -28.241754814453845
+            ],
+            [
+              29.485135388398263,
+              30.679651662841028
+            ],
+            [
+              11.237796238279705,
+              30.30116539367573
+            ],
+            [
+              -21.964389717416083,
+              29.622116499811057
+            ],
+            [
+              -24.31245662580356,
+              29.577588703764366
+            ],
+            [
+              -30.49021199817619,
+              29.444005314833312
+            ]
+          ]
+        ]
+      },
+      "version": 23,
+      "timestamp": "2026-05-03T13:56:32Z"
+    },
+    {
+      "osm": "way/898560007",
+      "tags": {
+        "building": "roof",
+        "height": "7",
+        "layer": "1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -26.13199186900157,
+              -30.47927657944445
+            ],
+            [
+              -26.4699055566019,
+              -31.770582672708272
+            ],
+            [
+              -29.21653732744506,
+              -42.24574675616836
+            ],
+            [
+              -24.468416788837825,
+              -42.156691163284
+            ],
+            [
+              21.453186959504052,
+              -41.232739389976054
+            ],
+            [
+              29.251195143231215,
+              -41.18821159392937
+            ],
+            [
+              25.724762553522815,
+              -30.94681844070313
+            ],
+            [
+              25.291539876512275,
+              -29.68890819427658
+            ],
+            [
+              20.39612362789384,
+              -29.766831837951525
+            ],
+            [
+              -26.13199186900157,
+              -30.47927657944445
+            ]
+          ]
+        ]
+      },
+      "version": 3,
+      "timestamp": "2023-08-07T14:51:06Z"
+    }
+  ],
+  "osm": {
+    "type": "way",
+    "id": 398810868,
+    "version": 23,
+    "timestamp": "2026-05-03T13:56:32Z",
+    "url": "https://www.openstreetmap.org/way/398810868"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 898560007,
+      "version": 3,
+      "timestamp": "2023-08-07T14:51:06Z",
+      "url": "https://www.openstreetmap.org/way/898560007"
+    }
+  ],
+  "tags": {
+    "addr:city": "Washington",
+    "addr:housenumber": "1400",
+    "addr:postcode": "20560",
+    "addr:state": "DC",
+    "addr:street": "Constitution Avenue Northwest",
+    "building": "civic",
+    "building:levels": "5",
+    "building:levels:underground": "5",
+    "description": "free. timed-entry passes are required",
+    "fee": "no",
+    "height": "18.1356",
+    "name": "National Museum of African American History and Culture",
+    "name:de": "Nationalmuseum für Afrikanisch-Amerikanische Geschichte und Kultur",
+    "name:el": "Εθνικό Μουσείο Αφροαμερικανικής Ιστορίας και Πολιτισμού",
+    "name:en": "National Museum of African American History and Culture",
+    "name:es": "Museo Nacional de Historia y Cultura Afroamericana",
+    "name:fr": "Musée national de l'histoire et de la culture afro-américaines",
+    "name:pl": "Muzeum Narodowe Historii i Kultury Afroamerykańskiej",
+    "name:ro": "Muzeul național de istorie și cultură afro-americană",
+    "name:zh": "美国非洲裔国家历史和文化博物馆",
+    "opening_hours": "Mo-Su 10:00-17:30",
+    "operator": "Smithsonian Institution",
+    "phone": "+1 844-750-3012",
+    "short_name": "NMAAHC",
+    "start_date": "2016-09-24",
+    "tourism": "museum",
+    "website": "https://nmaahc.si.edu/",
+    "wikidata": "Q3073495",
+    "wikimedia_commons": "File:National_Museum_of_African_American_History_and_Culture_in_February_2020.jpg",
+    "wikipedia": "en:National Museum of African American History and Culture"
+  }
+}

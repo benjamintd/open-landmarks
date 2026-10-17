@@ -1,0 +1,337 @@
+{
+  "id": "national-air-and-space-museum",
+  "name": "National Air and Space Museum",
+  "anchor": [
+    -77.0198307,
+    38.8881333
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 37572,
+      "sha256": "99ac64083a8251278240314d370654a4bdfe976619abc37c3e27171d16859d91"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 37572,
+      "sha256": "99ac64083a8251278240314d370654a4bdfe976619abc37c3e27171d16859d91"
+    }
+  },
+  "triangles": 618,
+  "boundsBlenderM": [
+    [
+      -105.167,
+      -35.174,
+      0
+    ],
+    [
+      104.44,
+      41.786,
+      25.3
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -77.0186306,
+          38.888072
+        ],
+        [
+          -77.0186255,
+          38.8878485
+        ],
+        [
+          -77.0189212,
+          38.8878444
+        ],
+        [
+          -77.0189222,
+          38.8878885
+        ],
+        [
+          -77.0190019,
+          38.8878874
+        ],
+        [
+          -77.019001,
+          38.887844
+        ],
+        [
+          -77.019256,
+          38.8878406
+        ],
+        [
+          -77.019257,
+          38.8878859
+        ],
+        [
+          -77.0193331,
+          38.8878849
+        ],
+        [
+          -77.0193321,
+          38.8878402
+        ],
+        [
+          -77.0196269,
+          38.8878363
+        ],
+        [
+          -77.0196279,
+          38.8878805
+        ],
+        [
+          -77.019702,
+          38.8878795
+        ],
+        [
+          -77.0197011,
+          38.8878351
+        ],
+        [
+          -77.0198224,
+          38.8878336
+        ],
+        [
+          -77.0199605,
+          38.8878318
+        ],
+        [
+          -77.0199614,
+          38.8878755
+        ],
+        [
+          -77.0200348,
+          38.8878746
+        ],
+        [
+          -77.0200339,
+          38.8878309
+        ],
+        [
+          -77.0203268,
+          38.8878272
+        ],
+        [
+          -77.0203277,
+          38.8878716
+        ],
+        [
+          -77.0204046,
+          38.8878706
+        ],
+        [
+          -77.0204037,
+          38.8878262
+        ],
+        [
+          -77.020663,
+          38.887823
+        ],
+        [
+          -77.0206639,
+          38.8878665
+        ],
+        [
+          -77.0207375,
+          38.8878656
+        ],
+        [
+          -77.0207366,
+          38.8878216
+        ],
+        [
+          -77.0210309,
+          38.887818
+        ],
+        [
+          -77.0210311,
+          38.8878263
+        ],
+        [
+          -77.0210357,
+          38.8880347
+        ],
+        [
+          -77.021036,
+          38.8880479
+        ],
+        [
+          -77.020997,
+          38.8880485
+        ],
+        [
+          -77.0210003,
+          38.8881982
+        ],
+        [
+          -77.0210395,
+          38.8881977
+        ],
+        [
+          -77.0210398,
+          38.8882108
+        ],
+        [
+          -77.0210446,
+          38.8884305
+        ],
+        [
+          -77.0207494,
+          38.8884344
+        ],
+        [
+          -77.0207486,
+          38.888395
+        ],
+        [
+          -77.0203411,
+          38.8884004
+        ],
+        [
+          -77.0203421,
+          38.8884399
+        ],
+        [
+          -77.0200479,
+          38.8884443
+        ],
+        [
+          -77.0200468,
+          38.8883983
+        ],
+        [
+          -77.0198392,
+          38.8884021
+        ],
+        [
+          -77.0196372,
+          38.8884036
+        ],
+        [
+          -77.0196381,
+          38.8884498
+        ],
+        [
+          -77.0193444,
+          38.8884535
+        ],
+        [
+          -77.0193434,
+          38.8884072
+        ],
+        [
+          -77.0189313,
+          38.8884124
+        ],
+        [
+          -77.0189323,
+          38.8884597
+        ],
+        [
+          -77.0186385,
+          38.8884633
+        ],
+        [
+          -77.0186306,
+          38.888072
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "relation",
+    "id": 16159112,
+    "version": 16,
+    "timestamp": "2026-03-28T15:39:48Z",
+    "url": "https://www.openstreetmap.org/relation/16159112"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 535720705,
+      "version": 9,
+      "timestamp": "2024-01-03T21:21:19Z",
+      "url": "https://www.openstreetmap.org/way/535720705"
+    }
+  ],
+  "wikidata": "Q752669",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:National Air and Space Museum (55256212753).jpg",
+      "author": "ajay_suresh",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:National_Air_and_Space_Museum_(55256212753).jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:National Air and Space Museum viewed from across Independence Avenue, December 2025.jpg",
+      "author": "Marc Merlin",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:National_Air_and_Space_Museum_viewed_from_across_Independence_Avenue,_December_2025.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:National Air and Space Museum - 2024 Construction (53840041116).jpg",
+      "author": "ajay_suresh",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:National_Air_and_Space_Museum_-_2024_Construction_(53840041116).jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:National Air and Space Museum, Washington, DC (21 September 2023) 01.jpg",
+      "author": "DiscoA340",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:National_Air_and_Space_Museum,_Washington,_DC_(21_September_2023)_01.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/dc-air-and-space.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "National Air and Space Museum — procedural, CC0-1.0, no textures. bun generators/dc-air-and-space.ts",
+    "Map frame: x east, y north, z up, metres, in the building's own frame: bearing 359.04°, the long walls turned 0.96° anticlockwise of due east (measured on both long walls of the OSM outline). The anchor is the area centroid of the OSM outline relation/16159112 (lng -77.0198307, lat 38.8881333).",
+    "What it is: Gyo Obata's museum (HOK, 1976), as rebuilt by the 2018–2026 revitalization: a 208 m row of four tall blank blocks clad in pink Tennessee marble (re-clad in new marble panels in the renovation), each with one deep window slot under its top on the long fronts, alternating with three glazed gallery bays. On the Mall (north) side the bays are tall glass walls set back between the blocks under stepped glass roofs; on the Independence Avenue (south) side they close with lower marble blocks that float over a recessed base, cut off from the tall blocks by narrow recessed slots. The new north entrance (2025) is a white gull-winged canopy in front of the middle bay. The rhythm of marble blocks and glass bays, the slots and the canopy are the identity.",
+    "Covers and replaces: relation/16159112 (outer way/66418797, untagged) and the building:part way/535720705 (building:part=hangar, h 25.3), which is the same outline again, drawn about 3 m to the west.",
+    "Evidence",
+    "OSM (measured, in the building frame): outline x −104.6…103.9, y −33.1…34.7; tall blocks x −104.6…−79.0, −43.6…−18.2, 17.2…42.7, 78.4…103.9; the north glass walls set back to y 29.6–30.3; the south lower blocks between 6.5 m slots recessed to y −28.3; the west entrance recess x −104.6…−101.2, y −7.7…8.9; height 25.3 m.",
+    "USGS NAIP orthophoto (public domain, taken during the works): the tall blocks run the full depth; the glass roofs over the bays run from the north wall to about y −9, white roofs south of that; the canopy's central vault about 25 m wide and 12 m deep.",
+    "Photos (Wikimedia Commons): north entrance, \"National Air and Space Museum (55256212753).jpg\" (Ajay Suresh, CC BY 4.0, May 2026); south front, \"National Air and Space Museum viewed from across Independence Avenue, December 2025.jpg\" (Marc Merlin, CC BY-SA 4.0) and \"National Air and Space Museum - 2024 Construction (53840041116).jpg\" (Ajay Suresh, CC BY 2.0); from the south-west, \"2014-04-04-National-Air-and- Space-Museum-Washington-DC.jpg\" (Gunnar Klack, CC BY-SA 4.0); \"National Air and Space Museum, Washington, DC (21 September 2023) 01.jpg\" (DiscoA340, CC BY-SA 4.0).",
+    "Estimated from the photos against the 25.3 m blocks: window slots 19.3 to 22.3 m, inset 1.4 m from the block edges; north glass walls 17.3 m; the glass roof stepping up to 19.0 m at y 10; the south lower blocks 20.0 m, over a base recessed 1.5 m to 3.0 m up; the canopy's vault 15.5 m high at the middle, its wings dipping to 6.4 m and rising to 9 m at the tips, 74 m across.",
+    "Simplified: the marble's joint pattern is left out; the canopy's ribs and glazing are one white shell; its legs are two posts.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"dc-air-and-space\", model \"dc-air-and-space\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/dc-air-and-space.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 4213 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the dc-air-and-space-glazing finish in the window colour."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

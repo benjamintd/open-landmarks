@@ -1,0 +1,596 @@
+{
+  "id": "eisenhower-executive-office-building",
+  "name": "Eisenhower Executive Office Building",
+  "anchor": [
+    -77.0387053,
+    38.8975802
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 244572,
+      "sha256": "0ee0bbf09869292f60998e0afd1078672c780cdb436a5383937198213f039265"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 254328,
+      "sha256": "ff91dc410fd7d5d440284e47b70a436beea973df54dbd7ccf7d87dbe3bd08768"
+    }
+  },
+  "triangles": 4686,
+  "boundsBlenderM": [
+    [
+      -44.35,
+      -79.2,
+      0
+    ],
+    [
+      44.35,
+      76,
+      40.8
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -77.0382923,
+          38.8974921
+        ],
+        [
+          -77.0382921,
+          38.8974367
+        ],
+        [
+          -77.038248,
+          38.8974368
+        ],
+        [
+          -77.0382477,
+          38.8973533
+        ],
+        [
+          -77.0382867,
+          38.8973532
+        ],
+        [
+          -77.0382887,
+          38.8972553
+        ],
+        [
+          -77.038289,
+          38.8972434
+        ],
+        [
+          -77.0382892,
+          38.8972341
+        ],
+        [
+          -77.0382893,
+          38.8972246
+        ],
+        [
+          -77.0382888,
+          38.8972101
+        ],
+        [
+          -77.0382859,
+          38.8971259
+        ],
+        [
+          -77.038245,
+          38.8971259
+        ],
+        [
+          -77.0382449,
+          38.8970848
+        ],
+        [
+          -77.0382228,
+          38.8970848
+        ],
+        [
+          -77.0382035,
+          38.8970849
+        ],
+        [
+          -77.0382034,
+          38.8970734
+        ],
+        [
+          -77.0382033,
+          38.8970249
+        ],
+        [
+          -77.0382033,
+          38.8969779
+        ],
+        [
+          -77.0382033,
+          38.8969707
+        ],
+        [
+          -77.0382431,
+          38.8969708
+        ],
+        [
+          -77.038243,
+          38.8969301
+        ],
+        [
+          -77.0383802,
+          38.8969299
+        ],
+        [
+          -77.0383802,
+          38.896941
+        ],
+        [
+          -77.0385503,
+          38.896941
+        ],
+        [
+          -77.0385503,
+          38.8969305
+        ],
+        [
+          -77.0385682,
+          38.8969305
+        ],
+        [
+          -77.0385892,
+          38.8969305
+        ],
+        [
+          -77.0385893,
+          38.8968713
+        ],
+        [
+          -77.0386292,
+          38.8968713
+        ],
+        [
+          -77.0386292,
+          38.8968634
+        ],
+        [
+          -77.0387071,
+          38.8968636
+        ],
+        [
+          -77.038772,
+          38.8968637
+        ],
+        [
+          -77.038772,
+          38.8968703
+        ],
+        [
+          -77.0388133,
+          38.8968704
+        ],
+        [
+          -77.038813,
+          38.8969295
+        ],
+        [
+          -77.0388396,
+          38.8969296
+        ],
+        [
+          -77.0388593,
+          38.8969296
+        ],
+        [
+          -77.0388593,
+          38.8969367
+        ],
+        [
+          -77.0390197,
+          38.8969372
+        ],
+        [
+          -77.0390197,
+          38.896927
+        ],
+        [
+          -77.0391652,
+          38.8969274
+        ],
+        [
+          -77.039165,
+          38.8969652
+        ],
+        [
+          -77.0392102,
+          38.8969653
+        ],
+        [
+          -77.0392101,
+          38.8969778
+        ],
+        [
+          -77.0392099,
+          38.8970256
+        ],
+        [
+          -77.0392097,
+          38.8970764
+        ],
+        [
+          -77.0392097,
+          38.8970862
+        ],
+        [
+          -77.0392054,
+          38.8970863
+        ],
+        [
+          -77.0391575,
+          38.897086
+        ],
+        [
+          -77.0391573,
+          38.897127
+        ],
+        [
+          -77.0391367,
+          38.8971269
+        ],
+        [
+          -77.0391363,
+          38.8972335
+        ],
+        [
+          -77.0391361,
+          38.8972953
+        ],
+        [
+          -77.039136,
+          38.8973478
+        ],
+        [
+          -77.0391608,
+          38.8973478
+        ],
+        [
+          -77.0391606,
+          38.8974259
+        ],
+        [
+          -77.039092,
+          38.8974258
+        ],
+        [
+          -77.0390919,
+          38.897496
+        ],
+        [
+          -77.0391515,
+          38.8974961
+        ],
+        [
+          -77.0391515,
+          38.8975255
+        ],
+        [
+          -77.0391514,
+          38.8975857
+        ],
+        [
+          -77.0391513,
+          38.897637
+        ],
+        [
+          -77.0391513,
+          38.8976707
+        ],
+        [
+          -77.0390913,
+          38.8976707
+        ],
+        [
+          -77.0390912,
+          38.8977394
+        ],
+        [
+          -77.0391511,
+          38.8977394
+        ],
+        [
+          -77.0391511,
+          38.8978055
+        ],
+        [
+          -77.0391187,
+          38.8978055
+        ],
+        [
+          -77.0391186,
+          38.8979245
+        ],
+        [
+          -77.0391188,
+          38.8980164
+        ],
+        [
+          -77.0391828,
+          38.8980163
+        ],
+        [
+          -77.039183,
+          38.8980753
+        ],
+        [
+          -77.0392141,
+          38.8980753
+        ],
+        [
+          -77.0392142,
+          38.8981378
+        ],
+        [
+          -77.0392143,
+          38.898188
+        ],
+        [
+          -77.0391818,
+          38.898188
+        ],
+        [
+          -77.039182,
+          38.8982445
+        ],
+        [
+          -77.0388451,
+          38.8982451
+        ],
+        [
+          -77.0388169,
+          38.8982452
+        ],
+        [
+          -77.0388169,
+          38.8982672
+        ],
+        [
+          -77.0387797,
+          38.8982672
+        ],
+        [
+          -77.0387037,
+          38.8982673
+        ],
+        [
+          -77.0386313,
+          38.8982674
+        ],
+        [
+          -77.0385851,
+          38.8982674
+        ],
+        [
+          -77.038585,
+          38.8982411
+        ],
+        [
+          -77.0385646,
+          38.8982409
+        ],
+        [
+          -77.0382501,
+          38.8982411
+        ],
+        [
+          -77.0382495,
+          38.8981841
+        ],
+        [
+          -77.0382069,
+          38.8981835
+        ],
+        [
+          -77.0382071,
+          38.8981358
+        ],
+        [
+          -77.0382074,
+          38.8980863
+        ],
+        [
+          -77.038251,
+          38.8980863
+        ],
+        [
+          -77.0382509,
+          38.8980426
+        ],
+        [
+          -77.0382988,
+          38.8980425
+        ],
+        [
+          -77.0382985,
+          38.8979437
+        ],
+        [
+          -77.0382985,
+          38.8979245
+        ],
+        [
+          -77.0382982,
+          38.8978956
+        ],
+        [
+          -77.0382975,
+          38.8978088
+        ],
+        [
+          -77.038256,
+          38.897809
+        ],
+        [
+          -77.0382555,
+          38.8977339
+        ],
+        [
+          -77.0382919,
+          38.8977338
+        ],
+        [
+          -77.0382918,
+          38.8977081
+        ],
+        [
+          -77.0382916,
+          38.8976732
+        ],
+        [
+          -77.0382492,
+          38.8976733
+        ],
+        [
+          -77.0382492,
+          38.8976709
+        ],
+        [
+          -77.038229,
+          38.8976701
+        ],
+        [
+          -77.0382152,
+          38.8976702
+        ],
+        [
+          -77.0382134,
+          38.8976309
+        ],
+        [
+          -77.0382128,
+          38.8976123
+        ],
+        [
+          -77.0382128,
+          38.8975781
+        ],
+        [
+          -77.0382128,
+          38.8975392
+        ],
+        [
+          -77.0382134,
+          38.8975249
+        ],
+        [
+          -77.0382132,
+          38.8975011
+        ],
+        [
+          -77.0382345,
+          38.897501
+        ],
+        [
+          -77.0382479,
+          38.897501
+        ],
+        [
+          -77.0382479,
+          38.8974923
+        ],
+        [
+          -77.0382923,
+          38.8974921
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "relation",
+    "id": 4043910,
+    "version": 19,
+    "timestamp": "2026-06-02T20:21:43Z",
+    "url": "https://www.openstreetmap.org/relation/4043910"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q1312965",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Eisenhower Executive Office Building from above Washington DC 2026-06-08 13-35-32.jpg",
+      "author": "G. Edward Johnson",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Eisenhower_Executive_Office_Building_from_above_Washington_DC_2026-06-08_13-35-32.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Eisenhower Executive Office Building viewed from 17th Street.jpg",
+      "author": "APK",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Eisenhower_Executive_Office_Building_viewed_from_17th_Street.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Eisenhower Executive Office Building exterior from the southeast.jpg",
+      "author": "Sdkb",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Eisenhower_Executive_Office_Building_exterior_from_the_southeast.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Eisenhower Executive Office Building 2021.jpg",
+      "author": "Abovfold",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Eisenhower_Executive_Office_Building_2021.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/dc-eisenhower-eob.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Eisenhower Executive Office Building — procedural, CC0-1.0, no textures. bun generators/dc-eisenhower-eob.ts",
+    "Map frame: x east, y north, z up, metres; bearing 0°, the outline's walls running due north–south and east–west. The anchor is the centroid of the OSM outline relation/4043910 (lng -77.038705, lat 38.897580). The plan is drawn symmetrical about x = 0 and y = OY (0.5 m), the outline's own centre line, except for the porches that OSM shows as different on each front.",
+    "What it is: Mullett's French Second Empire block (1871–88) round two courtyards, a \"figure of eight\" of wings 21 m deep: grey granite in a rusticated basement and four storeys, each with its own entablature and engaged columns, under steep dark slate mansards. Taller mansards crown the four corner pavilions and the pavilion in the middle of each front; the inner corners carry the stair halls' roofs with their round skylights; granite chimney stacks stand at the pavilions' shoulders. The mansards, their dormers and the stacked storeys are the identity, so they are drawn big; the cresting and carving are left out.",
+    "Covers and replaces: the outline relation only. Its three courtyard buildings (way/1444818995, 1444818996, 1444818997, untagged infill) are separate buildings sitting in the courtyards, which the model leaves open, so they are not replaced. The paint proposal: in 2025–26 the administration proposed painting the granite white; NCPC asked for tests (May 2026) and a judge declined to stop test painting (August 2026), but the June 2026 aerial photo below shows the building still grey. It is modelled as it stands, in grey granite.",
+    "Evidence",
+    "OSM (measured): relation/4043910, 87.6 × 155.3 m with two courtyards (30.3 × 41.2 m and 30.3 × 41.7 m), so wings 21 m deep and a 20 m centre wing. The pavilions' projections are read off the outline: corner pavilions out to x = ±43.6 on the long fronts, centre pavilions of the long fronts 2.7 m (west) and 6.6 m (east) out, intermediate pavilions 3.5 m out, the north and south centre pavilions 2.7 m and 6.5 m out. building:levels 6, roof:shape many.",
+    "Published: NCPC staff report, May 2026 (8777, EEOB Exterior Beautification Project): \"approximately 520 feet long by 285 feet wide\", \"top rooftop elevation of 134 feet\" (40.8 m), six storeys, grey granite walls, slate mansard roofs, cast-iron chimneys. Wikipedia: built 1871–88, Alfred B. Mullett.",
+    "Photos (Wikimedia Commons): \"Eisenhower Executive Office Building from above Washington DC 2026-06-08 13-35-32.jpg\" (G. Edward Johnson, CC BY 4.0), from the south-east and above; \"Eisenhower Executive Office Building viewed from 17th Street.jpg\" (APK, CC BY 4.0, March 2026), the west front; \"Eisenhower Executive Office Building exterior from the southeast.jpg\" (Sdkb, CC BY-SA 4.0); \"Eisenhower Executive Office Building 2021.jpg\" (Abovfold, CC BY-SA 4.0).",
+    "USGS NAIP orthophoto (public domain): the roof plan — slate slopes on every outer and courtyard face, grey-green flat decks between, the stair-hall roofs with round skylights at the courtyards' outer corners (13 m square), the chimney tops at the pavilions.",
+    "Estimated from the photos against the published 40.8 m: rusticated basement to 4.8 m, four 5.4 m storeys to the main cornice at 27.6 m; wing mansards to 33.8 m, pavilion mansards to 36.6 m, stair-hall roofs to 37.5 m, chimneys to 40.8 m. Bay pitch about 3.7 m.",
+    "Colour: the storey entablatures, main cornice and pavilion columns use a lighter granite tone than the wall, as their sunlit faces read in the photos, so the stacked storeys show at map scale.",
+    "Simplified: paired columns are pilaster strips on the pavilions; the porches are one storey of free columns on a podium, on the north, south and east centre pavilions only (the upper porch storeys and the south front's grand stair are left out); the courtyard walls are plain; the west front's recesses beside its centre pavilion are filled in; dormers stand on the outer faces only, one to every other bay; the roof cresting is left out.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"dc-eisenhower-eob\", model \"dc-eisenhower-eob\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/dc-eisenhower-eob.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 58 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the dc-eisenhower-eob-glazing finish in the window colour.",
+    "To fit six materials, folded dc-eisenhower-eob-glazing into dc-eisenhower-eob-eeob-slate (ΔE 7.7)."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

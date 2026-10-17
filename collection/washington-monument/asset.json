@@ -1,0 +1,142 @@
+{
+  "id": "washington-monument",
+  "name": "Washington Monument",
+  "anchor": [
+    -77.0352425,
+    38.8894753
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 13,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 6656,
+      "sha256": "97f7ae872138308509725f287e02ebbaeca04dbd0ce1b26d51f290f24844fa7c"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 6656,
+      "sha256": "97f7ae872138308509725f287e02ebbaeca04dbd0ce1b26d51f290f24844fa7c"
+    }
+  },
+  "triangles": 58,
+  "boundsBlenderM": [
+    [
+      -8.4,
+      -8.4,
+      0
+    ],
+    [
+      8.43,
+      8.4,
+      169.29
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -77.0351445,
+          38.8895166
+        ],
+        [
+          -77.0351441,
+          38.8894341
+        ],
+        [
+          -77.0351439,
+          38.8893984
+        ],
+        [
+          -77.0353406,
+          38.8893989
+        ],
+        [
+          -77.0353412,
+          38.8895517
+        ],
+        [
+          -77.0351447,
+          38.8895521
+        ],
+        [
+          -77.0351445,
+          38.8895166
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 766761337,
+    "version": 28,
+    "timestamp": "2026-03-28T18:36:36Z",
+    "url": "https://www.openstreetmap.org/way/766761337"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q178114",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Washington Monument - 01.jpg",
+      "author": "Carlos Delgado",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Washington_Monument_-_01.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Washington Monument in 2017, NW side.jpg",
+      "author": "Iswzo",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Washington_Monument_in_2017,_NW_side.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Washington Monument 2022.jpg",
+      "author": "Greyfiveys",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Washington_Monument_2022.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/dc-washington-monument.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Washington Monument — procedural, CC0-1.0, no textures. bun generators/dc-washington-monument.ts",
+    "Map frame: x east, y north, z up, metres; origin at the centroid of the OSM outline (way/766761337), which is a 17 m square aligned to the compass, so the model is placed at bearing 0. The entrance is on the east face.",
+    "Evidence:",
+    "OSM way/766761337: square outline 17.0 × 17.0 m, height 169.294, roof:shape pyramidal, roof:height 16.76.",
+    "Published (NPS; Wikipedia \"Washington Monument\"): 555 ft 5 1/8 in (169.29 m) tall; the shaft is 500 ft (152.4 m) to the base of the pyramidion, 55 ft 1 1/2 in (16.80 m) square at the ground and 34 ft 5 1/2 in (10.50 m) at the top; the pyramidion is 55 ft (16.76 m) tall. Construction stopped in 1854 at about 152 ft (46 m); when it resumed in 1879 the marble came from a different quarry, and the change of shade at that course is still visible. Eight observation windows, two per face, sit at the 500 ft level just above the shaft.",
+    "Photos (Wikimedia Commons): \"Washington Monument - 01.jpg\" (Carlos Delgado, CC BY-SA 3.0, from the north-west, overcast); \"Washington Monument in 2017, NW side.jpg\" (Iswzo, CC BY-SA 4.0, sunlit); \"Washington Monument 2022.jpg\" (Greyfiveys, CC BY-SA 4.0); \"Aerial view of Washington Monument looking north\" LCCN2011634191 (Carol M. Highsmith, public domain). In them the lower third reads a touch whiter and cooler, the upper shaft a touch warmer and creamier.",
+    "Estimated: the window and door sizes (read off the photos against the known face width), and the colour of each marble band. The step between the two bands is drawn a little stronger than the photos show, so the line still reads at phone size (200 and 80 px), where the monument stands at minzoom 13–14. Not modelled: the ring of 50 flags, the earth mound and plaza (ground), and the east screening building (way/897141356), which is a separate building outside the outline.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"dc-washington-monument\", model \"dc-washington-monument\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/dc-washington-monument.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 11 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the dc-washington-monument-glazing finish in the window colour."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

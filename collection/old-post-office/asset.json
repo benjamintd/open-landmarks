@@ -1,0 +1,436 @@
+{
+  "id": "old-post-office",
+  "name": "Old Post Office",
+  "anchor": [
+    -77.0275777,
+    38.8940953
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 163692,
+      "sha256": "b93531a626c560485838106c05951539994ba5031a744ab3318e9813903229b5"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 163692,
+      "sha256": "b93531a626c560485838106c05951539994ba5031a744ab3318e9813903229b5"
+    }
+  },
+  "triangles": 3994,
+  "boundsBlenderM": [
+    [
+      -33.35,
+      -50.55,
+      0
+    ],
+    [
+      32.75,
+      51.35,
+      96
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -77.0272207,
+          38.8945132
+        ],
+        [
+          -77.0272202,
+          38.8942286
+        ],
+        [
+          -77.0272155,
+          38.8942157
+        ],
+        [
+          -77.027217,
+          38.8942081
+        ],
+        [
+          -77.0272254,
+          38.8941988
+        ],
+        [
+          -77.0272382,
+          38.8941941
+        ],
+        [
+          -77.0272367,
+          38.8940427
+        ],
+        [
+          -77.0272241,
+          38.8940391
+        ],
+        [
+          -77.0272157,
+          38.8940272
+        ],
+        [
+          -77.027222,
+          38.8940134
+        ],
+        [
+          -77.027222,
+          38.8938643
+        ],
+        [
+          -77.0272221,
+          38.8938207
+        ],
+        [
+          -77.0272219,
+          38.8937183
+        ],
+        [
+          -77.0272154,
+          38.8937054
+        ],
+        [
+          -77.0272198,
+          38.8936955
+        ],
+        [
+          -77.0272351,
+          38.8936886
+        ],
+        [
+          -77.0272513,
+          38.893692
+        ],
+        [
+          -77.0273957,
+          38.8936884
+        ],
+        [
+          -77.0274057,
+          38.8936889
+        ],
+        [
+          -77.0274056,
+          38.8936432
+        ],
+        [
+          -77.0277536,
+          38.8936436
+        ],
+        [
+          -77.0277536,
+          38.8936553
+        ],
+        [
+          -77.0277537,
+          38.8936879
+        ],
+        [
+          -77.0277677,
+          38.8936885
+        ],
+        [
+          -77.0277787,
+          38.8936942
+        ],
+        [
+          -77.0279029,
+          38.8936931
+        ],
+        [
+          -77.0279142,
+          38.893687
+        ],
+        [
+          -77.0279234,
+          38.8936861
+        ],
+        [
+          -77.0279396,
+          38.8936926
+        ],
+        [
+          -77.0279449,
+          38.8937025
+        ],
+        [
+          -77.0279384,
+          38.8937171
+        ],
+        [
+          -77.0279415,
+          38.8940133
+        ],
+        [
+          -77.027946,
+          38.8940266
+        ],
+        [
+          -77.0279403,
+          38.8940361
+        ],
+        [
+          -77.0279289,
+          38.8940413
+        ],
+        [
+          -77.0279156,
+          38.8940405
+        ],
+        [
+          -77.0279072,
+          38.8940356
+        ],
+        [
+          -77.027889,
+          38.8940355
+        ],
+        [
+          -77.0278866,
+          38.8941986
+        ],
+        [
+          -77.0279077,
+          38.8941984
+        ],
+        [
+          -77.0279191,
+          38.894193
+        ],
+        [
+          -77.0279281,
+          38.8941927
+        ],
+        [
+          -77.02794,
+          38.8941974
+        ],
+        [
+          -77.0279463,
+          38.8942066
+        ],
+        [
+          -77.0279424,
+          38.8942199
+        ],
+        [
+          -77.0279424,
+          38.8945191
+        ],
+        [
+          -77.0279471,
+          38.8945288
+        ],
+        [
+          -77.0279412,
+          38.8945417
+        ],
+        [
+          -77.027925,
+          38.894547
+        ],
+        [
+          -77.0279098,
+          38.8945421
+        ],
+        [
+          -77.0277824,
+          38.8945405
+        ],
+        [
+          -77.0277725,
+          38.8945474
+        ],
+        [
+          -77.0277639,
+          38.894549
+        ],
+        [
+          -77.0277477,
+          38.8945437
+        ],
+        [
+          -77.0277421,
+          38.8945351
+        ],
+        [
+          -77.0277411,
+          38.894497
+        ],
+        [
+          -77.0276428,
+          38.8944955
+        ],
+        [
+          -77.0275187,
+          38.8944963
+        ],
+        [
+          -77.0274209,
+          38.8944956
+        ],
+        [
+          -77.027423,
+          38.8945353
+        ],
+        [
+          -77.0274151,
+          38.8945443
+        ],
+        [
+          -77.0274061,
+          38.8945473
+        ],
+        [
+          -77.0273942,
+          38.8945462
+        ],
+        [
+          -77.0273873,
+          38.8945423
+        ],
+        [
+          -77.0272608,
+          38.8945426
+        ],
+        [
+          -77.0272537,
+          38.8945473
+        ],
+        [
+          -77.0272401,
+          38.8945496
+        ],
+        [
+          -77.0272269,
+          38.8945459
+        ],
+        [
+          -77.0272187,
+          38.8945372
+        ],
+        [
+          -77.0272207,
+          38.8945132
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 66418840,
+    "version": 23,
+    "timestamp": "2026-09-16T00:25:30Z",
+    "url": "https://www.openstreetmap.org/way/66418840"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 452899001,
+      "version": 7,
+      "timestamp": "2021-07-24T23:03:01Z",
+      "url": "https://www.openstreetmap.org/way/452899001"
+    },
+    {
+      "type": "way",
+      "id": 452899002,
+      "version": 7,
+      "timestamp": "2023-12-02T11:17:07Z",
+      "url": "https://www.openstreetmap.org/way/452899002"
+    }
+  ],
+  "wikidata": "Q1141542",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Old Post Office Building, Washington, D.C.jpg",
+      "author": "Photograph by Mike Peel (www.mikepeel.net).",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Old_Post_Office_Building,_Washington,_D.C.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Old Post Office Building Washington DC.JPG",
+      "author": "User:AgnosticPreachersKid",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Old_Post_Office_Building_Washington_DC.JPG",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Old Post Office Pavilion, Washington, D.C., USA.jpg",
+      "author": "Diego Delso",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Old_Post_Office_Pavilion,_Washington,_D.C.,_USA.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Old Post Office Pavilion, 1911.jpg",
+      "author": "Harris & Ewing",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Old_Post_Office_Pavilion,_1911.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Old_Post_Office_Pavilion,_1911.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Federal Triangle - facing east.jpg",
+      "author": "Carol M. Highsmith",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Federal_Triangle_-_facing_east.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Federal_Triangle_-_facing_east.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Aerial view of Federal Triangle - facing west.jpg",
+      "author": "Carol M. Highsmith",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Federal_Triangle_-_facing_west.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Federal_Triangle_-_facing_west.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/dc-old-post-office.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Old Post Office (now the Waldorf Astoria Washington DC) — procedural, CC0-1.0, no textures. bun generators/dc-old-post-office.ts",
+    "Also a small kit for this batch's Penn Quarter models (dc-hoover-building, dc-national-building-museum, dc-house-of-the-temple): the edge-based helpers below are exported and the model is only built when this file is run directly. They sit on the polygon kit in dc-nmaahc.ts.",
+    "Map frame: x east, y north, z up, metres; bearing 0°, the outline's walls running due north–south and east–west. The anchor is the area centroid of the OSM outline way/66418840 (lng -77.0275777, lat 38.8940953).",
+    "What it is: Willoughby J. Edbrooke's Richardsonian Romanesque post office (1892–99) in pale grey granite, a block of about nine storeys round a glass-roofed atrium, under steep slate roofs, with its 315 ft clock tower on the Pennsylvania Avenue (north) front. The identifying features, in order: the tower (a plain square shaft, clock faces on all four sides, an arcaded belfry, a corbelled parapet with four round corner turrets, and a steep slate pyramid); the north front's two corner pavilions with tall pyramid roofs and big stone gable dormers; round turrets with conical caps on every corner and either side of each recessed centre; the rock-faced granite base with its three entrance arches under the tower; the dormered slate mansard; and the long glazed atrium roof.",
+    "Covers and replaces: way/66418840 (the outline, building=hotel), way/452899001 (building:part, the atrium, height 60, hipped) and way/452899002 (building:part, the tower, height 96, pyramidal). The building=roof way/1238674768 is 63 m to the west, a canopy, and is left.",
+    "Evidence",
+    "OSM (measured): the outline, 62.9 × 100.2 m: north front recessed to y 44.3 between pavilions reaching y 49.6; the 12th Street (west) front recessed 4.5 m for y -6.5…11.3; the 11th Street (east) front 1.4 m for y -5.8…11.2; a south projection 30 m wide and 5.3 m deep; round bumps for the turrets. The tower part x -5.6…5.4, y 32.3…44.3 (11 × 12 m), its north face in the north front. The atrium part x -14.4…16.7, y -24.5…32.4.",
+    "Published: tower 315 ft (96 m), observation deck 270 ft (82 m), atrium 196 ft (Wikipedia \"Old Post Office (Washington, D.C.)\"); OSM tags the atrium part at 60 m.",
+    "Photos (Wikimedia Commons), heights read off the HABS view with corrected verticals, scaled by the tower's 96 m: \"PENNSYLVANIA AVENUE AND TWELFTH STREET ELEVATIONS - U.S. Post Office Department … HABS DC,WASH,533A-2\" (HABS, public domain, from the north-west): main cornice about 39 m, pavilion cornice 41 m, pavilion roof apex about 53 m, tower shaft to 72 m, belfry 72–80 m, parapet to 83.5 m, turret tips 89 m, clock centre 65 m and about 4.6 m across. \"Old Post Office Building, Washington, D.C.jpg\" (Mike Peel, CC BY-SA 4.0, the north front head on); \"Old Post Office Building Washington DC.JPG\" (AgnosticPreachersKid, CC BY-SA 3.0, from the north-east); \"Old Post Office Pavilion, Washington, D.C., USA.jpg\" (Diego Delso, CC BY-SA 3.0, the 11th Street front); \"Old Post Office Pavilion, 1911.jpg\" (Harris & Ewing, public domain); aerial \"Federal Triangle - facing east.jpg\" (Carol M. Highsmith, public domain): the 12th Street front, the mansard and its dormers, the glass atrium roof with slate hip ends, the recessed centre; aerial \"Aerial view of Federal Triangle - facing west.jpg\" (Highsmith, public domain): the 11th Street side.",
+    "Estimated: storey bands and window groups (one broad panel per bay and storey group, not per window); mansard 39 → 47.5 m with a flat deck; the atrium's glass hip to 55.5 m (OSM tags 60; drawn lower because no licensed view shows it that high and a taller one dominated the street views); pavilion depth (17.6 m) from the aerial; turrets 1.6 m in radius, bodies to 44 m, cones to 49.5 m. The south front, which no licensed photo shows, is drawn like the others, without pavilions. The East Atrium addition (1983) lies outside the outline and is not drawn.",
+    "Simplified: corbel tables are one projecting band; the arches round the clock faces, the finials, flagpoles and the tower's slit windows are left out. Colours: the granite is a light warm grey, pulled to the palette's lightness; the rock-faced base a shade darker; the slate a mid blue-grey.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"dc-old-post-office\", model \"dc-old-post-office\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/dc-old-post-office.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

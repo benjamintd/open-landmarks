@@ -1,0 +1,523 @@
+{
+  "id": "lincoln-memorial",
+  "name": "Lincoln Memorial",
+  "anchor": [
+    -77.0501719,
+    38.8892721
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 118496,
+      "sha256": "3b30de55665cdccdfb42cfe29345563020f907c7fd638ec224a8049ee6b02b1d"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 118496,
+      "sha256": "3b30de55665cdccdfb42cfe29345563020f907c7fd638ec224a8049ee6b02b1d"
+    }
+  },
+  "triangles": 2952,
+  "boundsBlenderM": [
+    [
+      -28.3,
+      -39.2,
+      0
+    ],
+    [
+      36.15,
+      39.2,
+      30
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -77.049957,
+          38.8895315
+        ],
+        [
+          -77.0499568,
+          38.8894029
+        ],
+        [
+          -77.0499573,
+          38.8893349
+        ],
+        [
+          -77.0499587,
+          38.8892762
+        ],
+        [
+          -77.0499572,
+          38.8891514
+        ],
+        [
+          -77.0499573,
+          38.8890125
+        ],
+        [
+          -77.0503866,
+          38.8890127
+        ],
+        [
+          -77.0503862,
+          38.8895317
+        ],
+        [
+          -77.049957,
+          38.8895315
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 398769543,
+    "version": 27,
+    "timestamp": "2026-03-30T23:40:23Z",
+    "url": "https://www.openstreetmap.org/way/398769543"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 443679930,
+      "version": 2,
+      "timestamp": "2021-02-06T00:15:58Z",
+      "url": "https://www.openstreetmap.org/way/443679930"
+    },
+    {
+      "type": "way",
+      "id": 443679931,
+      "version": 1,
+      "timestamp": "2016-09-21T22:46:09Z",
+      "url": "https://www.openstreetmap.org/way/443679931"
+    },
+    {
+      "type": "way",
+      "id": 443679932,
+      "version": 1,
+      "timestamp": "2016-09-21T22:46:09Z",
+      "url": "https://www.openstreetmap.org/way/443679932"
+    },
+    {
+      "type": "way",
+      "id": 443679933,
+      "version": 1,
+      "timestamp": "2016-09-21T22:46:09Z",
+      "url": "https://www.openstreetmap.org/way/443679933"
+    },
+    {
+      "type": "way",
+      "id": 443679934,
+      "version": 6,
+      "timestamp": "2026-04-07T23:26:32Z",
+      "url": "https://www.openstreetmap.org/way/443679934"
+    },
+    {
+      "type": "way",
+      "id": 443679935,
+      "version": 1,
+      "timestamp": "2016-09-21T22:46:09Z",
+      "url": "https://www.openstreetmap.org/way/443679935"
+    },
+    {
+      "type": "way",
+      "id": 443679936,
+      "version": 1,
+      "timestamp": "2016-09-21T22:46:09Z",
+      "url": "https://www.openstreetmap.org/way/443679936"
+    },
+    {
+      "type": "way",
+      "id": 443679937,
+      "version": 1,
+      "timestamp": "2016-09-21T22:46:09Z",
+      "url": "https://www.openstreetmap.org/way/443679937"
+    },
+    {
+      "type": "way",
+      "id": 443679938,
+      "version": 4,
+      "timestamp": "2021-02-06T00:15:58Z",
+      "url": "https://www.openstreetmap.org/way/443679938"
+    },
+    {
+      "type": "way",
+      "id": 443679939,
+      "version": 1,
+      "timestamp": "2016-09-21T22:46:09Z",
+      "url": "https://www.openstreetmap.org/way/443679939"
+    },
+    {
+      "type": "way",
+      "id": 443679941,
+      "version": 1,
+      "timestamp": "2016-09-21T22:46:09Z",
+      "url": "https://www.openstreetmap.org/way/443679941"
+    },
+    {
+      "type": "way",
+      "id": 443679943,
+      "version": 3,
+      "timestamp": "2024-11-08T21:27:37Z",
+      "url": "https://www.openstreetmap.org/way/443679943"
+    },
+    {
+      "type": "way",
+      "id": 443679944,
+      "version": 5,
+      "timestamp": "2024-11-08T21:27:37Z",
+      "url": "https://www.openstreetmap.org/way/443679944"
+    },
+    {
+      "type": "way",
+      "id": 443679945,
+      "version": 1,
+      "timestamp": "2016-09-21T22:46:09Z",
+      "url": "https://www.openstreetmap.org/way/443679945"
+    },
+    {
+      "type": "way",
+      "id": 443679946,
+      "version": 1,
+      "timestamp": "2016-09-21T22:46:10Z",
+      "url": "https://www.openstreetmap.org/way/443679946"
+    },
+    {
+      "type": "way",
+      "id": 443679947,
+      "version": 1,
+      "timestamp": "2016-09-21T22:46:10Z",
+      "url": "https://www.openstreetmap.org/way/443679947"
+    },
+    {
+      "type": "way",
+      "id": 443679948,
+      "version": 1,
+      "timestamp": "2016-09-21T22:46:10Z",
+      "url": "https://www.openstreetmap.org/way/443679948"
+    },
+    {
+      "type": "way",
+      "id": 443679949,
+      "version": 1,
+      "timestamp": "2016-09-21T22:46:10Z",
+      "url": "https://www.openstreetmap.org/way/443679949"
+    },
+    {
+      "type": "way",
+      "id": 443679950,
+      "version": 1,
+      "timestamp": "2016-09-21T22:46:10Z",
+      "url": "https://www.openstreetmap.org/way/443679950"
+    },
+    {
+      "type": "way",
+      "id": 443679951,
+      "version": 1,
+      "timestamp": "2016-09-21T22:46:10Z",
+      "url": "https://www.openstreetmap.org/way/443679951"
+    },
+    {
+      "type": "way",
+      "id": 443679952,
+      "version": 1,
+      "timestamp": "2016-09-21T22:46:10Z",
+      "url": "https://www.openstreetmap.org/way/443679952"
+    },
+    {
+      "type": "way",
+      "id": 443679953,
+      "version": 1,
+      "timestamp": "2016-09-21T22:46:10Z",
+      "url": "https://www.openstreetmap.org/way/443679953"
+    },
+    {
+      "type": "way",
+      "id": 443679954,
+      "version": 1,
+      "timestamp": "2016-09-21T22:46:10Z",
+      "url": "https://www.openstreetmap.org/way/443679954"
+    },
+    {
+      "type": "way",
+      "id": 443679955,
+      "version": 1,
+      "timestamp": "2016-09-21T22:46:10Z",
+      "url": "https://www.openstreetmap.org/way/443679955"
+    },
+    {
+      "type": "way",
+      "id": 443679956,
+      "version": 1,
+      "timestamp": "2016-09-21T22:46:11Z",
+      "url": "https://www.openstreetmap.org/way/443679956"
+    },
+    {
+      "type": "way",
+      "id": 443679957,
+      "version": 1,
+      "timestamp": "2016-09-21T22:46:11Z",
+      "url": "https://www.openstreetmap.org/way/443679957"
+    },
+    {
+      "type": "way",
+      "id": 443679958,
+      "version": 1,
+      "timestamp": "2016-09-21T22:46:11Z",
+      "url": "https://www.openstreetmap.org/way/443679958"
+    },
+    {
+      "type": "way",
+      "id": 443679959,
+      "version": 1,
+      "timestamp": "2016-09-21T22:46:11Z",
+      "url": "https://www.openstreetmap.org/way/443679959"
+    },
+    {
+      "type": "way",
+      "id": 443679960,
+      "version": 1,
+      "timestamp": "2016-09-21T22:46:11Z",
+      "url": "https://www.openstreetmap.org/way/443679960"
+    },
+    {
+      "type": "way",
+      "id": 443679961,
+      "version": 1,
+      "timestamp": "2016-09-21T22:46:11Z",
+      "url": "https://www.openstreetmap.org/way/443679961"
+    },
+    {
+      "type": "way",
+      "id": 443679962,
+      "version": 1,
+      "timestamp": "2016-09-21T22:46:11Z",
+      "url": "https://www.openstreetmap.org/way/443679962"
+    },
+    {
+      "type": "way",
+      "id": 443679963,
+      "version": 1,
+      "timestamp": "2016-09-21T22:46:11Z",
+      "url": "https://www.openstreetmap.org/way/443679963"
+    },
+    {
+      "type": "way",
+      "id": 443679964,
+      "version": 1,
+      "timestamp": "2016-09-21T22:46:11Z",
+      "url": "https://www.openstreetmap.org/way/443679964"
+    },
+    {
+      "type": "way",
+      "id": 443679965,
+      "version": 4,
+      "timestamp": "2024-11-08T21:27:37Z",
+      "url": "https://www.openstreetmap.org/way/443679965"
+    },
+    {
+      "type": "way",
+      "id": 443679966,
+      "version": 1,
+      "timestamp": "2016-09-21T22:46:11Z",
+      "url": "https://www.openstreetmap.org/way/443679966"
+    },
+    {
+      "type": "way",
+      "id": 443679967,
+      "version": 1,
+      "timestamp": "2016-09-21T22:46:12Z",
+      "url": "https://www.openstreetmap.org/way/443679967"
+    },
+    {
+      "type": "way",
+      "id": 443679968,
+      "version": 1,
+      "timestamp": "2016-09-21T22:46:12Z",
+      "url": "https://www.openstreetmap.org/way/443679968"
+    },
+    {
+      "type": "way",
+      "id": 443679969,
+      "version": 1,
+      "timestamp": "2016-09-21T22:46:12Z",
+      "url": "https://www.openstreetmap.org/way/443679969"
+    },
+    {
+      "type": "way",
+      "id": 443679970,
+      "version": 1,
+      "timestamp": "2016-09-21T22:46:12Z",
+      "url": "https://www.openstreetmap.org/way/443679970"
+    },
+    {
+      "type": "way",
+      "id": 443679971,
+      "version": 1,
+      "timestamp": "2016-09-21T22:46:12Z",
+      "url": "https://www.openstreetmap.org/way/443679971"
+    },
+    {
+      "type": "way",
+      "id": 443679972,
+      "version": 1,
+      "timestamp": "2016-09-21T22:46:12Z",
+      "url": "https://www.openstreetmap.org/way/443679972"
+    },
+    {
+      "type": "way",
+      "id": 443679973,
+      "version": 1,
+      "timestamp": "2016-09-21T22:46:12Z",
+      "url": "https://www.openstreetmap.org/way/443679973"
+    },
+    {
+      "type": "way",
+      "id": 443679974,
+      "version": 1,
+      "timestamp": "2016-09-21T22:46:12Z",
+      "url": "https://www.openstreetmap.org/way/443679974"
+    },
+    {
+      "type": "way",
+      "id": 443679975,
+      "version": 1,
+      "timestamp": "2016-09-21T22:46:12Z",
+      "url": "https://www.openstreetmap.org/way/443679975"
+    },
+    {
+      "type": "way",
+      "id": 443679976,
+      "version": 1,
+      "timestamp": "2016-09-21T22:46:12Z",
+      "url": "https://www.openstreetmap.org/way/443679976"
+    },
+    {
+      "type": "way",
+      "id": 443679977,
+      "version": 1,
+      "timestamp": "2016-09-21T22:46:12Z",
+      "url": "https://www.openstreetmap.org/way/443679977"
+    },
+    {
+      "type": "way",
+      "id": 443679978,
+      "version": 1,
+      "timestamp": "2016-09-21T22:46:13Z",
+      "url": "https://www.openstreetmap.org/way/443679978"
+    },
+    {
+      "type": "way",
+      "id": 443679979,
+      "version": 1,
+      "timestamp": "2016-09-21T22:46:13Z",
+      "url": "https://www.openstreetmap.org/way/443679979"
+    },
+    {
+      "type": "way",
+      "id": 443679980,
+      "version": 1,
+      "timestamp": "2016-09-21T22:46:13Z",
+      "url": "https://www.openstreetmap.org/way/443679980"
+    },
+    {
+      "type": "way",
+      "id": 443679981,
+      "version": 1,
+      "timestamp": "2016-09-21T22:46:13Z",
+      "url": "https://www.openstreetmap.org/way/443679981"
+    },
+    {
+      "type": "way",
+      "id": 443679982,
+      "version": 1,
+      "timestamp": "2016-09-21T22:46:13Z",
+      "url": "https://www.openstreetmap.org/way/443679982"
+    },
+    {
+      "type": "way",
+      "id": 443679983,
+      "version": 1,
+      "timestamp": "2016-09-21T22:46:13Z",
+      "url": "https://www.openstreetmap.org/way/443679983"
+    }
+  ],
+  "wikidata": "Q213559",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Lincoln Memorial east side.JPG",
+      "author": "Martin Falbisoner",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Lincoln_Memorial_east_side.JPG",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Exterior of the Lincoln Memorial (north side) 20240601.jpg",
+      "author": "颐园居",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Exterior_of_the_Lincoln_Memorial_(north_side)_20240601.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Aerial view of Lincoln Memorial - east side EDIT.jpeg",
+      "author": "Aerial_view_of_Lincoln_Memorial_-_east_side.jpg: Carol M. Highsmith derivative work: upstateNYer",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Lincoln_Memorial_-_east_side_EDIT.jpeg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Lincoln_Memorial_-_east_side_EDIT.jpeg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Aerial view of Lincoln Memorial - west side.jpg",
+      "author": "Carol M. Highsmith",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Lincoln_Memorial_-_west_side.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Lincoln_Memorial_-_west_side.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/dc-lincoln-memorial.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Lincoln Memorial — procedural, CC0-1.0, no textures. bun generators/dc-lincoln-memorial.ts",
+    "Map frame: x east, y north, z up, metres; origin at the centroid of the OSM outline (way/398769543), whose long axis runs due north, so the model is placed at bearing 0. The temple faces east, down the Reflecting Pool.",
+    "What is modelled, from the ground up: the granite retaining wall of the terrace with its lawn on top; the three great steps of the base; the marble stylobate and the peristyle of 36 Doric columns (12 on the long east and west fronts, 8 on the ends), plus the two columns standing in the east doorway; the entablature with its projecting cornice; the peristyle roof; the recessed attic, and the three hipped skylights inside its parapet; the open east portal; and the two flights of the east stairs, the lower one between granite cheek walls ending in pedestals.",
+    "Evidence:",
+    "OSM, way/398769543 and its building:parts: the outline (37.2 × 57.4 m); the terrace 443679934 (57 × 78 m, 4.3 m, grass roof); the base steps 443679932 (5.3 m) and 443679931 (6.3 m); the stylobate 443679943 (7.3 m); 38 columns (2.3 m across); the entablature 443679944 (20–24 m); the attic / cella walls 443679933 and 443679939 (to 30 m, a 27.1 × 43.4 m ring open to the east between y −6.2 and 7.4); the interior ceiling 443679941; three glass skylights 443679935–937 (gabled, 26–30 m); the upper flight 443679965 (7.3 → 4.3 m), the landing and cheek walls 443679930 (4.3 m) and the lower flight 443679938 (4.3 → 0 m).",
+    "Published (NPS; Wikipedia \"Lincoln Memorial\"; NRHP 66000030): the building is 189.7 × 118.5 ft (57.8 × 36.1 m) and 99 ft (30 m) tall; the 36 columns are 44 ft (13.4 m) tall and 7.5 ft (2.3 m) across at the base; the granite retaining wall is 187 × 257 ft (57 × 78 m) and 14 ft (4.3 m) high.",
+    "Photos (Wikimedia Commons): \"Lincoln Memorial east side.JPG\" (Martin Falbisoner, CC BY-SA 3.0); \"Exterior of the Lincoln Memorial (north side) 20240601.jpg\" (颐园居, CC BY-SA 4.0); \"Aerial view of Lincoln Memorial - east side EDIT.jpeg\" (Carol M. Highsmith, public domain); \"Aerial view of Lincoln Memorial - west side.jpg\" (Carol M. Highsmith, public domain); \"Lincoln Memorial Aerial - March 2013\" (formulanone, CC BY-SA 2.0).",
+    "Estimated: the split of the 22.7 m above the stylobate into columns (13.4 m with capital), entablature (4.4 m) and attic (4.9 m), read off the level north-side photo against the published column height (from the east front the cornice hides the foot of the attic); the skylight pitch; the pedestal height (photo); the step counts (drawn coarser than the real risers so they read). The peristyle roof is the library roof grey pulled a step darker toward the dark membrane in the aerials. OSM's parts sit up to 0.6 m off-centre; the model is exactly symmetric about y = 0. Not modelled: the frieze garlands, the eagle cresting and the state names (too fine), the tripod braziers on the pedestals, the statue (inside), the plaza and stairs below the lower flight (way/1551348210, a separate building), and any water.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"dc-lincoln-memorial\", model \"dc-lincoln-memorial\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/dc-lincoln-memorial.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

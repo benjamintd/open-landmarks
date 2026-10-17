@@ -1,0 +1,842 @@
+{
+  "id": "white-house",
+  "name": "White House",
+  "anchor": [
+    -77.036553,
+    38.8976662
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 221416,
+      "sha256": "cb2f0529fdd54651a10214bc8591d6f6175c78644634eff55ef5dc5befd3af8e"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 221416,
+      "sha256": "cb2f0529fdd54651a10214bc8591d6f6175c78644634eff55ef5dc5befd3af8e"
+    }
+  },
+  "triangles": 4692,
+  "boundsBlenderM": [
+    [
+      -118.5,
+      -38.05,
+      0
+    ],
+    [
+      26.65,
+      27,
+      23
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -77.0366639,
+          38.8975572
+        ],
+        [
+          -77.0367006,
+          38.8975572
+        ],
+        [
+          -77.0367445,
+          38.8975573
+        ],
+        [
+          -77.0367838,
+          38.8975573
+        ],
+        [
+          -77.0367914,
+          38.8975573
+        ],
+        [
+          -77.0368537,
+          38.8975574
+        ],
+        [
+          -77.0368541,
+          38.8975965
+        ],
+        [
+          -77.0368539,
+          38.8976282
+        ],
+        [
+          -77.0368538,
+          38.8976497
+        ],
+        [
+          -77.0368536,
+          38.8976765
+        ],
+        [
+          -77.0368535,
+          38.8977039
+        ],
+        [
+          -77.0368535,
+          38.8977184
+        ],
+        [
+          -77.0368537,
+          38.8977338
+        ],
+        [
+          -77.0368535,
+          38.8977959
+        ],
+        [
+          -77.0368114,
+          38.8977958
+        ],
+        [
+          -77.0367946,
+          38.8977956
+        ],
+        [
+          -77.0367461,
+          38.8977956
+        ],
+        [
+          -77.036703,
+          38.8977956
+        ],
+        [
+          -77.0366683,
+          38.8977958
+        ],
+        [
+          -77.0366432,
+          38.8977955
+        ],
+        [
+          -77.0366324,
+          38.8977953
+        ],
+        [
+          -77.0365485,
+          38.8977955
+        ],
+        [
+          -77.036455,
+          38.8977953
+        ],
+        [
+          -77.0364279,
+          38.8977953
+        ],
+        [
+          -77.0363982,
+          38.8977952
+        ],
+        [
+          -77.0363412,
+          38.8977952
+        ],
+        [
+          -77.0363111,
+          38.8977952
+        ],
+        [
+          -77.0362526,
+          38.8977951
+        ],
+        [
+          -77.0362527,
+          38.8977562
+        ],
+        [
+          -77.0362527,
+          38.8977387
+        ],
+        [
+          -77.0362527,
+          38.8977273
+        ],
+        [
+          -77.0362528,
+          38.8977034
+        ],
+        [
+          -77.0362519,
+          38.8977025
+        ],
+        [
+          -77.0362519,
+          38.897697
+        ],
+        [
+          -77.0362516,
+          38.8976776
+        ],
+        [
+          -77.0362513,
+          38.8976492
+        ],
+        [
+          -77.036251,
+          38.8976212
+        ],
+        [
+          -77.0362509,
+          38.8976084
+        ],
+        [
+          -77.0362517,
+          38.8975982
+        ],
+        [
+          -77.0362517,
+          38.8975842
+        ],
+        [
+          -77.036252,
+          38.897557
+        ],
+        [
+          -77.0363105,
+          38.8975569
+        ],
+        [
+          -77.036321,
+          38.8975569
+        ],
+        [
+          -77.0364451,
+          38.897557
+        ],
+        [
+          -77.0364517,
+          38.8975421
+        ],
+        [
+          -77.0364611,
+          38.8975286
+        ],
+        [
+          -77.0364751,
+          38.8975193
+        ],
+        [
+          -77.0364878,
+          38.8975109
+        ],
+        [
+          -77.0365014,
+          38.8975032
+        ],
+        [
+          -77.0365181,
+          38.8974963
+        ],
+        [
+          -77.03654,
+          38.8974906
+        ],
+        [
+          -77.0365539,
+          38.8974904
+        ],
+        [
+          -77.0365616,
+          38.8974908
+        ],
+        [
+          -77.0365879,
+          38.8974946
+        ],
+        [
+          -77.0366076,
+          38.8975024
+        ],
+        [
+          -77.0366251,
+          38.8975127
+        ],
+        [
+          -77.0366344,
+          38.8975209
+        ],
+        [
+          -77.0366493,
+          38.8975325
+        ],
+        [
+          -77.0366562,
+          38.8975401
+        ],
+        [
+          -77.0366639,
+          38.8975572
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "relation",
+    "id": 19761182,
+    "version": 7,
+    "timestamp": "2026-09-19T12:53:16Z",
+    "url": "https://www.openstreetmap.org/relation/19761182"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 257920185,
+      "version": 28,
+      "timestamp": "2026-04-01T01:12:19Z",
+      "url": "https://www.openstreetmap.org/way/257920185"
+    },
+    {
+      "type": "way",
+      "id": 257920182,
+      "version": 34,
+      "timestamp": "2026-04-01T01:12:19Z",
+      "url": "https://www.openstreetmap.org/way/257920182"
+    },
+    {
+      "type": "way",
+      "id": 257920157,
+      "version": 6,
+      "timestamp": "2026-08-28T21:57:05Z",
+      "url": "https://www.openstreetmap.org/way/257920157"
+    },
+    {
+      "type": "way",
+      "id": 257920202,
+      "version": 2,
+      "timestamp": "2020-12-14T03:51:35Z",
+      "url": "https://www.openstreetmap.org/way/257920202"
+    },
+    {
+      "type": "way",
+      "id": 257920173,
+      "version": 11,
+      "timestamp": "2025-10-23T17:49:28Z",
+      "url": "https://www.openstreetmap.org/way/257920173"
+    },
+    {
+      "type": "way",
+      "id": 257920159,
+      "version": 2,
+      "timestamp": "2020-10-26T21:21:43Z",
+      "url": "https://www.openstreetmap.org/way/257920159"
+    },
+    {
+      "type": "way",
+      "id": 257920161,
+      "version": 2,
+      "timestamp": "2020-10-26T21:21:43Z",
+      "url": "https://www.openstreetmap.org/way/257920161"
+    },
+    {
+      "type": "way",
+      "id": 257920163,
+      "version": 2,
+      "timestamp": "2020-10-26T21:21:43Z",
+      "url": "https://www.openstreetmap.org/way/257920163"
+    },
+    {
+      "type": "way",
+      "id": 257920165,
+      "version": 2,
+      "timestamp": "2020-10-26T21:21:43Z",
+      "url": "https://www.openstreetmap.org/way/257920165"
+    },
+    {
+      "type": "way",
+      "id": 257920166,
+      "version": 2,
+      "timestamp": "2020-10-26T21:21:43Z",
+      "url": "https://www.openstreetmap.org/way/257920166"
+    },
+    {
+      "type": "way",
+      "id": 257920171,
+      "version": 2,
+      "timestamp": "2020-10-26T21:21:43Z",
+      "url": "https://www.openstreetmap.org/way/257920171"
+    },
+    {
+      "type": "way",
+      "id": 257920188,
+      "version": 1,
+      "timestamp": "2014-01-23T12:03:13Z",
+      "url": "https://www.openstreetmap.org/way/257920188"
+    },
+    {
+      "type": "way",
+      "id": 257920189,
+      "version": 1,
+      "timestamp": "2014-01-23T12:03:13Z",
+      "url": "https://www.openstreetmap.org/way/257920189"
+    },
+    {
+      "type": "way",
+      "id": 257920190,
+      "version": 1,
+      "timestamp": "2014-01-23T12:03:14Z",
+      "url": "https://www.openstreetmap.org/way/257920190"
+    },
+    {
+      "type": "way",
+      "id": 257920191,
+      "version": 1,
+      "timestamp": "2014-01-23T12:03:14Z",
+      "url": "https://www.openstreetmap.org/way/257920191"
+    },
+    {
+      "type": "way",
+      "id": 257920194,
+      "version": 1,
+      "timestamp": "2014-01-23T12:03:14Z",
+      "url": "https://www.openstreetmap.org/way/257920194"
+    },
+    {
+      "type": "way",
+      "id": 257920195,
+      "version": 1,
+      "timestamp": "2014-01-23T12:03:14Z",
+      "url": "https://www.openstreetmap.org/way/257920195"
+    },
+    {
+      "type": "way",
+      "id": 257920196,
+      "version": 1,
+      "timestamp": "2014-01-23T12:03:14Z",
+      "url": "https://www.openstreetmap.org/way/257920196"
+    },
+    {
+      "type": "way",
+      "id": 257920198,
+      "version": 1,
+      "timestamp": "2014-01-23T12:03:14Z",
+      "url": "https://www.openstreetmap.org/way/257920198"
+    },
+    {
+      "type": "way",
+      "id": 257920156,
+      "version": 12,
+      "timestamp": "2025-10-27T15:09:39Z",
+      "url": "https://www.openstreetmap.org/way/257920156"
+    },
+    {
+      "type": "way",
+      "id": 257920203,
+      "version": 6,
+      "timestamp": "2021-02-07T05:38:26Z",
+      "url": "https://www.openstreetmap.org/way/257920203"
+    },
+    {
+      "type": "way",
+      "id": 257920187,
+      "version": 1,
+      "timestamp": "2014-01-23T12:03:13Z",
+      "url": "https://www.openstreetmap.org/way/257920187"
+    },
+    {
+      "type": "way",
+      "id": 257920160,
+      "version": 4,
+      "timestamp": "2022-09-24T19:44:24Z",
+      "url": "https://www.openstreetmap.org/way/257920160"
+    },
+    {
+      "type": "way",
+      "id": 257920162,
+      "version": 3,
+      "timestamp": "2025-10-27T14:53:38Z",
+      "url": "https://www.openstreetmap.org/way/257920162"
+    },
+    {
+      "type": "way",
+      "id": 257920164,
+      "version": 3,
+      "timestamp": "2025-10-27T14:53:38Z",
+      "url": "https://www.openstreetmap.org/way/257920164"
+    },
+    {
+      "type": "way",
+      "id": 257920168,
+      "version": 3,
+      "timestamp": "2022-09-24T19:44:24Z",
+      "url": "https://www.openstreetmap.org/way/257920168"
+    },
+    {
+      "type": "way",
+      "id": 257920169,
+      "version": 2,
+      "timestamp": "2020-10-26T21:21:43Z",
+      "url": "https://www.openstreetmap.org/way/257920169"
+    },
+    {
+      "type": "way",
+      "id": 257920174,
+      "version": 3,
+      "timestamp": "2025-10-27T14:53:38Z",
+      "url": "https://www.openstreetmap.org/way/257920174"
+    },
+    {
+      "type": "way",
+      "id": 257920175,
+      "version": 3,
+      "timestamp": "2025-10-27T14:53:38Z",
+      "url": "https://www.openstreetmap.org/way/257920175"
+    },
+    {
+      "type": "way",
+      "id": 257920176,
+      "version": 2,
+      "timestamp": "2020-10-26T21:21:43Z",
+      "url": "https://www.openstreetmap.org/way/257920176"
+    },
+    {
+      "type": "way",
+      "id": 1445440137,
+      "version": 1,
+      "timestamp": "2025-10-27T15:09:39Z",
+      "url": "https://www.openstreetmap.org/way/1445440137"
+    },
+    {
+      "type": "way",
+      "id": 1425481054,
+      "version": 2,
+      "timestamp": "2025-10-23T17:49:28Z",
+      "url": "https://www.openstreetmap.org/way/1425481054"
+    },
+    {
+      "type": "way",
+      "id": 1425481055,
+      "version": 2,
+      "timestamp": "2025-10-23T17:49:28Z",
+      "url": "https://www.openstreetmap.org/way/1425481055"
+    },
+    {
+      "type": "way",
+      "id": 449101168,
+      "version": 7,
+      "timestamp": "2022-07-12T18:23:09Z",
+      "url": "https://www.openstreetmap.org/way/449101168"
+    },
+    {
+      "type": "way",
+      "id": 449101206,
+      "version": 7,
+      "timestamp": "2026-04-01T00:18:58Z",
+      "url": "https://www.openstreetmap.org/way/449101206"
+    },
+    {
+      "type": "way",
+      "id": 884569672,
+      "version": 4,
+      "timestamp": "2025-10-23T17:49:28Z",
+      "url": "https://www.openstreetmap.org/way/884569672"
+    },
+    {
+      "type": "way",
+      "id": 884569673,
+      "version": 5,
+      "timestamp": "2025-10-23T17:49:28Z",
+      "url": "https://www.openstreetmap.org/way/884569673"
+    },
+    {
+      "type": "way",
+      "id": 884569674,
+      "version": 5,
+      "timestamp": "2025-10-23T17:49:28Z",
+      "url": "https://www.openstreetmap.org/way/884569674"
+    },
+    {
+      "type": "way",
+      "id": 884569677,
+      "version": 6,
+      "timestamp": "2025-10-23T17:49:28Z",
+      "url": "https://www.openstreetmap.org/way/884569677"
+    },
+    {
+      "type": "way",
+      "id": 884571790,
+      "version": 6,
+      "timestamp": "2023-11-29T09:52:02Z",
+      "url": "https://www.openstreetmap.org/way/884571790"
+    },
+    {
+      "type": "way",
+      "id": 884571793,
+      "version": 9,
+      "timestamp": "2026-04-01T00:18:58Z",
+      "url": "https://www.openstreetmap.org/way/884571793"
+    },
+    {
+      "type": "relation",
+      "id": 19761232,
+      "version": 3,
+      "timestamp": "2026-06-02T20:21:43Z",
+      "url": "https://www.openstreetmap.org/relation/19761232"
+    },
+    {
+      "type": "way",
+      "id": 238241017,
+      "version": 32,
+      "timestamp": "2026-06-02T20:21:43Z",
+      "url": "https://www.openstreetmap.org/way/238241017"
+    },
+    {
+      "type": "way",
+      "id": 257920201,
+      "version": 6,
+      "timestamp": "2025-10-25T16:50:48Z",
+      "url": "https://www.openstreetmap.org/way/257920201"
+    },
+    {
+      "type": "way",
+      "id": 257920192,
+      "version": 2,
+      "timestamp": "2016-10-27T15:59:22Z",
+      "url": "https://www.openstreetmap.org/way/257920192"
+    },
+    {
+      "type": "way",
+      "id": 257920184,
+      "version": 10,
+      "timestamp": "2025-10-26T16:50:20Z",
+      "url": "https://www.openstreetmap.org/way/257920184"
+    },
+    {
+      "type": "way",
+      "id": 257920197,
+      "version": 3,
+      "timestamp": "2018-01-22T17:31:28Z",
+      "url": "https://www.openstreetmap.org/way/257920197"
+    },
+    {
+      "type": "way",
+      "id": 238241023,
+      "version": 18,
+      "timestamp": "2026-06-02T20:21:43Z",
+      "url": "https://www.openstreetmap.org/way/238241023"
+    },
+    {
+      "type": "way",
+      "id": 257920193,
+      "version": 7,
+      "timestamp": "2025-10-27T15:14:29Z",
+      "url": "https://www.openstreetmap.org/way/257920193"
+    },
+    {
+      "type": "way",
+      "id": 1445440857,
+      "version": 1,
+      "timestamp": "2025-10-27T15:14:29Z",
+      "url": "https://www.openstreetmap.org/way/1445440857"
+    },
+    {
+      "type": "way",
+      "id": 257920178,
+      "version": 1,
+      "timestamp": "2014-01-23T12:03:12Z",
+      "url": "https://www.openstreetmap.org/way/257920178"
+    },
+    {
+      "type": "way",
+      "id": 257920179,
+      "version": 1,
+      "timestamp": "2014-01-23T12:03:12Z",
+      "url": "https://www.openstreetmap.org/way/257920179"
+    },
+    {
+      "type": "way",
+      "id": 257920180,
+      "version": 1,
+      "timestamp": "2014-01-23T12:03:12Z",
+      "url": "https://www.openstreetmap.org/way/257920180"
+    },
+    {
+      "type": "way",
+      "id": 257920181,
+      "version": 1,
+      "timestamp": "2014-01-23T12:03:12Z",
+      "url": "https://www.openstreetmap.org/way/257920181"
+    },
+    {
+      "type": "way",
+      "id": 887434559,
+      "version": 3,
+      "timestamp": "2025-10-27T17:27:05Z",
+      "url": "https://www.openstreetmap.org/way/887434559"
+    }
+  ],
+  "wikidata": "Q35525",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:The White House June 2024.jpg",
+      "author": "DJTechYT",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:The_White_House_June_2024.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:White House (South Lawn).jpeg",
+      "author": "Mark Skrobola (MCS@flickr)",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:White_House_(South_Lawn).jpeg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:The White House South Portico.jpg",
+      "author": "Trendscope",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:The_White_House_South_Portico.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:South facade of the White House, Washington DC, as seen from the Washington Monument.jpg",
+      "author": "Ad Meskens",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:South_facade_of_the_White_House,_Washington_DC,_as_seen_from_the_Washington_Monument.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Aerial view of the White House.jpg",
+      "author": "Carol M. Highsmith",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_the_White_House.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_the_White_House.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:White House construction aerial view 2025-12-03 14-15-53.jpg",
+      "author": "G. Edward Johnson",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:White_House_construction_aerial_view_2025-12-03_14-15-53.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:White House W. Wing in April 2019.jpg",
+      "author": "Dan Scavino",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:White_House_W._Wing_in_April_2019.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:White_House_W._Wing_in_April_2019.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Exterior of the White House West wing 001.jpg",
+      "author": "Geraldshields11",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Exterior_of_the_White_House_West_wing_001.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Oval Office Exterior.jpg",
+      "author": "Nilington at English Wikipedia",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Oval_Office_Exterior.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Oval_Office_Exterior.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Entrance of the West Wing under snow.jpg",
+      "author": "White House (Chuck Kennedy)",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Entrance_of_the_West_Wing_under_snow.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Entrance_of_the_West_Wing_under_snow.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Trump White House Rose Garden (September 5, 2025).jpg",
+      "author": "Speaker Mike Johnson",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Trump_White_House_Rose_Garden_(September_5,_2025).jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Trump_White_House_Rose_Garden_(September_5,_2025).jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:2026-09-09 helipad construction White House Washington DC 12-33-53.jpg",
+      "author": "G. Edward Johnson",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:2026-09-09_helipad_construction_White_House_Washington_DC_12-33-53.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:2026-09-09 construction at the White House Washington DC 12-38-13.jpg",
+      "author": "G. Edward Johnson",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:2026-09-09_construction_at_the_White_House_Washington_DC_12-38-13.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Marine One approaching the Ellipse Washington DC 2026-09-09 12-39-04 2.jpg",
+      "author": "G. Edward Johnson",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Marine_One_approaching_the_Ellipse_Washington_DC_2026-09-09_12-39-04_2.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/dc-white-house.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "The White House: the Executive Residence, the West Colonnade and the West Wing — procedural, CC0-1.0, no textures. bun generators/dc-white-house.ts",
+    "Also the shared kit for the President's Park group (dc-white-house, dc-eisenhower-eob, dc-treasury): the helpers below are exported and the model itself is only built when this file is run directly.",
+    "Map frame: x east, y north, z up, metres; bearing 0°, since the outline's long walls run due east–west. The anchor is the centroid of the OSM outline relation/19761182 (lng -77.036553, lat 38.897666), which is also, within 0.1 m, the main block's axis of symmetry.",
+    "What it covers, and what it does not",
+    "relation/19761182 is the Executive Residence alone: the main block and the South Portico. Its building:parts (main block, roof, the South Portico's base, columns and roof, the eight chimneys) are all modelled.",
+    "The North Portico stands outside that outline in OSM, as its own parts (columns, entablature, gable roof, steps) and a building=roof way. It is part of the residence, so it is modelled and replaced too.",
+    "The South Portico's two curved stairs are separate buildings (h=2) just outside the outline; modelled and replaced.",
+    "The West Colonnade (way/238241017) and the West Wing (relation/19761232 and its parts: main block 257920201, penthouse 257920192, east block 257920184, the Cabinet Room's raised roof 257920197, the Oval Office 238241023, the north portico 257920193 with roof 1445440857 and columns 257920178–181, and the west entrance canopy, building=roof 887434559) are modelled and replaced.",
+    "The east side is not modelled. The East Wing and the East Colonnade were demolished on 20–23 October 2025 (Wikipedia, \"East Wing\": AP photos of 23 October show \"the entire East Wing, including the East Colonnade\" gone). OSM maps the site, from the residence's east wall outwards, as building=construction \"State Ballroom\" (way/1536631257, checked 2026-07-08). G. Edward Johnson's aerials of 9 September 2026 show the ballroom as a concrete and steel frame, and a new low glazed link against the residence's east end, still wrapped and scaffolded with workers on its roof. Neither is finished, so neither is drawn, and nothing on that side is replaced.",
+    "Indoor room polygons tagged building:part inside the outline (toilets, indoor=room, height 0 or none) are not buildings; they are listed in `replaces` only because they sit wholly inside the model and a client would otherwise draw them as flat boxes. (They draw nothing above ground, so leaving them off would also be harmless.)",
+    "Evidence",
+    "OSM (measured): outline 52.2 × 26.4 m for the main block, the South Portico's bow 9 m deep, the North Portico 16.3 × 12.7 m. Column centres (14 parts, 1.17 m wide), chimney positions (8 parts, 1.9 × 2.4 m, h=23), roof part h 18–21. The South Portico's six columns fit a circle of radius 7.7 m centred 1.7 m north of the south wall line, at 25°, 50° and 77° either side of the axis; the bow wall and base are drawn on the same centre. OSM puts the North Portico 0.4 m east of the axis; it is centred here, since the real portico is on the axis.",
+    "Published (White House Historical Association, \"White House Dimensions\"; Wikipedia): 168 × 85.5 ft (51.2 × 26.1 m) main block without porticos; 70 ft (21.3 m) to the top of the roof on the south side and 60 ft 4 in (18.4 m) on the north, so the north ground is 2.9 m above the south lawn and y = 0 is the south lawn. Ground floor rusticated and exposed on the south, hidden on the north; State and Second floors in 11 bays on the north (4 + 3 + 4) and 4 + bow + 4 on the south; third floor (1927) set back behind the balustrade with long shed dormers under a low hip roof; Truman Balcony inside the South Portico.",
+    "Photos (Wikimedia Commons): north front, \"The White House June 2024.jpg\" (DJTechYT, CC BY-SA 4.0); south front, \"White House (South Lawn).jpeg\" (Mark Skrobola, CC BY 2.0) and \"The White House South Portico.jpg\" (Trendscope, CC BY 4.0); from above the south, \"South facade of the White House, Washington DC, as seen from the Washington Monument.jpg\" (Ad Meskens, CC BY-SA 3.0); aerials \"Aerial view of the White House.jpg\" (Carol M. Highsmith, public domain) and \"White House construction aerial view 2025-12-03 14-15-53.jpg\" (G. Edward Johnson, CC BY 4.0), which shows the East Wing site cleared.",
+    "USGS NAIP orthophoto (public domain): plan, roof colours, the third floor's set-back roof.",
+    "Estimated from the photos: storey heights (ground floor 4.4 m, State floor windows 5.6–9.2 m, Second floor 10.9–13.4 m), cornice 14.4–16.4 m, balustrade to 18 m, third floor wall to 18.6 m and a low hip to a broad flat deck at 19.5 m; the north pediment's apex at 21 m. The published 21.3 m roof top is not followed: aerials and the view from the south lawn show the roof as a low, pale deck that barely clears the balustrade, so it is drawn that way; only the chimneys (23 m, OSM) stand clear of it; columns 10 m from the ground-floor base to the entablature; the solarium on the South Portico to 20 m; the stairs' rise.",
+    "The Truman Balcony is drawn as a deep slab with a railing band across the South Portico's columns, about 10 m up.",
+    "Wings, evidence. OSM (measured): every plan above. Published (Wikipedia, \"West Wing\"): Eric Gugler's 1934 rebuild added the set-back \"penthouse\" storey; the ground floor is partly a basement, so the first floor, the Rose Garden and the colonnade sit at about the south lawn's level. Photos: \"White House W. Wing in April 2019.jpg\" (Dan Scavino, public domain; the colonnade against the residence's west end), \"Exterior of the White House West wing 001.jpg\" (Geraldshields11, CC BY-SA 4.0; the press room's arched north wall), \"Oval Office Exterior.jpg\" (Nilington, public domain), \"Entrance of the West Wing under snow.jpg\" (Chuck Kennedy, White House, public domain; the north portico), \"Trump White House Rose Garden (September 5, 2025).jpg\" (Speaker Mike Johnson, public domain), \"Aerial view of the White House.jpg\" (Carol M. Highsmith, public domain; roofs from the north), and \"2026-09-09 helipad construction White House Washington DC 12-33-53.jpg\", \"2026-09-09 construction at the White House Washington DC 12-38-13.jpg\" and \"Marine One approaching the Ellipse Washington DC 2026-09-09 12-39-04 2.jpg\" (G. Edward Johnson, CC BY 4.0; the colonnade and the West Wing from the south, and the east side today). The elevation \"White House West Wing.svg\" (Hstoops, CC0) was used only to confirm the massing.",
+    "Wings, estimated: the colonnade's top at 5.7 m, columns 3.5 m (OSM says 7 m, but photos put the parapet just under the residence's State-floor sills); the West Wing's cornice 6.2 m, penthouse wall to 8.55 m, and the window counts and spacing, read from the photos. The West Wing's roof edge is a plain parapet, not a balustrade: no photo shows balusters on it. OSM heights (7 m parapet, 10 m penthouse roof, 8 m Cabinet Room roof, 9 m Oval Office dome) are followed. The terracotta roof colour comes from OSM roof:colour=brown and the aerials.",
+    "Simplified: window pediments are flat hoods; balusters are a light grey panel between white piers; the flagpole, lamps and the North Portico's lantern are left out.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"dc-white-house\", model \"dc-white-house\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/dc-white-house.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 113 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the dc-white-house-glazing finish in the window colour.",
+    "To fit six materials, folded dc-white-house-baluster into dc-white-house-white-house-roof (ΔE 4.7)."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

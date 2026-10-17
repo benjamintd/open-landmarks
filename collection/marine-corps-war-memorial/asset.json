@@ -1,0 +1,122 @@
+{
+  "id": "marine-corps-war-memorial",
+  "name": "Marine Corps War Memorial",
+  "anchor": [
+    -77.0697239,
+    38.8904362
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 91320,
+      "sha256": "e41beda4ebb5ec72c9daac76eb0e07a6568d63e922b34144b56f8f465b3171d4"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 91320,
+      "sha256": "e41beda4ebb5ec72c9daac76eb0e07a6568d63e922b34144b56f8f465b3171d4"
+    }
+  },
+  "triangles": 3188,
+  "boundsBlenderM": [
+    [
+      -6.6,
+      -9.7,
+      0
+    ],
+    [
+      7.247,
+      9.7,
+      20.503
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -77.0697627,
+          38.89035
+        ],
+        [
+          -77.0697008,
+          38.8903478
+        ],
+        [
+          -77.069651,
+          38.8904029
+        ],
+        [
+          -77.0696474,
+          38.8904664
+        ],
+        [
+          -77.0696875,
+          38.8905216
+        ],
+        [
+          -77.0697583,
+          38.8905232
+        ],
+        [
+          -77.0697989,
+          38.8904667
+        ],
+        [
+          -77.0698007,
+          38.8904104
+        ],
+        [
+          -77.0697627,
+          38.89035
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 45297440,
+    "version": 3,
+    "timestamp": "2022-01-15T18:59:08Z",
+    "url": "https://www.openstreetmap.org/way/45297440"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q1403946",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/dc-marine-corps-war-memorial.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Marine Corps War Memorial (Iwo Jima Memorial), Arlington, Virginia — procedural, CC0-1.0.",
+    "Map frame: x east, y north, z up, metres. The origin is the centre of the base's OSM outline (way/45297440; lng -77.0697239, lat 38.8904362), on the lawn. Bearing 0: the base's long axis runs north-south, as OSM draws it.",
+    "Felix de Weldon's bronze (1954) of the six Marines raising the flag on Mount Suribachi, from Joe Rosenthal's photograph, on a polished black granite base. The pole is planted at the south end of the bronze rock pile and leans up toward the north-east; the men lean into it toward its foot, the leading one bent double at the bottom, the last with his legs flung back to the north. A real cloth flag flies from it.",
+    "Evidence - OSM (measured): way/45297440, historic=monument, the base's elongated octagon, 13.3 m east-west by 19.4 m north-south. Not a building, so the model replaces nothing. - Published (Wikipedia, NPS): figures 32 ft (9.8 m) tall, a 60 ft (18 m) flagpole, a cloth flag flown day and night. - Photos (Wikimedia Commons, HALS VA-9, Jack E. Boucher, public domain): the west, south and east elevations and the close elevated views from south and north. The pose, the pole's lean and every height below are measured off those, scaled by the base's OSM length.",
+    "Measured from the elevations: base top 2.9 m with a 0.4 m step; the rock pile about 1.4 m above it; the pole leaning 65° from the horizontal, to the north-east; the men's hands round it at 11.8 m; helmets from 8.3 m (the bent leader) to 11 m. Estimated: the limb sizes (helmets 0.9 m across in the elevations, so the bronze men are about 3.5 times life where they crouch), how the six bodies sit in depth where they hide each other, and the flag (2.5 × 4.6 m, flown to the north-east as the elevations show it, with one ripple so it never shows edge-on), drawn with seven broad stripes rather than thirteen thin ones, which would only shimmer at map distance. Rifles, hands and the inscriptions are left out.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"dc-marine-corps-war-memorial\", model \"dc-marine-corps-war-memorial\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/dc-marine-corps-war-memorial.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

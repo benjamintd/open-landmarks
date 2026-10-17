@@ -1,0 +1,217 @@
+{
+  "id": "house-of-the-temple",
+  "name": "House of the Temple",
+  "anchor": [
+    -77.0358382,
+    38.9137036
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 104480,
+      "sha256": "cb3e1696fe824e5b020eb2596255900d53d63fe5fd2781b77795cb268fcb8597"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 104480,
+      "sha256": "cb3e1696fe824e5b020eb2596255900d53d63fe5fd2781b77795cb268fcb8597"
+    }
+  },
+  "triangles": 2669,
+  "boundsBlenderM": [
+    [
+      -33.5,
+      -22.851,
+      0
+    ],
+    [
+      28.554,
+      23.051,
+      33.21
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -77.0356249,
+          38.9135412
+        ],
+        [
+          -77.035625,
+          38.9135002
+        ],
+        [
+          -77.0361465,
+          38.9135009
+        ],
+        [
+          -77.0361462,
+          38.9136057
+        ],
+        [
+          -77.0360688,
+          38.9136056
+        ],
+        [
+          -77.0360686,
+          38.9137098
+        ],
+        [
+          -77.0360683,
+          38.9138141
+        ],
+        [
+          -77.0361468,
+          38.9138142
+        ],
+        [
+          -77.0361465,
+          38.913909
+        ],
+        [
+          -77.0356223,
+          38.9139081
+        ],
+        [
+          -77.0356225,
+          38.9138355
+        ],
+        [
+          -77.0355708,
+          38.9138087
+        ],
+        [
+          -77.035542,
+          38.913782
+        ],
+        [
+          -77.0355222,
+          38.9137507
+        ],
+        [
+          -77.0355123,
+          38.9136991
+        ],
+        [
+          -77.0355193,
+          38.9136646
+        ],
+        [
+          -77.0355367,
+          38.9136325
+        ],
+        [
+          -77.0355637,
+          38.9136047
+        ],
+        [
+          -77.0355985,
+          38.9135827
+        ],
+        [
+          -77.0355986,
+          38.9135412
+        ],
+        [
+          -77.0356249,
+          38.9135412
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 67086344,
+    "version": 13,
+    "timestamp": "2025-02-27T22:43:37Z",
+    "url": "https://www.openstreetmap.org/way/67086344"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q176356",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:House of the Temple by Carol M. Highsmith.tiff",
+      "author": "Carol M. Highsmith",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:House_of_the_Temple_by_Carol_M._Highsmith.tiff",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:House_of_the_Temple_by_Carol_M._Highsmith.tiff",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:House of the Temple - Dupont Circle.JPG",
+      "author": "APK",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:House_of_the_Temple_-_Dupont_Circle.JPG",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:House of the Temple - southwest corner.JPG",
+      "author": "APK",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:House_of_the_Temple_-_southwest_corner.JPG",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:House of the Temple rear view.JPG",
+      "author": "APK",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:House_of_the_Temple_rear_view.JPG",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:House of the Temple - Washington DC.jpg",
+      "author": "Michiel1972",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:House_of_the_Temple_-_Washington_DC.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/dc-house-of-the-temple.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "House of the Temple (Scottish Rite, Southern Jurisdiction) — procedural, CC0-1.0, no textures. bun generators/dc-house-of-the-temple.ts",
+    "Map frame: x east, y north, z up, metres; bearing 0°, the 16th Street front facing due west. The anchor is the area centroid of the OSM outline way/67086344 (lng -77.0358382, lat 38.9137036). y = 0 is 16th Street at the foot of the grand stair, the lowest ground the building touches.",
+    "What it is: John Russell Pope's temple (1911–15) after the Mausoleum of Halicarnassus, in pale limestone. The identifying features: a square temple on a high podium, ringed by tall Ionic columns standing proud of a shaded cella wall; a deep entablature and a set-back attic; the stepped pyramid on top with its skylight; the grand stair rising from 16th Street between two sphinxes on their pedestals; the plain podium wings either side of the stair; and the half-round apse on the rear (east).",
+    "Covers and replaces: way/67086344 (the outline). No parts inside it. The stair and the sphinxes stand outside the outline, in front of it, as they do on the map.",
+    "Evidence",
+    "OSM (measured): the podium's outline, 45.4 × 45.2 m with the stair's recess on the west (x -26.7…-20, y -10.8…12.2) and the rear half-round (radius about 15 m round (13.5, -0.3)).",
+    "USGS NAIP orthophoto (public domain): the temple block, about 32 m square at its cornice, centred at x -4; the stepped pyramid's base 24.5 m across and its flat top 8.5 m with the skylight in it; the apse drum, about 9.5 m in radius, against the temple's east side; the podium's flat pale roofs.",
+    "Published: 33 Ionic columns, each 33 ft (10 m) tall; the stair's flights of 3, 5, 7 and 9 steps (Scottish Rite; widely published).",
+    "Photos (Wikimedia Commons): \"House of the Temple by Carol M. Highsmith.tiff\" (public domain, head on from 16th Street, corrected verticals): ten columns across the front at 3.2 m centres, the entablature 3.6 m deep, the attic 1.8 m, the podium wall about 7.9 m above the door sill; \"House of the Temple - Dupont Circle.JPG\", \"House of the Temple - southwest corner.JPG\", \"House of the Temple rear view.JPG\" (APK, CC BY-SA 3.0): the stair and sphinxes, the side colonnade, the apse with its engaged columns; \"House of the Temple - Washington DC.jpg\" (Michiel1972, CC BY-SA 3.0, from the south-west).",
+    "Estimated: the stair's rise (24 steps, 3.6 m); podium roof 10.5 m and the stylobate 11.6 m above the street; the pyramid's 13 steps of 0.46 m (to 33.2 m), which no photo shows square on; the apse to 20.5 m; the sphinxes as simple blocks.",
+    "Doubt: the published 33 columns. Ten to a side all round, less the rear ones behind the apse, gives 30; the photos show the front's ten and the side colonnades, not how the rear row meets the apse.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"dc-house-of-the-temple\", model \"dc-house-of-the-temple\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/dc-house-of-the-temple.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

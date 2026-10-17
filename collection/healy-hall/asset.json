@@ -1,0 +1,410 @@
+{
+  "id": "healy-hall",
+  "name": "Healy Hall",
+  "anchor": [
+    -77.0727337,
+    38.9073077
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 107420,
+      "sha256": "591325786052e936b0adf8631868d38d91012f695912f4b0867d47b1ce4f0400"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 107420,
+      "sha256": "591325786052e936b0adf8631868d38d91012f695912f4b0867d47b1ce4f0400"
+    }
+  },
+  "triangles": 1948,
+  "boundsBlenderM": [
+    [
+      -17.9,
+      -54.3,
+      0
+    ],
+    [
+      15.45,
+      45.2,
+      61
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -77.072819,
+          38.9069103
+        ],
+        [
+          -77.0728187,
+          38.9069383
+        ],
+        [
+          -77.0728172,
+          38.9070761
+        ],
+        [
+          -77.0728171,
+          38.9070888
+        ],
+        [
+          -77.0728169,
+          38.9071401
+        ],
+        [
+          -77.0728254,
+          38.9071402
+        ],
+        [
+          -77.0728248,
+          38.9071757
+        ],
+        [
+          -77.0728169,
+          38.9071757
+        ],
+        [
+          -77.0728167,
+          38.9072568
+        ],
+        [
+          -77.0728248,
+          38.9072568
+        ],
+        [
+          -77.0728247,
+          38.907288
+        ],
+        [
+          -77.0728247,
+          38.9073012
+        ],
+        [
+          -77.0728131,
+          38.9073012
+        ],
+        [
+          -77.0728129,
+          38.9073838
+        ],
+        [
+          -77.0728204,
+          38.9073838
+        ],
+        [
+          -77.0728207,
+          38.9074207
+        ],
+        [
+          -77.0728128,
+          38.9074208
+        ],
+        [
+          -77.072813,
+          38.9074872
+        ],
+        [
+          -77.0729042,
+          38.9074859
+        ],
+        [
+          -77.0729066,
+          38.9075951
+        ],
+        [
+          -77.0729073,
+          38.9076279
+        ],
+        [
+          -77.0729182,
+          38.9076279
+        ],
+        [
+          -77.0729182,
+          38.9076307
+        ],
+        [
+          -77.072959,
+          38.9076302
+        ],
+        [
+          -77.0729593,
+          38.9076767
+        ],
+        [
+          -77.07292,
+          38.9076776
+        ],
+        [
+          -77.07292,
+          38.9077005
+        ],
+        [
+          -77.0725831,
+          38.9077
+        ],
+        [
+          -77.0725831,
+          38.9076743
+        ],
+        [
+          -77.0725972,
+          38.9076743
+        ],
+        [
+          -77.0725971,
+          38.9076422
+        ],
+        [
+          -77.0725597,
+          38.9076424
+        ],
+        [
+          -77.0725594,
+          38.9076149
+        ],
+        [
+          -77.072559,
+          38.9075656
+        ],
+        [
+          -77.0725973,
+          38.9075655
+        ],
+        [
+          -77.0725974,
+          38.9075353
+        ],
+        [
+          -77.072584,
+          38.9075354
+        ],
+        [
+          -77.072584,
+          38.9075105
+        ],
+        [
+          -77.0726384,
+          38.9075106
+        ],
+        [
+          -77.0726384,
+          38.9074939
+        ],
+        [
+          -77.0726389,
+          38.9072965
+        ],
+        [
+          -77.0726134,
+          38.9072966
+        ],
+        [
+          -77.0726105,
+          38.9072966
+        ],
+        [
+          -77.0726104,
+          38.9072851
+        ],
+        [
+          -77.0726101,
+          38.9072552
+        ],
+        [
+          -77.0726389,
+          38.9072551
+        ],
+        [
+          -77.0726393,
+          38.9070447
+        ],
+        [
+          -77.0725894,
+          38.9070447
+        ],
+        [
+          -77.0725895,
+          38.9070204
+        ],
+        [
+          -77.0726036,
+          38.9070204
+        ],
+        [
+          -77.072604,
+          38.9068819
+        ],
+        [
+          -77.0725914,
+          38.9068819
+        ],
+        [
+          -77.0725914,
+          38.9068587
+        ],
+        [
+          -77.0726796,
+          38.9068589
+        ],
+        [
+          -77.0726793,
+          38.9068179
+        ],
+        [
+          -77.0727257,
+          38.9068193
+        ],
+        [
+          -77.0727258,
+          38.9068366
+        ],
+        [
+          -77.0727516,
+          38.9068365
+        ],
+        [
+          -77.0727516,
+          38.9068331
+        ],
+        [
+          -77.0728465,
+          38.9068333
+        ],
+        [
+          -77.0728464,
+          38.9068751
+        ],
+        [
+          -77.0728463,
+          38.9069103
+        ],
+        [
+          -77.072819,
+          38.9069103
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 444583709,
+    "version": 8,
+    "timestamp": "2022-10-26T19:30:02Z",
+    "url": "https://www.openstreetmap.org/way/444583709"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q4269513",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Healy Hall façade.jpg",
+      "author": "APK",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Healy_Hall_fa%C3%A7ade.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Healy Hall, Georgetown University, Georgetown, Washington, DC (39641791973).jpg",
+      "author": "Warren LeMay from Cincinnati, OH, United States",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Healy_Hall,_Georgetown_University,_Georgetown,_Washington,_DC_(39641791973).jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Healy Hall Georgetown University.jpg",
+      "author": "APK",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Healy_Hall_Georgetown_University.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Healy Hall at Georgetown University.jpg",
+      "author": "Gtownsfs",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Healy_Hall_at_Georgetown_University.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Healy Hall tower.jpg",
+      "author": "APK",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Healy_Hall_tower.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Maguire Hall and Healy Hall.jpg",
+      "author": "APK",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Maguire_Hall_and_Healy_Hall.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Georgetown University's Healy Hall from across the Potomac.jpg",
+      "author": "Jeff Vincent",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Georgetown_University%27s_Healy_Hall_from_across_the_Potomac.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Georgetown University (53821005319).jpg",
+      "author": "ajay_suresh",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Georgetown_University_(53821005319).jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/dc-healy-hall.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Healy Hall, Georgetown University — procedural, CC0-1.0, no textures. bun generators/dc-healy-hall.ts",
+    "Map frame: x east, y north, z up, metres; bearing 0°, the outline's walls running due north–south and east–west. The anchor is the area centroid of the OSM outline way/444583709 (lng -77.0727337, lat 38.9073077).",
+    "What it is: Smithmeyer and Pelz's Flemish Romanesque hall (1877–79), a long north–south range of four storeys over a raised basement, in dark grey-blue Potomac gneiss banded with light sandstone, under a steep slate roof lined with gabled dormers; a taller pavilion at each end (Gaston Hall to the north, Riggs Library to the south) with its own high hip roof, a cross gable to the east front and corner turrets with slate spires; the square clock tower in the middle of the east front, rising to a tall slate spire 200 ft (61 m) up; and the big square south tower with its arcaded top beside the south pavilion. The clock tower and spire, the pavilions' gables and turrets, and the dark stone against the steep slate are the identity.",
+    "Covers and replaces: the outline way/444583709, which has no building:parts. Its neighbours (Maguire Hall, Old North, Isaac Hawkins Hall, Ryan Hall) are separate buildings and are not touched.",
+    "Evidence",
+    "OSM (measured): outline 34.6 × 97.6 m. Range 15.4 m deep (x −7.2 to 8.2) between the pavilions; north pavilion 29.1 × 23.7 m (x −16.1 to 13.0, y 19.7 to 43.4) with an east bay out to x 15.1 (y 28.5–37), drawn here as the base of a cross gable spanning 23.5–40, as wide as the gable in the photos; south pavilion 22 × 23.4 m (x −9.8 to 12.3, y −52.5 to −29.1); the clock tower's projection on the east front at y −5.8 to −1.2, out to x 10.7, which is the middle of the front between the pavilions. Height 61.",
+    "Published (Wikipedia, \"Healy Hall\"; NHL nomination): built 1877–79, Smithmeyer and Pelz; designed 312 × 95 ft (95 × 29 m); 200 ft (61 m) to the top of the clock tower; Riggs Library in the south tower, Gaston Hall on the north pavilion's upper floors.",
+    "Photos (Wikimedia Commons): \"Healy Hall façade.jpg\" (APK, CC BY-SA 4.0), the east front head on; \"Healy Hall, Georgetown University, Georgetown, Washington, DC (39641791973).jpg\" and \"(46606951611).jpg\" (Warren LeMay, CC0), the east front from the north-east; \"Healy Hall Georgetown University.jpg\" (APK, CC BY-SA 4.0) and \"Healy Hall at Georgetown University.jpg\" (Gtownsfs, CC BY-SA 3.0), from the south-east; \"Healy Hall tower.jpg\" and \"Maguire Hall and Healy Hall.jpg\" (APK, CC BY-SA 4.0), the south tower; \"Georgetown University's Healy Hall from across the Potomac.jpg\" (Jeff Vincent, CC BY 2.0), from the south at a distance; \"Georgetown University (53821005319).jpg\" (ajay_suresh, CC BY 2.0).",
+    "USGS NAIP orthophoto (public domain): the plan and the slate roofs.",
+    "Estimated from the photos (storey counts and the far telephoto view) against the published 61 m: range eaves 20.5 m and roof to 27 m; pavilions' eaves 24.5 m and hip roofs to 35.5 m; clock tower 5.6 m square (the photos show it slimmer than OSM's 4.6 m-wide projection plus wall), shaft to 45 m, rising about as high above the ridge as the ridge stands above the ground's eaves line, with the belfry arcade at 32–36.6 m and the clock at 39.4–43.4 m; a slender eight-sided spire to 59.4 m and finial to 61 m (published 200 ft); turret spires to 38–40.5 m; south tower 9 m square at the pavilion's west side to 34 m, its pyramid to 42 m and spirelet to 46 m.",
+    "Colour: the gneiss is drawn as a blue-grey well lighter than the real stone, so it sits with the palette, but still darker than the stone of its neighbours; the sandstone bands are a warm light buff; slate dark.",
+    "Simplified: one window panel per bay and storey; the dormers are small gabled boxes, ten to a side; the porches, carving, corbel tables and cresting are left out; turrets are square with pyramid spires.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"dc-healy-hall\", model \"dc-healy-hall\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/dc-healy-hall.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

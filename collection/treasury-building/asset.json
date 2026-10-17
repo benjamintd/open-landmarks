@@ -1,0 +1,353 @@
+{
+  "id": "treasury-building",
+  "name": "Treasury Building",
+  "anchor": [
+    -77.0343146,
+    38.8975874
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 244432,
+      "sha256": "9edcc586c6725fb3eeef12897759402d7e9dae7380d9fba210006d3f9c2b1dbe"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 244432,
+      "sha256": "9edcc586c6725fb3eeef12897759402d7e9dae7380d9fba210006d3f9c2b1dbe"
+    }
+  },
+  "triangles": 4997,
+  "boundsBlenderM": [
+    [
+      -45.1,
+      -79,
+      0
+    ],
+    [
+      42.4,
+      79.1,
+      24.2
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -77.0341457,
+          38.898303
+        ],
+        [
+          -77.0341447,
+          38.8982478
+        ],
+        [
+          -77.034146,
+          38.8982262
+        ],
+        [
+          -77.0338376,
+          38.8982254
+        ],
+        [
+          -77.0338355,
+          38.898059
+        ],
+        [
+          -77.0338548,
+          38.898059
+        ],
+        [
+          -77.0338577,
+          38.8976275
+        ],
+        [
+          -77.0338575,
+          38.8975681
+        ],
+        [
+          -77.0338559,
+          38.8975033
+        ],
+        [
+          -77.0338583,
+          38.8971249
+        ],
+        [
+          -77.0338293,
+          38.897125
+        ],
+        [
+          -77.0338292,
+          38.8970711
+        ],
+        [
+          -77.0338292,
+          38.8970279
+        ],
+        [
+          -77.0338292,
+          38.896986
+        ],
+        [
+          -77.0338285,
+          38.8969559
+        ],
+        [
+          -77.03386,
+          38.8969558
+        ],
+        [
+          -77.034137,
+          38.8969558
+        ],
+        [
+          -77.0341369,
+          38.8969212
+        ],
+        [
+          -77.0341388,
+          38.8968736
+        ],
+        [
+          -77.0341954,
+          38.8968734
+        ],
+        [
+          -77.0342966,
+          38.8968728
+        ],
+        [
+          -77.0343971,
+          38.8968729
+        ],
+        [
+          -77.0344489,
+          38.8968734
+        ],
+        [
+          -77.0344499,
+          38.8969535
+        ],
+        [
+          -77.0347633,
+          38.8969517
+        ],
+        [
+          -77.0347617,
+          38.8969812
+        ],
+        [
+          -77.034761,
+          38.8970322
+        ],
+        [
+          -77.0347616,
+          38.8970784
+        ],
+        [
+          -77.0347614,
+          38.8971166
+        ],
+        [
+          -77.0347311,
+          38.8971172
+        ],
+        [
+          -77.0347383,
+          38.8973706
+        ],
+        [
+          -77.0347934,
+          38.8973726
+        ],
+        [
+          -77.0347953,
+          38.8974085
+        ],
+        [
+          -77.0347928,
+          38.8974622
+        ],
+        [
+          -77.034833,
+          38.8974627
+        ],
+        [
+          -77.0348334,
+          38.8975156
+        ],
+        [
+          -77.0348336,
+          38.8975849
+        ],
+        [
+          -77.0348338,
+          38.8976588
+        ],
+        [
+          -77.034834,
+          38.8977063
+        ],
+        [
+          -77.0347811,
+          38.8977054
+        ],
+        [
+          -77.0347778,
+          38.8977957
+        ],
+        [
+          -77.0347193,
+          38.8977951
+        ],
+        [
+          -77.0347228,
+          38.8980708
+        ],
+        [
+          -77.0347532,
+          38.8980719
+        ],
+        [
+          -77.0347501,
+          38.8982276
+        ],
+        [
+          -77.0344458,
+          38.8982295
+        ],
+        [
+          -77.0344452,
+          38.8982548
+        ],
+        [
+          -77.0344468,
+          38.8983019
+        ],
+        [
+          -77.03439,
+          38.8983022
+        ],
+        [
+          -77.034305,
+          38.8983026
+        ],
+        [
+          -77.0342083,
+          38.8983028
+        ],
+        [
+          -77.0341457,
+          38.898303
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "relation",
+    "id": 286293,
+    "version": 19,
+    "timestamp": "2026-08-21T23:22:40Z",
+    "url": "https://www.openstreetmap.org/relation/286293"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q7836795",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Us-treasury-building.jpg",
+      "author": "MeanieHyaena",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Us-treasury-building.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Treasury building in Washington DC.jpg",
+      "author": "Runner1928",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Treasury_building_in_Washington_DC.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Treasury Department rear view.JPG",
+      "author": "AgnosticPreachersKid",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Treasury_Department_rear_view.JPG",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Treasury Building in Washington, D.C. 2012.JPG",
+      "author": "Another Believer",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Treasury_Building_in_Washington,_D.C._2012.JPG",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:United States Treasury Washington DC 5383075936 o.jpg",
+      "author": "Tony Webster",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:United_States_Treasury_Washington_DC_5383075936_o.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:White House construction aerial view 2025-12-03 14-15-53.jpg",
+      "author": "G. Edward Johnson",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:White_House_construction_aerial_view_2025-12-03_14-15-53.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/dc-treasury.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Treasury Building — procedural, CC0-1.0, no textures. bun generators/dc-treasury.ts",
+    "Map frame: x east, y north, z up, metres; bearing 0°, the outline's walls running due north–south and east–west. The anchor is the centroid of the OSM outline relation/286293 (lng -77.034315, lat 38.897587). The building is not symmetrical as a whole (Mills's east and centre wings of 1836–42, then Young and Walter's south, west and north wings of 1855–69), so each front is drawn symmetrical about its own axis, at OSM's positions.",
+    "What it is: a granite Greek Revival block round two courtyards. A rusticated basement carries a giant Ionic order three storeys tall, an entablature and a balustrade; low grey hip roofs sit behind. The 15th Street (east) front is the long colonnade of 30 Ionic columns between two pedimented end pavilions; the north, south and west fronts each have an octastyle pedimented portico on a high podium (the south one faces Hamilton Place over the grand steps); the other fronts carry pilasters between the bays. The centre wing rises one storey higher with a long row of windows, the courtyards' corners have low domed skylights.",
+    "Wikidata: Q7836795, the building. (OSM's wikidata tag on the outline, Q648666, is the Department of the Treasury, not the building.)",
+    "Covers and replaces: the outline relation only. The courtyard buildings way/1444818993 and way/1444818994 (untagged infill, no height) are left in the open courtyards and not replaced.",
+    "Evidence",
+    "OSM (measured): relation/286293, 87.1 × 158.1 m including the porticos; main walls at x = 39.6 (east, the colonnade's face), about -36.4 (west), y = 70.6 (north) and -70.0 (south); porticos 26 × 8.5 m north and south and 27 × 8.6 m west; end pavilions on 15th Street 1.7–2.5 m proud; courtyards 37.2 × 42.6 m and 37.0 × 42.0 m. building:levels 5.",
+    "Published: 30 Ionic columns, each 36 ft (11 m) and of one granite block (replacing Aquia sandstone in 1908); the colonnade 350 ft (107 m) long (Wikipedia, \"Treasury Building (Washington, D.C.)\"; Treasury history pages). Granite and painted sandstone, light grey.",
+    "Photos (Wikimedia Commons): \"Us-treasury-building.jpg\" (MeanieHyaena, CC BY 4.0), the north front and roofs from above, with the Monument; \"Treasury building in Washington DC.jpg\" (Runner1928, CC BY-SA 4.0), the south-east corner with the colonnade and end pavilion; \"Treasury Department rear view.JPG\" (AgnosticPreachersKid, CC BY-SA 3.0) and \"Treasury Building in Washington, D.C. 2012.JPG\" (Another Believer, CC BY-SA 3.0), the south portico; \"United States Treasury Washington DC 5383075936 o.jpg\" (Tony Webster, CC BY-SA 3.0), the north portico; \"White House construction aerial view 2025-12-03 14-15-53.jpg\" (G. Edward Johnson, CC BY 4.0), from the south-west and above.",
+    "USGS NAIP orthophoto (public domain): roof plan and colour, the centre wing's raised storey, the four low domes at (-23, 51), (25, 51), (-23, -63) and (25, -63).",
+    "Estimated from the photos against the published 11 m columns: basement 4.6 m, order to 15.6 m, entablature to 18.4 m, balustrade to 19.9 m, pediment apexes 23 m, wing roofs to 23 m, centre wing to 24 m.",
+    "The pediments' roofs are drawn in the stone colour, as their raking cornices read in the photos, so the temple fronts stand out against the grey roofs behind.",
+    "Simplified: the porticos' second rows of columns, the steps' cheek walls, the statues of Hamilton and Gallatin and the window grilles are left out; the west front's low pavilions beside its portico are drawn as wall.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"dc-treasury\", model \"dc-treasury\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/dc-treasury.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 15 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the dc-treasury-glazing finish in the window colour.",
+    "To fit six materials, folded dc-treasury-baluster into dc-treasury-treasury-granite-shade (ΔE 4.3)."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

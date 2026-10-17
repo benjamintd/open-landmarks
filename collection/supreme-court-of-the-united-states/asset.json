@@ -1,0 +1,242 @@
+{
+  "id": "supreme-court-of-the-united-states",
+  "name": "Supreme Court of the United States",
+  "anchor": [
+    -77.0044385,
+    38.8906244
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 134956,
+      "sha256": "f39f5d449c5616789af59edae4641b31fc1e0853259225c390617e38a4e6aa6e"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 134956,
+      "sha256": "f39f5d449c5616789af59edae4641b31fc1e0853259225c390617e38a4e6aa6e"
+    }
+  },
+  "triangles": 2980,
+  "boundsBlenderM": [
+    [
+      -99.05,
+      -47.238,
+      0
+    ],
+    [
+      60.732,
+      47.238,
+      28.05
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -77.0039179,
+          38.891045
+        ],
+        [
+          -77.0039186,
+          38.8907683
+        ],
+        [
+          -77.0037503,
+          38.8907681
+        ],
+        [
+          -77.0037505,
+          38.8906749
+        ],
+        [
+          -77.0037506,
+          38.8906249
+        ],
+        [
+          -77.0037508,
+          38.8905603
+        ],
+        [
+          -77.003751,
+          38.8904795
+        ],
+        [
+          -77.0039161,
+          38.8904797
+        ],
+        [
+          -77.0039168,
+          38.8902022
+        ],
+        [
+          -77.0040194,
+          38.8902024
+        ],
+        [
+          -77.0044155,
+          38.8902029
+        ],
+        [
+          -77.004959,
+          38.8902036
+        ],
+        [
+          -77.0049584,
+          38.890481
+        ],
+        [
+          -77.0051277,
+          38.8904812
+        ],
+        [
+          -77.0051273,
+          38.8906261
+        ],
+        [
+          -77.005127,
+          38.8907683
+        ],
+        [
+          -77.0049607,
+          38.890768
+        ],
+        [
+          -77.0049599,
+          38.8910468
+        ],
+        [
+          -77.0044112,
+          38.8910458
+        ],
+        [
+          -77.0042641,
+          38.8910456
+        ],
+        [
+          -77.0039179,
+          38.891045
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "relation",
+    "id": 286501,
+    "version": 21,
+    "timestamp": "2026-05-15T14:49:55Z",
+    "url": "https://www.openstreetmap.org/relation/286501"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q1579670",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Panorama of United States Supreme Court Building at Dusk.jpg",
+      "author": "Joe Ravi",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Panorama_of_United_States_Supreme_Court_Building_at_Dusk.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:US Supreme Court.JPG",
+      "author": "Photo by Mr. Kjetil Ree.",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:US_Supreme_Court.JPG",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Supreme Court Building-2.jpg",
+      "author": "Smash the Iron Cage",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Supreme_Court_Building-2.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Supreme Court Building Washington DC.jpg",
+      "author": "Mathieu Landretti",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Supreme_Court_Building_Washington_DC.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Supreme Court Building-1.jpg",
+      "author": "Smash the Iron Cage",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Supreme_Court_Building-1.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Supreme Court Building of the United States.JPG",
+      "author": "AgnosticPreachersKid",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Supreme_Court_Building_of_the_United_States.JPG",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Supreme court east facade.jpg",
+      "author": "Jeff Kubina. Original uploader was Simon Dodd at en.wikipedia",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Supreme_court_east_facade.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Aerial view of the Supreme Court, Washington, D.C LCCN2011632816.tif",
+      "author": "Carol M. Highsmith",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_the_Supreme_Court,_Washington,_D.C_LCCN2011632816.tif",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_the_Supreme_Court,_Washington,_D.C_LCCN2011632816.tif",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/dc-supreme-court.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Supreme Court Building, Washington DC — procedural, CC0-1.0, no textures. bun generators/dc-supreme-court.ts",
+    "Map frame: x east, y north, z up, metres. The anchor is the area centroid of the OSM multipolygon relation/286501 (lng -77.0044385, lat 38.8906244); the outline's walls are turned 0.11° clockwise from the compass, so the model is placed at bearing 0.11 and built square.",
+    "What it is: Cass Gilbert's white marble temple of justice (1932–35). A tall central block, a Corinthian temple with a pediment at each end and a long gabled roof between, rises from two lower wings that wrap it to the north and south, each wing round two light courts. The west front faces the Capitol: a deep portico of sixteen columns in two rows of eight under the pediment (\"Equal Justice Under Law\"), reached by a broad flight of steps between two statue pedestals, from a raised oval plaza on First Street. The east front has a shallower portico of eight columns before a windowed wall.",
+    "Covers and replaces: relation/286501 (one outer way, four inner courts). No building:parts inside it. The plaza and the steps stand outside the outline, as they do in reality.",
+    "Evidence",
+    "OSM (measured): outline 119.3 × 93.2 m; central block x ±59.65, y ±15.9; wings x ±45.1 to y ±46.6; light courts x ±13.4–31.4, y ±16.0–33.3. height=28.",
+    "Published (Wikipedia, \"United States Supreme Court Building\"; the Court's architectural information sheets): four storeys, 92 ft (28 m); white Vermont marble outside; the west portico's double row of sixteen columns; bronze doors 17 ft high.",
+    "Photos (Wikimedia Commons): \"Panorama of United States Supreme Court Building at Dusk.jpg\" (Joe Ravi, CC BY-SA 3.0), frontal from the west, used for every height below; \"US Supreme Court.JPG\" (Kjetil Ree, CC BY-SA 3.0) and \"Supreme Court Building-2.jpg\" (Smash the Iron Cage, CC BY-SA 4.0), the portico close; \"Supreme Court Building Washington DC.jpg\" (Mathieu Landretti, CC BY-SA 4.0), \"Supreme Court Building-1.jpg\" (Smash the Iron Cage, CC BY-SA 4.0) and \"Supreme Court Building of the United States.JPG\" (AgnosticPreachersKid, CC BY-SA 4.0), the west front from the south-west and north-west; \"Supreme court east facade.jpg\" (Jeff Kubina, CC BY-SA 2.0), the east portico; \"Aerial view of the Supreme Court, Washington, D.C LCCN2011632816.tif\" (Carol M. Highsmith, public domain), the roofs from the north-west.",
+    "USGS NAIP orthophoto (public domain): the plan of the roofs and courts, the oval plaza, the pale roof colour.",
+    "Measured from the frontal photo against the portico's OSM width (31.8 m): steps from the plaza (1.2 m) to the stylobate at 5.0 m; columns 5.0–19.5 m; entablature to 22.5 m; pediment apex 28 m (OSM); the wings' cornice about 14 m (the frontal photo gives 15.4, the oblique and aerial views 13.5), their roofs to 15.5 m; the statue pedestals to 6.5 m.",
+    "Estimated: the second row of columns 5.8 m behind the first; the east portico's depth; the plaza's outline (from NAIP, x -98 to the wings, y ±40, rounded west corners) and its 1.2 m height; window sizes and rows (one tall panel per bay between pilasters, a small one below); the roof pitch of the wings; the flat-roofed block between each pair of courts at 18.2 m (aerial).",
+    "Simplified: capitals are a flared bell and an abacus; the pediment sculpture, the inscriptions, the seated statues (drawn as plain blocks on their pedestals), lamp standards, flagpoles, fountains and the plaza's balustrade are left out.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"dc-supreme-court\", model \"dc-supreme-court\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/dc-supreme-court.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

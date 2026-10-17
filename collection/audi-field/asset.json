@@ -1,0 +1,240 @@
+{
+  "id": "audi-field",
+  "name": "Audi Field",
+  "anchor": [
+    -77.0126718,
+    38.8683279
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 35232,
+      "sha256": "7806a0d94b2fa8b11179d35e674b43eb92f08c68e93089e98cb86def829a8407"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 35232,
+      "sha256": "7806a0d94b2fa8b11179d35e674b43eb92f08c68e93089e98cb86def829a8407"
+    }
+  },
+  "triangles": 569,
+  "boundsBlenderM": [
+    [
+      -72.8,
+      -101.82,
+      0
+    ],
+    [
+      90.42,
+      94.585,
+      34.5
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -77.0122747,
+          38.8691588
+        ],
+        [
+          -77.0122756,
+          38.8690516
+        ],
+        [
+          -77.0123962,
+          38.8690066
+        ],
+        [
+          -77.0123952,
+          38.8689061
+        ],
+        [
+          -77.0118553,
+          38.8691111
+        ],
+        [
+          -77.0117433,
+          38.8691536
+        ],
+        [
+          -77.0116398,
+          38.8690014
+        ],
+        [
+          -77.0116816,
+          38.8689814
+        ],
+        [
+          -77.0116569,
+          38.8689238
+        ],
+        [
+          -77.0116332,
+          38.8688174
+        ],
+        [
+          -77.0116285,
+          38.8686896
+        ],
+        [
+          -77.0116427,
+          38.8685647
+        ],
+        [
+          -77.0116731,
+          38.8684642
+        ],
+        [
+          -77.0117281,
+          38.8683438
+        ],
+        [
+          -77.0117156,
+          38.8683444
+        ],
+        [
+          -77.0117042,
+          38.8683002
+        ],
+        [
+          -77.0117116,
+          38.8682214
+        ],
+        [
+          -77.0117883,
+          38.8682222
+        ],
+        [
+          -77.0118319,
+          38.86813
+        ],
+        [
+          -77.0119599,
+          38.8678533
+        ],
+        [
+          -77.0119618,
+          38.8677264
+        ],
+        [
+          -77.0120849,
+          38.8677537
+        ],
+        [
+          -77.0121607,
+          38.8676585
+        ],
+        [
+          -77.0123029,
+          38.8675862
+        ],
+        [
+          -77.0123256,
+          38.8675803
+        ],
+        [
+          -77.0123218,
+          38.8674077
+        ],
+        [
+          -77.013512,
+          38.8674077
+        ],
+        [
+          -77.0135092,
+          38.8678135
+        ],
+        [
+          -77.013513,
+          38.8690234
+        ],
+        [
+          -77.0134324,
+          38.8690028
+        ],
+        [
+          -77.013403,
+          38.8690337
+        ],
+        [
+          -77.0134741,
+          38.8690957
+        ],
+        [
+          -77.0133746,
+          38.8691518
+        ],
+        [
+          -77.0132334,
+          38.869185
+        ],
+        [
+          -77.0128241,
+          38.8691879
+        ],
+        [
+          -77.0128023,
+          38.8691592
+        ],
+        [
+          -77.0122747,
+          38.8691588
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "relation",
+    "id": 12361161,
+    "version": 1,
+    "timestamp": "2021-02-25T01:40:21Z",
+    "url": "https://www.openstreetmap.org/relation/12361161"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q5203387",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/dc-audi-field.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Audi Field, Washington (MLS, D.C. United) — procedural, CC0-1.0, no textures. bun generators/dc-audi-field.ts",
+    "Map frame: x east, y north, z up, metres; bearing 0, since the pitch (OSM way/1196917795) runs due north–south. The anchor is the area centroid of the stadium outline (building=stadium relation/12361161, outer way/910656537). z = 0 is the street at the lowest corner, 1 m below the pitch, so the pitch sits at z = 1. The pitch itself is the map's.",
+    "A rectangular stadium of four separate stands, each measured from the DC lidar surface model (Lidar/DSM_2024, 1 m, imagery.dcgis.dc.gov): - East (main) stand: seats from the touchline up to 27 m under a flat white canopy at 29–30 m, 31 m deep, the full length of the pitch. Behind it the 15 m east building (offices, team store) with a 24 m strip, and the 23 m black-framed glass block at the north-east corner. - West stand: seats up to 20 m under a white canopy 19 m deep, tilted up toward the pitch (25 m at the front, 22 m at the back), the stand raised over the street on black raking steel (Farragutful 07–08). - South stand: steep and open, no roof, rising to 20 m, its back on the street carried on exposed black raking steel; a 10 m concourse block in front of it; the \"Audi Field\" sign board (28 m) on top and an A-frame light rig at each end (33.5 m). - North stand: low and open, to 15 m, with the video board on its west half (top 31 m) and two lighter rigs (27 m). So the white canopy covers the two long sides only; the ends are open.",
+    "Seats: charcoal (the stadium's seats are black and dark grey, with red sideline sections and the red-and-white \"D.C. UNITED\" lettering in the south stand). Drawn as broad bands: the lower sideline seats red, the rest charcoal; the lettering is left out. Steel frames and the north-east block's frame are the same charcoal, at the style's floor (#4a4f57).",
+    "Evidence",
+    "OSM: outline relation/12361161 (outer way/910656537), pitch way/1196917795. The north-east glass block stands partly outside the OSM outline (the outline notches round it), so part of it is drawn over unmapped ground.",
+    "Measured: DC lidar DSM 2024 (every height and edge above); USGS NAIP.",
+    "Published: opened 2018, 20,000 seats, Populous (Wikipedia).",
+    "Photos (Wikimedia Commons): Duane Lempke, \"Turner Construction AUDI Field Home of DC United Soccer Team Looking SW\" (CC0, aerial from the north-east); Farragutful, \"Audi Field DC 01–09\" (CC BY-SA 4.0, the exterior from the east, south and corners); David, \"Audi Field DC United\" (CC BY 2.0, the south stand); GregMcCollum, \"Audi Field, August 8, 2026\" (CC0, interior); Rainclaw7, \"Audi Field June 25th\" (CC BY-SA 4.0, interior). Estimated: the facade banding (glass heights) from the photos; the rigs' shape; the north-west corner seating.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"dc-audi-field\", model \"dc-audi-field\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/dc-audi-field.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 225 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the dc-audi-field-glazing finish in the window colour.",
+    "To fit six materials, folded stone into trim (ΔE 4.8)."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

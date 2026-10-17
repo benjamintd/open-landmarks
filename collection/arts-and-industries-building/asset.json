@@ -1,0 +1,447 @@
+{
+  "id": "arts-and-industries-building",
+  "name": "Arts and Industries Building",
+  "anchor": [
+    -77.0244787,
+    38.8881823
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 158408,
+      "sha256": "64e7bdeb921329a385929ed167ceb8074c5152a10455fde762d75f8044369bdf"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 158408,
+      "sha256": "64e7bdeb921329a385929ed167ceb8074c5152a10455fde762d75f8044369bdf"
+    }
+  },
+  "triangles": 3460,
+  "boundsBlenderM": [
+    [
+      -51.65,
+      -51.65,
+      0
+    ],
+    [
+      51.65,
+      51.65,
+      31.5
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -77.0246041,
+          38.8886384
+        ],
+        [
+          -77.0245451,
+          38.8886385
+        ],
+        [
+          -77.0244798,
+          38.8886383
+        ],
+        [
+          -77.0244184,
+          38.8886377
+        ],
+        [
+          -77.0244026,
+          38.8886376
+        ],
+        [
+          -77.024358,
+          38.8886373
+        ],
+        [
+          -77.0243576,
+          38.8885982
+        ],
+        [
+          -77.0240505,
+          38.8885987
+        ],
+        [
+          -77.0240505,
+          38.8886353
+        ],
+        [
+          -77.0238977,
+          38.8886356
+        ],
+        [
+          -77.0238972,
+          38.8886274
+        ],
+        [
+          -77.0238973,
+          38.8885171
+        ],
+        [
+          -77.023943,
+          38.8885172
+        ],
+        [
+          -77.0239432,
+          38.8882919
+        ],
+        [
+          -77.0239432,
+          38.8882782
+        ],
+        [
+          -77.0238995,
+          38.8882783
+        ],
+        [
+          -77.0238995,
+          38.8882701
+        ],
+        [
+          -77.0238994,
+          38.8882334
+        ],
+        [
+          -77.0239002,
+          38.8881997
+        ],
+        [
+          -77.023901,
+          38.8881768
+        ],
+        [
+          -77.0239005,
+          38.8881343
+        ],
+        [
+          -77.023898,
+          38.8880881
+        ],
+        [
+          -77.0239448,
+          38.8880879
+        ],
+        [
+          -77.023944,
+          38.8878472
+        ],
+        [
+          -77.0238986,
+          38.8878465
+        ],
+        [
+          -77.0238986,
+          38.8877291
+        ],
+        [
+          -77.0240494,
+          38.8877296
+        ],
+        [
+          -77.0240499,
+          38.8877645
+        ],
+        [
+          -77.0243569,
+          38.8877634
+        ],
+        [
+          -77.0243561,
+          38.8877302
+        ],
+        [
+          -77.0244154,
+          38.8877293
+        ],
+        [
+          -77.0244784,
+          38.8877295
+        ],
+        [
+          -77.0245438,
+          38.8877291
+        ],
+        [
+          -77.0246028,
+          38.887729
+        ],
+        [
+          -77.0246029,
+          38.8877625
+        ],
+        [
+          -77.0249046,
+          38.8877625
+        ],
+        [
+          -77.0249051,
+          38.8877286
+        ],
+        [
+          -77.0250599,
+          38.8877282
+        ],
+        [
+          -77.025058,
+          38.8878333
+        ],
+        [
+          -77.0250577,
+          38.8878479
+        ],
+        [
+          -77.0250114,
+          38.8878482
+        ],
+        [
+          -77.0250129,
+          38.8880882
+        ],
+        [
+          -77.0250591,
+          38.8880882
+        ],
+        [
+          -77.0250592,
+          38.888133
+        ],
+        [
+          -77.0250585,
+          38.8881783
+        ],
+        [
+          -77.0250591,
+          38.8882317
+        ],
+        [
+          -77.0250592,
+          38.8882739
+        ],
+        [
+          -77.0250109,
+          38.888274
+        ],
+        [
+          -77.025011,
+          38.8885172
+        ],
+        [
+          -77.0250595,
+          38.8885167
+        ],
+        [
+          -77.0250598,
+          38.8886215
+        ],
+        [
+          -77.0250587,
+          38.8886326
+        ],
+        [
+          -77.0249057,
+          38.8886351
+        ],
+        [
+          -77.0249057,
+          38.8886019
+        ],
+        [
+          -77.0246032,
+          38.8886018
+        ],
+        [
+          -77.0246041,
+          38.8886384
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 42341486,
+    "version": 30,
+    "timestamp": "2026-09-11T18:23:45Z",
+    "url": "https://www.openstreetmap.org/way/42341486"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 453547702,
+      "version": 3,
+      "timestamp": "2021-02-19T14:00:30Z",
+      "url": "https://www.openstreetmap.org/way/453547702"
+    },
+    {
+      "type": "way",
+      "id": 453547703,
+      "version": 6,
+      "timestamp": "2025-06-08T15:42:36Z",
+      "url": "https://www.openstreetmap.org/way/453547703"
+    },
+    {
+      "type": "way",
+      "id": 453547704,
+      "version": 5,
+      "timestamp": "2021-02-21T07:10:55Z",
+      "url": "https://www.openstreetmap.org/way/453547704"
+    },
+    {
+      "type": "way",
+      "id": 453547705,
+      "version": 3,
+      "timestamp": "2021-02-19T14:00:30Z",
+      "url": "https://www.openstreetmap.org/way/453547705"
+    },
+    {
+      "type": "way",
+      "id": 453547706,
+      "version": 5,
+      "timestamp": "2021-07-24T23:03:01Z",
+      "url": "https://www.openstreetmap.org/way/453547706"
+    },
+    {
+      "type": "way",
+      "id": 453547707,
+      "version": 4,
+      "timestamp": "2025-04-10T18:47:13Z",
+      "url": "https://www.openstreetmap.org/way/453547707"
+    },
+    {
+      "type": "way",
+      "id": 908820585,
+      "version": 1,
+      "timestamp": "2021-02-19T15:30:42Z",
+      "url": "https://www.openstreetmap.org/way/908820585"
+    },
+    {
+      "type": "way",
+      "id": 908820586,
+      "version": 1,
+      "timestamp": "2021-02-19T15:30:42Z",
+      "url": "https://www.openstreetmap.org/way/908820586"
+    },
+    {
+      "type": "way",
+      "id": 908820587,
+      "version": 2,
+      "timestamp": "2021-02-21T06:14:49Z",
+      "url": "https://www.openstreetmap.org/way/908820587"
+    },
+    {
+      "type": "way",
+      "id": 908820588,
+      "version": 1,
+      "timestamp": "2021-02-19T15:30:42Z",
+      "url": "https://www.openstreetmap.org/way/908820588"
+    },
+    {
+      "type": "way",
+      "id": 908820589,
+      "version": 1,
+      "timestamp": "2021-02-19T15:30:42Z",
+      "url": "https://www.openstreetmap.org/way/908820589"
+    },
+    {
+      "type": "way",
+      "id": 908820590,
+      "version": 1,
+      "timestamp": "2021-02-19T15:30:42Z",
+      "url": "https://www.openstreetmap.org/way/908820590"
+    },
+    {
+      "type": "way",
+      "id": 908820591,
+      "version": 1,
+      "timestamp": "2021-02-19T15:30:42Z",
+      "url": "https://www.openstreetmap.org/way/908820591"
+    },
+    {
+      "type": "way",
+      "id": 908820592,
+      "version": 1,
+      "timestamp": "2021-02-19T15:30:42Z",
+      "url": "https://www.openstreetmap.org/way/908820592"
+    }
+  ],
+  "wikidata": "Q713932",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Arts & Industries Building, south facade.jpg",
+      "author": "AgnosticPreachersKid",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Arts_%26_Industries_Building,_south_facade.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Arts & Industries Building, facing SE.jpg",
+      "author": "AgnosticPreachersKid",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Arts_%26_Industries_Building,_facing_SE.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Arts And Industries Building Flowers.jpg",
+      "author": "Joeyp3413",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Arts_And_Industries_Building_Flowers.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Smithsonian Arts and Industries Building with Carolina silverbell.jpg",
+      "author": "Sdkb",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Smithsonian_Arts_and_Industries_Building_with_Carolina_silverbell.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/dc-arts-and-industries.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Arts and Industries Building — procedural, CC0-1.0, no textures. bun generators/dc-arts-and-industries.ts",
+    "Map frame: x east, y north, z up, metres; bearing 0°, the outline's walls running due north–south and east–west. The anchor is the area centroid of the OSM outline way/42341486 (lng -77.0244787, lat 38.8881823), which is also the plan's centre: the building is symmetrical about both axes and is drawn that way.",
+    "What it is: Cluss and Schulze's National Museum (1879–81), a 100 m square in polychrome red brick with buff and blue bands. A Greek cross of tall gabled halls meets at a sixteen-sided rotunda with a clerestory, a low cone and a lantern; the four quadrants between the arms are lower halls lit by roof monitors. On the outside, one tall storey of ranges with big round-arched windows runs between four three-storey corner pavilions (hipped roofs, a cupola) and four entrance pavilions, one on each front, each a gabled centre block with its arched window and white stone porch between two square towers with steep slate spires. The rotunda, the eight spired towers and the gabled entrance fronts are the identity.",
+    "Covers and replaces: the outline way/42341486 (tagged with the National Museum of the American Latino, which the building now houses), and every building:part inside it: the four corner pavilions (way/453547702–705, h 8), the cross of halls (way/453547706, h 10, gabled), the rotunda (way/453547707, h 14, cone) and the eight entrance towers (way/908820585–592, h 10). OSM's heights are all too low and are not used.",
+    "Evidence",
+    "OSM (measured): outline 100.8 × 100.6 m; ranges' wall line 46.4 m from the centre; corner pavilions 13.2 m square at the corners; entrance fronts 21.4 m wide out to the outline, their towers 5.0 m square; the cross of halls 20.8 m wide; the rotunda's circle about 22 m across.",
+    "Published (Wikipedia, \"Arts and Industries Building\"; NRHP nomination): Greek cross with a central rotunda, four corner pavilions about 40 ft square and three storeys, lower ranges between, clerestories and skylights over iron trusses, polychrome brick.",
+    "Photos: HABS DC-298 (Jack E. Boucher, 1975, public domain, Wikimedia Commons): \"AERIAL VIEW FROM SOUTHWEST\" (two frames), \"SOUTH ELEVATION, VIEW CONCENTRATING ON INDEPENDENCE AVENUE ENTRANCE\", \"VIEW OF ROTUNDA FROM SOUTHWEST\"; \"Arts & Industries Building, south facade.jpg\" and \"Arts & Industries Building, facing SE.jpg\" (AgnosticPreachersKid, CC BY-SA 3.0, 2008); \"Arts And Industries Building Flowers.jpg\" (Joeyp3413, CC BY-SA 3.0, 2014), a corner pavilion; \"Smithsonian Arts and Industries Building with Carolina silverbell.jpg\" (Sdkb, CC BY-SA 4.0, 2024).",
+    "Estimated from the photos, scaled by the OSM widths (no measured drawings found): ranges 9.5 m to the cornice; corner pavilions 14 m, hip to 17 m, cupola to 21 m; entrance towers' shafts 16 m and spires to 25.5 m; entrance gables 13 m at the eaves, 17.5 m at the apex; the halls' clerestory walls 12.2 m, ridges 15.6 m; rotunda drum 23 m, cone to 26.2 m, lantern to 31.5 m.",
+    "Simplified: the black and blue brick courses are left out (too thin to read); the buff friezes under the cornices are kept as broad bands; the quadrants' many monitors are four; the spires' dormers, finials and the sculpture over the north door are left out.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"dc-arts-and-industries\", model \"dc-arts-and-industries\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/dc-arts-and-industries.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

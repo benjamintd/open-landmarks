@@ -1,0 +1,223 @@
+{
+  "id": "washington-monument",
+  "anchor": [
+    -77.0352425,
+    38.8894753
+  ],
+  "coordinateSystem": "Local metres about the anchor (equirectangular, WGS84 radius): X east, Y north, Z up. glTF export: X east, Y up, Z south. Heading already baked.",
+  "license": "ODbL-1.0",
+  "footprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          8.491354094282517,
+          4.597494969702839
+        ],
+        [
+          8.526012682829535,
+          -4.5863630204934225
+        ],
+        [
+          8.543341977103047,
+          -8.560468842378668
+        ],
+        [
+          -8.500018742034932,
+          -8.504809096331586
+        ],
+        [
+          -8.55200662485546,
+          8.504809096331586
+        ],
+        [
+          8.47402480000901,
+          8.54933689316925
+        ],
+        [
+          8.491354094282517,
+          4.597494969702839
+        ]
+      ]
+    ]
+  },
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -77.0351445,
+          38.8895166
+        ],
+        [
+          -77.0351441,
+          38.8894341
+        ],
+        [
+          -77.0351439,
+          38.8893984
+        ],
+        [
+          -77.0353406,
+          38.8893989
+        ],
+        [
+          -77.0353412,
+          38.8895517
+        ],
+        [
+          -77.0351447,
+          38.8895521
+        ],
+        [
+          -77.0351445,
+          38.8895166
+        ]
+      ]
+    ]
+  },
+  "parts": [
+    {
+      "osm": "way/766761337",
+      "tags": {
+        "access": "yes",
+        "addr:city": "Washington",
+        "addr:housenumber": "2",
+        "addr:postcode": "20024",
+        "addr:state": "DC",
+        "addr:street": "15th Street Northwest",
+        "building": "civic",
+        "building:material": "stone",
+        "charge:conditional": "USD 1 @ (online; phone)",
+        "check_date": "2025-11-04",
+        "description": "Square base about 55ft per side; height 555ft 5⅛in.",
+        "fee": "yes",
+        "fee:conditional": "yes @ (online; phone)",
+        "gnis:feature_id": "2828977",
+        "height": "169.294",
+        "historic": "monument",
+        "inscription": "Laus Deo",
+        "man_made": "obelisk",
+        "mapillary": "169019195017241",
+        "material": "marble;granite",
+        "name": "Washington Monument",
+        "name:br": "Monumant Washington",
+        "name:en": "Washington Monument",
+        "name:hr": "Washingtononov obelisk",
+        "name:pt": "Monumento a Washington",
+        "name:vi": "Tượng đài Washington",
+        "note": "Interior access with timed-entry tickets",
+        "opening_hours:description": "Timed-entry tickets required. Availability varies by date",
+        "operator": "National Park Service",
+        "operator:wikidata": "Q308439",
+        "reservation": "yes",
+        "roof:colour": "white",
+        "roof:height": "16.76",
+        "roof:shape": "pyramidal",
+        "start_date": "1884-12-06",
+        "stone": "marble;granite",
+        "subject:wikidata": "Q23",
+        "tourism": "attraction",
+        "website": "https://www.nps.gov/wamo/index.htm",
+        "wheelchair": "yes",
+        "wheelchair:description": "Elevator access to observation level when open;security screening and timed-entry tickets required",
+        "wikidata": "Q178114",
+        "wikimedia_commons": "File:Washington_Monument_2022.jpg",
+        "wikipedia": "en:Washington Monument",
+        "windows": "no"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8.491354094282517,
+              4.597494969702839
+            ],
+            [
+              8.526012682829535,
+              -4.5863630204934225
+            ],
+            [
+              8.543341977103047,
+              -8.560468842378668
+            ],
+            [
+              -8.500018742034932,
+              -8.504809096331586
+            ],
+            [
+              -8.55200662485546,
+              8.504809096331586
+            ],
+            [
+              8.47402480000901,
+              8.54933689316925
+            ],
+            [
+              8.491354094282517,
+              4.597494969702839
+            ]
+          ]
+        ]
+      },
+      "version": 28,
+      "timestamp": "2026-03-28T18:36:36Z"
+    }
+  ],
+  "osm": {
+    "type": "way",
+    "id": 766761337,
+    "version": 28,
+    "timestamp": "2026-03-28T18:36:36Z",
+    "url": "https://www.openstreetmap.org/way/766761337"
+  },
+  "additionalOsm": [],
+  "tags": {
+    "access": "yes",
+    "addr:city": "Washington",
+    "addr:housenumber": "2",
+    "addr:postcode": "20024",
+    "addr:state": "DC",
+    "addr:street": "15th Street Northwest",
+    "building": "civic",
+    "building:material": "stone",
+    "charge:conditional": "USD 1 @ (online; phone)",
+    "check_date": "2025-11-04",
+    "description": "Square base about 55ft per side; height 555ft 5⅛in.",
+    "fee": "yes",
+    "fee:conditional": "yes @ (online; phone)",
+    "gnis:feature_id": "2828977",
+    "height": "169.294",
+    "historic": "monument",
+    "inscription": "Laus Deo",
+    "man_made": "obelisk",
+    "mapillary": "169019195017241",
+    "material": "marble;granite",
+    "name": "Washington Monument",
+    "name:br": "Monumant Washington",
+    "name:en": "Washington Monument",
+    "name:hr": "Washingtononov obelisk",
+    "name:pt": "Monumento a Washington",
+    "name:vi": "Tượng đài Washington",
+    "note": "Interior access with timed-entry tickets",
+    "opening_hours:description": "Timed-entry tickets required. Availability varies by date",
+    "operator": "National Park Service",
+    "operator:wikidata": "Q308439",
+    "reservation": "yes",
+    "roof:colour": "white",
+    "roof:height": "16.76",
+    "roof:shape": "pyramidal",
+    "start_date": "1884-12-06",
+    "stone": "marble;granite",
+    "subject:wikidata": "Q23",
+    "tourism": "attraction",
+    "website": "https://www.nps.gov/wamo/index.htm",
+    "wheelchair": "yes",
+    "wheelchair:description": "Elevator access to observation level when open;security screening and timed-entry tickets required",
+    "wikidata": "Q178114",
+    "wikimedia_commons": "File:Washington_Monument_2022.jpg",
+    "wikipedia": "en:Washington Monument",
+    "windows": "no"
+  }
+}

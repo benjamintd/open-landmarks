@@ -1,0 +1,551 @@
+{
+  "id": "the-pentagon",
+  "name": "The Pentagon",
+  "anchor": [
+    -77.0559549,
+    38.8710072
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 13,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 182384,
+      "sha256": "c3da5f02fd5f5b31e2ea304b86a86a88e096a34816a73dc4c5874440bb8d7a23"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 182384,
+      "sha256": "c3da5f02fd5f5b31e2ea304b86a86a88e096a34816a73dc4c5874440bb8d7a23"
+    }
+  },
+  "triangles": 3912,
+  "boundsBlenderM": [
+    [
+      -215.178,
+      -237.221,
+      0
+    ],
+    [
+      236.044,
+      211.761,
+      24
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -77.0584431,
+          38.8700424
+        ],
+        [
+          -77.058295,
+          38.8706841
+        ],
+        [
+          -77.0583278,
+          38.8706884
+        ],
+        [
+          -77.0582129,
+          38.8711832
+        ],
+        [
+          -77.0580511,
+          38.8719142
+        ],
+        [
+          -77.0580288,
+          38.8719122
+        ],
+        [
+          -77.0579095,
+          38.8724322
+        ],
+        [
+          -77.0578852,
+          38.8725515
+        ],
+        [
+          -77.0570546,
+          38.8726418
+        ],
+        [
+          -77.0570582,
+          38.8726608
+        ],
+        [
+          -77.0570488,
+          38.8726619
+        ],
+        [
+          -77.0569789,
+          38.8726701
+        ],
+        [
+          -77.0565463,
+          38.872721
+        ],
+        [
+          -77.0565573,
+          38.8727774
+        ],
+        [
+          -77.0565594,
+          38.8727882
+        ],
+        [
+          -77.056446,
+          38.8728015
+        ],
+        [
+          -77.0562807,
+          38.8728209
+        ],
+        [
+          -77.0561384,
+          38.8728378
+        ],
+        [
+          -77.0560366,
+          38.8728499
+        ],
+        [
+          -77.0560343,
+          38.8728383
+        ],
+        [
+          -77.0560238,
+          38.8727843
+        ],
+        [
+          -77.0555939,
+          38.8728352
+        ],
+        [
+          -77.0555145,
+          38.8728446
+        ],
+        [
+          -77.0554857,
+          38.872848
+        ],
+        [
+          -77.0554817,
+          38.8728275
+        ],
+        [
+          -77.0546652,
+          38.8729108
+        ],
+        [
+          -77.0545859,
+          38.8727849
+        ],
+        [
+          -77.054303,
+          38.8723291
+        ],
+        [
+          -77.0542786,
+          38.8723376
+        ],
+        [
+          -77.0542665,
+          38.8723191
+        ],
+        [
+          -77.0540495,
+          38.871968
+        ],
+        [
+          -77.0539816,
+          38.8719963
+        ],
+        [
+          -77.0539766,
+          38.8719987
+        ],
+        [
+          -77.0538616,
+          38.8718226
+        ],
+        [
+          -77.0537309,
+          38.8716151
+        ],
+        [
+          -77.0538107,
+          38.8715871
+        ],
+        [
+          -77.0536401,
+          38.8713334
+        ],
+        [
+          -77.0535998,
+          38.8713498
+        ],
+        [
+          -77.0535405,
+          38.8712532
+        ],
+        [
+          -77.0535805,
+          38.8712364
+        ],
+        [
+          -77.053568,
+          38.8712162
+        ],
+        [
+          -77.0535883,
+          38.8712071
+        ],
+        [
+          -77.0535805,
+          38.871193
+        ],
+        [
+          -77.0532453,
+          38.8706325
+        ],
+        [
+          -77.0532601,
+          38.8706206
+        ],
+        [
+          -77.0534971,
+          38.8704359
+        ],
+        [
+          -77.0539357,
+          38.8701019
+        ],
+        [
+          -77.0539136,
+          38.8700834
+        ],
+        [
+          -77.0540415,
+          38.8699782
+        ],
+        [
+          -77.0543907,
+          38.8697162
+        ],
+        [
+          -77.054727,
+          38.8694639
+        ],
+        [
+          -77.0548597,
+          38.8693642
+        ],
+        [
+          -77.0548876,
+          38.8693858
+        ],
+        [
+          -77.0550438,
+          38.8692591
+        ],
+        [
+          -77.0550638,
+          38.8692467
+        ],
+        [
+          -77.0555701,
+          38.8688635
+        ],
+        [
+          -77.0558919,
+          38.8690028
+        ],
+        [
+          -77.0559074,
+          38.8690089
+        ],
+        [
+          -77.0559694,
+          38.8690335
+        ],
+        [
+          -77.0560238,
+          38.8690551
+        ],
+        [
+          -77.0560349,
+          38.8690595
+        ],
+        [
+          -77.0563068,
+          38.8691626
+        ],
+        [
+          -77.0563206,
+          38.8691423
+        ],
+        [
+          -77.0564021,
+          38.8691761
+        ],
+        [
+          -77.0576384,
+          38.869695
+        ],
+        [
+          -77.0577169,
+          38.8697245
+        ],
+        [
+          -77.0577247,
+          38.8697293
+        ],
+        [
+          -77.0577193,
+          38.8697366
+        ],
+        [
+          -77.0584431,
+          38.8700424
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "relation",
+    "id": 89605,
+    "version": 65,
+    "timestamp": "2025-04-17T11:38:42Z",
+    "url": "https://www.openstreetmap.org/relation/89605"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 547369905,
+      "version": 6,
+      "timestamp": "2022-02-17T20:39:43Z",
+      "url": "https://www.openstreetmap.org/way/547369905"
+    },
+    {
+      "type": "way",
+      "id": 548360860,
+      "version": 5,
+      "timestamp": "2022-12-03T22:49:38Z",
+      "url": "https://www.openstreetmap.org/way/548360860"
+    },
+    {
+      "type": "way",
+      "id": 548362651,
+      "version": 3,
+      "timestamp": "2022-02-17T20:39:43Z",
+      "url": "https://www.openstreetmap.org/way/548362651"
+    },
+    {
+      "type": "way",
+      "id": 548362652,
+      "version": 3,
+      "timestamp": "2022-02-17T20:39:43Z",
+      "url": "https://www.openstreetmap.org/way/548362652"
+    },
+    {
+      "type": "way",
+      "id": 548362653,
+      "version": 4,
+      "timestamp": "2023-10-11T17:34:36Z",
+      "url": "https://www.openstreetmap.org/way/548362653"
+    },
+    {
+      "type": "way",
+      "id": 548364631,
+      "version": 4,
+      "timestamp": "2022-02-17T20:39:43Z",
+      "url": "https://www.openstreetmap.org/way/548364631"
+    },
+    {
+      "type": "way",
+      "id": 548364632,
+      "version": 3,
+      "timestamp": "2022-02-17T20:39:43Z",
+      "url": "https://www.openstreetmap.org/way/548364632"
+    },
+    {
+      "type": "way",
+      "id": 548364633,
+      "version": 4,
+      "timestamp": "2022-02-17T20:39:43Z",
+      "url": "https://www.openstreetmap.org/way/548364633"
+    },
+    {
+      "type": "way",
+      "id": 548365378,
+      "version": 3,
+      "timestamp": "2022-02-17T20:39:43Z",
+      "url": "https://www.openstreetmap.org/way/548365378"
+    },
+    {
+      "type": "way",
+      "id": 548365379,
+      "version": 4,
+      "timestamp": "2023-10-11T17:34:36Z",
+      "url": "https://www.openstreetmap.org/way/548365379"
+    },
+    {
+      "type": "way",
+      "id": 548366946,
+      "version": 4,
+      "timestamp": "2022-02-17T20:39:43Z",
+      "url": "https://www.openstreetmap.org/way/548366946"
+    },
+    {
+      "type": "way",
+      "id": 548366947,
+      "version": 3,
+      "timestamp": "2022-02-17T20:39:43Z",
+      "url": "https://www.openstreetmap.org/way/548366947"
+    },
+    {
+      "type": "way",
+      "id": 548366948,
+      "version": 3,
+      "timestamp": "2022-02-17T20:39:43Z",
+      "url": "https://www.openstreetmap.org/way/548366948"
+    },
+    {
+      "type": "way",
+      "id": 548366949,
+      "version": 3,
+      "timestamp": "2022-02-17T20:39:43Z",
+      "url": "https://www.openstreetmap.org/way/548366949"
+    },
+    {
+      "type": "way",
+      "id": 548366950,
+      "version": 3,
+      "timestamp": "2022-02-17T20:39:43Z",
+      "url": "https://www.openstreetmap.org/way/548366950"
+    },
+    {
+      "type": "way",
+      "id": 548366951,
+      "version": 3,
+      "timestamp": "2022-02-17T20:39:43Z",
+      "url": "https://www.openstreetmap.org/way/548366951"
+    },
+    {
+      "type": "way",
+      "id": 548367399,
+      "version": 4,
+      "timestamp": "2023-10-11T17:34:36Z",
+      "url": "https://www.openstreetmap.org/way/548367399"
+    },
+    {
+      "type": "way",
+      "id": 548367400,
+      "version": 4,
+      "timestamp": "2023-10-11T17:34:36Z",
+      "url": "https://www.openstreetmap.org/way/548367400"
+    },
+    {
+      "type": "way",
+      "id": 548367401,
+      "version": 3,
+      "timestamp": "2022-02-17T20:39:43Z",
+      "url": "https://www.openstreetmap.org/way/548367401"
+    },
+    {
+      "type": "way",
+      "id": 548367402,
+      "version": 3,
+      "timestamp": "2022-02-17T20:39:43Z",
+      "url": "https://www.openstreetmap.org/way/548367402"
+    }
+  ],
+  "wikidata": "Q11208",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:The Pentagon US Department of Defense building.jpg",
+      "author": "\"DoD photo by Master Sgt. Ken Hammond, U.S. Air Force.\"",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:The_Pentagon_US_Department_of_Defense_building.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:The_Pentagon_US_Department_of_Defense_building.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:The Pentagon January 2008.jpg",
+      "author": "David B. Gleason from Chicago, IL",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:The_Pentagon_January_2008.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Pentagon aerial 2011 - USACE-p15141coll5-515.jpeg",
+      "author": "Aber, Marilyn K.",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Pentagon_aerial_2011_-_USACE-p15141coll5-515.jpeg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Pentagon_aerial_2011_-_USACE-p15141coll5-515.jpeg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Arlington - Pentagon from Air.jpg",
+      "author": "roger4336",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Arlington_-_Pentagon_from_Air.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Arlington - Pentagon from the Air.jpg",
+      "author": "roger4336",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Arlington_-_Pentagon_from_the_Air.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/dc-pentagon.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "The Pentagon, Arlington, Virginia — procedural, CC0-1.0, no textures. bun generators/dc-pentagon.ts",
+    "Map frame: x east, y north, z up, metres. The anchor is the area centroid of the OSM outline (relation/89605, outer way/8821713): lng -77.0559549, lat 38.8710072, which is also the centre of the fitted pentagon to a metre. The model is built with one face looking due north (side 0); the real building has a corner at bearing 27.9° (fitted over its five corners), so the north face really looks to 351.9° and the model is placed at bearing 351.9.",
+    "What it is: the War Department's headquarters of 1941–43 (Bergstrom and Edwin), five concentric pentagonal rings, A (inside) to E (outside), five storeys high, separated by four open light wells and tied together by ten radial corridors, two to a face, round a five-acre pentagonal court. Indiana limestone outside; long low slate roofs over the E and A rings and the corridors; flat roofs over B, C and D, edged with slate slopes down to the eaves along every well. From above, what identifies it is the pale frame of E ring, A ring and corridors, the four dark wells between the rings, bent round every corner, and the open court.",
+    "Evidence",
+    "OSM (measured), relation/89605: the outer way and 42 inner ways, fitted in each face's own frame (u along the face, v the distance from the centre). Corners at 238–241 m from the centre, so a regular pentagon of circumradius 239.2 m (apothem 193.4). Each face's middle 136 m stands 2.6 m forward (v 196), and the north and north-east faces carry an entrance block 46 m wide reaching v 202.5. The court's face is at v 74.5. The light wells sit at v 92.5–101.2, 116.5–128.3, 144.2–152.5 and 168.2–176.7 on all five faces to within a metre. In the middle of a face all four wells run u −53 … 53; beyond the corridors (|u| 53–68) the outer three bend round the corner into the next face, and the innermost is built over. OSM tags height 23; its building:parts give the E ring, A ring and corridors 2 m gabled roofs over 23 m.",
+    "Published (Wikipedia, \"The Pentagon\"): 921 ft (281 m) a side, 77 ft (23.5 m) high, five floors above ground, a five-acre central plaza; Indiana limestone facades; the River Entrance on the north-east face with a portico projecting 20 ft (6 m); the Mall Entrance on the north face.",
+    "Photos (Wikimedia Commons): \"The Pentagon US Department of Defense building.jpg\" (Master Sgt. Ken Hammond, USAF, public domain), from the south-west; \"The Pentagon January 2008.jpg\" (David B. Gleason, CC BY-SA 2.0), the River Entrance face from the north-east; \"US Navy 030926-F-2828D-062 ... river entrance ...jpg\" (US Navy, public domain); \"Pentagon aerial 2011 - USACE-p15141coll5-515.jpeg\" (Marilyn K. Aber, USACE, public domain), from the north-east; \"Arlington - Pentagon from Air.jpg\" and \"Arlington - Pentagon from the Air.jpg\" (roger4336, CC BY-SA 2.0), the light wells from the north-east.",
+    "USGS NAIP orthophoto (public domain): the roof plan — pale gabled E ring, A ring and corridors, flat grey B–D rings, dark wells bent round the corners, the innermost well absent at the corners.",
+    "Estimated from the photos against the 23.5 m height: five rows of windows to 19.5 m under a plain attic and cornice to 21.5 m; the slate ridges at 24 m; the middle of each face's parapet a little higher; the River and Mall porticos' ten columns on a one-storey podium; the three- column recesses at each end of every face's middle section and the recessed colonnade in the middle of the other three faces (seen on the south-west and south-east faces; assumed on the west face).",
+    "Drawn coarser than real: the window grid is grouped into broad slate panels, three bays wide, one storey / two storeys / two storeys high; the small bridges across the middle of some wells, the roof plant, the corner stair towers, the court's café and the ground-floor loading docks are left out. The wells are drawn dark (walls and floor), which is how they read from above; their window walls are not drawn.",
+    "Colours: limestone is the palette's stone; the slate and the flat roofs are pulled to the pale greys they show in the orthophoto (older aerials show the flat roofs tan, before the 1998–2011 renovation); the wells are a dark grey, not black, per STYLE.md's charcoal limit.",
+    "The site falls about 9 m across the Pentagon reservation; y = 0 is the lowest ground and the walls run to it all round.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"dc-pentagon\", model \"dc-pentagon\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/dc-pentagon.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

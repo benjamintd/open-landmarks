@@ -1,0 +1,654 @@
+{
+  "id": "national-museum-of-the-american-indian",
+  "name": "National Museum of the American Indian",
+  "anchor": [
+    -77.0166689,
+    38.8882445
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 173912,
+      "sha256": "b26fb0786dfcadcb5d88d08406ea78fc151c052e05c55f461a32fdccf85731f9"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 173912,
+      "sha256": "b26fb0786dfcadcb5d88d08406ea78fc151c052e05c55f461a32fdccf85731f9"
+    }
+  },
+  "triangles": 5405,
+  "boundsBlenderM": [
+    [
+      -49.425,
+      -42.724,
+      0
+    ],
+    [
+      66.65,
+      30.365,
+      42.6
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -77.0169641,
+          38.8884796
+        ],
+        [
+          -77.0169311,
+          38.8884843
+        ],
+        [
+          -77.0168934,
+          38.8884798
+        ],
+        [
+          -77.0168726,
+          38.8884718
+        ],
+        [
+          -77.0168379,
+          38.888482
+        ],
+        [
+          -77.016797,
+          38.8884838
+        ],
+        [
+          -77.01677,
+          38.8884778
+        ],
+        [
+          -77.0167293,
+          38.8884857
+        ],
+        [
+          -77.0166885,
+          38.8884852
+        ],
+        [
+          -77.0166538,
+          38.8884782
+        ],
+        [
+          -77.0166188,
+          38.8884873
+        ],
+        [
+          -77.0165745,
+          38.8884856
+        ],
+        [
+          -77.0165374,
+          38.8884767
+        ],
+        [
+          -77.0164829,
+          38.8884853
+        ],
+        [
+          -77.0164358,
+          38.8884918
+        ],
+        [
+          -77.0163745,
+          38.8884904
+        ],
+        [
+          -77.0163252,
+          38.8884881
+        ],
+        [
+          -77.0161854,
+          38.8884815
+        ],
+        [
+          -77.0161632,
+          38.8884805
+        ],
+        [
+          -77.0161409,
+          38.888478
+        ],
+        [
+          -77.0161199,
+          38.8884757
+        ],
+        [
+          -77.0160821,
+          38.8884617
+        ],
+        [
+          -77.0160464,
+          38.8884461
+        ],
+        [
+          -77.0160404,
+          38.8884436
+        ],
+        [
+          -77.0160029,
+          38.8884203
+        ],
+        [
+          -77.0159654,
+          38.8883823
+        ],
+        [
+          -77.0159573,
+          38.8883717
+        ],
+        [
+          -77.0159289,
+          38.8883347
+        ],
+        [
+          -77.015909,
+          38.8882978
+        ],
+        [
+          -77.0158996,
+          38.8882627
+        ],
+        [
+          -77.0158994,
+          38.8882407
+        ],
+        [
+          -77.015902,
+          38.8882297
+        ],
+        [
+          -77.015908,
+          38.8882235
+        ],
+        [
+          -77.0159112,
+          38.8882202
+        ],
+        [
+          -77.0159257,
+          38.888213
+        ],
+        [
+          -77.0159795,
+          38.888198
+        ],
+        [
+          -77.0160439,
+          38.8881853
+        ],
+        [
+          -77.0160717,
+          38.8881789
+        ],
+        [
+          -77.0160805,
+          38.8881697
+        ],
+        [
+          -77.0161064,
+          38.8881596
+        ],
+        [
+          -77.0161349,
+          38.8881555
+        ],
+        [
+          -77.016165,
+          38.8881558
+        ],
+        [
+          -77.0162049,
+          38.8881566
+        ],
+        [
+          -77.0162521,
+          38.8881475
+        ],
+        [
+          -77.0162769,
+          38.8881294
+        ],
+        [
+          -77.016307,
+          38.888108
+        ],
+        [
+          -77.0163402,
+          38.8880934
+        ],
+        [
+          -77.0163598,
+          38.8880882
+        ],
+        [
+          -77.0163865,
+          38.888085
+        ],
+        [
+          -77.0164228,
+          38.8880834
+        ],
+        [
+          -77.016464,
+          38.8880835
+        ],
+        [
+          -77.0164958,
+          38.8880777
+        ],
+        [
+          -77.016518,
+          38.8880685
+        ],
+        [
+          -77.0165269,
+          38.8880595
+        ],
+        [
+          -77.0165462,
+          38.8880472
+        ],
+        [
+          -77.0165655,
+          38.8880347
+        ],
+        [
+          -77.0165901,
+          38.8880263
+        ],
+        [
+          -77.016622,
+          38.8880227
+        ],
+        [
+          -77.0166474,
+          38.8880193
+        ],
+        [
+          -77.0166622,
+          38.8880147
+        ],
+        [
+          -77.016677,
+          38.8880101
+        ],
+        [
+          -77.0167122,
+          38.8879974
+        ],
+        [
+          -77.0167346,
+          38.8879874
+        ],
+        [
+          -77.0167474,
+          38.8879817
+        ],
+        [
+          -77.0167702,
+          38.8879726
+        ],
+        [
+          -77.0167913,
+          38.8879692
+        ],
+        [
+          -77.0168085,
+          38.8879683
+        ],
+        [
+          -77.0168332,
+          38.8879671
+        ],
+        [
+          -77.0168667,
+          38.8879598
+        ],
+        [
+          -77.0168959,
+          38.8879461
+        ],
+        [
+          -77.0169184,
+          38.8879342
+        ],
+        [
+          -77.0169438,
+          38.8879256
+        ],
+        [
+          -77.0169757,
+          38.8879191
+        ],
+        [
+          -77.017032,
+          38.8879099
+        ],
+        [
+          -77.0170867,
+          38.8878956
+        ],
+        [
+          -77.0171165,
+          38.8878872
+        ],
+        [
+          -77.017141,
+          38.8878778
+        ],
+        [
+          -77.0171614,
+          38.8878679
+        ],
+        [
+          -77.0171785,
+          38.8878653
+        ],
+        [
+          -77.017198,
+          38.8878679
+        ],
+        [
+          -77.0172127,
+          38.8878763
+        ],
+        [
+          -77.0172214,
+          38.8878901
+        ],
+        [
+          -77.0172224,
+          38.8879086
+        ],
+        [
+          -77.0172194,
+          38.8879313
+        ],
+        [
+          -77.0172124,
+          38.8879572
+        ],
+        [
+          -77.0172097,
+          38.8879911
+        ],
+        [
+          -77.0172121,
+          38.8880146
+        ],
+        [
+          -77.0172184,
+          38.8880407
+        ],
+        [
+          -77.0172221,
+          38.8880665
+        ],
+        [
+          -77.0172204,
+          38.8880918
+        ],
+        [
+          -77.0172107,
+          38.8881148
+        ],
+        [
+          -77.0172113,
+          38.8881393
+        ],
+        [
+          -77.017219,
+          38.8881555
+        ],
+        [
+          -77.0172211,
+          38.8881808
+        ],
+        [
+          -77.017219,
+          38.8882006
+        ],
+        [
+          -77.017214,
+          38.8882157
+        ],
+        [
+          -77.0172162,
+          38.8882419
+        ],
+        [
+          -77.017213,
+          38.888264
+        ],
+        [
+          -77.01722,
+          38.8882892
+        ],
+        [
+          -77.017219,
+          38.8883161
+        ],
+        [
+          -77.0172139,
+          38.8883354
+        ],
+        [
+          -77.017219,
+          38.8883586
+        ],
+        [
+          -77.0172176,
+          38.8883886
+        ],
+        [
+          -77.0172096,
+          38.8884108
+        ],
+        [
+          -77.0171958,
+          38.8884309
+        ],
+        [
+          -77.0171914,
+          38.888438
+        ],
+        [
+          -77.0171845,
+          38.8884492
+        ],
+        [
+          -77.0171786,
+          38.8884551
+        ],
+        [
+          -77.0171698,
+          38.8884618
+        ],
+        [
+          -77.0171698,
+          38.8884802
+        ],
+        [
+          -77.0171682,
+          38.8884853
+        ],
+        [
+          -77.0171663,
+          38.8884911
+        ],
+        [
+          -77.0171546,
+          38.8884998
+        ],
+        [
+          -77.0171389,
+          38.8885039
+        ],
+        [
+          -77.0171075,
+          38.8884991
+        ],
+        [
+          -77.0170812,
+          38.8884955
+        ],
+        [
+          -77.0170557,
+          38.8884921
+        ],
+        [
+          -77.0170365,
+          38.8884806
+        ],
+        [
+          -77.0170033,
+          38.8884784
+        ],
+        [
+          -77.0169641,
+          38.8884796
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 66418605,
+    "version": 18,
+    "timestamp": "2024-12-19T20:09:59Z",
+    "url": "https://www.openstreetmap.org/way/66418605"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 427843981,
+      "version": 4,
+      "timestamp": "2021-02-12T11:32:12Z",
+      "url": "https://www.openstreetmap.org/way/427843981"
+    },
+    {
+      "type": "way",
+      "id": 427843980,
+      "version": 2,
+      "timestamp": "2021-02-12T11:17:49Z",
+      "url": "https://www.openstreetmap.org/way/427843980"
+    },
+    {
+      "type": "way",
+      "id": 427843967,
+      "version": 2,
+      "timestamp": "2021-02-12T11:17:49Z",
+      "url": "https://www.openstreetmap.org/way/427843967"
+    },
+    {
+      "type": "way",
+      "id": 427843969,
+      "version": 4,
+      "timestamp": "2021-02-12T11:38:52Z",
+      "url": "https://www.openstreetmap.org/way/427843969"
+    },
+    {
+      "type": "way",
+      "id": 427843974,
+      "version": 1,
+      "timestamp": "2016-06-28T18:14:23Z",
+      "url": "https://www.openstreetmap.org/way/427843974"
+    },
+    {
+      "type": "way",
+      "id": 427843966,
+      "version": 1,
+      "timestamp": "2016-06-28T18:14:23Z",
+      "url": "https://www.openstreetmap.org/way/427843966"
+    },
+    {
+      "type": "way",
+      "id": 427843978,
+      "version": 1,
+      "timestamp": "2016-06-28T18:14:23Z",
+      "url": "https://www.openstreetmap.org/way/427843978"
+    }
+  ],
+  "wikidata": "Q1075141",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:National Museum of the American Indian, Washington, D.C LCCN2011630892.jpg",
+      "author": "Carol M. Highsmith",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:National_Museum_of_the_American_Indian,_Washington,_D.C_LCCN2011630892.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:National_Museum_of_the_American_Indian,_Washington,_D.C_LCCN2011630892.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:National Museum of the American Indian, April 2019.jpg",
+      "author": "Thomson200",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:National_Museum_of_the_American_Indian,_April_2019.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:National Museum of the American Indian 3.jpg",
+      "author": "Kurt Kaiser",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:National_Museum_of_the_American_Indian_3.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:National Museum of the American Indian, Washington, DC.jpg",
+      "author": "O Palsson",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:National_Museum_of_the_American_Indian,_Washington,_DC.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/dc-american-indian.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "National Museum of the American Indian (Smithsonian) — procedural, CC0-1.0, no textures. bun generators/dc-american-indian.ts",
+    "Map frame: x east, y north, z up, metres; origin at the area centroid of the OSM outline (way/66418605). The plan is drawn from OSM's own coordinates, so the model is placed at bearing 0.",
+    "Modelled: the curvilinear mass in golden Kasota limestone, built up as broad horizontal strata, each leaning out a little and stepping back at its foot, and each waving in and out along the wall, so the walls read as wind-carved rock; the dark window ribbon under the top and the deep overhanging cornice above it; the east entrance block, its curving stone ledges stacked with glass ribbons between them, under the great cantilevered lid; the recessed glass ground storey at the east entrance; the stepped dome of the Potomac atrium with its glazed oculus; and the two low rooftop blocks.",
+    "Evidence:",
+    "OSM: way/66418605 (outline, height 42 incl. the dome); building parts way/427843981 (the main mass, to 36 m), 427843980 (the east block, 6–34 m), 427843967 (its north-east lobe, 6–32 m), 427843969 (the cantilevered lid, tagged 24–30 m; drawn 28.5–34 m, since the photos show it as the topmost element at the east end, flush with the block), 427843974 (the dome, r 15.6, 36–42 m), 427843966 and 427843978 (rooftop blocks, 36–39 m). Below 6 m at the east no part is mapped: that is the open, glazed entrance under the ledges.",
+    "Published: Wikipedia \"National Museum of the American Indian\" (Douglas Cardinal / GBQC with Johnpaul Jones, opened 2004; five storeys; clad in Kasota limestone from Minnesota, meant to evoke stratified rock carved by wind and water; east entrance facing the rising sun; the Potomac atrium under a 120 ft dome with an oculus).",
+    "Photos (Wikimedia Commons): \"Smithsonian National Museum of the American Indian, on the National Mall, Washington, D.C LCCN2011633096 / 097 / 098 / 100 / 101 / 102.tif\" and \"National Museum of the American Indian, Washington, D.C LCCN2011630892.jpg\" (Carol M. Highsmith, public domain: the east entrance and its lid, the north and south walls, the window ribbon under the cornice); \"National Museum of the American Indian, April 2019.jpg\" (Thomson200, CC0, south-east, the walls' lean); \"National Museum of the American Indian 3.jpg\" (Kurt Kaiser, CC0, south-west); \"National Museum of the American Indian, Washington, DC.jpg\" (O Palsson, CC BY 2.0, the lid's edge).",
+    "USGS NAIP orthophoto (public domain): the roof, the stepped rings of the dome and the oculus, the wavy cornice.",
+    "Heights are OSM's. Measured from the photos (to a metre): the window ribbon at 30–32 m, the cornice's overhang (about 1.5 m), the east block's three ledges and glass ribbons. Estimated: the strata's lean and wave (drawn larger than the real stone courses, which are too fine to see at map scale, so that they read as the bands they make from a distance), the dome's step count. Not modelled: the \"eyelid\" window recesses on the north, south and west walls (shallow and small at map scale), the landscape, the water features and boulders, the lettering.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"dc-american-indian\", model \"dc-american-indian\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/dc-american-indian.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 3636 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the dc-american-indian-glazing finish in the window colour."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

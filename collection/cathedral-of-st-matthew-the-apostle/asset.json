@@ -1,0 +1,290 @@
+{
+  "id": "cathedral-of-st-matthew-the-apostle",
+  "name": "Cathedral of St. Matthew the Apostle",
+  "anchor": [
+    -77.0402483,
+    38.9063933
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 63924,
+      "sha256": "0297c0c22d37bb27ef09b747000c46e1d7a9fe8e15337d474e887c8680706ec6"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 63924,
+      "sha256": "0297c0c22d37bb27ef09b747000c46e1d7a9fe8e15337d474e887c8680706ec6"
+    }
+  },
+  "triangles": 1284,
+  "boundsBlenderM": [
+    [
+      -30.45,
+      -31.268,
+      0
+    ],
+    [
+      26.926,
+      29.19,
+      61
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -77.0400845,
+          38.9066529
+        ],
+        [
+          -77.0400863,
+          38.9066563
+        ],
+        [
+          -77.0402624,
+          38.9065966
+        ],
+        [
+          -77.0402701,
+          38.9066102
+        ],
+        [
+          -77.0404886,
+          38.9065351
+        ],
+        [
+          -77.0405072,
+          38.9065678
+        ],
+        [
+          -77.0405994,
+          38.9065361
+        ],
+        [
+          -77.0405409,
+          38.9064331
+        ],
+        [
+          -77.0405477,
+          38.9064308
+        ],
+        [
+          -77.0404584,
+          38.9062754
+        ],
+        [
+          -77.0404519,
+          38.9062776
+        ],
+        [
+          -77.0403794,
+          38.906152
+        ],
+        [
+          -77.0403811,
+          38.9061475
+        ],
+        [
+          -77.040365,
+          38.9061192
+        ],
+        [
+          -77.0403481,
+          38.9061127
+        ],
+        [
+          -77.0403094,
+          38.9061261
+        ],
+        [
+          -77.0403033,
+          38.9061411
+        ],
+        [
+          -77.0402603,
+          38.9061563
+        ],
+        [
+          -77.04025,
+          38.9061387
+        ],
+        [
+          -77.040037,
+          38.9062126
+        ],
+        [
+          -77.0400501,
+          38.9062352
+        ],
+        [
+          -77.0400037,
+          38.9062514
+        ],
+        [
+          -77.0399999,
+          38.9062449
+        ],
+        [
+          -77.0399813,
+          38.9062377
+        ],
+        [
+          -77.0399472,
+          38.9062495
+        ],
+        [
+          -77.0399398,
+          38.9062649
+        ],
+        [
+          -77.0399562,
+          38.906297
+        ],
+        [
+          -77.0399666,
+          38.9062995
+        ],
+        [
+          -77.0399676,
+          38.9063013
+        ],
+        [
+          -77.0400358,
+          38.9064203
+        ],
+        [
+          -77.0400261,
+          38.9064237
+        ],
+        [
+          -77.0400353,
+          38.9064397
+        ],
+        [
+          -77.0400149,
+          38.9064468
+        ],
+        [
+          -77.0399812,
+          38.9064588
+        ],
+        [
+          -77.0399797,
+          38.9064593
+        ],
+        [
+          -77.0399565,
+          38.9064673
+        ],
+        [
+          -77.040031,
+          38.9065978
+        ],
+        [
+          -77.0400329,
+          38.9066012
+        ],
+        [
+          -77.0400369,
+          38.9066082
+        ],
+        [
+          -77.0400556,
+          38.9066018
+        ],
+        [
+          -77.0400845,
+          38.9066529
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 55327016,
+    "version": 13,
+    "timestamp": "2024-09-23T03:34:52Z",
+    "url": "https://www.openstreetmap.org/way/55327016"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q603535",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Cathedral of St Matthew the Apostle.JPG",
+      "author": "D Monack",
+      "license": "CC BY-SA 3.0 us",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/us/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Cathedral_of_St_Matthew_the_Apostle.JPG",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Cathedral of St. Matthew the Apostle (Washington, D.C.) - facade.jpg",
+      "author": "APK",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Cathedral_of_St._Matthew_the_Apostle_(Washington,_D.C.)_-_facade.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:2013 Cathedral of St. Matthew the Apostle.JPG",
+      "author": "Farragutful",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:2013_Cathedral_of_St._Matthew_the_Apostle.JPG",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Cathedral of St. Matthew the Apostle - Washington, DC - DSC07678.jpg",
+      "author": "Daderot",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Cathedral_of_St._Matthew_the_Apostle_-_Washington,_DC_-_DSC07678.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Cathedral_of_St._Matthew_the_Apostle_-_Washington,_DC_-_DSC07678.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/dc-st-matthews.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Cathedral of St. Matthew the Apostle — procedural, CC0-1.0, no textures. bun generators/dc-st-matthews.ts",
+    "Map frame: x across the church, y along its axis towards the altar, z up, metres. The front faces Rhode Island Avenue at 156°, so the axis runs 336° and that is the placement bearing. The anchor is the area centroid of the OSM outline way/55327016 (lng -77.0402483, lat 38.9063933).",
+    "What it is: C. Grant La Farge's Romanesque Revival cathedral (1893–1913) in red brick over a brownstone base, a Latin cross under grey slate. The identity: the tall plain gabled front with its dentilled pediment, three small round-headed windows, the mosaic lunette and the brownstone portico of three doors; and over the crossing a square brick base carrying an octagonal drum, three round-arched windows to a face, under a ribbed copper dome and a green copper lantern.",
+    "Covers and replaces the outline way/55327016. OSM maps no parts.",
+    "Evidence",
+    "OSM (measured): outline 48 × 52 m, a squarish blob that takes in the aisles, transepts, sacristies and two small round chapels at the front corners; the front at y −25.7, 20.2 m wide.",
+    "USGS NAIP orthophoto (public domain), turned to the frame: nave x −11.3…8.3; crossing square to y 13.5; octagonal drum about 23 m across with the dome r 9.6 centred (−1.3, 4.0); west transept to x −21.6, east transept to x 26.4; choir to y 22.8; slate roofs.",
+    "Published (Wikipedia, \"Cathedral of St. Matthew the Apostle\"): a Latin cross 155 × 136 ft (47 × 41 m); the dome rises 190 ft (58 m), the cupola and cross bring it to 200 ft (61 m).",
+    "USGS 3DEP ground: 19.0 m at the front, 21.9 m at the back, so y = 0 is 19.0 m and the north walls run 3 m into the slope.",
+    "Photos (Wikimedia Commons): \"Cathedral of St Matthew the Apostle.JPG\" (D Monack, CC BY-SA 3.0 US; from the south-west, the main source of the dome's proportions); \"Cathedral of St. Matthew the Apostle (Washington, D.C.) - facade.jpg\" and \"… (Washington, D.C.).jpg\" (APK, CC BY-SA 4.0; the front); \"2013 Cathedral of St. Matthew the Apostle.JPG\" (Farragutful, CC BY-SA 3.0; from the south-east); \"Cathedral of St. Matthew the Apostle - Washington, DC - DSC07678.jpg\" (Daderot, public domain; drum and dome close up).",
+    "Read off the photos (estimated): front cornice 22 m, pediment apex 28.6 m; nave and transept eaves 21.5 m, ridges 28 m (transepts hipped, 27 m); aisles 10.5 m. The crossing square stops at the eaves under a hipped slate skirt, so the octagonal drum (29–41 m, windows 33–39 m) sits just above the ridges, as the street photos show; dome r 9.9 m rising 9.5 m to 51.5 m; lantern to 57 m; the cross to 61 m (published). The front's height is scaled from the frontal photo's width-to-height ratio (about 1:1.4 to the apex, corrected for the upward view). Doubt: Wikipedia's \"190 ft above the nave\" is ambiguous; the lantern and cross take up what the photos leave above the dome.",
+    "Simplified: the mosaic lunette, dentils, brownstone string courses and the lantern's openings are left out; the sacristies are plain blocks.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"dc-st-matthews\", model \"dc-st-matthews\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/dc-st-matthews.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

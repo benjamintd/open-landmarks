@@ -1,0 +1,190 @@
+{
+  "id": "arlington-house-the-robert-e-lee-memorial",
+  "name": "Arlington House, The Robert E. Lee Memorial",
+  "anchor": [
+    -77.0726362,
+    38.8811764
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 52388,
+      "sha256": "37c5d9bd6aa0db813e441e2e2cd776b833fa9cdf912e39546dd2ceaf1645753e"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 52388,
+      "sha256": "37c5d9bd6aa0db813e441e2e2cd776b833fa9cdf912e39546dd2ceaf1645753e"
+    }
+  },
+  "triangles": 1230,
+  "boundsBlenderM": [
+    [
+      -5.782,
+      -21.557,
+      0
+    ],
+    [
+      15.705,
+      21.581,
+      13.5
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -77.0725583,
+          38.8810906
+        ],
+        [
+          -77.0725586,
+          38.8809824
+        ],
+        [
+          -77.0726979,
+          38.8809799
+        ],
+        [
+          -77.0726989,
+          38.881063
+        ],
+        [
+          -77.0727143,
+          38.881063
+        ],
+        [
+          -77.0727151,
+          38.8810856
+        ],
+        [
+          -77.0727223,
+          38.8810858
+        ],
+        [
+          -77.0727223,
+          38.8812698
+        ],
+        [
+          -77.0727139,
+          38.8812695
+        ],
+        [
+          -77.0727137,
+          38.881289
+        ],
+        [
+          -77.0727002,
+          38.8812894
+        ],
+        [
+          -77.0727003,
+          38.8813724
+        ],
+        [
+          -77.0725623,
+          38.8813731
+        ],
+        [
+          -77.0725605,
+          38.881262
+        ],
+        [
+          -77.0725594,
+          38.8811776
+        ],
+        [
+          -77.0725583,
+          38.8810906
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 41279883,
+    "version": 8,
+    "timestamp": "2026-04-17T18:03:44Z",
+    "url": "https://www.openstreetmap.org/way/41279883"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 1500304896,
+      "version": 1,
+      "timestamp": "2026-04-17T18:03:44Z",
+      "url": "https://www.openstreetmap.org/way/1500304896"
+    }
+  ],
+  "wikidata": "Q675702",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Arlington House (The Robert E. Lee Memorial) ARHO6035.jpg",
+      "author": "National Park Service Digital Image Archives",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Arlington_House_(The_Robert_E._Lee_Memorial)_ARHO6035.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Arlington_House_(The_Robert_E._Lee_Memorial)_ARHO6035.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Arlington House from SE corner.jpg",
+      "author": "Billkoplitz",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Arlington_House_from_SE_corner.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Robert E. Lee house.JPG",
+      "author": "Hendricks, stephanie",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Robert_E._Lee_house.JPG",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/dc-arlington-house.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Arlington House, The Robert E. Lee Memorial — procedural, CC0-1.0, no textures. bun generators/dc-arlington-house.ts",
+    "Map frame: x east, y north, z up, metres. The anchor is the area centroid of the OSM outline way/41279883 (lng -77.0726362, lat 38.8811764). The outline's long east front runs 0.5° west of north, so the model is placed at bearing 359.5 and built square. The portico faces east, toward the city across the river.",
+    "What it is: George Hadfield's Greek Revival mansion for George Washington Parke Custis, 1803–18, on the hilltop above Arlington National Cemetery. A two-storey centre block under a single low gable whose east end is the pediment of a deep portico of eight massive unfluted Doric columns (six across the front, one more behind each end), and a one-storey wing either side, its front flush with the block, three tall arched windows in arched recesses, a balustrade round a low slate roof. Walls of brick under stucco scored and painted as buff ashlar; the columns painted as marble.",
+    "Covers and replaces: the outline way/41279883 (centre block and wings) and way/1500304896 (the portico). The two slave quarters to the west (way/41279884, way/41279885) are separate buildings and are left alone.",
+    "Evidence",
+    "HABS VA-443 (Historic American Buildings Survey, 1940–41, D. F. Ciango, public domain; Wikimedia Commons \"Arlington House, Lee Drive, ... HABS VA,7-ARL,1- (sheet 2–6 of 18)\"): measured plans and elevations. The front 139 ft 8 in (42.6 m): centre block 59 ft 6 in (18.1 m), wings 39 ft 11 in and 40 ft 3 in (12.2 m); the block 12.2 m deep, the wings 35 ft 9½ in (10.9 m); the portico's column centres 54 ft 2 in (16.5 m) apart in bays of 10 ft 10¾ in and 10 ft 9½ in, the front row 22 ft 10½ in (7.0 m) out from the wall, the second pair 9 ft 5½ in. Read off the east elevation against its scale bar: portico floor 0.8 m, columns to 7.5 m, entablature to 9.2 m, pediment apex 13.5 m; wing cornice 5.5 m and balustrade 6.3 m; chimneys to 12.9 m, flush with the block's side walls 4.4 and 7.0 m back from the front. The north and west elevations: one gable over block and portico (a pediment with a lunette at the west end too), the wings' low hipped slate roofs inside the balustrade.",
+    "OSM (measured): the outline 43.5 m north–south and the portico way, which ends on the front columns' centres (13.8 m). OSM splits block and wings at 25 m / 9.2 m and makes the block 14.2 m deep; the HABS drawings are followed instead, so the model sits up to 2 m inside the outline at the back.",
+    "Published (Wikipedia, \"Arlington House, The Robert E. Lee Memorial\"; NPS): a front 140 ft long; eight portico columns 5 ft (1.5 m) across.",
+    "Photos (Wikimedia Commons): \"Arlington House front view.JPG\" (public domain), the east front; \"Arlington House (The Robert E. Lee Memorial) ARHO6035.jpg\" (National Park Service, public domain), the east front square on; \"Arlington House from SE corner.jpg\" (Billkoplitz, CC BY-SA 3.0), the portico in depth and the south wing; \"Robert E. Lee house.JPG\" (Stephanie Hendricks, CC BY-SA 3.0), the pediment from the foot of the hill. Colours from these: buff-pink stucco, cream columns and tympanum, dark grey roofs.",
+    "USGS NAIP orthophoto (public domain): one gable, ridge east–west, over block and portico; the column row; the wings' low roofs.",
+    "Estimated: the wings' hip height inside the balustrade (6.7 m); the wings' chimney positions in depth.",
+    "Simplified: the triglyph frieze, the marbling, the balusters (a plain parapet), the shutters (drawn as the window panel), the steps (one), the basement windows, the west porches and the conservatory's glazed arcade (drawn as the wing's arched windows) are left out.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"dc-arlington-house\", model \"dc-arlington-house\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/dc-arlington-house.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

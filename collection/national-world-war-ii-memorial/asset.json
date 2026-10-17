@@ -1,0 +1,598 @@
+{
+  "id": "national-world-war-ii-memorial",
+  "name": "National World War II Memorial",
+  "anchor": [
+    -77.0405074,
+    38.8893982
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 243444,
+      "sha256": "9d9b6131d4f236849034ad41b1be3b5ba96a4bbe1e6180e898e7701a5283f70c"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 243444,
+      "sha256": "9d9b6131d4f236849034ad41b1be3b5ba96a4bbe1e6180e898e7701a5283f70c"
+    }
+  },
+  "triangles": 5801,
+  "boundsBlenderM": [
+    [
+      -45.37,
+      -57.83,
+      0
+    ],
+    [
+      68.7,
+      58.7,
+      13
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -77.0405705,
+          38.8899248
+        ],
+        [
+          -77.0405704,
+          38.8899203
+        ],
+        [
+          -77.0405702,
+          38.8899145
+        ],
+        [
+          -77.0405698,
+          38.8898968
+        ],
+        [
+          -77.0405694,
+          38.8898813
+        ],
+        [
+          -77.0405692,
+          38.8898739
+        ],
+        [
+          -77.040569,
+          38.8898648
+        ],
+        [
+          -77.040546,
+          38.8898651
+        ],
+        [
+          -77.0405263,
+          38.8898654
+        ],
+        [
+          -77.0405065,
+          38.8898657
+        ],
+        [
+          -77.040487,
+          38.889866
+        ],
+        [
+          -77.0404872,
+          38.8898747
+        ],
+        [
+          -77.0404874,
+          38.8898824
+        ],
+        [
+          -77.0404878,
+          38.8898984
+        ],
+        [
+          -77.0404882,
+          38.8899157
+        ],
+        [
+          -77.0404884,
+          38.8899211
+        ],
+        [
+          -77.0404885,
+          38.889926
+        ],
+        [
+          -77.040527,
+          38.8899259
+        ],
+        [
+          -77.0405705,
+          38.8899248
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 574904167,
+    "version": 7,
+    "timestamp": "2026-03-14T00:31:26Z",
+    "url": "https://www.openstreetmap.org/way/574904167"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 894587413,
+      "version": 3,
+      "timestamp": "2026-03-14T00:31:26Z",
+      "url": "https://www.openstreetmap.org/way/894587413"
+    },
+    {
+      "type": "way",
+      "id": 894587414,
+      "version": 3,
+      "timestamp": "2021-01-14T05:46:55Z",
+      "url": "https://www.openstreetmap.org/way/894587414"
+    },
+    {
+      "type": "way",
+      "id": 894587415,
+      "version": 2,
+      "timestamp": "2021-01-12T14:37:53Z",
+      "url": "https://www.openstreetmap.org/way/894587415"
+    },
+    {
+      "type": "way",
+      "id": 894587416,
+      "version": 3,
+      "timestamp": "2021-01-14T05:46:55Z",
+      "url": "https://www.openstreetmap.org/way/894587416"
+    },
+    {
+      "type": "way",
+      "id": 894587417,
+      "version": 3,
+      "timestamp": "2026-03-14T00:42:04Z",
+      "url": "https://www.openstreetmap.org/way/894587417"
+    },
+    {
+      "type": "way",
+      "id": 894587418,
+      "version": 2,
+      "timestamp": "2021-01-12T14:37:53Z",
+      "url": "https://www.openstreetmap.org/way/894587418"
+    },
+    {
+      "type": "way",
+      "id": 894587419,
+      "version": 2,
+      "timestamp": "2021-01-12T14:37:53Z",
+      "url": "https://www.openstreetmap.org/way/894587419"
+    },
+    {
+      "type": "way",
+      "id": 894587420,
+      "version": 2,
+      "timestamp": "2021-01-12T14:37:53Z",
+      "url": "https://www.openstreetmap.org/way/894587420"
+    },
+    {
+      "type": "way",
+      "id": 894587421,
+      "version": 2,
+      "timestamp": "2021-01-12T14:37:53Z",
+      "url": "https://www.openstreetmap.org/way/894587421"
+    },
+    {
+      "type": "way",
+      "id": 894587422,
+      "version": 2,
+      "timestamp": "2021-01-12T14:37:53Z",
+      "url": "https://www.openstreetmap.org/way/894587422"
+    },
+    {
+      "type": "way",
+      "id": 894587423,
+      "version": 2,
+      "timestamp": "2021-01-12T14:37:53Z",
+      "url": "https://www.openstreetmap.org/way/894587423"
+    },
+    {
+      "type": "way",
+      "id": 894587424,
+      "version": 3,
+      "timestamp": "2026-03-14T00:42:04Z",
+      "url": "https://www.openstreetmap.org/way/894587424"
+    },
+    {
+      "type": "way",
+      "id": 894587425,
+      "version": 2,
+      "timestamp": "2021-01-12T14:37:53Z",
+      "url": "https://www.openstreetmap.org/way/894587425"
+    },
+    {
+      "type": "way",
+      "id": 894587426,
+      "version": 2,
+      "timestamp": "2021-01-12T14:37:53Z",
+      "url": "https://www.openstreetmap.org/way/894587426"
+    },
+    {
+      "type": "way",
+      "id": 894587427,
+      "version": 2,
+      "timestamp": "2021-01-12T14:39:55Z",
+      "url": "https://www.openstreetmap.org/way/894587427"
+    },
+    {
+      "type": "way",
+      "id": 894587428,
+      "version": 3,
+      "timestamp": "2024-06-06T23:30:26Z",
+      "url": "https://www.openstreetmap.org/way/894587428"
+    },
+    {
+      "type": "way",
+      "id": 894587431,
+      "version": 2,
+      "timestamp": "2021-01-12T14:37:53Z",
+      "url": "https://www.openstreetmap.org/way/894587431"
+    },
+    {
+      "type": "way",
+      "id": 894587432,
+      "version": 2,
+      "timestamp": "2021-01-12T14:37:53Z",
+      "url": "https://www.openstreetmap.org/way/894587432"
+    },
+    {
+      "type": "way",
+      "id": 894587433,
+      "version": 2,
+      "timestamp": "2021-01-12T14:37:53Z",
+      "url": "https://www.openstreetmap.org/way/894587433"
+    },
+    {
+      "type": "way",
+      "id": 894587434,
+      "version": 2,
+      "timestamp": "2021-01-12T14:37:53Z",
+      "url": "https://www.openstreetmap.org/way/894587434"
+    },
+    {
+      "type": "way",
+      "id": 894587435,
+      "version": 2,
+      "timestamp": "2021-01-12T14:37:53Z",
+      "url": "https://www.openstreetmap.org/way/894587435"
+    },
+    {
+      "type": "way",
+      "id": 894587436,
+      "version": 2,
+      "timestamp": "2021-01-12T14:37:53Z",
+      "url": "https://www.openstreetmap.org/way/894587436"
+    },
+    {
+      "type": "way",
+      "id": 894587437,
+      "version": 2,
+      "timestamp": "2021-01-12T14:37:53Z",
+      "url": "https://www.openstreetmap.org/way/894587437"
+    },
+    {
+      "type": "way",
+      "id": 894587438,
+      "version": 2,
+      "timestamp": "2021-01-12T14:37:53Z",
+      "url": "https://www.openstreetmap.org/way/894587438"
+    },
+    {
+      "type": "way",
+      "id": 894587439,
+      "version": 2,
+      "timestamp": "2021-01-12T14:37:53Z",
+      "url": "https://www.openstreetmap.org/way/894587439"
+    },
+    {
+      "type": "way",
+      "id": 894587440,
+      "version": 2,
+      "timestamp": "2021-01-12T14:37:53Z",
+      "url": "https://www.openstreetmap.org/way/894587440"
+    },
+    {
+      "type": "way",
+      "id": 894587441,
+      "version": 3,
+      "timestamp": "2026-03-14T00:42:04Z",
+      "url": "https://www.openstreetmap.org/way/894587441"
+    },
+    {
+      "type": "way",
+      "id": 894587442,
+      "version": 2,
+      "timestamp": "2021-01-12T14:37:53Z",
+      "url": "https://www.openstreetmap.org/way/894587442"
+    },
+    {
+      "type": "way",
+      "id": 894587443,
+      "version": 2,
+      "timestamp": "2021-01-12T14:37:53Z",
+      "url": "https://www.openstreetmap.org/way/894587443"
+    },
+    {
+      "type": "way",
+      "id": 894587444,
+      "version": 2,
+      "timestamp": "2021-01-12T14:37:53Z",
+      "url": "https://www.openstreetmap.org/way/894587444"
+    },
+    {
+      "type": "way",
+      "id": 894587445,
+      "version": 3,
+      "timestamp": "2021-02-07T18:37:23Z",
+      "url": "https://www.openstreetmap.org/way/894587445"
+    },
+    {
+      "type": "way",
+      "id": 894587447,
+      "version": 2,
+      "timestamp": "2021-01-12T14:37:53Z",
+      "url": "https://www.openstreetmap.org/way/894587447"
+    },
+    {
+      "type": "way",
+      "id": 894587448,
+      "version": 2,
+      "timestamp": "2021-01-12T14:37:53Z",
+      "url": "https://www.openstreetmap.org/way/894587448"
+    },
+    {
+      "type": "way",
+      "id": 894587449,
+      "version": 2,
+      "timestamp": "2021-01-12T14:37:53Z",
+      "url": "https://www.openstreetmap.org/way/894587449"
+    },
+    {
+      "type": "way",
+      "id": 894587450,
+      "version": 2,
+      "timestamp": "2021-01-12T14:37:53Z",
+      "url": "https://www.openstreetmap.org/way/894587450"
+    },
+    {
+      "type": "way",
+      "id": 894587451,
+      "version": 2,
+      "timestamp": "2021-01-12T14:37:53Z",
+      "url": "https://www.openstreetmap.org/way/894587451"
+    },
+    {
+      "type": "way",
+      "id": 894587452,
+      "version": 2,
+      "timestamp": "2021-01-12T14:37:53Z",
+      "url": "https://www.openstreetmap.org/way/894587452"
+    },
+    {
+      "type": "way",
+      "id": 894587453,
+      "version": 2,
+      "timestamp": "2021-01-12T14:37:53Z",
+      "url": "https://www.openstreetmap.org/way/894587453"
+    },
+    {
+      "type": "way",
+      "id": 894587454,
+      "version": 2,
+      "timestamp": "2021-01-12T14:37:53Z",
+      "url": "https://www.openstreetmap.org/way/894587454"
+    },
+    {
+      "type": "way",
+      "id": 894587455,
+      "version": 2,
+      "timestamp": "2021-01-12T14:37:53Z",
+      "url": "https://www.openstreetmap.org/way/894587455"
+    },
+    {
+      "type": "way",
+      "id": 894587456,
+      "version": 2,
+      "timestamp": "2021-01-12T14:37:53Z",
+      "url": "https://www.openstreetmap.org/way/894587456"
+    },
+    {
+      "type": "way",
+      "id": 894587457,
+      "version": 2,
+      "timestamp": "2021-01-12T14:37:53Z",
+      "url": "https://www.openstreetmap.org/way/894587457"
+    },
+    {
+      "type": "way",
+      "id": 894587458,
+      "version": 3,
+      "timestamp": "2026-03-14T00:42:04Z",
+      "url": "https://www.openstreetmap.org/way/894587458"
+    },
+    {
+      "type": "way",
+      "id": 894587459,
+      "version": 2,
+      "timestamp": "2021-01-12T14:37:53Z",
+      "url": "https://www.openstreetmap.org/way/894587459"
+    },
+    {
+      "type": "way",
+      "id": 894587460,
+      "version": 4,
+      "timestamp": "2026-03-14T00:42:04Z",
+      "url": "https://www.openstreetmap.org/way/894587460"
+    },
+    {
+      "type": "way",
+      "id": 894587461,
+      "version": 3,
+      "timestamp": "2024-11-25T02:05:25Z",
+      "url": "https://www.openstreetmap.org/way/894587461"
+    },
+    {
+      "type": "way",
+      "id": 894587463,
+      "version": 2,
+      "timestamp": "2021-01-12T14:37:53Z",
+      "url": "https://www.openstreetmap.org/way/894587463"
+    },
+    {
+      "type": "way",
+      "id": 894587464,
+      "version": 3,
+      "timestamp": "2021-01-14T05:46:55Z",
+      "url": "https://www.openstreetmap.org/way/894587464"
+    },
+    {
+      "type": "way",
+      "id": 894587465,
+      "version": 2,
+      "timestamp": "2021-01-12T14:37:53Z",
+      "url": "https://www.openstreetmap.org/way/894587465"
+    },
+    {
+      "type": "way",
+      "id": 894587466,
+      "version": 3,
+      "timestamp": "2021-01-14T05:46:55Z",
+      "url": "https://www.openstreetmap.org/way/894587466"
+    },
+    {
+      "type": "way",
+      "id": 894587467,
+      "version": 3,
+      "timestamp": "2021-01-14T05:46:55Z",
+      "url": "https://www.openstreetmap.org/way/894587467"
+    },
+    {
+      "type": "way",
+      "id": 894587468,
+      "version": 2,
+      "timestamp": "2021-01-12T14:37:53Z",
+      "url": "https://www.openstreetmap.org/way/894587468"
+    },
+    {
+      "type": "way",
+      "id": 894587469,
+      "version": 2,
+      "timestamp": "2021-01-12T14:37:53Z",
+      "url": "https://www.openstreetmap.org/way/894587469"
+    },
+    {
+      "type": "way",
+      "id": 894587470,
+      "version": 2,
+      "timestamp": "2021-01-12T14:37:53Z",
+      "url": "https://www.openstreetmap.org/way/894587470"
+    },
+    {
+      "type": "way",
+      "id": 894587471,
+      "version": 3,
+      "timestamp": "2021-01-14T05:46:55Z",
+      "url": "https://www.openstreetmap.org/way/894587471"
+    },
+    {
+      "type": "way",
+      "id": 894587472,
+      "version": 2,
+      "timestamp": "2021-01-12T14:37:53Z",
+      "url": "https://www.openstreetmap.org/way/894587472"
+    },
+    {
+      "type": "way",
+      "id": 894587473,
+      "version": 2,
+      "timestamp": "2021-01-12T14:37:53Z",
+      "url": "https://www.openstreetmap.org/way/894587473"
+    },
+    {
+      "type": "way",
+      "id": 894587474,
+      "version": 3,
+      "timestamp": "2021-01-14T05:46:55Z",
+      "url": "https://www.openstreetmap.org/way/894587474"
+    },
+    {
+      "type": "way",
+      "id": 894587475,
+      "version": 2,
+      "timestamp": "2021-01-12T14:37:53Z",
+      "url": "https://www.openstreetmap.org/way/894587475"
+    },
+    {
+      "type": "way",
+      "id": 894587476,
+      "version": 2,
+      "timestamp": "2021-01-12T14:37:53Z",
+      "url": "https://www.openstreetmap.org/way/894587476"
+    },
+    {
+      "type": "way",
+      "id": 894587477,
+      "version": 3,
+      "timestamp": "2021-02-07T18:37:23Z",
+      "url": "https://www.openstreetmap.org/way/894587477"
+    },
+    {
+      "type": "way",
+      "id": 894589603,
+      "version": 4,
+      "timestamp": "2026-03-14T00:31:26Z",
+      "url": "https://www.openstreetmap.org/way/894589603"
+    }
+  ],
+  "wikidata": "Q1470020",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/dc-wwii-memorial.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "National World War II Memorial, Washington, DC — procedural, CC0-1.0.",
+    "Map frame: x east, y north, z up, metres. The origin is the middle of the oval plaza (lng -77.0405074, lat 38.8893982), on the sunken plaza floor, which is the lowest ground under the memorial. Bearing 0: the memorial's long axis runs due east-west along the Mall, as OSM draws it.",
+    "Also exports the small geometry kit the other dc memorial generators by the same builder use (bevelled prisms, concave extrusions, smooth bodies), so the main build below only runs when this file is executed directly.",
+    "Evidence - OSM (measured): the 56 pillar footprints (way/894587414…894587476, one way per state or territory, each about 1.3 × 0.5–0.8 m), the Atlantic and Pacific pavilions (way/574904167, way/894589603, 7.1 × 6.8 m), the Freedom Wall (way/894587413, height=3) and the four L-shaped walls that end the pillar arcs (way/894587428, 445, 461, 477, height=3). Pillar positions and orientations are taken straight from OSM. - Published (Wikipedia, NPS): 56 granite pillars 17 ft (5.2 m) tall, two 43 ft (13 m) triumphal arches, the baldacchino of four bronze eagles holding a laurel wreath under each arch (Kaskey), bronze oak and wheat wreaths on each pillar, 4,048 gold stars on the Freedom Wall. - Photos (Wikimedia Commons): Carol M. Highsmith's aerial (public domain) for the plan and the oculus in each arch roof; Don McCullough 2013 (CC BY 2.0) and Highsmith 04308v / 05001v (public domain) for the pillar rhythm, the slot through each pillar, the wreaths, the terrace wall the pillars stand on and the arch proportions; US Navy 050308-N- 0295M-005 (public domain) and Victoria Mejia-Gewe (CC BY-SA 4.0) for the pillar section.",
+    "Estimated: the terrace wall (1.3 m above the plaza, from the photos with people for scale); pillar section 1.4 × 1.0 m (OSM's 0.5–0.8 m depth looks traced from the shafts alone); the arch opening (3.3 m wide, springing at 6.8 m, read off Highsmith 04308v); the baldacchino's sizes; the Freedom Wall's 3.2 m height above the plaza.",
+    "Left out on purpose (STYLE.md: no ground or water): the Rainbow Pool and its fountains, the plaza paving, the entrance ramps and lawns, the fountain basins in front of each arch, the bronze rope linking the pillars and the east entrance flagpoles (way/894589599, way/894589600 stay as OSM draws them).",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"dc-wwii-memorial\", model \"dc-wwii-memorial\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/dc-wwii-memorial.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

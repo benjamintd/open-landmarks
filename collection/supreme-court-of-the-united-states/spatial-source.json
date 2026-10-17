@@ -1,0 +1,387 @@
+{
+  "id": "supreme-court-of-the-united-states",
+  "anchor": [
+    -77.0044385,
+    38.8906244
+  ],
+  "coordinateSystem": "Local metres about the anchor (equirectangular, WGS84 radius): X east, Y north, Z up. glTF export: X east, Y up, Z south. Heading already baked.",
+  "license": "ODbL-1.0",
+  "footprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          45.10742275546394,
+          46.82097782745237
+        ],
+        [
+          45.046771207294114,
+          16.0188747248897
+        ],
+        [
+          59.629136267414246,
+          15.996610827261843
+        ],
+        [
+          59.61180725347553,
+          5.621634285104559
+        ],
+        [
+          59.60314274589052,
+          0.055659745256109436
+        ],
+        [
+          59.58581373195183,
+          -7.135579360183793
+        ],
+        [
+          59.56848471924443,
+          -16.130194216192894
+        ],
+        [
+          45.26338387968103,
+          -16.10793031777406
+        ],
+        [
+          45.20273233151119,
+          -46.99908901322108
+        ],
+        [
+          36.31294828438252,
+          -46.97682511480225
+        ],
+        [
+          1.9928365807881716,
+          -46.92116536954614
+        ],
+        [
+          -45.09875824787894,
+          -46.843241725871195
+        ],
+        [
+          -45.046771207294114,
+          -15.963214979633593
+        ],
+        [
+          -59.71578133464519,
+          -15.94095108121476
+        ],
+        [
+          -59.68112330676777,
+          0.1892431341871611
+        ],
+        [
+          -59.65512978647537,
+          16.0188747248897
+        ],
+        [
+          -45.24605486451102,
+          15.985478878052424
+        ],
+        [
+          -45.17673880998748,
+          47.02135291084894
+        ],
+        [
+          2.365410374929571,
+          46.910033420336724
+        ],
+        [
+          15.110899978478622,
+          46.88776952191789
+        ],
+        [
+          45.10742275546394,
+          46.82097782745237
+        ]
+      ]
+    ]
+  },
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -77.0039179,
+          38.891045
+        ],
+        [
+          -77.0039186,
+          38.8907683
+        ],
+        [
+          -77.0037503,
+          38.8907681
+        ],
+        [
+          -77.0037505,
+          38.8906749
+        ],
+        [
+          -77.0037506,
+          38.8906249
+        ],
+        [
+          -77.0037508,
+          38.8905603
+        ],
+        [
+          -77.003751,
+          38.8904795
+        ],
+        [
+          -77.0039161,
+          38.8904797
+        ],
+        [
+          -77.0039168,
+          38.8902022
+        ],
+        [
+          -77.0040194,
+          38.8902024
+        ],
+        [
+          -77.0044155,
+          38.8902029
+        ],
+        [
+          -77.004959,
+          38.8902036
+        ],
+        [
+          -77.0049584,
+          38.890481
+        ],
+        [
+          -77.0051277,
+          38.8904812
+        ],
+        [
+          -77.0051273,
+          38.8906261
+        ],
+        [
+          -77.005127,
+          38.8907683
+        ],
+        [
+          -77.0049607,
+          38.890768
+        ],
+        [
+          -77.0049599,
+          38.8910468
+        ],
+        [
+          -77.0044112,
+          38.8910458
+        ],
+        [
+          -77.0042641,
+          38.8910456
+        ],
+        [
+          -77.0039179,
+          38.891045
+        ]
+      ]
+    ]
+  },
+  "parts": [
+    {
+      "osm": "relation/286501",
+      "tags": {
+        "addr:city": "Washington",
+        "addr:housenumber": "1",
+        "addr:postcode": "20543",
+        "addr:state": "DC",
+        "addr:street": "1st Street Northeast",
+        "amenity": "courthouse",
+        "architect": "Cass Gilbert (1867 – 1934)",
+        "building": "office",
+        "building:levels": "5",
+        "building:wikidata": "Q1579670",
+        "building:wikipedia": "en:United States Supreme Court Building",
+        "contact:phone": "+1 202-479-3000",
+        "dcgis:address": "1 1st St, NE",
+        "dcgis:aid": "0",
+        "dcgis:area": "8139.00238",
+        "dcgis:gis": "HSE_0550",
+        "dcgis:label": "Supreme Court (NR Exempt)",
+        "dcgis:length": "708.475039198",
+        "dcgis:list_info": "Reg",
+        "dcgis:nr_eligibl": "0",
+        "dcgis:objectid": "254",
+        "dcgis:ssl": "0728 0843",
+        "dcgis:update_date": "Mon Mar 21 00:00:00 UTC 2005",
+        "height": "28",
+        "name": "Supreme Court of the United States",
+        "name:br": "Lez-veur ar Stadoù-Unanet",
+        "name:de": "Oberster Gerichtshof der Vereinigten Staaten",
+        "name:en": "Supreme Court of the United States",
+        "name:es": "Corte Suprema de los Estados Unidos",
+        "name:fr": "Cour suprême des États-Unis",
+        "name:hi": "संयुक्त राज्य अमेरिका का उच्चतम न्यायालय",
+        "name:pt": "Suprema Corte dos Estados Unidos",
+        "name:zh": "美国最高法院",
+        "office": "court",
+        "opening_hours": "Mo-Fr 09:00-15:00",
+        "short_name": "SCOTUS",
+        "tourism": "attraction",
+        "type": "multipolygon",
+        "website": "https://www.supremecourt.gov/",
+        "wikidata": "Q11201",
+        "wikimedia_commons": "File:USSupremeCourtWestFacade.JPG",
+        "wikipedia": "en:Supreme Court of the United States",
+        "year_of_construction": "1935"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              45.10742275546394,
+              46.82097782745237
+            ],
+            [
+              45.046771207294114,
+              16.0188747248897
+            ],
+            [
+              59.629136267414246,
+              15.996610827261843
+            ],
+            [
+              59.61180725347553,
+              5.621634285104559
+            ],
+            [
+              59.60314274589052,
+              0.055659745256109436
+            ],
+            [
+              59.58581373195183,
+              -7.135579360183793
+            ],
+            [
+              59.56848471924443,
+              -16.130194216192894
+            ],
+            [
+              45.26338387968103,
+              -16.10793031777406
+            ],
+            [
+              45.20273233151119,
+              -46.99908901322108
+            ],
+            [
+              36.31294828438252,
+              -46.97682511480225
+            ],
+            [
+              1.9928365807881716,
+              -46.92116536954614
+            ],
+            [
+              -45.09875824787894,
+              -46.843241725871195
+            ],
+            [
+              -45.046771207294114,
+              -15.963214979633593
+            ],
+            [
+              -59.71578133464519,
+              -15.94095108121476
+            ],
+            [
+              -59.68112330676777,
+              0.1892431341871611
+            ],
+            [
+              -59.65512978647537,
+              16.0188747248897
+            ],
+            [
+              -45.24605486451102,
+              15.985478878052424
+            ],
+            [
+              -45.17673880998748,
+              47.02135291084894
+            ],
+            [
+              2.365410374929571,
+              46.910033420336724
+            ],
+            [
+              15.110899978478622,
+              46.88776952191789
+            ],
+            [
+              45.10742275546394,
+              46.82097782745237
+            ]
+          ]
+        ]
+      },
+      "version": 21,
+      "timestamp": "2026-05-15T14:49:55Z"
+    }
+  ],
+  "osm": {
+    "type": "relation",
+    "id": 286501,
+    "version": 21,
+    "timestamp": "2026-05-15T14:49:55Z",
+    "url": "https://www.openstreetmap.org/relation/286501"
+  },
+  "additionalOsm": [],
+  "tags": {
+    "addr:city": "Washington",
+    "addr:housenumber": "1",
+    "addr:postcode": "20543",
+    "addr:state": "DC",
+    "addr:street": "1st Street Northeast",
+    "amenity": "courthouse",
+    "architect": "Cass Gilbert (1867 – 1934)",
+    "building": "office",
+    "building:levels": "5",
+    "building:wikidata": "Q1579670",
+    "building:wikipedia": "en:United States Supreme Court Building",
+    "contact:phone": "+1 202-479-3000",
+    "dcgis:address": "1 1st St, NE",
+    "dcgis:aid": "0",
+    "dcgis:area": "8139.00238",
+    "dcgis:gis": "HSE_0550",
+    "dcgis:label": "Supreme Court (NR Exempt)",
+    "dcgis:length": "708.475039198",
+    "dcgis:list_info": "Reg",
+    "dcgis:nr_eligibl": "0",
+    "dcgis:objectid": "254",
+    "dcgis:ssl": "0728 0843",
+    "dcgis:update_date": "Mon Mar 21 00:00:00 UTC 2005",
+    "height": "28",
+    "name": "Supreme Court of the United States",
+    "name:br": "Lez-veur ar Stadoù-Unanet",
+    "name:de": "Oberster Gerichtshof der Vereinigten Staaten",
+    "name:en": "Supreme Court of the United States",
+    "name:es": "Corte Suprema de los Estados Unidos",
+    "name:fr": "Cour suprême des États-Unis",
+    "name:hi": "संयुक्त राज्य अमेरिका का उच्चतम न्यायालय",
+    "name:pt": "Suprema Corte dos Estados Unidos",
+    "name:zh": "美国最高法院",
+    "office": "court",
+    "opening_hours": "Mo-Fr 09:00-15:00",
+    "short_name": "SCOTUS",
+    "tourism": "attraction",
+    "type": "multipolygon",
+    "website": "https://www.supremecourt.gov/",
+    "wikidata": "Q11201",
+    "wikimedia_commons": "File:USSupremeCourtWestFacade.JPG",
+    "wikipedia": "en:Supreme Court of the United States",
+    "year_of_construction": "1935"
+  }
+}

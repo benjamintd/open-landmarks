@@ -1,0 +1,290 @@
+{
+  "id": "hirshhorn-museum",
+  "name": "Hirshhorn Museum",
+  "anchor": [
+    -77.0229526,
+    38.888177
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 47780,
+      "sha256": "53a09786965addc9e3042269aed8c743a5f1f1987a2c4aa88dc2389fa7a07d91"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 47780,
+      "sha256": "53a09786965addc9e3042269aed8c743a5f1f1987a2c4aa88dc2389fa7a07d91"
+    }
+  },
+  "triangles": 1128,
+  "boundsBlenderM": [
+    [
+      -35.1,
+      -35.1,
+      0
+    ],
+    [
+      35.1,
+      36.9,
+      25
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -77.0233402,
+          38.8882775
+        ],
+        [
+          -77.0232799,
+          38.8883673
+        ],
+        [
+          -77.0231863,
+          38.8884378
+        ],
+        [
+          -77.023069,
+          38.8884817
+        ],
+        [
+          -77.0229398,
+          38.8884945
+        ],
+        [
+          -77.0229238,
+          38.888494
+        ],
+        [
+          -77.0228601,
+          38.8884859
+        ],
+        [
+          -77.0227754,
+          38.8884629
+        ],
+        [
+          -77.0226892,
+          38.8884191
+        ],
+        [
+          -77.0226198,
+          38.88836
+        ],
+        [
+          -77.0225716,
+          38.8882891
+        ],
+        [
+          -77.0225478,
+          38.8882112
+        ],
+        [
+          -77.0225483,
+          38.8881848
+        ],
+        [
+          -77.0225491,
+          38.8881352
+        ],
+        [
+          -77.0225735,
+          38.8880616
+        ],
+        [
+          -77.0226196,
+          38.8879947
+        ],
+        [
+          -77.0226849,
+          38.8879382
+        ],
+        [
+          -77.0227656,
+          38.8878954
+        ],
+        [
+          -77.0228507,
+          38.88787
+        ],
+        [
+          -77.0229409,
+          38.88786
+        ],
+        [
+          -77.0230318,
+          38.8878657
+        ],
+        [
+          -77.0231187,
+          38.8878871
+        ],
+        [
+          -77.0232179,
+          38.8879357
+        ],
+        [
+          -77.0232953,
+          38.8880043
+        ],
+        [
+          -77.0233443,
+          38.8880872
+        ],
+        [
+          -77.0233611,
+          38.8881775
+        ],
+        [
+          -77.0233402,
+          38.8882775
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "relation",
+    "id": 3374667,
+    "version": 16,
+    "timestamp": "2022-11-07T12:00:37Z",
+    "url": "https://www.openstreetmap.org/relation/3374667"
+  },
+  "additionalOsm": [
+    {
+      "type": "relation",
+      "id": 3374669,
+      "version": 2,
+      "timestamp": "2021-02-20T19:42:29Z",
+      "url": "https://www.openstreetmap.org/relation/3374669"
+    },
+    {
+      "type": "way",
+      "id": 66418857,
+      "version": 12,
+      "timestamp": "2026-04-11T23:07:02Z",
+      "url": "https://www.openstreetmap.org/way/66418857"
+    },
+    {
+      "type": "way",
+      "id": 251495385,
+      "version": 1,
+      "timestamp": "2013-12-12T14:32:57Z",
+      "url": "https://www.openstreetmap.org/way/251495385"
+    },
+    {
+      "type": "way",
+      "id": 251495386,
+      "version": 1,
+      "timestamp": "2013-12-12T14:32:57Z",
+      "url": "https://www.openstreetmap.org/way/251495386"
+    },
+    {
+      "type": "way",
+      "id": 251495387,
+      "version": 1,
+      "timestamp": "2013-12-12T14:32:57Z",
+      "url": "https://www.openstreetmap.org/way/251495387"
+    },
+    {
+      "type": "way",
+      "id": 251495388,
+      "version": 1,
+      "timestamp": "2013-12-12T14:32:57Z",
+      "url": "https://www.openstreetmap.org/way/251495388"
+    },
+    {
+      "type": "way",
+      "id": 909145546,
+      "version": 1,
+      "timestamp": "2021-02-20T19:42:29Z",
+      "url": "https://www.openstreetmap.org/way/909145546"
+    }
+  ],
+  "wikidata": "Q1620553",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Hirshhorn Museum DC 2007.jpg",
+      "author": "Gryffindor",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Hirshhorn_Museum_DC_2007.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Hirshhorn_Museum_DC_2007.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Hirshhorn Museum (3452040774).jpg",
+      "author": "Francisco Anzola",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Hirshhorn_Museum_(3452040774).jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Hirshhorn Museum (53830787787).jpg",
+      "author": "ajay_suresh",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Hirshhorn_Museum_(53830787787).jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Hirshhorn Museum (33515896074).jpg",
+      "author": "Gunnar Klack",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Hirshhorn_Museum_(33515896074).jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Joseph H. Hirshhorn Museum.jpg",
+      "author": "Smash the Iron Cage",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Joseph_H._Hirshhorn_Museum.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/dc-hirshhorn.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Hirshhorn Museum — procedural, CC0-1.0, no textures. bun generators/dc-hirshhorn.ts",
+    "Map frame: x east, y north, z up, metres; bearing 0°, the balcony window facing due north to the Mall. The anchor is the area centroid of the OSM outline relation/3374667 (lng -77.0229526, lat 38.888177), which is the drum's centre to within 0.2 m.",
+    "What it is: Gordon Bunshaft's hollow concrete drum (1974), about 70 m across and 25 m tall, lifted off the plaza on four massive flared piers, open to the sky in the middle round a courtyard. The outer wall is blank pale aggregate concrete except for one long balcony window slot on the Mall side; the courtyard wall is glazed floor by floor. At plaza level, a glass lobby fills the space under the drum's south side. The drum, its lift off the ground, the open middle and the single slot are the identity. The sculpture garden, the plaza walls and the fountain are not modelled.",
+    "Covers and replaces: relation/3374667 (the drum, outer way/66418857 tagged as a building:part from 5 to 25 m, inner way/251495389 the courtyard), its twin part relation/3374669, the four piers (way/251495385–388, h 5) and the glass lobby (way/909145546, h 5). way/66418857 itself carries the part's tags and is the relations' outer ring, so it is listed too.",
+    "Evidence",
+    "OSM (measured): drum outer ring r 35.1 m, courtyard r 17.8 m (area 996 m²); drum from 5 to 25 m (min_height/height); the piers as diamonds about 9 m across centred 26.5 m out on the diagonals; the lobby between the two southern piers out to r 30.",
+    "Published (Wikipedia, \"Hirshhorn Museum and Sculpture Garden\"): a cylinder 231 ft (70 m) across, 82 ft (25 m) tall, raised 14 ft on four piers; the courtyard 115 ft (35 m) across, of pink-tan precast concrete with aggregate.",
+    "Photos (Wikimedia Commons): from the north (the Mall side), \"Hirshhorn Museum DC 2007.jpg\" (Gryffindor, public domain) and \"Hirshhorn Museum (3452040774).jpg\" (Francisco Anzola, CC BY 2.0); from the south, \"Hirshhorn Museum (53830787787).jpg\" (Ajay Suresh, CC BY 2.0, 2024); from the south-east, \"Hirshhorn Museum (33515896074).jpg\" (Gunnar Klack, CC BY-SA 2.0, 2014); under the drum, \"Joseph H. Hirshhorn Museum.jpg\" (Smash the Iron Cage, CC BY-SA 4.0).",
+    "Estimated from the photos: the window slot spans ±26° about north and runs from 16.2 to 18.9 m, over a balcony whose solid parapet runs from 15.0 to 16.2 m and stands 1.8 m out; the piers' flare; three glazed storeys on the courtyard side.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"dc-hirshhorn\", model \"dc-hirshhorn\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/dc-hirshhorn.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 375 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the dc-hirshhorn-glazing finish in the window colour."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

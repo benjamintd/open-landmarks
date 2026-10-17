@@ -1,0 +1,696 @@
+{
+  "id": "thomas-jefferson-memorial",
+  "name": "Thomas Jefferson Memorial",
+  "anchor": [
+    -77.0365506,
+    38.8814218
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 177760,
+      "sha256": "c2c96e284c0750fcbfdf17daed20864f06ffc4454c9e2449ff9407df526f0b62"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 177760,
+      "sha256": "c2c96e284c0750fcbfdf17daed20864f06ffc4454c9e2449ff9407df526f0b62"
+    }
+  },
+  "triangles": 4954,
+  "boundsBlenderM": [
+    [
+      -44.776,
+      -48.3,
+      0
+    ],
+    [
+      44.776,
+      47,
+      35.5
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -77.0369038,
+          38.8817943
+        ],
+        [
+          -77.0369137,
+          38.8817939
+        ],
+        [
+          -77.0369133,
+          38.8818454
+        ],
+        [
+          -77.0366508,
+          38.8818477
+        ],
+        [
+          -77.0364436,
+          38.8818476
+        ],
+        [
+          -77.0361878,
+          38.8818472
+        ],
+        [
+          -77.0361854,
+          38.8817935
+        ],
+        [
+          -77.0361976,
+          38.8817942
+        ],
+        [
+          -77.0361969,
+          38.881757
+        ],
+        [
+          -77.0362091,
+          38.8817568
+        ],
+        [
+          -77.0362077,
+          38.8816937
+        ],
+        [
+          -77.0362075,
+          38.8816847
+        ],
+        [
+          -77.0362071,
+          38.8816759
+        ],
+        [
+          -77.0361654,
+          38.8816556
+        ],
+        [
+          -77.0361315,
+          38.8816289
+        ],
+        [
+          -77.0361031,
+          38.8815938
+        ],
+        [
+          -77.036075,
+          38.8815525
+        ],
+        [
+          -77.0360515,
+          38.8814989
+        ],
+        [
+          -77.0360392,
+          38.8814516
+        ],
+        [
+          -77.0360331,
+          38.8814061
+        ],
+        [
+          -77.0360334,
+          38.8813615
+        ],
+        [
+          -77.0360416,
+          38.8813145
+        ],
+        [
+          -77.0360554,
+          38.8812697
+        ],
+        [
+          -77.0360818,
+          38.8812153
+        ],
+        [
+          -77.03612,
+          38.8811621
+        ],
+        [
+          -77.0361647,
+          38.8811167
+        ],
+        [
+          -77.0362093,
+          38.8810824
+        ],
+        [
+          -77.0362447,
+          38.8810603
+        ],
+        [
+          -77.036274,
+          38.8810411
+        ],
+        [
+          -77.0363266,
+          38.881016
+        ],
+        [
+          -77.0363578,
+          38.8810114
+        ],
+        [
+          -77.0363586,
+          38.8809876
+        ],
+        [
+          -77.0367466,
+          38.8809846
+        ],
+        [
+          -77.0367456,
+          38.8810161
+        ],
+        [
+          -77.0367914,
+          38.8810285
+        ],
+        [
+          -77.0368512,
+          38.8810618
+        ],
+        [
+          -77.0368895,
+          38.881081
+        ],
+        [
+          -77.0369249,
+          38.8811075
+        ],
+        [
+          -77.0369567,
+          38.8811349
+        ],
+        [
+          -77.0369915,
+          38.881177
+        ],
+        [
+          -77.0370235,
+          38.8812281
+        ],
+        [
+          -77.0370458,
+          38.8812683
+        ],
+        [
+          -77.0370604,
+          38.8813127
+        ],
+        [
+          -77.0370649,
+          38.881345
+        ],
+        [
+          -77.0370684,
+          38.8813832
+        ],
+        [
+          -77.0370658,
+          38.8814303
+        ],
+        [
+          -77.0370544,
+          38.8814853
+        ],
+        [
+          -77.0370353,
+          38.8815389
+        ],
+        [
+          -77.0370004,
+          38.8815953
+        ],
+        [
+          -77.036962,
+          38.8816375
+        ],
+        [
+          -77.0369266,
+          38.8816674
+        ],
+        [
+          -77.0368951,
+          38.8816892
+        ],
+        [
+          -77.0368939,
+          38.881696
+        ],
+        [
+          -77.0368938,
+          38.8817032
+        ],
+        [
+          -77.0368931,
+          38.8817591
+        ],
+        [
+          -77.0369034,
+          38.881759
+        ],
+        [
+          -77.0369038,
+          38.8817943
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 248460669,
+    "version": 15,
+    "timestamp": "2026-08-26T22:05:55Z",
+    "url": "https://www.openstreetmap.org/way/248460669"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 1491844988,
+      "version": 1,
+      "timestamp": "2026-03-23T13:34:55Z",
+      "url": "https://www.openstreetmap.org/way/1491844988"
+    },
+    {
+      "type": "way",
+      "id": 248460682,
+      "version": 1,
+      "timestamp": "2013-11-26T13:59:03Z",
+      "url": "https://www.openstreetmap.org/way/248460682"
+    },
+    {
+      "type": "way",
+      "id": 248460688,
+      "version": 1,
+      "timestamp": "2013-11-26T13:59:03Z",
+      "url": "https://www.openstreetmap.org/way/248460688"
+    },
+    {
+      "type": "way",
+      "id": 248460689,
+      "version": 1,
+      "timestamp": "2013-11-26T13:59:03Z",
+      "url": "https://www.openstreetmap.org/way/248460689"
+    },
+    {
+      "type": "way",
+      "id": 248460690,
+      "version": 7,
+      "timestamp": "2021-03-05T04:57:27Z",
+      "url": "https://www.openstreetmap.org/way/248460690"
+    },
+    {
+      "type": "way",
+      "id": 248460691,
+      "version": 1,
+      "timestamp": "2013-11-26T13:59:04Z",
+      "url": "https://www.openstreetmap.org/way/248460691"
+    },
+    {
+      "type": "way",
+      "id": 248460692,
+      "version": 1,
+      "timestamp": "2013-11-26T13:59:04Z",
+      "url": "https://www.openstreetmap.org/way/248460692"
+    },
+    {
+      "type": "way",
+      "id": 248460693,
+      "version": 1,
+      "timestamp": "2013-11-26T13:59:04Z",
+      "url": "https://www.openstreetmap.org/way/248460693"
+    },
+    {
+      "type": "way",
+      "id": 248460694,
+      "version": 1,
+      "timestamp": "2013-11-26T13:59:05Z",
+      "url": "https://www.openstreetmap.org/way/248460694"
+    },
+    {
+      "type": "way",
+      "id": 248460695,
+      "version": 1,
+      "timestamp": "2013-11-26T13:59:05Z",
+      "url": "https://www.openstreetmap.org/way/248460695"
+    },
+    {
+      "type": "way",
+      "id": 248460696,
+      "version": 1,
+      "timestamp": "2013-11-26T13:59:05Z",
+      "url": "https://www.openstreetmap.org/way/248460696"
+    },
+    {
+      "type": "way",
+      "id": 248460697,
+      "version": 1,
+      "timestamp": "2013-11-26T13:59:05Z",
+      "url": "https://www.openstreetmap.org/way/248460697"
+    },
+    {
+      "type": "way",
+      "id": 248460698,
+      "version": 1,
+      "timestamp": "2013-11-26T13:59:06Z",
+      "url": "https://www.openstreetmap.org/way/248460698"
+    },
+    {
+      "type": "way",
+      "id": 248460699,
+      "version": 1,
+      "timestamp": "2013-11-26T13:59:06Z",
+      "url": "https://www.openstreetmap.org/way/248460699"
+    },
+    {
+      "type": "way",
+      "id": 248460700,
+      "version": 1,
+      "timestamp": "2013-11-26T13:59:06Z",
+      "url": "https://www.openstreetmap.org/way/248460700"
+    },
+    {
+      "type": "way",
+      "id": 248460701,
+      "version": 1,
+      "timestamp": "2013-11-26T13:59:07Z",
+      "url": "https://www.openstreetmap.org/way/248460701"
+    },
+    {
+      "type": "way",
+      "id": 248460702,
+      "version": 1,
+      "timestamp": "2013-11-26T13:59:07Z",
+      "url": "https://www.openstreetmap.org/way/248460702"
+    },
+    {
+      "type": "way",
+      "id": 248460703,
+      "version": 1,
+      "timestamp": "2013-11-26T13:59:07Z",
+      "url": "https://www.openstreetmap.org/way/248460703"
+    },
+    {
+      "type": "way",
+      "id": 248460704,
+      "version": 1,
+      "timestamp": "2013-11-26T13:59:07Z",
+      "url": "https://www.openstreetmap.org/way/248460704"
+    },
+    {
+      "type": "way",
+      "id": 248460705,
+      "version": 1,
+      "timestamp": "2013-11-26T13:59:07Z",
+      "url": "https://www.openstreetmap.org/way/248460705"
+    },
+    {
+      "type": "way",
+      "id": 248460706,
+      "version": 1,
+      "timestamp": "2013-11-26T13:59:08Z",
+      "url": "https://www.openstreetmap.org/way/248460706"
+    },
+    {
+      "type": "way",
+      "id": 248460707,
+      "version": 1,
+      "timestamp": "2013-11-26T13:59:08Z",
+      "url": "https://www.openstreetmap.org/way/248460707"
+    },
+    {
+      "type": "way",
+      "id": 248460708,
+      "version": 1,
+      "timestamp": "2013-11-26T13:59:08Z",
+      "url": "https://www.openstreetmap.org/way/248460708"
+    },
+    {
+      "type": "way",
+      "id": 248460709,
+      "version": 1,
+      "timestamp": "2013-11-26T13:59:08Z",
+      "url": "https://www.openstreetmap.org/way/248460709"
+    },
+    {
+      "type": "way",
+      "id": 248460710,
+      "version": 1,
+      "timestamp": "2013-11-26T13:59:09Z",
+      "url": "https://www.openstreetmap.org/way/248460710"
+    },
+    {
+      "type": "way",
+      "id": 248460711,
+      "version": 1,
+      "timestamp": "2013-11-26T13:59:09Z",
+      "url": "https://www.openstreetmap.org/way/248460711"
+    },
+    {
+      "type": "way",
+      "id": 248460715,
+      "version": 1,
+      "timestamp": "2013-11-26T13:59:09Z",
+      "url": "https://www.openstreetmap.org/way/248460715"
+    },
+    {
+      "type": "way",
+      "id": 248460718,
+      "version": 1,
+      "timestamp": "2013-11-26T13:59:09Z",
+      "url": "https://www.openstreetmap.org/way/248460718"
+    },
+    {
+      "type": "way",
+      "id": 248460723,
+      "version": 1,
+      "timestamp": "2013-11-26T13:59:09Z",
+      "url": "https://www.openstreetmap.org/way/248460723"
+    },
+    {
+      "type": "way",
+      "id": 248460727,
+      "version": 1,
+      "timestamp": "2013-11-26T13:59:10Z",
+      "url": "https://www.openstreetmap.org/way/248460727"
+    },
+    {
+      "type": "way",
+      "id": 248460732,
+      "version": 1,
+      "timestamp": "2013-11-26T13:59:10Z",
+      "url": "https://www.openstreetmap.org/way/248460732"
+    },
+    {
+      "type": "way",
+      "id": 248460737,
+      "version": 1,
+      "timestamp": "2013-11-26T13:59:10Z",
+      "url": "https://www.openstreetmap.org/way/248460737"
+    },
+    {
+      "type": "way",
+      "id": 248460742,
+      "version": 1,
+      "timestamp": "2013-11-26T13:59:10Z",
+      "url": "https://www.openstreetmap.org/way/248460742"
+    },
+    {
+      "type": "way",
+      "id": 248460745,
+      "version": 1,
+      "timestamp": "2013-11-26T13:59:10Z",
+      "url": "https://www.openstreetmap.org/way/248460745"
+    },
+    {
+      "type": "way",
+      "id": 248460747,
+      "version": 1,
+      "timestamp": "2013-11-26T13:59:11Z",
+      "url": "https://www.openstreetmap.org/way/248460747"
+    },
+    {
+      "type": "way",
+      "id": 248460751,
+      "version": 1,
+      "timestamp": "2013-11-26T13:59:11Z",
+      "url": "https://www.openstreetmap.org/way/248460751"
+    },
+    {
+      "type": "way",
+      "id": 248460753,
+      "version": 1,
+      "timestamp": "2013-11-26T13:59:11Z",
+      "url": "https://www.openstreetmap.org/way/248460753"
+    },
+    {
+      "type": "way",
+      "id": 248460754,
+      "version": 1,
+      "timestamp": "2013-11-26T13:59:11Z",
+      "url": "https://www.openstreetmap.org/way/248460754"
+    },
+    {
+      "type": "way",
+      "id": 248460756,
+      "version": 1,
+      "timestamp": "2013-11-26T13:59:12Z",
+      "url": "https://www.openstreetmap.org/way/248460756"
+    },
+    {
+      "type": "way",
+      "id": 248460766,
+      "version": 1,
+      "timestamp": "2013-11-26T13:59:12Z",
+      "url": "https://www.openstreetmap.org/way/248460766"
+    },
+    {
+      "type": "way",
+      "id": 248460767,
+      "version": 3,
+      "timestamp": "2021-03-05T04:57:27Z",
+      "url": "https://www.openstreetmap.org/way/248460767"
+    },
+    {
+      "type": "way",
+      "id": 248460770,
+      "version": 1,
+      "timestamp": "2013-11-26T13:59:13Z",
+      "url": "https://www.openstreetmap.org/way/248460770"
+    },
+    {
+      "type": "way",
+      "id": 248460774,
+      "version": 6,
+      "timestamp": "2026-03-23T13:34:55Z",
+      "url": "https://www.openstreetmap.org/way/248460774"
+    },
+    {
+      "type": "way",
+      "id": 248460777,
+      "version": 3,
+      "timestamp": "2021-03-05T04:57:27Z",
+      "url": "https://www.openstreetmap.org/way/248460777"
+    },
+    {
+      "type": "way",
+      "id": 248460779,
+      "version": 4,
+      "timestamp": "2021-03-05T04:57:27Z",
+      "url": "https://www.openstreetmap.org/way/248460779"
+    },
+    {
+      "type": "way",
+      "id": 248460781,
+      "version": 1,
+      "timestamp": "2013-11-26T13:59:14Z",
+      "url": "https://www.openstreetmap.org/way/248460781"
+    },
+    {
+      "type": "way",
+      "id": 248460786,
+      "version": 2,
+      "timestamp": "2017-05-06T16:28:12Z",
+      "url": "https://www.openstreetmap.org/way/248460786"
+    },
+    {
+      "type": "way",
+      "id": 248460790,
+      "version": 5,
+      "timestamp": "2021-03-05T04:57:27Z",
+      "url": "https://www.openstreetmap.org/way/248460790"
+    },
+    {
+      "type": "way",
+      "id": 66418912,
+      "version": 6,
+      "timestamp": "2013-11-26T13:59:19Z",
+      "url": "https://www.openstreetmap.org/way/66418912"
+    }
+  ],
+  "wikidata": "Q326183",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Jefferson Memorial Washington April 2017 001.jpg",
+      "author": "King of Hearts",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Jefferson_Memorial_Washington_April_2017_001.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Jefferson Memorial v. Süd-Osten.JPG",
+      "author": "Vincent Devens",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Jefferson_Memorial_v._S%C3%BCd-Osten.JPG",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Jefferson Memorial Front.jpg",
+      "author": "Graysick",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Jefferson_Memorial_Front.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Jefferson Memorial from the air.jpg",
+      "author": "aewolf",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Jefferson_Memorial_from_the_air.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/dc-jefferson-memorial.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Thomas Jefferson Memorial — procedural, CC0-1.0, no textures. bun generators/dc-jefferson-memorial.ts",
+    "Map frame: x east, y north, z up, metres; origin at the centroid of the OSM outline (way/248460669). The rotunda's centre, fitted to the 25 colonnade columns in OSM (radius 22.4 m), is 4.4 m south of that, and the building is laid out about it. The portico faces due north across the Tidal Basin to the White House, so the model is placed at bearing 0.",
+    "Modelled: the low marble retaining wall of the circular terrace with its lawn, open to the north; the stepped circular platform; the colonnade of 26 Ionic columns round the cella, whose four openings are dark recesses; the entablature, cornice and parapet; the flat roof ring; the drum, the three stepped rings and the low dome; the north portico of eight columns (and one more behind each end), its side walls with their tall arches, entablature, pediment and roof; and the great north stairs with their flanking blocks.",
+    "Evidence:",
+    "OSM, way/248460669 (outline, historic=monument) and its parts: the colonnade, 34 columns 1.7 m across (25 round the rotunda, 9 in the portico); the podium rings 248460774 / 767 / 770 (r 28.8 → 25.5 m, with a rectangle out to the portico); the terrace 248460790 (lawn, r ≈ 45 m, open to the north); the north steps 248460690 (63 × 20 m) and the blocks 248460777 / 779; the entablature 66418912, the drum 248460682, the dome 248460781 (r 17.2, top 39 m); the portico roof 248460786 (gabled, 29.6 m wide) and its side walls 248460688 / 689; the statue pedestal 248460766 (inside, not drawn). Building 1491844988 is the platform again.",
+    "Published (NPS; Wikipedia \"Jefferson Memorial\"; NRHP 66000029): John Russell Pope's Pantheon-derived rotunda in Imperial Danby marble; the colonnade's 26 Ionic columns are 41 ft (12.5 m) tall; the portico has eight columns across.",
+    "Photos (Wikimedia Commons): \"Jefferson Memorial Washington April 2017 001.jpg\" (King of Hearts, CC BY-SA 4.0, from the north-east across the basin, near level — used for the heights); \"Jefferson Memorial v. Süd-Osten.JPG\" (Vincent Devens, CC BY-SA 3.0, the south side); \"Jefferson Memorial Front.jpg\" (Graysick, CC BY-SA 3.0, the portico and stairs); \"Jefferson Memorial, aerial view\" LCCN2010630278 and LCCN2010630677 (Carol M. Highsmith, public domain, for the roof rings and radii); \"Jefferson Memorial from the air.jpg\" (aewolf, CC BY 2.0).",
+    "Measured from the photos, against the published column height: the stylobate at 5.5 m above the plaza and the road (OSM has 4), the entablature (3.4 m) and cornice, the drum and ring heights, and the top at 35.5 m, which is 30.0 m above the floor.",
+    "Height, against the published figures. The NPS fact sheet (as quoted with the memorial's other facts, e.g. flickr.com/photos/bootbearwdc/32971256) gives \"height from road to top of dome: 129 ft 4 in (39.42 m)\" and \"height from floor to ceiling of dome: 91 ft 8 in (27.94 m)\"; the dome shell is 4 ft (1.2 m) thick (New World Encyclopedia). OSM's 39 m is the first figure. The two only agree if the floor stands about 10 m above the road, and neither the photos (road, 3 m terrace wall, steps, floor at about 5.5 m, from the south and across the basin) nor OSM (floor at 4 m) show that. The floor-relative figure (27.94 + 1.2 = 29.1 m from floor to crown) does match the photos and this model (30.0 m), so the dome is kept to it and the overall height is 35.5 m above the plaza rather than 39.4 m. If the road datum turns out to be lower ground (the 1940s approach roads, or the grade before the site settled), 39.4 m and this model are consistent.",
+    "The radii of the drum (17.0), rings and cap (12.4) come from the overhead aerial; OSM's dome polygon (17.2) is the drum. Estimated: the arches in the portico side walls, the number of steps (drawn coarser than the real risers), and the stairs' split into flights. Columns are placed symmetrically (26 round the rotunda, none on the south axis, as the photo from the south shows); OSM's 25 sit within a few degrees of them. OSM has a column on the portico's centre line; the photos show eight across with an open middle. Not modelled: the statue, the pediment sculpture, the column flutes and volutes, the plaza beyond the bottom step, and any water.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"dc-jefferson-memorial\", model \"dc-jefferson-memorial\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/dc-jefferson-memorial.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

@@ -1,0 +1,135 @@
+{
+  "id": "netherlands-carillon",
+  "anchor": [
+    -77.0694954,
+    38.8882159
+  ],
+  "coordinateSystem": "Local metres about the anchor (equirectangular, WGS84 radius): X east, Y north, Z up. glTF export: X east, Y up, Z south. Heading already baked.",
+  "license": "ODbL-1.0",
+  "footprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          3.7085346786245914,
+          3.7403348908604195
+        ],
+        [
+          3.7085346786245914,
+          -3.6958070940227534
+        ],
+        [
+          -3.725864281365059,
+          -3.6958070940227534
+        ],
+        [
+          -3.725864281365059,
+          3.7403348908604195
+        ],
+        [
+          3.7085346786245914,
+          3.7403348908604195
+        ]
+      ]
+    ]
+  },
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -77.0694526,
+          38.8882495
+        ],
+        [
+          -77.0694526,
+          38.8881827
+        ],
+        [
+          -77.0695384,
+          38.8881827
+        ],
+        [
+          -77.0695384,
+          38.8882495
+        ],
+        [
+          -77.0694526,
+          38.8882495
+        ]
+      ]
+    ]
+  },
+  "parts": [
+    {
+      "osm": "way/41273627",
+      "tags": {
+        "access": "yes",
+        "building": "yes",
+        "gnis:feature_id": "2088037",
+        "height": "39",
+        "height_ft": "127",
+        "historic": "yes",
+        "man_made": "tower",
+        "name": "Netherlands Carillon",
+        "tower:construction": "freestanding",
+        "tower:type": "bell_tower",
+        "website": "https://home.nps.gov/gwmp/learn/historyculture/netherlandscarillon.htm",
+        "wikidata": "Q2901761",
+        "wikipedia": "en:Netherlands Carillon"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              3.7085346786245914,
+              3.7403348908604195
+            ],
+            [
+              3.7085346786245914,
+              -3.6958070940227534
+            ],
+            [
+              -3.725864281365059,
+              -3.6958070940227534
+            ],
+            [
+              -3.725864281365059,
+              3.7403348908604195
+            ],
+            [
+              3.7085346786245914,
+              3.7403348908604195
+            ]
+          ]
+        ]
+      },
+      "version": 4,
+      "timestamp": "2026-04-20T15:14:31Z"
+    }
+  ],
+  "osm": {
+    "type": "way",
+    "id": 41273627,
+    "version": 4,
+    "timestamp": "2026-04-20T15:14:31Z",
+    "url": "https://www.openstreetmap.org/way/41273627"
+  },
+  "additionalOsm": [],
+  "tags": {
+    "access": "yes",
+    "building": "yes",
+    "gnis:feature_id": "2088037",
+    "height": "39",
+    "height_ft": "127",
+    "historic": "yes",
+    "man_made": "tower",
+    "name": "Netherlands Carillon",
+    "tower:construction": "freestanding",
+    "tower:type": "bell_tower",
+    "website": "https://home.nps.gov/gwmp/learn/historyculture/netherlandscarillon.htm",
+    "wikidata": "Q2901761",
+    "wikipedia": "en:Netherlands Carillon"
+  }
+}

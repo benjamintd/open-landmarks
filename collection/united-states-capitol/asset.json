@@ -1,0 +1,837 @@
+{
+  "id": "united-states-capitol",
+  "name": "United States Capitol",
+  "anchor": [
+    -77.009001,
+    38.889813
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 13,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 229384,
+      "sha256": "3d6018c21a3811304bdb893d5c9d9338602705ff1305ffd0f101198bb1af36dc"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 256884,
+      "sha256": "008f14496fb645560e0158fb8472ce3caefeb68cabd711863d3cd35a0ab414fd"
+    }
+  },
+  "triangles": 6380,
+  "boundsBlenderM": [
+    [
+      -49.555,
+      -113.945,
+      0
+    ],
+    [
+      57.959,
+      113.982,
+      87.6
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -77.0088377,
+          38.8908133
+        ],
+        [
+          -77.0087089,
+          38.8908135
+        ],
+        [
+          -77.0086508,
+          38.8908128
+        ],
+        [
+          -77.0086301,
+          38.8908126
+        ],
+        [
+          -77.0086301,
+          38.8908056
+        ],
+        [
+          -77.0086003,
+          38.8908054
+        ],
+        [
+          -77.0086007,
+          38.8907209
+        ],
+        [
+          -77.0085809,
+          38.8907208
+        ],
+        [
+          -77.0085626,
+          38.8907208
+        ],
+        [
+          -77.00855,
+          38.8907208
+        ],
+        [
+          -77.0085343,
+          38.8907208
+        ],
+        [
+          -77.008521,
+          38.8907208
+        ],
+        [
+          -77.0085079,
+          38.8907208
+        ],
+        [
+          -77.0084609,
+          38.8907207
+        ],
+        [
+          -77.00846,
+          38.8907523
+        ],
+        [
+          -77.0083982,
+          38.8907526
+        ],
+        [
+          -77.0083286,
+          38.8907529
+        ],
+        [
+          -77.0083308,
+          38.8906155
+        ],
+        [
+          -77.008329,
+          38.8904775
+        ],
+        [
+          -77.0083981,
+          38.890478
+        ],
+        [
+          -77.0084602,
+          38.8904786
+        ],
+        [
+          -77.0084599,
+          38.8905088
+        ],
+        [
+          -77.0085072,
+          38.8905092
+        ],
+        [
+          -77.0085209,
+          38.8905089
+        ],
+        [
+          -77.0085361,
+          38.8905094
+        ],
+        [
+          -77.0085539,
+          38.8905091
+        ],
+        [
+          -77.0085634,
+          38.8905096
+        ],
+        [
+          -77.0085741,
+          38.8905094
+        ],
+        [
+          -77.0085998,
+          38.890509
+        ],
+        [
+          -77.0085983,
+          38.890423
+        ],
+        [
+          -77.0086373,
+          38.8904231
+        ],
+        [
+          -77.0086373,
+          38.8904181
+        ],
+        [
+          -77.00865,
+          38.8904181
+        ],
+        [
+          -77.0087985,
+          38.8904183
+        ],
+        [
+          -77.0087978,
+          38.8903572
+        ],
+        [
+          -77.0087981,
+          38.8902913
+        ],
+        [
+          -77.0087289,
+          38.8902911
+        ],
+        [
+          -77.0087289,
+          38.8902813
+        ],
+        [
+          -77.0087192,
+          38.8902813
+        ],
+        [
+          -77.0087193,
+          38.8902682
+        ],
+        [
+          -77.0087196,
+          38.890189
+        ],
+        [
+          -77.0087201,
+          38.89014
+        ],
+        [
+          -77.0087206,
+          38.8900574
+        ],
+        [
+          -77.0087207,
+          38.8900381
+        ],
+        [
+          -77.0086779,
+          38.890038
+        ],
+        [
+          -77.0086786,
+          38.8899177
+        ],
+        [
+          -77.0086435,
+          38.8899176
+        ],
+        [
+          -77.0086094,
+          38.8899175
+        ],
+        [
+          -77.0085833,
+          38.8899174
+        ],
+        [
+          -77.0085236,
+          38.8899173
+        ],
+        [
+          -77.0085235,
+          38.8899074
+        ],
+        [
+          -77.00847,
+          38.8899075
+        ],
+        [
+          -77.0084684,
+          38.8898096
+        ],
+        [
+          -77.0084673,
+          38.8897165
+        ],
+        [
+          -77.0085218,
+          38.8897159
+        ],
+        [
+          -77.0085216,
+          38.8897046
+        ],
+        [
+          -77.0085869,
+          38.889705
+        ],
+        [
+          -77.0086097,
+          38.8897046
+        ],
+        [
+          -77.0086443,
+          38.8897043
+        ],
+        [
+          -77.0086829,
+          38.8897049
+        ],
+        [
+          -77.0086821,
+          38.8895799
+        ],
+        [
+          -77.0087272,
+          38.88958
+        ],
+        [
+          -77.0087272,
+          38.8895562
+        ],
+        [
+          -77.0087274,
+          38.8894772
+        ],
+        [
+          -77.008728,
+          38.8894284
+        ],
+        [
+          -77.0087285,
+          38.889345
+        ],
+        [
+          -77.0087286,
+          38.8893308
+        ],
+        [
+          -77.0087988,
+          38.889331
+        ],
+        [
+          -77.0087991,
+          38.889268
+        ],
+        [
+          -77.0087994,
+          38.8892058
+        ],
+        [
+          -77.0086399,
+          38.8892053
+        ],
+        [
+          -77.0086399,
+          38.8892029
+        ],
+        [
+          -77.0085993,
+          38.8892027
+        ],
+        [
+          -77.0085998,
+          38.8891189
+        ],
+        [
+          -77.0085682,
+          38.8891188
+        ],
+        [
+          -77.0085597,
+          38.8891187
+        ],
+        [
+          -77.008553,
+          38.8891188
+        ],
+        [
+          -77.0085375,
+          38.8891189
+        ],
+        [
+          -77.0085216,
+          38.889119
+        ],
+        [
+          -77.0085092,
+          38.8891191
+        ],
+        [
+          -77.0084606,
+          38.8891195
+        ],
+        [
+          -77.0084601,
+          38.8891473
+        ],
+        [
+          -77.0083971,
+          38.8891476
+        ],
+        [
+          -77.0083279,
+          38.889148
+        ],
+        [
+          -77.0083284,
+          38.8890136
+        ],
+        [
+          -77.0083295,
+          38.8888754
+        ],
+        [
+          -77.0083998,
+          38.8888755
+        ],
+        [
+          -77.0084668,
+          38.8888755
+        ],
+        [
+          -77.0084665,
+          38.8889135
+        ],
+        [
+          -77.0085099,
+          38.8889132
+        ],
+        [
+          -77.0085195,
+          38.8889131
+        ],
+        [
+          -77.0085368,
+          38.8889129
+        ],
+        [
+          -77.0085523,
+          38.8889128
+        ],
+        [
+          -77.0085636,
+          38.8889127
+        ],
+        [
+          -77.0085832,
+          38.8889127
+        ],
+        [
+          -77.0086022,
+          38.8889094
+        ],
+        [
+          -77.0086024,
+          38.8888588
+        ],
+        [
+          -77.0086027,
+          38.8888151
+        ],
+        [
+          -77.0086333,
+          38.8888152
+        ],
+        [
+          -77.0086548,
+          38.8888153
+        ],
+        [
+          -77.0086753,
+          38.8888154
+        ],
+        [
+          -77.0088512,
+          38.888816
+        ],
+        [
+          -77.0088514,
+          38.8887824
+        ],
+        [
+          -77.009063,
+          38.8887831
+        ],
+        [
+          -77.0092745,
+          38.8887838
+        ],
+        [
+          -77.0092744,
+          38.8888111
+        ],
+        [
+          -77.0094867,
+          38.8888118
+        ],
+        [
+          -77.0094864,
+          38.8888588
+        ],
+        [
+          -77.0095238,
+          38.888859
+        ],
+        [
+          -77.0095241,
+          38.8889514
+        ],
+        [
+          -77.0095241,
+          38.88901
+        ],
+        [
+          -77.0095222,
+          38.8891558
+        ],
+        [
+          -77.0094875,
+          38.8891556
+        ],
+        [
+          -77.0094872,
+          38.8892082
+        ],
+        [
+          -77.0091579,
+          38.8892071
+        ],
+        [
+          -77.0091576,
+          38.8892648
+        ],
+        [
+          -77.0091573,
+          38.8893301
+        ],
+        [
+          -77.0092771,
+          38.8893305
+        ],
+        [
+          -77.0092763,
+          38.8894511
+        ],
+        [
+          -77.0092762,
+          38.8894681
+        ],
+        [
+          -77.0092756,
+          38.8895697
+        ],
+        [
+          -77.0095294,
+          38.8895705
+        ],
+        [
+          -77.0095289,
+          38.8896615
+        ],
+        [
+          -77.009574,
+          38.8896617
+        ],
+        [
+          -77.0095732,
+          38.889794
+        ],
+        [
+          -77.0095731,
+          38.8898105
+        ],
+        [
+          -77.0095731,
+          38.8898154
+        ],
+        [
+          -77.0095723,
+          38.8898342
+        ],
+        [
+          -77.0095723,
+          38.8899575
+        ],
+        [
+          -77.0095332,
+          38.8899574
+        ],
+        [
+          -77.0095327,
+          38.8900502
+        ],
+        [
+          -77.0092783,
+          38.8900493
+        ],
+        [
+          -77.0092775,
+          38.8901857
+        ],
+        [
+          -77.0092769,
+          38.8902889
+        ],
+        [
+          -77.0091556,
+          38.8902885
+        ],
+        [
+          -77.0091552,
+          38.8903531
+        ],
+        [
+          -77.0091549,
+          38.8904199
+        ],
+        [
+          -77.0094867,
+          38.890421
+        ],
+        [
+          -77.0094864,
+          38.890461
+        ],
+        [
+          -77.009526,
+          38.8904611
+        ],
+        [
+          -77.0095243,
+          38.8907608
+        ],
+        [
+          -77.0094877,
+          38.8907607
+        ],
+        [
+          -77.0094875,
+          38.8908124
+        ],
+        [
+          -77.0092811,
+          38.8908116
+        ],
+        [
+          -77.009281,
+          38.8908427
+        ],
+        [
+          -77.0090683,
+          38.8908419
+        ],
+        [
+          -77.0088375,
+          38.8908411
+        ],
+        [
+          -77.0088377,
+          38.8908133
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 66418809,
+    "version": 95,
+    "timestamp": "2026-05-15T14:49:55Z",
+    "url": "https://www.openstreetmap.org/way/66418809"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 657315658,
+      "version": 15,
+      "timestamp": "2021-12-11T00:17:55Z",
+      "url": "https://www.openstreetmap.org/way/657315658"
+    },
+    {
+      "type": "way",
+      "id": 311181726,
+      "version": 53,
+      "timestamp": "2026-07-13T20:32:51Z",
+      "url": "https://www.openstreetmap.org/way/311181726"
+    },
+    {
+      "type": "way",
+      "id": 311181727,
+      "version": 34,
+      "timestamp": "2026-05-15T00:27:57Z",
+      "url": "https://www.openstreetmap.org/way/311181727"
+    },
+    {
+      "type": "way",
+      "id": 507459309,
+      "version": 10,
+      "timestamp": "2021-02-07T00:50:10Z",
+      "url": "https://www.openstreetmap.org/way/507459309"
+    },
+    {
+      "type": "way",
+      "id": 507459310,
+      "version": 1,
+      "timestamp": "2017-07-14T04:51:16Z",
+      "url": "https://www.openstreetmap.org/way/507459310"
+    },
+    {
+      "type": "way",
+      "id": 507459311,
+      "version": 3,
+      "timestamp": "2021-01-10T15:03:53Z",
+      "url": "https://www.openstreetmap.org/way/507459311"
+    },
+    {
+      "type": "way",
+      "id": 507459312,
+      "version": 1,
+      "timestamp": "2017-07-14T04:51:16Z",
+      "url": "https://www.openstreetmap.org/way/507459312"
+    },
+    {
+      "type": "way",
+      "id": 507459313,
+      "version": 2,
+      "timestamp": "2017-07-14T05:27:53Z",
+      "url": "https://www.openstreetmap.org/way/507459313"
+    },
+    {
+      "type": "way",
+      "id": 507459314,
+      "version": 5,
+      "timestamp": "2017-07-15T20:30:58Z",
+      "url": "https://www.openstreetmap.org/way/507459314"
+    },
+    {
+      "type": "way",
+      "id": 507459315,
+      "version": 5,
+      "timestamp": "2024-05-19T03:37:55Z",
+      "url": "https://www.openstreetmap.org/way/507459315"
+    },
+    {
+      "type": "way",
+      "id": 507459316,
+      "version": 5,
+      "timestamp": "2024-05-19T03:37:55Z",
+      "url": "https://www.openstreetmap.org/way/507459316"
+    },
+    {
+      "type": "way",
+      "id": 507459318,
+      "version": 7,
+      "timestamp": "2024-05-19T03:37:55Z",
+      "url": "https://www.openstreetmap.org/way/507459318"
+    },
+    {
+      "type": "way",
+      "id": 507459319,
+      "version": 5,
+      "timestamp": "2024-05-19T03:37:55Z",
+      "url": "https://www.openstreetmap.org/way/507459319"
+    },
+    {
+      "type": "way",
+      "id": 507459320,
+      "version": 4,
+      "timestamp": "2017-07-15T20:30:58Z",
+      "url": "https://www.openstreetmap.org/way/507459320"
+    },
+    {
+      "type": "way",
+      "id": 507459321,
+      "version": 3,
+      "timestamp": "2022-07-19T20:27:07Z",
+      "url": "https://www.openstreetmap.org/way/507459321"
+    },
+    {
+      "type": "way",
+      "id": 507459322,
+      "version": 4,
+      "timestamp": "2023-10-27T12:49:55Z",
+      "url": "https://www.openstreetmap.org/way/507459322"
+    },
+    {
+      "type": "way",
+      "id": 507459324,
+      "version": 1,
+      "timestamp": "2017-07-14T04:51:18Z",
+      "url": "https://www.openstreetmap.org/way/507459324"
+    },
+    {
+      "type": "way",
+      "id": 507842343,
+      "version": 1,
+      "timestamp": "2017-07-15T20:06:38Z",
+      "url": "https://www.openstreetmap.org/way/507842343"
+    },
+    {
+      "type": "way",
+      "id": 507832690,
+      "version": 9,
+      "timestamp": "2026-05-15T14:49:55Z",
+      "url": "https://www.openstreetmap.org/way/507832690"
+    },
+    {
+      "type": "way",
+      "id": 1301380219,
+      "version": 1,
+      "timestamp": "2024-07-14T21:33:31Z",
+      "url": "https://www.openstreetmap.org/way/1301380219"
+    },
+    {
+      "type": "way",
+      "id": 1301380220,
+      "version": 1,
+      "timestamp": "2024-07-14T21:33:31Z",
+      "url": "https://www.openstreetmap.org/way/1301380220"
+    },
+    {
+      "type": "way",
+      "id": 1301380221,
+      "version": 2,
+      "timestamp": "2026-02-21T10:42:30Z",
+      "url": "https://www.openstreetmap.org/way/1301380221"
+    }
+  ],
+  "wikidata": "Q54109",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/dc-us-capitol.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "United States Capitol, Washington, DC — procedural, CC0-1.0, no textures. bun generators/dc-us-capitol.ts",
+    "Map frame: x east, y north, z up, metres. Anchor is the centroid of the OSM outline way/66418809 (-77.00900, 38.88981); the plan is built axis-aligned and placed at bearing 0.2°, the outline's measured skew. The building is mirrored about y = 0 (the east–west axis), as the real one is to within 0.4 m in OSM.",
+    "Evidence",
+    "OSM (measured): outline way/66418809, height 87.6; parts 657315658 (central block, 21.2), 311181726/311181727 (House and Senate wings, 24.2 with 3 m hipped roofs), 507459309 (east portico gable, 21.2–25), 507459324 (dome base, 21.2–27), 507459322 peristyle (27–39.3, Ø 38), 507459321 attic (39.3–49.4, Ø 33), 507842343 (49.4–51.8, Ø 30), 507459320 dome (51.8–67.3, Ø 27), 507459319/318/316/315 lantern tiers (65.3–76.2, Ø 10/8/6/8), 507459314 cap (76.2–81.7), 507832690 Statue of Freedom (to 87.6); 507459311/313 the low domes over the old chambers (21.2–25, Ø 21) and 507459310/312 their lanterns (to 27); 1301380219/20/21 the east stairs (8 m).",
+    "Published: dome 288 ft (87.8 m) to the top of the statue, 36 peristyle columns (Wikipedia, \"United States Capitol dome\"); Statue of Freedom 19.5 ft (5.9 m); building 751 × 350 ft (229 × 107 m), which matches the OSM outline (228 × 108 m).",
+    "Photos (Wikimedia Commons, looked at, not traced): east front, Martin Falbisoner, CC BY-SA 3.0, File:US_Capitol_east_side.JPG; west front, Architect of the Capitol, public domain, File:United_States_Capitol_-_west_front.jpg; dome, Diliff, CC BY 2.5, File:US_Capitol_dome_Jan_2006.jpg; dome, Andreas Praefcke, CC BY 3.0, File:Capitol_dome_Washington_DC_2007.jpg; aerial from the west, Carol M. Highsmith, public domain, File:Aerial_view,_United_States_Capitol_building,_Washington,_D.C_LCCN2010630477.jpg; north-east, Beethoven, CC BY-SA 4.0, File:2018-03-26_–_United_States_Capitol_East_Front,_viewed_from_the_northeast_…jpg; south-west, AgnosticPreachersKid, CC BY-SA 3.0, File:Southwest_corner_of_the_United_States_Capitol.JPG; House wing, Architect of the Capitol, public domain, File:Flickr_-_USCapitol_-_South_Wing_of_the_United_States_Capitol.jpg.",
+    "Estimated from the photos: storey heights (ground floor 6.7 m, giant order to 17.8 m, cornice to 19.8, balustrade to 21.2), the column counts of each portico and colonnade, the attic over the west front's centre (to 24.4), the dome profile between the OSM tiers (a raised curve, 14.6 m semi-axis over a 13.6 m radius), the pediment pitch (16°) and the stair runs. The pediments of the wing porticos are not in OSM; the photos show them. Not modelled: the West Front terraces and stairs (way/904789847, outside the outline), lawns, the reflecting pool, sculpture, lettering.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"dc-us-capitol\", model \"dc-us-capitol\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/dc-us-capitol.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 145 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the dc-us-capitol-glazing finish in the window colour.",
+    "To fit six materials, folded trim into stone (ΔE 4.8)."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

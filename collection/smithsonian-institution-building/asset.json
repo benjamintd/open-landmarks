@@ -1,0 +1,540 @@
+{
+  "id": "smithsonian-institution-building",
+  "name": "Smithsonian Institution Building",
+  "anchor": [
+    -77.0259511,
+    38.8887781
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 152084,
+      "sha256": "f3d9bceefb63d7c3c00f645a7705927440bcdf639e08a135c11348b0fd860a3a"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 152084,
+      "sha256": "f3d9bceefb63d7c3c00f645a7705927440bcdf639e08a135c11348b0fd860a3a"
+    }
+  },
+  "triangles": 3256,
+  "boundsBlenderM": [
+    [
+      -67.85,
+      -23.35,
+      0
+    ],
+    [
+      68.14,
+      25.3,
+      41.7
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -77.026697,
+          38.8886663
+        ],
+        [
+          -77.0266943,
+          38.8888291
+        ],
+        [
+          -77.0267288,
+          38.8888291
+        ],
+        [
+          -77.0267287,
+          38.8888644
+        ],
+        [
+          -77.0266628,
+          38.8888644
+        ],
+        [
+          -77.0266626,
+          38.8888672
+        ],
+        [
+          -77.0266488,
+          38.8888891
+        ],
+        [
+          -77.0266198,
+          38.8888984
+        ],
+        [
+          -77.0265902,
+          38.8888906
+        ],
+        [
+          -77.0265741,
+          38.8888644
+        ],
+        [
+          -77.0265466,
+          38.8888644
+        ],
+        [
+          -77.0265466,
+          38.8888446
+        ],
+        [
+          -77.0263598,
+          38.8888445
+        ],
+        [
+          -77.0263598,
+          38.8888662
+        ],
+        [
+          -77.0263267,
+          38.8888662
+        ],
+        [
+          -77.0263267,
+          38.8888488
+        ],
+        [
+          -77.02616,
+          38.8888487
+        ],
+        [
+          -77.0260865,
+          38.8888487
+        ],
+        [
+          -77.0260865,
+          38.8888615
+        ],
+        [
+          -77.0260865,
+          38.8888765
+        ],
+        [
+          -77.0260865,
+          38.8888892
+        ],
+        [
+          -77.0260865,
+          38.8889255
+        ],
+        [
+          -77.0260585,
+          38.8889422
+        ],
+        [
+          -77.0260348,
+          38.8889414
+        ],
+        [
+          -77.026018,
+          38.8889308
+        ],
+        [
+          -77.026018,
+          38.8889608
+        ],
+        [
+          -77.0260181,
+          38.8889835
+        ],
+        [
+          -77.0260181,
+          38.889005
+        ],
+        [
+          -77.0259965,
+          38.889005
+        ],
+        [
+          -77.0259804,
+          38.889005
+        ],
+        [
+          -77.0259433,
+          38.889005
+        ],
+        [
+          -77.0259433,
+          38.8889831
+        ],
+        [
+          -77.0259433,
+          38.8889612
+        ],
+        [
+          -77.0259434,
+          38.8889486
+        ],
+        [
+          -77.0258644,
+          38.888948
+        ],
+        [
+          -77.0258645,
+          38.8888817
+        ],
+        [
+          -77.0258727,
+          38.8888817
+        ],
+        [
+          -77.0258762,
+          38.888869
+        ],
+        [
+          -77.0258738,
+          38.8888543
+        ],
+        [
+          -77.0258727,
+          38.8888473
+        ],
+        [
+          -77.0257652,
+          38.8888474
+        ],
+        [
+          -77.0256279,
+          38.8888474
+        ],
+        [
+          -77.0256277,
+          38.8888755
+        ],
+        [
+          -77.0255666,
+          38.8888754
+        ],
+        [
+          -77.0255666,
+          38.8888356
+        ],
+        [
+          -77.0254069,
+          38.8888355
+        ],
+        [
+          -77.0254068,
+          38.8888818
+        ],
+        [
+          -77.025224,
+          38.8888818
+        ],
+        [
+          -77.025224,
+          38.8888027
+        ],
+        [
+          -77.0251814,
+          38.8888027
+        ],
+        [
+          -77.0251814,
+          38.8887863
+        ],
+        [
+          -77.0251656,
+          38.8887861
+        ],
+        [
+          -77.0251662,
+          38.8887513
+        ],
+        [
+          -77.0251814,
+          38.8887509
+        ],
+        [
+          -77.0251814,
+          38.8887343
+        ],
+        [
+          -77.0252235,
+          38.8887342
+        ],
+        [
+          -77.0252241,
+          38.8886568
+        ],
+        [
+          -77.0254059,
+          38.8886573
+        ],
+        [
+          -77.0254065,
+          38.8887031
+        ],
+        [
+          -77.0255871,
+          38.8887031
+        ],
+        [
+          -77.0255872,
+          38.8886881
+        ],
+        [
+          -77.0255913,
+          38.8886849
+        ],
+        [
+          -77.0255989,
+          38.888679
+        ],
+        [
+          -77.0256151,
+          38.8886788
+        ],
+        [
+          -77.0256285,
+          38.8886892
+        ],
+        [
+          -77.0256285,
+          38.8886985
+        ],
+        [
+          -77.0256698,
+          38.8886985
+        ],
+        [
+          -77.0257087,
+          38.8886985
+        ],
+        [
+          -77.0259315,
+          38.8886984
+        ],
+        [
+          -77.0259315,
+          38.8886603
+        ],
+        [
+          -77.0259255,
+          38.8886603
+        ],
+        [
+          -77.0259249,
+          38.8885777
+        ],
+        [
+          -77.0259784,
+          38.8885777
+        ],
+        [
+          -77.0260314,
+          38.8885775
+        ],
+        [
+          -77.0260337,
+          38.8885781
+        ],
+        [
+          -77.0260337,
+          38.8886075
+        ],
+        [
+          -77.0260487,
+          38.8886075
+        ],
+        [
+          -77.0260575,
+          38.8886147
+        ],
+        [
+          -77.0260575,
+          38.8886251
+        ],
+        [
+          -77.0260501,
+          38.8886326
+        ],
+        [
+          -77.0260344,
+          38.8886326
+        ],
+        [
+          -77.0260344,
+          38.8886448
+        ],
+        [
+          -77.0260344,
+          38.8886616
+        ],
+        [
+          -77.0260304,
+          38.8886623
+        ],
+        [
+          -77.0260303,
+          38.8886976
+        ],
+        [
+          -77.0261599,
+          38.8886976
+        ],
+        [
+          -77.0263059,
+          38.8886976
+        ],
+        [
+          -77.0262946,
+          38.8886883
+        ],
+        [
+          -77.0262942,
+          38.8886748
+        ],
+        [
+          -77.0263069,
+          38.8886633
+        ],
+        [
+          -77.0263252,
+          38.8886632
+        ],
+        [
+          -77.0263395,
+          38.8886742
+        ],
+        [
+          -77.0263392,
+          38.8886875
+        ],
+        [
+          -77.026328,
+          38.8886965
+        ],
+        [
+          -77.0265467,
+          38.8886965
+        ],
+        [
+          -77.0265467,
+          38.888666
+        ],
+        [
+          -77.026697,
+          38.8886663
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "relation",
+    "id": 7393969,
+    "version": 15,
+    "timestamp": "2026-05-27T19:26:13Z",
+    "url": "https://www.openstreetmap.org/relation/7393969"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q605937",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Smithsonian Building NR.jpg",
+      "author": "User:Noclip",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Smithsonian_Building_NR.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Smithsonian_Building_NR.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Smithsonian Institution Building south.jpg",
+      "author": "Robert Lyle Bolton",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Smithsonian_Institution_Building_south.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Washington October 2016-13.jpg",
+      "author": "Alvesgaspar",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Washington_October_2016-13.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:The Smithsonian Castle in Winter.jpg",
+      "author": "Northern-Virginia-Photographer",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:The_Smithsonian_Castle_in_Winter.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Smithsonian Castle Aerial highsmith.jpg",
+      "author": "Highsmith, Carol M., 1946-, photographer",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Smithsonian_Castle_Aerial_highsmith.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Smithsonian_Castle_Aerial_highsmith.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Aerial View of Castle.jpg",
+      "author": "Jeffrey Ploskonka",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Aerial_View_of_Castle.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Aerial_View_of_Castle.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/dc-smithsonian-castle.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Smithsonian Institution Building (\"the Castle\") — procedural, CC0-1.0, no textures. bun generators/dc-smithsonian-castle.ts",
+    "Also the small kit for the Smithsonian group (dc-smithsonian-castle, dc-arts-and-industries, dc-hirshhorn, dc-air-and-space): the helpers below are exported and the model is only built when this file is run directly. They sit on top of the President's Park kit in dc-white-house.ts.",
+    "Map frame: x east, y north, z up, metres; bearing 0°, the outline's long walls running due east–west. The anchor is the area centroid of the OSM outline relation/7393969 (lng -77.0259511, lat 38.8887781).",
+    "What it is: James Renwick's Norman Revival castle (1847–55; East Wing raised by Adolf Cluss, 1883) in Seneca red sandstone, a muted red-mauve, under dark slate roofs. From west to east: the West Wing (the \"chapel\", a gabled hall with an apse on the north), the low West Range, the Centre Building (two storeys of round-arched windows under a long gabled roof), the East Range and the East Wing. The towers are the identity, so each is drawn with its own plan, height and top:",
+    "Flag Tower (north, west of the entrance): the tallest, 41.7 m; square with corner buttresses, an octagonal belfry stage, a flat corbelled top.",
+    "North Tower (east of the entrance): square, a steep flared slate pyramid to 34.5 m.",
+    "Between them, the entrance front's tall gable with its rose window, and the crenellated porte-cochère in front.",
+    "South Tower: 9.3 × 13 m, crenellated, 25.9 m, with the oriel window and the arched south door; a round crenellated stair turret on its west side to 29.6 m.",
+    "Campanile (north-east corner of the Centre Building): 5.3 m square, a belfry stage and a flared pyramid spire to 35.7 m.",
+    "Octagonal Tower (south-west corner): 26.5 m, flat corbelled top.",
+    "South-east tower: slender octagon with a slate spire, 27.4 m.",
+    "North-west tower of the Centre Building: slender, with a spire, 27.7 m.",
+    "West Wing tower (north-west): slender, with a spire, 27.4 m.",
+    "Covers and replaces: relation/7393969, the outline (its three member ways are untagged). OSM has no building:parts inside it. The small dcgis buildings south of it in the Haupt Garden (way/66418599, 66418611, …) are garden kiosks and stair heads, not part of the Castle, and are left alone.",
+    "Evidence",
+    "OSM (measured): the outline, 135.5 × 47 m overall. Centre Building x −32.5…28.0, y −8.9…7.8 (16.7 m deep); West Range to x −51.6; West Wing x −64.6…−51.6 with its apse (r 3.9 m) and tower; East Range to x 47.2; East Wing x 47.2…63.0 with its east porch to 68.1; the north entrance group x −11.7…7.5 out to y 25.1; the South Tower x −7.0…2.3 to y −22.2; the round bumps for the octagonal towers and the stair turret.",
+    "HABS DC-141 (public domain), photogrammetric elevations by Ohio State University, 1963 (sheets 1–4 of 6: north, east, south and west elevations, scale bars in feet and metres) and the 21-sheet set of plans and sections. Heights read off them, ground = the north entrance: Flag Tower 136.9 ft (41.7 m, stated); South Tower parapet 84.9 ft (25.9 m, stated); stair turret 97 ft; Campanile 115 ft; North Tower's pyramid 113 ft; NW and SE spires about 90–96 ft; Octagonal Tower about 87 ft; Centre Building eaves about 16 m and ridge 21.7 m (its west gable); ranges 10.7–11 m; West Wing eaves 10.7 m, gable 18.4 m; East Wing walls about 13 m, roofs to about 19 m, its lantern 22 m; porte-cochère 6.7 m.",
+    "Published (Wikipedia, \"Smithsonian Institution Building\"): South Tower 91 ft high and 37 ft square; the taller north tower 145 ft; the Campanile 17 ft square and 117 ft tall. Seneca red sandstone.",
+    "Photos (Wikimedia Commons): south front, \"Smithsonian Building NR.jpg\" (Noclip, public domain) and \"Smithsonian Institution Building south.jpg\" (Robert Lyle Bolton, CC BY 2.0, 2019); from the north, \"Washington October 2016-13.jpg\" (Alvesgaspar, CC BY-SA 4.0) and \"The Smithsonian Castle in Winter.jpg\" (Northern-Virginia-Photographer, CC BY-SA 4.0, 2020); aerials \"Smithsonian Castle Aerial highsmith.jpg\" (Carol M. Highsmith, public domain, 2006, from the south) and \"Aerial View of Castle.jpg\" (Jeffrey Ploskonka, public domain, from the north).",
+    "Estimated: storey heights and window sizes from the elevations; the Flag Tower's octagonal stage from 30 m (HABS sheet 17 plans its upper floors as octagons); the East Wing's roofs simplified to one hip with a lantern and four corner stacks; the West Range and East Range roofs drawn as low hips.",
+    "Simplified: corbel tables are one projecting band; buttresses only on the big towers; merlons only where the photos show crenellations (South Tower, stair turret, porte-cochère, North Tower's parapet); the flagpole and finials are left out. The Castle has been under renovation since 2023; it is drawn as finished, as before the works.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"dc-smithsonian-castle\", model \"dc-smithsonian-castle\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/dc-smithsonian-castle.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 8 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the dc-smithsonian-castle-glazing finish in the window colour."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

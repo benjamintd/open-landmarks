@@ -1,0 +1,176 @@
+{
+  "id": "united-states-air-force-memorial",
+  "name": "United States Air Force Memorial",
+  "anchor": [
+    -77.0662258,
+    38.8685145
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 12684,
+      "sha256": "cd745e33008fcc2dc7ac60964090beb90a43bf33c23f12353f3427c2ac0a8c1d"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 12684,
+      "sha256": "cd745e33008fcc2dc7ac60964090beb90a43bf33c23f12353f3427c2ac0a8c1d"
+    }
+  },
+  "triangles": 319,
+  "boundsBlenderM": [
+    [
+      -21.609,
+      -23.651,
+      0
+    ],
+    [
+      25.793,
+      18.832,
+      82.3
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -77.0664976,
+          38.8689508
+        ],
+        [
+          -77.0667703,
+          38.8688879
+        ],
+        [
+          -77.066699,
+          38.8687063
+        ],
+        [
+          -77.066898,
+          38.8686585
+        ],
+        [
+          -77.066923,
+          38.8686523
+        ],
+        [
+          -77.0669405,
+          38.8686343
+        ],
+        [
+          -77.0669265,
+          38.8686003
+        ],
+        [
+          -77.0669152,
+          38.8685727
+        ],
+        [
+          -77.0667665,
+          38.8682115
+        ],
+        [
+          -77.0669428,
+          38.8680634
+        ],
+        [
+          -77.0668833,
+          38.8679335
+        ],
+        [
+          -77.0666362,
+          38.8681372
+        ],
+        [
+          -77.0666245,
+          38.8681467
+        ],
+        [
+          -77.0665005,
+          38.8682465
+        ],
+        [
+          -77.0664613,
+          38.8681451
+        ],
+        [
+          -77.0662014,
+          38.8682078
+        ],
+        [
+          -77.0662628,
+          38.868368
+        ],
+        [
+          -77.066101,
+          38.8685072
+        ],
+        [
+          -77.0660393,
+          38.8685603
+        ],
+        [
+          -77.0663626,
+          38.8686165
+        ],
+        [
+          -77.0664107,
+          38.8687383
+        ],
+        [
+          -77.0664976,
+          38.8689508
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 38314833,
+    "version": 13,
+    "timestamp": "2024-04-24T15:15:30Z",
+    "url": "https://www.openstreetmap.org/way/38314833"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q7889224",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/dc-air-force-memorial.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "United States Air Force Memorial, Arlington, Virginia — procedural, CC0-1.0.",
+    "Map frame: x east, y north, z up, metres. The origin is the middle of the three spire bases (lng -77.0662258, lat 38.8685145), on the plaza. Bearing 0: the bases are placed as OSM has them, in true north.",
+    "Three stainless-steel spires (James Ingo Freed, 2006), 270, 231 and 201 ft tall, rising from points 120° apart and peeling away from each other like the contrails of a bomb burst. Each is a triangular blade tapering to a point, near-vertical at the foot and curving outward as it climbs.",
+    "Evidence - OSM (measured): the three spire footprints, way/1097795824 (height 82.3), way/1097795825 (61.2) and way/1097795826 (70.4), each a triangle about 3.7 × 3.4 m, tagged historic=memorial, material=stainless_steel. None is a building, and the memorial's areas (way/38314833, way/171790083) are historic=monument, not buildings, so the model replaces nothing. - Published (Wikipedia): spires 201 ft (61 m) to 270 ft (82 m); stainless steel plate, concrete-filled in the lower two-thirds. - Photos (Wikimedia Commons): Duane Lempke's three aerials (CC0) from the north-east, south-west and above; Arlington County's aerial (CC BY-SA 2.0); Tony Webster (CC BY-SA 2.0) from the foot of the spires; Thomson200 (CC0) from the approach. Used for the curvature, the taper and the triangular section.",
+    "Estimated: the outward sweep of each tip, about a fifth of the spire's height (read off the aerials, where the near-radial spire stands straight and the other two splay to the sides), growing with the height to the power 1.8: a gentle arc the whole way up, as the aerials show, not a hook at the top. The section is OSM's triangle, tapering to a 0.2 m tip.",
+    "The dais under the spires is drawn as a low hexagonal plinth, 0.8 m high (estimated); its paving and star are ground.",
+    "Left out: the Honor Guard statues, the inscription walls and the glass contemplation wall, all small and some way from the spires; the plaza and its star are ground.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"dc-air-force-memorial\", model \"dc-air-force-memorial\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/dc-air-force-memorial.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

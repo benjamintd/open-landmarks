@@ -1,0 +1,947 @@
+{
+  "id": "washington-national-cathedral",
+  "name": "Washington National Cathedral",
+  "anchor": [
+    -77.0707911,
+    38.9306103
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 13,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 213840,
+      "sha256": "15f152f77981ce26a0c316fdc73d4645f017449c01a7cf45ecadbcc59b419746"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 213840,
+      "sha256": "15f152f77981ce26a0c316fdc73d4645f017449c01a7cf45ecadbcc59b419746"
+    }
+  },
+  "triangles": 3905,
+  "boundsBlenderM": [
+    [
+      -78.529,
+      -65.704,
+      0
+    ],
+    [
+      76.262,
+      74.45,
+      94.8
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -77.0702858,
+          38.9311389
+        ],
+        [
+          -77.0702487,
+          38.9310249
+        ],
+        [
+          -77.0702037,
+          38.9308867
+        ],
+        [
+          -77.0701994,
+          38.9308875
+        ],
+        [
+          -77.0701891,
+          38.9308636
+        ],
+        [
+          -77.0701727,
+          38.930868
+        ],
+        [
+          -77.0701568,
+          38.9308312
+        ],
+        [
+          -77.0700885,
+          38.9308505
+        ],
+        [
+          -77.0700828,
+          38.9308833
+        ],
+        [
+          -77.0700568,
+          38.9308805
+        ],
+        [
+          -77.070062,
+          38.930851
+        ],
+        [
+          -77.0699924,
+          38.9308241
+        ],
+        [
+          -77.0699597,
+          38.9308456
+        ],
+        [
+          -77.0699432,
+          38.9308303
+        ],
+        [
+          -77.0699772,
+          38.9308079
+        ],
+        [
+          -77.0699534,
+          38.9307527
+        ],
+        [
+          -77.0699068,
+          38.9307521
+        ],
+        [
+          -77.0699072,
+          38.930732
+        ],
+        [
+          -77.0699587,
+          38.9307328
+        ],
+        [
+          -77.0699803,
+          38.9306811
+        ],
+        [
+          -77.0699463,
+          38.9306577
+        ],
+        [
+          -77.0699645,
+          38.9306416
+        ],
+        [
+          -77.0700008,
+          38.9306666
+        ],
+        [
+          -77.0700599,
+          38.9306498
+        ],
+        [
+          -77.0700417,
+          38.9306079
+        ],
+        [
+          -77.0700695,
+          38.9306006
+        ],
+        [
+          -77.0700836,
+          38.9306333
+        ],
+        [
+          -77.0701098,
+          38.9306259
+        ],
+        [
+          -77.0701343,
+          38.9306189
+        ],
+        [
+          -77.0701165,
+          38.9305807
+        ],
+        [
+          -77.0701845,
+          38.9305614
+        ],
+        [
+          -77.070171,
+          38.9305294
+        ],
+        [
+          -77.0701952,
+          38.9305232
+        ],
+        [
+          -77.0702083,
+          38.9305546
+        ],
+        [
+          -77.0702555,
+          38.9305413
+        ],
+        [
+          -77.0702423,
+          38.930506
+        ],
+        [
+          -77.0702702,
+          38.9304996
+        ],
+        [
+          -77.0702828,
+          38.9305335
+        ],
+        [
+          -77.0703414,
+          38.9305169
+        ],
+        [
+          -77.0703222,
+          38.9304757
+        ],
+        [
+          -77.070314,
+          38.9304779
+        ],
+        [
+          -77.0702975,
+          38.9304737
+        ],
+        [
+          -77.0702931,
+          38.9304602
+        ],
+        [
+          -77.0702999,
+          38.9304494
+        ],
+        [
+          -77.0703174,
+          38.9304459
+        ],
+        [
+          -77.0703296,
+          38.9304491
+        ],
+        [
+          -77.0703325,
+          38.9304556
+        ],
+        [
+          -77.0703792,
+          38.9304423
+        ],
+        [
+          -77.070358,
+          38.9303965
+        ],
+        [
+          -77.070323,
+          38.930405
+        ],
+        [
+          -77.0703115,
+          38.9303763
+        ],
+        [
+          -77.0704273,
+          38.9303447
+        ],
+        [
+          -77.0704195,
+          38.9303277
+        ],
+        [
+          -77.0703944,
+          38.9303213
+        ],
+        [
+          -77.070389,
+          38.9303046
+        ],
+        [
+          -77.0703949,
+          38.9302904
+        ],
+        [
+          -77.0704033,
+          38.930288
+        ],
+        [
+          -77.070399,
+          38.9302788
+        ],
+        [
+          -77.0704201,
+          38.9302728
+        ],
+        [
+          -77.0704244,
+          38.9302821
+        ],
+        [
+          -77.070491,
+          38.9302632
+        ],
+        [
+          -77.0705581,
+          38.9302441
+        ],
+        [
+          -77.0705528,
+          38.9302338
+        ],
+        [
+          -77.0705748,
+          38.930227
+        ],
+        [
+          -77.0705804,
+          38.9302378
+        ],
+        [
+          -77.0705886,
+          38.9302355
+        ],
+        [
+          -77.0706125,
+          38.9302415
+        ],
+        [
+          -77.0706194,
+          38.930263
+        ],
+        [
+          -77.0706136,
+          38.930272
+        ],
+        [
+          -77.0706183,
+          38.9302828
+        ],
+        [
+          -77.0706733,
+          38.9302675
+        ],
+        [
+          -77.0706672,
+          38.9302526
+        ],
+        [
+          -77.0706855,
+          38.9302481
+        ],
+        [
+          -77.0706933,
+          38.9302667
+        ],
+        [
+          -77.0707316,
+          38.930256
+        ],
+        [
+          -77.0707405,
+          38.9302756
+        ],
+        [
+          -77.0707023,
+          38.9302861
+        ],
+        [
+          -77.0707243,
+          38.9303334
+        ],
+        [
+          -77.0707608,
+          38.930323
+        ],
+        [
+          -77.070764,
+          38.9303296
+        ],
+        [
+          -77.0708053,
+          38.9303179
+        ],
+        [
+          -77.0708146,
+          38.930338
+        ],
+        [
+          -77.0708776,
+          38.9303201
+        ],
+        [
+          -77.0708713,
+          38.9303051
+        ],
+        [
+          -77.0708902,
+          38.9303004
+        ],
+        [
+          -77.0708961,
+          38.9303148
+        ],
+        [
+          -77.0709501,
+          38.9302995
+        ],
+        [
+          -77.0709437,
+          38.9302856
+        ],
+        [
+          -77.0709623,
+          38.9302803
+        ],
+        [
+          -77.0709686,
+          38.9302942
+        ],
+        [
+          -77.071029,
+          38.930277
+        ],
+        [
+          -77.0710233,
+          38.9302643
+        ],
+        [
+          -77.0710392,
+          38.9302599
+        ],
+        [
+          -77.0710451,
+          38.9302725
+        ],
+        [
+          -77.0711015,
+          38.9302565
+        ],
+        [
+          -77.0710965,
+          38.9302447
+        ],
+        [
+          -77.0711133,
+          38.9302404
+        ],
+        [
+          -77.0711182,
+          38.9302518
+        ],
+        [
+          -77.0711772,
+          38.930235
+        ],
+        [
+          -77.0711726,
+          38.9302242
+        ],
+        [
+          -77.0711904,
+          38.9302197
+        ],
+        [
+          -77.0711948,
+          38.93023
+        ],
+        [
+          -77.0712595,
+          38.9302137
+        ],
+        [
+          -77.071212,
+          38.9301131
+        ],
+        [
+          -77.0712779,
+          38.9300944
+        ],
+        [
+          -77.0712623,
+          38.9300609
+        ],
+        [
+          -77.0713327,
+          38.9300423
+        ],
+        [
+          -77.0713275,
+          38.9300312
+        ],
+        [
+          -77.0713936,
+          38.9300124
+        ],
+        [
+          -77.0714543,
+          38.9301429
+        ],
+        [
+          -77.0715027,
+          38.9301302
+        ],
+        [
+          -77.0715236,
+          38.9301382
+        ],
+        [
+          -77.0715283,
+          38.9301493
+        ],
+        [
+          -77.0715501,
+          38.9301431
+        ],
+        [
+          -77.0715605,
+          38.9301654
+        ],
+        [
+          -77.071538,
+          38.9301717
+        ],
+        [
+          -77.0715659,
+          38.930236
+        ],
+        [
+          -77.0715903,
+          38.9302291
+        ],
+        [
+          -77.0716009,
+          38.930252
+        ],
+        [
+          -77.0715758,
+          38.9302591
+        ],
+        [
+          -77.0716016,
+          38.9303187
+        ],
+        [
+          -77.0716251,
+          38.9303731
+        ],
+        [
+          -77.0716515,
+          38.9303657
+        ],
+        [
+          -77.0716618,
+          38.9303888
+        ],
+        [
+          -77.071635,
+          38.9303961
+        ],
+        [
+          -77.0716617,
+          38.9304581
+        ],
+        [
+          -77.0716907,
+          38.9304506
+        ],
+        [
+          -77.0717012,
+          38.9304755
+        ],
+        [
+          -77.0716725,
+          38.9304829
+        ],
+        [
+          -77.0716672,
+          38.9305008
+        ],
+        [
+          -77.0716575,
+          38.9305035
+        ],
+        [
+          -77.0716697,
+          38.9305296
+        ],
+        [
+          -77.0716331,
+          38.9305402
+        ],
+        [
+          -77.0716861,
+          38.9306541
+        ],
+        [
+          -77.0716155,
+          38.9306739
+        ],
+        [
+          -77.0716126,
+          38.9306675
+        ],
+        [
+          -77.0715449,
+          38.9306855
+        ],
+        [
+          -77.0715293,
+          38.9306521
+        ],
+        [
+          -77.0714433,
+          38.9306749
+        ],
+        [
+          -77.0714081,
+          38.9305993
+        ],
+        [
+          -77.0714278,
+          38.9305937
+        ],
+        [
+          -77.0714178,
+          38.9305721
+        ],
+        [
+          -77.0713548,
+          38.9305887
+        ],
+        [
+          -77.071358,
+          38.9305959
+        ],
+        [
+          -77.0713395,
+          38.9306007
+        ],
+        [
+          -77.0713364,
+          38.9305935
+        ],
+        [
+          -77.071279,
+          38.9306087
+        ],
+        [
+          -77.0712821,
+          38.9306167
+        ],
+        [
+          -77.0712641,
+          38.930621
+        ],
+        [
+          -77.0712611,
+          38.9306134
+        ],
+        [
+          -77.0712054,
+          38.9306281
+        ],
+        [
+          -77.071209,
+          38.9306361
+        ],
+        [
+          -77.0711887,
+          38.9306416
+        ],
+        [
+          -77.071185,
+          38.9306334
+        ],
+        [
+          -77.0711329,
+          38.9306471
+        ],
+        [
+          -77.0711368,
+          38.9306568
+        ],
+        [
+          -77.0711148,
+          38.9306624
+        ],
+        [
+          -77.071111,
+          38.9306529
+        ],
+        [
+          -77.0710537,
+          38.9306681
+        ],
+        [
+          -77.0710579,
+          38.9306782
+        ],
+        [
+          -77.0710385,
+          38.9306833
+        ],
+        [
+          -77.0710342,
+          38.9306731
+        ],
+        [
+          -77.0709803,
+          38.9306873
+        ],
+        [
+          -77.070985,
+          38.930698
+        ],
+        [
+          -77.0709639,
+          38.9307035
+        ],
+        [
+          -77.0709594,
+          38.9306929
+        ],
+        [
+          -77.0709363,
+          38.9306989
+        ],
+        [
+          -77.0709455,
+          38.9307188
+        ],
+        [
+          -77.0709145,
+          38.930727
+        ],
+        [
+          -77.0709374,
+          38.9307762
+        ],
+        [
+          -77.0709684,
+          38.9307669
+        ],
+        [
+          -77.0709787,
+          38.9307873
+        ],
+        [
+          -77.070947,
+          38.930797
+        ],
+        [
+          -77.070955,
+          38.9308152
+        ],
+        [
+          -77.0709329,
+          38.9308211
+        ],
+        [
+          -77.070925,
+          38.9308032
+        ],
+        [
+          -77.0708679,
+          38.9308194
+        ],
+        [
+          -77.0708696,
+          38.9308248
+        ],
+        [
+          -77.0708604,
+          38.9308394
+        ],
+        [
+          -77.0708957,
+          38.930921
+        ],
+        [
+          -77.0708043,
+          38.9309451
+        ],
+        [
+          -77.0707277,
+          38.9309653
+        ],
+        [
+          -77.0707253,
+          38.9309601
+        ],
+        [
+          -77.0706909,
+          38.930967
+        ],
+        [
+          -77.070705,
+          38.9310104
+        ],
+        [
+          -77.0706237,
+          38.931077
+        ],
+        [
+          -77.070549,
+          38.9311382
+        ],
+        [
+          -77.0704992,
+          38.9311481
+        ],
+        [
+          -77.0705245,
+          38.9312262
+        ],
+        [
+          -77.0702169,
+          38.9312874
+        ],
+        [
+          -77.0701883,
+          38.9311998
+        ],
+        [
+          -77.0702888,
+          38.9311798
+        ],
+        [
+          -77.0702764,
+          38.9311416
+        ],
+        [
+          -77.0702858,
+          38.9311389
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "relation",
+    "id": 2682714,
+    "version": 11,
+    "timestamp": "2026-05-27T19:26:13Z",
+    "url": "https://www.openstreetmap.org/relation/2682714"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 1176354409,
+      "version": 2,
+      "timestamp": "2023-05-26T19:28:16Z",
+      "url": "https://www.openstreetmap.org/way/1176354409"
+    },
+    {
+      "type": "way",
+      "id": 1176354410,
+      "version": 2,
+      "timestamp": "2023-11-18T18:42:09Z",
+      "url": "https://www.openstreetmap.org/way/1176354410"
+    },
+    {
+      "type": "way",
+      "id": 1176354411,
+      "version": 1,
+      "timestamp": "2023-05-26T19:16:21Z",
+      "url": "https://www.openstreetmap.org/way/1176354411"
+    },
+    {
+      "type": "way",
+      "id": 1176354412,
+      "version": 2,
+      "timestamp": "2023-05-26T19:28:16Z",
+      "url": "https://www.openstreetmap.org/way/1176354412"
+    }
+  ],
+  "wikidata": "Q668710",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Washington National Cathedral Looking SE.jpg",
+      "author": "Duane Lempke",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Washington_National_Cathedral_Looking_SE.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:NWDCcathedral.jpg",
+      "author": "Duane Lempke",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:NWDCcathedral.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Washington National Cathedral facade.jpg",
+      "author": "APK",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Washington_National_Cathedral_facade.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:National Cathedral, Washington, D.C LCCN2011631148.tif",
+      "author": "Carol M. Highsmith",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:National_Cathedral,_Washington,_D.C_LCCN2011631148.tif",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:National_Cathedral,_Washington,_D.C_LCCN2011631148.tif",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:National Cathedral in DC.jpg",
+      "author": "Siubo11A",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:National_Cathedral_in_DC.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Washington National Cathedral 2008.jpg",
+      "author": "Martin Künzel",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Washington_National_Cathedral_2008.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/dc-national-cathedral.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Washington National Cathedral (Cathedral Church of Saint Peter and Saint Paul) — procedural, CC0-1.0, no textures. bun generators/dc-national-cathedral.ts",
+    "Also the small kit for the church group (dc-national-cathedral, dc-national-shrine, dc-st-matthews, dc-washington-temple): the helpers below are exported and the model is only built when this file is run directly. They sit on the President's Park kit in dc-white-house.ts and the Smithsonian kit in dc-smithsonian-castle.ts.",
+    "Map frame: x along the church's axis towards the altar, y to its left (liturgical north), z up, metres. The axis runs at 70° (the nave's long walls in OSM, 69.5–71.2°), so the placement bearing is 340°. The anchor is the area centroid of the OSM outline relation/2682714 (lng -77.0707911, lat 38.9306103); the central vessel's axis sits at y = −7.4 in this frame.",
+    "What it is: George Bodley and Henry Vaughan's English Decorated Gothic cathedral (1907–1990, completed by Philip Frohman) in buff Indiana limestone under light grey metal roofs. A cruciform church: nine-bay nave with wide aisles, six-bay transept, five-bay choir ending in a polygonal apse; flying buttresses down both sides; the Gloria in Excelsis tower over the crossing; the twin towers of St Peter and St Paul on the west front with the west rose between them; rose windows in both transept fronts.",
+    "Covers and replaces relation/2682714, the outline (outer way/67829238; the inner way/199784167 is the cloister garth, left open), and its four building:parts: way/1176354412 (nave), way/1176354409 (transept), way/1176354410 (Gloria in Excelsis Tower), way/1176354411 (choir). The outline takes in the low ranges round the garth to the north (the north porch, cloister walks and the administration range) and two low annexes beside the west towers; they are modelled as plain low blocks so the outline can be hidden.",
+    "Evidence",
+    "OSM (measured): outline 155 × 100 m; central vessel 14.3 m wide (y −14.6…−0.2), nave x −75…3.4, crossing x 3.4…18.3, choir to the apse tip at x 70.6; transept y −38.7…24.9; aisle walls at y −27.6 and 13.8 with buttresses every 6.9 m (x −53.3 … −11.9); the west front at x −77, 39 m wide; north porch to y 35; garth x 25…56, y 9…42.",
+    "Published (Wikipedia, \"Washington National Cathedral\"): central tower 301 ft (92 m) above the ground, its top 676 ft (206 m) above sea level; west towers 234 ft (71 m) (cathedral fact sheets, via the lead's brief).",
+    "USGS 3DEP ground (measured): 117.5 m at the west front, 114.3 m at the north porch and choir, 111.2 m at the administration range, the lowest point. So y = 0 is 111.2 m; the church floor datum D is 6 m up, and the central tower's top lands at 206 − 111.2 = 94.8 m.",
+    "Photos (Wikimedia Commons): \"Washington National Cathedral Looking SE.jpg\" (Duane Lempke, CC0; aerial from the north-west); \"NWDCcathedral.jpg\" (Duane Lempke, CC0; telephoto from the west-south- west); \"Washington National Cathedral facade.jpg\" (APK, CC BY 4.0; the west front square on); \"National Cathedral, Washington, D.C LCCN2011631148.tif\" (Carol M. Highsmith, public domain; west front); \"National Cathedral in DC.jpg\" (Siubo11A, CC BY-SA 3.0; north side); \"Washington National Cathedral 2008.jpg\" (Martin Künzel, CC BY 3.0; north transept). USGS NAIP orthophoto for the plan and roof colour.",
+    "Read off the photos (estimated, against the published heights): west gallery parapet D+34, west tower parapets D+60.5, belfry lancets D+38…50; nave and choir eaves D+31, ridge D+40.5 (the west gable's cross just clears the gallery); aisles D+20, choir aisles D+18; central tower parapet 78 m with corner pinnacles to 94.8 m, lancets in two tiers 48.6–55 m and 64–74 m; transept front turrets to D+48; rose windows about 7.5–8.5 m across.",
+    "Simplified: flying buttresses are one sloping slab per bay each side; tracery, gables over the portals, statues and crockets are left out; the low ranges round the garth are one 13 m block with the administration range on it. The central tower is drawn without the repair scaffolding it carried in 2014–2024.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"dc-national-cathedral\", model \"dc-national-cathedral\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/dc-national-cathedral.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

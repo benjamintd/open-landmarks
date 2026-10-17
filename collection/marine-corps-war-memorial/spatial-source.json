@@ -1,0 +1,184 @@
+{
+  "id": "marine-corps-war-memorial",
+  "anchor": [
+    -77.0697239,
+    38.8904362
+  ],
+  "coordinateSystem": "Local metres about the anchor (equirectangular, WGS84 radius): X east, Y north, Z up. glTF export: X east, Y up, Z south. Heading already baked.",
+  "license": "ODbL-1.0",
+  "footprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -3.361837571986825,
+          -9.595740106989805
+        ],
+        [
+          2.0015063889554376,
+          -9.840642986433075
+        ],
+        [
+          6.316442242980336,
+          -3.7069390440231422
+        ],
+        [
+          6.628365316631754,
+          3.3618486216951244
+        ],
+        [
+          3.1538888562192127,
+          9.506684513314474
+        ],
+        [
+          -2.9805982601566376,
+          9.684795698292218
+        ],
+        [
+          -6.49839736835352,
+          3.395244468532401
+        ],
+        [
+          -6.654358905794879,
+          -2.8720428628085837
+        ],
+        [
+          -3.361837571986825,
+          -9.595740106989805
+        ]
+      ]
+    ]
+  },
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -77.0697627,
+          38.89035
+        ],
+        [
+          -77.0697008,
+          38.8903478
+        ],
+        [
+          -77.069651,
+          38.8904029
+        ],
+        [
+          -77.0696474,
+          38.8904664
+        ],
+        [
+          -77.0696875,
+          38.8905216
+        ],
+        [
+          -77.0697583,
+          38.8905232
+        ],
+        [
+          -77.0697989,
+          38.8904667
+        ],
+        [
+          -77.0698007,
+          38.8904104
+        ],
+        [
+          -77.0697627,
+          38.89035
+        ]
+      ]
+    ]
+  },
+  "parts": [
+    {
+      "osm": "way/45297440",
+      "tags": {
+        "access": "yes",
+        "addr:city": "Arlington",
+        "addr:housenumber": "1000",
+        "addr:postcode": "22209",
+        "addr:state": "VA",
+        "addr:street": "Marshall Drive",
+        "alt_name": "Iwo Jima Memorial",
+        "historic": "monument",
+        "name": "United States Marine Corps War Memorial",
+        "tourism": "attraction",
+        "website": "https://www.nps.gov/gwmp/planyourvisit/usmc_memorial.htm",
+        "wikidata": "Q1403946",
+        "wikipedia": "en:Marine Corps War Memorial"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -3.361837571986825,
+              -9.595740106989805
+            ],
+            [
+              2.0015063889554376,
+              -9.840642986433075
+            ],
+            [
+              6.316442242980336,
+              -3.7069390440231422
+            ],
+            [
+              6.628365316631754,
+              3.3618486216951244
+            ],
+            [
+              3.1538888562192127,
+              9.506684513314474
+            ],
+            [
+              -2.9805982601566376,
+              9.684795698292218
+            ],
+            [
+              -6.49839736835352,
+              3.395244468532401
+            ],
+            [
+              -6.654358905794879,
+              -2.8720428628085837
+            ],
+            [
+              -3.361837571986825,
+              -9.595740106989805
+            ]
+          ]
+        ]
+      },
+      "version": 3,
+      "timestamp": "2022-01-15T18:59:08Z"
+    }
+  ],
+  "osm": {
+    "type": "way",
+    "id": 45297440,
+    "version": 3,
+    "timestamp": "2022-01-15T18:59:08Z",
+    "url": "https://www.openstreetmap.org/way/45297440"
+  },
+  "additionalOsm": [],
+  "tags": {
+    "access": "yes",
+    "addr:city": "Arlington",
+    "addr:housenumber": "1000",
+    "addr:postcode": "22209",
+    "addr:state": "VA",
+    "addr:street": "Marshall Drive",
+    "alt_name": "Iwo Jima Memorial",
+    "historic": "monument",
+    "name": "United States Marine Corps War Memorial",
+    "tourism": "attraction",
+    "website": "https://www.nps.gov/gwmp/planyourvisit/usmc_memorial.htm",
+    "wikidata": "Q1403946",
+    "wikipedia": "en:Marine Corps War Memorial"
+  },
+  "note": "This landmark replaces no mapped building; the OSM feature cited is the one that names it."
+}

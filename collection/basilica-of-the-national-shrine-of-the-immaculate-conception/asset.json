@@ -1,0 +1,1057 @@
+{
+  "id": "basilica-of-the-national-shrine-of-the-immaculate-conception",
+  "name": "Basilica of the National Shrine of the Immaculate Conception",
+  "anchor": [
+    -77.000649,
+    38.9333351
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 177604,
+      "sha256": "9865893d578b3fcc590b37fc68a71cc22a1eed2c19b64b47b8f591e81c775d7a"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 282296,
+      "sha256": "7e0efd517b1b438349cf98c33e296bf8fc891cef2ade33f01c9d8319dea993f1"
+    }
+  },
+  "triangles": 9277,
+  "boundsBlenderM": [
+    [
+      -50.857,
+      -67.448,
+      0
+    ],
+    [
+      42.866,
+      72.147,
+      100.3
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -77.0008252,
+          38.9338898
+        ],
+        [
+          -77.0008944,
+          38.9338846
+        ],
+        [
+          -77.0008933,
+          38.9338761
+        ],
+        [
+          -77.0008962,
+          38.9338759
+        ],
+        [
+          -77.0008906,
+          38.9338313
+        ],
+        [
+          -77.0008937,
+          38.9338309
+        ],
+        [
+          -77.0009193,
+          38.9338278
+        ],
+        [
+          -77.0009548,
+          38.9338125
+        ],
+        [
+          -77.0009727,
+          38.9337966
+        ],
+        [
+          -77.0009868,
+          38.9337706
+        ],
+        [
+          -77.0009887,
+          38.9337494
+        ],
+        [
+          -77.0009853,
+          38.9337374
+        ],
+        [
+          -77.0009634,
+          38.9337054
+        ],
+        [
+          -77.000926,
+          38.9336837
+        ],
+        [
+          -77.0008803,
+          38.9336764
+        ],
+        [
+          -77.0008795,
+          38.9336713
+        ],
+        [
+          -77.0009684,
+          38.9336647
+        ],
+        [
+          -77.0009631,
+          38.9336219
+        ],
+        [
+          -77.0010039,
+          38.9336189
+        ],
+        [
+          -77.0010375,
+          38.9336403
+        ],
+        [
+          -77.0010382,
+          38.9336462
+        ],
+        [
+          -77.0011408,
+          38.9336386
+        ],
+        [
+          -77.0011399,
+          38.933632
+        ],
+        [
+          -77.0011705,
+          38.9336027
+        ],
+        [
+          -77.0011762,
+          38.9336023
+        ],
+        [
+          -77.0011755,
+          38.9335958
+        ],
+        [
+          -77.0011946,
+          38.9335911
+        ],
+        [
+          -77.0012088,
+          38.93358
+        ],
+        [
+          -77.0012148,
+          38.933565
+        ],
+        [
+          -77.0012136,
+          38.9335546
+        ],
+        [
+          -77.0012038,
+          38.9335329
+        ],
+        [
+          -77.0011878,
+          38.9335262
+        ],
+        [
+          -77.0011727,
+          38.9335261
+        ],
+        [
+          -77.0011698,
+          38.9335164
+        ],
+        [
+          -77.0011632,
+          38.9335162
+        ],
+        [
+          -77.0011289,
+          38.9334952
+        ],
+        [
+          -77.0011254,
+          38.933488
+        ],
+        [
+          -77.0010101,
+          38.9335028
+        ],
+        [
+          -77.001011,
+          38.9335082
+        ],
+        [
+          -77.0009935,
+          38.9335335
+        ],
+        [
+          -77.0009526,
+          38.9335365
+        ],
+        [
+          -77.0009464,
+          38.9334878
+        ],
+        [
+          -77.0009729,
+          38.9334855
+        ],
+        [
+          -77.0009674,
+          38.9334463
+        ],
+        [
+          -77.0009917,
+          38.9334442
+        ],
+        [
+          -77.0009911,
+          38.9334401
+        ],
+        [
+          -77.0010008,
+          38.933441
+        ],
+        [
+          -77.0009974,
+          38.9334204
+        ],
+        [
+          -77.0010806,
+          38.9334133
+        ],
+        [
+          -77.0010597,
+          38.9332682
+        ],
+        [
+          -77.0009765,
+          38.9332754
+        ],
+        [
+          -77.0009726,
+          38.93325
+        ],
+        [
+          -77.0009455,
+          38.9332531
+        ],
+        [
+          -77.0009399,
+          38.933212
+        ],
+        [
+          -77.000909,
+          38.9332144
+        ],
+        [
+          -77.0009006,
+          38.9331533
+        ],
+        [
+          -77.0009199,
+          38.9331433
+        ],
+        [
+          -77.0009273,
+          38.9331308
+        ],
+        [
+          -77.000928,
+          38.9331217
+        ],
+        [
+          -77.0009186,
+          38.933105
+        ],
+        [
+          -77.0009043,
+          38.9330972
+        ],
+        [
+          -77.0008928,
+          38.9330951
+        ],
+        [
+          -77.0008775,
+          38.9329813
+        ],
+        [
+          -77.0008967,
+          38.9329713
+        ],
+        [
+          -77.0009025,
+          38.9329632
+        ],
+        [
+          -77.0009047,
+          38.9329496
+        ],
+        [
+          -77.0009017,
+          38.9329407
+        ],
+        [
+          -77.0008911,
+          38.9329298
+        ],
+        [
+          -77.0008696,
+          38.9329231
+        ],
+        [
+          -77.0008598,
+          38.9328491
+        ],
+        [
+          -77.0008853,
+          38.9328468
+        ],
+        [
+          -77.0008872,
+          38.9328611
+        ],
+        [
+          -77.0009938,
+          38.9328526
+        ],
+        [
+          -77.000981,
+          38.9327556
+        ],
+        [
+          -77.0008744,
+          38.9327641
+        ],
+        [
+          -77.0008771,
+          38.9327841
+        ],
+        [
+          -77.0008512,
+          38.9327861
+        ],
+        [
+          -77.0008499,
+          38.9327784
+        ],
+        [
+          -77.0007427,
+          38.9327875
+        ],
+        [
+          -77.0007335,
+          38.932725
+        ],
+        [
+          -77.0006772,
+          38.9327299
+        ],
+        [
+          -77.0006768,
+          38.9327268
+        ],
+        [
+          -77.0004439,
+          38.932747
+        ],
+        [
+          -77.0004445,
+          38.9327503
+        ],
+        [
+          -77.0003852,
+          38.9327555
+        ],
+        [
+          -77.0003939,
+          38.9328174
+        ],
+        [
+          -77.0002907,
+          38.9328263
+        ],
+        [
+          -77.0002016,
+          38.932834
+        ],
+        [
+          -77.0002032,
+          38.932845
+        ],
+        [
+          -77.0001691,
+          38.9328478
+        ],
+        [
+          -77.0001781,
+          38.9329098
+        ],
+        [
+          -77.000212,
+          38.9329069
+        ],
+        [
+          -77.0002133,
+          38.932913
+        ],
+        [
+          -77.0003019,
+          38.9329051
+        ],
+        [
+          -77.000312,
+          38.9329715
+        ],
+        [
+          -77.0002923,
+          38.9329831
+        ],
+        [
+          -77.0002857,
+          38.9329965
+        ],
+        [
+          -77.0002862,
+          38.9330063
+        ],
+        [
+          -77.0002981,
+          38.9330231
+        ],
+        [
+          -77.0003206,
+          38.9330311
+        ],
+        [
+          -77.000337,
+          38.9331451
+        ],
+        [
+          -77.0003175,
+          38.9331553
+        ],
+        [
+          -77.0003117,
+          38.9331632
+        ],
+        [
+          -77.0003096,
+          38.933177
+        ],
+        [
+          -77.0003127,
+          38.9331859
+        ],
+        [
+          -77.0003233,
+          38.9331967
+        ],
+        [
+          -77.0003453,
+          38.9332032
+        ],
+        [
+          -77.0003539,
+          38.9332634
+        ],
+        [
+          -77.0003259,
+          38.9332659
+        ],
+        [
+          -77.0003319,
+          38.9333066
+        ],
+        [
+          -77.0003031,
+          38.93331
+        ],
+        [
+          -77.0003072,
+          38.933335
+        ],
+        [
+          -77.0002518,
+          38.9333401
+        ],
+        [
+          -77.0002514,
+          38.9333375
+        ],
+        [
+          -77.0002307,
+          38.9333393
+        ],
+        [
+          -77.0002256,
+          38.9333439
+        ],
+        [
+          -77.000228,
+          38.9333602
+        ],
+        [
+          -77.0002306,
+          38.9333598
+        ],
+        [
+          -77.0002463,
+          38.9334688
+        ],
+        [
+          -77.0002432,
+          38.933469
+        ],
+        [
+          -77.0002454,
+          38.9334849
+        ],
+        [
+          -77.000251,
+          38.9334878
+        ],
+        [
+          -77.0002712,
+          38.933486
+        ],
+        [
+          -77.0002706,
+          38.9334825
+        ],
+        [
+          -77.0003277,
+          38.9334779
+        ],
+        [
+          -77.0003314,
+          38.9335009
+        ],
+        [
+          -77.0003606,
+          38.9335002
+        ],
+        [
+          -77.0003666,
+          38.9335427
+        ],
+        [
+          -77.0003985,
+          38.93354
+        ],
+        [
+          -77.000405,
+          38.933585
+        ],
+        [
+          -77.0004001,
+          38.9335896
+        ],
+        [
+          -77.0003725,
+          38.9335919
+        ],
+        [
+          -77.0003341,
+          38.9335697
+        ],
+        [
+          -77.0003332,
+          38.9335641
+        ],
+        [
+          -77.0002334,
+          38.9335726
+        ],
+        [
+          -77.000234,
+          38.9335765
+        ],
+        [
+          -77.0002053,
+          38.9336065
+        ],
+        [
+          -77.0001977,
+          38.9336072
+        ],
+        [
+          -77.000199,
+          38.9336161
+        ],
+        [
+          -77.0001804,
+          38.9336193
+        ],
+        [
+          -77.0001658,
+          38.9336285
+        ],
+        [
+          -77.0001579,
+          38.9336421
+        ],
+        [
+          -77.0001585,
+          38.9336568
+        ],
+        [
+          -77.0001721,
+          38.9336734
+        ],
+        [
+          -77.0001891,
+          38.9336799
+        ],
+        [
+          -77.0002081,
+          38.9336799
+        ],
+        [
+          -77.000209,
+          38.9336867
+        ],
+        [
+          -77.0002141,
+          38.9336862
+        ],
+        [
+          -77.0002524,
+          38.933711
+        ],
+        [
+          -77.0002531,
+          38.9337156
+        ],
+        [
+          -77.0003544,
+          38.9337069
+        ],
+        [
+          -77.0003539,
+          38.9337028
+        ],
+        [
+          -77.0003823,
+          38.9336729
+        ],
+        [
+          -77.0004124,
+          38.9336703
+        ],
+        [
+          -77.0004166,
+          38.9336727
+        ],
+        [
+          -77.0004223,
+          38.9337119
+        ],
+        [
+          -77.000516,
+          38.9337038
+        ],
+        [
+          -77.0005173,
+          38.9337136
+        ],
+        [
+          -77.0005021,
+          38.9337165
+        ],
+        [
+          -77.0004758,
+          38.9337268
+        ],
+        [
+          -77.0004459,
+          38.9337523
+        ],
+        [
+          -77.0004329,
+          38.9337853
+        ],
+        [
+          -77.0004348,
+          38.9338058
+        ],
+        [
+          -77.0004413,
+          38.9338207
+        ],
+        [
+          -77.0004632,
+          38.9338436
+        ],
+        [
+          -77.0004852,
+          38.9338551
+        ],
+        [
+          -77.0005106,
+          38.9338614
+        ],
+        [
+          -77.0005451,
+          38.9338608
+        ],
+        [
+          -77.0005497,
+          38.9338607
+        ],
+        [
+          -77.0005562,
+          38.9339076
+        ],
+        [
+          -77.0005611,
+          38.9339072
+        ],
+        [
+          -77.0005624,
+          38.9339157
+        ],
+        [
+          -77.000573,
+          38.9339148
+        ],
+        [
+          -77.0005736,
+          38.9339193
+        ],
+        [
+          -77.000636,
+          38.9339138
+        ],
+        [
+          -77.0006404,
+          38.9339344
+        ],
+        [
+          -77.0006525,
+          38.9339544
+        ],
+        [
+          -77.0006714,
+          38.9339709
+        ],
+        [
+          -77.0006955,
+          38.9339825
+        ],
+        [
+          -77.000737,
+          38.9339886
+        ],
+        [
+          -77.0007666,
+          38.9339831
+        ],
+        [
+          -77.0007928,
+          38.9339707
+        ],
+        [
+          -77.0008128,
+          38.9339528
+        ],
+        [
+          -77.0008198,
+          38.9339422
+        ],
+        [
+          -77.0008274,
+          38.9339192
+        ],
+        [
+          -77.0008276,
+          38.9339071
+        ],
+        [
+          -77.0008252,
+          38.9338898
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 297739340,
+    "version": 37,
+    "timestamp": "2025-11-09T11:58:02Z",
+    "url": "https://www.openstreetmap.org/way/297739340"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 1373214415,
+      "version": 2,
+      "timestamp": "2025-09-01T11:47:48Z",
+      "url": "https://www.openstreetmap.org/way/1373214415"
+    },
+    {
+      "type": "way",
+      "id": 1373214416,
+      "version": 2,
+      "timestamp": "2025-09-01T11:47:48Z",
+      "url": "https://www.openstreetmap.org/way/1373214416"
+    },
+    {
+      "type": "way",
+      "id": 1373214417,
+      "version": 2,
+      "timestamp": "2025-09-01T11:47:48Z",
+      "url": "https://www.openstreetmap.org/way/1373214417"
+    },
+    {
+      "type": "way",
+      "id": 1426384328,
+      "version": 1,
+      "timestamp": "2025-09-01T11:47:48Z",
+      "url": "https://www.openstreetmap.org/way/1426384328"
+    },
+    {
+      "type": "way",
+      "id": 1426384329,
+      "version": 1,
+      "timestamp": "2025-09-01T11:47:48Z",
+      "url": "https://www.openstreetmap.org/way/1426384329"
+    },
+    {
+      "type": "way",
+      "id": 1426384330,
+      "version": 1,
+      "timestamp": "2025-09-01T11:47:48Z",
+      "url": "https://www.openstreetmap.org/way/1426384330"
+    },
+    {
+      "type": "way",
+      "id": 1426384331,
+      "version": 1,
+      "timestamp": "2025-09-01T11:47:48Z",
+      "url": "https://www.openstreetmap.org/way/1426384331"
+    },
+    {
+      "type": "way",
+      "id": 1426384332,
+      "version": 1,
+      "timestamp": "2025-09-01T11:47:48Z",
+      "url": "https://www.openstreetmap.org/way/1426384332"
+    },
+    {
+      "type": "way",
+      "id": 1426384333,
+      "version": 1,
+      "timestamp": "2025-09-01T11:47:48Z",
+      "url": "https://www.openstreetmap.org/way/1426384333"
+    },
+    {
+      "type": "way",
+      "id": 1426384334,
+      "version": 1,
+      "timestamp": "2025-09-01T11:47:48Z",
+      "url": "https://www.openstreetmap.org/way/1426384334"
+    },
+    {
+      "type": "way",
+      "id": 1426384335,
+      "version": 1,
+      "timestamp": "2025-09-01T11:47:48Z",
+      "url": "https://www.openstreetmap.org/way/1426384335"
+    },
+    {
+      "type": "way",
+      "id": 1426384336,
+      "version": 1,
+      "timestamp": "2025-09-01T11:47:48Z",
+      "url": "https://www.openstreetmap.org/way/1426384336"
+    },
+    {
+      "type": "way",
+      "id": 1426384337,
+      "version": 1,
+      "timestamp": "2025-09-01T11:47:48Z",
+      "url": "https://www.openstreetmap.org/way/1426384337"
+    },
+    {
+      "type": "way",
+      "id": 1426384338,
+      "version": 1,
+      "timestamp": "2025-09-01T11:47:48Z",
+      "url": "https://www.openstreetmap.org/way/1426384338"
+    },
+    {
+      "type": "way",
+      "id": 1426384339,
+      "version": 1,
+      "timestamp": "2025-09-01T11:47:48Z",
+      "url": "https://www.openstreetmap.org/way/1426384339"
+    },
+    {
+      "type": "way",
+      "id": 1426384340,
+      "version": 1,
+      "timestamp": "2025-09-01T11:47:48Z",
+      "url": "https://www.openstreetmap.org/way/1426384340"
+    },
+    {
+      "type": "way",
+      "id": 1426384341,
+      "version": 1,
+      "timestamp": "2025-09-01T11:47:48Z",
+      "url": "https://www.openstreetmap.org/way/1426384341"
+    },
+    {
+      "type": "way",
+      "id": 1426384342,
+      "version": 1,
+      "timestamp": "2025-09-01T11:47:48Z",
+      "url": "https://www.openstreetmap.org/way/1426384342"
+    },
+    {
+      "type": "way",
+      "id": 1426384343,
+      "version": 1,
+      "timestamp": "2025-09-01T11:47:48Z",
+      "url": "https://www.openstreetmap.org/way/1426384343"
+    },
+    {
+      "type": "way",
+      "id": 1426384344,
+      "version": 1,
+      "timestamp": "2025-09-01T11:47:48Z",
+      "url": "https://www.openstreetmap.org/way/1426384344"
+    },
+    {
+      "type": "way",
+      "id": 1426384345,
+      "version": 1,
+      "timestamp": "2025-09-01T11:47:48Z",
+      "url": "https://www.openstreetmap.org/way/1426384345"
+    },
+    {
+      "type": "way",
+      "id": 1426384346,
+      "version": 1,
+      "timestamp": "2025-09-01T11:47:48Z",
+      "url": "https://www.openstreetmap.org/way/1426384346"
+    },
+    {
+      "type": "way",
+      "id": 1426384347,
+      "version": 2,
+      "timestamp": "2026-04-27T03:34:28Z",
+      "url": "https://www.openstreetmap.org/way/1426384347"
+    },
+    {
+      "type": "way",
+      "id": 1426384348,
+      "version": 1,
+      "timestamp": "2025-09-01T11:47:48Z",
+      "url": "https://www.openstreetmap.org/way/1426384348"
+    },
+    {
+      "type": "way",
+      "id": 1426384349,
+      "version": 1,
+      "timestamp": "2025-09-01T11:47:48Z",
+      "url": "https://www.openstreetmap.org/way/1426384349"
+    },
+    {
+      "type": "way",
+      "id": 1426384350,
+      "version": 1,
+      "timestamp": "2025-09-01T11:47:48Z",
+      "url": "https://www.openstreetmap.org/way/1426384350"
+    },
+    {
+      "type": "way",
+      "id": 1426384351,
+      "version": 1,
+      "timestamp": "2025-09-01T11:47:48Z",
+      "url": "https://www.openstreetmap.org/way/1426384351"
+    },
+    {
+      "type": "way",
+      "id": 1426384352,
+      "version": 1,
+      "timestamp": "2025-09-01T11:47:48Z",
+      "url": "https://www.openstreetmap.org/way/1426384352"
+    }
+  ],
+  "wikidata": "Q82387",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Basilica of the National Shrine of the Immaculate Conception - exterior 3.jpg",
+      "author": "APK",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Basilica_of_the_National_Shrine_of_the_Immaculate_Conception_-_exterior_3.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Basilica of the National Shrine of the Immaculate Conception highsmith.jpg",
+      "author": "Carol M. Highsmith",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Basilica_of_the_National_Shrine_of_the_Immaculate_Conception_highsmith.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Basilica_of_the_National_Shrine_of_the_Immaculate_Conception_highsmith.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/dc-national-shrine.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Basilica of the National Shrine of the Immaculate Conception — procedural, CC0-1.0, no textures. bun generators/dc-national-shrine.ts",
+    "Map frame: x east, y north along the church's axis (the main front faces south), z up, metres. The long walls in OSM run at 173.5°, so the placement bearing is 353.6°. The anchor is the area centroid of the OSM outline way/297739340 (lng -77.0006490, lat 38.9333351).",
+    "What it is: Maginnis & Walsh's Byzantine-Romanesque basilica (1920–1961, Trinity Dome mosaic 2017), pale limestone walls under red Ludowici tile roofs. A Latin cross 140 m long: the south front, a tall stepped gable screen round one great round-arched recess holding the rose; a nave of high walls with grouped round-arched windows over low aisle chapels with small tiled domes; the transept, its two fronts each a gable with a rose over a three-arched porch; the Trinity Dome over the crossing, its blue tiles patterned in gold (drawn blue: that is what reads at map scale), on an arcaded drum, with a gilded lantern; the north apse and two round chapels at the north corners; and beside the front, the free-standing Knights' Tower campanile, a plain square shaft with two tiers of belfry arcades, a narrower top stage and a blue-tiled spire with a gilded tip.",
+    "Covers and replaces the outline way/297739340 and its 28 building:parts: way/1373214415, 1373214416, 1373214417 and way/1426384328 … 1426384352.",
+    "Evidence",
+    "OSM (measured): outline 140 × 92 m; the main body 30.5 m wide (x −14.9…15.6), y −66.2…63.3; transept x −29…29.5, y −6.2…15.2; dome r 15.4 centred (0.3, 4.6), lantern r 2.2; Knights' Tower in three stepped parts (9.4 × 10.9, 7.6 × 9.1, 5.9 × 7.2 m) centred (−31, −55); aisle ranges x ±(15…24.5), with four round turrets r 3; front wings y −59…−51; transept porches to x ±36.5; north wings and round chapels r 6.2 at (±35, 30); north apse r 7.9 round (0, 64.7). Building levels and roof shapes and colours (#d16844 tile, #93c5d8 dome, gold lantern) are tagged; no heights.",
+    "Published (Wikipedia): 140 m long, 73 m wide, 72 m to the top of the cross on the dome; the Knights' Tower 329 ft (100 m).",
+    "USGS 3DEP ground: 64.0–64.5 m all round, so y = 0 is 64.0 m.",
+    "Photos (Wikimedia Commons): \"Basilica of the National Shrine of the Immaculate Conception - exterior 3.jpg\" (APK, CC BY-SA 4.0; the east side square on, the main source of heights); \"Basilica of the National Shrine of the Immaculate Conception highsmith.jpg\" (Carol M. Highsmith, public domain; the south front and tower square on); \"… from atop Washington Mnt cutout.jpg\" (Diezweitehand, CC BY-SA 4.0; from the south-south-west); \"… (cropped).jpg\" (AgnosticPreachersKid, CC BY-SA 3.0; east side); \"… exterior 1.jpg\" (APK, CC BY-SA 4.0; south front). USGS NAIP orthophoto for roof colours.",
+    "Read off the photos, scaled from the published heights (estimated): walls 31.4 m, roof ridges 38 m; south screen to 35.7 m, pediment to 41 m, great arch 18.3 m wide to 34 m, rose r 5.4 m at 23.2 m; transept fronts to 39.7 m, pediments to 44 m, roses r 5.3 m at 28.7 m; drum to 48.6 m with arched windows, dome r 12.6 m rising to 58 m, lantern to 66 m, finial to 72 m; aisles 15 m; tower shaft to 51.8 m, belfry stage to 69 m (arcades 53.5–58.5 and 61–66.5 m), top stage to 81 m, spire 82–93.3 m, gilded tip to 100 m.",
+    "Drawn: the great arch is a real 1.6 m recess in the front screen with a proud stone archivolt, its back wall a shade of the stone with the rose and window row flush in it. The tower's open stages are dark cores set behind stone piers, two round-headed openings a face per tier. The dome is a deep muted blue (#4f6a9a) with its gold band.",
+    "Simplified: the dome's gold patterning, the mosaics and sculpture of the front, the belfry's eight arches a face (drawn as two broad ones), cornices and the stairs to the plaza are left out; the north wings' roofs are drawn flat.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"dc-national-shrine\", model \"dc-national-shrine\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/dc-national-shrine.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 706 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the dc-national-shrine-glazing finish in the window colour.",
+    "To fit six materials, folded dc-national-shrine-shrine-recess into stone (ΔE 12.9)."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

@@ -1,0 +1,389 @@
+{
+  "id": "national-museum-of-natural-history",
+  "name": "National Museum of Natural History",
+  "anchor": [
+    -77.0259675,
+    38.8912664
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 128752,
+      "sha256": "f85e45a81b709c793157e67bc6cee2ccdf469607ca0a4220989ee342df23fca7"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 128752,
+      "sha256": "f85e45a81b709c793157e67bc6cee2ccdf469607ca0a4220989ee342df23fca7"
+    }
+  },
+  "triangles": 2896,
+  "boundsBlenderM": [
+    [
+      -137.2,
+      -63,
+      0
+    ],
+    [
+      137.2,
+      53.15,
+      47
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -77.0261143,
+          38.8907587
+        ],
+        [
+          -77.0261156,
+          38.8908044
+        ],
+        [
+          -77.026256,
+          38.8908032
+        ],
+        [
+          -77.0269483,
+          38.8907976
+        ],
+        [
+          -77.0269533,
+          38.8910985
+        ],
+        [
+          -77.0270193,
+          38.8910966
+        ],
+        [
+          -77.0270202,
+          38.8910663
+        ],
+        [
+          -77.027377,
+          38.8910605
+        ],
+        [
+          -77.027419,
+          38.8910592
+        ],
+        [
+          -77.0274595,
+          38.8910593
+        ],
+        [
+          -77.027547,
+          38.8910595
+        ],
+        [
+          -77.0275467,
+          38.8912064
+        ],
+        [
+          -77.0275532,
+          38.8915608
+        ],
+        [
+          -77.026979,
+          38.8915692
+        ],
+        [
+          -77.0269797,
+          38.8915539
+        ],
+        [
+          -77.0269193,
+          38.8915555
+        ],
+        [
+          -77.0268716,
+          38.8915545
+        ],
+        [
+          -77.0268711,
+          38.8915942
+        ],
+        [
+          -77.0268707,
+          38.8916321
+        ],
+        [
+          -77.0268491,
+          38.8916336
+        ],
+        [
+          -77.0268178,
+          38.8916599
+        ],
+        [
+          -77.0268162,
+          38.8916727
+        ],
+        [
+          -77.026204,
+          38.891676
+        ],
+        [
+          -77.0262062,
+          38.8917404
+        ],
+        [
+          -77.026158,
+          38.8917408
+        ],
+        [
+          -77.0259881,
+          38.8917423
+        ],
+        [
+          -77.0258145,
+          38.8917442
+        ],
+        [
+          -77.0257634,
+          38.8917448
+        ],
+        [
+          -77.0257624,
+          38.8916829
+        ],
+        [
+          -77.0251535,
+          38.8916943
+        ],
+        [
+          -77.0251536,
+          38.8916826
+        ],
+        [
+          -77.0251127,
+          38.8916562
+        ],
+        [
+          -77.0250978,
+          38.8916583
+        ],
+        [
+          -77.0250999,
+          38.8915838
+        ],
+        [
+          -77.0250704,
+          38.8915848
+        ],
+        [
+          -77.0250484,
+          38.8915856
+        ],
+        [
+          -77.0250269,
+          38.8915858
+        ],
+        [
+          -77.0250068,
+          38.891586
+        ],
+        [
+          -77.0250089,
+          38.8916082
+        ],
+        [
+          -77.0244846,
+          38.8916133
+        ],
+        [
+          -77.0244,
+          38.8916141
+        ],
+        [
+          -77.0243996,
+          38.8915914
+        ],
+        [
+          -77.0243941,
+          38.8913131
+        ],
+        [
+          -77.0243938,
+          38.8912982
+        ],
+        [
+          -77.0243936,
+          38.8912836
+        ],
+        [
+          -77.02439,
+          38.8911006
+        ],
+        [
+          -77.0244858,
+          38.891101
+        ],
+        [
+          -77.0245241,
+          38.8911007
+        ],
+        [
+          -77.0245667,
+          38.8911011
+        ],
+        [
+          -77.0249221,
+          38.8910966
+        ],
+        [
+          -77.0249221,
+          38.8911261
+        ],
+        [
+          -77.0249719,
+          38.8911234
+        ],
+        [
+          -77.0249841,
+          38.891124
+        ],
+        [
+          -77.0249776,
+          38.8908228
+        ],
+        [
+          -77.02567,
+          38.8908082
+        ],
+        [
+          -77.0258133,
+          38.8908067
+        ],
+        [
+          -77.0258134,
+          38.8907605
+        ],
+        [
+          -77.0259593,
+          38.8907596
+        ],
+        [
+          -77.0259951,
+          38.8907594
+        ],
+        [
+          -77.0261143,
+          38.8907587
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 66418787,
+    "version": 57,
+    "timestamp": "2026-06-13T18:41:16Z",
+    "url": "https://www.openstreetmap.org/way/66418787"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 453546745,
+      "version": 3,
+      "timestamp": "2026-04-02T18:36:43Z",
+      "url": "https://www.openstreetmap.org/way/453546745"
+    },
+    {
+      "type": "way",
+      "id": 453546747,
+      "version": 3,
+      "timestamp": "2021-07-24T23:03:01Z",
+      "url": "https://www.openstreetmap.org/way/453546747"
+    }
+  ],
+  "wikidata": "Q148554",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:National Museum of Natural History - Madison Drive - 2026 (55256219324).jpg",
+      "author": "ajay_suresh",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:National_Museum_of_Natural_History_-_Madison_Drive_-_2026_(55256219324).jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:The National Museum of Natural History (NMNH) (53831938363).jpg",
+      "author": "ajay_suresh",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:The_National_Museum_of_Natural_History_(NMNH)_(53831938363).jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:National Museum of Natural History, Washington.jpg",
+      "author": "Amanda",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:National_Museum_of_Natural_History,_Washington.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:2021 Smithsonian National Museum of Natural History from Pennsylvania Avenue.jpg",
+      "author": "Beyond My Ken",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:2021_Smithsonian_National_Museum_of_Natural_History_from_Pennsylvania_Avenue.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:National Museum of Natural History (side).jpg",
+      "author": "Cressonhist",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:National_Museum_of_Natural_History_(side).jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/dc-natural-history.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "National Museum of Natural History (Smithsonian) — procedural, CC0-1.0, no textures. bun generators/dc-natural-history.ts",
+    "Map frame: x east, y north, z up, metres; origin at the area centroid of the OSM outline (way/66418787). The building is square to the compass, so it is placed at bearing 0.",
+    "Modelled: the 1911 building's granite block, with its south facade of two eleven-bay pavilions either side of the domed south pavilion; the portico of Corinthian columns, its entablature and the stairs up to it; the extended pediments with their big semicircular clerestory windows on the four sides of the south pavilion; the drum in two stages and the shallow green-slate dome; the low hipped roofs of the east, west and north pavilions with their skylights; the mansard ranges round the two (now infilled) courtyards and the infill roofs; the projecting north entrance block; and the 1960s east and west wings, the same height as the original, with their set-back attic and penthouse. Windows are one slate panel per bay: the tall two-storey windows between the pilasters, the attic windows above the cornice, and the ground-floor openings.",
+    "Evidence:",
+    "OSM: way/66418787 (outline, 274 × 109 m); way/453546745, the south pavilion and portico (x ±18.7, the portico ±13.2 and 5 m deep); way/453546747, the drum, 23.6 m across, centred 30.5 m south of the outline's centroid.",
+    "Published: National Register nomination (DC Historic Preservation Office, \"National Museum of Natural History\", undated): four storeys plus an attic; south pavilion with an eight-column Corinthian portico and an extended pediment with a semicircular clerestory window, repeated on its east, north and west walls; drum 75 ft (22.9 m) across; dome clad in green Vermont slate; east, west and north pavilions with low hipped slate roofs and skylights; L-shaped ranges with mansard roofs enclosing two courtyards, since infilled (1974–77, 1995–98); east and west wings (1961–65) the same height as the original, attic and 1991 penthouses stepped back; the site rises from Constitution Avenue to the Mall, so the north entrance is at ground-floor level and the south one at the first floor. Hornblower & Marshall, 1904–11.",
+    "Photos (Wikimedia Commons): \"National Museum of Natural History - Madison Drive - 2026 (55256219324).jpg\" (ajay_suresh, CC BY 4.0, frontal from the south: column spacing, storey heights); \"The National Museum of Natural History (NMNH) (53831938363).jpg\" (ajay_suresh, CC BY 2.0, telephoto from the south: drum, dome, pediment and parapet heights); \"National Museum of Natural History, Washington.jpg\" (Amanda, CC BY 2.0, from the Washington Monument: roofs, west wing, dome colour); \"2021 Smithsonian National Museum of Natural History from Pennsylvania Avenue.jpg\" (Beyond My Ken, CC BY-SA 4.0, the north side); \"National Museum of Natural History (side).jpg\" (Cressonhist, CC BY-SA 3.0, the east wing).",
+    "USGS NAIP orthophoto (public domain): the courts, roof skylights and the wings' penthouses.",
+    "Ground: the site falls from the Mall to Constitution Avenue. USGS 3DEP spot heights (EPQS) give 7.0–7.1 m at the Madison Drive front and 3.0 m just off the north front, so the south ground is taken as 4.0 m above the north grade, which is y = 0. That is the storey the nomination describes: the north entrance is at the ground floor, the south one at the first. South-facing detail starts at 4.0 m; on the north the ground storey runs down to y = 0. The east and west ends, along which the slope runs, are detailed from the south level, so their north ends show a plain base.",
+    "Measured from the frontal photos against the OSM pavilion width (37.4 m), above Madison Drive (add 4.0 m for the model): parapet 21.6 m, main cornice 16.6 m, portico columns to 18.6 m, south pavilion cornice 27.9 m, pediment apex 35 m. Drum and dome, measured at 1:1 on the telephoto (14.8 px/m): lower drum 24.4 m across (the nomination's 75 ft, OSM's 23.6 m) to 35.1 m with its ring of frieze windows, upper drum 23.2 m across to 37.6 m, dome 19.6 m across springing at 37.9 m, crown 43.0 m. The east and west faces' extended pediments are drawn lower than the south and north ones (the south-east photo), so the drum stands clear above the attic as it does from the Mall. Portico: six columns across the front and one behind each end, the eight of the nomination; the frontal photo shows six across and the south-east one (ajay_suresh, 55255088887) shows the column behind the east end. Windows: one broad panel per bay over the two main storeys, with the pilasters as wall between. Estimated: the plan split into pavilions, ranges and courts (from NAIP, to a metre or two), the roof pitches, the wings' attic and penthouse sizes, the stair depth. Not modelled: sculpture, the elephant-head bronzes, the north balustrades, dormer pediments (drawn as attic windows), the courtyard glass walls.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"dc-natural-history\", model \"dc-natural-history\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/dc-natural-history.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 9 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the dc-natural-history-glazing finish in the window colour.",
+    "To fit six materials, folded trim into dc-natural-history-nmnh-granite (ΔE 7.2)."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

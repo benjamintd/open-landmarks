@@ -1,0 +1,411 @@
+{
+  "id": "washington-d-c-temple",
+  "name": "Washington D.C. Temple",
+  "anchor": [
+    -77.0656093,
+    39.0140535
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 86332,
+      "sha256": "b6273fec951ca2ea6b37660fd8ee237da3c38061a96ca06d575f13e782558872"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 86332,
+      "sha256": "b6273fec951ca2ea6b37660fd8ee237da3c38061a96ca06d575f13e782558872"
+    }
+  },
+  "triangles": 1670,
+  "boundsBlenderM": [
+    [
+      -36.846,
+      -20.346,
+      0
+    ],
+    [
+      37.746,
+      20.396,
+      88
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -77.0659429,
+          39.0140179
+        ],
+        [
+          -77.0658413,
+          39.0139396
+        ],
+        [
+          -77.0658719,
+          39.0139123
+        ],
+        [
+          -77.0658062,
+          39.0138654
+        ],
+        [
+          -77.0657498,
+          39.0139155
+        ],
+        [
+          -77.0654668,
+          39.0139154
+        ],
+        [
+          -77.0654065,
+          39.0138674
+        ],
+        [
+          -77.0653482,
+          39.0139156
+        ],
+        [
+          -77.0653773,
+          39.0139396
+        ],
+        [
+          -77.0653394,
+          39.0139715
+        ],
+        [
+          -77.0653164,
+          39.0139909
+        ],
+        [
+          -77.0652991,
+          39.0140057
+        ],
+        [
+          -77.0652804,
+          39.0140217
+        ],
+        [
+          -77.0652415,
+          39.0139967
+        ],
+        [
+          -77.0651824,
+          39.0140409
+        ],
+        [
+          -77.0651678,
+          39.0140519
+        ],
+        [
+          -77.0651834,
+          39.0140641
+        ],
+        [
+          -77.0652416,
+          39.0141092
+        ],
+        [
+          -77.0652724,
+          39.0140863
+        ],
+        [
+          -77.0653095,
+          39.0141159
+        ],
+        [
+          -77.0653286,
+          39.0141311
+        ],
+        [
+          -77.0653539,
+          39.0141512
+        ],
+        [
+          -77.065377,
+          39.0141696
+        ],
+        [
+          -77.0653528,
+          39.0141936
+        ],
+        [
+          -77.0654106,
+          39.0142384
+        ],
+        [
+          -77.0654668,
+          39.0141936
+        ],
+        [
+          -77.0656225,
+          39.0141941
+        ],
+        [
+          -77.0657512,
+          39.0141925
+        ],
+        [
+          -77.0658075,
+          39.0142374
+        ],
+        [
+          -77.0658678,
+          39.0141957
+        ],
+        [
+          -77.065837,
+          39.0141696
+        ],
+        [
+          -77.0659469,
+          39.0140852
+        ],
+        [
+          -77.0659805,
+          39.0141082
+        ],
+        [
+          -77.0660488,
+          39.0140509
+        ],
+        [
+          -77.0659765,
+          39.0139988
+        ],
+        [
+          -77.0659429,
+          39.0140179
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 87324809,
+    "version": 19,
+    "timestamp": "2024-10-26T19:13:30Z",
+    "url": "https://www.openstreetmap.org/way/87324809"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 781335032,
+      "version": 5,
+      "timestamp": "2020-09-09T13:48:23Z",
+      "url": "https://www.openstreetmap.org/way/781335032"
+    },
+    {
+      "type": "way",
+      "id": 781335034,
+      "version": 5,
+      "timestamp": "2020-09-09T13:48:23Z",
+      "url": "https://www.openstreetmap.org/way/781335034"
+    },
+    {
+      "type": "way",
+      "id": 845436189,
+      "version": 1,
+      "timestamp": "2020-09-08T16:00:32Z",
+      "url": "https://www.openstreetmap.org/way/845436189"
+    },
+    {
+      "type": "way",
+      "id": 845436190,
+      "version": 1,
+      "timestamp": "2020-09-08T16:00:32Z",
+      "url": "https://www.openstreetmap.org/way/845436190"
+    },
+    {
+      "type": "way",
+      "id": 845436191,
+      "version": 2,
+      "timestamp": "2020-09-09T13:48:23Z",
+      "url": "https://www.openstreetmap.org/way/845436191"
+    },
+    {
+      "type": "way",
+      "id": 845436192,
+      "version": 1,
+      "timestamp": "2020-09-08T16:00:32Z",
+      "url": "https://www.openstreetmap.org/way/845436192"
+    },
+    {
+      "type": "way",
+      "id": 845436193,
+      "version": 2,
+      "timestamp": "2020-09-09T13:48:23Z",
+      "url": "https://www.openstreetmap.org/way/845436193"
+    },
+    {
+      "type": "way",
+      "id": 845436194,
+      "version": 1,
+      "timestamp": "2020-09-08T16:00:32Z",
+      "url": "https://www.openstreetmap.org/way/845436194"
+    },
+    {
+      "type": "way",
+      "id": 845436195,
+      "version": 2,
+      "timestamp": "2020-09-09T13:48:23Z",
+      "url": "https://www.openstreetmap.org/way/845436195"
+    },
+    {
+      "type": "way",
+      "id": 845436196,
+      "version": 2,
+      "timestamp": "2020-09-09T13:48:23Z",
+      "url": "https://www.openstreetmap.org/way/845436196"
+    },
+    {
+      "type": "way",
+      "id": 845436197,
+      "version": 1,
+      "timestamp": "2020-09-08T16:00:32Z",
+      "url": "https://www.openstreetmap.org/way/845436197"
+    },
+    {
+      "type": "way",
+      "id": 845436198,
+      "version": 2,
+      "timestamp": "2020-09-09T13:48:23Z",
+      "url": "https://www.openstreetmap.org/way/845436198"
+    },
+    {
+      "type": "way",
+      "id": 845436199,
+      "version": 2,
+      "timestamp": "2020-09-09T13:48:23Z",
+      "url": "https://www.openstreetmap.org/way/845436199"
+    },
+    {
+      "type": "way",
+      "id": 845436200,
+      "version": 1,
+      "timestamp": "2020-09-08T16:00:32Z",
+      "url": "https://www.openstreetmap.org/way/845436200"
+    },
+    {
+      "type": "way",
+      "id": 845436201,
+      "version": 2,
+      "timestamp": "2020-09-09T13:48:23Z",
+      "url": "https://www.openstreetmap.org/way/845436201"
+    },
+    {
+      "type": "way",
+      "id": 845436202,
+      "version": 2,
+      "timestamp": "2020-09-09T13:48:23Z",
+      "url": "https://www.openstreetmap.org/way/845436202"
+    },
+    {
+      "type": "way",
+      "id": 845436203,
+      "version": 1,
+      "timestamp": "2020-09-08T16:00:32Z",
+      "url": "https://www.openstreetmap.org/way/845436203"
+    },
+    {
+      "type": "way",
+      "id": 845436204,
+      "version": 2,
+      "timestamp": "2020-09-09T13:48:23Z",
+      "url": "https://www.openstreetmap.org/way/845436204"
+    },
+    {
+      "type": "way",
+      "id": 845436205,
+      "version": 2,
+      "timestamp": "2020-09-09T13:48:23Z",
+      "url": "https://www.openstreetmap.org/way/845436205"
+    }
+  ],
+  "wikidata": "Q1810883",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Washington D.C. Temple At Dusk.jpg",
+      "author": "Joe Ravi",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Washington_D.C._Temple_At_Dusk.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Washington Temple 1974.jpg",
+      "author": "Warren K. Leffler",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Washington_Temple_1974.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Washington_Temple_1974.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Washington DC Temple.JPG",
+      "author": "Uriah923 from en.wikipedia",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Washington_DC_Temple.JPG",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Washington_DC_Temple.JPG",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Mormon Temple in DC.jpeg",
+      "author": "Geraldshields11",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Mormon_Temple_in_DC.jpeg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:DCTemple-c.jpg",
+      "author": "No machine-readable author provided. Trödel assumed (based on copyright claims).",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:DCTemple-c.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:DCTemple-c.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/dc-washington-temple.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Washington D.C. Temple (The Church of Jesus Christ of Latter-day Saints), Kensington, Maryland — procedural, CC0-1.0, no textures. bun generators/dc-washington-temple.ts",
+    "Map frame: x east, y north, z up, metres; bearing 0°, the long walls run due east–west in OSM. The anchor is the area centroid of the OSM outline way/87324809 (lng -77.0656093, lat 39.0140535).",
+    "What it is: Keith Wilcox's temple (1974) in white Alabama marble. An elongated hexagon of walls ribbed with tall marble fins, the fins standing up past the roof as a comb, and six towers at its corners, three to the east and three to the west after the Salt Lake Temple. Each tower is a square turned 45° to the walls: a tall shaft, a stepped crown, a narrower second stage and a gilded needle spire. The east towers are taller than the west; the east central one carries the gilded angel Moroni. The spires are the identity.",
+    "Covers and replaces the outline way/87324809 and its nineteen building:parts (the six towers' stages): way/781335032, 781335034 and way/845436189 … 845436205. Not covered: the entrance pavilion and the bridge on the north side (way/844023409), outside the outline, and the annex way/795280375.",
+    "Evidence",
+    "OSM (measured): the outline 76 × 41 m; tower centres at (±17.3, ±15.4) and (±31.9, 0); the walls between them run through those centres, so the body is a hexagon on them; the towers are drawn as diamonds (their sides at 45°), the east central one larger (12.4 m corner to corner). The parts' heights (48–100 m) are rough and were not used.",
+    "Published (Wikipedia, \"Washington D.C. Temple\"): the east central tower 288 ft (88 m) to the top of the angel Moroni, a gilded statue 18 ft (5.5 m) tall; white Alabama marble; gold-tipped spires.",
+    "USGS 3DEP ground: 87.8–88.3 m round the outline, so y = 0 is 87.8 m.",
+    "Photos (Wikimedia Commons): \"Washington D.C. Temple At Dusk.jpg\" (Joe Ravi, CC BY-SA 3.0; the north front square on, the main source of heights, scaled from the published 88 m); \"Washington Temple 1974.jpg\" (Warren K. Leffler, public domain; north front); \"Washington DC Temple.JPG\" (Uriah923, public domain; north-west); \"Mormon Temple in DC.jpeg\" (Geraldshields11, CC BY-SA 4.0; north-east, close); \"DCTemple-c.jpg\" (public domain; the east end's three spires). USGS NAIP orthophoto for the plan and the dark flat roof.",
+    "Read off the photos (estimated): walls 34.5 m, the fins' comb to 36.2 m; east towers' shafts to 38 m, crowns to 42 m, second stages to 55.5 m, spires to 79 m (corners) and 82.3 m plus Moroni to 88 m (central); west towers 1.5–4 m lower at each stage, spires to 73.6 m. Tower size from the dusk photo: about 10.6 m corner to corner (OSM's parts say 7.5 m, its outline 9.9 m), the east central 12.4 m.",
+    "Simplified: the fins are drawn about half as many and twice as broad as built, as relief against a slightly shaded wall (no window stripes: the gaps are narrow art-glass slits that do not read at map scale); each tower's stepped crown of small fins is two plain bands; Moroni is a slender gilded post.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"dc-washington-temple\", model \"dc-washington-temple\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/dc-washington-temple.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

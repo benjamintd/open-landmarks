@@ -1,0 +1,525 @@
+{
+  "id": "national-gallery-of-art-west-building",
+  "name": "National Gallery of Art, West Building",
+  "anchor": [
+    -77.0199074,
+    38.8913174
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 195892,
+      "sha256": "cd20aa077cdf1f9ae1c66daa730324b6bd5fbdf0c4bb64d01925ac5f81081376"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 195892,
+      "sha256": "cd20aa077cdf1f9ae1c66daa730324b6bd5fbdf0c4bb64d01925ac5f81081376"
+    }
+  },
+  "triangles": 4266,
+  "boundsBlenderM": [
+    [
+      -120.953,
+      -52.253,
+      0
+    ],
+    [
+      120.953,
+      48.8,
+      42.512
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -77.0187516,
+          38.8910998
+        ],
+        [
+          -77.0187475,
+          38.8909127
+        ],
+        [
+          -77.0192557,
+          38.8909061
+        ],
+        [
+          -77.0192613,
+          38.8910638
+        ],
+        [
+          -77.0192623,
+          38.8910929
+        ],
+        [
+          -77.0196959,
+          38.891087
+        ],
+        [
+          -77.0196955,
+          38.8910583
+        ],
+        [
+          -77.0196942,
+          38.890963
+        ],
+        [
+          -77.0197276,
+          38.8909626
+        ],
+        [
+          -77.0198955,
+          38.8909601
+        ],
+        [
+          -77.0200596,
+          38.890958
+        ],
+        [
+          -77.0200929,
+          38.8909574
+        ],
+        [
+          -77.0200959,
+          38.8910524
+        ],
+        [
+          -77.020095,
+          38.8910767
+        ],
+        [
+          -77.0205364,
+          38.8910721
+        ],
+        [
+          -77.020536,
+          38.891047
+        ],
+        [
+          -77.0205332,
+          38.890883
+        ],
+        [
+          -77.0210441,
+          38.8908811
+        ],
+        [
+          -77.0210501,
+          38.8910602
+        ],
+        [
+          -77.0212828,
+          38.8910583
+        ],
+        [
+          -77.0212854,
+          38.8911649
+        ],
+        [
+          -77.0212871,
+          38.8912341
+        ],
+        [
+          -77.0212878,
+          38.8912618
+        ],
+        [
+          -77.0212886,
+          38.891294
+        ],
+        [
+          -77.0212895,
+          38.8913296
+        ],
+        [
+          -77.0212903,
+          38.8913613
+        ],
+        [
+          -77.0212917,
+          38.8914215
+        ],
+        [
+          -77.0212919,
+          38.8914305
+        ],
+        [
+          -77.0212927,
+          38.8914623
+        ],
+        [
+          -77.0212946,
+          38.8915374
+        ],
+        [
+          -77.0210578,
+          38.8915397
+        ],
+        [
+          -77.0210639,
+          38.8917214
+        ],
+        [
+          -77.0209982,
+          38.8917223
+        ],
+        [
+          -77.0208256,
+          38.8917247
+        ],
+        [
+          -77.0207756,
+          38.8917255
+        ],
+        [
+          -77.0206878,
+          38.8917267
+        ],
+        [
+          -77.0205514,
+          38.8917286
+        ],
+        [
+          -77.0205484,
+          38.8915469
+        ],
+        [
+          -77.0201181,
+          38.8915521
+        ],
+        [
+          -77.02012,
+          38.891669
+        ],
+        [
+          -77.0200673,
+          38.8916697
+        ],
+        [
+          -77.0200167,
+          38.8916703
+        ],
+        [
+          -77.0199112,
+          38.8916716
+        ],
+        [
+          -77.0198076,
+          38.8916728
+        ],
+        [
+          -77.019753,
+          38.8916735
+        ],
+        [
+          -77.0197045,
+          38.8916741
+        ],
+        [
+          -77.0197043,
+          38.8915578
+        ],
+        [
+          -77.0192725,
+          38.8915632
+        ],
+        [
+          -77.0192765,
+          38.8917465
+        ],
+        [
+          -77.0187643,
+          38.8917537
+        ],
+        [
+          -77.0187606,
+          38.8915699
+        ],
+        [
+          -77.0185256,
+          38.8915728
+        ],
+        [
+          -77.018523,
+          38.8914582
+        ],
+        [
+          -77.0185225,
+          38.8914371
+        ],
+        [
+          -77.0185216,
+          38.8913969
+        ],
+        [
+          -77.0185209,
+          38.8913691
+        ],
+        [
+          -77.0185206,
+          38.891354
+        ],
+        [
+          -77.01852,
+          38.8913291
+        ],
+        [
+          -77.0185198,
+          38.8912918
+        ],
+        [
+          -77.0185196,
+          38.8912615
+        ],
+        [
+          -77.0185193,
+          38.8912005
+        ],
+        [
+          -77.0185188,
+          38.891102
+        ],
+        [
+          -77.0187516,
+          38.8910998
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 66418944,
+    "version": 30,
+    "timestamp": "2026-04-02T19:00:54Z",
+    "url": "https://www.openstreetmap.org/way/66418944"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 426863059,
+      "version": 2,
+      "timestamp": "2016-06-23T23:00:52Z",
+      "url": "https://www.openstreetmap.org/way/426863059"
+    },
+    {
+      "type": "way",
+      "id": 426863062,
+      "version": 2,
+      "timestamp": "2016-06-28T15:01:58Z",
+      "url": "https://www.openstreetmap.org/way/426863062"
+    },
+    {
+      "type": "way",
+      "id": 426863065,
+      "version": 2,
+      "timestamp": "2016-06-28T15:01:58Z",
+      "url": "https://www.openstreetmap.org/way/426863065"
+    },
+    {
+      "type": "way",
+      "id": 426863068,
+      "version": 2,
+      "timestamp": "2016-06-23T23:00:52Z",
+      "url": "https://www.openstreetmap.org/way/426863068"
+    },
+    {
+      "type": "way",
+      "id": 426863072,
+      "version": 2,
+      "timestamp": "2016-06-28T15:01:58Z",
+      "url": "https://www.openstreetmap.org/way/426863072"
+    },
+    {
+      "type": "way",
+      "id": 426863074,
+      "version": 2,
+      "timestamp": "2016-06-28T15:01:58Z",
+      "url": "https://www.openstreetmap.org/way/426863074"
+    },
+    {
+      "type": "way",
+      "id": 426863076,
+      "version": 2,
+      "timestamp": "2016-06-28T15:01:58Z",
+      "url": "https://www.openstreetmap.org/way/426863076"
+    },
+    {
+      "type": "way",
+      "id": 426863079,
+      "version": 4,
+      "timestamp": "2021-02-24T05:46:45Z",
+      "url": "https://www.openstreetmap.org/way/426863079"
+    },
+    {
+      "type": "way",
+      "id": 426863081,
+      "version": 6,
+      "timestamp": "2021-02-24T06:37:45Z",
+      "url": "https://www.openstreetmap.org/way/426863081"
+    },
+    {
+      "type": "way",
+      "id": 426863083,
+      "version": 4,
+      "timestamp": "2021-02-24T05:46:45Z",
+      "url": "https://www.openstreetmap.org/way/426863083"
+    },
+    {
+      "type": "way",
+      "id": 426863084,
+      "version": 4,
+      "timestamp": "2021-02-24T06:08:09Z",
+      "url": "https://www.openstreetmap.org/way/426863084"
+    },
+    {
+      "type": "way",
+      "id": 426863086,
+      "version": 3,
+      "timestamp": "2016-06-28T15:01:59Z",
+      "url": "https://www.openstreetmap.org/way/426863086"
+    },
+    {
+      "type": "way",
+      "id": 426863089,
+      "version": 2,
+      "timestamp": "2016-06-28T15:01:59Z",
+      "url": "https://www.openstreetmap.org/way/426863089"
+    },
+    {
+      "type": "way",
+      "id": 426863091,
+      "version": 10,
+      "timestamp": "2026-04-02T19:00:54Z",
+      "url": "https://www.openstreetmap.org/way/426863091"
+    },
+    {
+      "type": "way",
+      "id": 426863096,
+      "version": 4,
+      "timestamp": "2021-02-24T06:37:45Z",
+      "url": "https://www.openstreetmap.org/way/426863096"
+    },
+    {
+      "type": "way",
+      "id": 426863098,
+      "version": 5,
+      "timestamp": "2021-02-24T06:37:45Z",
+      "url": "https://www.openstreetmap.org/way/426863098"
+    }
+  ],
+  "wikidata": "Q129673434",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:National Gallery of Art, West Building (33519556034).jpg",
+      "author": "Gunnar Klack",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:National_Gallery_of_Art,_West_Building_(33519556034).jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Washington October 2016-12.jpg",
+      "author": "Alvesgaspar",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Washington_October_2016-12.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:National Gallery of Art - West Building facade.JPG",
+      "author": "AgnosticPreachersKid",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:National_Gallery_of_Art_-_West_Building_facade.JPG",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:National Gallery of Art 3.jpg",
+      "author": "Kurt Kaiser",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:National_Gallery_of_Art_3.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:National Gallery of Art 4.jpg",
+      "author": "Kurt Kaiser",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:National_Gallery_of_Art_4.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:National Gallery of Art - West Building's east entrance.JPG",
+      "author": "AgnosticPreachersKid",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:National_Gallery_of_Art_-_West_Building%27s_east_entrance.JPG",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:West Building of the National Gallery of Art.JPG",
+      "author": "AgnosticPreachersKid",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:West_Building_of_the_National_Gallery_of_Art.JPG",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:West Building - National Gallery of Art.JPG",
+      "author": "AgnosticPreachersKid",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:West_Building_-_National_Gallery_of_Art.JPG",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/dc-nga-west.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "National Gallery of Art, West Building — procedural, CC0-1.0, no textures. bun generators/dc-nga-west.ts",
+    "Also the kit for dc-nga-east and dc-national-archives: the helpers in the first section are exported, and the West Building is only built when this file is run directly.",
+    "Map frame: x east, y north, z up, metres. The anchor is the area centroid of the OSM outline way/66418944 (lng -77.0199074, lat 38.8913174), which is also the centre of the rotunda's dome to half a metre. The outline's walls are turned 0.89° anticlockwise from the compass (fitted over all its edges), so the model is placed at bearing 359.11 and built square.",
+    "What it is: John Russell Pope's gallery of 1937–41, an elongated H of pink Tennessee marble 240 m long. A domed rotunda in the middle; long wings east and west, with the skylit sculpture halls raised along their spine and a skylit garden court in each; four corner pavilions that stand forward of the wings to north and south; an end block at each end. An Ionic portico of eight columns faces the Mall over a broad flight of steps; a narrower portico of six columns on a ground-floor podium faces Constitution Avenue. The walls are windowless: shallow pilasters, blind niches, a cornice and an attic band. The roofs are almost all skylights.",
+    "Covers and replaces: the outline way/66418944 and its 14 building:parts (rotunda block, dome, both wings, the four sculpture-hall and garden-court blocks, the four corner pavilions, both end blocks, both porticos). The small unnamed buildings around it (way/66418758 and the others: the service yard, guard booths, greenhouses) are left alone.",
+    "Evidence",
+    "OSM (measured): outline 240 × 93 m; wings to y ±26.3, pavilions to ±46.7, end blocks x 99.6–120; rotunda block a 42 m cross, dome 33.4 m across; sculpture halls x 21–65 and garden courts x 65–91, both y ±17; porticos 35 m wide, the south one to y -39.7, the north to 39.3. Heights: wings 22, pavilions and end blocks 24 (2 m gabled roof), halls and courts 27 (2 m roof), porticos 30 (4 m gable), rotunda block 30, dome 30–41.3.",
+    "Published (Wikipedia, \"National Gallery of Art\"; NGA): Pope, 1937–41; pink Tennessee marble, at its opening the largest marble building in the world; an elongated H on a domed rotunda after the Pantheon, with skylit sculpture halls east and west and garden courts.",
+    "Photos (Wikimedia Commons): \"National-Gallery-of-Art-West-Building- John-Russell-Pope-National-Mall-Washington-DC-04-2014.jpg\" (Gunnar Klack, CC BY-SA 4.0) and \"National Gallery of Art, West Building (33519556034).jpg\" (Gunnar Klack, CC BY-SA 2.0), the south portico frontally; \"Washington October 2016-12.jpg\" (Alvesgaspar, CC BY-SA 4.0) and \"National Gallery of Art - West Building facade.JPG\" (AgnosticPreachersKid, CC BY-SA 3.0), the portico close; \"National Gallery of Art 3.jpg\" and \"National Gallery of Art 4.jpg\" (Kurt Kaiser, CC0), the north portico, dome and wings from Constitution Avenue; \"National Gallery of Art - West Building's east entrance.JPG\" and \"West Building of the National Gallery of Art.JPG\" (AgnosticPreachersKid, CC BY-SA 3.0), the east end; \"West Building - National Gallery of Art.JPG\" (same), an end face.",
+    "USGS NAIP orthophoto (public domain): the roof plan (skylit pavilions, the strip skylights either side of the halls, the garden courts' glass roofs, the dome's stepped rings and oculus) and the roof colours.",
+    "Measured from the frontal south photo against the portico's OSM width (35 m): portico floor 5.6 m above Madison Drive, Ionic columns 5.6–20.8, entablature to 25, pediment apex 30 (OSM); the wing cornice about 19.5 m and the attic band to 22 (OSM 22).",
+    "Estimated: the north portico's podium (6 m) and column spacing; the dome's profile (three stepped rings, then a saucer to 41.3 m) and its oculus; the pilaster rhythm (about 7.4 m) and the blind niches, drawn as shaded panels in each bay; the steps' depth (12 m); the skylight sizes. The south steps stand outside the OSM outline, as they do in reality.",
+    "The Mall is about a storey above Constitution Avenue at the north front; y = 0 is the lower, northern ground and the walls run to it all round.",
+    "Simplified: the Ionic capitals are plain blocks; the portico ceilings, the bronze doors' frames, lamps, sculpture and the few small windows are left out.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"dc-nga-west\", model \"dc-nga-west\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/dc-nga-west.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

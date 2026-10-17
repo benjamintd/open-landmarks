@@ -1,0 +1,159 @@
+{
+  "id": "national-museum-of-african-american-history-and-culture",
+  "name": "National Museum of African American History and Culture",
+  "anchor": [
+    -77.0327036,
+    38.8910616
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 12360,
+      "sha256": "9da97157675257e200a14653880c6eb635cfa425608e07bca6755abe6b598876"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 12360,
+      "sha256": "9da97157675257e200a14653880c6eb635cfa425608e07bca6755abe6b598876"
+    }
+  },
+  "triangles": 174,
+  "boundsBlenderM": [
+    [
+      -33.143,
+      -41.5,
+      0
+    ],
+    [
+      33.143,
+      32.743,
+      35
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -77.0330555,
+          38.8913261
+        ],
+        [
+          -77.0330441,
+          38.8907873
+        ],
+        [
+          -77.0330052,
+          38.8907878
+        ],
+        [
+          -77.0324682,
+          38.8907942
+        ],
+        [
+          -77.0324117,
+          38.8907949
+        ],
+        [
+          -77.0323573,
+          38.8907955
+        ],
+        [
+          -77.0323525,
+          38.8907956
+        ],
+        [
+          -77.0323528,
+          38.8908079
+        ],
+        [
+          -77.0323633,
+          38.8913372
+        ],
+        [
+          -77.0325739,
+          38.8913338
+        ],
+        [
+          -77.0329571,
+          38.8913277
+        ],
+        [
+          -77.0329842,
+          38.8913273
+        ],
+        [
+          -77.0330555,
+          38.8913261
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 398810868,
+    "version": 23,
+    "timestamp": "2026-05-03T13:56:32Z",
+    "url": "https://www.openstreetmap.org/way/398810868"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 898560007,
+      "version": 3,
+      "timestamp": "2023-08-07T14:51:06Z",
+      "url": "https://www.openstreetmap.org/way/898560007"
+    }
+  ],
+  "wikidata": "Q3073495",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:National Museum of African American History and Culture in February 2020.jpg",
+      "author": "Frank Schulenburg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:National_Museum_of_African_American_History_and_Culture_in_February_2020.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/dc-nmaahc.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "National Museum of African American History and Culture (NMAAHC) — procedural, CC0-1.0, no textures. bun generators/dc-nmaahc.ts",
+    "Map frame: x east, y north, z up, metres; origin at the area centroid of the OSM outline (way/398810868). The building is square to the compass (its walls run at 89–90°), so it is placed at bearing 0.",
+    "Modelled: the shadowed glass ground storey (a darker window tone); the \"corona\", three stacked inverted tiers whose bronze screen leans outward at 17°, each tier tucked in at its foot so the stack reads as a sawtooth; the dark soffit under each tier; the grey roof and its mechanical penthouse; the big glazed openings cut through the screen (the long slot and the diagonal slash on the west face, the smaller windows on the other three); and the south porch, a thin long-span canopy over the Madison Drive entrance on its two piers.",
+    "Evidence:",
+    "OSM: way/398810868, the outline, 60.9 × 59.8 m (taken as the corona's foot); way/898560007 (building=roof, height 7), the porch, 11.6 m deep along the whole south side. OSM's height of 18.1 m is not the building's (the photos put the corona's top near 32 m). The oculus on the north lawn (way/898560016) is a separate building and is not replaced.",
+    "Published: Wikipedia \"National Museum of African American History and Culture\" (Freelon Adjaye Bond / SmithGroup, 2016; five storeys above ground; 3,600 bronze-coloured cast-aluminium corona panels; a 200 ft (61 m) long-span porch). Enclos (curtain-wall contractor): 123 ft high; the tiers lean at 17°, the angle of the Washington Monument's capstone.",
+    "Photos (Wikimedia Commons): \"National Museum of African American History and Culture in February 2020.jpg\" (Frank Schulenburg, CC BY-SA 4.0, from the south-west: porch, west slot and slash, south windows); \"… (97901).jpg\" (Rhododendrites, CC BY-SA 4.0, porch edge); \"… - exterior 20250405.jpg\" (Frypie, CC BY-SA 4.0, from the north-west at a distance: proportions, penthouse); \"… 2019.jpg\" (Difference engine, CC BY-SA 4.0, north-west: tier heights, base); \"… 9264994.jpg\" (slowking4, GFDL 1.2, west face: slot and slash positions); \"… - Joy of Museums - External 2.jpg\" (GordonMakryllos, CC BY-SA 4.0, from the north-east: east and north windows, roof edge).",
+    "Measured from the photos: ground storey 4.6 m (about 13% of the height, as the frontal photos show it), set 1.6 m back under the first tier; three tiers of 9.3 m, so the corona's roof is at 32.5 m and each tier flares 2.84 m (9.3 × tan 17°); the porch, 6.4 m at its top (OSM: 7 m); the penthouse, 55 m square (NAIP), to 35 m. The published 123 ft (37.5 m) is taken to be from the lower grade on Constitution Avenue or to the top of the plant, and is not used directly. Estimated: the window positions (to a few metres, from oblique photos), the porch's piers and its soffit slope. The screen's lattice is drawn as broad bronze faces, as the brief asks, not as a pattern. Not modelled: the oculus, the lawn walls, the fountain, the lettering.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"dc-nmaahc\", model \"dc-nmaahc\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/dc-nmaahc.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 204 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the dc-nmaahc-glazing finish in the window colour."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

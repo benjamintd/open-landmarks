@@ -1,0 +1,213 @@
+{
+  "id": "martin-luther-king-jr-memorial",
+  "name": "Martin Luther King Jr. Memorial",
+  "anchor": [
+    -77.0442258,
+    38.8862254
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 30044,
+      "sha256": "1777a3e4da15147911aa3c93dd7a9b010a35b06baf4eac9571e2258027321c20"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 30044,
+      "sha256": "1777a3e4da15147911aa3c93dd7a9b010a35b06baf4eac9571e2258027321c20"
+    }
+  },
+  "triangles": 792,
+  "boundsBlenderM": [
+    [
+      -41.1,
+      -54.291,
+      0
+    ],
+    [
+      61.961,
+      39.85,
+      9.18
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "MultiPolygon",
+    "coordinates": [
+      [
+        [
+          [
+            -77.0444358,
+            38.8863642
+          ],
+          [
+            -77.0443748,
+            38.8863191
+          ],
+          [
+            -77.0443494,
+            38.8863421
+          ],
+          [
+            -77.0443298,
+            38.8863655
+          ],
+          [
+            -77.0443239,
+            38.8863873
+          ],
+          [
+            -77.0443331,
+            38.8863977
+          ],
+          [
+            -77.0443615,
+            38.8863947
+          ],
+          [
+            -77.0443894,
+            38.8863895
+          ],
+          [
+            -77.0444078,
+            38.8863826
+          ],
+          [
+            -77.044417,
+            38.8863792
+          ],
+          [
+            -77.0444358,
+            38.8863642
+          ]
+        ]
+      ],
+      [
+        [
+          [
+            -77.0444645,
+            38.8863392
+          ],
+          [
+            -77.0444032,
+            38.8862957
+          ],
+          [
+            -77.0444257,
+            38.8862755
+          ],
+          [
+            -77.0444458,
+            38.8862622
+          ],
+          [
+            -77.0444641,
+            38.8862531
+          ],
+          [
+            -77.0444812,
+            38.8862502
+          ],
+          [
+            -77.0444975,
+            38.8862535
+          ],
+          [
+            -77.0444993,
+            38.8862634
+          ],
+          [
+            -77.0445021,
+            38.8862785
+          ],
+          [
+            -77.0444917,
+            38.8863074
+          ],
+          [
+            -77.0444848,
+            38.886317
+          ],
+          [
+            -77.0444791,
+            38.8863249
+          ],
+          [
+            -77.0444645,
+            38.8863392
+          ]
+        ]
+      ],
+      [
+        [
+          [
+            -77.0442677,
+            38.8862403
+          ],
+          [
+            -77.0442217,
+            38.8861897
+          ],
+          [
+            -77.0441843,
+            38.8862103
+          ],
+          [
+            -77.0442303,
+            38.8862609
+          ],
+          [
+            -77.0442677,
+            38.8862403
+          ]
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "relation",
+    "id": 12268799,
+    "version": 2,
+    "timestamp": "2025-12-09T02:30:24Z",
+    "url": "https://www.openstreetmap.org/relation/12268799"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q536802",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/dc-mlk-memorial.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Martin Luther King Jr. Memorial, Washington, DC — procedural, CC0-1.0.",
+    "Map frame: x east, y north, z up, metres. The origin is the centre of the Stone of Hope's OSM outline (lng -77.0442258, lat 38.8862254), on the plaza. Bearing 0: the plan below is OSM's, in true north.",
+    "The memorial is three pieces of pale granite and a wall. Out of the Mountain of Despair, two great blocks split apart to make the entrance, comes the Stone of Hope, pushed forward toward the Tidal Basin with King emerging from its front face, arms folded, looking across the water to the Jefferson Memorial. Behind them the Inscription Wall curves away both ways.",
+    "Evidence - OSM (measured): relation/12268799 \"Stone of Hope\" (building=yes, memorial=statue) is a multipolygon of three outer ways, the two halves of the Mountain of Despair (way/903224407, way/903224408) and the Stone of Hope itself (way/903224411, 6.9 × 3.9 m, its long side running to the south-east). The Inscription Wall is the two barrier=wall ways way/903224417 and way/903224410, drawn along the crescent. - Published (Wikipedia, NPS): the Stone of Hope is 30 ft (9.1 m) high; the Inscription Wall is 450 ft (140 m) long; pale granite (Lei Yixin, ROMA Design Group, 2011). - Photos (Wikimedia Commons): Rachel Hendrix's two views from above the Tidal Basin (public domain) for the plan and the relative heights; Larry Syverson (CC BY-SA 2.0) and John Brighenti (CC BY 2.0, both photos) for the split Mountain from the entrance plaza; VillageHero (CC BY-SA 2.0) for the Mountain's rough sloping back; AsaQuathern (CC BY-SA 4.0) for King's pose; Pmvf (CC BY-SA 4.0) for the wall.",
+    "Measured: the Stone's front is drawn 4.7 m wide, not OSM's 3.9 m. In Hendrix's view from across the Basin (public domain, about 17° off King's line of sight) the front face is 125 px wide against 230 px from plaza to top: with the published 9.1 m height that is 4.9 m (the small angle only narrows the face, so the true width is if anything a little more). Brighenti's sunset photo, its foot cut off, bounds it at no more than 5.2 m. 4.7 m is the lower, safer reading of both. OSM's outline is probably traced at the hewn, narrower top. Estimated: the Mountain's halves rise to 7.8 m at the split (photos against the Stone) and fall to about 2.4 m at their outer ends; the wall is 3.2 m high and 0.8 m thick; the figure's proportions are measured off the front photo against the block. The cut faces of the split and of the Stone are flat, the outer faces of the Mountain are rough: drawn as flat planes with a jittered top.",
+    "The plaza, the lawns, the cherry trees and the Tidal Basin are the map's.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"dc-mlk-memorial\", model \"dc-mlk-memorial\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/dc-mlk-memorial.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

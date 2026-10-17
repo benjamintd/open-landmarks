@@ -1,0 +1,473 @@
+{
+  "id": "nationals-park",
+  "name": "Nationals Park",
+  "anchor": [
+    -77.0075468,
+    38.8728428
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 166424,
+      "sha256": "38b919c160b67a77a54b2b0387c3d173456988447bc6430238f042f353cec4cf"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 166424,
+      "sha256": "38b919c160b67a77a54b2b0387c3d173456988447bc6430238f042f353cec4cf"
+    }
+  },
+  "triangles": 4468,
+  "boundsBlenderM": [
+    [
+      -107.362,
+      -142.513,
+      0
+    ],
+    [
+      117.932,
+      118.828,
+      48
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -77.007164,
+          38.8738714
+        ],
+        [
+          -77.0068504,
+          38.8738731
+        ],
+        [
+          -77.0068553,
+          38.8737682
+        ],
+        [
+          -77.0067939,
+          38.8737089
+        ],
+        [
+          -77.0067961,
+          38.8736621
+        ],
+        [
+          -77.0067237,
+          38.8735983
+        ],
+        [
+          -77.0067199,
+          38.8735949
+        ],
+        [
+          -77.0065817,
+          38.8736795
+        ],
+        [
+          -77.0065471,
+          38.8736378
+        ],
+        [
+          -77.0064547,
+          38.8736768
+        ],
+        [
+          -77.0063527,
+          38.8737199
+        ],
+        [
+          -77.0063091,
+          38.8737205
+        ],
+        [
+          -77.0061856,
+          38.8737223
+        ],
+        [
+          -77.0061994,
+          38.8727769
+        ],
+        [
+          -77.0062135,
+          38.8726932
+        ],
+        [
+          -77.0062368,
+          38.8726107
+        ],
+        [
+          -77.0062693,
+          38.8725302
+        ],
+        [
+          -77.0063106,
+          38.8724522
+        ],
+        [
+          -77.0063605,
+          38.8723773
+        ],
+        [
+          -77.0064478,
+          38.872275
+        ],
+        [
+          -77.0065059,
+          38.8722197
+        ],
+        [
+          -77.006564,
+          38.8721718
+        ],
+        [
+          -77.0066249,
+          38.8722234
+        ],
+        [
+          -77.006644,
+          38.8722115
+        ],
+        [
+          -77.0067005,
+          38.8721761
+        ],
+        [
+          -77.0067357,
+          38.872154
+        ],
+        [
+          -77.0067512,
+          38.8721443
+        ],
+        [
+          -77.0067785,
+          38.8721758
+        ],
+        [
+          -77.0068839,
+          38.8721265
+        ],
+        [
+          -77.0068637,
+          38.872094
+        ],
+        [
+          -77.0068781,
+          38.8720882
+        ],
+        [
+          -77.0068191,
+          38.8719855
+        ],
+        [
+          -77.0067979,
+          38.8719889
+        ],
+        [
+          -77.0067409,
+          38.8719041
+        ],
+        [
+          -77.0068951,
+          38.87188
+        ],
+        [
+          -77.0072153,
+          38.8718372
+        ],
+        [
+          -77.0072117,
+          38.8718161
+        ],
+        [
+          -77.0072903,
+          38.871803
+        ],
+        [
+          -77.007311,
+          38.8718903
+        ],
+        [
+          -77.0073607,
+          38.8718826
+        ],
+        [
+          -77.0073458,
+          38.8717938
+        ],
+        [
+          -77.0074431,
+          38.8717835
+        ],
+        [
+          -77.0075419,
+          38.8717782
+        ],
+        [
+          -77.0076444,
+          38.8717809
+        ],
+        [
+          -77.0077446,
+          38.8717898
+        ],
+        [
+          -77.0077449,
+          38.8718435
+        ],
+        [
+          -77.007907,
+          38.8718602
+        ],
+        [
+          -77.0080995,
+          38.8719085
+        ],
+        [
+          -77.0082596,
+          38.8719767
+        ],
+        [
+          -77.008297,
+          38.871945
+        ],
+        [
+          -77.008411,
+          38.8718484
+        ],
+        [
+          -77.0084193,
+          38.8718417
+        ],
+        [
+          -77.0084263,
+          38.8718476
+        ],
+        [
+          -77.0084457,
+          38.8718333
+        ],
+        [
+          -77.0084306,
+          38.8718227
+        ],
+        [
+          -77.0084793,
+          38.8717854
+        ],
+        [
+          -77.0085063,
+          38.8717861
+        ],
+        [
+          -77.0085182,
+          38.8717774
+        ],
+        [
+          -77.0085072,
+          38.8717688
+        ],
+        [
+          -77.008651,
+          38.8716597
+        ],
+        [
+          -77.0086504,
+          38.8716502
+        ],
+        [
+          -77.0087789,
+          38.8715545
+        ],
+        [
+          -77.0087806,
+          38.8722681
+        ],
+        [
+          -77.0086553,
+          38.8722107
+        ],
+        [
+          -77.0085531,
+          38.8722471
+        ],
+        [
+          -77.0086232,
+          38.8723646
+        ],
+        [
+          -77.0086683,
+          38.8724567
+        ],
+        [
+          -77.0087095,
+          38.8725604
+        ],
+        [
+          -77.0087417,
+          38.8726661
+        ],
+        [
+          -77.0087648,
+          38.8727732
+        ],
+        [
+          -77.00878,
+          38.8728971
+        ],
+        [
+          -77.0087506,
+          38.8728952
+        ],
+        [
+          -77.0087521,
+          38.8730228
+        ],
+        [
+          -77.0087854,
+          38.8730237
+        ],
+        [
+          -77.0087832,
+          38.8738744
+        ],
+        [
+          -77.0087503,
+          38.8738611
+        ],
+        [
+          -77.008666,
+          38.8738252
+        ],
+        [
+          -77.0086652,
+          38.8738035
+        ],
+        [
+          -77.0084144,
+          38.8736933
+        ],
+        [
+          -77.0084101,
+          38.8737008
+        ],
+        [
+          -77.0083649,
+          38.8736813
+        ],
+        [
+          -77.008214,
+          38.8736159
+        ],
+        [
+          -77.0078449,
+          38.8737842
+        ],
+        [
+          -77.0074409,
+          38.8737806
+        ],
+        [
+          -77.0074587,
+          38.8738068
+        ],
+        [
+          -77.0074329,
+          38.8738164
+        ],
+        [
+          -77.0074028,
+          38.8738275
+        ],
+        [
+          -77.0073957,
+          38.8738574
+        ],
+        [
+          -77.0073785,
+          38.873883
+        ],
+        [
+          -77.0073491,
+          38.8739056
+        ],
+        [
+          -77.0073184,
+          38.8739181
+        ],
+        [
+          -77.00727,
+          38.8739237
+        ],
+        [
+          -77.0072273,
+          38.8739162
+        ],
+        [
+          -77.0071913,
+          38.8738986
+        ],
+        [
+          -77.007164,
+          38.8738714
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "relation",
+    "id": 1066168,
+    "version": 12,
+    "timestamp": "2025-01-14T02:21:01Z",
+    "url": "https://www.openstreetmap.org/relation/1066168"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q517545",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/dc-nationals-park.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Nationals Park, Washington (MLB, Washington Nationals) — procedural, CC0-1.0, no textures. bun generators/dc-nationals-park.ts",
+    "Map frame: x across the park (first-base side +x), y from home plate toward centre field, z up, metres. Placed at bearing 30°, the line from home plate to second base in OSM (infield relation/2205878: home-plate circle at (1.6, -35.4), second-base corner of the grass at (1.2, 0.5) in this frame). The anchor is the area centroid of the stadium outline (building=stadium relation/1066168, outer way/67260011).",
+    "The stands only: the field, warning track and infield dirt are the map's (STYLE.md, \"Don't model the ground\"). z = 0 is the playing field, the lowest ground under the outline; the streets on the south and west stand about 7 m higher, so the facade detail there starts at about 10 m.",
+    "How it is built. The bowl is lofted round a centre C = (0, -10) near the pitcher's mound: at each angle θ (clockwise from centre field) a section is drawn outward from the field wall, whose radius comes from the OSM field ring (the outline's inner way/67260403). The section's radii and heights are measured, angle by angle, from the DC Office of the Chief Technology Officer's 2024 lidar surface model (imagery.dcgis.dc.gov, Lidar/DSM_2024, 1 m), and checked against the 2018 survey: - the upper-deck front (first point over 17 m), the canopy front and back (over 33 m), the 30 m perimeter roof behind it, and the outer wings, in 4° steps (tables BLOCK_A, BLOCK_B, below); - the canopy over the home-plate and third-base block stands 40.0 m above the field all round; over the first-base block, 33.5 m; - the upper deck is split between home plate and the first-base block (θ ≈ 100°–108°), the \"homage to Griffith Stadium\" (Wikipedia); - the lower bowl rises to 6–9 m at its back. Two blocks of grandstand result: A, first base and right field, and B, home plate round to the left-field pole. Each is a lower bowl of navy seats with a pale cross aisle, the club and suite levels as glass bands under the upper deck's overhang, the upper deck in navy rising under a white canopy with its lamp banks along the front edge, the grey 30 m roof behind and the precast-and-glass outer wall.",
+    "The outfield is open, as it is: low left-field bleachers, the round Red Loft in left-centre (OSM's outline bump, 21 m in the lidar), a 16 m terrace behind centre and right field with the right-field stands in front of it, the 20 m north-east wing on Half Street's side, and the scoreboard in right-centre: 101 ft × 47 ft (31 × 14 m, Wikipedia) plus its side panels, about 50 m long in the lidar, top 44 m, with its lamp bank on the left and the red NATIONALS letters on top (drawn as one red bar, not lettering). The left-field light tower stands at the end of the third-base block, 48 m.",
+    "Evidence",
+    "OSM: outline relation/1066168 (outer way/67260011, inner way/67260403, DC GIS 2008 footprint), infield relation/2205878.",
+    "Measured: DC lidar DSM 2024 and 2018 (heights, radii, every mass above); USGS NAIP orthophoto (plan, roof colours).",
+    "Published: capacity 41,339; architects HOK Sport with Devrouax & Purnell; scoreboard 101 × 47 ft; split upper deck (Wikipedia).",
+    "Photos (Wikimedia Commons): Carol M. Highsmith, \"Aerial view of Nationals Park\" (three crops, public domain, from the south-west); Paulo O, \"Nationals Stadium (3601384119)\" (CC BY 2.0, from the north over the centre-field gate); Famartin, \"View towards home base from the Visitors Dugout\" and \"View across the playing field from the outfield stands\" (CC BY-SA 4.0); Nymfan9, \"Nationals Park front\" (CC BY-SA 3.0); Airtuna08, \"NationalsParkCaptiol\" (CC BY 3.0, Red Loft); 1st Lt. Nathan Wallin, \"Major League flyover 141003-Z-ON144-0402\" (public domain, scoreboard). Estimated: the heights of the glass bands on the suite face and the outer walls (from the photos, not measured); the lamp banks' number and size; the east (First Street) facade, which no usable photo shows, follows the lidar massing and the west facade's banding. Colours: seats navy, as the Nationals' seats are, pulled to the style's lightness; precast `stone`; the canopy white `trim`; roofs `roof`; glass `window`; the Red Loft and the scoreboard letters a muted Nationals red.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"dc-nationals-park\", model \"dc-nationals-park\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/dc-nationals-park.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 8486 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the dc-nationals-park-glazing finish in the window colour.",
+    "To fit six materials, folded trim into stone (ΔE 4.8)."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

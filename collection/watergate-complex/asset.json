@@ -1,0 +1,1041 @@
+{
+  "id": "watergate-complex",
+  "name": "Watergate complex",
+  "anchor": [
+    -77.0552848,
+    38.8988385
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 121588,
+      "sha256": "7505303bf4a900380802779fdf750b2579b105ffcb0e6f444fafd740020f0f88"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 121588,
+      "sha256": "7505303bf4a900380802779fdf750b2579b105ffcb0e6f444fafd740020f0f88"
+    }
+  },
+  "triangles": 3383,
+  "boundsBlenderM": [
+    [
+      -116.7,
+      -146,
+      0
+    ],
+    [
+      106.4,
+      164.7,
+      43.5
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -77.0557964,
+          38.8997494
+        ],
+        [
+          -77.0556999,
+          38.8998617
+        ],
+        [
+          -77.0556664,
+          38.8998854
+        ],
+        [
+          -77.0555351,
+          38.8998158
+        ],
+        [
+          -77.0554759,
+          38.8998183
+        ],
+        [
+          -77.0552373,
+          38.8996887
+        ],
+        [
+          -77.0552118,
+          38.8996396
+        ],
+        [
+          -77.0550972,
+          38.899575
+        ],
+        [
+          -77.0551211,
+          38.8995364
+        ],
+        [
+          -77.0552143,
+          38.8994318
+        ],
+        [
+          -77.0551833,
+          38.8994168
+        ],
+        [
+          -77.0551203,
+          38.8993856
+        ],
+        [
+          -77.0550692,
+          38.8994419
+        ],
+        [
+          -77.0550122,
+          38.8994698
+        ],
+        [
+          -77.0549419,
+          38.8994771
+        ],
+        [
+          -77.0549062,
+          38.8994724
+        ],
+        [
+          -77.0548624,
+          38.899458
+        ],
+        [
+          -77.0546861,
+          38.8993612
+        ],
+        [
+          -77.0544374,
+          38.8991902
+        ],
+        [
+          -77.0542598,
+          38.8990499
+        ],
+        [
+          -77.05421,
+          38.8989959
+        ],
+        [
+          -77.0541761,
+          38.8989455
+        ],
+        [
+          -77.0541625,
+          38.8989567
+        ],
+        [
+          -77.0541485,
+          38.8989586
+        ],
+        [
+          -77.0541264,
+          38.8989494
+        ],
+        [
+          -77.0541156,
+          38.8989449
+        ],
+        [
+          -77.0540972,
+          38.8989276
+        ],
+        [
+          -77.0540798,
+          38.8988966
+        ],
+        [
+          -77.0540563,
+          38.898824
+        ],
+        [
+          -77.0540538,
+          38.8987831
+        ],
+        [
+          -77.0540656,
+          38.8987196
+        ],
+        [
+          -77.0540763,
+          38.8987047
+        ],
+        [
+          -77.0540802,
+          38.8987027
+        ],
+        [
+          -77.0541019,
+          38.8986914
+        ],
+        [
+          -77.0541318,
+          38.8987051
+        ],
+        [
+          -77.0541423,
+          38.8986627
+        ],
+        [
+          -77.0541476,
+          38.8986411
+        ],
+        [
+          -77.0542052,
+          38.8985357
+        ],
+        [
+          -77.0542734,
+          38.89846
+        ],
+        [
+          -77.0543406,
+          38.8984078
+        ],
+        [
+          -77.0544156,
+          38.8983657
+        ],
+        [
+          -77.0544978,
+          38.8983457
+        ],
+        [
+          -77.0545836,
+          38.898351
+        ],
+        [
+          -77.0546607,
+          38.898381
+        ],
+        [
+          -77.0546805,
+          38.8983462
+        ],
+        [
+          -77.0547196,
+          38.8983185
+        ],
+        [
+          -77.0547491,
+          38.8983089
+        ],
+        [
+          -77.0547622,
+          38.8983226
+        ],
+        [
+          -77.054779,
+          38.8983282
+        ],
+        [
+          -77.0548024,
+          38.8983165
+        ],
+        [
+          -77.0548057,
+          38.8982961
+        ],
+        [
+          -77.0547642,
+          38.8982185
+        ],
+        [
+          -77.0547399,
+          38.8981542
+        ],
+        [
+          -77.0547679,
+          38.8981454
+        ],
+        [
+          -77.0547497,
+          38.8981016
+        ],
+        [
+          -77.0547452,
+          38.8980587
+        ],
+        [
+          -77.0547429,
+          38.8980043
+        ],
+        [
+          -77.0547515,
+          38.8979342
+        ],
+        [
+          -77.0547709,
+          38.8978666
+        ],
+        [
+          -77.0548103,
+          38.8977947
+        ],
+        [
+          -77.0548601,
+          38.8977349
+        ],
+        [
+          -77.0549245,
+          38.8976729
+        ],
+        [
+          -77.0549914,
+          38.8976209
+        ],
+        [
+          -77.0550783,
+          38.8975626
+        ],
+        [
+          -77.0551207,
+          38.8975425
+        ],
+        [
+          -77.0551827,
+          38.8975248
+        ],
+        [
+          -77.0552483,
+          38.8975182
+        ],
+        [
+          -77.055314,
+          38.8975231
+        ],
+        [
+          -77.0553824,
+          38.8975395
+        ],
+        [
+          -77.0554414,
+          38.8975654
+        ],
+        [
+          -77.0554923,
+          38.8976007
+        ],
+        [
+          -77.055532,
+          38.8976437
+        ],
+        [
+          -77.055559,
+          38.8976923
+        ],
+        [
+          -77.055572,
+          38.8977444
+        ],
+        [
+          -77.0555709,
+          38.8978063
+        ],
+        [
+          -77.0555608,
+          38.8978512
+        ],
+        [
+          -77.0555454,
+          38.8978968
+        ],
+        [
+          -77.0555213,
+          38.8979375
+        ],
+        [
+          -77.0554877,
+          38.8979766
+        ],
+        [
+          -77.0554518,
+          38.8980079
+        ],
+        [
+          -77.0554062,
+          38.8980377
+        ],
+        [
+          -77.0553546,
+          38.8980578
+        ],
+        [
+          -77.0552942,
+          38.8980685
+        ],
+        [
+          -77.0552265,
+          38.8980724
+        ],
+        [
+          -77.0551639,
+          38.8980694
+        ],
+        [
+          -77.0551026,
+          38.8980614
+        ],
+        [
+          -77.055102,
+          38.8980969
+        ],
+        [
+          -77.0551355,
+          38.8981005
+        ],
+        [
+          -77.0551305,
+          38.898134
+        ],
+        [
+          -77.0551333,
+          38.8981757
+        ],
+        [
+          -77.055141,
+          38.8981995
+        ],
+        [
+          -77.0551484,
+          38.8982221
+        ],
+        [
+          -77.0551746,
+          38.8982602
+        ],
+        [
+          -77.0552049,
+          38.8982934
+        ],
+        [
+          -77.0552485,
+          38.8983241
+        ],
+        [
+          -77.0552917,
+          38.8983418
+        ],
+        [
+          -77.0553438,
+          38.8983551
+        ],
+        [
+          -77.0553989,
+          38.8983621
+        ],
+        [
+          -77.0554486,
+          38.8983617
+        ],
+        [
+          -77.0554972,
+          38.8983552
+        ],
+        [
+          -77.0555419,
+          38.8983419
+        ],
+        [
+          -77.0555858,
+          38.8983203
+        ],
+        [
+          -77.0556432,
+          38.898284
+        ],
+        [
+          -77.055701,
+          38.8982403
+        ],
+        [
+          -77.0557574,
+          38.8981871
+        ],
+        [
+          -77.055802,
+          38.8981307
+        ],
+        [
+          -77.0558278,
+          38.8980855
+        ],
+        [
+          -77.0558376,
+          38.8980845
+        ],
+        [
+          -77.0558869,
+          38.8981175
+        ],
+        [
+          -77.0559264,
+          38.8981588
+        ],
+        [
+          -77.0559533,
+          38.8982059
+        ],
+        [
+          -77.0559643,
+          38.8982437
+        ],
+        [
+          -77.0559672,
+          38.8982824
+        ],
+        [
+          -77.055958,
+          38.8983335
+        ],
+        [
+          -77.0559364,
+          38.8983789
+        ],
+        [
+          -77.0559047,
+          38.8984231
+        ],
+        [
+          -77.0558551,
+          38.8984769
+        ],
+        [
+          -77.0557833,
+          38.898527
+        ],
+        [
+          -77.0557012,
+          38.8985664
+        ],
+        [
+          -77.0556006,
+          38.8985987
+        ],
+        [
+          -77.0555059,
+          38.8986164
+        ],
+        [
+          -77.0554118,
+          38.8986227
+        ],
+        [
+          -77.0553248,
+          38.8986191
+        ],
+        [
+          -77.0552339,
+          38.8986037
+        ],
+        [
+          -77.0551404,
+          38.8985763
+        ],
+        [
+          -77.0550664,
+          38.8985454
+        ],
+        [
+          -77.0549936,
+          38.8985014
+        ],
+        [
+          -77.0549036,
+          38.8984197
+        ],
+        [
+          -77.0548708,
+          38.898415
+        ],
+        [
+          -77.0548482,
+          38.8984285
+        ],
+        [
+          -77.0548463,
+          38.8984556
+        ],
+        [
+          -77.0548234,
+          38.8984705
+        ],
+        [
+          -77.0547763,
+          38.8984831
+        ],
+        [
+          -77.0547224,
+          38.8984834
+        ],
+        [
+          -77.0547222,
+          38.8985172
+        ],
+        [
+          -77.0546642,
+          38.8985203
+        ],
+        [
+          -77.0545962,
+          38.8985372
+        ],
+        [
+          -77.0545447,
+          38.8985599
+        ],
+        [
+          -77.0544891,
+          38.8985976
+        ],
+        [
+          -77.054454,
+          38.8986376
+        ],
+        [
+          -77.0544279,
+          38.8986867
+        ],
+        [
+          -77.0544157,
+          38.8987391
+        ],
+        [
+          -77.054418,
+          38.8987924
+        ],
+        [
+          -77.0544412,
+          38.8988565
+        ],
+        [
+          -77.0544853,
+          38.8989134
+        ],
+        [
+          -77.0546653,
+          38.899057
+        ],
+        [
+          -77.0549263,
+          38.8992237
+        ],
+        [
+          -77.0550966,
+          38.8993066
+        ],
+        [
+          -77.0551502,
+          38.8993327
+        ],
+        [
+          -77.0552186,
+          38.899366
+        ],
+        [
+          -77.0552656,
+          38.8993903
+        ],
+        [
+          -77.0553471,
+          38.8993947
+        ],
+        [
+          -77.0554252,
+          38.8993921
+        ],
+        [
+          -77.0554902,
+          38.8993802
+        ],
+        [
+          -77.0555462,
+          38.8993629
+        ],
+        [
+          -77.0557432,
+          38.8992487
+        ],
+        [
+          -77.05601,
+          38.89908
+        ],
+        [
+          -77.0561491,
+          38.8989719
+        ],
+        [
+          -77.0562094,
+          38.8991429
+        ],
+        [
+          -77.0561898,
+          38.8991485
+        ],
+        [
+          -77.0562432,
+          38.8992428
+        ],
+        [
+          -77.0560944,
+          38.8993149
+        ],
+        [
+          -77.0559849,
+          38.8993832
+        ],
+        [
+          -77.0558853,
+          38.8994601
+        ],
+        [
+          -77.0557946,
+          38.8995467
+        ],
+        [
+          -77.0557407,
+          38.8995266
+        ],
+        [
+          -77.0556814,
+          38.8995315
+        ],
+        [
+          -77.0556536,
+          38.8995545
+        ],
+        [
+          -77.0556471,
+          38.8995898
+        ],
+        [
+          -77.0556584,
+          38.8996036
+        ],
+        [
+          -77.0558339,
+          38.8996896
+        ],
+        [
+          -77.0558744,
+          38.8997132
+        ],
+        [
+          -77.0559047,
+          38.8997308
+        ],
+        [
+          -77.055961,
+          38.8997389
+        ],
+        [
+          -77.056135,
+          38.8998297
+        ],
+        [
+          -77.0563328,
+          38.8999226
+        ],
+        [
+          -77.0565007,
+          38.899988
+        ],
+        [
+          -77.0566317,
+          38.9003284
+        ],
+        [
+          -77.0564395,
+          38.9002703
+        ],
+        [
+          -77.0562704,
+          38.9002077
+        ],
+        [
+          -77.0561059,
+          38.9001398
+        ],
+        [
+          -77.0559426,
+          38.9000627
+        ],
+        [
+          -77.0557762,
+          38.8999698
+        ],
+        [
+          -77.0557675,
+          38.8999579
+        ],
+        [
+          -77.0557658,
+          38.8999416
+        ],
+        [
+          -77.0557708,
+          38.8999254
+        ],
+        [
+          -77.0558913,
+          38.8997989
+        ],
+        [
+          -77.0558601,
+          38.8997828
+        ],
+        [
+          -77.0558372,
+          38.8997708
+        ],
+        [
+          -77.0557964,
+          38.8997494
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 66417587,
+    "version": 11,
+    "timestamp": "2025-07-08T11:08:53Z",
+    "url": "https://www.openstreetmap.org/way/66417587"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 445989816,
+      "version": 2,
+      "timestamp": "2026-10-05T18:34:17Z",
+      "url": "https://www.openstreetmap.org/way/445989816"
+    },
+    {
+      "type": "way",
+      "id": 445989815,
+      "version": 1,
+      "timestamp": "2016-10-05T19:43:00Z",
+      "url": "https://www.openstreetmap.org/way/445989815"
+    },
+    {
+      "type": "way",
+      "id": 445989817,
+      "version": 3,
+      "timestamp": "2021-08-27T20:35:52Z",
+      "url": "https://www.openstreetmap.org/way/445989817"
+    },
+    {
+      "type": "way",
+      "id": 445989818,
+      "version": 1,
+      "timestamp": "2016-10-05T19:43:01Z",
+      "url": "https://www.openstreetmap.org/way/445989818"
+    },
+    {
+      "type": "way",
+      "id": 445989819,
+      "version": 1,
+      "timestamp": "2016-10-05T19:43:01Z",
+      "url": "https://www.openstreetmap.org/way/445989819"
+    },
+    {
+      "type": "way",
+      "id": 445989821,
+      "version": 1,
+      "timestamp": "2016-10-05T19:43:01Z",
+      "url": "https://www.openstreetmap.org/way/445989821"
+    },
+    {
+      "type": "way",
+      "id": 445989823,
+      "version": 3,
+      "timestamp": "2026-10-07T10:48:33Z",
+      "url": "https://www.openstreetmap.org/way/445989823"
+    },
+    {
+      "type": "way",
+      "id": 445989825,
+      "version": 1,
+      "timestamp": "2016-10-05T19:43:01Z",
+      "url": "https://www.openstreetmap.org/way/445989825"
+    },
+    {
+      "type": "way",
+      "id": 445989828,
+      "version": 3,
+      "timestamp": "2026-10-07T10:48:33Z",
+      "url": "https://www.openstreetmap.org/way/445989828"
+    },
+    {
+      "type": "way",
+      "id": 445989830,
+      "version": 1,
+      "timestamp": "2016-10-05T19:43:01Z",
+      "url": "https://www.openstreetmap.org/way/445989830"
+    },
+    {
+      "type": "way",
+      "id": 445989831,
+      "version": 1,
+      "timestamp": "2016-10-05T19:43:01Z",
+      "url": "https://www.openstreetmap.org/way/445989831"
+    },
+    {
+      "type": "way",
+      "id": 445989835,
+      "version": 3,
+      "timestamp": "2022-08-09T07:36:42Z",
+      "url": "https://www.openstreetmap.org/way/445989835"
+    },
+    {
+      "type": "way",
+      "id": 445989839,
+      "version": 2,
+      "timestamp": "2022-03-29T21:50:49Z",
+      "url": "https://www.openstreetmap.org/way/445989839"
+    },
+    {
+      "type": "way",
+      "id": 445989841,
+      "version": 1,
+      "timestamp": "2016-10-05T19:43:02Z",
+      "url": "https://www.openstreetmap.org/way/445989841"
+    },
+    {
+      "type": "way",
+      "id": 445989846,
+      "version": 1,
+      "timestamp": "2016-10-05T19:43:02Z",
+      "url": "https://www.openstreetmap.org/way/445989846"
+    }
+  ],
+  "wikidata": "Q1419538",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:2013 Watergate complex 01.JPG",
+      "author": "Farragutful",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:2013_Watergate_complex_01.JPG",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:2013 Watergate complex 02.JPG",
+      "author": "Farragutful",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:2013_Watergate_complex_02.JPG",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Watergate.jpg",
+      "author": "Allen Lew from Berkeley, USA",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Watergate.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Watergate Complex.JPG",
+      "author": "AgnosticPreachersKid",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Watergate_Complex.JPG",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Watergate Complex2.JPG",
+      "author": "AgnosticPreachersKid",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Watergate_Complex2.JPG",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Watergate Complex (55264711403).jpg",
+      "author": "ajay_suresh",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Watergate_Complex_(55264711403).jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Aerial view of the infamous Watergate Hotel.jpg",
+      "author": "Carol M. Highsmith",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_the_infamous_Watergate_Hotel.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_the_infamous_Watergate_Hotel.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:WatergateFromAir.JPG",
+      "author": "Indutiomarus at English Wikipedia",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:WatergateFromAir.JPG",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:WatergateFromAir.JPG",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Watergate complex, 2025.jpg",
+      "author": "PRRfan",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Watergate_complex,_2025.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:WatergateComplex.JPG",
+      "author": "G0T0",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:WatergateComplex.JPG",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/dc-watergate.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "The Watergate complex — procedural, CC0-1.0, no textures. bun generators/dc-watergate.ts",
+    "Map frame: x east, y north, z up, metres; bearing 0°. The anchor is the area centroid of the OSM outline way/66417587 (lng -77.0552848, lat 38.8988385), which maps the whole complex as one building.",
+    "What it is: Luigi Moretti's six buildings (1963–71) on the Potomac: three curving apartment buildings (Watergate East, South and West), the hotel and office building on Virginia Avenue, and the round Watergate 600 office building at the south end, over a common garage. The identity is the curving, wave-like white buildings wrapped floor by floor in continuous projecting balconies with toothed precast railings. The balconies are drawn two floors to a band, each a broad white slab (2.1 m tall) standing 1.8 m proud of a dark recessed window band, so the bands read as relief, not painted stripes, and stay clear of stripe moiré at phone size (one band a floor aliased at 200 px). The Watergate 600 office building has shallower window bands (1.0 m) instead of balconies, as it does in reality.",
+    "Covers and replaces: the outline way/66417587 (all six buildings' plan as one polygon), Watergate West's own outline way/445989816 (inside it), and every building:part inside the outline: 445989815, 445989817, 445989818, 445989819, 445989821, 445989823, 445989825, 445989828, 445989830, 445989831, 445989835, 445989839, 445989841 and 445989846. Because the client hides by OSM id and the outline is one polygon, the model has to cover every building in it; it does.",
+    "How the outline is split (measured on the outline's vertices, checked on the NAIP orthophoto): Watergate West (vertices 173–186), the hotel and office block on Virginia Avenue (147–172 and 186–13), Watergate East (13–43 and 134–147), the low link between East and South (43–50, 127–134), Watergate South (86–127), the Watergate 600 podium (50–86) with its tower from part 445989823 and its penthouse from part 445989825; the hotel's taller part from 445989828. The outline is simplified to 1.2 m.",
+    "Evidence",
+    "OSM (measured): the outline and parts above; Watergate West height 42, building:levels 13; hotel part 12 levels with a 13th on top; Watergate 600's tower 12 levels and podium (445989821) 6; link parts 1–3 levels.",
+    "Published (Wikipedia, \"Watergate complex\"; NRHP 2005): architect Luigi Moretti; three apartment buildings cut to 13 storeys (112 ft) by the 1962 agreement; Watergate East 110 ft; the 12-storey hotel and office building; Watergate South 1968, West 1969; the 600 building turned to the south-west in 1968.",
+    "Photos (Wikimedia Commons): \"2013 Watergate complex 01.JPG\" and \"2013 Watergate complex 02.JPG\" (Farragutful, CC BY-SA 3.0), from the parkway and from the Kennedy Center roof; \"Watergate.jpg\" (Allen Lew, CC BY 2.0); \"Watergate Complex.JPG\" and \"Watergate Complex2.JPG\" (AgnosticPreachersKid, CC BY-SA 3.0); \"Watergate Complex (55264711403).jpg\" (ajay_suresh, CC BY 4.0); \"Aerial view of the infamous Watergate Hotel.jpg\" (Carol M. Highsmith, public domain), from above the south-west; \"WatergateFromAir.JPG\" (Indutiomarus, public domain); \"Watergate complex, 2025.jpg\" (PRRfan, CC BY-SA 4.0); \"WatergateComplex.JPG\" (G0T0, CC0).",
+    "USGS NAIP orthophoto (public domain): the plan and the split.",
+    "Estimated: a 3 m ground storey and 3.0 m floors from y = 0 (the parkway side; the Virginia Avenue side stands a few metres higher and its lowest band sinks into the slope); East, South and West 13 floors (42 m, OSM's West height); the hotel and office block 12 (the office wing is drawn at the hotel's 12, not its own 11); the 600 podium 6 and tower 12, the link 3.",
+    "Simplified: the hotel's partial 13th storey (part 445989841) is left off, its mapped outline being too ragged to cap cleanly; the railings' teeth are not drawn (too fine for map scale); the rooftop water tanks and plant are left out; the garden courts and pools are the map's.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"dc-watergate\", model \"dc-watergate\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/dc-watergate.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 49538 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the dc-watergate-glazing finish in the window colour."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

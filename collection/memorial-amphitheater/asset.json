@@ -1,0 +1,341 @@
+{
+  "id": "memorial-amphitheater",
+  "name": "Memorial Amphitheater",
+  "anchor": [
+    -77.0728838,
+    38.8764195
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 217024,
+      "sha256": "a22387e6e6397b32ac681ef9a2469e85212073be54f88cfca9eeef2ea536a97c"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 217024,
+      "sha256": "a22387e6e6397b32ac681ef9a2469e85212073be54f88cfca9eeef2ea536a97c"
+    }
+  },
+  "triangles": 5684,
+  "boundsBlenderM": [
+    [
+      -46.92,
+      -37.816,
+      0
+    ],
+    [
+      48.127,
+      39.277,
+      18
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -77.0731614,
+          38.8761358
+        ],
+        [
+          -77.07323,
+          38.8761903
+        ],
+        [
+          -77.0732729,
+          38.8762437
+        ],
+        [
+          -77.0732862,
+          38.8762681
+        ],
+        [
+          -77.0733081,
+          38.8763118
+        ],
+        [
+          -77.0733235,
+          38.8763637
+        ],
+        [
+          -77.0734264,
+          38.8763684
+        ],
+        [
+          -77.0734146,
+          38.8765226
+        ],
+        [
+          -77.0733117,
+          38.8765179
+        ],
+        [
+          -77.0732895,
+          38.8765702
+        ],
+        [
+          -77.0732552,
+          38.8766139
+        ],
+        [
+          -77.0732233,
+          38.8766476
+        ],
+        [
+          -77.0731785,
+          38.8766847
+        ],
+        [
+          -77.0731184,
+          38.8767182
+        ],
+        [
+          -77.0730762,
+          38.8767346
+        ],
+        [
+          -77.0730472,
+          38.8767423
+        ],
+        [
+          -77.0730137,
+          38.876749
+        ],
+        [
+          -77.0730121,
+          38.8767686
+        ],
+        [
+          -77.0729186,
+          38.8767639
+        ],
+        [
+          -77.0729202,
+          38.8767449
+        ],
+        [
+          -77.0728737,
+          38.8767394
+        ],
+        [
+          -77.0728309,
+          38.8767282
+        ],
+        [
+          -77.0727712,
+          38.8766958
+        ],
+        [
+          -77.0727242,
+          38.8766589
+        ],
+        [
+          -77.0726891,
+          38.8766196
+        ],
+        [
+          -77.0726681,
+          38.8765852
+        ],
+        [
+          -77.0726532,
+          38.8765501
+        ],
+        [
+          -77.0725714,
+          38.8765615
+        ],
+        [
+          -77.0725686,
+          38.8766029
+        ],
+        [
+          -77.0723358,
+          38.8765963
+        ],
+        [
+          -77.0723505,
+          38.8763988
+        ],
+        [
+          -77.0723643,
+          38.8762131
+        ],
+        [
+          -77.0725945,
+          38.8762212
+        ],
+        [
+          -77.0725917,
+          38.8762626
+        ],
+        [
+          -77.0726367,
+          38.8762728
+        ],
+        [
+          -77.0726684,
+          38.87628
+        ],
+        [
+          -77.072694,
+          38.8762442
+        ],
+        [
+          -77.0727215,
+          38.8762099
+        ],
+        [
+          -77.0727671,
+          38.8761723
+        ],
+        [
+          -77.0728041,
+          38.8761438
+        ],
+        [
+          -77.0728583,
+          38.8761201
+        ],
+        [
+          -77.0729173,
+          38.8760972
+        ],
+        [
+          -77.0729747,
+          38.8760901
+        ],
+        [
+          -77.0729772,
+          38.8760601
+        ],
+        [
+          -77.0730707,
+          38.8760648
+        ],
+        [
+          -77.0730681,
+          38.8760961
+        ],
+        [
+          -77.0731091,
+          38.8761097
+        ],
+        [
+          -77.0731614,
+          38.8761358
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "relation",
+    "id": 15311889,
+    "version": 2,
+    "timestamp": "2023-04-13T13:37:42Z",
+    "url": "https://www.openstreetmap.org/relation/15311889"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 1065498812,
+      "version": 2,
+      "timestamp": "2023-01-14T17:31:59Z",
+      "url": "https://www.openstreetmap.org/way/1065498812"
+    }
+  ],
+  "wikidata": "Q4792362",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Arlington National Cemetery Amphitheater.jpg",
+      "author": "Susanne Bledsoe, U.S. Army Corps of Engineers",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Arlington_National_Cemetery_Amphitheater.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Arlington_National_Cemetery_Amphitheater.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Arlington Memorial Amphitheater 2017.jpg",
+      "author": "Hunter Bloor",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Arlington_Memorial_Amphitheater_2017.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Arlington Memorial Amphitheater 1.jpg",
+      "author": "Ashokmehta72",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Arlington_Memorial_Amphitheater_1.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Arlington Memorial Amphitheater entrance 2011.jpg",
+      "author": "Wknight94 talk",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Arlington_Memorial_Amphitheater_entrance_2011.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Arlington Memorial Amphitheater and Tomb of the Unknown Soldier.JPG",
+      "author": "Reeganreegs",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Arlington_Memorial_Amphitheater_and_Tomb_of_the_Unknown_Soldier.JPG",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Arlington Memorial Amphitheater 2023.jpg",
+      "author": "David",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Arlington_Memorial_Amphitheater_2023.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/dc-memorial-amphitheater.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Arlington Memorial Amphitheater — procedural, CC0-1.0, no textures. bun generators/dc-memorial-amphitheater.ts",
+    "Map frame: x east, y north, z up, metres. The anchor is the area centroid of the outline's outer way (relation/15311889, outer way/38457132): lng -77.0728838, lat 38.8764195. The building's east–west axis (through the stage and the east entrance hall) is turned 2.6° clockwise from east, fitted on the hall's three straight walls, so the model is placed at bearing 2.6 and built square.",
+    "What it is: Carrère and Hastings' open-air amphitheatre of 1915–20 in white Danby (Vermont) marble. An elliptical bowl of marble benches, long axis north–south, ringed by a continuous colonnade: paired columns on the inside, a roofed walk, and an arcade wall outside, under one Ionic entablature, on a podium a storey high. The ring opens at the west into a tall entrance with four columns in antis under an inscribed attic, and at the north and south ends of its short axis. At the east the stage stands in a great arched apse under a pediment, backed by the two-storey entrance hall, dark-roofed with two glass skylights, whose east front has six columns in antis under a pediment, between balustraded terraces, over the plaza of the Tomb of the Unknown Soldier.",
+    "Covers and replaces: relation/15311889 (outer way/38457132: ring, stage and hall; its inner way/1065498813 is the seating, leisure=bleachers) and the building:part way/1065498812 (the stage and apse). The Tomb of the Unknown Soldier is not a building in OSM and is not modelled; nor are the plaza, the steps down to it or the sentry box (way/1519132354).",
+    "Evidence",
+    "OSM (measured, in the model frame): the bowl an ellipse 47.2 × 61.0 m (centre x −10.5), the ring's outer face an ellipse about 59 × 72.9 m; the west entrance 17 m wide reaching x −46.7; small exits at the ends of the short axis 8 m wide; the stage block 13.8 m wide from x 12.5, its cross arms 25.5 m wide; the hall and its terraces x 26–46.6, 42.5 m north–south. No heights.",
+    "Published (Wikipedia, \"Arlington Memorial Amphitheater\"; ANC): elliptical, seating 4,000; Danby marble; colonnade with main entrances on the east and west axes; Doric capitals on Attic bases under an Ionic entablature; the stage a semicircular apse; a six-column portico on the east front of the entrance hall.",
+    "Photos (Wikimedia Commons): \"Arlington National Cemetery Amphitheater.jpg\" (Susanne Bledsoe, USACE, public domain), from above the west entrance; \"Arlington Memorial Amphitheater 2017.jpg\" (Hunter Bloor, CC BY-SA 4.0), the bowl, colonnade and apse; \"Arlington Memorial Amphitheater 1.jpg\" (Ashokmehta72, CC BY-SA 4.0), the colonnade from the benches; \"Arlington Memorial Amphitheater entrance 2011.jpg\" (Wknight94, CC BY-SA 3.0), the west entrance; \"Arlington Memorial Amphitheater and Tomb of the Unknown Soldier.JPG\" (Reeganreegs, CC BY-SA 3.0), the east front; \"Arlington Memorial Amphitheater 2023.jpg\" (David, CC BY 2.0), from the air: the hall's east front and the north side of the ring.",
+    "USGS NAIP orthophoto (public domain): the white ring and benches, the stage's cross, the hall's pale roof, the plaza.",
+    "Estimated from the photos (no published heights): the colonnade floor 3.6 m up (a storey of podium outside, the benches' top row 1.4 m below it inside), columns to 10 m, entablature to 11.6 m, parapet 12.3 m; the west entrance's attic to 14.4 m; the apse frame's cornice 15.4 m and pediment 18 m; the hall's columns to 12.4 m, cornice 14.6 m, balustrade 15.7 m, pediment 17.6 m. The hall itself about 30 m across (measured on the 2023 aerial against the ring), its portico 16.6 m, with terraces filling the outline to its 42.5 m. The hall's height is the least sure number here: the photos from the east read anywhere from 15 to 19 m. 34 paired bays round the ring, drawn evenly. The ring is drawn concentric with the bowl, 5.9 m wide; OSM's outer way sits up to 2 m further east.",
+    "Simplified: the arcade wall is solid, its arched openings drawn as shaded panels outside, and the walk behind the columns is drawn in shade (it is roofed and dark in every photo); the benches are six stepped elliptical tiers (the real rows are arcs round the stage); the balustrades are plain parapets; inscriptions, urns and the chapel are left out. y = 0 is the lowest ground, at the west entrance.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"dc-memorial-amphitheater\", model \"dc-memorial-amphitheater\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/dc-memorial-amphitheater.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

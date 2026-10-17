@@ -1,0 +1,528 @@
+{
+  "id": "library-of-congress-thomas-jefferson-building",
+  "name": "Library of Congress, Thomas Jefferson Building",
+  "anchor": [
+    -77.0047094,
+    38.8886833
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 188044,
+      "sha256": "4fc2116b801c059e97d1758ce156105b715ae4678436e90bef324fd88078b869"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 188044,
+      "sha256": "4fc2116b801c059e97d1758ce156105b715ae4678436e90bef324fd88078b869"
+    }
+  },
+  "triangles": 3934,
+  "boundsBlenderM": [
+    [
+      -72.239,
+      -72.562,
+      0
+    ],
+    [
+      72.623,
+      72.557,
+      59.4
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -77.0041746,
+          38.8888913
+        ],
+        [
+          -77.004114,
+          38.8888913
+        ],
+        [
+          -77.0040578,
+          38.8888912
+        ],
+        [
+          -77.0040576,
+          38.8887977
+        ],
+        [
+          -77.0040192,
+          38.8887978
+        ],
+        [
+          -77.0040192,
+          38.8887889
+        ],
+        [
+          -77.003995,
+          38.888789
+        ],
+        [
+          -77.003995,
+          38.8887807
+        ],
+        [
+          -77.0038749,
+          38.8887809
+        ],
+        [
+          -77.0038758,
+          38.8886493
+        ],
+        [
+          -77.0038744,
+          38.8885883
+        ],
+        [
+          -77.0039392,
+          38.888589
+        ],
+        [
+          -77.0039931,
+          38.8885882
+        ],
+        [
+          -77.0039931,
+          38.888581
+        ],
+        [
+          -77.00401,
+          38.888581
+        ],
+        [
+          -77.00401,
+          38.8885639
+        ],
+        [
+          -77.0040584,
+          38.8885639
+        ],
+        [
+          -77.0040583,
+          38.8884789
+        ],
+        [
+          -77.0041195,
+          38.8884787
+        ],
+        [
+          -77.0041764,
+          38.8884784
+        ],
+        [
+          -77.0041756,
+          38.8882057
+        ],
+        [
+          -77.0041689,
+          38.8882058
+        ],
+        [
+          -77.0041689,
+          38.8882103
+        ],
+        [
+          -77.004145,
+          38.8882103
+        ],
+        [
+          -77.0041449,
+          38.8882028
+        ],
+        [
+          -77.0041249,
+          38.8882029
+        ],
+        [
+          -77.0041244,
+          38.888062
+        ],
+        [
+          -77.0041403,
+          38.888062
+        ],
+        [
+          -77.0041402,
+          38.8880475
+        ],
+        [
+          -77.0041582,
+          38.8880475
+        ],
+        [
+          -77.0041582,
+          38.8880348
+        ],
+        [
+          -77.0043359,
+          38.8880344
+        ],
+        [
+          -77.004336,
+          38.8880483
+        ],
+        [
+          -77.0043533,
+          38.8880483
+        ],
+        [
+          -77.0043534,
+          38.8880658
+        ],
+        [
+          -77.00509,
+          38.8880641
+        ],
+        [
+          -77.00509,
+          38.8880533
+        ],
+        [
+          -77.0051149,
+          38.8880336
+        ],
+        [
+          -77.00529,
+          38.8880332
+        ],
+        [
+          -77.00529,
+          38.8880446
+        ],
+        [
+          -77.005305,
+          38.8880446
+        ],
+        [
+          -77.005305,
+          38.888059
+        ],
+        [
+          -77.0053213,
+          38.888059
+        ],
+        [
+          -77.0053218,
+          38.8882043
+        ],
+        [
+          -77.0053064,
+          38.8882044
+        ],
+        [
+          -77.0053065,
+          38.8882195
+        ],
+        [
+          -77.005281,
+          38.8882196
+        ],
+        [
+          -77.005282,
+          38.8884859
+        ],
+        [
+          -77.0054008,
+          38.8884857
+        ],
+        [
+          -77.0054009,
+          38.888495
+        ],
+        [
+          -77.0054171,
+          38.888495
+        ],
+        [
+          -77.0054174,
+          38.888577
+        ],
+        [
+          -77.0053957,
+          38.888577
+        ],
+        [
+          -77.0053963,
+          38.8886252
+        ],
+        [
+          -77.0053964,
+          38.8886586
+        ],
+        [
+          -77.0053964,
+          38.8886889
+        ],
+        [
+          -77.0053964,
+          38.8887173
+        ],
+        [
+          -77.0053965,
+          38.8887572
+        ],
+        [
+          -77.0053961,
+          38.8887812
+        ],
+        [
+          -77.0053999,
+          38.8887812
+        ],
+        [
+          -77.0053999,
+          38.8887928
+        ],
+        [
+          -77.0054142,
+          38.8887928
+        ],
+        [
+          -77.0054142,
+          38.8888723
+        ],
+        [
+          -77.005397,
+          38.8888723
+        ],
+        [
+          -77.005397,
+          38.8888776
+        ],
+        [
+          -77.0052836,
+          38.8888775
+        ],
+        [
+          -77.0052835,
+          38.8889408
+        ],
+        [
+          -77.0052833,
+          38.8891516
+        ],
+        [
+          -77.005308,
+          38.8891516
+        ],
+        [
+          -77.005308,
+          38.8891654
+        ],
+        [
+          -77.0053197,
+          38.8891654
+        ],
+        [
+          -77.0053197,
+          38.8892417
+        ],
+        [
+          -77.0053197,
+          38.8893109
+        ],
+        [
+          -77.005301,
+          38.8893109
+        ],
+        [
+          -77.0053011,
+          38.8893185
+        ],
+        [
+          -77.0052905,
+          38.8893185
+        ],
+        [
+          -77.0052906,
+          38.8893326
+        ],
+        [
+          -77.0051098,
+          38.8893329
+        ],
+        [
+          -77.0051098,
+          38.8893225
+        ],
+        [
+          -77.0050941,
+          38.8893225
+        ],
+        [
+          -77.005094,
+          38.8893006
+        ],
+        [
+          -77.0050701,
+          38.8893007
+        ],
+        [
+          -77.0044956,
+          38.8893018
+        ],
+        [
+          -77.0043747,
+          38.8893021
+        ],
+        [
+          -77.0043467,
+          38.8893021
+        ],
+        [
+          -77.0043468,
+          38.8893169
+        ],
+        [
+          -77.0043369,
+          38.8893169
+        ],
+        [
+          -77.0043369,
+          38.889332
+        ],
+        [
+          -77.0041556,
+          38.8893324
+        ],
+        [
+          -77.0041556,
+          38.889322
+        ],
+        [
+          -77.0041401,
+          38.8893221
+        ],
+        [
+          -77.0041401,
+          38.8893123
+        ],
+        [
+          -77.0041245,
+          38.8893123
+        ],
+        [
+          -77.004124,
+          38.8891674
+        ],
+        [
+          -77.0041367,
+          38.8891673
+        ],
+        [
+          -77.0041367,
+          38.8891546
+        ],
+        [
+          -77.0041754,
+          38.8891545
+        ],
+        [
+          -77.0041746,
+          38.8888913
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "relation",
+    "id": 1029374,
+    "version": 11,
+    "timestamp": "2026-03-28T15:39:48Z",
+    "url": "https://www.openstreetmap.org/relation/1029374"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q2615945",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Thomas Jefferson Building-5.jpg",
+      "author": "Smash the Iron Cage",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Thomas_Jefferson_Building-5.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Thomas Jefferson Building Façade.jpg",
+      "author": "JSquish",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Thomas_Jefferson_Building_Fa%C3%A7ade.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Thomas Jefferson Building-1.jpg",
+      "author": "Smash the Iron Cage",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Thomas_Jefferson_Building-1.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Flickr - USCapitol - Library of Congress Thomas Jefferson Building (1).jpg",
+      "author": "USCapitol",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Flickr_-_USCapitol_-_Library_of_Congress_Thomas_Jefferson_Building_(1).jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Flickr_-_USCapitol_-_Library_of_Congress_Thomas_Jefferson_Building_(1).jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Thomas Jefferson Building Aerial by Carol M. Highsmith.jpg",
+      "author": "Carol M. Highsmith",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Thomas_Jefferson_Building_Aerial_by_Carol_M._Highsmith.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/dc-jefferson-building.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Library of Congress, Thomas Jefferson Building, Washington DC — procedural, CC0-1.0, no textures. bun generators/dc-jefferson-building.ts",
+    "Map frame: x east, y north, z up, metres. The anchor is the area centroid of the OSM multipolygon relation/1029374 (lng -77.0047094, lat 38.8886833); its walls are turned 0.12° anticlockwise from the compass, so the model is placed at bearing 359.88 and built square.",
+    "What it is: Smithmeyer & Pelz's Italian Renaissance library of 1890–97, finished by Casey and Green, in grey-white granite. A rectangle of ranges round four quadrants, with a square pavilion at each corner under a hipped slate roof; the west front, facing the Capitol, has a tall central pavilion of paired Corinthian columns over a rusticated base, raised end bays and an attic, reached by a grand double stair over the Court of Neptune fountain. Cross ranges meet in the middle at the octagonal Main Reading Room, whose drum carries the copper dome (gilded when new, dark now, a charcoal grey with a green cast) and a lantern crowned by the gilded Torch of Learning, 195 ft up. The two west quadrants are open courts; the east ones are built up with later stacks under dark copper mansards. Light blue-grey slate roofs.",
+    "Covers and replaces: relation/1029374 (one outer way, two inner courts). No building:parts inside it. The stair and fountain terrace stand outside the outline, as they do in reality.",
+    "Evidence",
+    "OSM (measured): outline 133.7 × 143.7 m; the original rectangle x -49.7 to 46.4; corner pavilions to x -53.2 / 50.8 and y ±52–72; the west pavilion x -61.4 to -49.7, y ±21.7; the east additions to x 72.3; the west courts x -35.8 to -5, y -51 to -18 and 12 to 40. No heights.",
+    "Published (Wikipedia, \"Thomas Jefferson Building\"; Library of Congress): 1890–97, granite; the dome 195 ft (59.4 m) to the torch; the Main Reading Room an octagon under the dome; the copper dome originally gilded; the Court of Neptune fountain before the west front.",
+    "Photos (Wikimedia Commons): \"Thomas Jefferson Building-5.jpg\" (Smash the Iron Cage, CC BY-SA 4.0), the west front square-on, used for every height below; \"Thomas Jefferson Building Façade.jpg\" (JSquish, CC BY-SA 3.0) and \"Thomas Jefferson Building-1.jpg\" (Smash the Iron Cage, CC BY-SA 4.0), the west front and stair; \"Flickr - USCapitol - Library of Congress Thomas Jefferson Building (1).jpg\" and \"(2).jpg\" (Architect of the Capitol, public domain), from the Capitol dome; \"Aerial view from the south of the Library of Congress Thomas Jefferson Building ... LOC 7562153778.jpg\" (Carol M. Highsmith, no restrictions), the plan, roofs and drum; \"Thomas Jefferson Building Aerial by Carol M. Highsmith.jpg\" (CC BY-SA 3.0), from the south-west; \"Exterior view. View of the roof, dome, and cupola ... LCCN2007684218.tif\" (Carol M. Highsmith, public domain), the drum, dome and lantern close.",
+    "USGS NAIP orthophoto (public domain): the roofs' plan and colours, the octagon (about 35 m across), the drum and dome (about 29 m), the built-up east quadrants.",
+    "Measured from the square-on west photo against the pavilion's OSM width (43.3 m): the pavilion's rusticated base to 13.7 m, its columns to the cornice at 24.2 m, the attic to 29.8 m, the raised end bays to 32 m; the ranges' cornice 20.5 m, balustrade 23 m; the stair terrace 6.2 m.",
+    "Estimated: the octagon's centre (x 2.5, from the OSM courts' corner cuts and the cross ranges' width) and size; the drum, dome and lantern profile (octagon to 33 m, drum to 40.4, a low ribbed saucer (a spherical cap 7.5 m high) to 47.2, a dark lantern to 54, torch to 59.4 published); the corner pavilions' and ranges' hipped roofs; the east quadrants' blocks (18 m, under dark mansards); the east additions' heights; the window rows.",
+    "Simplified: columns, pediments over the windows, sculpture, the balustrades' balusters, the dome's ribs and the lantern's colonnade (drawn as a drum with dark openings) are left out or flattened.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"dc-jefferson-building\", model \"dc-jefferson-building\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/dc-jefferson-building.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 355 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the dc-jefferson-building-glazing finish in the window colour.",
+    "To fit six materials, folded entrance into dc-jefferson-building-loc-granite (ΔE 14.5)."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

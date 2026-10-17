@@ -1,0 +1,438 @@
+{
+  "id": "washington-hilton",
+  "name": "Washington Hilton",
+  "anchor": [
+    -77.0449051,
+    38.91651
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 87844,
+      "sha256": "c533c9dad92c74a80c29dcb17622f2d20f3eb7a17d449ea871ec2f520ce9ff4e"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 87844,
+      "sha256": "c533c9dad92c74a80c29dcb17622f2d20f3eb7a17d449ea871ec2f520ce9ff4e"
+    }
+  },
+  "triangles": 2316,
+  "boundsBlenderM": [
+    [
+      -95.387,
+      -57.3,
+      0
+    ],
+    [
+      95.841,
+      28.797,
+      43.75
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -77.0453882,
+          38.9166299
+        ],
+        [
+          -77.0453712,
+          38.9166188
+        ],
+        [
+          -77.045319,
+          38.9165861
+        ],
+        [
+          -77.0452649,
+          38.9165662
+        ],
+        [
+          -77.0451856,
+          38.9165541
+        ],
+        [
+          -77.0451315,
+          38.9165547
+        ],
+        [
+          -77.0450961,
+          38.9165598
+        ],
+        [
+          -77.0450451,
+          38.916574
+        ],
+        [
+          -77.0449075,
+          38.9166388
+        ],
+        [
+          -77.0448347,
+          38.9166655
+        ],
+        [
+          -77.0447616,
+          38.9166869
+        ],
+        [
+          -77.0446811,
+          38.9167031
+        ],
+        [
+          -77.0446242,
+          38.9167101
+        ],
+        [
+          -77.0445094,
+          38.9167133
+        ],
+        [
+          -77.0443786,
+          38.9167016
+        ],
+        [
+          -77.0443122,
+          38.9166881
+        ],
+        [
+          -77.0442754,
+          38.9166774
+        ],
+        [
+          -77.0442478,
+          38.9166694
+        ],
+        [
+          -77.044193,
+          38.9166491
+        ],
+        [
+          -77.0441147,
+          38.9166128
+        ],
+        [
+          -77.0440228,
+          38.9165593
+        ],
+        [
+          -77.0439682,
+          38.9165175
+        ],
+        [
+          -77.0438981,
+          38.9164467
+        ],
+        [
+          -77.0438424,
+          38.9163645
+        ],
+        [
+          -77.043799,
+          38.9162761
+        ],
+        [
+          -77.0440022,
+          38.9162213
+        ],
+        [
+          -77.0440355,
+          38.9162964
+        ],
+        [
+          -77.0440677,
+          38.9163431
+        ],
+        [
+          -77.0441357,
+          38.9164122
+        ],
+        [
+          -77.0442054,
+          38.9164602
+        ],
+        [
+          -77.0442926,
+          38.9165024
+        ],
+        [
+          -77.0443877,
+          38.9165319
+        ],
+        [
+          -77.0444882,
+          38.9165481
+        ],
+        [
+          -77.0445222,
+          38.9165505
+        ],
+        [
+          -77.0445874,
+          38.9165484
+        ],
+        [
+          -77.0446835,
+          38.9165342
+        ],
+        [
+          -77.0447751,
+          38.9165073
+        ],
+        [
+          -77.0448616,
+          38.916468
+        ],
+        [
+          -77.0449268,
+          38.9164264
+        ],
+        [
+          -77.0449918,
+          38.9163689
+        ],
+        [
+          -77.0450422,
+          38.916303
+        ],
+        [
+          -77.0450747,
+          38.9162331
+        ],
+        [
+          -77.0450949,
+          38.9161582
+        ],
+        [
+          -77.0451137,
+          38.9161607
+        ],
+        [
+          -77.0451152,
+          38.9161416
+        ],
+        [
+          -77.045308,
+          38.9161486
+        ],
+        [
+          -77.045309,
+          38.916177
+        ],
+        [
+          -77.0453099,
+          38.9162002
+        ],
+        [
+          -77.0453211,
+          38.9162602
+        ],
+        [
+          -77.0453438,
+          38.916323
+        ],
+        [
+          -77.0453651,
+          38.9163631
+        ],
+        [
+          -77.0453891,
+          38.9163981
+        ],
+        [
+          -77.0454316,
+          38.916447
+        ],
+        [
+          -77.0454635,
+          38.9164767
+        ],
+        [
+          -77.0455212,
+          38.9165204
+        ],
+        [
+          -77.0455652,
+          38.9165469
+        ],
+        [
+          -77.0456125,
+          38.9165672
+        ],
+        [
+          -77.0456692,
+          38.916587
+        ],
+        [
+          -77.0457378,
+          38.916605
+        ],
+        [
+          -77.0457881,
+          38.9166146
+        ],
+        [
+          -77.0458467,
+          38.9166205
+        ],
+        [
+          -77.045913,
+          38.9166211
+        ],
+        [
+          -77.045979,
+          38.9166164
+        ],
+        [
+          -77.0459976,
+          38.9167656
+        ],
+        [
+          -77.0459141,
+          38.9167714
+        ],
+        [
+          -77.0458303,
+          38.9167703
+        ],
+        [
+          -77.045762,
+          38.9167648
+        ],
+        [
+          -77.0456583,
+          38.9167463
+        ],
+        [
+          -77.0455842,
+          38.9167233
+        ],
+        [
+          -77.0454979,
+          38.9166879
+        ],
+        [
+          -77.0454414,
+          38.9166608
+        ],
+        [
+          -77.0453882,
+          38.9166299
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 66981885,
+    "version": 14,
+    "timestamp": "2026-08-13T14:49:45Z",
+    "url": "https://www.openstreetmap.org/way/66981885"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 1549399804,
+      "version": 1,
+      "timestamp": "2026-08-13T14:49:45Z",
+      "url": "https://www.openstreetmap.org/way/1549399804"
+    }
+  ],
+  "wikidata": "Q4260660",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:The Washington Hilton Hotel, 1919 Connecticut Ave. , N.W., Washington, D.C LCCN2010641293.tif",
+      "author": "Carol M. Highsmith",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:The_Washington_Hilton_Hotel,_1919_Connecticut_Ave._,_N.W.,_Washington,_D.C_LCCN2010641293.tif",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:The_Washington_Hilton_Hotel,_1919_Connecticut_Ave._,_N.W.,_Washington,_D.C_LCCN2010641293.tif",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Hilton Washington - Connecticut Avenue.JPG",
+      "author": "APK",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Hilton_Washington_-_Connecticut_Avenue.JPG",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Washington Hilton (55264947478).jpg",
+      "author": "ajay_suresh",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Washington_Hilton_(55264947478).jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Hilton Washington - side view.JPG",
+      "author": "AgnosticPreachersKid",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Hilton_Washington_-_side_view.JPG",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Hilton Washington - view from T Street.JPG",
+      "author": "APK",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Hilton_Washington_-_view_from_T_Street.JPG",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:View from The Cairo - facing northwest.jpg",
+      "author": "Carol M. Highsmith",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:View_from_The_Cairo_-_facing_northwest.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:View_from_The_Cairo_-_facing_northwest.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/dc-washington-hilton.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Washington Hilton — procedural, CC0-1.0, no textures. bun generators/dc-washington-hilton.ts",
+    "Map frame: x east, y north, z up, metres; bearing 0°. The anchor is the area centroid of the OSM outline way/66981885 (lng -77.0449051, lat 38.91651).",
+    "What it is: William B. Tabler's hotel (1965), the \"double arc\": two curved slabs of rooms, each a ring sector concave to the south, meeting in a cusp that points south at the main entrance, so the plan reads as a bird with outstretched wings. White concrete, eleven floors of rooms in a deep egg-crate grid over a recessed, glazed ground floor, plain end walls, and a curved two-storey penthouse over the cusp. The arcs and the deep egg-crate facade are the identity. The grid is drawn coarse: white floor slabs every two storeys and white fins every two bays frame dark window panels set 1.2 m back, so the frame reads in 3D and stays clear of shimmer at phone size.",
+    "Covers and replaces: the outline way/66981885 and the porte-cochère roof at the cusp's south tip, way/1549399804 (building=roof), which is modelled as a white pyramid canopy. Not replaced: way/1342700937, an untagged building along the east wing's end and the pool deck, which the model does not cover; way/1549399805, a small separate building to the south-west; The Hepburn (way/533733539), the 2018 apartment building in the east courtyard.",
+    "Evidence",
+    "OSM (measured): the outline's edges fit circles to within 0.2 m. West wing: centre (-85.0, -37.6), radii 50.1 and 66.4 m, from -2° to 99° (counter-clockwise from east). East wing: centre (31.8, -43.8), radii 48.1 and 66.3 m, from 15° to 174°. The two wings' ends overlap in the cusp, x -36 to -16, whose south face is at y ≈ -39. Tags: height 43.5, building:levels 12, roof:shape flat.",
+    "Published (Wikipedia, \"Washington Hilton\"): opened 1965, architect William B. Tabler, \"distinctive double-arched design\", 1,070-plus rooms.",
+    "Photos (Wikimedia Commons): \"The Washington Hilton Hotel, 1919 Connecticut Ave. , N.W., Washington, D.C LCCN2010641293.tif\" (Carol M. Highsmith, public domain) and \"Hilton Washington - Connecticut Avenue.JPG\" (APK, CC BY-SA 3.0), the west wing's concave face from the south-west; \"Washington Hilton (55264947478).jpg\" (ajay_suresh, CC BY 4.0), the same face from the motor court; \"Hilton Washington - side view.JPG\" (AgnosticPreachersKid, CC BY-SA 3.0), the west end wall; \"Hilton Washington - view from T Street.JPG\" (APK, CC BY-SA 3.0), the east wing's concave face from the south; \"View from The Cairo - facing northwest.jpg\" (Carol M. Highsmith, public domain), from afar.",
+    "USGS NAIP orthophoto (public domain): the plan, the raised roof over the cusp with plant on either side of it.",
+    "Estimated from the photos against OSM's 43.5 m: ground floor 4.5 m, eleven 2.9 m floors to 36.4 m, parapet to 37.3 m, penthouse to 43.5 m; window bays about 3.2 m; slabs 1.4 m, fins 1.4 m, recess 1.2 m. The penthouse's extent (over the cusp, about 33° of each wing near it) is read from the aerial and from where it shows above the parapet in the photos; it is the least certain part.",
+    "Simplified: the egg-crate is drawn at two storeys by two bays; the end walls' corner window columns, the motor-court arcade's vaults and the roof plant are left out.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"dc-washington-hilton\", model \"dc-washington-hilton\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/dc-washington-hilton.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 19013 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the dc-washington-hilton-glazing finish in the window colour."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

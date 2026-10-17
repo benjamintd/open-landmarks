@@ -1,0 +1,317 @@
+{
+  "id": "national-archives-building",
+  "name": "National Archives Building",
+  "anchor": [
+    -77.0229196,
+    38.8928207
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 138064,
+      "sha256": "fd7b927f05b7e9d6af1ed46ba39c75fd018f125a960f12f511d46db1b184f6f8"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 138064,
+      "sha256": "fd7b927f05b7e9d6af1ed46ba39c75fd018f125a960f12f511d46db1b184f6f8"
+    }
+  },
+  "triangles": 3660,
+  "boundsBlenderM": [
+    [
+      -56.1,
+      -51.6,
+      0
+    ],
+    [
+      56.1,
+      43.9,
+      46
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -77.0227433,
+          38.8931955
+        ],
+        [
+          -77.0227442,
+          38.8931695
+        ],
+        [
+          -77.022455,
+          38.8931681
+        ],
+        [
+          -77.0224553,
+          38.8931228
+        ],
+        [
+          -77.0223324,
+          38.8931222
+        ],
+        [
+          -77.0223332,
+          38.8930251
+        ],
+        [
+          -77.0222789,
+          38.8930248
+        ],
+        [
+          -77.0222802,
+          38.892844
+        ],
+        [
+          -77.0222818,
+          38.8926302
+        ],
+        [
+          -77.0223386,
+          38.8926305
+        ],
+        [
+          -77.0223393,
+          38.8925354
+        ],
+        [
+          -77.0224639,
+          38.892536
+        ],
+        [
+          -77.0224643,
+          38.8924924
+        ],
+        [
+          -77.022715,
+          38.8924918
+        ],
+        [
+          -77.0227144,
+          38.8924439
+        ],
+        [
+          -77.0227143,
+          38.8924332
+        ],
+        [
+          -77.0227151,
+          38.8924188
+        ],
+        [
+          -77.0227461,
+          38.8924188
+        ],
+        [
+          -77.0229106,
+          38.8924185
+        ],
+        [
+          -77.0231006,
+          38.8924189
+        ],
+        [
+          -77.0231241,
+          38.8924188
+        ],
+        [
+          -77.0231232,
+          38.8924309
+        ],
+        [
+          -77.0231233,
+          38.8924451
+        ],
+        [
+          -77.0231239,
+          38.8924899
+        ],
+        [
+          -77.02338,
+          38.8924899
+        ],
+        [
+          -77.02338,
+          38.8925338
+        ],
+        [
+          -77.0235034,
+          38.8925338
+        ],
+        [
+          -77.0235034,
+          38.8926298
+        ],
+        [
+          -77.0235591,
+          38.8926298
+        ],
+        [
+          -77.0235591,
+          38.8928431
+        ],
+        [
+          -77.0235591,
+          38.893025
+        ],
+        [
+          -77.0235019,
+          38.893025
+        ],
+        [
+          -77.0235019,
+          38.8931213
+        ],
+        [
+          -77.023378,
+          38.8931213
+        ],
+        [
+          -77.023378,
+          38.893165
+        ],
+        [
+          -77.0231192,
+          38.893165
+        ],
+        [
+          -77.0231193,
+          38.8931971
+        ],
+        [
+          -77.0229356,
+          38.8931963
+        ],
+        [
+          -77.0227433,
+          38.8931955
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 66418953,
+    "version": 19,
+    "timestamp": "2024-01-30T20:35:28Z",
+    "url": "https://www.openstreetmap.org/way/66418953"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 427815124,
+      "version": 4,
+      "timestamp": "2022-08-27T15:49:49Z",
+      "url": "https://www.openstreetmap.org/way/427815124"
+    },
+    {
+      "type": "way",
+      "id": 427815125,
+      "version": 2,
+      "timestamp": "2021-03-01T17:02:07Z",
+      "url": "https://www.openstreetmap.org/way/427815125"
+    },
+    {
+      "type": "way",
+      "id": 427815126,
+      "version": 1,
+      "timestamp": "2016-06-28T14:32:35Z",
+      "url": "https://www.openstreetmap.org/way/427815126"
+    },
+    {
+      "type": "way",
+      "id": 427815127,
+      "version": 3,
+      "timestamp": "2021-03-01T17:02:07Z",
+      "url": "https://www.openstreetmap.org/way/427815127"
+    },
+    {
+      "type": "way",
+      "id": 427815128,
+      "version": 5,
+      "timestamp": "2021-03-01T17:02:07Z",
+      "url": "https://www.openstreetmap.org/way/427815128"
+    },
+    {
+      "type": "way",
+      "id": 427815129,
+      "version": 3,
+      "timestamp": "2022-08-27T15:49:49Z",
+      "url": "https://www.openstreetmap.org/way/427815129"
+    }
+  ],
+  "wikidata": "Q518155",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:National Archives Building north side, Washington, D.C. 2011.jpg",
+      "author": "Wknight94 talk",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:National_Archives_Building_north_side,_Washington,_D.C._2011.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:National Archives Building 2.jpg",
+      "author": "Kurt Kaiser",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:National_Archives_Building_2.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:National Archives Building, Washington, D.C., 2014-09-22.jpg",
+      "author": "Kazuhisa OTSUBO from Tokyo, Japan",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:National_Archives_Building,_Washington,_D.C.,_2014-09-22.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/dc-national-archives.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "National Archives Building — procedural, CC0-1.0, no textures. bun generators/dc-national-archives.ts",
+    "Map frame: x east, y north, z up, metres; bearing 0°: the OSM outline's walls fit the compass to 0.1°. The anchor is the area centroid of the outline way/66418953 (lng -77.0229196, lat 38.8928207).",
+    "What it is: John Russell Pope's temple of the archives (1931–37), in Indiana limestone on a granite base. A giant Corinthian order stands on a podium all round: a colonnade along every front, a deep pedimented portico on Constitution Avenue (south) over its flight of steps and a shallow pedimented portico on Pennsylvania Avenue (north), with blank, stepped corner pavilions between. Over the colonnades' cornice a tall, plain attic rises as one big rectangular block, with its own cornice and a lower stepped top storey. Tall windows fill the bays behind the columns.",
+    "Covers and replaces: the outline way/66418953 and its six building:parts (the two colonnade wings, the attic, its top storey and both porticos). The guard booth way/912464965 outside it is left alone.",
+    "Evidence",
+    "OSM (measured): outline 110.9 × 86.4 m, stepped at each corner (5 and 10 m); attic part 86.2 × 50.4 m, top storey 77.3 × 41.1 m; porticos 35.5 m wide and 8.1 m deep (south), 32.6 m wide and 3.4 m proud (north). Heights: colonnades 28, attic 41, top storey 41–46, porticos 35 (7 m gabled roof).",
+    "Published: NARA, \"The National Archives Building\" and the NHL nomination: 72 Corinthian columns, each 53 ft (16.2 m) high and 5 ft 8 in (1.73 m) across; limestone superstructure on a granite base (Wikipedia, \"National Archives Building\"); statues 25 ft (7.6 m) with their pedestals at both entrances.",
+    "Photos (Wikimedia Commons): \"National Archives Building north side, Washington, D.C. 2011.jpg\" and \"... south side ...\" (Wknight94, CC BY-SA 3.0), the two fronts square on; \"National Archives Building 2.jpg\", \"... 3.jpg\" and \"... 4.jpg\" (Kurt Kaiser, CC0), the south portico, its steps and the west end; \"2014-04-04-National-Archives-Building- Washington-DC.jpg\" (Gunnar Klack, CC BY-SA 4.0), a corner pavilion between two colonnades; \"National Archives Building, Washington, D.C., 2014-09-22.jpg\" (Kazuhisa Otsubo, CC BY 2.0). Aerials, public domain: \"Photograph of an Aerial View of the National Archives Building, Constitution Avenue and 9th Street ...\" and \"... Pennsylvania Avenue and 9th Street ...\" and \"... Constitution Avenue and 7th Street ...\" (U.S. National Archives), which show the attic, its stepped top storey, the portico roofs running back to it and the flat roofs over the colonnades.",
+    "USGS NAIP orthophoto (public domain): roof plan and colour.",
+    "Measured from the north photo against the colonnade's OSM width (80 m): podium 4.8 m, columns to 21.5, entablature and cornice to 28 (OSM), pediment apex about 36 (OSM 35; the photos put it a little higher).",
+    "Estimated: the wall line behind each colonnade (3.3 m back), the column spacing on each front (8 on each portico, 5 either side of them, 10 on each end, and a second row of 6 in the south portico: 64 of the 72; the rest are in the portico's depth and are not seen), the steps (7 m deep, 48 m wide) and the four statue pedestals, drawn as plain blocks.",
+    "Simplified: the Corinthian capitals are a flared bell and abacus, the pediment sculpture and roundels are left out, the windows are one tall panel per bay.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"dc-national-archives\", model \"dc-national-archives\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/dc-national-archives.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

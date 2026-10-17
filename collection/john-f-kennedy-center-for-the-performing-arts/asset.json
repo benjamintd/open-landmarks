@@ -1,0 +1,703 @@
+{
+  "id": "john-f-kennedy-center-for-the-performing-arts",
+  "name": "John F. Kennedy Center for the Performing Arts",
+  "anchor": [
+    -77.0557579,
+    38.8959012
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 85828,
+      "sha256": "aef63d8f32ceb69783027e089ef117174d8344dbdd05829bcbb3fd50cb123f48"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 85828,
+      "sha256": "aef63d8f32ceb69783027e089ef117174d8344dbdd05829bcbb3fd50cb123f48"
+    }
+  },
+  "triangles": 1504,
+  "boundsBlenderM": [
+    [
+      -63.05,
+      -105.45,
+      0
+    ],
+    [
+      63.05,
+      105.45,
+      32
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -77.0550405,
+          38.8949496
+        ],
+        [
+          -77.0563139,
+          38.8949527
+        ],
+        [
+          -77.0564187,
+          38.8949529
+        ],
+        [
+          -77.0564829,
+          38.8949531
+        ],
+        [
+          -77.0564754,
+          38.8968528
+        ],
+        [
+          -77.0564152,
+          38.8968527
+        ],
+        [
+          -77.0563041,
+          38.8968524
+        ],
+        [
+          -77.056239,
+          38.8968522
+        ],
+        [
+          -77.0550959,
+          38.8968495
+        ],
+        [
+          -77.055033,
+          38.8968494
+        ],
+        [
+          -77.0550343,
+          38.8965186
+        ],
+        [
+          -77.0550405,
+          38.8949496
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 66418634,
+    "version": 22,
+    "timestamp": "2026-08-22T21:58:48Z",
+    "url": "https://www.openstreetmap.org/way/66418634"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 427085592,
+      "version": 1,
+      "timestamp": "2016-06-24T19:13:02Z",
+      "url": "https://www.openstreetmap.org/way/427085592"
+    },
+    {
+      "type": "way",
+      "id": 427085593,
+      "version": 1,
+      "timestamp": "2016-06-24T19:13:02Z",
+      "url": "https://www.openstreetmap.org/way/427085593"
+    },
+    {
+      "type": "way",
+      "id": 427085595,
+      "version": 1,
+      "timestamp": "2016-06-24T19:13:03Z",
+      "url": "https://www.openstreetmap.org/way/427085595"
+    },
+    {
+      "type": "way",
+      "id": 427085597,
+      "version": 1,
+      "timestamp": "2016-06-24T19:13:03Z",
+      "url": "https://www.openstreetmap.org/way/427085597"
+    },
+    {
+      "type": "way",
+      "id": 427085598,
+      "version": 1,
+      "timestamp": "2016-06-24T19:13:03Z",
+      "url": "https://www.openstreetmap.org/way/427085598"
+    },
+    {
+      "type": "way",
+      "id": 427085599,
+      "version": 1,
+      "timestamp": "2016-06-24T19:13:03Z",
+      "url": "https://www.openstreetmap.org/way/427085599"
+    },
+    {
+      "type": "way",
+      "id": 427085600,
+      "version": 1,
+      "timestamp": "2016-06-24T19:13:03Z",
+      "url": "https://www.openstreetmap.org/way/427085600"
+    },
+    {
+      "type": "way",
+      "id": 427085601,
+      "version": 1,
+      "timestamp": "2016-06-24T19:13:03Z",
+      "url": "https://www.openstreetmap.org/way/427085601"
+    },
+    {
+      "type": "way",
+      "id": 427085602,
+      "version": 1,
+      "timestamp": "2016-06-24T19:13:03Z",
+      "url": "https://www.openstreetmap.org/way/427085602"
+    },
+    {
+      "type": "way",
+      "id": 427085603,
+      "version": 1,
+      "timestamp": "2016-06-24T19:13:03Z",
+      "url": "https://www.openstreetmap.org/way/427085603"
+    },
+    {
+      "type": "way",
+      "id": 427085604,
+      "version": 1,
+      "timestamp": "2016-06-24T19:13:03Z",
+      "url": "https://www.openstreetmap.org/way/427085604"
+    },
+    {
+      "type": "way",
+      "id": 427085606,
+      "version": 1,
+      "timestamp": "2016-06-24T19:13:03Z",
+      "url": "https://www.openstreetmap.org/way/427085606"
+    },
+    {
+      "type": "way",
+      "id": 427085607,
+      "version": 1,
+      "timestamp": "2016-06-24T19:13:03Z",
+      "url": "https://www.openstreetmap.org/way/427085607"
+    },
+    {
+      "type": "way",
+      "id": 427085608,
+      "version": 1,
+      "timestamp": "2016-06-24T19:13:03Z",
+      "url": "https://www.openstreetmap.org/way/427085608"
+    },
+    {
+      "type": "way",
+      "id": 427085609,
+      "version": 1,
+      "timestamp": "2016-06-24T19:13:03Z",
+      "url": "https://www.openstreetmap.org/way/427085609"
+    },
+    {
+      "type": "way",
+      "id": 427085610,
+      "version": 1,
+      "timestamp": "2016-06-24T19:13:03Z",
+      "url": "https://www.openstreetmap.org/way/427085610"
+    },
+    {
+      "type": "way",
+      "id": 427085611,
+      "version": 1,
+      "timestamp": "2016-06-24T19:13:03Z",
+      "url": "https://www.openstreetmap.org/way/427085611"
+    },
+    {
+      "type": "way",
+      "id": 427085612,
+      "version": 1,
+      "timestamp": "2016-06-24T19:13:03Z",
+      "url": "https://www.openstreetmap.org/way/427085612"
+    },
+    {
+      "type": "way",
+      "id": 427085613,
+      "version": 1,
+      "timestamp": "2016-06-24T19:13:04Z",
+      "url": "https://www.openstreetmap.org/way/427085613"
+    },
+    {
+      "type": "way",
+      "id": 427085614,
+      "version": 1,
+      "timestamp": "2016-06-24T19:13:04Z",
+      "url": "https://www.openstreetmap.org/way/427085614"
+    },
+    {
+      "type": "way",
+      "id": 427085615,
+      "version": 1,
+      "timestamp": "2016-06-24T19:13:04Z",
+      "url": "https://www.openstreetmap.org/way/427085615"
+    },
+    {
+      "type": "way",
+      "id": 427085616,
+      "version": 1,
+      "timestamp": "2016-06-24T19:13:04Z",
+      "url": "https://www.openstreetmap.org/way/427085616"
+    },
+    {
+      "type": "way",
+      "id": 427085617,
+      "version": 1,
+      "timestamp": "2016-06-24T19:13:04Z",
+      "url": "https://www.openstreetmap.org/way/427085617"
+    },
+    {
+      "type": "way",
+      "id": 427085618,
+      "version": 1,
+      "timestamp": "2016-06-24T19:13:04Z",
+      "url": "https://www.openstreetmap.org/way/427085618"
+    },
+    {
+      "type": "way",
+      "id": 427085619,
+      "version": 1,
+      "timestamp": "2016-06-24T19:13:04Z",
+      "url": "https://www.openstreetmap.org/way/427085619"
+    },
+    {
+      "type": "way",
+      "id": 427085620,
+      "version": 1,
+      "timestamp": "2016-06-24T19:13:04Z",
+      "url": "https://www.openstreetmap.org/way/427085620"
+    },
+    {
+      "type": "way",
+      "id": 427085621,
+      "version": 1,
+      "timestamp": "2016-06-24T19:13:04Z",
+      "url": "https://www.openstreetmap.org/way/427085621"
+    },
+    {
+      "type": "way",
+      "id": 427085622,
+      "version": 1,
+      "timestamp": "2016-06-24T19:13:04Z",
+      "url": "https://www.openstreetmap.org/way/427085622"
+    },
+    {
+      "type": "way",
+      "id": 427085623,
+      "version": 1,
+      "timestamp": "2016-06-24T19:13:04Z",
+      "url": "https://www.openstreetmap.org/way/427085623"
+    },
+    {
+      "type": "way",
+      "id": 427085624,
+      "version": 1,
+      "timestamp": "2016-06-24T19:13:04Z",
+      "url": "https://www.openstreetmap.org/way/427085624"
+    },
+    {
+      "type": "way",
+      "id": 427085625,
+      "version": 1,
+      "timestamp": "2016-06-24T19:13:04Z",
+      "url": "https://www.openstreetmap.org/way/427085625"
+    },
+    {
+      "type": "way",
+      "id": 427085626,
+      "version": 1,
+      "timestamp": "2016-06-24T19:13:04Z",
+      "url": "https://www.openstreetmap.org/way/427085626"
+    },
+    {
+      "type": "way",
+      "id": 427085627,
+      "version": 1,
+      "timestamp": "2016-06-24T19:13:04Z",
+      "url": "https://www.openstreetmap.org/way/427085627"
+    },
+    {
+      "type": "way",
+      "id": 427085628,
+      "version": 4,
+      "timestamp": "2025-04-06T17:57:06Z",
+      "url": "https://www.openstreetmap.org/way/427085628"
+    },
+    {
+      "type": "way",
+      "id": 427085629,
+      "version": 1,
+      "timestamp": "2016-06-24T19:13:05Z",
+      "url": "https://www.openstreetmap.org/way/427085629"
+    },
+    {
+      "type": "way",
+      "id": 427085630,
+      "version": 1,
+      "timestamp": "2016-06-24T19:13:05Z",
+      "url": "https://www.openstreetmap.org/way/427085630"
+    },
+    {
+      "type": "way",
+      "id": 427085631,
+      "version": 1,
+      "timestamp": "2016-06-24T19:13:05Z",
+      "url": "https://www.openstreetmap.org/way/427085631"
+    },
+    {
+      "type": "way",
+      "id": 427085632,
+      "version": 1,
+      "timestamp": "2016-06-24T19:13:05Z",
+      "url": "https://www.openstreetmap.org/way/427085632"
+    },
+    {
+      "type": "way",
+      "id": 427085633,
+      "version": 1,
+      "timestamp": "2016-06-24T19:13:05Z",
+      "url": "https://www.openstreetmap.org/way/427085633"
+    },
+    {
+      "type": "way",
+      "id": 427085634,
+      "version": 1,
+      "timestamp": "2016-06-24T19:13:05Z",
+      "url": "https://www.openstreetmap.org/way/427085634"
+    },
+    {
+      "type": "way",
+      "id": 427085635,
+      "version": 1,
+      "timestamp": "2016-06-24T19:13:05Z",
+      "url": "https://www.openstreetmap.org/way/427085635"
+    },
+    {
+      "type": "way",
+      "id": 427085636,
+      "version": 1,
+      "timestamp": "2016-06-24T19:13:05Z",
+      "url": "https://www.openstreetmap.org/way/427085636"
+    },
+    {
+      "type": "way",
+      "id": 427085637,
+      "version": 1,
+      "timestamp": "2016-06-24T19:13:05Z",
+      "url": "https://www.openstreetmap.org/way/427085637"
+    },
+    {
+      "type": "way",
+      "id": 427085638,
+      "version": 1,
+      "timestamp": "2016-06-24T19:13:05Z",
+      "url": "https://www.openstreetmap.org/way/427085638"
+    },
+    {
+      "type": "way",
+      "id": 427085639,
+      "version": 1,
+      "timestamp": "2016-06-24T19:13:05Z",
+      "url": "https://www.openstreetmap.org/way/427085639"
+    },
+    {
+      "type": "way",
+      "id": 427085640,
+      "version": 1,
+      "timestamp": "2016-06-24T19:13:05Z",
+      "url": "https://www.openstreetmap.org/way/427085640"
+    },
+    {
+      "type": "way",
+      "id": 427085641,
+      "version": 1,
+      "timestamp": "2016-06-24T19:13:05Z",
+      "url": "https://www.openstreetmap.org/way/427085641"
+    },
+    {
+      "type": "way",
+      "id": 427085642,
+      "version": 1,
+      "timestamp": "2016-06-24T19:13:05Z",
+      "url": "https://www.openstreetmap.org/way/427085642"
+    },
+    {
+      "type": "way",
+      "id": 427085643,
+      "version": 1,
+      "timestamp": "2016-06-24T19:13:05Z",
+      "url": "https://www.openstreetmap.org/way/427085643"
+    },
+    {
+      "type": "way",
+      "id": 427085644,
+      "version": 1,
+      "timestamp": "2016-06-24T19:13:06Z",
+      "url": "https://www.openstreetmap.org/way/427085644"
+    },
+    {
+      "type": "way",
+      "id": 427085645,
+      "version": 1,
+      "timestamp": "2016-06-24T19:13:06Z",
+      "url": "https://www.openstreetmap.org/way/427085645"
+    },
+    {
+      "type": "way",
+      "id": 427085646,
+      "version": 1,
+      "timestamp": "2016-06-24T19:13:06Z",
+      "url": "https://www.openstreetmap.org/way/427085646"
+    },
+    {
+      "type": "way",
+      "id": 427085647,
+      "version": 3,
+      "timestamp": "2024-04-25T18:29:09Z",
+      "url": "https://www.openstreetmap.org/way/427085647"
+    },
+    {
+      "type": "way",
+      "id": 427085648,
+      "version": 1,
+      "timestamp": "2016-06-24T19:13:06Z",
+      "url": "https://www.openstreetmap.org/way/427085648"
+    },
+    {
+      "type": "way",
+      "id": 427085649,
+      "version": 1,
+      "timestamp": "2016-06-24T19:13:06Z",
+      "url": "https://www.openstreetmap.org/way/427085649"
+    },
+    {
+      "type": "way",
+      "id": 427085650,
+      "version": 1,
+      "timestamp": "2016-06-24T19:13:06Z",
+      "url": "https://www.openstreetmap.org/way/427085650"
+    },
+    {
+      "type": "way",
+      "id": 427085651,
+      "version": 1,
+      "timestamp": "2016-06-24T19:13:06Z",
+      "url": "https://www.openstreetmap.org/way/427085651"
+    },
+    {
+      "type": "way",
+      "id": 427085652,
+      "version": 1,
+      "timestamp": "2016-06-24T19:13:06Z",
+      "url": "https://www.openstreetmap.org/way/427085652"
+    },
+    {
+      "type": "way",
+      "id": 427085653,
+      "version": 1,
+      "timestamp": "2016-06-24T19:13:06Z",
+      "url": "https://www.openstreetmap.org/way/427085653"
+    },
+    {
+      "type": "way",
+      "id": 427085654,
+      "version": 1,
+      "timestamp": "2016-06-24T19:13:06Z",
+      "url": "https://www.openstreetmap.org/way/427085654"
+    },
+    {
+      "type": "way",
+      "id": 427085655,
+      "version": 1,
+      "timestamp": "2016-06-24T19:13:06Z",
+      "url": "https://www.openstreetmap.org/way/427085655"
+    },
+    {
+      "type": "way",
+      "id": 427085656,
+      "version": 1,
+      "timestamp": "2016-06-24T19:13:06Z",
+      "url": "https://www.openstreetmap.org/way/427085656"
+    },
+    {
+      "type": "way",
+      "id": 427085657,
+      "version": 1,
+      "timestamp": "2016-06-24T19:13:06Z",
+      "url": "https://www.openstreetmap.org/way/427085657"
+    },
+    {
+      "type": "way",
+      "id": 427085658,
+      "version": 1,
+      "timestamp": "2016-06-24T19:13:06Z",
+      "url": "https://www.openstreetmap.org/way/427085658"
+    },
+    {
+      "type": "way",
+      "id": 427085659,
+      "version": 1,
+      "timestamp": "2016-06-24T19:13:06Z",
+      "url": "https://www.openstreetmap.org/way/427085659"
+    },
+    {
+      "type": "way",
+      "id": 427085660,
+      "version": 1,
+      "timestamp": "2016-06-24T19:13:06Z",
+      "url": "https://www.openstreetmap.org/way/427085660"
+    },
+    {
+      "type": "way",
+      "id": 427085661,
+      "version": 1,
+      "timestamp": "2016-06-24T19:13:07Z",
+      "url": "https://www.openstreetmap.org/way/427085661"
+    },
+    {
+      "type": "way",
+      "id": 427085662,
+      "version": 1,
+      "timestamp": "2016-06-24T19:13:07Z",
+      "url": "https://www.openstreetmap.org/way/427085662"
+    },
+    {
+      "type": "way",
+      "id": 427085663,
+      "version": 1,
+      "timestamp": "2016-06-24T19:13:07Z",
+      "url": "https://www.openstreetmap.org/way/427085663"
+    },
+    {
+      "type": "way",
+      "id": 427085664,
+      "version": 1,
+      "timestamp": "2016-06-24T19:13:07Z",
+      "url": "https://www.openstreetmap.org/way/427085664"
+    },
+    {
+      "type": "way",
+      "id": 427085665,
+      "version": 1,
+      "timestamp": "2016-06-24T19:13:07Z",
+      "url": "https://www.openstreetmap.org/way/427085665"
+    },
+    {
+      "type": "way",
+      "id": 1375362774,
+      "version": 2,
+      "timestamp": "2025-12-08T04:50:58Z",
+      "url": "https://www.openstreetmap.org/way/1375362774"
+    }
+  ],
+  "wikidata": "Q1631981",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Kennedy Center seen from the Potomac River, June 2010.jpg",
+      "author": "Tom",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Kennedy_Center_seen_from_the_Potomac_River,_June_2010.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Kennedy Center for the Performing Arts, Washington, D.C., LCCN2011632175.jpg",
+      "author": "Carol M. Highsmith",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Kennedy_Center_for_the_Performing_Arts,_Washington,_D.C.,_LCCN2011632175.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Kennedy_Center_for_the_Performing_Arts,_Washington,_D.C.,_LCCN2011632175.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Kennedy Center - panoramio.jpg",
+      "author": "jiazi",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Kennedy_Center_-_panoramio.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:KennedyCtr.jpg",
+      "author": "NOAA",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:KennedyCtr.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:KennedyCtr.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Kennedy Center (53844537746).jpg",
+      "author": "ajay_suresh",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Kennedy_Center_(53844537746).jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Kennedy Center name covered 2026-06-26 10-22-04.jpg",
+      "author": "G. Edward Johnson",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Kennedy_Center_name_covered_2026-06-26_10-22-04.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Aerial view of The Reach at the Kennedy Center, July 2024.jpg",
+      "author": "Sdkb",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_The_Reach_at_the_Kennedy_Center,_July_2024.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/dc-kennedy-center.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "John F. Kennedy Center for the Performing Arts — procedural, CC0-1.0, no textures. bun generators/dc-kennedy-center.ts",
+    "Map frame: x east, y north, z up, metres; bearing 0°, the outline's long walls running due north–south (OSM: 0.2°). The anchor is the area centroid of the OSM outline way/66418634 (lng -77.0557579, lat 38.8959012). The building itself is symmetrical about x = 7.35, the line the column ring and the marble box share; the outline reaches further west for the river terrace.",
+    "What it is: Edward Durell Stone's white Carrara-marble box (1971), 630 × 300 ft, standing on a podium above the Potomac, ringed by tall, slender bronze-gold square columns that carry a flat overhanging roof slab; a set-back roof-terrace storey and a second, thinner slab above. The ring of gold columns in front of the shaded marble wall is the identity, so the columns are drawn as broad gold piers (2 m against the real ~1 m) that read at 200 px, and the wall under the overhang is a shaded marble tone, standing in for the deep shadow the slab throws in every photo.",
+    "Covers and replaces: the outline way/66418634 and every building:part inside it — the marble box (427085634), the roof slab (427085628), the terrace storey (427085626) and its slab (427085602), the rooftop structure (427085647), the river terrace (1375362774) and the 66 one-metre column parts. Not replaced: the REACH (way/736679519 and its pavilions 1019782779–81), the 2019 extension to the south, which is its own building outside the outline.",
+    "Evidence",
+    "OSM (measured): outline 125.6 × 210.4 m. Box 91.0 × 190.7 m (x −38.2 to 52.9), h 21; roof slab 111 × 210 m, 21–22 m; terrace storey 69.5 × 169.8 m, 22–29 m; its slab 81.4 × 181.6 m, 29–30 m; rooftop block 21.7 × 37.7 m, 30–32 m; column parts 1 × 1 m on a ring 4.8 m out from the box, 23 to a long side at 9.12 m and 12 to a short side at 9.15 m (66 in all); river terrace strip x −62.8 to −47.3. Outline height 32.",
+    "Published (Wikipedia; Kennedy Center): 630 × 300 ft (192 × 91 m), 100 ft (30 m) high; Grand Foyer 630 ft long and 60 ft high along the river front; Hall of States and Hall of Nations crossing the building between the three main theatres; architect Edward Durell Stone, opened 1971.",
+    "Photos (Wikimedia Commons): \"Kennedy Center seen from the Potomac River, June 2010.jpg\" (Tom, CC BY 3.0), west front; \"Kennedy Center for the Performing Arts, Washington, D.C., LCCN2011632175.jpg\" (Carol M. Highsmith, public domain), from the south-west; \"Kennedy Center - panoramio.jpg\" (jiazi, CC BY-SA 3.0), from the north-west at dusk; \"KennedyCtr.jpg\" (NOAA, public domain), west front; \"Kennedy Center (53844537746).jpg\" (ajay_suresh, CC BY 2.0) and \"Kennedy Center name covered 2026-06-26 10-22-04.jpg\" (G. Edward Johnson, CC BY 4.0), east front; \"Aerial view of The Reach at the Kennedy Center, July 2024.jpg\" (Sdkb, CC BY-SA 4.0), roof from the south-east.",
+    "USGS NAIP orthophoto (public domain): the white slab rim, the pale terrace and the darker roof inside it, the halls' roof breaks at about y = ±31 m.",
+    "Estimated from the photos against the 32 m outline height: the podium to 6 m above the river parkway (a dark recessed band along its foot on the river side), columns 6–21.2 m, slab 21.2–22.4 m, terrace storey to 29 m, upper slab to 30.2 m. The Grand Foyer's tall window pairs are in alternate bays of the west front (the real rhythm is irregular); the east front's two entrances are drawn as tall glazed bays at the halls, y = ±31 m; the terrace storey's windows at about 8.5 m pitch.",
+    "Simplified: the river terrace's willows and planters, the lettering, the flagpoles and the east front's slot windows are left out; the plaza in front of the east entrances is the map's, so the podium is drawn on all four sides.",
+    "Name: OSM still carries the 1971 name; the 2025–26 renaming dispute is left to the catalogue.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"dc-kennedy-center\", model \"dc-kennedy-center\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/dc-kennedy-center.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

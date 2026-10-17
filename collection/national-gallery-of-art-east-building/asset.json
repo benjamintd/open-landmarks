@@ -1,0 +1,314 @@
+{
+  "id": "national-gallery-of-art-east-building",
+  "name": "National Gallery of Art, East Building",
+  "anchor": [
+    -77.0166233,
+    38.8912353
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 25532,
+      "sha256": "a143639020c269bfdba3f3cde03d97b4340fed515a731e8a6852eb796397ef85"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 25532,
+      "sha256": "a143639020c269bfdba3f3cde03d97b4340fed515a731e8a6852eb796397ef85"
+    }
+  },
+  "triangles": 378,
+  "boundsBlenderM": [
+    [
+      -51.935,
+      -34.77,
+      0
+    ],
+    [
+      65.889,
+      49.599,
+      33.9
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -77.0163016,
+          38.891278
+        ],
+        [
+          -77.0161539,
+          38.8912399
+        ],
+        [
+          -77.0158707,
+          38.8913247
+        ],
+        [
+          -77.0158609,
+          38.8909395
+        ],
+        [
+          -77.0161121,
+          38.891011
+        ],
+        [
+          -77.0161117,
+          38.8909357
+        ],
+        [
+          -77.016376,
+          38.8909343
+        ],
+        [
+          -77.0165275,
+          38.8909307
+        ],
+        [
+          -77.0169816,
+          38.8909276
+        ],
+        [
+          -77.0172143,
+          38.8909311
+        ],
+        [
+          -77.0172141,
+          38.8909342
+        ],
+        [
+          -77.0169173,
+          38.8910151
+        ],
+        [
+          -77.0169173,
+          38.8911
+        ],
+        [
+          -77.0172118,
+          38.8910177
+        ],
+        [
+          -77.0172133,
+          38.891093
+        ],
+        [
+          -77.0172153,
+          38.8911636
+        ],
+        [
+          -77.017216,
+          38.891187
+        ],
+        [
+          -77.0172183,
+          38.8913488
+        ],
+        [
+          -77.0172216,
+          38.8915116
+        ],
+        [
+          -77.0172239,
+          38.8915941
+        ],
+        [
+          -77.0172215,
+          38.8916797
+        ],
+        [
+          -77.0169231,
+          38.8916023
+        ],
+        [
+          -77.0164751,
+          38.8914844
+        ],
+        [
+          -77.01632,
+          38.8914436
+        ],
+        [
+          -77.0163051,
+          38.8914396
+        ],
+        [
+          -77.0160083,
+          38.8913628
+        ],
+        [
+          -77.0163016,
+          38.891278
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 66418590,
+    "version": 18,
+    "timestamp": "2026-04-02T19:00:12Z",
+    "url": "https://www.openstreetmap.org/way/66418590"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 426674750,
+      "version": 3,
+      "timestamp": "2021-02-23T22:09:19Z",
+      "url": "https://www.openstreetmap.org/way/426674750"
+    },
+    {
+      "type": "way",
+      "id": 426674751,
+      "version": 4,
+      "timestamp": "2021-02-23T21:25:04Z",
+      "url": "https://www.openstreetmap.org/way/426674751"
+    },
+    {
+      "type": "way",
+      "id": 426674752,
+      "version": 1,
+      "timestamp": "2016-06-22T21:51:51Z",
+      "url": "https://www.openstreetmap.org/way/426674752"
+    },
+    {
+      "type": "way",
+      "id": 426674753,
+      "version": 2,
+      "timestamp": "2016-10-13T17:01:16Z",
+      "url": "https://www.openstreetmap.org/way/426674753"
+    },
+    {
+      "type": "way",
+      "id": 426674754,
+      "version": 3,
+      "timestamp": "2021-02-23T21:25:04Z",
+      "url": "https://www.openstreetmap.org/way/426674754"
+    },
+    {
+      "type": "way",
+      "id": 426674755,
+      "version": 3,
+      "timestamp": "2021-02-23T22:09:19Z",
+      "url": "https://www.openstreetmap.org/way/426674755"
+    },
+    {
+      "type": "way",
+      "id": 426674756,
+      "version": 3,
+      "timestamp": "2016-10-13T17:01:17Z",
+      "url": "https://www.openstreetmap.org/way/426674756"
+    },
+    {
+      "type": "way",
+      "id": 426674757,
+      "version": 5,
+      "timestamp": "2026-04-02T19:00:12Z",
+      "url": "https://www.openstreetmap.org/way/426674757"
+    },
+    {
+      "type": "way",
+      "id": 426674758,
+      "version": 3,
+      "timestamp": "2021-02-23T21:25:04Z",
+      "url": "https://www.openstreetmap.org/way/426674758"
+    },
+    {
+      "type": "way",
+      "id": 426674759,
+      "version": 1,
+      "timestamp": "2016-06-22T21:51:52Z",
+      "url": "https://www.openstreetmap.org/way/426674759"
+    }
+  ],
+  "wikidata": "Q118314575",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:National Gallery of Art - East Building (55255091092).jpg",
+      "author": "ajay_suresh",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:National_Gallery_of_Art_-_East_Building_(55255091092).jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:East Building of the National Gallery of Art, 2019.jpg",
+      "author": "Difference engine",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:East_Building_of_the_National_Gallery_of_Art,_2019.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:National Gallery of Art - East Building.JPG",
+      "author": "AgnosticPreachersKid",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:National_Gallery_of_Art_-_East_Building.JPG",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:East Building - National Gallery of Art.JPG",
+      "author": "AgnosticPreachersKid",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:East_Building_-_National_Gallery_of_Art.JPG",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:View of landmarks - Newseum terrace.JPG",
+      "author": "AgnosticPreachersKid",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:View_of_landmarks_-_Newseum_terrace.JPG",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/dc-nga-east.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "National Gallery of Art, East Building — procedural, CC0-1.0, no textures. bun generators/dc-nga-east.ts",
+    "Map frame: x east, y north, z up, metres. The anchor is the area centroid of the OSM outline way/66418590 (lng -77.0166233, lat 38.8912353). Its 4th Street, Madison Drive and 3rd Street walls sit 0.5° anticlockwise of the compass, so the model is placed at bearing 359.5 and built square to them.",
+    "What it is: I. M. Pei's building of 1974–78 on the trapezoid left over between 4th Street, Madison Drive, 3rd Street and Pennsylvania Avenue, cut by a diagonal into two triangles. The isosceles triangle, its base on 4th Street facing the West Building and its axis on the West Building's, holds the galleries: a flat-topped parallelogram tower at each of its three corners, a lower bridge between the two west towers over the recessed entrance (the H of the west front), a lower range along Pennsylvania Avenue with a roof terrace, and the atrium in the middle under a glass space frame of tetrahedral pyramids. The right triangle holds the study centre (CASVA): a full-height bar along the diagonal that ends in the 19° knife-edge corner at 4th Street and Madison Drive, a tower at the 3rd Street end, and lower, glazed office floors with terraces between them on Madison Drive. A slot about 9 m wide separates the two triangles at both ends. All of it is clad in the West Building's pink Tennessee marble, almost windowless.",
+    "Covers and replaces: the outline way/66418590 and all ten building:parts (relation/6345236's parts: the three towers, the two bridges, the atrium body, the CASVA bar and tower, its lower floors and the high slab). The plaza's glass pyramids and fountain (over the underground concourse, not buildings in OSM) and the separate buildings way/910190978 and way/916497458 are not modelled.",
+    "Evidence",
+    "OSM (measured): outline 117 × 83 m; the west face (x -51.5) 83 m long, the south face (y -33.5) 117 m; the towers' parallelograms (west towers x -51.5 to -25.65, 19 m deep along 4th Street; the apex tower a rhombus from x 2 to 53.4 on the axis y 13.3); the bridges at 9.5–18 m; the slots; heights: towers, bar and CASVA tower 33, bridges and atrium body 18, the CASVA's west block 28–30, its lower floors (OSM 30) see below.",
+    "Published: Wikipedia, \"National Gallery of Art\" and \"East Building\" pages; NGA: Pei, 1978; the atrium of 16,000 sq ft under a skylight of tetrahedral glass pyramids on a space frame, on the West Building's axis; the same Tennessee marble; the two hexagonal Tower Galleries (2016) under skylights; a rooftop terrace; the knife-edge corner at 19°.",
+    "Photos (Wikimedia Commons): \"National Gallery of Art - East Building (55255091092).jpg\" (ajay_suresh, CC BY 4.0) and \"East Building of the National Gallery of Art, 2019.jpg\" (Difference engine, CC BY-SA 4.0), the west front square on; \"National-Gallery-of-Art-East-Building-I-M- Pei-National-Mall-Washington-DC-Apr-2014.jpg\" (Gunnar Klack, CC BY-SA 4.0), from 4th Street and Madison Drive, the knife edge; \"NGA- EastBldg.jpg\" (David Monack, CC BY-SA 3.0 US), the Pennsylvania Avenue front from above, with the atrium skylight seen through the gap; \"National Gallery of Art - East Building.JPG\" and \"East Building - National Gallery of Art.JPG\" (AgnosticPreachersKid, CC BY-SA 3.0), the Madison Drive side and the CASVA's glazed floors and terraces; \"View of landmarks - Newseum terrace.JPG\" (same), from the north-west, high.",
+    "USGS NAIP orthophoto (public domain): the plan of the atrium's space frame, the towers' hexagonal skylights, the roof terrace.",
+    "Measured from the west-front photo against the towers' 33 m: the bridge between 9.5 and 18 m (as OSM); from the Pennsylvania Avenue photo, the north range's wall top at about 19.5 m and the space frame's peaks at about 24 m.",
+    "Estimated: the CASVA's lower floors (OSM tags them 30 m; the photos show them about 17 m with a terrace, a balcony slab and a glass band), the atrium frame's lattice (9.5 m) and pyramid height (3 m), the skylights' sizes, the recess of the ground-floor glazing under the north range. The two triangles' long edges are drawn parallel (19.3° and 19.8° in OSM) and the isosceles one exactly symmetrical about its axis.",
+    "Simplified: the atrium's frame members, the west entrance's sculpture, the CASVA tower's recessed loggia (drawn as a window band) and the rooftop sculpture garden's planting are left out.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"dc-nga-east\", model \"dc-nga-east\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/dc-nga-east.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 999 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the dc-nga-east-glazing finish in the window colour."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}
