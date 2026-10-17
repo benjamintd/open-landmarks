@@ -1,0 +1,303 @@
+{
+  "id": "cathedral-of-our-lady-of-the-angels",
+  "name": "Cathedral of Our Lady of the Angels",
+  "anchor": [
+    -118.2455647,
+    34.0580782
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 28332,
+      "sha256": "e1475b6e57b723b986271d3be2ebd3fcce87df647eed2ec97f4dac79f2fefa54"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 28332,
+      "sha256": "e1475b6e57b723b986271d3be2ebd3fcce87df647eed2ec97f4dac79f2fefa54"
+    }
+  },
+  "triangles": 619,
+  "boundsBlenderM": [
+    [
+      -55.827,
+      -49.719,
+      0
+    ],
+    [
+      64.415,
+      66.317,
+      55.2
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -118.2448508,
+          34.0580378
+        ],
+        [
+          -118.2448402,
+          34.0579985
+        ],
+        [
+          -118.2450218,
+          34.0580816
+        ],
+        [
+          -118.2450358,
+          34.0580515
+        ],
+        [
+          -118.2450247,
+          34.0580471
+        ],
+        [
+          -118.2450768,
+          34.0579182
+        ],
+        [
+          -118.2451274,
+          34.0579362
+        ],
+        [
+          -118.2451829,
+          34.0578864
+        ],
+        [
+          -118.2451682,
+          34.0578816
+        ],
+        [
+          -118.2452583,
+          34.0577064
+        ],
+        [
+          -118.2453403,
+          34.0577574
+        ],
+        [
+          -118.2453779,
+          34.057732
+        ],
+        [
+          -118.2454128,
+          34.0577552
+        ],
+        [
+          -118.2454493,
+          34.0576986
+        ],
+        [
+          -118.245445,
+          34.0576953
+        ],
+        [
+          -118.2454491,
+          34.0576915
+        ],
+        [
+          -118.2454372,
+          34.057682
+        ],
+        [
+          -118.2454472,
+          34.0576734
+        ],
+        [
+          -118.2454415,
+          34.0576688
+        ],
+        [
+          -118.2454709,
+          34.0576435
+        ],
+        [
+          -118.245488,
+          34.0576287
+        ],
+        [
+          -118.2454918,
+          34.0576317
+        ],
+        [
+          -118.2455019,
+          34.0576229
+        ],
+        [
+          -118.2455119,
+          34.0576285
+        ],
+        [
+          -118.2455156,
+          34.0576285
+        ],
+        [
+          -118.2455183,
+          34.0576245
+        ],
+        [
+          -118.2461117,
+          34.058125
+        ],
+        [
+          -118.2461047,
+          34.0581364
+        ],
+        [
+          -118.2461725,
+          34.0581779
+        ],
+        [
+          -118.2459639,
+          34.0584085
+        ],
+        [
+          -118.2459518,
+          34.058404
+        ],
+        [
+          -118.245772,
+          34.0585314
+        ],
+        [
+          -118.2456612,
+          34.0584231
+        ],
+        [
+          -118.2457191,
+          34.0583675
+        ],
+        [
+          -118.2456847,
+          34.0583553
+        ],
+        [
+          -118.2456645,
+          34.0583903
+        ],
+        [
+          -118.2448712,
+          34.0581054
+        ],
+        [
+          -118.2448661,
+          34.0580897
+        ],
+        [
+          -118.2448508,
+          34.0580378
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 39550465,
+    "version": 14,
+    "timestamp": "2024-10-20T01:36:37Z",
+    "url": "https://www.openstreetmap.org/way/39550465"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 425993507,
+      "version": 4,
+      "timestamp": "2017-01-31T01:19:57Z",
+      "url": "https://www.openstreetmap.org/way/425993507"
+    }
+  ],
+  "wikidata": "Q1631067",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Exterior of Cathedral of Our Lady of the Angels dllu.jpg",
+      "author": "Daniel L. Lu (user:dllu)",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Exterior_of_Cathedral_of_Our_Lady_of_the_Angels_dllu.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Los Angeles Cathedral.jpg",
+      "author": "This image was produced by me, David Castor (user:dcastor). The pictures I submit to the Wikipedia Project are released to the public domain. This gives you the right to use them in any way you like, without any kind of notification. This said, I would still appreciate to be mentioned as the originator whenever you think it complies well with your use of the picture. A message to me about how it has been used would also be welcome. You are obviously not required to respond to these wishes of mine, just in a friendly manner encouraged to. (All my photos are placed in Category:Images by David Castor or a subcategory thereof.)",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Los_Angeles_Cathedral.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Our Lady of Angels, LA, CA, jjron 22.03.2012.jpg",
+      "author": "jjron",
+      "license": "GFDL 1.2",
+      "licenseUrl": "https://www.gnu.org/licenses/old-licenses/fdl-1.2.html",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Our_Lady_of_Angels,_LA,_CA,_jjron_22.03.2012.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Cathedral of Our Lady of Angels, Los Angeles.JPG",
+      "author": "Los Angeles",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Cathedral_of_Our_Lady_of_Angels,_Los_Angeles.JPG",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Los Angeles Cathedral-3.jpg",
+      "author": "This image was produced by me, David Castor (user:dcastor). The pictures I submit to the Wikipedia Project are released to the public domain. This gives you the right to use them in any way you like, without any kind of notification. This said, I would still appreciate to be mentioned as the originator whenever you think it complies well with your use of the picture. A message to me about how it has been used would also be welcome. You are obviously not required to respond to these wishes of mine, just in a friendly manner encouraged to. (All my photos are placed in Category:Images by David Castor or a subcategory thereof.)",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Los_Angeles_Cathedral-3.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/la-cathedral.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Cathedral of Our Lady of the Angels — procedural, CC0-1.0, no textures.",
+    "Rafael Moneo, 2002. Frame: x along the nave toward the altar end and the plaza (south-east, 135.4°), y toward the Hollywood Freeway (north-east), z up, metres; placed at bearing 45.4°. Origin is the area centroid of the OSM outline (way/39550465).",
+    "Masses, kept as Moneo drew them, with no right angles in plan:",
+    "the nave: sheer ochre concrete walls on the OSM outline, stepping up from the Grand Avenue end (24 m) to the middle (31 m), with the roof set down behind stone parapets so that from the street it is all wall;",
+    "the altar block at the plaza end, standing well above the nave;",
+    "the alabaster cross window: a glazed box set high on the altar block's plaza face, cut by a concrete cross, its top rising past the roof;",
+    "the great louvred alabaster window on Temple Street: a wall of broad dark louvres leaning out from the gable wall that rises above the nave, and a flatter one on the freeway side;",
+    "the campanile, a separate thin slab on a low base at the north-west corner by Grand Avenue, its top sloping, with stacked bell openings and the 25 ft cross: the tallest thing on the site.",
+    "Evidence",
+    "OSM way/39550465 (outline; its height=15 is wrong for the cathedral and comes from the county footprint, which covers the whole plaza and conference centre) and way/425993507 (campanile, 46.8 m).",
+    "LA County LARIAC 2020 lidar: campanile footprint 487281843809, 46.80 m. The county's cathedral footprint (2014092873370000, 14.95 m) spans the plaza deck and is not usable for the nave.",
+    "Published: nave 333 ft (101 m) long; interior ceiling 85 ft (26 m) (Wikipedia); campanile 156 ft with a 25 ft cross (olacathedral.org).",
+    "3DEP bare earth: 115.9–119.5 m round the building; y = 0 at the plaza / Hill Street side.",
+    "NAIP ortho: grey roof planes; shadows on Grand Avenue put the north-west side walls at about 20 m.",
+    "Photos (Wikimedia Commons): - \"Exterior of Cathedral of Our Lady of the Angels dllu.jpg\", Daniel L. Lu, CC BY-SA 4.0 — plaza (south-east) face head-on: cross window box. - \"Los Angeles Cathedral.jpg\", David C, CC0 — plaza face. - \"Our Lady of Angels, LA, CA, jjron 22.03.2012.jpg\", jjron, GFDL 1.2 — Temple Street (south-west) side: stepped gables, louvred window. - \"Cathedral of Our Lady of Angels, Los Angeles.JPG\", CC BY-SA 4.0 — from the freeway (east): altar block, cross, campanile. - \"Los Angeles Cathedral-3.jpg\", David C, CC0 — campanile and the north side from Grand Avenue.",
+    "Measured: plan (OSM), campanile height (lidar), ground. Published: length, ceiling, campanile cross. Estimated: the west end 24 m (shadows on Grand Avenue put the walls there at about 20 m), the nave parapets 31 m over the 26 m ceiling, the Temple Street gable 38 m, the altar block 41 m and 37 m and the cross box (photo proportions against the plaza face's width), the campanile shaft's thickness (6 m, on the lidar footprint's long axis, over a base on the whole footprint), window extents. The cantilevered roof slabs either side of the cross box are left out: they hang past the walls.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"la-cathedral\", model \"la-cathedral\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/la-cathedral.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 1793 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the la-cathedral-glazing finish in the window colour."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

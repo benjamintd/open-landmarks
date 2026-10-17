@@ -1,0 +1,268 @@
+{
+  "id": "vincent-thomas-bridge-west-tower",
+  "name": "Vincent Thomas Bridge (west tower)",
+  "anchor": [
+    -118.2738195,
+    33.7498368
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 40752,
+      "sha256": "49fcdcd76bd8e5e87301e3fb3b5d7328350dd7cd757ca040efd3187cc8070e8f"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 40752,
+      "sha256": "49fcdcd76bd8e5e87301e3fb3b5d7328350dd7cd757ca040efd3187cc8070e8f"
+    }
+  },
+  "triangles": 840,
+  "boundsBlenderM": [
+    [
+      -4.363,
+      -11.807,
+      0
+    ],
+    [
+      4.363,
+      11.807,
+      108.5
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -118.261967,
+          33.749495
+        ],
+        [
+          -118.2618786,
+          33.7493531
+        ],
+        [
+          -118.2627501,
+          33.7489959
+        ],
+        [
+          -118.2631157,
+          33.7488692
+        ],
+        [
+          -118.2635819,
+          33.748745
+        ],
+        [
+          -118.2640085,
+          33.7486564
+        ],
+        [
+          -118.2644534,
+          33.748593
+        ],
+        [
+          -118.2648525,
+          33.7485525
+        ],
+        [
+          -118.265334,
+          33.7485449
+        ],
+        [
+          -118.2660318,
+          33.7485829
+        ],
+        [
+          -118.2661846,
+          33.7486055
+        ],
+        [
+          -118.2669733,
+          33.7487222
+        ],
+        [
+          -118.2761755,
+          33.7501081
+        ],
+        [
+          -118.2766508,
+          33.7501765
+        ],
+        [
+          -118.2770865,
+          33.7502044
+        ],
+        [
+          -118.2776502,
+          33.7501968
+        ],
+        [
+          -118.2783297,
+          33.7501233
+        ],
+        [
+          -118.2788447,
+          33.7500245
+        ],
+        [
+          -118.2806729,
+          33.7495786
+        ],
+        [
+          -118.2825045,
+          33.749116
+        ],
+        [
+          -118.2832461,
+          33.7489288
+        ],
+        [
+          -118.2836225,
+          33.7488337
+        ],
+        [
+          -118.283592,
+          33.7490415
+        ],
+        [
+          -118.2831468,
+          33.7491444
+        ],
+        [
+          -118.2820836,
+          33.7493903
+        ],
+        [
+          -118.2818278,
+          33.7494494
+        ],
+        [
+          -118.2814713,
+          33.7495305
+        ],
+        [
+          -118.2815337,
+          33.7496158
+        ],
+        [
+          -118.2813714,
+          33.7496431
+        ],
+        [
+          -118.279902,
+          33.7499308
+        ],
+        [
+          -118.278674,
+          33.7502246
+        ],
+        [
+          -118.2782444,
+          33.7502956
+        ],
+        [
+          -118.277443,
+          33.7503564
+        ],
+        [
+          -118.2767574,
+          33.7503387
+        ],
+        [
+          -118.2761907,
+          33.7502804
+        ],
+        [
+          -118.2748591,
+          33.750065
+        ],
+        [
+          -118.2662298,
+          33.7487679
+        ],
+        [
+          -118.2657697,
+          33.7487121
+        ],
+        [
+          -118.2653096,
+          33.748702
+        ],
+        [
+          -118.264621,
+          33.7487172
+        ],
+        [
+          -118.2640664,
+          33.7488059
+        ],
+        [
+          -118.2634783,
+          33.74893
+        ],
+        [
+          -118.2628841,
+          33.7491226
+        ],
+        [
+          -118.261967,
+          33.749495
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 1011852501,
+    "version": 5,
+    "timestamp": "2026-03-10T22:31:38Z",
+    "url": "https://www.openstreetmap.org/way/1011852501"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q496944",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/la-vincent-thomas-bridge.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Vincent Thomas Bridge towers, San Pedro – Terminal Island (1963 suspension bridge, main span 457 m) — procedural, CC0-1.0. bun generators/la-vincent-thomas-bridge.ts",
+    "One tower, placed twice (east and west). Map frame: x across the bridge, y along it, z up, metres; origin on the ground at the tower's centre. Placed at bearing 100.2°, the deck's direction between the towers. Only the towers: the deck, the main cables and the hangers are left to the map, as the batch brief asks. (The cables would have to sag 50 m over a deck the map draws on the ground, so they would float.)",
+    "What makes it the Vincent Thomas Bridge: the two tall, slender green steel towers, each two box legs tied by a deep strut at the top over a double-X braced panel, another double-X panel two-thirds of the way up above the deck, a strut under the deck, and two more X panels below it.",
+    "Sources:",
+    "Position: OSM has no tower nodes (way/1011852501 is the bridge's area, mistagged cable-stayed). Both towers from the LA County 2020 lidar surface model on a 1.5 m grid along the deck (bearing 280.2°): tower tops 229.2 m east-south-east and 227.0 m west-north-west of -118.2714, 33.7495, 456 m apart (published main span 1,500 ft, 457 m); the tops' cross strut spans 23 m, the deck's centre line 3 m to its south of that point. USGS NAIP orthophoto: both towers' bracing and the deck line (100.3° between the tower bases).",
+    "One material: the towers are painted one green all over, saddles too.",
+    "Heights (lidar): tower tops 111–112 m (east) and 107–111 m (west); deck at the towers 56–57 m. Ground (USGS 3DEP) 4.5–4.6 m at the east tower, 1.6–2.8 m at the west. One model serves both, so its top is 108.5 m over its lowest ground: within a metre of each tower.",
+    "Published: towers 365 ft (111 m) above the water (Wikipedia \"Vincent Thomas Bridge\"; Caltrans).",
+    "Photos (Wikimedia Commons): \"Vincent Thomas Bridge (2008) 01\" and \"(2008) 02\" (Nandaro, CC BY-SA 3.0; the west tower from San Pedro, below the deck, and both towers); \"The Vincent Thomas Bridge\" (Busition, CC BY-SA 4.0); \"Vincent Thomas Bridge 2026-08\" (Jengod, CC BY-SA 4.0; both towers broadside from the south); \"VTbridge2009\" (Regular Daddy, CC BY-SA 3.0); \"Vincent Thomas Bridge-2\" (Nitro101, CC BY 2.0; a tower from the deck); \"Vincent Thomas Bridge aerial view\" (US Coast Guard, public domain; from above).",
+    "Estimated from photos, scaled by the lidar: the legs' section (3.4 x 4.0 m at the foot, 2.8 x 3.0 m at the top), every strut's and panel's height, members about a metre wide.",
+    "Colour: the towers' green from daylight photos, pulled to the palette's lightness.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"la-vincent-thomas-bridge-west\", model \"la-vincent-thomas-bridge\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/la-vincent-thomas-bridge.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

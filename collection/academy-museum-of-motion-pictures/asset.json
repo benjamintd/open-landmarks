@@ -1,0 +1,279 @@
+{
+  "id": "academy-museum-of-motion-pictures",
+  "name": "Academy Museum of Motion Pictures",
+  "anchor": [
+    -118.3607923,
+    34.0632679
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 40664,
+      "sha256": "7a68828a3f20ba892f86c4317a612b916dceb25683442762f808477f6b9a2f8c"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 40664,
+      "sha256": "7a68828a3f20ba892f86c4317a612b916dceb25683442762f808477f6b9a2f8c"
+    }
+  },
+  "triangles": 944,
+  "boundsBlenderM": [
+    [
+      -45.771,
+      -27.976,
+      0
+    ],
+    [
+      35.805,
+      85.207,
+      40
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -118.3608033,
+          34.0635093
+        ],
+        [
+          -118.360566,
+          34.0634817
+        ],
+        [
+          -118.36056,
+          34.0634731
+        ],
+        [
+          -118.3604734,
+          34.0634623
+        ],
+        [
+          -118.3604604,
+          34.0634536
+        ],
+        [
+          -118.3604575,
+          34.0634436
+        ],
+        [
+          -118.3604464,
+          34.0632759
+        ],
+        [
+          -118.3604377,
+          34.0632712
+        ],
+        [
+          -118.3604357,
+          34.0632428
+        ],
+        [
+          -118.3604458,
+          34.0632396
+        ],
+        [
+          -118.3604426,
+          34.0631262
+        ],
+        [
+          -118.3604283,
+          34.0631213
+        ],
+        [
+          -118.3604199,
+          34.0631147
+        ],
+        [
+          -118.3604188,
+          34.0630787
+        ],
+        [
+          -118.3604268,
+          34.0630564
+        ],
+        [
+          -118.3604387,
+          34.0630399
+        ],
+        [
+          -118.360462,
+          34.0630247
+        ],
+        [
+          -118.3604947,
+          34.0630207
+        ],
+        [
+          -118.3612216,
+          34.0631093
+        ],
+        [
+          -118.3612467,
+          34.0631259
+        ],
+        [
+          -118.3612584,
+          34.0631482
+        ],
+        [
+          -118.3612615,
+          34.0631666
+        ],
+        [
+          -118.3612582,
+          34.0634998
+        ],
+        [
+          -118.3612527,
+          34.0635101
+        ],
+        [
+          -118.3612434,
+          34.0635139
+        ],
+        [
+          -118.3612288,
+          34.0635149
+        ],
+        [
+          -118.361225,
+          34.0635313
+        ],
+        [
+          -118.3612159,
+          34.0635423
+        ],
+        [
+          -118.3612017,
+          34.0635463
+        ],
+        [
+          -118.3611316,
+          34.0635381
+        ],
+        [
+          -118.361128,
+          34.0635429
+        ],
+        [
+          -118.361116,
+          34.0635457
+        ],
+        [
+          -118.3610189,
+          34.0635338
+        ],
+        [
+          -118.3609898,
+          34.0635303
+        ],
+        [
+          -118.3608699,
+          34.0635176
+        ],
+        [
+          -118.3608503,
+          34.0635149
+        ],
+        [
+          -118.3608252,
+          34.0635119
+        ],
+        [
+          -118.3608033,
+          34.0635093
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 426357430,
+    "version": 9,
+    "timestamp": "2026-10-10T05:24:41Z",
+    "url": "https://www.openstreetmap.org/way/426357430"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 1360732450,
+      "version": 1,
+      "timestamp": "2025-02-17T21:55:50Z",
+      "url": "https://www.openstreetmap.org/way/1360732450"
+    },
+    {
+      "type": "way",
+      "id": 1360732451,
+      "version": 1,
+      "timestamp": "2025-02-17T21:55:50Z",
+      "url": "https://www.openstreetmap.org/way/1360732451"
+    },
+    {
+      "type": "way",
+      "id": 913293589,
+      "version": 3,
+      "timestamp": "2025-02-17T21:55:50Z",
+      "url": "https://www.openstreetmap.org/way/913293589"
+    },
+    {
+      "type": "way",
+      "id": 1113417080,
+      "version": 3,
+      "timestamp": "2025-02-17T21:55:50Z",
+      "url": "https://www.openstreetmap.org/way/1113417080"
+    },
+    {
+      "type": "way",
+      "id": 1113417081,
+      "version": 1,
+      "timestamp": "2022-11-15T18:42:32Z",
+      "url": "https://www.openstreetmap.org/way/1113417081"
+    }
+  ],
+  "wikidata": "Q6941059",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/la-academy-museum.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Academy Museum of Motion Pictures, Wilshire Blvd at Fairfax, Los Angeles: the Saban Building (former May Company, Albert C. Martin and Samuel Marx, 1939) and Renzo Piano's sphere (David Geffen Theater, 2021) behind it, linked by glass bridges — one model for both. Original procedural geometry, CC0-1.0. bun generators/la-academy-museum.ts [out.glb]",
+    "Map frame before placement: u along Wilshire (east), v toward the north, z up, metres; origin at the area centroid of the Saban outline (way/426357430: -118.3607923, 34.0632679), on the ground (flat, 3DEP and lidar ~50.8 m). Placed at bearing 7.8°, Wilshire's rotation here.",
+    "Identity: the pale limestone box with the gold-tiled cylinder on the Wilshire/Fairfax corner, framed by tall black granite slabs; the black granite base; and the sphere, concrete below and a glass dome above.",
+    "Sources:",
+    "Plan: OSM way/426357430 (Saban, 3,862 m2; height 34.8), way/1360732450 (Sphere Building, height 39.6) with its parts 1360732451 (dome, a circle ~42.6 m across), 913293589, 1113417080 (the base between the sphere and the Saban) and 1113417081.",
+    "Heights: LA County lidar DSM (LARIAC, 2.5 m grid, sampled 2026): ground 50.8 m; Saban south range 23.5 m, north range 28 m, central penthouse 34 m; the corner frame ~29 m; a 5–8 m canopy at the corner. The lidar predates the sphere; its 39.6 m is OSM's height.",
+    "Photos (Wikimedia Commons): a5 \"The May Company Building 2021\" (Downtowngal, CC BY-SA 4.0; the corner from the south-west across Wilshire/Fairfax: gold cylinder, black frame, window rows, black base); a6 \"Academy Museum (51378465751)\" (Eden, Janine and Jim, CC BY 2.0; corner from the south-east); a1 \"The Sphere Academy Museum 2021\" and a2 \"Sphere of the Academy Museum of Motion Pictures\" (Downtowngal, CC BY-SA 4.0; the sphere from the north-west and north-east: concrete lower half, glass dome, bridges and stair tower to the Saban); a3 \"Academy Museum of Motion Pictures (February 2025)\" (Fred Cherrygarden, CC BY-SA 4.0; the glazed north face and a bridge).",
+    "Estimated: the cylinder (7.7 m radius, on the outline's rounded corner) and the frame slabs (a5), the window panels (one per bay, two floors tall, after a5's rows), the sphere's centre height (radius 21 m from OSM, top at 39.6 m, so it sinks a little into the ground as it seems to behind the fence in a2), the glass dome starting just above the equator, the bridges' levels (a1). Left out: the stair tower, the ACADEMY MUSEUM lettering on the frame, the gold tiles' banding, the sphere's panel joints and the dome's steel grid.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"la-academy-museum\", model \"la-academy-museum\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/la-academy-museum.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 138 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the la-academy-museum-glazing finish in the window colour.",
+    "To fit six materials, folded la-academy-museum-glass into la-academy-museum-academy-concrete (ΔE 9.7)."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

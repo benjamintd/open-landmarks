@@ -1,0 +1,308 @@
+{
+  "id": "tcl-chinese-theatre",
+  "name": "TCL Chinese Theatre",
+  "anchor": [
+    -118.340951,
+    34.1020843
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 44176,
+      "sha256": "3e92e5f8b2d9cb70e685d584235d102834c85ac6e70c3aff5d7b0dab3b1f349b"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 44176,
+      "sha256": "3e92e5f8b2d9cb70e685d584235d102834c85ac6e70c3aff5d7b0dab3b1f349b"
+    }
+  },
+  "triangles": 785,
+  "boundsBlenderM": [
+    [
+      -23.11,
+      -44.18,
+      0
+    ],
+    [
+      20.97,
+      31.5,
+      26.5
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -118.3407269,
+          34.1016856
+        ],
+        [
+          -118.3408633,
+          34.1016857
+        ],
+        [
+          -118.3408633,
+          34.101709
+        ],
+        [
+          -118.3408426,
+          34.101709
+        ],
+        [
+          -118.3408375,
+          34.1017036
+        ],
+        [
+          -118.3408162,
+          34.101708
+        ],
+        [
+          -118.3407949,
+          34.1017163
+        ],
+        [
+          -118.3407775,
+          34.1017255
+        ],
+        [
+          -118.3407596,
+          34.1017401
+        ],
+        [
+          -118.3407455,
+          34.101758
+        ],
+        [
+          -118.3407391,
+          34.1017699
+        ],
+        [
+          -118.3407436,
+          34.1018306
+        ],
+        [
+          -118.3407582,
+          34.1018515
+        ],
+        [
+          -118.3407894,
+          34.101828
+        ],
+        [
+          -118.3408183,
+          34.1018582
+        ],
+        [
+          -118.3408198,
+          34.1018446
+        ],
+        [
+          -118.3409068,
+          34.101849
+        ],
+        [
+          -118.3408983,
+          34.1018082
+        ],
+        [
+          -118.3409558,
+          34.1018138
+        ],
+        [
+          -118.3409752,
+          34.1018137
+        ],
+        [
+          -118.3410261,
+          34.101808
+        ],
+        [
+          -118.3410336,
+          34.1018491
+        ],
+        [
+          -118.3411049,
+          34.1018454
+        ],
+        [
+          -118.3411029,
+          34.1018853
+        ],
+        [
+          -118.3411211,
+          34.101891
+        ],
+        [
+          -118.3411379,
+          34.1018805
+        ],
+        [
+          -118.3411606,
+          34.1018604
+        ],
+        [
+          -118.3411741,
+          34.1018414
+        ],
+        [
+          -118.3411798,
+          34.1018282
+        ],
+        [
+          -118.3411828,
+          34.1017826
+        ],
+        [
+          -118.341181,
+          34.101767
+        ],
+        [
+          -118.3411753,
+          34.1017548
+        ],
+        [
+          -118.3411632,
+          34.1017402
+        ],
+        [
+          -118.3411511,
+          34.1017288
+        ],
+        [
+          -118.3411356,
+          34.1017188
+        ],
+        [
+          -118.3411122,
+          34.1017088
+        ],
+        [
+          -118.3410829,
+          34.1017057
+        ],
+        [
+          -118.3410817,
+          34.1017093
+        ],
+        [
+          -118.3410595,
+          34.1017096
+        ],
+        [
+          -118.341059,
+          34.1016854
+        ],
+        [
+          -118.3410812,
+          34.1016851
+        ],
+        [
+          -118.3410812,
+          34.1016879
+        ],
+        [
+          -118.3412015,
+          34.1016868
+        ],
+        [
+          -118.3412018,
+          34.1016971
+        ],
+        [
+          -118.3411999,
+          34.1017554
+        ],
+        [
+          -118.3411996,
+          34.1018154
+        ],
+        [
+          -118.3411886,
+          34.1018453
+        ],
+        [
+          -118.3411726,
+          34.1018656
+        ],
+        [
+          -118.341175,
+          34.1022549
+        ],
+        [
+          -118.3411849,
+          34.1022557
+        ],
+        [
+          -118.3411885,
+          34.1023685
+        ],
+        [
+          -118.3407302,
+          34.1023695
+        ],
+        [
+          -118.3407236,
+          34.101866
+        ],
+        [
+          -118.3407269,
+          34.1016856
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 424105908,
+    "version": 13,
+    "timestamp": "2026-03-25T16:36:56Z",
+    "url": "https://www.openstreetmap.org/way/424105908"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q1122565",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/la-chinese-theatre.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "TCL Chinese Theatre (Grauman's Chinese, 1927, Meyer & Holler), Hollywood — original procedural geometry, CC0-1.0. bun generators/la-chinese-theatre.ts [out.glb]",
+    "Map frame: x east, y north, z up, metres; origin at the OSM outline's centroid on the lowest ground under it (the east end of the Hollywood Blvd frontage). Bearing 0: the outline is square to north; Hollywood Blvd runs along the south (−y) edge.",
+    "What makes it the Chinese Theatre: the gate over the entrance — a steep green-bronze pagoda roof on a pale stone frame with upswept horns, carried by two coral-red columns, a dark recess behind; low wings each side with a coral coping; the curved forecourt walls ending on the boulevard in two screen walls with copper-capped obelisks; the plain auditorium and stage house behind. The forecourt paving is the map's.",
+    "Sources:",
+    "Plan: OSM way/424105908 (one outline: auditorium, stage house, the gate's 12 m projection, the wings, the curved forecourt walls and the two screen walls on the boulevard). No building:parts.",
+    "Heights: LA County 2006 lidar surface model (2 m grid) over USGS 3DEP bare earth (lowest ground 118.2 m): stage house 22 m; auditorium roof a gable, eaves 13 m, ridge 17.5 m over the middle, flat 12.5 m at its front; wings 9.5 m; gate frame 16 m; pagoda ridge 22.5–23 m; screen walls 14 m; curved forecourt walls ≈ 10 m. LARIAC 2020 footprint 458449859785: 18.1 m. The lidar sits ≈ 2 m west of the OSM outline; plan follows OSM.",
+    "Gate proportions: photo p1 (straight on, from the forecourt), scaled by the OSM projection's 11.8 m width: columns 1.7 m across, 9.5 m tall, 4.5 m either side of the gate's axis; piers with coral panels to 13.8 m; frame to 16.2 m; horns to ≈ 23.5 m; ridge finials to ≈ 24.5 m.",
+    "Obelisks: ≈ 20.5 m with their caps, from photos p2 and p3 against the 14 m screen walls.",
+    "Colours: pagoda roof the sage bronze-green of p1/p5 in sun; columns the coral red of every photo, pulled to the palette's lightness; walls pale stone; the recess a dark grey-green.",
+    "Photos (Wikimedia Commons): p1 \"Grauman's Chinese Theatre, by Carol Highsmith fixed & straightened\" (Carol M. Highsmith, public domain, from the forecourt, south); p2 \"Grauman's Chinese Theatre 2\" (RightCowLeftCoast, CC BY-SA 4.0, from across Hollywood Blvd, south); p3 \"Grauman's Chinese Theatre (2571115290)\" (Rob Young, CC BY 2.0, south); p4 \"Grauman's Chinese Theatre\" (Antoine Taveneaux, CC BY-SA 3.0, south-west); p5 \"Grauman's Chinese Theatre juillet 2022\" (Benoît Prieur, CC0, south-east, the auditorium box behind); p6 \"The Chinese Movie Theater (TCL), Hollywood\" (Sergiy Galyonkin, CC BY-SA 4.0, the columns and west forecourt wall).",
+    "Estimated: the pagoda roof's depth (no photo from the side shows it square on; taken as 7 m from p4), the curved walls' height (lidar 8–12 m, drawn at 10 m), the horns' curve. Left out: the guardian lions, the dragon relief (drawn as a plain bronze panel), the masks on the columns, the screen walls' shrine niches and the signs.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"la-chinese-theatre\", model \"la-chinese-theatre\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/la-chinese-theatre.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

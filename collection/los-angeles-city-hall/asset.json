@@ -1,0 +1,332 @@
+{
+  "id": "los-angeles-city-hall",
+  "name": "Los Angeles City Hall",
+  "anchor": [
+    -118.2427693,
+    34.0536925
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 131620,
+      "sha256": "80bf6220ba3415d895e0688e7c9edb25f87f66657a6a4638b3cf939da39312f1"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 131620,
+      "sha256": "80bf6220ba3415d895e0688e7c9edb25f87f66657a6a4638b3cf939da39312f1"
+    }
+  },
+  "triangles": 2726,
+  "boundsBlenderM": [
+    [
+      -70.054,
+      -74.892,
+      0
+    ],
+    [
+      70.054,
+      74.892,
+      138.4
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -118.2431149,
+          34.0531703
+        ],
+        [
+          -118.2431181,
+          34.0531669
+        ],
+        [
+          -118.2432033,
+          34.0532217
+        ],
+        [
+          -118.2432915,
+          34.0532784
+        ],
+        [
+          -118.2432865,
+          34.0532838
+        ],
+        [
+          -118.24353,
+          34.0534403
+        ],
+        [
+          -118.2434217,
+          34.0535559
+        ],
+        [
+          -118.2434167,
+          34.0535528
+        ],
+        [
+          -118.2432067,
+          34.0537771
+        ],
+        [
+          -118.2432365,
+          34.0537962
+        ],
+        [
+          -118.2431996,
+          34.0538357
+        ],
+        [
+          -118.2431959,
+          34.0538332
+        ],
+        [
+          -118.2431171,
+          34.0539174
+        ],
+        [
+          -118.2430389,
+          34.0540009
+        ],
+        [
+          -118.2430429,
+          34.0540035
+        ],
+        [
+          -118.2430044,
+          34.0540447
+        ],
+        [
+          -118.2429772,
+          34.0540271
+        ],
+        [
+          -118.2427658,
+          34.0542529
+        ],
+        [
+          -118.2427708,
+          34.0542561
+        ],
+        [
+          -118.242663,
+          34.0543713
+        ],
+        [
+          -118.2424175,
+          34.0542135
+        ],
+        [
+          -118.2424152,
+          34.0542161
+        ],
+        [
+          -118.2423288,
+          34.0541606
+        ],
+        [
+          -118.2422426,
+          34.0541051
+        ],
+        [
+          -118.2422459,
+          34.0541015
+        ],
+        [
+          -118.2420353,
+          34.0539661
+        ],
+        [
+          -118.2420364,
+          34.0539649
+        ],
+        [
+          -118.2420052,
+          34.0539448
+        ],
+        [
+          -118.2421109,
+          34.0538319
+        ],
+        [
+          -118.2421148,
+          34.0538344
+        ],
+        [
+          -118.2423583,
+          34.0535744
+        ],
+        [
+          -118.2423513,
+          34.0535699
+        ],
+        [
+          -118.2424241,
+          34.0534921
+        ],
+        [
+          -118.2424415,
+          34.0534735
+        ],
+        [
+          -118.2424637,
+          34.0534499
+        ],
+        [
+          -118.2425225,
+          34.0533871
+        ],
+        [
+          -118.2425283,
+          34.0533908
+        ],
+        [
+          -118.2427705,
+          34.0531321
+        ],
+        [
+          -118.2427647,
+          34.0531284
+        ],
+        [
+          -118.2428717,
+          34.0530141
+        ],
+        [
+          -118.2431149,
+          34.0531703
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "relation",
+    "id": 6333145,
+    "version": 11,
+    "timestamp": "2026-10-06T02:14:27Z",
+    "url": "https://www.openstreetmap.org/relation/6333145"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 443103746,
+      "version": 2,
+      "timestamp": "2021-07-06T16:58:11Z",
+      "url": "https://www.openstreetmap.org/way/443103746"
+    },
+    {
+      "type": "way",
+      "id": 443103747,
+      "version": 2,
+      "timestamp": "2021-07-06T16:58:11Z",
+      "url": "https://www.openstreetmap.org/way/443103747"
+    },
+    {
+      "type": "way",
+      "id": 443103748,
+      "version": 4,
+      "timestamp": "2021-07-06T16:58:11Z",
+      "url": "https://www.openstreetmap.org/way/443103748"
+    },
+    {
+      "type": "way",
+      "id": 443103749,
+      "version": 3,
+      "timestamp": "2026-10-06T02:14:27Z",
+      "url": "https://www.openstreetmap.org/way/443103749"
+    },
+    {
+      "type": "way",
+      "id": 443103750,
+      "version": 2,
+      "timestamp": "2021-07-06T16:58:11Z",
+      "url": "https://www.openstreetmap.org/way/443103750"
+    }
+  ],
+  "wikidata": "Q368489",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Los Angeles City Hall dllu.jpg",
+      "author": "Daniel L. Lu (user:dllu)",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Los_Angeles_City_Hall_dllu.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Los Angeles City Hall (from the West).jpg",
+      "author": "Tim Ahem",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Los_Angeles_City_Hall_(from_the_West).jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Los Angeles City Hall 2008.jpg",
+      "author": "Photo: Andreas Praefcke",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Los_Angeles_City_Hall_2008.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Los Angeles City Hall 2013.jpg",
+      "author": "Michael J Fromholtz",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Los_Angeles_City_Hall_2013.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Los_Angeles_City_Hall_2013.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Los Angeles City Hall 08.jpg",
+      "author": "Visitor7",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Los_Angeles_City_Hall_08.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/la-city-hall.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Los Angeles City Hall — procedural, CC0-1.0, no textures.",
+    "Also the small kit the other B2 Civic Center models import (`la-union-station`, `la-cathedral`): softened prisms with bevelled tops, ear-clipped caps, wall panels and arched panels, hip and gable roofs, stepped pyramids. Importing this file builds nothing; City Hall is only written when it is run directly.",
+    "Frame: x toward Main Street (south-east), y toward Temple Street (north-east), z up, metres; placed at bearing 37.8°, the long axis of the OSM outline. Origin is the centre of the tower, 0.25 m from the outline's area centroid, so the model is symmetrical about both axes where the building is.",
+    "Evidence",
+    "OSM relation/6333145 (outline with five courtyards as inner rings) and building:parts way/443103746 (wings, 46.5 m, gabled red tile, roof:height 4), way/443103747 (tower, 110 m), way/443103748 (tower, 98.5 m), way/443103750 (top square, 121.6 m), way/443103749 (pyramid, 138.4 m, roof:height 11). All transformed to this frame and used as given, mirrored about the tower where the plan is symmetrical.",
+    "LA County LARIAC 2020 lidar footprint 202000039849: 138.62 m above the lowest ground (its ELEV is the roof top, 226.71 m; the lowest ground under the footprint is 88.1 m). Published: 138 m / 454 ft, 32 floors (Wikipedia). OSM part heights agree with the lidar top.",
+    "USGS 3DEP bare earth (EPSG:3857 getSamples): Spring Street side 94.1 m, Main Street side 88.3–89.4 m, so the ground falls ~6 m from west to east; y = 0 is the Main Street side. The Spring Street front (west) starts its detail 6 m up.",
+    "USGS NAIP ortho: red tile hip roofs on the two long wings either side of the tower, flat roofs elsewhere, courtyards.",
+    "Photos (Wikimedia Commons): - \"Los Angeles City Hall dllu.jpg\", Daniel L. Lu, CC BY-SA 4.0 — west (Spring St) front, head-on: tower widths, shoulders, colonnade, lantern, pyramid, wings, loggia with five arches. - \"Los Angeles City Hall (from the West).jpg\", Tim Ahem, CC BY 3.0 — high oblique from the west: corner buttresses, colonnade on two faces. - \"Los Angeles City Hall 2008.jpg\", Andreas Praefcke, CC BY 3.0 — west front from the south-west. - \"Looking north on Main St from 1st St, Los Angeles 2020 ...\", Keizers, CC BY-SA 4.0 — south and east faces of the tower from the south-east. - \"Los Angeles City Hall 2013.jpg\", Michael J Fromholtz, public domain — tower and wings from the south-west. - \"Los Angeles City Hall 08.jpg\", Visitor7, CC BY-SA 3.0 — podium elevation: granite base, tall arched windows, cornice.",
+    "Measured: outline, courtyards, part plans and heights (OSM + lidar), ground slope (3DEP). Published: overall height. Estimated from photos: podium height (23.5 m), wing eave (42.5 m; OSM gives the 46.5 m ridge and the 4 m roof), the corner buttresses' size and stepped tops, the colonnade's depth, lantern/pyramid split, window bay counts and groups, the loggia's arches. Doubt: OSM gives the Spring/Main arm 110 m and the Temple/1st arm 98.5 m, but photos from the west and from the south-east both show the outer arms stopping at the same shoulder with a 20 m core carrying on, so the tower is modelled four-way symmetrical: arms to 98.5 m, core to 121.6 m. Courtyard floors (z 9) are invented.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"la-city-hall\", model \"la-city-hall\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/la-city-hall.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

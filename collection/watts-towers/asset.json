@@ -1,0 +1,130 @@
+{
+  "id": "watts-towers",
+  "name": "Watts Towers",
+  "anchor": [
+    -118.24105,
+    33.93872
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 16,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 219576,
+      "sha256": "101f97fd5c32ea5380a1f986009756421895fd3e240561036ba2ad0658cba5d7"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 219576,
+      "sha256": "101f97fd5c32ea5380a1f986009756421895fd3e240561036ba2ad0658cba5d7"
+    }
+  },
+  "triangles": 4539,
+  "boundsBlenderM": [
+    [
+      -28.549,
+      -5.25,
+      0
+    ],
+    [
+      21.117,
+      20.621,
+      30.9
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -118.2413591,
+          33.9386753
+        ],
+        [
+          -118.2413564,
+          33.9386728
+        ],
+        [
+          -118.2408226,
+          33.9386755
+        ],
+        [
+          -118.2408213,
+          33.9386798
+        ],
+        [
+          -118.2413346,
+          33.9389052
+        ],
+        [
+          -118.2413386,
+          33.9389034
+        ],
+        [
+          -118.2413591,
+          33.9386753
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "relation",
+    "id": 9320963,
+    "version": 3,
+    "timestamp": "2019-03-30T22:42:40Z",
+    "url": "https://www.openstreetmap.org/relation/9320963"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q445256",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Highsmithwattstowers.jpg",
+      "author": "Carol M. Highsmith",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Highsmithwattstowers.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Highsmithwattstowers.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/la-watts-towers.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Watts Towers (Simon Rodia, built 1921-1954), Watts, Los Angeles — procedural, CC0-1.0. bun generators/la-watts-towers.ts",
+    "Map frame: x east, y north, z up, metres; bearing 0. The anchor (-118.24105, 33.93872) is 0.3 m east of the Center Tower's foot (OSM node 4113030224); positions below are metres from it. y = 0 is the ground of the lot, which is flat (LA County lidar ground 31.4-31.9 m; 3DEP 31.6-32.0 m).",
+    "What makes it the Watts Towers: two very tall, slender, ringed lattice spires standing close together, wider and bulging at the foot and tapering to a needle; a third, half as tall, a few metres off; a scatter of lower spires round them; all a grey mortar-and-steel lattice, inside a low mortar wall round a triangular lot.",
+    "Drawn for the map rather than as the real lattice: each spire is a solid core cone in a darker tone (the dense lattice seen through, as it reads from a distance) inside a cage of chunky pale posts and rings. Rings are every 3 m rather than every metre, and 0.5 m thick rather than a few centimetres, so they hold at phone size.",
+    "Sources:",
+    "OSM: the four man_made=tower nodes 4113030222-225 of the site relation 9320963 (Watts Towers, NRHP 77000297): the Center Tower's foot (node 224, by the anchor), the East Tower's (node 223, 5.5 m east-south- east of it), the West Tower's (node 225, 7 m west-north-west), and a lower spire (node 222). The lot: way/40186827 (the state historic park), a right triangle 51 m along 107th Street, 27 m on the west, its long side on the old railway; the wall follows it.",
+    "Lidar (LA County 2020 surface model, 1.5 m grid): the lattice is too open for the laser to find its tops, but it confirms the two tall towers' feet (returns to 20 m at the Center Tower's node, to 14 m at the East Tower's), the third and a lower spire (4 m and 9 m returns at nodes 225 and 222), and an otherwise open lot with low structures.",
+    "Published (Wikipedia, \"Watts Towers\"; NPS NRHP nomination): seventeen interconnected structures; the tallest 99.5 ft (30.3 m); West Tower 55 ft (16.8 m), Center 99.5 ft (30.3 m), East 97.75 ft (29.8 m); steel rebar and mesh, mortar, mosaic of tile, glass and shells.",
+    "Photos (Wikimedia Commons): \"Highsmithwattstowers.jpg\" (Carol M. Highsmith, public domain; from 107th Street to the south: the West Tower at left, the arch, the two tall towers, lower spires to the right), \"Watts Towers (5872095388)\" and \"(5872095286)\" (InSapphoWeTrust, CC BY-SA 2.0; from the street along the wall, and from below), \"Watts-towers.jpg\" (CC BY-SA 3.0; from the south-west, the fence and wall in front), \"Watts Towers in Los Angeles 02/05/08\" (Levi Clancy, CC BY-SA 4.0; the lattice, rings and colour), \"Part of Watts Towers...\" (Carol M. Highsmith, public domain, four; the cage rings, the arches between towers, the wall and its gate).",
+    "Colour: weathered grey mortar over the steel, tinted green and blue by the mosaic (photos), pulled to the palette's lightness: pale mortar for the cage, a grey-green for the lattice core, a warm grey for the wall.",
+    "Estimated from photos, scaled by the published heights: each tower's profile (the tall towers about 4 m across at the foot, a little wider just above it, then a long concave taper to a needle: 0.85 of the foot's width at a quarter of the height, 0.5 at half, 0.25 at three quarters, measured on the Highsmith photo; the West Tower 2 m across), the arch between the West and Center towers (about 11 m high), and the lower spires' heights (5-11 m) and places, which only node 222 records; the wall's height (2.2 m).",
+    "Left out: the fine lattice and its mosaic, the gazebo, the Ship of Marco Polo's hull, the fountains, the other small arches.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"la-watts-towers\", model \"la-watts-towers\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/la-watts-towers.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

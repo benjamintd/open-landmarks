@@ -1,0 +1,233 @@
+{
+  "id": "christ-cathedral",
+  "name": "Christ Cathedral",
+  "anchor": [
+    -117.898896,
+    33.787402
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 44464,
+      "sha256": "1bef5db60b6c50736976580a43f0087e1960390f18709803df6360237cb28d16"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 44464,
+      "sha256": "1bef5db60b6c50736976580a43f0087e1960390f18709803df6360237cb28d16"
+    }
+  },
+  "triangles": 689,
+  "boundsBlenderM": [
+    [
+      -64.55,
+      -32.05,
+      0
+    ],
+    [
+      53.034,
+      40.97,
+      72
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -117.8989106,
+          33.7876837
+        ],
+        [
+          -117.8987865,
+          33.7876163
+        ],
+        [
+          -117.8987404,
+          33.7875913
+        ],
+        [
+          -117.8986786,
+          33.7875917
+        ],
+        [
+          -117.8986789,
+          33.7875579
+        ],
+        [
+          -117.8986381,
+          33.7875358
+        ],
+        [
+          -117.8986263,
+          33.7875323
+        ],
+        [
+          -117.8984275,
+          33.7874724
+        ],
+        [
+          -117.8983766,
+          33.787457
+        ],
+        [
+          -117.8983218,
+          33.7874405
+        ],
+        [
+          -117.8982027,
+          33.7874046
+        ],
+        [
+          -117.8983219,
+          33.7873698
+        ],
+        [
+          -117.8983718,
+          33.7873552
+        ],
+        [
+          -117.898425,
+          33.7873397
+        ],
+        [
+          -117.8986332,
+          33.7872789
+        ],
+        [
+          -117.898755,
+          33.7872029
+        ],
+        [
+          -117.8988233,
+          33.7871604
+        ],
+        [
+          -117.898897,
+          33.7871144
+        ],
+        [
+          -117.8989754,
+          33.7871599
+        ],
+        [
+          -117.8990511,
+          33.7872038
+        ],
+        [
+          -117.8991715,
+          33.7872736
+        ],
+        [
+          -117.8993796,
+          33.7873367
+        ],
+        [
+          -117.8994316,
+          33.7873525
+        ],
+        [
+          -117.8994796,
+          33.787367
+        ],
+        [
+          -117.8995883,
+          33.7873999
+        ],
+        [
+          -117.8994832,
+          33.7874338
+        ],
+        [
+          -117.8994291,
+          33.7874512
+        ],
+        [
+          -117.8993773,
+          33.7874679
+        ],
+        [
+          -117.8991616,
+          33.7875375
+        ],
+        [
+          -117.8990562,
+          33.7875989
+        ],
+        [
+          -117.899028,
+          33.7876153
+        ],
+        [
+          -117.8990005,
+          33.7876314
+        ],
+        [
+          -117.8989106,
+          33.7876837
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 29280620,
+    "version": 25,
+    "timestamp": "2024-09-29T03:08:34Z",
+    "url": "https://www.openstreetmap.org/way/29280620"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 120714044,
+      "version": 3,
+      "timestamp": "2023-05-25T10:01:08Z",
+      "url": "https://www.openstreetmap.org/way/120714044"
+    }
+  ],
+  "wikidata": "Q1051217",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/la-christ-cathedral.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Christ Cathedral (the Crystal Cathedral, 1980, Philip Johnson and John Burgee) and its Crean Tower (1990, Johnson), Garden Grove — procedural, CC0-1.0. bun generators/la-christ-cathedral.ts",
+    "Map frame: x east, y north, z up, metres; bearing 0 (the long axis of OSM way/29280620 runs within half a degree of east). The anchor is the centre of the star, 0.4 m east and 2.4 m north of the batch's point. The ground is flat (3DEP 39.4-40.1 m across the site), y = 0.",
+    "What makes it the Crystal Cathedral: a four-pointed star in plan, long east-west, entirely of reflective glass on a white space frame, so it reads silver; sheer walls with sharp prows at the long arms' tips; a faceted glass roof rising from every eave to a 39 m ridge down the long axis, with ridges falling from the centre to the two short arms' tips, which is what makes the roofline fold and the whole read as a crystal; the 90-foot doors in the east prow between two pale lattice frames; and the Crean Tower beside it, a slender spire of polished steel prisms with a jagged crown, nearly twice the cathedral's height.",
+    "This is Orange County, outside the LA County lidar, and 3DEP point clouds can't be read here, so heights are published or estimated from photos.",
+    "Sources:",
+    "Plan: OSM way/29280620 (the star: tips 128 m apart east-west and 63 m north-south, the re-entrant corners 29 m apart north-south and 50 m east-west; drawn here symmetric about both axes, which it is to within a metre) and way/120714044 (the Crean Tower, a 9 x 9.6 m footprint north-west of the north tip). USGS NAIP orthophoto: the roof as four planes, a band over the long arms that shades evenly (flat), the north arm's roof dark (falling to the north) and the south arm's bright (falling to the south, toward the sun), and the tower's place.",
+    "Published (Wikipedia, \"Christ Cathedral (Garden Grove, California)\", and \"Crean Tower\"): 415 x 207 x 128 ft (126.5 x 63 x 39 m); over 10,000 panes of glass; 90 ft (27 m) motorised doors; Crean Tower 236 ft (72 m), polished stainless-steel prisms. OSM: 40 m and 73 m.",
+    "Photos (Wikimedia Commons): \"Crystal Cathedral (6266638898)\" and \"(6266110435)\" (Christliches Medienmagazin pro, CC BY-SA 2.0; from the north-west, the tower in front: the north arm's roof falling from the flat top to its tip, which stands at about half the height), \"Crystal Cathedral with Spire\" and \"Crystal Cathedral on edge\" (Wattewyl, CC BY 3.0; from the east: the long walls' flat tops, a re-entrant corner, the tower's crown), \"Crystal Cathedral - ... August 1995 03\" (Giorgio Galeotti, CC BY-SA 4.0; from the east: the east prow, its doors between the two lattice frames, the cross above), \"2018 Christ Cathedral campus ... 01, 05\" (Farragutful, CC BY-SA 4.0; from the west and south-west), \"Crystal Cathedral (3348568229)\" (Bert Kaufmann, CC BY 2.0), \"Philip Johnson - Crystal Cathedral\" (CC BY; from the south).",
+    "Colour: mirror glass (photos), drawn as a pale silver-grey window variant (#c9d0d6) and the roof `glass` in silver-grey (#bcc5cc), with broad white `trim` bars on the ridges, eaves and corners for the space frame; the tower's polished steel near white round a darker core.",
+    "Estimated: the roof's facets. The photos show the long walls' tops nearly level and NAIP shades the long arms' roof evenly, so the real roof there may be flatter than drawn; the long walls are drawn falling from 39 m at the prows to 31 m at the re-entrant corners, with the roof rising from them to the ridge, so the faceted form reads from above. The short arms' tip height (19 m, about half the roof, from two photos taken from opposite ends); the east prow cut to a 9 m face for the doors, and the frames' size (2.3 m wide, 27 m tall); the Crean Tower's prisms (four rings stepping in and up, to 30, 44, 56 and 65 m, and a needle to 72 m; 7.5 m across at the foot), from photos.",
+    "Left out: the glass grid (fine lines), the cross, the low entrance porches, the reflecting pools.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"la-christ-cathedral\", model \"la-christ-cathedral\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/la-christ-cathedral.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 100 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the la-christ-cathedral-glazing finish in the window colour."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

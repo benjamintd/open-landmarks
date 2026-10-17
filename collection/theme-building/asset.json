@@ -1,0 +1,430 @@
+{
+  "id": "theme-building",
+  "name": "Theme Building",
+  "anchor": [
+    -118.4024925,
+    33.9441425
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 104676,
+      "sha256": "3407c6f2df4ffa61c5e50f7f4aa7cb8224aceab9bb4880d89e6841def1b1fc89"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 104676,
+      "sha256": "3407c6f2df4ffa61c5e50f7f4aa7cb8224aceab9bb4880d89e6841def1b1fc89"
+    }
+  },
+  "triangles": 4860,
+  "boundsBlenderM": [
+    [
+      -52.716,
+      -52.716,
+      0
+    ],
+    [
+      52.716,
+      52.716,
+      40.3
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -118.4022188,
+          33.9440959
+        ],
+        [
+          -118.4022344,
+          33.9440539
+        ],
+        [
+          -118.4022584,
+          33.9440171
+        ],
+        [
+          -118.402291,
+          33.9439844
+        ],
+        [
+          -118.4023336,
+          33.9439561
+        ],
+        [
+          -118.4023754,
+          33.9439379
+        ],
+        [
+          -118.4023878,
+          33.9439296
+        ],
+        [
+          -118.4024002,
+          33.9439148
+        ],
+        [
+          -118.4024085,
+          33.9438972
+        ],
+        [
+          -118.4024128,
+          33.943875
+        ],
+        [
+          -118.4024154,
+          33.9438418
+        ],
+        [
+          -118.4024172,
+          33.9437986
+        ],
+        [
+          -118.4024161,
+          33.943688
+        ],
+        [
+          -118.4024248,
+          33.9436765
+        ],
+        [
+          -118.4024349,
+          33.9436872
+        ],
+        [
+          -118.4024416,
+          33.9437984
+        ],
+        [
+          -118.4024499,
+          33.9438409
+        ],
+        [
+          -118.4024602,
+          33.9438769
+        ],
+        [
+          -118.4024756,
+          33.9438989
+        ],
+        [
+          -118.4025006,
+          33.9439171
+        ],
+        [
+          -118.4025276,
+          33.9439259
+        ],
+        [
+          -118.402579,
+          33.9439393
+        ],
+        [
+          -118.4026277,
+          33.9439621
+        ],
+        [
+          -118.4026628,
+          33.9439872
+        ],
+        [
+          -118.402695,
+          33.9440208
+        ],
+        [
+          -118.4027188,
+          33.9440592
+        ],
+        [
+          -118.4027354,
+          33.9440722
+        ],
+        [
+          -118.402758,
+          33.9440818
+        ],
+        [
+          -118.402786,
+          33.9440854
+        ],
+        [
+          -118.4028291,
+          33.9440866
+        ],
+        [
+          -118.4028815,
+          33.9440871
+        ],
+        [
+          -118.4030351,
+          33.9440807
+        ],
+        [
+          -118.4030503,
+          33.9440868
+        ],
+        [
+          -118.4030365,
+          33.9440951
+        ],
+        [
+          -118.4028844,
+          33.9441071
+        ],
+        [
+          -118.402833,
+          33.9441146
+        ],
+        [
+          -118.4028067,
+          33.9441207
+        ],
+        [
+          -118.4027761,
+          33.9441303
+        ],
+        [
+          -118.4027554,
+          33.9441433
+        ],
+        [
+          -118.4027421,
+          33.9441586
+        ],
+        [
+          -118.4027313,
+          33.9441829
+        ],
+        [
+          -118.4027227,
+          33.9442087
+        ],
+        [
+          -118.402705,
+          33.9442423
+        ],
+        [
+          -118.4026797,
+          33.9442738
+        ],
+        [
+          -118.4026487,
+          33.9443008
+        ],
+        [
+          -118.4026195,
+          33.9443195
+        ],
+        [
+          -118.4025818,
+          33.9443366
+        ],
+        [
+          -118.402561,
+          33.9443499
+        ],
+        [
+          -118.4025469,
+          33.944367
+        ],
+        [
+          -118.4025398,
+          33.9443841
+        ],
+        [
+          -118.4025376,
+          33.9444054
+        ],
+        [
+          -118.4025376,
+          33.944436
+        ],
+        [
+          -118.4025658,
+          33.9445907
+        ],
+        [
+          -118.4025609,
+          33.9446055
+        ],
+        [
+          -118.4025481,
+          33.9445942
+        ],
+        [
+          -118.4025066,
+          33.9444422
+        ],
+        [
+          -118.4024929,
+          33.9444098
+        ],
+        [
+          -118.4024837,
+          33.9443901
+        ],
+        [
+          -118.4024703,
+          33.9443741
+        ],
+        [
+          -118.4024521,
+          33.9443611
+        ],
+        [
+          -118.4024283,
+          33.9443519
+        ],
+        [
+          -118.4023705,
+          33.9443373
+        ],
+        [
+          -118.4023289,
+          33.9443183
+        ],
+        [
+          -118.4022963,
+          33.9442968
+        ],
+        [
+          -118.402266,
+          33.9442687
+        ],
+        [
+          -118.4022408,
+          33.9442346
+        ],
+        [
+          -118.4022334,
+          33.9442217
+        ],
+        [
+          -118.4022171,
+          33.9442083
+        ],
+        [
+          -118.4021955,
+          33.9441966
+        ],
+        [
+          -118.4021681,
+          33.9441902
+        ],
+        [
+          -118.4021312,
+          33.9441897
+        ],
+        [
+          -118.4020789,
+          33.9441915
+        ],
+        [
+          -118.4019507,
+          33.9442062
+        ],
+        [
+          -118.4019341,
+          33.9442013
+        ],
+        [
+          -118.4019481,
+          33.9441922
+        ],
+        [
+          -118.4020741,
+          33.9441706
+        ],
+        [
+          -118.4021265,
+          33.9441587
+        ],
+        [
+          -118.4021647,
+          33.9441487
+        ],
+        [
+          -118.4021866,
+          33.9441397
+        ],
+        [
+          -118.4022015,
+          33.9441272
+        ],
+        [
+          -118.4022101,
+          33.9441138
+        ],
+        [
+          -118.4022188,
+          33.9440959
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 37891817,
+    "version": 9,
+    "timestamp": "2026-08-22T14:21:16Z",
+    "url": "https://www.openstreetmap.org/way/37891817"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 476168322,
+      "version": 4,
+      "timestamp": "2025-03-28T02:33:18Z",
+      "url": "https://www.openstreetmap.org/way/476168322"
+    }
+  ],
+  "wikidata": "Q3523620",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/la-theme-building.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Theme Building, Los Angeles International Airport (1961, Pereira & Luckman with Paul R. Williams and Welton Becket; first design by James Langenheim) — procedural, CC0-1.0. bun generators/la-theme-building.ts",
+    "Map frame: x along one arch (the \"east-west\" arch, bearing 83°), y along the other (bearing 353°), z up, metres. Placed at bearing 353°. The anchor is the centre of the four feet (the mean of the four leg tips of OSM way/37891817), which is where the arches cross; the outline's own area centroid sits 1.5 m east of it only because the outline is drawn unevenly. y = 0 is the lowest ground round the feet (LA County lidar, 31.9 m).",
+    "What makes it the Theme Building: two white parabolic arches crossing at the top, each leg broadening from a slim foot to a Y where it meets the saucer's rim and continues as a slim rib to the crown; the flat saucer with its outward-leaning ring of restaurant glass and a heavy rounded lower rim; the blue-tiled core through it, standing up as a drum on the roof deck; and, round the base, the low circular perforated screen wall.",
+    "Sources:",
+    "Plan: OSM way/37891817 (the outline: the saucer rim, radius ~23.5 m, flaring into the four legs, whose tips give the feet and the bearing: 353.0° and 83.0°, at right angles; foot to foot 103.8 m both ways). OSM way/476168322 (the round base building, radius 31.5 m). USGS NAIP orthophoto (the arches' directions, the base roof and the screen ring at radius 36.5 m).",
+    "Heights (LA County 2020 lidar surface model, 1 m along each arch and a 1.5 m grid over the saucer, over the lidar ground at the feet): arches' top 40.3 m at the crossing, and the arch top surface follows a true parabola through the feet (24.1 m at 33 m out, 34.6 m at 20 m, 10.3 m at 45 m); saucer roof deck 24.5 m, its rim falling to 23.6 m; drum on the deck 31.2 m, radius 5.5 m; base building roof 6.6 m and screen wall 8.3 m (one clean sample on each of two bearings; trees elsewhere), not used: the photos show both far lower (see the base).",
+    "Published: arches 135 ft (41.1 m) high and 340 ft (103.6 m) across the feet (Water and Power Associates; LAWA); core of reinforced concrete, 30 ft across (the tiled drum outside it measures 11 m); lower 15 ft of the legs concrete, the rest stucco over steel trusses (Wikipedia).",
+    "Photos (Wikimedia Commons): \"Theme building LAX AIRPORT (10629344455)\" (Eric Salard, CC BY-SA 2.0; from the airside along one arch, the other in profile; north or south, the model is the same both ways), \"6207-LAX Theme Building-Restaurant\" (EditorASC, CC BY-SA 4.0; 1961-62, the same alignment from the street), \"Theme Building Los Angeles International Airport 2019\" (Steven Lek, CC BY-SA 4.0), \"Theme Building (Los Angeles International Airport) in July 2023 (2)\" (Benoît Prieur, CC0; from the north-east, the control tower behind to the right), \"The Theme Building ... (14516663392)\" (Ken Lund, CC BY-SA 2.0), \"LAX Theme Building and moon from northwest 2016-07-21\" (Junkyardsparkle, CC0; night, silhouette only).",
+    "Overhead check: USGS NAIP against a top render (arch directions, deck disc, rim flare, screen ring). No usable licensed high oblique photo.",
+    "Estimated from photos, scaled by the lidar crown and the feet: the saucer below its roof (soffit, glass 19.9-16.8 m leaning out from radius 16.9 to 18.9 m, rounded lower rim to 14.6 m), the legs' and ribs' cross-sections (foot about 2.2 x 2.2 m, Y about 5 x 5 m, rib about 1.9 m deep and 2 m wide, narrowing to 1.2 m at the crown), the rim arms' flare into the legs (OSM outline shape).",
+    "Not seen: the base building's own walls (inside the screen and trees in every photo); drawn plain at OSM's radius and the lidar roof.",
+    "Left out: the cables from the arches to the deck, the deck railing, the perforations of the screen wall (a dot grid; drawn as a plain pale wall), the gardens and paving inside it.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"la-theme-building\", model \"la-theme-building\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/la-theme-building.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 414 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the la-theme-building-glazing finish in the window colour."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

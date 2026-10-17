@@ -1,0 +1,629 @@
+{
+  "id": "los-angeles-central-library",
+  "name": "Los Angeles Central Library",
+  "anchor": [
+    -118.2550325,
+    34.0502845
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 22128,
+      "sha256": "97013822468340e6c8ad6461a3061c2c2537bd73a9904feb8d69d866e34fa1ae"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 22128,
+      "sha256": "97013822468340e6c8ad6461a3061c2c2537bd73a9904feb8d69d866e34fa1ae"
+    }
+  },
+  "triangles": 314,
+  "boundsBlenderM": [
+    [
+      -75.041,
+      -72.372,
+      0
+    ],
+    [
+      78.598,
+      72.355,
+      56.8
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -118.2556436,
+          34.0504018
+        ],
+        [
+          -118.2556402,
+          34.0504056
+        ],
+        [
+          -118.255671,
+          34.0504259
+        ],
+        [
+          -118.2556764,
+          34.0504201
+        ],
+        [
+          -118.255739,
+          34.0504614
+        ],
+        [
+          -118.2557689,
+          34.05043
+        ],
+        [
+          -118.2558743,
+          34.0504996
+        ],
+        [
+          -118.2558359,
+          34.0505399
+        ],
+        [
+          -118.2558334,
+          34.0505382
+        ],
+        [
+          -118.2558125,
+          34.0505602
+        ],
+        [
+          -118.2558143,
+          34.0505614
+        ],
+        [
+          -118.2558055,
+          34.0505707
+        ],
+        [
+          -118.2558026,
+          34.0505688
+        ],
+        [
+          -118.255782,
+          34.0505905
+        ],
+        [
+          -118.2557852,
+          34.0505927
+        ],
+        [
+          -118.2557768,
+          34.0506014
+        ],
+        [
+          -118.2557738,
+          34.0505995
+        ],
+        [
+          -118.2557532,
+          34.0506212
+        ],
+        [
+          -118.255757,
+          34.0506237
+        ],
+        [
+          -118.2557485,
+          34.0506326
+        ],
+        [
+          -118.255745,
+          34.0506303
+        ],
+        [
+          -118.2557241,
+          34.0506523
+        ],
+        [
+          -118.2557275,
+          34.0506546
+        ],
+        [
+          -118.2557193,
+          34.0506632
+        ],
+        [
+          -118.2557158,
+          34.0506609
+        ],
+        [
+          -118.2556951,
+          34.0506826
+        ],
+        [
+          -118.2557,
+          34.0506858
+        ],
+        [
+          -118.2556869,
+          34.0506995
+        ],
+        [
+          -118.2556847,
+          34.0506981
+        ],
+        [
+          -118.2556702,
+          34.0507133
+        ],
+        [
+          -118.2557118,
+          34.0507408
+        ],
+        [
+          -118.2557016,
+          34.0507514
+        ],
+        [
+          -118.2557044,
+          34.0507533
+        ],
+        [
+          -118.2556836,
+          34.0507752
+        ],
+        [
+          -118.2556814,
+          34.0507737
+        ],
+        [
+          -118.2556716,
+          34.050784
+        ],
+        [
+          -118.2556291,
+          34.050756
+        ],
+        [
+          -118.2556137,
+          34.0507721
+        ],
+        [
+          -118.2556172,
+          34.0507745
+        ],
+        [
+          -118.2556051,
+          34.0507872
+        ],
+        [
+          -118.2556009,
+          34.0507845
+        ],
+        [
+          -118.2555798,
+          34.0508067
+        ],
+        [
+          -118.2555839,
+          34.0508094
+        ],
+        [
+          -118.2555751,
+          34.0508185
+        ],
+        [
+          -118.2555711,
+          34.0508159
+        ],
+        [
+          -118.2555513,
+          34.0508367
+        ],
+        [
+          -118.2555691,
+          34.0508484
+        ],
+        [
+          -118.2555614,
+          34.0508565
+        ],
+        [
+          -118.2555822,
+          34.0508702
+        ],
+        [
+          -118.2555544,
+          34.0508993
+        ],
+        [
+          -118.2555325,
+          34.0508849
+        ],
+        [
+          -118.2555068,
+          34.0509119
+        ],
+        [
+          -118.2555,
+          34.0509075
+        ],
+        [
+          -118.2554711,
+          34.0509378
+        ],
+        [
+          -118.2554258,
+          34.0509082
+        ],
+        [
+          -118.2554287,
+          34.0509052
+        ],
+        [
+          -118.255263,
+          34.0507972
+        ],
+        [
+          -118.2552338,
+          34.0508282
+        ],
+        [
+          -118.2552295,
+          34.0508284
+        ],
+        [
+          -118.255195,
+          34.050806
+        ],
+        [
+          -118.2551944,
+          34.0508022
+        ],
+        [
+          -118.2551982,
+          34.0507979
+        ],
+        [
+          -118.2550746,
+          34.0507211
+        ],
+        [
+          -118.2550724,
+          34.0507235
+        ],
+        [
+          -118.2550677,
+          34.0507243
+        ],
+        [
+          -118.2550321,
+          34.0507005
+        ],
+        [
+          -118.2550319,
+          34.0506979
+        ],
+        [
+          -118.2550607,
+          34.0506676
+        ],
+        [
+          -118.2548964,
+          34.0505593
+        ],
+        [
+          -118.2548927,
+          34.0505632
+        ],
+        [
+          -118.254847,
+          34.0505331
+        ],
+        [
+          -118.2548752,
+          34.0505035
+        ],
+        [
+          -118.254868,
+          34.0504988
+        ],
+        [
+          -118.2548933,
+          34.0504722
+        ],
+        [
+          -118.2548998,
+          34.0504766
+        ],
+        [
+          -118.2549282,
+          34.0504467
+        ],
+        [
+          -118.2548229,
+          34.0503773
+        ],
+        [
+          -118.2548399,
+          34.0503594
+        ],
+        [
+          -118.254702,
+          34.0502684
+        ],
+        [
+          -118.2546939,
+          34.0502768
+        ],
+        [
+          -118.2546986,
+          34.0502799
+        ],
+        [
+          -118.2546061,
+          34.0503771
+        ],
+        [
+          -118.2544081,
+          34.0502488
+        ],
+        [
+          -118.2543773,
+          34.0502811
+        ],
+        [
+          -118.2541798,
+          34.0501509
+        ],
+        [
+          -118.2542328,
+          34.0500953
+        ],
+        [
+          -118.2542414,
+          34.050101
+        ],
+        [
+          -118.2543337,
+          34.050004
+        ],
+        [
+          -118.2543196,
+          34.0499947
+        ],
+        [
+          -118.2543617,
+          34.0499505
+        ],
+        [
+          -118.2543663,
+          34.0499535
+        ],
+        [
+          -118.2544228,
+          34.0498942
+        ],
+        [
+          -118.2544171,
+          34.0498905
+        ],
+        [
+          -118.2544596,
+          34.049846
+        ],
+        [
+          -118.25447,
+          34.0498529
+        ],
+        [
+          -118.2545931,
+          34.0497236
+        ],
+        [
+          -118.254583,
+          34.049717
+        ],
+        [
+          -118.2546369,
+          34.0496603
+        ],
+        [
+          -118.2546432,
+          34.0496645
+        ],
+        [
+          -118.2546728,
+          34.0496334
+        ],
+        [
+          -118.2552848,
+          34.0500371
+        ],
+        [
+          -118.2552602,
+          34.050063
+        ],
+        [
+          -118.2553155,
+          34.0500995
+        ],
+        [
+          -118.255293,
+          34.0501232
+        ],
+        [
+          -118.2553638,
+          34.05017
+        ],
+        [
+          -118.2553356,
+          34.0501996
+        ],
+        [
+          -118.2553971,
+          34.0502402
+        ],
+        [
+          -118.2553921,
+          34.0502455
+        ],
+        [
+          -118.2554251,
+          34.0502673
+        ],
+        [
+          -118.2554292,
+          34.050263
+        ],
+        [
+          -118.2554373,
+          34.0502683
+        ],
+        [
+          -118.2554345,
+          34.0502712
+        ],
+        [
+          -118.2554675,
+          34.050293
+        ],
+        [
+          -118.2554711,
+          34.0502891
+        ],
+        [
+          -118.2554797,
+          34.0502948
+        ],
+        [
+          -118.2554765,
+          34.0502983
+        ],
+        [
+          -118.2555079,
+          34.0503191
+        ],
+        [
+          -118.2555114,
+          34.0503154
+        ],
+        [
+          -118.2555201,
+          34.0503211
+        ],
+        [
+          -118.2555171,
+          34.0503243
+        ],
+        [
+          -118.2555498,
+          34.0503458
+        ],
+        [
+          -118.2555527,
+          34.0503427
+        ],
+        [
+          -118.2555617,
+          34.0503486
+        ],
+        [
+          -118.2555588,
+          34.0503517
+        ],
+        [
+          -118.2555904,
+          34.0503726
+        ],
+        [
+          -118.2555936,
+          34.0503692
+        ],
+        [
+          -118.2556019,
+          34.0503747
+        ],
+        [
+          -118.2555985,
+          34.0503783
+        ],
+        [
+          -118.255632,
+          34.0504004
+        ],
+        [
+          -118.2556356,
+          34.0503966
+        ],
+        [
+          -118.2556436,
+          34.0504018
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 428021732,
+    "version": 33,
+    "timestamp": "2026-06-18T19:34:56Z",
+    "url": "https://www.openstreetmap.org/way/428021732"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 495571355,
+      "version": 2,
+      "timestamp": "2022-10-25T17:14:48Z",
+      "url": "https://www.openstreetmap.org/way/495571355"
+    },
+    {
+      "type": "way",
+      "id": 1106887040,
+      "version": 1,
+      "timestamp": "2022-10-25T17:14:48Z",
+      "url": "https://www.openstreetmap.org/way/1106887040"
+    }
+  ],
+  "wikidata": "Q27676389",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/la-central-library.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Los Angeles Central Library (1926, Bertram Goodhue; Tom Bradley wing 1993, Hardy Holzman Pfeiffer), Los Angeles — original procedural geometry, CC0-1.0. bun generators/la-central-library.ts [out.glb]",
+    "Map frame: x east, y north, z up, metres; origin at the outline's centroid on the lowest ground under it (the Grand Ave side). Placed at bearing 38.5°, so the block is square to this frame: +x faces Grand Avenue, −x Flower Street, +y 5th Street.",
+    "What makes it the library: Goodhue's cream concrete block, stepping up in setbacks to a central square tower whose shaft is cut by tall window bays, crowned by a tiled pyramid (gold sun mosaic) carrying a hand holding a torch. East of it, sharing its outline, the Tom Bradley wing: a plain cream block of the same height with a glazed atrium in its roof.",
+    "Sources:",
+    "Plan: OSM way/428021732 (both buildings in one outline), its parts way/495571355 (the central block under the tower) and way/1106887040 (the Bradley wing).",
+    "Heights: LA County LARIAC 2006 lidar surface model (Elevation MapServer layer 8, 3 m grid) over the bare-earth low point 85.4 m at the Grand Ave side: Goodhue's main block 24 m (≈ 18 m over 5th St and Flower St, which stand ≈ 6 m higher), the central block 30–33 m, the shaft's top ≈ 46 m, the pyramid ≈ 51 m on a 3 m grid; LARIAC 2020 footprint 484322840870 gives the top (torch) at 142.2 m, 56.8 m over y = 0. Bradley wing's roof 24–26 m, its north terraces 14–20 m.",
+    "Proportions of the tower, pyramid and finial, the window bays, colours: photos (Wikimedia Commons) — \"Los-angeles-central-library\" (Mfield, GFDL 1.2, the 5th St front, square on); HABS CAL,19-LOSAN,65-7 \"General view, west elevation\" and 65-2 \"Looking SW from across West Fifth St.\", 65-4 \"Distant view, east side\" (Marvin Rand, public domain); \"Los Angeles Central Library 08\" (Visitor7, CC BY-SA 3.0).",
+    "Estimated: the shaft's width (15 m, lidar and photo), the stage's steps, the pyramid's pitch (7 m high on a 14.6 m base) and its two-tone sun pattern, from the photos scaled by the lidar heights; the window bays' heights; the torch is drawn as a gilded post and flame.",
+    "Left out: the sculpture, inscriptions, the Maguire Gardens and the stairs.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"la-central-library\", model \"la-central-library\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/la-central-library.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

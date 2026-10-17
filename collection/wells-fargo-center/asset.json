@@ -1,0 +1,129 @@
+{
+  "id": "wells-fargo-center",
+  "name": "Wells Fargo Center",
+  "anchor": [
+    -118.2524055,
+    34.052718
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 13,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 91528,
+      "sha256": "8dc3b4ed40bc7b2538fee0b788d2faa99b739dca88ad4d2b84b8ef85df4ace83"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 91528,
+      "sha256": "8dc3b4ed40bc7b2538fee0b788d2faa99b739dca88ad4d2b84b8ef85df4ace83"
+    }
+  },
+  "triangles": 1624,
+  "boundsBlenderM": [
+    [
+      -85.119,
+      -95.775,
+      0
+    ],
+    [
+      83.451,
+      85.384,
+      230.5
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -118.2518495,
+          34.0532892
+        ],
+        [
+          -118.2515009,
+          34.0530627
+        ],
+        [
+          -118.2520456,
+          34.0524794
+        ],
+        [
+          -118.2521227,
+          34.0529981
+        ],
+        [
+          -118.2518821,
+          34.0532539
+        ],
+        [
+          -118.2518495,
+          34.0532892
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 427532202,
+    "version": 4,
+    "timestamp": "2021-04-22T16:13:57Z",
+    "url": "https://www.openstreetmap.org/way/427532202"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 427532194,
+      "version": 2,
+      "timestamp": "2021-04-22T16:13:57Z",
+      "url": "https://www.openstreetmap.org/way/427532194"
+    },
+    {
+      "type": "way",
+      "id": 427532221,
+      "version": 4,
+      "timestamp": "2026-10-06T02:48:22Z",
+      "url": "https://www.openstreetmap.org/way/427532221"
+    }
+  ],
+  "wikidata": "Q2543729",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/la-wells-fargo-center.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Wells Fargo Center (1983, SOM), Los Angeles: the North Tower (Wells Fargo Tower, 54 floors), the South Tower (KPMG Tower, 45 floors) and the glass atrium (Wells Fargo Court) between them, as one model — original procedural geometry, CC0-1.0. bun generators/la-wells-fargo-center.ts [out.glb]",
+    "Map frame: x east, y north, z up, metres; origin at the area centroid of the three OSM footprints, on the lowest ground under them (the South Tower's Fourth Street side). Placed at bearing 38°, so +x runs along Grand Avenue's cross streets (south-east) and +y up Grand Avenue.",
+    "Two prisms of red-brown granite and bronze glass, each a right trapezoid in plan: three faces square to the street grid and the fourth cut at 45°, which ends in a knife-edge acute corner. The two cut faces look at each other across the atrium, a 42 m square turned 45° to the grid with a roof of glass pyramids. The towers' sharp prisms, their colour and the pairing are the identity.",
+    "Sources:",
+    "Plans: OSM way/427532202 (North) and way/427532194 (South), which match the LA County LARIAC 2020 lidar footprints 485357841728 and 485112841424 vertex for vertex. Atrium and podium: OSM way/427532221 (lidar 485091841660 + 485045841627, 16.1 m); the atrium square and its glass pyramid roof from the LA County 2011 aerial (LACounty_Aerial_2011).",
+    "Heights: lidar roof elevations 338.0 m (North) and 302.2 m (South), atrium 129.7 m; LARIAC 2006 bare earth under the footprints falls from 117 m (Grand Ave) to 107.5 m (Fourth St, south of the South Tower), so the roofs stand 230.5, 194.7 and 22.1 m over the lowest ground. Lidar heights over local ground 222.4 and 186.6 m; published roofs 220.4 and 170.7 m (Wikipedia). Floors 54 and 45 (4.1 m).",
+    "Photos (Wikimedia Commons): w1 \"Wells Fargo Center in downtown Los Angeles, California\" (Minnaert, CC BY-SA 3.0; from the west, Hope St: the North Tower left, the South Tower's acute west corner right); w2 \"Wells Fargo Center LA\" (Patrick Pelster, CC BY-SA 3.0 de; from the plaza on the west, both cut faces); w3 \"Wells Fargo Tower\" (Krzykol, CC BY-SA 4.0; from the south-east, both towers side by side); w4 \"WellsFargoCenter\" (Minnaert, CC BY-SA 3.0; from the west, the South Tower's knife edge in front of the North Tower); w6 \"KPMG Tower\" (Krzykol, CC BY-SA 3.0); w7 \"Los Angeles - Downtown streetscape from Figueroa\" (Daniel Mayer, CC BY-SA 3.0; from the west).",
+    "Colour: OSM building:colour #9C5B31 and the photos (red-brown granite, bronze glass), pulled only part way to the palette's lightness.",
+    "Estimated: window panels (three floors, 9 m bays: the real facade is a fine grid of punched bronze windows), the atrium's 4 × 4 pyramid grid (the real roof has about 6 × 6), the podium wings' height (12 m), the parapets. Left out: signs, the plaza, the tower roof equipment and helipads.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"la-wells-fargo-center\", model \"la-wells-fargo-center\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/la-wells-fargo-center.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

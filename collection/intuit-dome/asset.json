@@ -1,0 +1,220 @@
+{
+  "id": "intuit-dome",
+  "name": "Intuit Dome",
+  "anchor": [
+    -118.3422306,
+    33.9437415
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 167264,
+      "sha256": "73ca517187989e9c2fe0f21009f7d122b5beb63e0ac61a849064cc4cf20db61f"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 167264,
+      "sha256": "73ca517187989e9c2fe0f21009f7d122b5beb63e0ac61a849064cc4cf20db61f"
+    }
+  },
+  "triangles": 2262,
+  "boundsBlenderM": [
+    [
+      -121.708,
+      -66.102,
+      0
+    ],
+    [
+      111.858,
+      70.781,
+      36.9
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -118.3413557,
+          33.9442164
+        ],
+        [
+          -118.3413883,
+          33.9442357
+        ],
+        [
+          -118.3415568,
+          33.9443248
+        ],
+        [
+          -118.3423799,
+          33.9443713
+        ],
+        [
+          -118.3425765,
+          33.9443511
+        ],
+        [
+          -118.342782,
+          33.9443108
+        ],
+        [
+          -118.3429565,
+          33.9442595
+        ],
+        [
+          -118.3430594,
+          33.9442191
+        ],
+        [
+          -118.3430718,
+          33.9442129
+        ],
+        [
+          -118.3431509,
+          33.9441733
+        ],
+        [
+          -118.343268,
+          33.9440945
+        ],
+        [
+          -118.3433409,
+          33.9440341
+        ],
+        [
+          -118.3433983,
+          33.9439534
+        ],
+        [
+          -118.3435397,
+          33.9439461
+        ],
+        [
+          -118.3435552,
+          33.9437628
+        ],
+        [
+          -118.3435043,
+          33.9434623
+        ],
+        [
+          -118.3433298,
+          33.9434568
+        ],
+        [
+          -118.3432304,
+          33.9433872
+        ],
+        [
+          -118.3431288,
+          33.9433175
+        ],
+        [
+          -118.3430117,
+          33.9432625
+        ],
+        [
+          -118.3429057,
+          33.9432241
+        ],
+        [
+          -118.3428659,
+          33.9432186
+        ],
+        [
+          -118.3428571,
+          33.9431599
+        ],
+        [
+          -118.3419028,
+          33.9431581
+        ],
+        [
+          -118.341905,
+          33.9432112
+        ],
+        [
+          -118.3410192,
+          33.9432094
+        ],
+        [
+          -118.3410435,
+          33.943739
+        ],
+        [
+          -118.3410477,
+          33.9438389
+        ],
+        [
+          -118.3410776,
+          33.9439195
+        ],
+        [
+          -118.3411715,
+          33.9440682
+        ],
+        [
+          -118.3412776,
+          33.9441546
+        ],
+        [
+          -118.3413557,
+          33.9442164
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 1209626565,
+    "version": 8,
+    "timestamp": "2026-04-16T18:33:50Z",
+    "url": "https://www.openstreetmap.org/way/1209626565"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q54958436",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/la-intuit-dome.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Intuit Dome, Inglewood (LA Clippers arena, AECOM, opened August 2024) — procedural, CC0-1.0. bun generators/la-intuit-dome.ts",
+    "Map frame: x east, y north, z up, metres; bearing 0. The anchor is the area centroid of OSM way/1209626565 (building=stadium \"Intuit Dome\"). The site is flat (USGS 3DEP 26.5-28 m outside the excavation), so y = 0 is the natural grade the published heights are measured from.",
+    "What makes it the Intuit Dome, above all from above: a squat egg of a shell, faceted all over in a diamond grid of pale PTFE panels; a broad flat top whose solar panels swirl round in a pinwheel; the big blue \"INTUIT DOME\" disc in the middle of them; and the red steel diagrid left bare over the glazed lobby at the west end, by the main entrance on the plaza.",
+    "Sources:",
+    "Plan: OSM way/1209626565 (234 × 134 m), sampled in polar angle about the middle of its bounding box and lightly smoothed, so the mapper's square corners and the notch at the west entrance round off into the shell's egg. USGS NAIP 2022-05-11 (under construction) for the bowl's centre, which the solar top is centred on.",
+    "Heights: the LA County 2020 lidar predates the arena (it shows the 1-2 storey buildings that stood on the site, all under 10 m), so no height here is measured. Published: top of the shell 121 ft (36.9 m) above natural grade (STRUCTURE magazine, \"Intuit Dome Is Nothing But Net\"); roof shell 277,000 sq ft; 18,000 seats.",
+    "Photos: \"Intuit dome from the air pic 2\" and \"Intuit Dome from the air 1\" (AVandewerdt, CC BY-SA 4.0, Commons; high oblique from the south: the solar pinwheel, the blue disc, the facets, the red diagrid at the NW); \"2023_11_16_ind-den-lax-sony_158\" (Nfrastructure, CC BY 2.0, Flickr; near-overhead, red diagrid along the west end); \"Intuit Dome under construction October 2023 from the southwest\" and \"... from the west\" (Dialh, CC0; the egg profile and the full red diagrid before cladding); \"Intuit Dome from Prairie Ave\", \"... from Century Blvd and Prairie Ave\", \"... Exterior and Main Entrance\", \"... from L.A. Clippers Plaza\", \"... Exterior from L.A. Clippers Plaza\" (Spatms, CC BY-SA 4.0; the west and north-west sides by day: pale facets, red diagrid at the entrance).",
+    "Estimated: the top disc (140 × 108 m, centred 25 m east of the outline's middle, from its share of the shell's length in the two aerials: about 72 m of shell west of it and 20 m east), the blue disc (44 m, 0.37 of the solar top's width in the aerials), the profile (a tucked-in foot, the widest girth at 14 m, a rounded shoulder about 20 m across, then a gentle slope to the top's edge at 35 m, steep everywhere as the photos from the west and south-west show), the plan (the OSM trace smoothed and blended half and half with an ellipse on its bounding box, because the trace's square SE corner and west notch are not in the photos), the extent of the red diagrid (112°-168° anticlockwise from east about the middle, the north-west, up the flank and over the shoulder, from the plaza and Prairie Avenue photos), the facet count (60 round, 8 rows, alternate diagonals 1.3 m proud; the real panels are smaller), the solar arms (32 rows of panel blocks, turning anticlockwise outwards as seen from above, about 45°).",
+    "Colours, from the daylight photos pulled to the palette's lightness: PTFE skin cool silver #d3d7da, roof membrane #e9ebea, Clippers red #c65a52, solar panels #4d5563 (no darker than charcoal), Intuit blue #5d8fcf, the lobby glazing behind the red diagrid `window`.",
+    "Left out: the plaza and its paving; the plaza's white shade canopy, its buildings and video board (OSM way/1499990023, way/1499990024 and the roofs way/1499990026-27 are separate buildings, and no post-2024 orthophoto places the canopy); the Players' Garage (way/1323019262) and the garages and bridge over Prairie Avenue; the INTUIT DOME lettering.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"la-intuit-dome\", model \"la-intuit-dome\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/la-intuit-dome.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 3868 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the la-intuit-dome-glazing finish in the window colour."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

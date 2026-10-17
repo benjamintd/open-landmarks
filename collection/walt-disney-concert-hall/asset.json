@@ -1,0 +1,498 @@
+{
+  "id": "walt-disney-concert-hall",
+  "name": "Walt Disney Concert Hall",
+  "anchor": [
+    -118.2499498,
+    34.0553955
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 220772,
+      "sha256": "35ced95cbbcd5f1966a8768d75b5994230d6dee6420d827df5101d9df4c99383"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 220772,
+      "sha256": "35ced95cbbcd5f1966a8768d75b5994230d6dee6420d827df5101d9df4c99383"
+    }
+  },
+  "triangles": 5373,
+  "boundsBlenderM": [
+    [
+      -75.513,
+      -72.013,
+      0
+    ],
+    [
+      71.782,
+      79.145,
+      47.1
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -118.2507686,
+          34.0551862
+        ],
+        [
+          -118.2500233,
+          34.0559773
+        ],
+        [
+          -118.2498995,
+          34.0561063
+        ],
+        [
+          -118.2498732,
+          34.0560888
+        ],
+        [
+          -118.2498527,
+          34.0560743
+        ],
+        [
+          -118.2499628,
+          34.0559625
+        ],
+        [
+          -118.2499333,
+          34.0559455
+        ],
+        [
+          -118.2499099,
+          34.0559311
+        ],
+        [
+          -118.2498959,
+          34.0559439
+        ],
+        [
+          -118.2498416,
+          34.0559174
+        ],
+        [
+          -118.2498316,
+          34.055929
+        ],
+        [
+          -118.2498276,
+          34.0559267
+        ],
+        [
+          -118.2498216,
+          34.0559334
+        ],
+        [
+          -118.2498176,
+          34.0559305
+        ],
+        [
+          -118.2497596,
+          34.0559614
+        ],
+        [
+          -118.2497556,
+          34.0559728
+        ],
+        [
+          -118.2497506,
+          34.0559812
+        ],
+        [
+          -118.2497406,
+          34.0559896
+        ],
+        [
+          -118.2497226,
+          34.055981
+        ],
+        [
+          -118.2497036,
+          34.0559742
+        ],
+        [
+          -118.2496656,
+          34.0559641
+        ],
+        [
+          -118.2496736,
+          34.0559404
+        ],
+        [
+          -118.2496176,
+          34.0559367
+        ],
+        [
+          -118.2496216,
+          34.0558904
+        ],
+        [
+          -118.2496226,
+          34.055886
+        ],
+        [
+          -118.2496276,
+          34.0558804
+        ],
+        [
+          -118.2496256,
+          34.0558694
+        ],
+        [
+          -118.2496266,
+          34.0558555
+        ],
+        [
+          -118.2496316,
+          34.0558392
+        ],
+        [
+          -118.2496376,
+          34.055824
+        ],
+        [
+          -118.2496466,
+          34.0558127
+        ],
+        [
+          -118.2496616,
+          34.0557995
+        ],
+        [
+          -118.2496896,
+          34.0557832
+        ],
+        [
+          -118.2497126,
+          34.0557753
+        ],
+        [
+          -118.2497246,
+          34.0557718
+        ],
+        [
+          -118.2497326,
+          34.0557707
+        ],
+        [
+          -118.2497326,
+          34.0557625
+        ],
+        [
+          -118.2497236,
+          34.0557422
+        ],
+        [
+          -118.2496826,
+          34.0557393
+        ],
+        [
+          -118.2496506,
+          34.0557556
+        ],
+        [
+          -118.2496286,
+          34.0557703
+        ],
+        [
+          -118.2496116,
+          34.0557849
+        ],
+        [
+          -118.2495956,
+          34.0558027
+        ],
+        [
+          -118.2495866,
+          34.0558189
+        ],
+        [
+          -118.2495816,
+          34.0558471
+        ],
+        [
+          -118.2495786,
+          34.0558582
+        ],
+        [
+          -118.2495626,
+          34.0558803
+        ],
+        [
+          -118.2495016,
+          34.0559477
+        ],
+        [
+          -118.2493706,
+          34.0558485
+        ],
+        [
+          -118.2493476,
+          34.0558742
+        ],
+        [
+          -118.2491966,
+          34.055777
+        ],
+        [
+          -118.2492026,
+          34.0557705
+        ],
+        [
+          -118.2491946,
+          34.0557654
+        ],
+        [
+          -118.2491856,
+          34.0557617
+        ],
+        [
+          -118.2491766,
+          34.0557598
+        ],
+        [
+          -118.2491616,
+          34.0557624
+        ],
+        [
+          -118.2491576,
+          34.0557642
+        ],
+        [
+          -118.2491716,
+          34.0557361
+        ],
+        [
+          -118.2491985,
+          34.0557219
+        ],
+        [
+          -118.2492988,
+          34.0557289
+        ],
+        [
+          -118.2493397,
+          34.0557182
+        ],
+        [
+          -118.2494044,
+          34.0556703
+        ],
+        [
+          -118.249432,
+          34.0556969
+        ],
+        [
+          -118.2494853,
+          34.0556738
+        ],
+        [
+          -118.2494924,
+          34.0556092
+        ],
+        [
+          -118.2494855,
+          34.0555542
+        ],
+        [
+          -118.2493887,
+          34.055541
+        ],
+        [
+          -118.2492825,
+          34.0555412
+        ],
+        [
+          -118.2492489,
+          34.0555624
+        ],
+        [
+          -118.2492271,
+          34.0555752
+        ],
+        [
+          -118.2492081,
+          34.0555812
+        ],
+        [
+          -118.2491985,
+          34.0555809
+        ],
+        [
+          -118.2491699,
+          34.0555729
+        ],
+        [
+          -118.2492038,
+          34.0555572
+        ],
+        [
+          -118.2492456,
+          34.0555268
+        ],
+        [
+          -118.249295,
+          34.0554636
+        ],
+        [
+          -118.2493158,
+          34.0554359
+        ],
+        [
+          -118.249255,
+          34.0554224
+        ],
+        [
+          -118.2493171,
+          34.0553337
+        ],
+        [
+          -118.2493786,
+          34.0552532
+        ],
+        [
+          -118.2494779,
+          34.0551618
+        ],
+        [
+          -118.2495344,
+          34.055127
+        ],
+        [
+          -118.2495538,
+          34.0550885
+        ],
+        [
+          -118.2495767,
+          34.055067
+        ],
+        [
+          -118.2495989,
+          34.0550611
+        ],
+        [
+          -118.2496302,
+          34.055061
+        ],
+        [
+          -118.2496722,
+          34.0549934
+        ],
+        [
+          -118.2497009,
+          34.0549655
+        ],
+        [
+          -118.249733,
+          34.0549387
+        ],
+        [
+          -118.2498065,
+          34.0548784
+        ],
+        [
+          -118.2498566,
+          34.0548222
+        ],
+        [
+          -118.2499566,
+          34.0548853
+        ],
+        [
+          -118.2499816,
+          34.0548588
+        ],
+        [
+          -118.2501276,
+          34.0549551
+        ],
+        [
+          -118.2501646,
+          34.0549171
+        ],
+        [
+          -118.2500166,
+          34.0548216
+        ],
+        [
+          -118.2500933,
+          34.0547481
+        ],
+        [
+          -118.2507686,
+          34.0551862
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "relation",
+    "id": 6333150,
+    "version": 7,
+    "timestamp": "2026-07-08T15:10:35Z",
+    "url": "https://www.openstreetmap.org/relation/6333150"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 319307757,
+      "version": 2,
+      "timestamp": "2016-06-21T18:18:25Z",
+      "url": "https://www.openstreetmap.org/way/319307757"
+    },
+    {
+      "type": "way",
+      "id": 319307763,
+      "version": 2,
+      "timestamp": "2016-06-21T18:18:24Z",
+      "url": "https://www.openstreetmap.org/way/319307763"
+    }
+  ],
+  "wikidata": "Q474326",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/la-disney-concert-hall.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Walt Disney Concert Hall (2003, Frank Gehry), Los Angeles — original procedural geometry, CC0-1.0. bun generators/la-disney-concert-hall.ts [out.glb]",
+    "Map frame: x east, y north, z up, metres; origin at the outline's centroid on the lowest ground under it (the Hope St / 2nd St corner). Placed at bearing 38°, so the block is square to this frame: +x faces Grand Avenue, +y faces 1st Street, −x Hope Street, −y 2nd Street.",
+    "The building: a concert hall whose auditorium (its roof a broad, gently dished white surface, turned about 30° to the street grid) is wrapped in curved, brushed stainless-steel \"sails\". They lean outward and overlap: two tall book-like sails with a glass slot between them face the main entrance at the 1st & Grand corner; a tall bulging sail stands at the south end of Grand with layered, curling sails sweeping across the Grand lobby below it; a pair of tall sails faces the garden to the south-west; a broad rounded sail faces Hope St; a leaning drum stands beside the main entrance with a low curved wall (the one carrying the hall's name) along the plaza. The rest of the block is a limestone podium carrying a raised garden, with a five-storey stone wing along 2nd St.",
+    "Sources:",
+    "Plan: OSM relation/6333150 (outer way/425993488, inner courtyard way/425993505); the building:parts inside it are the Keck children's amphitheatre in the garden (way/319307757, way/319307763).",
+    "Heights and the sails' plan: LA County LARIAC 2006 lidar surface model (Elevation MapServer layer 8), sampled on a 1.5 m grid in this frame. Lowest ground under the outline (3DEP-style bare earth, LARIAC layer 7): 111.85 m, at Hope & 2nd; Grand Ave is ≈ 6 m above it and 1st St ≈ 9 m. Measured over y = 0: the book sails' tops 45–46.5 m, the south-west sails 43–44 m, the Hope St sail ≈ 40 m, the tall Grand sail ≈ 41 m, the lower Grand sails 22–27 m, the drum ≈ 31 m, the 2nd St wing 24 m, the garden deck 16–17 m. The auditorium roof is fitted to the lidar (z = 37.35 − 0.026p + 0.0055p² − 0.0035q + 0.0002q² + 0.0006pq, p and q across and along the hall; rms 1.3 m): lowest mid-hall at ≈ 37 m, rising toward both ends. LARIAC 2020 footprint 486079842670 gives a roof elevation of 155.8 m (≈ 44 m over y = 0), consistent.",
+    "The sails' count, lean, curl and order: photos (Wikimedia Commons), matched to the lidar plan by their camera positions — Grand Ave face: \"Disney Concert Hall by Carol Highsmith\" (public domain), \"Walt Disney Concert Hall\" (Antoine Taveneaux, CC BY-SA 3.0), \"Walt Disney Concert Hall Across Grand\" (Arturoramos, CC BY 3.0); from the 2nd & Grand corner: \"Walt Disney Concert Hall 2013\" (Tuxyso, CC BY-SA 3.0), \"Walt Disney Concert Hall, LA, CA, jjron 22.03.2012\" (jjron, GFDL 1.2), \"Los Angeles, California (September 8, 2022) - 074\" (Another Believer, CC BY-SA 4.0); main entrance at 1st & Grand: \"Walt Disney Concert Hall Building ... (149226095)\" (Giuseppe Milo, CC BY 3.0), \"Walt Disney Concert Hall July 2022\" (Benoît Prieur, CC0); from 1st St: \"Walt Disney Concert Hall - panoramio (17)\" (Андрей Бобровский, CC BY 3.0); from above (City Hall): \"Walt Disney Concert Hall and surrounding area\" (Geographer, CC BY-SA 2.5), \"View of Walt Disney Concert Hall from LA City Hall\" (Levi Clancy, CC BY-SA 4.0). USGS NAIP orthophoto for the roof's outline and the garden.",
+    "Estimated: each sail's lean (2–4 m at the top) and curl, read from the photos; where a sail's base meets the podium (hidden behind lower sails); the Hope St sail's shape (seen in NAIP and from above, few street photos of that side); the lobby glass heights. The lidar is from 2006, three years after completion, so it shows the finished building.",
+    "Left out: the lettering, the stairs, the garden's trees, the rose fountain, the small skylights on the auditorium roof.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"la-disney-concert-hall\", model \"la-disney-concert-hall\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/la-disney-concert-hall.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 679 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the la-disney-concert-hall-glazing finish in the window colour."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

@@ -1,0 +1,155 @@
+{
+  "id": "eastern-columbia-building",
+  "anchor": [
+    -118.2562097,
+    34.0427452
+  ],
+  "coordinateSystem": "Local metres about the anchor (equirectangular, WGS84 radius): X east, Y north, Z up. glTF export: X east, Y up, Z south. Heading already baked.",
+  "license": "ODbL-1.0",
+  "footprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          29.775580143376853,
+          -1.3135699908916838
+        ],
+        [
+          8.403207407631374,
+          -28.520053540734395
+        ],
+        [
+          -29.729459356407194,
+          1.1688546535421882
+        ],
+        [
+          -8.430879879551004,
+          28.58684523599089
+        ],
+        [
+          -8.366310777531318,
+          28.531185490734785
+        ],
+        [
+          29.775580143376853,
+          -1.3135699908916838
+        ]
+      ]
+    ]
+  },
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -118.2558869,
+          34.0427334
+        ],
+        [
+          -118.2561186,
+          34.042489
+        ],
+        [
+          -118.256532,
+          34.0427557
+        ],
+        [
+          -118.2563011,
+          34.043002
+        ],
+        [
+          -118.2563004,
+          34.0430015
+        ],
+        [
+          -118.2558869,
+          34.0427334
+        ]
+      ]
+    ]
+  },
+  "parts": [
+    {
+      "osm": "way/427942790",
+      "tags": {
+        "addr:city": "Los Angeles",
+        "addr:housenumber": "849",
+        "addr:postcode": "90013",
+        "addr:state": "CA",
+        "addr:street": "South Broadway",
+        "building": "residential",
+        "building:units": "1",
+        "gnis:feature_id": "2353782",
+        "height": "57.8",
+        "lacounty:ain": "5144017084",
+        "lacounty:bld_id": "2014092853510000",
+        "name": "Eastern Columbia Building",
+        "source": "USGS Geonames",
+        "start_date": "1930",
+        "website": "https://www.easterncolumbialofts.com",
+        "wikidata": "Q71842",
+        "wikipedia": "en:Eastern Columbia Building"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              29.775580143376853,
+              -1.3135699908916838
+            ],
+            [
+              8.403207407631374,
+              -28.520053540734395
+            ],
+            [
+              -29.729459356407194,
+              1.1688546535421882
+            ],
+            [
+              -8.430879879551004,
+              28.58684523599089
+            ],
+            [
+              -8.366310777531318,
+              28.531185490734785
+            ],
+            [
+              29.775580143376853,
+              -1.3135699908916838
+            ]
+          ]
+        ]
+      },
+      "version": 5,
+      "timestamp": "2026-05-07T13:43:26Z"
+    }
+  ],
+  "osm": {
+    "type": "way",
+    "id": 427942790,
+    "version": 5,
+    "timestamp": "2026-05-07T13:43:26Z",
+    "url": "https://www.openstreetmap.org/way/427942790"
+  },
+  "additionalOsm": [],
+  "tags": {
+    "addr:city": "Los Angeles",
+    "addr:housenumber": "849",
+    "addr:postcode": "90013",
+    "addr:state": "CA",
+    "addr:street": "South Broadway",
+    "building": "residential",
+    "building:units": "1",
+    "gnis:feature_id": "2353782",
+    "height": "57.8",
+    "lacounty:ain": "5144017084",
+    "lacounty:bld_id": "2014092853510000",
+    "name": "Eastern Columbia Building",
+    "source": "USGS Geonames",
+    "start_date": "1930",
+    "website": "https://www.easterncolumbialofts.com",
+    "wikidata": "Q71842",
+    "wikipedia": "en:Eastern Columbia Building"
+  }
+}

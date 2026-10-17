@@ -1,0 +1,452 @@
+{
+  "id": "getty-center",
+  "name": "Getty Center",
+  "anchor": [
+    -118.4740401,
+    34.0771405
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 180400,
+      "sha256": "de8a1982a5ea25ca115e68ecd9d075d78693867172423e107d385314102bdafe"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 180400,
+      "sha256": "de8a1982a5ea25ca115e68ecd9d075d78693867172423e107d385314102bdafe"
+    }
+  },
+  "triangles": 5051,
+  "boundsBlenderM": [
+    [
+      -85.529,
+      -97.682,
+      0
+    ],
+    [
+      92.971,
+      101.745,
+      45.1
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -118.4746318,
+          34.0779206
+        ],
+        [
+          -118.4746237,
+          34.0778908
+        ],
+        [
+          -118.4746101,
+          34.0778404
+        ],
+        [
+          -118.4746094,
+          34.0778126
+        ],
+        [
+          -118.47462,
+          34.0777798
+        ],
+        [
+          -118.4746423,
+          34.0777493
+        ],
+        [
+          -118.474677,
+          34.077722
+        ],
+        [
+          -118.4747141,
+          34.0777122
+        ],
+        [
+          -118.4748979,
+          34.0776806
+        ],
+        [
+          -118.474915,
+          34.0776707
+        ],
+        [
+          -118.4749229,
+          34.0776598
+        ],
+        [
+          -118.4749229,
+          34.0776293
+        ],
+        [
+          -118.4749268,
+          34.0776162
+        ],
+        [
+          -118.4749611,
+          34.0775933
+        ],
+        [
+          -118.4749677,
+          34.0775824
+        ],
+        [
+          -118.4749677,
+          34.0775671
+        ],
+        [
+          -118.4749551,
+          34.0775467
+        ],
+        [
+          -118.4749047,
+          34.0774873
+        ],
+        [
+          -118.4748411,
+          34.0774122
+        ],
+        [
+          -118.4747715,
+          34.0773314
+        ],
+        [
+          -118.4747345,
+          34.0772867
+        ],
+        [
+          -118.4746766,
+          34.0772856
+        ],
+        [
+          -118.4746226,
+          34.0773358
+        ],
+        [
+          -118.4746354,
+          34.0773524
+        ],
+        [
+          -118.4745999,
+          34.0773715
+        ],
+        [
+          -118.4745634,
+          34.0773924
+        ],
+        [
+          -118.47459,
+          34.0774242
+        ],
+        [
+          -118.474577,
+          34.0774307
+        ],
+        [
+          -118.4745528,
+          34.0774133
+        ],
+        [
+          -118.4745225,
+          34.0774002
+        ],
+        [
+          -118.4744764,
+          34.0773947
+        ],
+        [
+          -118.4744395,
+          34.0773991
+        ],
+        [
+          -118.4744092,
+          34.07741
+        ],
+        [
+          -118.4743776,
+          34.0774318
+        ],
+        [
+          -118.4743592,
+          34.0774591
+        ],
+        [
+          -118.4743513,
+          34.0774875
+        ],
+        [
+          -118.4743539,
+          34.0775224
+        ],
+        [
+          -118.4743698,
+          34.0775511
+        ],
+        [
+          -118.4743804,
+          34.0775635
+        ],
+        [
+          -118.4743723,
+          34.0775683
+        ],
+        [
+          -118.4743602,
+          34.077576
+        ],
+        [
+          -118.4743258,
+          34.0775952
+        ],
+        [
+          -118.4742655,
+          34.0776307
+        ],
+        [
+          -118.4742458,
+          34.0776076
+        ],
+        [
+          -118.4741688,
+          34.0776527
+        ],
+        [
+          -118.4742113,
+          34.0777024
+        ],
+        [
+          -118.474175,
+          34.0777236
+        ],
+        [
+          -118.4741679,
+          34.0777278
+        ],
+        [
+          -118.4741629,
+          34.0777307
+        ],
+        [
+          -118.4741604,
+          34.0777609
+        ],
+        [
+          -118.4741911,
+          34.0777626
+        ],
+        [
+          -118.4741886,
+          34.0777943
+        ],
+        [
+          -118.4742246,
+          34.0777963
+        ],
+        [
+          -118.4742222,
+          34.0778258
+        ],
+        [
+          -118.4742518,
+          34.0778274
+        ],
+        [
+          -118.4742489,
+          34.0778634
+        ],
+        [
+          -118.4742822,
+          34.0778653
+        ],
+        [
+          -118.4742796,
+          34.077898
+        ],
+        [
+          -118.4743117,
+          34.0778998
+        ],
+        [
+          -118.4743377,
+          34.0779314
+        ],
+        [
+          -118.4743057,
+          34.0779495
+        ],
+        [
+          -118.4743628,
+          34.0780188
+        ],
+        [
+          -118.4743882,
+          34.0780497
+        ],
+        [
+          -118.474393,
+          34.0780555
+        ],
+        [
+          -118.4745854,
+          34.0779468
+        ],
+        [
+          -118.4746234,
+          34.0779254
+        ],
+        [
+          -118.4746318,
+          34.0779206
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 481451917,
+    "version": 4,
+    "timestamp": "2023-03-13T05:56:07Z",
+    "url": "https://www.openstreetmap.org/way/481451917"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 481417424,
+      "version": 6,
+      "timestamp": "2023-03-13T05:56:07Z",
+      "url": "https://www.openstreetmap.org/way/481417424"
+    },
+    {
+      "type": "way",
+      "id": 481417422,
+      "version": 5,
+      "timestamp": "2023-03-13T05:56:07Z",
+      "url": "https://www.openstreetmap.org/way/481417422"
+    },
+    {
+      "type": "way",
+      "id": 1153949919,
+      "version": 1,
+      "timestamp": "2023-03-13T05:56:07Z",
+      "url": "https://www.openstreetmap.org/way/1153949919"
+    },
+    {
+      "type": "way",
+      "id": 481417416,
+      "version": 6,
+      "timestamp": "2023-03-13T05:56:07Z",
+      "url": "https://www.openstreetmap.org/way/481417416"
+    },
+    {
+      "type": "way",
+      "id": 481417431,
+      "version": 5,
+      "timestamp": "2023-03-13T05:56:07Z",
+      "url": "https://www.openstreetmap.org/way/481417431"
+    },
+    {
+      "type": "way",
+      "id": 481417423,
+      "version": 1,
+      "timestamp": "2017-03-19T17:36:54Z",
+      "url": "https://www.openstreetmap.org/way/481417423"
+    },
+    {
+      "type": "way",
+      "id": 481417418,
+      "version": 7,
+      "timestamp": "2023-03-13T05:56:07Z",
+      "url": "https://www.openstreetmap.org/way/481417418"
+    },
+    {
+      "type": "way",
+      "id": 481417420,
+      "version": 5,
+      "timestamp": "2023-09-02T00:13:21Z",
+      "url": "https://www.openstreetmap.org/way/481417420"
+    },
+    {
+      "type": "way",
+      "id": 481509203,
+      "version": 2,
+      "timestamp": "2023-03-13T05:56:07Z",
+      "url": "https://www.openstreetmap.org/way/481509203"
+    },
+    {
+      "type": "way",
+      "id": 481417426,
+      "version": 2,
+      "timestamp": "2023-03-13T05:56:07Z",
+      "url": "https://www.openstreetmap.org/way/481417426"
+    },
+    {
+      "type": "way",
+      "id": 481417428,
+      "version": 3,
+      "timestamp": "2023-03-13T04:03:54Z",
+      "url": "https://www.openstreetmap.org/way/481417428"
+    },
+    {
+      "type": "way",
+      "id": 481451919,
+      "version": 3,
+      "timestamp": "2023-03-13T05:56:07Z",
+      "url": "https://www.openstreetmap.org/way/481451919"
+    },
+    {
+      "type": "way",
+      "id": 481451918,
+      "version": 1,
+      "timestamp": "2017-03-19T21:02:56Z",
+      "url": "https://www.openstreetmap.org/way/481451918"
+    }
+  ],
+  "wikidata": "Q29247",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/la-getty-center.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "The Getty Center museum (1997, Richard Meier & Partners), Brentwood, Los Angeles: the Museum Entrance Hall and its rotunda, and the North, East, South and West pavilions, the Exhibitions Pavilion and the Family Room round the museum courtyard — original procedural geometry, CC0-1.0. The Research Institute, the auditorium, the Conservation Institute and the restaurant are left to the map.",
+    "Also the small kit the other B10 Westside models import (la-century-plaza-towers, la-fox-plaza, la-la-temple, la-royce-hall): frames, softened prisms, panels and arched panels, hip roofs, cylinders, half-plane clipping. Importing this file builds nothing; the Getty is only written when it is run directly.",
+    "Frame: x east, y north, z up, metres; bearing 0 (the campus is laid out on two grids 22.5° apart, so no single axis fits). Origin at the area centroid of the museum outlines, on the lowest bare ground under them: 248.1 m, where the Entrance Hall steps down to the arrival side. The courtyard deck is at 273.5 m; the pavilion roofs at 293.2 m.",
+    "The museum reads as a cluster of cubic pavilions in rough cream travertine, linked by white enamel-panelled halls, with the round white drum of the Entrance Hall rotunda at the north. Those, the courtyard between them and the flat white roofs are the identity.",
+    "Evidence",
+    "Plans: OSM ways as listed in `replaces` (the pavilions, three building:parts of the South Pavilion, three building=roof canopies and a lift tower), used as given. The rotunda: a circle fitted to the Entrance Hall's arc, centre (-42.9, 52.6) from (-118.47401, 34.07702), r 11.5 m.",
+    "Heights: LA County lidar surface model (LACounty_Dynamic/Elevation layer 8, 2.5 m grid, 7,134 samples) per outline over 248.1 m: North and East pavilions 45.1, Family Room 42.2, Exhibitions 42.2 with its south-west half 45.1, West 42.1 with its east half 45.1, South 33.4 with parts at 45.1 and 37.8, Entrance Hall 39.4, rotunda 45.1, canopies 37.8–39.1, courtyard deck 25.4. USGS 3DEP bare earth: 248–268 under the outlines, 260–261 in the courtyard (the deck is missing from it, so it is modelled; see below).",
+    "Photos (Wikimedia Commons), compared with renders from the same side: g1 \"Aerial Getty Museum\" (Jelson25, public domain) — from the south, the whole campus from the air; g2 \"Getty Center (4343388113)\" (Chris M Morris, CC BY 2.0) — the courtyard looking south-west, travertine cubes and the fountain; g3 \"Brentwood ... panoramio (13)\" and \"(11)\" (Mickey Løgitmark, CC BY 3.0) — the Entrance Hall's enamel front and the rotunda's tiers; g4 \"Getty Center, Los Angeles, California (6)\" (Ken Lund, CC BY-SA 2.0) — the rotunda from the courtyard; g5 \"Inner Courtyard of Getty Museum\" (Freier Denker, CC0); g6 \"Getty Center from Central Garden\" (Robert F. Tobler, CC BY-SA 4.0) — the West Pavilion over the garden, from the west. USGS NAIP orthophoto for the plan and the white roofs.",
+    "Colour: the photos (cream travertine, white enamel panels, white roofs), pulled to the palette's lightness.",
+    "The courtyard deck: the plaza between the pavilions stands over lower floors and is absent from the bare-earth model, 12–13 m below it, so without it the courtyard would read as a pit on the map. It is drawn as a travertine podium to the deck level, not as paving.",
+    "Estimated: which faces are enamel and which travertine (per building, from the photos), window panels (one broad window per face above the deck, a band of the lower floors on the outside faces), the rotunda's glazed tiers, the canopies' thickness. Left out: the fountains, gardens, stairs, the cactus garden promontory, the tram station.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"la-getty-center\", model \"la-getty-center\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/la-getty-center.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

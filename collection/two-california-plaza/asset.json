@@ -1,0 +1,223 @@
+{
+  "id": "two-california-plaza",
+  "name": "Two California Plaza",
+  "anchor": [
+    -118.2516517,
+    34.0514465
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 13,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 90800,
+      "sha256": "3dd1eb4655cc21033cc78b26dd1b24b29f2f670c7cf2e7e94b63b99ffb710125"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 90800,
+      "sha256": "3dd1eb4655cc21033cc78b26dd1b24b29f2f670c7cf2e7e94b63b99ffb710125"
+    }
+  },
+  "triangles": 1768,
+  "boundsBlenderM": [
+    [
+      -32.913,
+      -32.972,
+      0
+    ],
+    [
+      32.913,
+      32.972,
+      238
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -118.2520081,
+          34.0515081
+        ],
+        [
+          -118.2519633,
+          34.051479
+        ],
+        [
+          -118.2519978,
+          34.0514444
+        ],
+        [
+          -118.2519527,
+          34.0514151
+        ],
+        [
+          -118.2519729,
+          34.0513942
+        ],
+        [
+          -118.2519899,
+          34.0513766
+        ],
+        [
+          -118.2516964,
+          34.0511864
+        ],
+        [
+          -118.2516764,
+          34.0511741
+        ],
+        [
+          -118.2516688,
+          34.0511716
+        ],
+        [
+          -118.2516483,
+          34.0511648
+        ],
+        [
+          -118.2516241,
+          34.0511589
+        ],
+        [
+          -118.2515889,
+          34.051156
+        ],
+        [
+          -118.2515604,
+          34.051158
+        ],
+        [
+          -118.2515279,
+          34.0511651
+        ],
+        [
+          -118.2515024,
+          34.0511748
+        ],
+        [
+          -118.2514697,
+          34.0511935
+        ],
+        [
+          -118.2514446,
+          34.0512188
+        ],
+        [
+          -118.251344,
+          34.051327
+        ],
+        [
+          -118.251334,
+          34.0513377
+        ],
+        [
+          -118.2512966,
+          34.0513781
+        ],
+        [
+          -118.2513201,
+          34.0513935
+        ],
+        [
+          -118.2513433,
+          34.0514088
+        ],
+        [
+          -118.2513062,
+          34.0514488
+        ],
+        [
+          -118.2513488,
+          34.0514765
+        ],
+        [
+          -118.2513126,
+          34.0515155
+        ],
+        [
+          -118.2516246,
+          34.0517167
+        ],
+        [
+          -118.2516594,
+          34.0517312
+        ],
+        [
+          -118.2516973,
+          34.0517385
+        ],
+        [
+          -118.2517362,
+          34.0517384
+        ],
+        [
+          -118.251774,
+          34.0517309
+        ],
+        [
+          -118.2518087,
+          34.0517164
+        ],
+        [
+          -118.2518384,
+          34.0516957
+        ],
+        [
+          -118.2520081,
+          34.0515081
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 48847807,
+    "version": 11,
+    "timestamp": "2022-10-17T13:53:59Z",
+    "url": "https://www.openstreetmap.org/way/48847807"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q2319313",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/la-two-california-plaza.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Two California Plaza (1992, Arthur Erickson), Los Angeles — original procedural geometry, CC0-1.0. bun generators/la-two-california-plaza.ts [out.glb]",
+    "Map frame: x east, y north, z up, metres; origin at the centroid of the OSM outline (way/48847807) on the lowest ground under it (the Olive Street side). Placed at bearing 37.9°, so the tower's faces are square to x, y.",
+    "A blue-green glass tower, 61 × 50 m, with two opposite corners rounded (r ≈ 14 m) and the other two cut back in two 5 m steps, the steps reading as darker recessed strips up the full height. It stands on a granite base with round porthole windows where the ground falls away from California Plaza towards Olive Street.",
+    "Sources:",
+    "Plan: OSM way/48847807 (52 levels), used as drawn: corners at ±30.5, ±25.2, steps at 5.5 and 5.4 m.",
+    "Height: LA County LARIAC 2020 lidar footprint 485426841221, max 235.2 m, roof elevation 338.1 m; 3DEP bare earth falls from ≈ 118 m (the plaza, north and west) to ≈ 100 m (south and east), so the roof is ≈ 238 m over the lowest ground. Published 228.6 m / 750 ft (Wikipedia), measured from the plaza.",
+    "Base height (18 m, the plaza's height over Olive St) from 3DEP; porthole rows from photo c4. Glass colour from c3, c4, c11.",
+    "Photos (Wikimedia Commons): c3 \"Two California Plaza 2015\" (CookieMonster …, CC BY-SA 4.0, stepped corner and rounded corner, from the south-east below); c4 \"Two California Plaza - 350 S. Grand Avenue, Los Angeles\" (Downtowngal, CC BY-SA 3.0, from the east up 4th Street, base); c11 \"California Plaza 1 and 2\" (Selvingarcia, CC BY-SA 3.0, top).",
+    "The top five floors round the corners off more deeply (r 19 m), the step-down at the crown seen in c4; its depth is estimated.",
+    "Left out: the row of louvre panels, the signs. Its identity is mostly the rounded and stepped corners on a plain glass prism; see the batch notes.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"la-two-california-plaza\", model \"la-two-california-plaza\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/la-two-california-plaza.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

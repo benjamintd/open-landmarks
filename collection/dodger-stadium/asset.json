@@ -1,0 +1,1027 @@
+{
+  "id": "dodger-stadium",
+  "name": "Dodger Stadium",
+  "anchor": [
+    -118.2400507,
+    34.0736933
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 176528,
+      "sha256": "b870e6cdc9715ceef047ffd9b0d073fae118044ad97a3cb706b85a9c2b7bcfb1"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 176528,
+      "sha256": "b870e6cdc9715ceef047ffd9b0d073fae118044ad97a3cb706b85a9c2b7bcfb1"
+    }
+  },
+  "triangles": 2932,
+  "boundsBlenderM": [
+    [
+      -102.35,
+      -128.252,
+      0
+    ],
+    [
+      142.635,
+      120.156,
+      47.837
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -118.2407253,
+          34.0746176
+        ],
+        [
+          -118.2402194,
+          34.074712
+        ],
+        [
+          -118.239877,
+          34.074726
+        ],
+        [
+          -118.2396247,
+          34.0747026
+        ],
+        [
+          -118.2396112,
+          34.074741
+        ],
+        [
+          -118.2395361,
+          34.0746924
+        ],
+        [
+          -118.239466,
+          34.074657
+        ],
+        [
+          -118.2393897,
+          34.0746316
+        ],
+        [
+          -118.239322,
+          34.0746177
+        ],
+        [
+          -118.239124,
+          34.0744229
+        ],
+        [
+          -118.2389502,
+          34.0741901
+        ],
+        [
+          -118.2387553,
+          34.0738022
+        ],
+        [
+          -118.2385368,
+          34.0737892
+        ],
+        [
+          -118.2385465,
+          34.0737197
+        ],
+        [
+          -118.2385643,
+          34.0736556
+        ],
+        [
+          -118.2385846,
+          34.0735954
+        ],
+        [
+          -118.2386484,
+          34.0734637
+        ],
+        [
+          -118.238735,
+          34.073356
+        ],
+        [
+          -118.2387815,
+          34.0733057
+        ],
+        [
+          -118.2387696,
+          34.0732966
+        ],
+        [
+          -118.2388152,
+          34.0732554
+        ],
+        [
+          -118.2388879,
+          34.0732049
+        ],
+        [
+          -118.2390159,
+          34.0731308
+        ],
+        [
+          -118.238972,
+          34.0730783
+        ],
+        [
+          -118.2390249,
+          34.0730477
+        ],
+        [
+          -118.2389735,
+          34.0729861
+        ],
+        [
+          -118.2390529,
+          34.0729401
+        ],
+        [
+          -118.2390823,
+          34.0729753
+        ],
+        [
+          -118.2391572,
+          34.072932
+        ],
+        [
+          -118.2392494,
+          34.0730424
+        ],
+        [
+          -118.2392054,
+          34.0730679
+        ],
+        [
+          -118.2391987,
+          34.07306
+        ],
+        [
+          -118.2390885,
+          34.0731238
+        ],
+        [
+          -118.2391104,
+          34.07315
+        ],
+        [
+          -118.239222,
+          34.0730876
+        ],
+        [
+          -118.2395526,
+          34.0729074
+        ],
+        [
+          -118.239671,
+          34.0728415
+        ],
+        [
+          -118.2396939,
+          34.07287
+        ],
+        [
+          -118.2396986,
+          34.0728674
+        ],
+        [
+          -118.2396768,
+          34.0728403
+        ],
+        [
+          -118.239705,
+          34.0728246
+        ],
+        [
+          -118.2396756,
+          34.0727881
+        ],
+        [
+          -118.2396812,
+          34.072785
+        ],
+        [
+          -118.2395821,
+          34.0726615
+        ],
+        [
+          -118.2396588,
+          34.0726225
+        ],
+        [
+          -118.2397516,
+          34.072749
+        ],
+        [
+          -118.2398165,
+          34.0727226
+        ],
+        [
+          -118.2398877,
+          34.0726991
+        ],
+        [
+          -118.2398614,
+          34.0726234
+        ],
+        [
+          -118.2399428,
+          34.0726037
+        ],
+        [
+          -118.2400292,
+          34.0725882
+        ],
+        [
+          -118.2400443,
+          34.0726661
+        ],
+        [
+          -118.2401275,
+          34.072658
+        ],
+        [
+          -118.2402861,
+          34.07266
+        ],
+        [
+          -118.240294,
+          34.0725404
+        ],
+        [
+          -118.2402416,
+          34.072538
+        ],
+        [
+          -118.2402447,
+          34.0724912
+        ],
+        [
+          -118.2403033,
+          34.0724939
+        ],
+        [
+          -118.2403005,
+          34.0725363
+        ],
+        [
+          -118.2403629,
+          34.0725405
+        ],
+        [
+          -118.2403854,
+          34.0725434
+        ],
+        [
+          -118.240425,
+          34.0725484
+        ],
+        [
+          -118.2404865,
+          34.0725598
+        ],
+        [
+          -118.2405268,
+          34.0725693
+        ],
+        [
+          -118.2405862,
+          34.0725863
+        ],
+        [
+          -118.2406578,
+          34.0726107
+        ],
+        [
+          -118.2407225,
+          34.0726362
+        ],
+        [
+          -118.240754,
+          34.0726503
+        ],
+        [
+          -118.2408151,
+          34.0726813
+        ],
+        [
+          -118.2408733,
+          34.0727158
+        ],
+        [
+          -118.2409142,
+          34.0727443
+        ],
+        [
+          -118.2409541,
+          34.0727737
+        ],
+        [
+          -118.2409929,
+          34.0728041
+        ],
+        [
+          -118.2410278,
+          34.072833
+        ],
+        [
+          -118.2410307,
+          34.0728354
+        ],
+        [
+          -118.2410116,
+          34.0728504
+        ],
+        [
+          -118.2410299,
+          34.0728665
+        ],
+        [
+          -118.2410843,
+          34.0729251
+        ],
+        [
+          -118.2411198,
+          34.0729696
+        ],
+        [
+          -118.24101,
+          34.0730301
+        ],
+        [
+          -118.2410198,
+          34.0730425
+        ],
+        [
+          -118.2410488,
+          34.0730834
+        ],
+        [
+          -118.2411341,
+          34.0730483
+        ],
+        [
+          -118.2411762,
+          34.0731255
+        ],
+        [
+          -118.2412014,
+          34.0731841
+        ],
+        [
+          -118.24111,
+          34.0732079
+        ],
+        [
+          -118.2411329,
+          34.0732799
+        ],
+        [
+          -118.2411468,
+          34.0733347
+        ],
+        [
+          -118.2413967,
+          34.0733063
+        ],
+        [
+          -118.2414047,
+          34.0733547
+        ],
+        [
+          -118.2414113,
+          34.0733539
+        ],
+        [
+          -118.2414163,
+          34.0733845
+        ],
+        [
+          -118.2414022,
+          34.0733861
+        ],
+        [
+          -118.2414096,
+          34.0734309
+        ],
+        [
+          -118.2414128,
+          34.0734305
+        ],
+        [
+          -118.2414251,
+          34.0735058
+        ],
+        [
+          -118.2413425,
+          34.0735151
+        ],
+        [
+          -118.2413416,
+          34.0735092
+        ],
+        [
+          -118.241309,
+          34.0735129
+        ],
+        [
+          -118.2413099,
+          34.0735184
+        ],
+        [
+          -118.2412395,
+          34.0735264
+        ],
+        [
+          -118.2412382,
+          34.0735184
+        ],
+        [
+          -118.2411447,
+          34.073529
+        ],
+        [
+          -118.2411419,
+          34.0735117
+        ],
+        [
+          -118.2411439,
+          34.0735115
+        ],
+        [
+          -118.2411404,
+          34.0734896
+        ],
+        [
+          -118.2411502,
+          34.0734885
+        ],
+        [
+          -118.241144,
+          34.073451
+        ],
+        [
+          -118.2411499,
+          34.0734503
+        ],
+        [
+          -118.2411425,
+          34.0734052
+        ],
+        [
+          -118.2411002,
+          34.0734085
+        ],
+        [
+          -118.2411009,
+          34.0734364
+        ],
+        [
+          -118.2410618,
+          34.0734376
+        ],
+        [
+          -118.2410619,
+          34.0734404
+        ],
+        [
+          -118.2411026,
+          34.0734391
+        ],
+        [
+          -118.2411506,
+          34.0741105
+        ],
+        [
+          -118.2412215,
+          34.074107
+        ],
+        [
+          -118.2412268,
+          34.0741802
+        ],
+        [
+          -118.2412201,
+          34.0742492
+        ],
+        [
+          -118.2412088,
+          34.07431
+        ],
+        [
+          -118.2411871,
+          34.0743072
+        ],
+        [
+          -118.2411688,
+          34.074373
+        ],
+        [
+          -118.2411352,
+          34.0744517
+        ],
+        [
+          -118.2411025,
+          34.0745138
+        ],
+        [
+          -118.2410638,
+          34.0745713
+        ],
+        [
+          -118.2410027,
+          34.0746444
+        ],
+        [
+          -118.2409266,
+          34.074717
+        ],
+        [
+          -118.2408703,
+          34.0747588
+        ],
+        [
+          -118.2407253,
+          34.0746176
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 1353249584,
+    "version": 5,
+    "timestamp": "2026-07-20T16:13:46Z",
+    "url": "https://www.openstreetmap.org/way/1353249584"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 1348907079,
+      "version": 6,
+      "timestamp": "2025-01-06T06:15:24Z",
+      "url": "https://www.openstreetmap.org/way/1348907079"
+    },
+    {
+      "type": "way",
+      "id": 1348907080,
+      "version": 6,
+      "timestamp": "2025-01-06T06:15:24Z",
+      "url": "https://www.openstreetmap.org/way/1348907080"
+    },
+    {
+      "type": "way",
+      "id": 1348907436,
+      "version": 12,
+      "timestamp": "2025-01-06T06:35:40Z",
+      "url": "https://www.openstreetmap.org/way/1348907436"
+    },
+    {
+      "type": "way",
+      "id": 1348909324,
+      "version": 3,
+      "timestamp": "2025-01-06T06:35:40Z",
+      "url": "https://www.openstreetmap.org/way/1348909324"
+    },
+    {
+      "type": "way",
+      "id": 1348909325,
+      "version": 3,
+      "timestamp": "2025-01-06T06:35:40Z",
+      "url": "https://www.openstreetmap.org/way/1348909325"
+    },
+    {
+      "type": "way",
+      "id": 1348909326,
+      "version": 3,
+      "timestamp": "2025-01-06T06:35:40Z",
+      "url": "https://www.openstreetmap.org/way/1348909326"
+    },
+    {
+      "type": "way",
+      "id": 1348909327,
+      "version": 2,
+      "timestamp": "2025-01-06T06:15:24Z",
+      "url": "https://www.openstreetmap.org/way/1348909327"
+    },
+    {
+      "type": "way",
+      "id": 1348909328,
+      "version": 3,
+      "timestamp": "2025-01-06T06:35:40Z",
+      "url": "https://www.openstreetmap.org/way/1348909328"
+    },
+    {
+      "type": "way",
+      "id": 1348909329,
+      "version": 3,
+      "timestamp": "2025-01-06T06:35:40Z",
+      "url": "https://www.openstreetmap.org/way/1348909329"
+    },
+    {
+      "type": "way",
+      "id": 1348910120,
+      "version": 1,
+      "timestamp": "2025-01-06T06:15:24Z",
+      "url": "https://www.openstreetmap.org/way/1348910120"
+    },
+    {
+      "type": "way",
+      "id": 1348910121,
+      "version": 1,
+      "timestamp": "2025-01-06T06:15:24Z",
+      "url": "https://www.openstreetmap.org/way/1348910121"
+    },
+    {
+      "type": "way",
+      "id": 1348910122,
+      "version": 1,
+      "timestamp": "2025-01-06T06:15:24Z",
+      "url": "https://www.openstreetmap.org/way/1348910122"
+    },
+    {
+      "type": "way",
+      "id": 1348910123,
+      "version": 1,
+      "timestamp": "2025-01-06T06:15:24Z",
+      "url": "https://www.openstreetmap.org/way/1348910123"
+    },
+    {
+      "type": "way",
+      "id": 1348910124,
+      "version": 1,
+      "timestamp": "2025-01-06T06:15:24Z",
+      "url": "https://www.openstreetmap.org/way/1348910124"
+    },
+    {
+      "type": "way",
+      "id": 1348910125,
+      "version": 1,
+      "timestamp": "2025-01-06T06:15:24Z",
+      "url": "https://www.openstreetmap.org/way/1348910125"
+    },
+    {
+      "type": "way",
+      "id": 1348910126,
+      "version": 1,
+      "timestamp": "2025-01-06T06:15:24Z",
+      "url": "https://www.openstreetmap.org/way/1348910126"
+    },
+    {
+      "type": "way",
+      "id": 1348911392,
+      "version": 3,
+      "timestamp": "2025-01-06T06:37:51Z",
+      "url": "https://www.openstreetmap.org/way/1348911392"
+    },
+    {
+      "type": "way",
+      "id": 1348911393,
+      "version": 4,
+      "timestamp": "2025-01-06T06:37:51Z",
+      "url": "https://www.openstreetmap.org/way/1348911393"
+    },
+    {
+      "type": "way",
+      "id": 1348911394,
+      "version": 3,
+      "timestamp": "2025-01-06T06:37:51Z",
+      "url": "https://www.openstreetmap.org/way/1348911394"
+    },
+    {
+      "type": "way",
+      "id": 1348911395,
+      "version": 4,
+      "timestamp": "2025-01-06T06:37:51Z",
+      "url": "https://www.openstreetmap.org/way/1348911395"
+    },
+    {
+      "type": "way",
+      "id": 1348911396,
+      "version": 2,
+      "timestamp": "2025-01-06T06:30:37Z",
+      "url": "https://www.openstreetmap.org/way/1348911396"
+    },
+    {
+      "type": "way",
+      "id": 1348911397,
+      "version": 4,
+      "timestamp": "2025-01-06T06:37:51Z",
+      "url": "https://www.openstreetmap.org/way/1348911397"
+    },
+    {
+      "type": "way",
+      "id": 1348911398,
+      "version": 3,
+      "timestamp": "2025-01-06T06:37:51Z",
+      "url": "https://www.openstreetmap.org/way/1348911398"
+    },
+    {
+      "type": "way",
+      "id": 1348911399,
+      "version": 3,
+      "timestamp": "2025-01-06T06:33:37Z",
+      "url": "https://www.openstreetmap.org/way/1348911399"
+    },
+    {
+      "type": "way",
+      "id": 1348911400,
+      "version": 3,
+      "timestamp": "2025-01-06T06:37:51Z",
+      "url": "https://www.openstreetmap.org/way/1348911400"
+    },
+    {
+      "type": "way",
+      "id": 1348911401,
+      "version": 3,
+      "timestamp": "2025-01-06T06:33:37Z",
+      "url": "https://www.openstreetmap.org/way/1348911401"
+    },
+    {
+      "type": "way",
+      "id": 1348911402,
+      "version": 3,
+      "timestamp": "2025-01-06T06:33:37Z",
+      "url": "https://www.openstreetmap.org/way/1348911402"
+    },
+    {
+      "type": "way",
+      "id": 1348911403,
+      "version": 4,
+      "timestamp": "2025-01-06T06:37:51Z",
+      "url": "https://www.openstreetmap.org/way/1348911403"
+    },
+    {
+      "type": "way",
+      "id": 1348911404,
+      "version": 3,
+      "timestamp": "2025-01-06T06:33:37Z",
+      "url": "https://www.openstreetmap.org/way/1348911404"
+    },
+    {
+      "type": "way",
+      "id": 1348911405,
+      "version": 4,
+      "timestamp": "2025-01-06T06:37:51Z",
+      "url": "https://www.openstreetmap.org/way/1348911405"
+    },
+    {
+      "type": "way",
+      "id": 1348911406,
+      "version": 3,
+      "timestamp": "2025-01-06T06:31:12Z",
+      "url": "https://www.openstreetmap.org/way/1348911406"
+    },
+    {
+      "type": "way",
+      "id": 1348911644,
+      "version": 2,
+      "timestamp": "2025-01-06T06:39:45Z",
+      "url": "https://www.openstreetmap.org/way/1348911644"
+    },
+    {
+      "type": "way",
+      "id": 1348912163,
+      "version": 2,
+      "timestamp": "2025-01-06T06:45:19Z",
+      "url": "https://www.openstreetmap.org/way/1348912163"
+    },
+    {
+      "type": "way",
+      "id": 1348912518,
+      "version": 1,
+      "timestamp": "2025-01-06T06:45:19Z",
+      "url": "https://www.openstreetmap.org/way/1348912518"
+    },
+    {
+      "type": "way",
+      "id": 1348912519,
+      "version": 1,
+      "timestamp": "2025-01-06T06:45:19Z",
+      "url": "https://www.openstreetmap.org/way/1348912519"
+    },
+    {
+      "type": "way",
+      "id": 1348912520,
+      "version": 1,
+      "timestamp": "2025-01-06T06:45:19Z",
+      "url": "https://www.openstreetmap.org/way/1348912520"
+    },
+    {
+      "type": "way",
+      "id": 1348912521,
+      "version": 1,
+      "timestamp": "2025-01-06T06:45:19Z",
+      "url": "https://www.openstreetmap.org/way/1348912521"
+    },
+    {
+      "type": "way",
+      "id": 1348912522,
+      "version": 1,
+      "timestamp": "2025-01-06T06:45:19Z",
+      "url": "https://www.openstreetmap.org/way/1348912522"
+    },
+    {
+      "type": "way",
+      "id": 1348912523,
+      "version": 1,
+      "timestamp": "2025-01-06T06:45:19Z",
+      "url": "https://www.openstreetmap.org/way/1348912523"
+    },
+    {
+      "type": "way",
+      "id": 1348912524,
+      "version": 1,
+      "timestamp": "2025-01-06T06:45:19Z",
+      "url": "https://www.openstreetmap.org/way/1348912524"
+    },
+    {
+      "type": "way",
+      "id": 1348912525,
+      "version": 1,
+      "timestamp": "2025-01-06T06:45:19Z",
+      "url": "https://www.openstreetmap.org/way/1348912525"
+    },
+    {
+      "type": "way",
+      "id": 1348912526,
+      "version": 1,
+      "timestamp": "2025-01-06T06:45:19Z",
+      "url": "https://www.openstreetmap.org/way/1348912526"
+    },
+    {
+      "type": "way",
+      "id": 1348912527,
+      "version": 1,
+      "timestamp": "2025-01-06T06:45:19Z",
+      "url": "https://www.openstreetmap.org/way/1348912527"
+    },
+    {
+      "type": "way",
+      "id": 1348912528,
+      "version": 1,
+      "timestamp": "2025-01-06T06:45:19Z",
+      "url": "https://www.openstreetmap.org/way/1348912528"
+    },
+    {
+      "type": "way",
+      "id": 1348912529,
+      "version": 1,
+      "timestamp": "2025-01-06T06:45:19Z",
+      "url": "https://www.openstreetmap.org/way/1348912529"
+    },
+    {
+      "type": "way",
+      "id": 1348912530,
+      "version": 1,
+      "timestamp": "2025-01-06T06:45:19Z",
+      "url": "https://www.openstreetmap.org/way/1348912530"
+    },
+    {
+      "type": "way",
+      "id": 1348912531,
+      "version": 1,
+      "timestamp": "2025-01-06T06:45:19Z",
+      "url": "https://www.openstreetmap.org/way/1348912531"
+    },
+    {
+      "type": "way",
+      "id": 1348912532,
+      "version": 1,
+      "timestamp": "2025-01-06T06:45:19Z",
+      "url": "https://www.openstreetmap.org/way/1348912532"
+    },
+    {
+      "type": "way",
+      "id": 1348912533,
+      "version": 1,
+      "timestamp": "2025-01-06T06:45:19Z",
+      "url": "https://www.openstreetmap.org/way/1348912533"
+    },
+    {
+      "type": "way",
+      "id": 1348912534,
+      "version": 1,
+      "timestamp": "2025-01-06T06:45:19Z",
+      "url": "https://www.openstreetmap.org/way/1348912534"
+    },
+    {
+      "type": "way",
+      "id": 1348912535,
+      "version": 1,
+      "timestamp": "2025-01-06T06:45:19Z",
+      "url": "https://www.openstreetmap.org/way/1348912535"
+    },
+    {
+      "type": "way",
+      "id": 1348912536,
+      "version": 1,
+      "timestamp": "2025-01-06T06:45:19Z",
+      "url": "https://www.openstreetmap.org/way/1348912536"
+    },
+    {
+      "type": "way",
+      "id": 1348912537,
+      "version": 1,
+      "timestamp": "2025-01-06T06:45:19Z",
+      "url": "https://www.openstreetmap.org/way/1348912537"
+    },
+    {
+      "type": "way",
+      "id": 1348912538,
+      "version": 1,
+      "timestamp": "2025-01-06T06:45:19Z",
+      "url": "https://www.openstreetmap.org/way/1348912538"
+    },
+    {
+      "type": "way",
+      "id": 1348912539,
+      "version": 1,
+      "timestamp": "2025-01-06T06:45:19Z",
+      "url": "https://www.openstreetmap.org/way/1348912539"
+    },
+    {
+      "type": "way",
+      "id": 1348912540,
+      "version": 1,
+      "timestamp": "2025-01-06T06:45:19Z",
+      "url": "https://www.openstreetmap.org/way/1348912540"
+    },
+    {
+      "type": "way",
+      "id": 1348912541,
+      "version": 1,
+      "timestamp": "2025-01-06T06:45:19Z",
+      "url": "https://www.openstreetmap.org/way/1348912541"
+    },
+    {
+      "type": "way",
+      "id": 1348912542,
+      "version": 1,
+      "timestamp": "2025-01-06T06:45:19Z",
+      "url": "https://www.openstreetmap.org/way/1348912542"
+    },
+    {
+      "type": "way",
+      "id": 1348912543,
+      "version": 1,
+      "timestamp": "2025-01-06T06:45:19Z",
+      "url": "https://www.openstreetmap.org/way/1348912543"
+    },
+    {
+      "type": "way",
+      "id": 1348912544,
+      "version": 1,
+      "timestamp": "2025-01-06T06:45:19Z",
+      "url": "https://www.openstreetmap.org/way/1348912544"
+    }
+  ],
+  "wikidata": "Q247420",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/la-dodger-stadium.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Dodger Stadium, Los Angeles (1962, Emil Praeger) — procedural, CC0-1.0. bun generators/la-dodger-stadium.ts",
+    "Map frame: x across the field, y from home plate out to centre field, z up, metres. Placed at bearing 27°, home plate to centre field (the symmetry axis of the LARIAC 2020 grandstand footprint and of OSM way/1353249584, fitted by mirror distance). The anchor is the area centroid of OSM way/1353249584 (leisure=stadium, the grandstand and both pavilions). y = 0 is the playing field (152.8 m, USGS 3DEP), the lowest ground under the footprint. The stadium is cut into Chavez Ravine: outside the stands the parking lots sit 25-28 m above the field on the sides and about 40 m behind home plate, so the back of the stands runs down to y = 0 inside the hill and only its top shows above the lots.",
+    "What makes it Dodger Stadium, from above: the tiered horseshoe of stands (yellow field and loge levels, pale blue reserve and top deck, blue fascias between them), the white zigzag canopy along the top of the stands, the two low outfield pavilions under their own zigzag roofs, and the hexagonal video boards on the light standards behind them.",
+    "Sources:",
+    "Plan: LARIAC 2020 building footprint 2014092851630000 (the grandstand: field wall, ends and outer plaza edge, in this frame); OSM way/1353249584 and its 60 building:parts (the pavilions: seating steps way/1348907079 and way/1348911406, back blocks way/1348907080 and way/1348911644, 28 skillion roof panels 12-13 m, 28 roof posts). USGS NAIP orthophoto for the tier boundaries and colours from above.",
+    "Heights: LA County 2006 lidar surface model on a 4 m grid in this frame, over 3DEP bare earth. Stands: field level 0-10 m, a step to the loge at 18 m, the reserve and top deck to the back row at 36-40 m, the canopy and its lights at 41-47 m; the back of the stands is 91-98 m from a point 20 m behind home plate, widening to 120 m along the straight sides. Pavilions 2-12 m, video boards and light banks 41 m.",
+    "Photos (Wikimedia Commons / Flickr): \"Dodger Stadium from the Air\" (kla4067, CC BY 2.0; from the north-east, behind centre field), \"Aerial view of Dodger Stadium, April 2024\" (Pi.1415926535, CC BY-SA 4.0), \"Dodger Stadium field from upper deck 2015-10-04\" (Junkyardsparkle, CC0), \"Dodger Stadium from Top Deck evening 2021-06-28\" (DukeOfDelTaco, CC BY-SA 4.0), Ken Lund's 2008 and 2014 series (CC BY-SA 2.0: the pavilion's zigzag roof, the hexagonal board, the canopy over the top deck), \"Dodger Stadium (16188933601)\" (redlegsfan21, CC BY-SA 2.0).",
+    "Estimated: the tier fractions between field wall and back row (from the lidar steps along five rays), the canopy depth and the height of its zigzag, the board size (about 24 × 11 m, from photos against the pavilion roof panels), the light standards' posts.",
+    "Left out: seat rows and aisles, the foul poles, signage, the centre-field plaza and its bridge (2020), the stairs and ramps outside, the parking-level plazas, which are paving at grade.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"la-dodger-stadium\", model \"la-dodger-stadium\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/la-dodger-stadium.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

@@ -1,0 +1,524 @@
+{
+  "id": "sofi-stadium",
+  "name": "SoFi Stadium",
+  "anchor": [
+    -118.3385824,
+    33.9531124
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 153976,
+      "sha256": "95ea33f1690009293342e19022599db4dcda4c3cecb5954444a33d34a77496d2"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 153976,
+      "sha256": "95ea33f1690009293342e19022599db4dcda4c3cecb5954444a33d34a77496d2"
+    }
+  },
+  "triangles": 5170,
+  "boundsBlenderM": [
+    [
+      -188.56,
+      -235.37,
+      0
+    ],
+    [
+      251.44,
+      236.63,
+      56.955
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -118.3396518,
+          33.9523711
+        ],
+        [
+          -118.3395069,
+          33.952261
+        ],
+        [
+          -118.3393403,
+          33.9521443
+        ],
+        [
+          -118.3392693,
+          33.9520964
+        ],
+        [
+          -118.3391614,
+          33.9520279
+        ],
+        [
+          -118.3390641,
+          33.9519714
+        ],
+        [
+          -118.3389684,
+          33.9519175
+        ],
+        [
+          -118.3388691,
+          33.9518655
+        ],
+        [
+          -118.3387668,
+          33.9518172
+        ],
+        [
+          -118.3386426,
+          33.9517627
+        ],
+        [
+          -118.3385365,
+          33.9517221
+        ],
+        [
+          -118.3383686,
+          33.9516618
+        ],
+        [
+          -118.3382818,
+          33.951637
+        ],
+        [
+          -118.3381062,
+          33.9515902
+        ],
+        [
+          -118.3380033,
+          33.9515656
+        ],
+        [
+          -118.3378571,
+          33.9515303
+        ],
+        [
+          -118.3377122,
+          33.9514976
+        ],
+        [
+          -118.3376111,
+          33.9514736
+        ],
+        [
+          -118.3371536,
+          33.9513761
+        ],
+        [
+          -118.3367957,
+          33.9513049
+        ],
+        [
+          -118.3366006,
+          33.9512697
+        ],
+        [
+          -118.3365506,
+          33.9512627
+        ],
+        [
+          -118.3365,
+          33.9512581
+        ],
+        [
+          -118.3364497,
+          33.9512559
+        ],
+        [
+          -118.3363995,
+          33.9512582
+        ],
+        [
+          -118.336382,
+          33.9512609
+        ],
+        [
+          -118.3363656,
+          33.9512661
+        ],
+        [
+          -118.3363498,
+          33.9512728
+        ],
+        [
+          -118.3363357,
+          33.9512821
+        ],
+        [
+          -118.3363281,
+          33.9512892
+        ],
+        [
+          -118.3363227,
+          33.9512962
+        ],
+        [
+          -118.3363183,
+          33.9513056
+        ],
+        [
+          -118.3363157,
+          33.951316
+        ],
+        [
+          -118.3363139,
+          33.9513263
+        ],
+        [
+          -118.3363133,
+          33.9513365
+        ],
+        [
+          -118.3363154,
+          33.9513544
+        ],
+        [
+          -118.3363198,
+          33.9513722
+        ],
+        [
+          -118.3363248,
+          33.9513898
+        ],
+        [
+          -118.3363316,
+          33.9514075
+        ],
+        [
+          -118.3363601,
+          33.9514606
+        ],
+        [
+          -118.3363908,
+          33.9515138
+        ],
+        [
+          -118.33694,
+          33.952299
+        ],
+        [
+          -118.3369651,
+          33.9523371
+        ],
+        [
+          -118.3370614,
+          33.9524818
+        ],
+        [
+          -118.3371577,
+          33.9526275
+        ],
+        [
+          -118.3372517,
+          33.9527732
+        ],
+        [
+          -118.3373434,
+          33.9529199
+        ],
+        [
+          -118.3375216,
+          33.9532164
+        ],
+        [
+          -118.3376068,
+          33.953364
+        ],
+        [
+          -118.3377583,
+          33.9536662
+        ],
+        [
+          -118.3378314,
+          33.9538223
+        ],
+        [
+          -118.3379551,
+          33.9541361
+        ],
+        [
+          -118.3380062,
+          33.9542986
+        ],
+        [
+          -118.3380526,
+          33.9544623
+        ],
+        [
+          -118.3380961,
+          33.9546263
+        ],
+        [
+          -118.3381317,
+          33.9547913
+        ],
+        [
+          -118.3381397,
+          33.9548345
+        ],
+        [
+          -118.3381487,
+          33.9548792
+        ],
+        [
+          -118.3381619,
+          33.9549185
+        ],
+        [
+          -118.3381823,
+          33.9549571
+        ],
+        [
+          -118.3382101,
+          33.9549912
+        ],
+        [
+          -118.3382532,
+          33.9550208
+        ],
+        [
+          -118.3383012,
+          33.9550389
+        ],
+        [
+          -118.3383604,
+          33.9550469
+        ],
+        [
+          -118.3384238,
+          33.9550452
+        ],
+        [
+          -118.3384924,
+          33.9550329
+        ],
+        [
+          -118.3386855,
+          33.9549919
+        ],
+        [
+          -118.3388771,
+          33.9549451
+        ],
+        [
+          -118.339068,
+          33.9548932
+        ],
+        [
+          -118.3392518,
+          33.9548311
+        ],
+        [
+          -118.3394355,
+          33.9547661
+        ],
+        [
+          -118.339677,
+          33.9546579
+        ],
+        [
+          -118.3397877,
+          33.9546104
+        ],
+        [
+          -118.3398703,
+          33.9545616
+        ],
+        [
+          -118.3399488,
+          33.9545096
+        ],
+        [
+          -118.3400195,
+          33.9544518
+        ],
+        [
+          -118.3400959,
+          33.9543788
+        ],
+        [
+          -118.3401663,
+          33.9542818
+        ],
+        [
+          -118.340222,
+          33.9541836
+        ],
+        [
+          -118.3402787,
+          33.9540702
+        ],
+        [
+          -118.3403166,
+          33.9539579
+        ],
+        [
+          -118.3403391,
+          33.9538533
+        ],
+        [
+          -118.3403521,
+          33.953752
+        ],
+        [
+          -118.3403565,
+          33.9536593
+        ],
+        [
+          -118.3403555,
+          33.9535677
+        ],
+        [
+          -118.3403462,
+          33.9534799
+        ],
+        [
+          -118.3403315,
+          33.9533932
+        ],
+        [
+          -118.340315,
+          33.9533113
+        ],
+        [
+          -118.3402905,
+          33.9532305
+        ],
+        [
+          -118.3402614,
+          33.9531516
+        ],
+        [
+          -118.3402272,
+          33.9530744
+        ],
+        [
+          -118.3401894,
+          33.9529972
+        ],
+        [
+          -118.3401467,
+          33.9529225
+        ],
+        [
+          -118.3401023,
+          33.95285
+        ],
+        [
+          -118.3400528,
+          33.9527783
+        ],
+        [
+          -118.3399982,
+          33.9527072
+        ],
+        [
+          -118.339942,
+          33.9526386
+        ],
+        [
+          -118.3398777,
+          33.9525704
+        ],
+        [
+          -118.3398109,
+          33.9525072
+        ],
+        [
+          -118.3397336,
+          33.9524382
+        ],
+        [
+          -118.3396518,
+          33.9523711
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 748790321,
+    "version": 7,
+    "timestamp": "2025-10-01T20:15:20Z",
+    "url": "https://www.openstreetmap.org/way/748790321"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 860635712,
+      "version": 7,
+      "timestamp": "2026-07-24T20:40:07Z",
+      "url": "https://www.openstreetmap.org/way/860635712"
+    },
+    {
+      "type": "way",
+      "id": 860635710,
+      "version": 5,
+      "timestamp": "2023-08-20T23:08:21Z",
+      "url": "https://www.openstreetmap.org/way/860635710"
+    },
+    {
+      "type": "way",
+      "id": 860635711,
+      "version": 5,
+      "timestamp": "2023-08-20T23:08:21Z",
+      "url": "https://www.openstreetmap.org/way/860635711"
+    },
+    {
+      "type": "way",
+      "id": 963712167,
+      "version": 6,
+      "timestamp": "2024-01-17T09:59:03Z",
+      "url": "https://www.openstreetmap.org/way/963712167"
+    }
+  ],
+  "wikidata": "Q19520501",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/la-sofi-stadium.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "SoFi Stadium, Inglewood (2020, HKS) — procedural, CC0-1.0. bun generators/la-sofi-stadium.ts",
+    "What makes it SoFi from above and from the street: one huge leaf-shaped canopy over the stadium, the American Airlines Plaza and the YouTube Theater, with a sharp point at the north-east and a long one over the plaza to the south-east; the pale translucent ETFE field over the bowl in broad panels, ringed by the oval of the compression ring; the white aluminium rim around it, which on the west side rolls down into a skirt that meets the ground at the south-west; and the tall white columns the canopy floats on, with the bowl's concourses visible between them. The bowl itself is sunk 100 ft below grade, so only its top storeys stand above ground.",
+    "Map frame: x east, y north before the turn; built in a frame turned to bearing 336°, the long axis of the bowl (OSM way/860635712, fitted). The anchor is the area centroid of OSM way/748790321 (building=stadium, the outline of the stadium, its roof parts and the theater). Data below are in metres east/north of the bowl's centroid (-118.33900, 33.95341) and are shifted and turned to the anchor frame at the end.",
+    "Ground: y = 0 is 38.0 m, the lowest grade under the canopy (a plane fitted to USGS 3DEP outside the excavation: 41.38 + 0.00795 x + 0.01627 y, mean residual 1.2 m), at the south edge. The site rises to 45 m at the north-east point, so every height below is added to the plane's rise over 38.0 m and the lower walls on the uphill side sink into the ground. 3DEP's current bare earth also holds the bowl's excavation (30.5 m); if the map's terrain has that hole the model will sit up to 7.5 m low.",
+    "Sources:",
+    "Plan: USGS NAIP orthophoto (0.25 m/px export, EPSG:3857): the canopy outline, the edge of the translucent ETFE field, the compression-ring oval and the panel grid's direction. OSM: way/860635712 (bowl, building:part=stadium), way/860635710 and way/860635711 (ETFE roof parts, whose outer edges are the ETFE field's edge in NAIP), way/963712167 (YouTube Theater). OSM does not map the opaque rim, so the canopy outline is traced from NAIP; it is not true-ortho, and at 30-50 m up the edges may be a few metres out.",
+    "Heights: no lidar. LA County's 2020 LARIAC footprints and its surface model both predate the stadium (they show the graded site, 34-40 m), so heights are published figures and photo proportions. Published: roof 275 ft above the field and the field 100 ft below grade, so the canopy's top is about 175 ft (53 m) above grade (HKS, Walter P Moore, SGH); 37 primary columns; 302 ETFE panels; a 12 ft seismic moat between bowl and canopy. Estimated from photos: the rim's height round the edge (26-27 m along the east and south, 32-34 m on the north and at the north-east point, falling to the ground at the south-west and to 3 m at the south-east point), the 3.5 m fascia, columns 2.8 m across, the theater 16 m and the bowl's above-grade storeys 16 m.",
+    "Photos (Wikimedia Commons): \"SoFi Stadium 2021\" and \"SoFi Stadium 2023\" (Troutfarm27, CC BY-SA 4.0; from the lake, south), \"Aerial view of SoFi Stadium (July 2022)\" (Benoît Prieur, CC0; from the north-west), \"Aerial Photos of Los Angeles for SB56\" 52272789545 and 52272561694 (usicegov, public domain; from the south and from the west), \"SoFi Stadium (51162010487)\" (Thank You (21 Millions+) views, CC BY 2.0; from the south-south-east), \"SoFi Stadium East facade\" (Redspork02, CC BY-SA 4.0), \"SoFi (52372640610)\" (Ron Reiring, CC BY 2.0; from the south-east), \"So-Fi Stadium Exterior, Los Angeles\" (Revisorius, CC BY-SA 4.0).",
+    "Left out: the cable net and its lights, the Infinity Screen (hung inside, under the roof), the lettering on the roof and fascia, the plaza, lake, paving and planting, the seats in the bowl below grade.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"la-sofi-stadium\", model \"la-sofi-stadium\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/la-sofi-stadium.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 5297 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the la-sofi-stadium-glazing finish in the window colour."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

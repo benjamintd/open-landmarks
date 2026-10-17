@@ -1,0 +1,146 @@
+{
+  "id": "walter-pyramid",
+  "name": "Walter Pyramid",
+  "anchor": [
+    -118.11441,
+    33.78743
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 11176,
+      "sha256": "99f0f674993bf0708b65ef6980e26bff99a29909a7057002b7f8313cc9255293"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 11176,
+      "sha256": "99f0f674993bf0708b65ef6980e26bff99a29909a7057002b7f8313cc9255293"
+    }
+  },
+  "triangles": 120,
+  "boundsBlenderM": [
+    [
+      -69.339,
+      -69.339,
+      0
+    ],
+    [
+      69.339,
+      69.339,
+      54.45
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -118.1150463,
+          33.7878443
+        ],
+        [
+          -118.1144786,
+          33.7878976
+        ],
+        [
+          -118.1139125,
+          33.7879561
+        ],
+        [
+          -118.1138362,
+          33.7874936
+        ],
+        [
+          -118.1137826,
+          33.7870202
+        ],
+        [
+          -118.1137856,
+          33.7870154
+        ],
+        [
+          -118.1137918,
+          33.7870104
+        ],
+        [
+          -118.1149107,
+          33.7868996
+        ],
+        [
+          -118.1150463,
+          33.7878443
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 35452138,
+    "version": 16,
+    "timestamp": "2026-09-11T01:56:42Z",
+    "url": "https://www.openstreetmap.org/way/35452138"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q3565858",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Walter Pyramid.jpg",
+      "author": "Summum",
+      "license": "CC BY-SA 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Walter_Pyramid.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Longbeach pyramid.jpg",
+      "author": "The original uploader was Masonbarge at English Wikipedia.",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Longbeach_pyramid.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Longbeach_pyramid.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/la-walter-pyramid.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Walter Pyramid (LBS Financial Credit Union Pyramid), California State University Long Beach (1994, Donald Gibbs / HOK Sport) — procedural, CC0-1.0. bun generators/la-walter-pyramid.ts",
+    "Map frame: x and y along the pyramid's sides, z up, metres. Placed at bearing 353° (the sides of OSM way/35452138 run 7° anticlockwise of the compass). Anchor at the centre of the square, which is the apex in the lidar. y = 0 is the campus ground round the building (lidar 5.1 m, which is also the 3DEP ground there).",
+    "What makes it the Walter Pyramid: a true square pyramid, about 45°, in a cobalt-blue metal skin, its apex a clean point; the skin stops a storey or two above the ground, so the whole pyramid seems to hover over a dark recessed base; and a bridge to an entrance at the middle of each side.",
+    "Sources:",
+    "Plan: OSM way/35452138 (the square, its bearing, 353°). USGS NAIP orthophoto (the eave square, 96-97 m across on the side clear of shadow, and the four entrance bridges, one on each side's axis).",
+    "Heights (LA County 2020 lidar surface model, 0.5-3 m grids over the apex, along both axes, and over each bridge, above the 5.1 m ground): apex 54.4 m (OSM's height, 54.4 m, is the same LA County figure); the skin's lower edge 8.0 m above the ground, at 47.0-48.5 m from the centre on all four sides (so 95.5-96.5 m square; OSM's and the county footprint's 104 m square take in the base and its moat); faces at 0.97 rise per run (44°), straight to the apex; the four bridge decks 3.7 m up, 13-15 m wide, reaching about 15 m out from the eave, then stepping down; a sunken moat round the base at ground level between them.",
+    "Published: 18 storeys; the blue skin is anodised aluminium on a space frame (Wikipedia, \"Walter Pyramid\"; CSULB Athletics).",
+    "Photos (Wikimedia Commons): \"Walter Pyramid.jpg\" (Summum, CC BY-SA 2.5; one face square on, a bridge's red-railed stair at the left corner), \"Csulb-pyr1.jpg\" and \"Csulb-pyr3.jpg\" (Buchanan-Hermit, attribution; a corner, two faces, the skin's edge over the dark base and its struts), \"Longbeach pyramid.jpg\" (Masonbarge, public domain; a face from across the parking, overcast). The pyramid is the same on every side, so each photo stands for any side.",
+    "Colour: the skin from the photos in sun and shade (cobalt, #3a5fc0 in shade, sheened lavender-blue in sun; NAIP roof #5b85b8), pulled to the palette's lightness and kept clearly blue.",
+    "Estimated: the base wall under the skin, set 3.75 m in (photos show a deep shadowed recess; no lidar reaches under the skin); the entrance doors' size; the bridges' outer steps, drawn as one sloped flight.",
+    "Left out: the skin's corrugation (fine stripes), the diagonal struts from the skin's edge to the ground (thin at map scale; the recess reads dark without them), railings, and the separate Pyramid Annex (way/35568048), which the map draws.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"la-walter-pyramid\", model \"la-walter-pyramid\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/la-walter-pyramid.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 2816 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the la-walter-pyramid-glazing finish in the window colour."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

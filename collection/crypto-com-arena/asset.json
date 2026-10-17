@@ -1,0 +1,583 @@
+{
+  "id": "crypto-com-arena",
+  "name": "Crypto.com Arena",
+  "anchor": [
+    -118.2670807,
+    34.0430832
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 38188,
+      "sha256": "fe600c82161ab5f1d03e79cd4b8ee6d62dde1d1d37a548858415b85d5913edb2"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 38188,
+      "sha256": "fe600c82161ab5f1d03e79cd4b8ee6d62dde1d1d37a548858415b85d5913edb2"
+    }
+  },
+  "triangles": 939,
+  "boundsBlenderM": [
+    [
+      -78.55,
+      -84.618,
+      0
+    ],
+    [
+      92.45,
+      76.056,
+      47.856
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -118.2680591,
+          34.04287
+        ],
+        [
+          -118.2680641,
+          34.0428907
+        ],
+        [
+          -118.2680801,
+          34.0429743
+        ],
+        [
+          -118.2680861,
+          34.0430215
+        ],
+        [
+          -118.2680861,
+          34.0430515
+        ],
+        [
+          -118.2680851,
+          34.0431066
+        ],
+        [
+          -118.2680781,
+          34.043161
+        ],
+        [
+          -118.2680711,
+          34.0431987
+        ],
+        [
+          -118.2680631,
+          34.0432274
+        ],
+        [
+          -118.2680531,
+          34.043259
+        ],
+        [
+          -118.2680271,
+          34.0433246
+        ],
+        [
+          -118.2680041,
+          34.0433715
+        ],
+        [
+          -118.2679731,
+          34.0434263
+        ],
+        [
+          -118.2679561,
+          34.043452
+        ],
+        [
+          -118.2679121,
+          34.0435122
+        ],
+        [
+          -118.2678821,
+          34.0435496
+        ],
+        [
+          -118.2678461,
+          34.0435876
+        ],
+        [
+          -118.2678051,
+          34.0436287
+        ],
+        [
+          -118.2677901,
+          34.0436179
+        ],
+        [
+          -118.2677701,
+          34.0436352
+        ],
+        [
+          -118.2677441,
+          34.0436551
+        ],
+        [
+          -118.2677251,
+          34.0436685
+        ],
+        [
+          -118.2676881,
+          34.0436908
+        ],
+        [
+          -118.2676521,
+          34.0437077
+        ],
+        [
+          -118.2676301,
+          34.0437169
+        ],
+        [
+          -118.2675891,
+          34.043732
+        ],
+        [
+          -118.2675391,
+          34.0437448
+        ],
+        [
+          -118.2674931,
+          34.0437531
+        ],
+        [
+          -118.2674621,
+          34.0437571
+        ],
+        [
+          -118.2674321,
+          34.0437588
+        ],
+        [
+          -118.2673911,
+          34.0437595
+        ],
+        [
+          -118.2673541,
+          34.0437577
+        ],
+        [
+          -118.2672841,
+          34.0437519
+        ],
+        [
+          -118.2672861,
+          34.0437789
+        ],
+        [
+          -118.2672271,
+          34.0437783
+        ],
+        [
+          -118.2671251,
+          34.0437721
+        ],
+        [
+          -118.2670891,
+          34.0437688
+        ],
+        [
+          -118.2669821,
+          34.0437541
+        ],
+        [
+          -118.2668521,
+          34.0437263
+        ],
+        [
+          -118.2667611,
+          34.0437014
+        ],
+        [
+          -118.2666891,
+          34.0436782
+        ],
+        [
+          -118.2664291,
+          34.0435818
+        ],
+        [
+          -118.2663581,
+          34.0435536
+        ],
+        [
+          -118.2663241,
+          34.043539
+        ],
+        [
+          -118.2663911,
+          34.0434923
+        ],
+        [
+          -118.2663331,
+          34.0434571
+        ],
+        [
+          -118.2662491,
+          34.0435038
+        ],
+        [
+          -118.2661171,
+          34.0434416
+        ],
+        [
+          -118.2659691,
+          34.043553
+        ],
+        [
+          -118.2659051,
+          34.0435475
+        ],
+        [
+          -118.2658881,
+          34.0435637
+        ],
+        [
+          -118.2658721,
+          34.0435767
+        ],
+        [
+          -118.2658571,
+          34.0435888
+        ],
+        [
+          -118.2658391,
+          34.0436001
+        ],
+        [
+          -118.2658271,
+          34.0435893
+        ],
+        [
+          -118.2657971,
+          34.0436108
+        ],
+        [
+          -118.2657801,
+          34.0436209
+        ],
+        [
+          -118.2657631,
+          34.0436299
+        ],
+        [
+          -118.2657401,
+          34.0436392
+        ],
+        [
+          -118.2657241,
+          34.0436447
+        ],
+        [
+          -118.2657081,
+          34.0436481
+        ],
+        [
+          -118.2656941,
+          34.0436491
+        ],
+        [
+          -118.2656811,
+          34.0436485
+        ],
+        [
+          -118.2656721,
+          34.0436454
+        ],
+        [
+          -118.2656661,
+          34.0436405
+        ],
+        [
+          -118.2656611,
+          34.0436344
+        ],
+        [
+          -118.2656591,
+          34.0436275
+        ],
+        [
+          -118.2656591,
+          34.0436186
+        ],
+        [
+          -118.2656611,
+          34.0436105
+        ],
+        [
+          -118.2656711,
+          34.0435882
+        ],
+        [
+          -118.2656881,
+          34.0435644
+        ],
+        [
+          -118.2657031,
+          34.0435493
+        ],
+        [
+          -118.2656781,
+          34.0435467
+        ],
+        [
+          -118.2663291,
+          34.0428452
+        ],
+        [
+          -118.2663571,
+          34.04285
+        ],
+        [
+          -118.2664241,
+          34.0427644
+        ],
+        [
+          -118.2664921,
+          34.0426818
+        ],
+        [
+          -118.2665221,
+          34.0426488
+        ],
+        [
+          -118.2667271,
+          34.0424365
+        ],
+        [
+          -118.2667401,
+          34.0424463
+        ],
+        [
+          -118.2667771,
+          34.0424091
+        ],
+        [
+          -118.2668081,
+          34.0423825
+        ],
+        [
+          -118.2668261,
+          34.0423694
+        ],
+        [
+          -118.2668571,
+          34.0423498
+        ],
+        [
+          -118.2668931,
+          34.04233
+        ],
+        [
+          -118.2669271,
+          34.0423147
+        ],
+        [
+          -118.2669551,
+          34.0423038
+        ],
+        [
+          -118.2670231,
+          34.0422842
+        ],
+        [
+          -118.2670511,
+          34.0422775
+        ],
+        [
+          -118.2670861,
+          34.0422724
+        ],
+        [
+          -118.2671241,
+          34.0422692
+        ],
+        [
+          -118.2671511,
+          34.0422684
+        ],
+        [
+          -118.2672391,
+          34.042274
+        ],
+        [
+          -118.2672781,
+          34.0422815
+        ],
+        [
+          -118.2672811,
+          34.0422609
+        ],
+        [
+          -118.2673021,
+          34.0422655
+        ],
+        [
+          -118.2673521,
+          34.042279
+        ],
+        [
+          -118.2674231,
+          34.0423013
+        ],
+        [
+          -118.2674651,
+          34.042317
+        ],
+        [
+          -118.2675591,
+          34.0423548
+        ],
+        [
+          -118.2676171,
+          34.0423848
+        ],
+        [
+          -118.2677001,
+          34.0424323
+        ],
+        [
+          -118.2677591,
+          34.0424714
+        ],
+        [
+          -118.2678181,
+          34.0425142
+        ],
+        [
+          -118.2677411,
+          34.0425861
+        ],
+        [
+          -118.2677541,
+          34.0425961
+        ],
+        [
+          -118.2677991,
+          34.0425545
+        ],
+        [
+          -118.2678121,
+          34.0425638
+        ],
+        [
+          -118.2678471,
+          34.0425947
+        ],
+        [
+          -118.2678801,
+          34.0426266
+        ],
+        [
+          -118.2678281,
+          34.0426645
+        ],
+        [
+          -118.2678571,
+          34.0426966
+        ],
+        [
+          -118.2678731,
+          34.042717
+        ],
+        [
+          -118.2679021,
+          34.0427598
+        ],
+        [
+          -118.2679341,
+          34.0427454
+        ],
+        [
+          -118.2679531,
+          34.042775
+        ],
+        [
+          -118.2679841,
+          34.0428308
+        ],
+        [
+          -118.2679451,
+          34.0428457
+        ],
+        [
+          -118.2679521,
+          34.0428603
+        ],
+        [
+          -118.2680451,
+          34.0428305
+        ],
+        [
+          -118.2680591,
+          34.04287
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 428021739,
+    "version": 12,
+    "timestamp": "2026-04-08T04:07:27Z",
+    "url": "https://www.openstreetmap.org/way/428021739"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 491696575,
+      "version": 6,
+      "timestamp": "2023-12-15T07:55:48Z",
+      "url": "https://www.openstreetmap.org/way/491696575"
+    }
+  ],
+  "wikidata": "Q186080",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/la-crypto-arena.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Crypto.com Arena (Staples Center, 1999, NBBJ), Los Angeles — procedural, CC0-1.0. bun generators/la-crypto-arena.ts",
+    "Map frame: x east, y north, z up, metres; bearing 0. The anchor is the area centroid of OSM way/428021739 (building=stadium, 39.1 m), on the lowest ground under it (72.0 m, USGS 3DEP; the site is flat to a metre).",
+    "What makes it the arena: a round drum of white-silver metal panels, leaning slightly out, standing on a ring of curved white walls; a roof that tips down from the west to the east; the pointed \"blade\" that runs diagonally across the roof from south-west to north-east and shoots out past the drum as a prow over Star Plaza; the full-height curved glass entrance on the south front, between the white walls.",
+    "Sources:",
+    "Plan: OSM way/428021739 and its part way/491696575 (46 m, the drum); LARIAC 2020 footprint 480754838193 (39.1 m). The drum is a circle of radius 69 m (from the lidar edge at eight bearings); the white ring's outer edge is read from the lidar every 15°.",
+    "Heights: LA County 2006 lidar surface model, 4 m grid, over 3DEP ground. The roof is a plane falling from 42 m on the west to 30 m on the east (and 4 m from south to north), fitted to the lidar away from the blade; the blade stands 4-5 m above it, about 18 m wide at the middle, on an axis at bearing 53° through the drum's centre. The white ring is 23 m (26.5 m on the south front, from photos against the drum), the Star Plaza lobby under the prow 17 m.",
+    "Photos (Wikimedia Commons): \"Crypto.com arena drone shot early 2023\" (InvadingInvader, CC BY-SA 4.0; the roof and blade from above), \"The Staples Center sports arena 2013\" (Carol M. Highsmith, public domain; the south front: drum, white walls, glass), \"Staples Center from Pico Boulevard\" (Cbl62, CC BY-SA 3.0), \"Staples Center, LA, CA, jjron 22.03.2012\" (jjron, GFDL 1.2), \"Crypto.com Arena Star Plaza entrance\" and \"Crypto.com Arena - Star Plaza entrance\" (Troutfarm27, CC BY-SA 4.0; the prow and the lobby), \"Crypto.com Arena exterior 2023\" (Troutfarm27, CC BY-SA 4.0).",
+    "Estimated: the drum's lean, the glass front's extent (150-210° round the drum, from photos), the prow's length past the drum (22 m) and its underside.",
+    "Left out: signage and the logo painted on the blade, the solar panels' rows (drawn as a few broad blocks), the marquees, canopies, balconies and stairs of the Star Plaza front.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"la-crypto-arena\", model \"la-crypto-arena\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/la-crypto-arena.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 3566 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the la-crypto-arena-glazing finish in the window colour."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

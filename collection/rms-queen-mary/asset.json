@@ -1,0 +1,285 @@
+{
+  "id": "rms-queen-mary",
+  "name": "RMS Queen Mary",
+  "anchor": [
+    -118.1897081,
+    33.7528576
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 164288,
+      "sha256": "d88af50c16b1f66968e6651abcb917ebbf9fcea7ddf9d159efe9e090aa944e10"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 164288,
+      "sha256": "d88af50c16b1f66968e6651abcb917ebbf9fcea7ddf9d159efe9e090aa944e10"
+    }
+  },
+  "triangles": 2755,
+  "boundsBlenderM": [
+    [
+      -149.711,
+      -63.254,
+      0
+    ],
+    [
+      134.283,
+      66.582,
+      47.017
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -118.1913275,
+          33.7534492
+        ],
+        [
+          -118.1913167,
+          33.7534638
+        ],
+        [
+          -118.1912363,
+          33.7534603
+        ],
+        [
+          -118.1910887,
+          33.7534425
+        ],
+        [
+          -118.1909707,
+          33.7534113
+        ],
+        [
+          -118.1905067,
+          33.753302
+        ],
+        [
+          -118.1899998,
+          33.7531414
+        ],
+        [
+          -118.1894875,
+          33.7529586
+        ],
+        [
+          -118.1890261,
+          33.7527846
+        ],
+        [
+          -118.1886908,
+          33.7526419
+        ],
+        [
+          -118.1885246,
+          33.7525705
+        ],
+        [
+          -118.1885165,
+          33.7525505
+        ],
+        [
+          -118.1884092,
+          33.7525059
+        ],
+        [
+          -118.1883931,
+          33.752488
+        ],
+        [
+          -118.1882992,
+          33.75243
+        ],
+        [
+          -118.1882617,
+          33.7523832
+        ],
+        [
+          -118.1882536,
+          33.7523386
+        ],
+        [
+          -118.1882858,
+          33.7523007
+        ],
+        [
+          -118.1883502,
+          33.7522873
+        ],
+        [
+          -118.188428,
+          33.7522873
+        ],
+        [
+          -118.1884897,
+          33.7522985
+        ],
+        [
+          -118.1885299,
+          33.7523007
+        ],
+        [
+          -118.1886613,
+          33.7523364
+        ],
+        [
+          -118.1889326,
+          33.7524072
+        ],
+        [
+          -118.1889634,
+          33.7524177
+        ],
+        [
+          -118.1890186,
+          33.7524364
+        ],
+        [
+          -118.1890285,
+          33.7524396
+        ],
+        [
+          -118.189241,
+          33.752512
+        ],
+        [
+          -118.1894296,
+          33.7525786
+        ],
+        [
+          -118.1894874,
+          33.752599
+        ],
+        [
+          -118.1896813,
+          33.7526675
+        ],
+        [
+          -118.1897268,
+          33.7526842
+        ],
+        [
+          -118.1901495,
+          33.7528387
+        ],
+        [
+          -118.1901693,
+          33.7528467
+        ],
+        [
+          -118.1902049,
+          33.7528589
+        ],
+        [
+          -118.1903999,
+          33.7529353
+        ],
+        [
+          -118.1906201,
+          33.753041
+        ],
+        [
+          -118.1906686,
+          33.7530662
+        ],
+        [
+          -118.1907862,
+          33.7531274
+        ],
+        [
+          -118.1908915,
+          33.7531822
+        ],
+        [
+          -118.1910941,
+          33.753279
+        ],
+        [
+          -118.1912973,
+          33.7534109
+        ],
+        [
+          -118.1913275,
+          33.7534492
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 438331516,
+    "version": 6,
+    "timestamp": "2019-02-18T21:35:45Z",
+    "url": "https://www.openstreetmap.org/way/438331516"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 439768915,
+      "version": 2,
+      "timestamp": "2016-09-02T02:31:19Z",
+      "url": "https://www.openstreetmap.org/way/439768915"
+    },
+    {
+      "type": "way",
+      "id": 439768916,
+      "version": 2,
+      "timestamp": "2016-09-02T02:31:19Z",
+      "url": "https://www.openstreetmap.org/way/439768916"
+    },
+    {
+      "type": "way",
+      "id": 439768917,
+      "version": 2,
+      "timestamp": "2016-09-02T02:31:19Z",
+      "url": "https://www.openstreetmap.org/way/439768917"
+    }
+  ],
+  "wikidata": "Q752939",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/la-queen-mary.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "RMS Queen Mary, Long Beach (1936 Cunard-White Star liner; moored here as a hotel and museum since 1967) — procedural, CC0-1.0. bun generators/la-queen-mary.ts",
+    "Map frame: x to starboard, y toward the bow, z up, metres; placed at bearing 293.7°, the bow pointing west-north-west as the OSM outline's sharp end and the NAIP orthophoto show (so the starboard side faces the Long Beach shore across the water, as in most photos). Origin at the centroid of OSM way/438331516. y = 0 is the waterline: USGS 3DEP gives the harbour's surface, 0.3 m, everywhere under the hull, so elevation 0 puts the waterline on it. Nothing below the waterline is modelled.",
+    "What makes it the Queen Mary: the long black hull with its sheer rising to a raked bow and a rounded cruiser stern, a white strake above the black; the long white superstructure in stepped tiers with the bridge and its full-width wings forward, the rows of white lifeboats along the boat deck, the stepped terraces aft; the three Cunard red funnels with black tops, the forward two the tallest; the two tall masts, fore and aft of the superstructure; and the thin red boot-topping at the water.",
+    "Sources:",
+    "Plan: OSM way/438331516 (the deck outline: 309.8 m long along 113.7°, 36.3 m in beam; its half-breadths, averaged port and starboard, shape the hull), and the three funnel parts way/439768915, /16, /17 (centres 66.9 m and 22.7 m forward of the centroid and 22.6 m aft). USGS NAIP orthophoto: outline, bow direction, deck layout.",
+    "Heights (LA County 2020 lidar surface model, 2 m grid over the ship, minus the water at 0.3 m): funnel tops 44, 44 and 42 m; foremast 47 m, 111 m forward of the centroid; bridge 31–35 m with wings across the full beam at 30 m; forward superstructure 25–33 m, middle 26–29 m, aft 28–30 m; boat deck at the sides 22–25 m; aft terraces 22, 19.5–20 and 17 m; stern deck 14.5 m; forecastle 19–22 m. (The surface model smears the hull's edges into the water, so the outline comes from OSM.)",
+    "Published: 310.7 m long, 36.1 m beam, 11.9 m draught, 55.2 m keel to funnel top (43.3 m above the waterline, matching the lidar) (Wikipedia \"RMS Queen Mary\").",
+    "Photos (Wikimedia Commons, daylight, the starboard side from the shore to the north unless noted): \"RMS Queen Mary Long Beach January 2011 view\" and \"RMS Queen Mary Long Beach January 2011\" (David Jones, CC BY 2.0); \"RMS Queen Mary\" (Thcipriani, CC BY-SA 4.0; bow from the dock side); \"RMS Queen Mary in Long Beach\" (Andrek02, CC0); \"RMS Queen Mary at Long Beach Harbor\" (David Lofink, CC BY 2.0); \"Long Beach - Queen Mary (1)–(3)\" (Mquach, CC BY-SA 3.0); \"RMS Queen Mary (50132478716)\" (Mike McBey, CC BY 2.0); \"Queen Mary Long Beach 2\" (Christophe Finot, CC BY-SA 2.5; the forecastle and foremast); \"R.M.S. Queen Mary in Long Beach, California; October 2019\" (Bernard Spragg, CC0); \"RMS Queen Mary. (6715670493)\" (Andrew Thomas, CC BY-SA 2.0; the bow, port side).",
+    "Estimated from photos, scaled by the lidar: black hull to 12.4 m amidships rising to 16 m at the bow, white strake to 17.1 m rising to 21 m; the bow's rake (waterline 6.5 m short of the stem head) and the stern's overhang; funnel sections (oval, 8.8 x 7.2 m) and black tops (5.8 m); the lifeboats (11 a side, 9 m); mainmast height (44 m, too thin for the lidar), 109 m aft; window rows.",
+    "Left out: ventilator cowls, davits, rigging, deck clutter, the breakwater, the dockside gangways and hotel buildings.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"la-queen-mary\", model \"la-queen-mary\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/la-queen-mary.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

@@ -1,0 +1,322 @@
+{
+  "id": "the-wiltern",
+  "name": "The Wiltern",
+  "anchor": [
+    -118.3085199,
+    34.061279
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 53656,
+      "sha256": "212ea7028bb32cfa84dfe155bd14af75c4f27b2ebdce3302abab5f6598f0ea99"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 53656,
+      "sha256": "212ea7028bb32cfa84dfe155bd14af75c4f27b2ebdce3302abab5f6598f0ea99"
+    }
+  },
+  "triangles": 909,
+  "boundsBlenderM": [
+    [
+      -43.65,
+      -32,
+      0
+    ],
+    [
+      49.82,
+      32.3,
+      59.1
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -118.3089649,
+          34.0614533
+        ],
+        [
+          -118.3089933,
+          34.0614537
+        ],
+        [
+          -118.3089932,
+          34.0614697
+        ],
+        [
+          -118.3089895,
+          34.0614894
+        ],
+        [
+          -118.3089808,
+          34.0615106
+        ],
+        [
+          -118.3089648,
+          34.0615296
+        ],
+        [
+          -118.3089461,
+          34.0615466
+        ],
+        [
+          -118.3089216,
+          34.0615592
+        ],
+        [
+          -118.3089,
+          34.0615676
+        ],
+        [
+          -118.3088779,
+          34.061571
+        ],
+        [
+          -118.3088558,
+          34.0615707
+        ],
+        [
+          -118.3088563,
+          34.0615361
+        ],
+        [
+          -118.3088098,
+          34.0615356
+        ],
+        [
+          -118.3080184,
+          34.061548
+        ],
+        [
+          -118.3079801,
+          34.0615184
+        ],
+        [
+          -118.30798,
+          34.0614754
+        ],
+        [
+          -118.3079827,
+          34.0614715
+        ],
+        [
+          -118.3079789,
+          34.0612887
+        ],
+        [
+          -118.3081242,
+          34.0612867
+        ],
+        [
+          -118.3081252,
+          34.0613354
+        ],
+        [
+          -118.3081886,
+          34.0613345
+        ],
+        [
+          -118.3081886,
+          34.061336
+        ],
+        [
+          -118.3083624,
+          34.0613336
+        ],
+        [
+          -118.3083625,
+          34.0613366
+        ],
+        [
+          -118.308551,
+          34.061334
+        ],
+        [
+          -118.3085503,
+          34.0613
+        ],
+        [
+          -118.3082986,
+          34.0613036
+        ],
+        [
+          -118.3082986,
+          34.0613025
+        ],
+        [
+          -118.3082451,
+          34.0613037
+        ],
+        [
+          -118.3081665,
+          34.0613035
+        ],
+        [
+          -118.308166,
+          34.0612534
+        ],
+        [
+          -118.3081218,
+          34.0612537
+        ],
+        [
+          -118.3081194,
+          34.0609913
+        ],
+        [
+          -118.3081639,
+          34.060991
+        ],
+        [
+          -118.3081636,
+          34.0609556
+        ],
+        [
+          -118.3082975,
+          34.0609548
+        ],
+        [
+          -118.3082978,
+          34.0609908
+        ],
+        [
+          -118.3084773,
+          34.0609897
+        ],
+        [
+          -118.3084769,
+          34.0609426
+        ],
+        [
+          -118.308549,
+          34.0609422
+        ],
+        [
+          -118.3085494,
+          34.0609892
+        ],
+        [
+          -118.3086367,
+          34.0609887
+        ],
+        [
+          -118.3086364,
+          34.0609587
+        ],
+        [
+          -118.3086509,
+          34.0609586
+        ],
+        [
+          -118.3086512,
+          34.0610018
+        ],
+        [
+          -118.3087247,
+          34.0610013
+        ],
+        [
+          -118.3087267,
+          34.0612189
+        ],
+        [
+          -118.3087502,
+          34.0612188
+        ],
+        [
+          -118.3087483,
+          34.0610038
+        ],
+        [
+          -118.3089607,
+          34.0610024
+        ],
+        [
+          -118.3089648,
+          34.0614357
+        ],
+        [
+          -118.3089649,
+          34.0614533
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 388772956,
+    "version": 4,
+    "timestamp": "2023-05-28T06:12:42Z",
+    "url": "https://www.openstreetmap.org/way/388772956"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 1416423923,
+      "version": 1,
+      "timestamp": "2025-07-22T01:28:08Z",
+      "url": "https://www.openstreetmap.org/way/1416423923"
+    },
+    {
+      "type": "way",
+      "id": 1416423924,
+      "version": 1,
+      "timestamp": "2025-07-22T01:28:08Z",
+      "url": "https://www.openstreetmap.org/way/1416423924"
+    }
+  ],
+  "wikidata": "Q7161584",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Highsmithwilterntheater.jpg",
+      "author": "Carol M. Highsmith",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Highsmithwilterntheater.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Highsmithwilterntheater.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/la-wiltern.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "The Wiltern and the Pellissier Building (Morgan, Walls & Clements, 1931), Wilshire Blvd at Western Ave, Los Angeles — original procedural geometry, CC0-1.0. bun generators/la-wiltern.ts [out.glb]",
+    "Map frame: x east, y north, z up, metres; origin at the area centroid of OSM way/388772956 (-118.3085199, 34.061279), on the lowest ground under it (lidar ~61 m). Bearing 0: the block is square to the grid.",
+    "Blue-green terracotta art deco: the twelve-storey tower set diagonally on the Wilshire/Western corner, its broad face to the corner, its top stepped and notched; low wings along both streets; the theatre's plain mass behind. Colour is the identity, then the diagonal tower and its crown.",
+    "Sources:",
+    "Plan: OSM way/388772956 (4,964 m2, height 57.3) and its parts way/1416423923 (the tower, a chamfered 26 × 15 m rectangle at 45°, 12 levels) and way/1416423924 (the rest, 2 levels).",
+    "Heights: LA County lidar DSM (LARIAC, 2 m grid, sampled 2026), above the ground: tower parapet ~53 m, crown peaks 57–59 m; the street wings 13 m; the theatre 21–23 m with the stage house to 24 m; a 6 m corner entrance block; a 17 m round pavilion at the Wilshire/Oxford end. The brief's \"12-storey office wings\" is the tower only: the lidar shows the wings at about three storeys, as the photos do.",
+    "Photos: w1 \"Highsmithwilterntheater.jpg\" (Carol M. Highsmith, public domain; from the corner, north-west: the tower's broad face, stepped sides, the notched crown, both wings); w8 \"The corner of Western and Wilshire Aves – L. A.\" (Al Pavangkanan, CC BY 2.0; from the north-west, lower); x2 \"Wilshire & Western, Los Angeles\" (InSapphoWeTrust, Flickr, CC BY-SA 2.0; the corner entrance and the Wilshire wing); w7 \"Wilshire Boulevard looking east to Western\" (Downtowngal, CC BY-SA 4.0; the tower from the west along Wilshire).",
+    "Overhead: USGS NAIP (public domain): the diagonal tower, the theatre roof, the green round pavilion at the east end.",
+    "Estimated: the masses (rectangles fitted to the DSM), the tower's piers and window bays (w1: one panel per bay, three floors tall), the crown's notches, the colours (w1, pulled to palette lightness). Left out: the vertical WILTERN signs, the marquee, the terracotta ornament.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"la-wiltern\", model \"la-wiltern\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/la-wiltern.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

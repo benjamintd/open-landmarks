@@ -1,0 +1,285 @@
+{
+  "id": "randys-donuts",
+  "anchor": [
+    -118.370379,
+    33.961852
+  ],
+  "coordinateSystem": "Local metres about the anchor (equirectangular, WGS84 radius): X east, Y north, Z up. glTF export: X east, Y up, Z south. Heading already baked.",
+  "license": "ODbL-1.0",
+  "footprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -4.893461692553502,
+          7.703308762745276
+        ],
+        [
+          -4.570308562692998,
+          8.382357656609951
+        ],
+        [
+          -4.200990698683198,
+          8.694052230518746
+        ],
+        [
+          -3.397724345741163,
+          8.738580027356413
+        ],
+        [
+          4.0440306067742515,
+          8.838767568659215
+        ],
+        [
+          4.348717844549535,
+          8.638392485262639
+        ],
+        [
+          4.561075615338306,
+          8.137454777166681
+        ],
+        [
+          4.930393479348107,
+          -7.6587809666985835
+        ],
+        [
+          4.718035707247253,
+          -8.371225707400535
+        ],
+        [
+          4.551842669295697,
+          -8.616128587634776
+        ],
+        [
+          4.154825965845983,
+          -8.716316128937578
+        ],
+        [
+          -3.997865873937037,
+          -8.77197587419369
+        ],
+        [
+          -4.30255311171232,
+          -8.671788332890888
+        ],
+        [
+          -4.644172134970125,
+          -8.170850624003958
+        ],
+        [
+          -4.893461692553502,
+          7.703308762745276
+        ]
+      ]
+    ]
+  },
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -118.370432,
+          33.9619212
+        ],
+        [
+          -118.3704285,
+          33.9619273
+        ],
+        [
+          -118.3704245,
+          33.9619301
+        ],
+        [
+          -118.3704158,
+          33.9619305
+        ],
+        [
+          -118.3703352,
+          33.9619314
+        ],
+        [
+          -118.3703319,
+          33.9619296
+        ],
+        [
+          -118.3703296,
+          33.9619251
+        ],
+        [
+          -118.3703256,
+          33.9617832
+        ],
+        [
+          -118.3703279,
+          33.9617768
+        ],
+        [
+          -118.3703297,
+          33.9617746
+        ],
+        [
+          -118.370334,
+          33.9617737
+        ],
+        [
+          -118.3704223,
+          33.9617732
+        ],
+        [
+          -118.3704256,
+          33.9617741
+        ],
+        [
+          -118.3704293,
+          33.9617786
+        ],
+        [
+          -118.370432,
+          33.9619212
+        ]
+      ]
+    ]
+  },
+  "parts": [
+    {
+      "osm": "way/420317805",
+      "tags": {
+        "addr:city": "Inglewood",
+        "addr:housenumber": "805",
+        "addr:postcode": "90301",
+        "addr:state": "CA",
+        "addr:street": "West Manchester Boulevard",
+        "building": "retail",
+        "building:levels": "1",
+        "building:units": "1",
+        "building:use": "fast_food",
+        "cuisine": "donut",
+        "drive_through": "yes",
+        "ele": "45.2",
+        "height": "13.8",
+        "historic": "yes",
+        "indoor_seating": "no",
+        "lacounty:ain": "4127026023",
+        "lacounty:bld_id": "449359808688",
+        "name": "Randy’s Donuts",
+        "outdoor_seating": "no",
+        "phone": "+1-310-645-4707",
+        "shop": "bakery",
+        "start_date": "1953",
+        "takeaway": "only",
+        "tourism": "attraction",
+        "website": "http://randys-donuts.com/",
+        "wikidata": "Q2130840",
+        "wikimedia_commons": "Category:Randy's Donuts",
+        "wikipedia": "en:Randy's Donuts"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -4.893461692553502,
+              7.703308762745276
+            ],
+            [
+              -4.570308562692998,
+              8.382357656609951
+            ],
+            [
+              -4.200990698683198,
+              8.694052230518746
+            ],
+            [
+              -3.397724345741163,
+              8.738580027356413
+            ],
+            [
+              4.0440306067742515,
+              8.838767568659215
+            ],
+            [
+              4.348717844549535,
+              8.638392485262639
+            ],
+            [
+              4.561075615338306,
+              8.137454777166681
+            ],
+            [
+              4.930393479348107,
+              -7.6587809666985835
+            ],
+            [
+              4.718035707247253,
+              -8.371225707400535
+            ],
+            [
+              4.551842669295697,
+              -8.616128587634776
+            ],
+            [
+              4.154825965845983,
+              -8.716316128937578
+            ],
+            [
+              -3.997865873937037,
+              -8.77197587419369
+            ],
+            [
+              -4.30255311171232,
+              -8.671788332890888
+            ],
+            [
+              -4.644172134970125,
+              -8.170850624003958
+            ],
+            [
+              -4.893461692553502,
+              7.703308762745276
+            ]
+          ]
+        ]
+      },
+      "version": 7,
+      "timestamp": "2025-10-14T04:45:00Z"
+    }
+  ],
+  "osm": {
+    "type": "way",
+    "id": 420317805,
+    "version": 7,
+    "timestamp": "2025-10-14T04:45:00Z",
+    "url": "https://www.openstreetmap.org/way/420317805"
+  },
+  "additionalOsm": [],
+  "tags": {
+    "addr:city": "Inglewood",
+    "addr:housenumber": "805",
+    "addr:postcode": "90301",
+    "addr:state": "CA",
+    "addr:street": "West Manchester Boulevard",
+    "building": "retail",
+    "building:levels": "1",
+    "building:units": "1",
+    "building:use": "fast_food",
+    "cuisine": "donut",
+    "drive_through": "yes",
+    "ele": "45.2",
+    "height": "13.8",
+    "historic": "yes",
+    "indoor_seating": "no",
+    "lacounty:ain": "4127026023",
+    "lacounty:bld_id": "449359808688",
+    "name": "Randy’s Donuts",
+    "outdoor_seating": "no",
+    "phone": "+1-310-645-4707",
+    "shop": "bakery",
+    "start_date": "1953",
+    "takeaway": "only",
+    "tourism": "attraction",
+    "website": "http://randys-donuts.com/",
+    "wikidata": "Q2130840",
+    "wikimedia_commons": "Category:Randy's Donuts",
+    "wikipedia": "en:Randy's Donuts"
+  }
+}

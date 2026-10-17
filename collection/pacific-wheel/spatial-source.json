@@ -1,0 +1,117 @@
+{
+  "id": "pacific-wheel",
+  "anchor": [
+    -118.497834,
+    34.0082275
+  ],
+  "coordinateSystem": "Local metres about the anchor (equirectangular, WGS84 radius): X east, Y north, Z up. glTF export: X east, Y up, Z south. Heading already baked.",
+  "license": "ODbL-1.0",
+  "footprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -1.0150701077212474,
+          12.757213645288351
+        ],
+        [
+          1.347274870176672,
+          12.723817797660104
+        ],
+        [
+          1.0058421968880782,
+          -12.75721364449738
+        ],
+        [
+          -1.356502781009841,
+          -12.723817797660104
+        ],
+        [
+          -1.0150701077212474,
+          12.757213645288351
+        ]
+      ]
+    ]
+  },
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -118.497845,
+          34.0083421
+        ],
+        [
+          -118.4978194,
+          34.0083418
+        ],
+        [
+          -118.4978231,
+          34.0081129
+        ],
+        [
+          -118.4978487,
+          34.0081132
+        ],
+        [
+          -118.497845,
+          34.0083421
+        ]
+      ]
+    ]
+  },
+  "parts": [
+    {
+      "osm": "way/742372514",
+      "tags": {
+        "attraction": "big_wheel",
+        "building": "yes",
+        "name": "Pacific Wheel",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -1.0150701077212474,
+              12.757213645288351
+            ],
+            [
+              1.347274870176672,
+              12.723817797660104
+            ],
+            [
+              1.0058421968880782,
+              -12.75721364449738
+            ],
+            [
+              -1.356502781009841,
+              -12.723817797660104
+            ],
+            [
+              -1.0150701077212474,
+              12.757213645288351
+            ]
+          ]
+        ]
+      },
+      "version": 3,
+      "timestamp": "2024-04-14T22:08:48Z"
+    }
+  ],
+  "osm": {
+    "type": "way",
+    "id": 742372514,
+    "version": 3,
+    "timestamp": "2024-04-14T22:08:48Z",
+    "url": "https://www.openstreetmap.org/way/742372514"
+  },
+  "additionalOsm": [],
+  "tags": {
+    "attraction": "big_wheel",
+    "building": "yes",
+    "name": "Pacific Wheel",
+    "tourism": "attraction"
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "id": "pacific-design-center",
+  "name": "Pacific Design Center",
+  "anchor": [
+    -118.382418,
+    34.0823702
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 25932,
+      "sha256": "295daa8802506763b493e4a76fa2fd3bb4210b6d623d45b19ac6d62684ac2d32"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 25932,
+      "sha256": "295daa8802506763b493e4a76fa2fd3bb4210b6d623d45b19ac6d62684ac2d32"
+    }
+  },
+  "triangles": 456,
+  "boundsBlenderM": [
+    [
+      -110.028,
+      -69.839,
+      0
+    ],
+    [
+      107.8,
+      201.8,
+      61
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -118.3818162,
+          34.0830009
+        ],
+        [
+          -118.381447,
+          34.0824017
+        ],
+        [
+          -118.3825829,
+          34.08192
+        ],
+        [
+          -118.3825796,
+          34.0819068
+        ],
+        [
+          -118.3825797,
+          34.0818911
+        ],
+        [
+          -118.3825819,
+          34.0818761
+        ],
+        [
+          -118.3825897,
+          34.081859
+        ],
+        [
+          -118.3826001,
+          34.0818462
+        ],
+        [
+          -118.3826116,
+          34.0818364
+        ],
+        [
+          -118.3826263,
+          34.0818269
+        ],
+        [
+          -118.3826437,
+          34.08182
+        ],
+        [
+          -118.3826621,
+          34.0818159
+        ],
+        [
+          -118.3826821,
+          34.081815
+        ],
+        [
+          -118.3827036,
+          34.0818187
+        ],
+        [
+          -118.3827237,
+          34.081825
+        ],
+        [
+          -118.3827389,
+          34.0818334
+        ],
+        [
+          -118.3827478,
+          34.0818413
+        ],
+        [
+          -118.3827543,
+          34.081849
+        ],
+        [
+          -118.3830066,
+          34.0817412
+        ],
+        [
+          -118.3833822,
+          34.0823502
+        ],
+        [
+          -118.3826031,
+          34.0826829
+        ],
+        [
+          -118.3820114,
+          34.082922
+        ],
+        [
+          -118.3818162,
+          34.0830009
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 31439559,
+    "version": 7,
+    "timestamp": "2024-08-25T13:16:48Z",
+    "url": "https://www.openstreetmap.org/way/31439559"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 429370081,
+      "version": 2,
+      "timestamp": "2017-10-25T04:15:58Z",
+      "url": "https://www.openstreetmap.org/way/429370081"
+    },
+    {
+      "type": "way",
+      "id": 535093304,
+      "version": 1,
+      "timestamp": "2017-10-25T04:15:57Z",
+      "url": "https://www.openstreetmap.org/way/535093304"
+    },
+    {
+      "type": "way",
+      "id": 535093308,
+      "version": 2,
+      "timestamp": "2021-07-24T23:03:01Z",
+      "url": "https://www.openstreetmap.org/way/535093308"
+    },
+    {
+      "type": "way",
+      "id": 535093311,
+      "version": 3,
+      "timestamp": "2022-10-27T00:18:08Z",
+      "url": "https://www.openstreetmap.org/way/535093311"
+    },
+    {
+      "type": "way",
+      "id": 390777734,
+      "version": 2,
+      "timestamp": "2017-10-25T04:15:58Z",
+      "url": "https://www.openstreetmap.org/way/390777734"
+    }
+  ],
+  "wikidata": "Q7122426",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/la-pacific-design-center.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Pacific Design Center (César Pelli; Center Blue 1975, Center Green 1988, Center Red 2013), West Hollywood — original procedural geometry, CC0-1.0. bun generators/la-pacific-design-center.ts [out.glb]",
+    "One model for the three buildings, since they read as one set: the Blue Whale, the Green building behind it on its low blue base, the parking structure that shares the Green's OSM outline, and the Red building.",
+    "Map frame: x across the Blue Whale (+x to the south-east), y along it (+y to the east-north-east), z up, metres; origin at the Blue Whale outline's centroid on the lowest ground under the model. Placed at bearing 63°, the Blue Whale's long axis. OSM coordinates below are local east/north metres and are turned into this frame by `rot`.",
+    "What makes it the Pacific Design Center: three glass buildings in primary colours. The Blue Whale, a 161 m long blue glass block whose section steps: a low eave on its north-west side, a sloped glass roof up to the main roof, a barrel vault running its whole length off-centre, a raised sloped glass band beside it, and a sloped glass band down to the south-east wall; the flat roof between (white, per NAIP) is roof; a dark recessed ground floor; a round glass escalator drum on its south-east side. The Green, a square green glass block whose lower corners are cut away by big dark glass facets, under a green octagonal pyramid roof, standing on a low blue base. The Red, a wedge with a curved red face.",
+    "Sources:",
+    "Plan: OSM way/31439559 (Blue Whale: 161 × 74 m), way/429370081 (the Green's outline, with its parts way/535093304, the Green tower, 10 levels; way/535093308, its round crown; way/535093311, the parking structure, 7 levels), way/390777734 (Center Red, 9 levels).",
+    "Heights: LA County lidar surface model (3–6 m grids, in the Blue Whale's frame and square to north) over USGS 3DEP bare earth (lowest ground 55 m, by the Blue Whale): Blue Whale main roof 31 m, north-west eave 13 m, vault 41 m at its crown over x ≈ 0–10, a raised band 35–36 m from x 10 to 21; the Green's base 13 m, the Green 48 m, its pyramid 61 m; parking 22 m; the Red 47 m (49 m over its own lower ground the lidar shows flat). The lidar shows the Red, so it postdates 2013.",
+    "Look: photos below; USGS NAIP orthophoto for the roofs (white with a wide blue glass band on the Blue Whale, the Green's green octagon).",
+    "Colours: the Blue Whale's cobalt glass, the Green's emerald and the Red's scarlet, each pulled to the palette's lightness; the Green's pale bands every two floors as trim lines.",
+    "Photos (Wikimedia Commons): p1 \"Pacific Design Center from West Hollywood Library\" (Blervis, CC0, south-west); p2 \"Pacific Design Center-(West Hollywood) July 2023\" (Benoît Prieur, CC0, south, the vault's end and the escalator drum); p3 \"Pacific Design Center-Red\" (Anonymous9119, CC0); p4 \"Pacific Design Center-Blue\" (Anonymous9119, CC0, the stepped end); p5 \"Pacific Design Center-Green\" (Anonymous9119, CC0, the cut corners); p6 \"Pacific Design Center (51017775296)\" (Tony Mariotti, CC BY 2.0, all three from Melrose); p7 \"Highsmithpacificdesigncenterweho\" (Carol M. Highsmith, public domain, the Green on its blue base); p9 \"Pacific Design Center at Sunset - panoramio\" (Glenn Cooley, CC BY 3.0, the Red).",
+    "Estimated: the slopes between the lidar's flat steps. The lidar (3 m grid) shows flat 31 m roofs out to both long walls; the photos show sloped blue glass, so the slopes are drawn wider than the lidar's steps (13 m to 31 m over 13 m of plan on the north-west, 26 m to 31 m over 10 m on the south-east), the Green's cut corners (from p5 and p7: 13 m wide at the base, closing 16 m under the top), the escalator drum's height, the Red's glass bands (drawn as four broad bands; the real ones are one per floor). Left out: the round stair tower north of the Green (a separate OSM gap), the bridge between Blue and Green, MOCA's pavilion.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"la-pacific-design-center\", model \"la-pacific-design-center\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/la-pacific-design-center.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

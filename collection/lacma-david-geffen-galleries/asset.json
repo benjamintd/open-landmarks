@@ -1,0 +1,563 @@
+{
+  "id": "lacma-david-geffen-galleries",
+  "name": "LACMA David Geffen Galleries",
+  "anchor": [
+    -118.3577537,
+    34.0629495
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 104172,
+      "sha256": "8c8181b7cba094763a630d0dc42e408a31b7f026e8b092ce62476c0be400b2da"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 104172,
+      "sha256": "8c8181b7cba094763a630d0dc42e408a31b7f026e8b092ce62476c0be400b2da"
+    }
+  },
+  "triangles": 3236,
+  "boundsBlenderM": [
+    [
+      -100.161,
+      -122.88,
+      0
+    ],
+    [
+      82.228,
+      99.289,
+      19.7
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -118.3587044,
+          34.0638417
+        ],
+        [
+          -118.3586761,
+          34.0638507
+        ],
+        [
+          -118.3586395,
+          34.0638558
+        ],
+        [
+          -118.3586131,
+          34.0638533
+        ],
+        [
+          -118.3585938,
+          34.0638448
+        ],
+        [
+          -118.3585775,
+          34.0638356
+        ],
+        [
+          -118.3580805,
+          34.0635249
+        ],
+        [
+          -118.3580571,
+          34.0635165
+        ],
+        [
+          -118.3580165,
+          34.0635106
+        ],
+        [
+          -118.357987,
+          34.0635232
+        ],
+        [
+          -118.357803,
+          34.0636697
+        ],
+        [
+          -118.3577725,
+          34.0636832
+        ],
+        [
+          -118.357741,
+          34.0636815
+        ],
+        [
+          -118.3577004,
+          34.0636714
+        ],
+        [
+          -118.3576729,
+          34.0636554
+        ],
+        [
+          -118.3576333,
+          34.0636091
+        ],
+        [
+          -118.357618,
+          34.0635729
+        ],
+        [
+          -118.3575713,
+          34.0633085
+        ],
+        [
+          -118.3575591,
+          34.0631881
+        ],
+        [
+          -118.3575449,
+          34.0631334
+        ],
+        [
+          -118.3575245,
+          34.0631022
+        ],
+        [
+          -118.3574879,
+          34.0630761
+        ],
+        [
+          -118.3574608,
+          34.0630673
+        ],
+        [
+          -118.3574514,
+          34.0630643
+        ],
+        [
+          -118.3574107,
+          34.063061
+        ],
+        [
+          -118.3573761,
+          34.0630643
+        ],
+        [
+          -118.3570621,
+          34.0631376
+        ],
+        [
+          -118.3570255,
+          34.0631409
+        ],
+        [
+          -118.356995,
+          34.0631359
+        ],
+        [
+          -118.3569706,
+          34.0631233
+        ],
+        [
+          -118.3569513,
+          34.0631022
+        ],
+        [
+          -118.3568812,
+          34.0629262
+        ],
+        [
+          -118.35687,
+          34.0628867
+        ],
+        [
+          -118.3568619,
+          34.062789
+        ],
+        [
+          -118.3568619,
+          34.0626905
+        ],
+        [
+          -118.3568625,
+          34.0626408
+        ],
+        [
+          -118.3568645,
+          34.0626182
+        ],
+        [
+          -118.356871,
+          34.0625726
+        ],
+        [
+          -118.3568784,
+          34.0625385
+        ],
+        [
+          -118.3568852,
+          34.0625069
+        ],
+        [
+          -118.3569063,
+          34.0624457
+        ],
+        [
+          -118.3569388,
+          34.0623513
+        ],
+        [
+          -118.3569513,
+          34.062315
+        ],
+        [
+          -118.3569879,
+          34.0622225
+        ],
+        [
+          -118.3570046,
+          34.0621804
+        ],
+        [
+          -118.3570367,
+          34.0620994
+        ],
+        [
+          -118.3570773,
+          34.0620076
+        ],
+        [
+          -118.3571312,
+          34.0618788
+        ],
+        [
+          -118.3571546,
+          34.0618536
+        ],
+        [
+          -118.3571759,
+          34.0618384
+        ],
+        [
+          -118.3572105,
+          34.0618342
+        ],
+        [
+          -118.3572511,
+          34.0618342
+        ],
+        [
+          -118.3574849,
+          34.0618721
+        ],
+        [
+          -118.3575906,
+          34.0618982
+        ],
+        [
+          -118.3576424,
+          34.0619209
+        ],
+        [
+          -118.3576841,
+          34.061947
+        ],
+        [
+          -118.3577075,
+          34.0619748
+        ],
+        [
+          -118.3577146,
+          34.0619984
+        ],
+        [
+          -118.3577105,
+          34.0620287
+        ],
+        [
+          -118.3576993,
+          34.0620565
+        ],
+        [
+          -118.3576831,
+          34.0620834
+        ],
+        [
+          -118.3574623,
+          34.0623494
+        ],
+        [
+          -118.3574253,
+          34.062394
+        ],
+        [
+          -118.3573833,
+          34.0624446
+        ],
+        [
+          -118.3573695,
+          34.0624744
+        ],
+        [
+          -118.357365,
+          34.0624842
+        ],
+        [
+          -118.3573568,
+          34.0625204
+        ],
+        [
+          -118.3573558,
+          34.0625532
+        ],
+        [
+          -118.3573592,
+          34.0625713
+        ],
+        [
+          -118.357365,
+          34.0626021
+        ],
+        [
+          -118.3573873,
+          34.0626442
+        ],
+        [
+          -118.357409,
+          34.0626685
+        ],
+        [
+          -118.3574188,
+          34.0626795
+        ],
+        [
+          -118.3574462,
+          34.0626967
+        ],
+        [
+          -118.3574778,
+          34.0627166
+        ],
+        [
+          -118.3575212,
+          34.0627458
+        ],
+        [
+          -118.3577167,
+          34.0628254
+        ],
+        [
+          -118.3580262,
+          34.0629496
+        ],
+        [
+          -118.3583439,
+          34.0630845
+        ],
+        [
+          -118.3584225,
+          34.0631199
+        ],
+        [
+          -118.3584513,
+          34.0631328
+        ],
+        [
+          -118.3585482,
+          34.0631904
+        ],
+        [
+          -118.3585587,
+          34.0631967
+        ],
+        [
+          -118.3586136,
+          34.063246
+        ],
+        [
+          -118.3587175,
+          34.0633611
+        ],
+        [
+          -118.3588062,
+          34.0634801
+        ],
+        [
+          -118.3588366,
+          34.0635516
+        ],
+        [
+          -118.3588436,
+          34.0635932
+        ],
+        [
+          -118.3588418,
+          34.0636348
+        ],
+        [
+          -118.3588337,
+          34.0636827
+        ],
+        [
+          -118.3588157,
+          34.0637343
+        ],
+        [
+          -118.3587918,
+          34.0637714
+        ],
+        [
+          -118.3587648,
+          34.0637988
+        ],
+        [
+          -118.3587386,
+          34.063823
+        ],
+        [
+          -118.3587044,
+          34.0638417
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 1352498524,
+    "version": 5,
+    "timestamp": "2026-10-10T05:24:41Z",
+    "url": "https://www.openstreetmap.org/way/1352498524"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 1528280559,
+      "version": 4,
+      "timestamp": "2026-10-10T05:24:41Z",
+      "url": "https://www.openstreetmap.org/way/1528280559"
+    },
+    {
+      "type": "way",
+      "id": 1352498501,
+      "version": 2,
+      "timestamp": "2026-06-10T20:37:06Z",
+      "url": "https://www.openstreetmap.org/way/1352498501"
+    },
+    {
+      "type": "way",
+      "id": 1352498494,
+      "version": 2,
+      "timestamp": "2026-06-10T20:37:06Z",
+      "url": "https://www.openstreetmap.org/way/1352498494"
+    },
+    {
+      "type": "way",
+      "id": 1352498495,
+      "version": 2,
+      "timestamp": "2026-06-10T20:37:06Z",
+      "url": "https://www.openstreetmap.org/way/1352498495"
+    },
+    {
+      "type": "way",
+      "id": 1352498496,
+      "version": 1,
+      "timestamp": "2025-01-19T10:39:05Z",
+      "url": "https://www.openstreetmap.org/way/1352498496"
+    },
+    {
+      "type": "way",
+      "id": 1352498497,
+      "version": 2,
+      "timestamp": "2026-06-10T20:37:06Z",
+      "url": "https://www.openstreetmap.org/way/1352498497"
+    },
+    {
+      "type": "way",
+      "id": 1352498498,
+      "version": 2,
+      "timestamp": "2026-06-10T20:37:06Z",
+      "url": "https://www.openstreetmap.org/way/1352498498"
+    },
+    {
+      "type": "way",
+      "id": 1352498499,
+      "version": 3,
+      "timestamp": "2026-06-10T20:37:06Z",
+      "url": "https://www.openstreetmap.org/way/1352498499"
+    },
+    {
+      "type": "way",
+      "id": 1352498500,
+      "version": 2,
+      "timestamp": "2026-06-10T20:37:06Z",
+      "url": "https://www.openstreetmap.org/way/1352498500"
+    },
+    {
+      "type": "way",
+      "id": 1352498502,
+      "version": 2,
+      "timestamp": "2026-06-10T20:37:06Z",
+      "url": "https://www.openstreetmap.org/way/1352498502"
+    },
+    {
+      "type": "way",
+      "id": 1352498503,
+      "version": 1,
+      "timestamp": "2025-01-19T10:39:05Z",
+      "url": "https://www.openstreetmap.org/way/1352498503"
+    },
+    {
+      "type": "way",
+      "id": 1352498504,
+      "version": 1,
+      "timestamp": "2025-01-19T10:39:05Z",
+      "url": "https://www.openstreetmap.org/way/1352498504"
+    },
+    {
+      "type": "way",
+      "id": 1352498526,
+      "version": 1,
+      "timestamp": "2025-01-19T10:39:05Z",
+      "url": "https://www.openstreetmap.org/way/1352498526"
+    }
+  ],
+  "wikidata": "Q141410158",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/la-lacma-geffen.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "LACMA David Geffen Galleries (Peter Zumthor with SOM, opened April 2026), Wilshire Boulevard, Los Angeles — original procedural geometry, CC0-1.0. bun generators/la-lacma-geffen.ts [out.glb]",
+    "Map frame: x east, y north, z up, metres; origin at the area centroid of the OSM outline way/1352498524 (-118.3577537, 34.0629495), on the lowest ground under it (the west lobe, 3DEP ~51 m; Wilshire under the bridge is ~53 m, the east end ~54 m). Bearing 0: the plan is free-form, so it is drawn north-up straight from OSM.",
+    "One long, amoeba-shaped gallery floor, glass all round, under a deeply overhanging flat concrete roof with a rounded edge, lifted 30 ft on seven concrete pavilions and bridging Wilshire. The identity is the floating, curving pale slab over a dark glass band, with open shade underneath.",
+    "Sources:",
+    "Plan: OSM way/1352498524 (the roof edge, 15,490 m2, mapped 2026) and its parts. The seven pavilions are the building:part ways 1352498494 (with 503, 504 inside it), 495 (526 duplicates it), 497 (+496), 498, 499, 500, and 502 south of Wilshire. OSM's slab part 1352498501 is a coarse polygon that crosses the roof edge in places, so the glass line is drawn as the roof outline inset by a uniform overhang instead.",
+    "Published (Wikipedia; ArchDaily 1040778; Architectural Record 18145): ~900 ft long, single gallery level, exhibition floor \"30 feet above street level\", seven pavilions, floor-to-ceiling glass on all sides, sand-coloured concrete, a flat roof with a deep overhang.",
+    "Photos (Wikimedia Commons, ArchEyes Magazine, CC BY 4.0, 2026): g5 \"LACMA-Exterior-View-ROLM-ArchEyes-5\" (the west lobe's rounded nose from the south-west plaza: roof rim, glass band, floor band, pavilion); g3 \"...-3\" (under the overhang, looking along the south-west side); g4 \"...-4\" and g9 \"...-9\" (the north side from 6th St / the park); g1 \"..._-_55107256431\" and g2 \"...-2\" (from Wilshire & Fairfax's corner, the long south face behind Urban Light); g6 \"...-6\" (the south pavilion arm south of Wilshire).",
+    "Heights: lidar (LARIAC 2020) predates the building. Floor top is 30 ft above Wilshire (53 m) = 11.3 m above the lowest ground; the floor band, glass band and roof rim are read off g5 against the 30 ft clearance (glass ~0.6 of the clearance, rim ~0.2, floor band ~0.15).",
+    "Estimated: the overhang (7 m roof edge to glass, uniform; g3, g5), the floor band set 1 m out from the glass, the pavilions' glazed panels. Left out: the brass mullions, the perforated vents in the pavilions, the stairs down the north side (g4), the concrete roof's mechanical kit.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"la-lacma-geffen\", model \"la-lacma-geffen\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/la-lacma-geffen.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 4364 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the la-lacma-geffen-glazing finish in the window colour."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

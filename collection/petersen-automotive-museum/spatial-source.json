@@ -1,0 +1,327 @@
+{
+  "id": "petersen-automotive-museum",
+  "anchor": [
+    -118.3611471,
+    34.0623791
+  ],
+  "coordinateSystem": "Local metres about the anchor (equirectangular, WGS84 radius): X east, Y north, Z up. glTF export: X east, Y up, Z south. Heading already baked.",
+  "license": "ODbL-1.0",
+  "footprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          16.885521164198053,
+          -52.20884118232306
+        ],
+        [
+          -18.610039163867327,
+          -37.06939043390365
+        ],
+        [
+          -16.96851935701788,
+          -33.56282647406805
+        ],
+        [
+          -45.12335065847059,
+          -21.328814436085462
+        ],
+        [
+          -46.56198599631251,
+          -20.493918254870906
+        ],
+        [
+          -38.27138876662439,
+          -1.046403213820553
+        ],
+        [
+          -24.94556785842115,
+          -2.949966506483526
+        ],
+        [
+          -19.91956620205852,
+          32.572083006294584
+        ],
+        [
+          -21.035430789463096,
+          32.72793029285349
+        ],
+        [
+          -19.48613119627544,
+          41.010100408160646
+        ],
+        [
+          -18.21349224407318,
+          40.98783650974181
+        ],
+        [
+          -17.318956169981124,
+          45.87476215572559
+        ],
+        [
+          38.77859994176427,
+          38.09352974930537
+        ],
+        [
+          32.12952252023613,
+          -11.421379755186862
+        ],
+        [
+          31.39176080963124,
+          -11.321192213884059
+        ],
+        [
+          30.045345686761642,
+          -21.373342232132156
+        ],
+        [
+          18.73914746351805,
+          -47.86738104127292
+        ],
+        [
+          16.885521164198053,
+          -52.20884118232306
+        ]
+      ]
+    ]
+  },
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -118.360964,
+          34.0619101
+        ],
+        [
+          -118.3613489,
+          34.0620461
+        ],
+        [
+          -118.3613311,
+          34.0620776
+        ],
+        [
+          -118.3616364,
+          34.0621875
+        ],
+        [
+          -118.361652,
+          34.062195
+        ],
+        [
+          -118.3615621,
+          34.0623697
+        ],
+        [
+          -118.3614176,
+          34.0623526
+        ],
+        [
+          -118.3613631,
+          34.0626717
+        ],
+        [
+          -118.3613752,
+          34.0626731
+        ],
+        [
+          -118.3613584,
+          34.0627475
+        ],
+        [
+          -118.3613446,
+          34.0627473
+        ],
+        [
+          -118.3613349,
+          34.0627912
+        ],
+        [
+          -118.3607266,
+          34.0627213
+        ],
+        [
+          -118.3607987,
+          34.0622765
+        ],
+        [
+          -118.3608067,
+          34.0622774
+        ],
+        [
+          -118.3608213,
+          34.0621871
+        ],
+        [
+          -118.3609439,
+          34.0619491
+        ],
+        [
+          -118.360964,
+          34.0619101
+        ]
+      ]
+    ]
+  },
+  "parts": [
+    {
+      "osm": "way/913343446",
+      "tags": {
+        "addr:city": "Los Angeles",
+        "addr:country": "US",
+        "addr:housenumber": "6060",
+        "addr:postcode": "90036",
+        "addr:state": "CA",
+        "addr:street": "Wilshire Boulevard",
+        "air_conditioning": "yes",
+        "building": "museum",
+        "building:use": "museum",
+        "check_date": "2026-06-12",
+        "contact:yelp": "https://www.yelp.com/biz/petersen-automotive-museum-los-angeles-2",
+        "ele": "75.3",
+        "email": "info@petersen.org",
+        "height": "27.8",
+        "lacounty:ain": "5086009014",
+        "lacounty:bld_id": "2014102430550000",
+        "museum": "transport",
+        "name": "Petersen Automotive Museum",
+        "name:etymology": "Robert Einar Petersen",
+        "name:etymology:wikidata": "Q7343876",
+        "opening_hours": "10:00-18:00",
+        "operator": "Petersen Automotive Museum Foundation",
+        "operator:type": "private",
+        "phone": "+1 323-964-6373",
+        "sells:postcards": "yes",
+        "start_date": "1994-06-11",
+        "toilets": "yes",
+        "tourism": "museum",
+        "website": "https://www.petersen.org/",
+        "wikidata": "Q2358105",
+        "wikipedia": "en:Petersen Automotive Museum"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.885521164198053,
+              -52.20884118232306
+            ],
+            [
+              -18.610039163867327,
+              -37.06939043390365
+            ],
+            [
+              -16.96851935701788,
+              -33.56282647406805
+            ],
+            [
+              -45.12335065847059,
+              -21.328814436085462
+            ],
+            [
+              -46.56198599631251,
+              -20.493918254870906
+            ],
+            [
+              -38.27138876662439,
+              -1.046403213820553
+            ],
+            [
+              -24.94556785842115,
+              -2.949966506483526
+            ],
+            [
+              -19.91956620205852,
+              32.572083006294584
+            ],
+            [
+              -21.035430789463096,
+              32.72793029285349
+            ],
+            [
+              -19.48613119627544,
+              41.010100408160646
+            ],
+            [
+              -18.21349224407318,
+              40.98783650974181
+            ],
+            [
+              -17.318956169981124,
+              45.87476215572559
+            ],
+            [
+              38.77859994176427,
+              38.09352974930537
+            ],
+            [
+              32.12952252023613,
+              -11.421379755186862
+            ],
+            [
+              31.39176080963124,
+              -11.321192213884059
+            ],
+            [
+              30.045345686761642,
+              -21.373342232132156
+            ],
+            [
+              18.73914746351805,
+              -47.86738104127292
+            ],
+            [
+              16.885521164198053,
+              -52.20884118232306
+            ]
+          ]
+        ]
+      },
+      "version": 8,
+      "timestamp": "2026-08-21T12:34:26Z"
+    }
+  ],
+  "osm": {
+    "type": "way",
+    "id": 913343446,
+    "version": 8,
+    "timestamp": "2026-08-21T12:34:26Z",
+    "url": "https://www.openstreetmap.org/way/913343446"
+  },
+  "additionalOsm": [],
+  "tags": {
+    "addr:city": "Los Angeles",
+    "addr:country": "US",
+    "addr:housenumber": "6060",
+    "addr:postcode": "90036",
+    "addr:state": "CA",
+    "addr:street": "Wilshire Boulevard",
+    "air_conditioning": "yes",
+    "building": "museum",
+    "building:use": "museum",
+    "check_date": "2026-06-12",
+    "contact:yelp": "https://www.yelp.com/biz/petersen-automotive-museum-los-angeles-2",
+    "ele": "75.3",
+    "email": "info@petersen.org",
+    "height": "27.8",
+    "lacounty:ain": "5086009014",
+    "lacounty:bld_id": "2014102430550000",
+    "museum": "transport",
+    "name": "Petersen Automotive Museum",
+    "name:etymology": "Robert Einar Petersen",
+    "name:etymology:wikidata": "Q7343876",
+    "opening_hours": "10:00-18:00",
+    "operator": "Petersen Automotive Museum Foundation",
+    "operator:type": "private",
+    "phone": "+1 323-964-6373",
+    "sells:postcards": "yes",
+    "start_date": "1994-06-11",
+    "toilets": "yes",
+    "tourism": "museum",
+    "website": "https://www.petersen.org/",
+    "wikidata": "Q2358105",
+    "wikipedia": "en:Petersen Automotive Museum"
+  }
+}

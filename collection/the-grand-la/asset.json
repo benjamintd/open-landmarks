@@ -1,0 +1,223 @@
+{
+  "id": "the-grand-la",
+  "name": "The Grand LA",
+  "anchor": [
+    -118.2487192,
+    34.0547307
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 92748,
+      "sha256": "7bd7ebe9056e1b11501946837e233eafdc2f8f2a106fcbeda5ab7745be79936f"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 92748,
+      "sha256": "7bd7ebe9056e1b11501946837e233eafdc2f8f2a106fcbeda5ab7745be79936f"
+    }
+  },
+  "triangles": 1516,
+  "boundsBlenderM": [
+    [
+      -78.644,
+      -79.274,
+      0
+    ],
+    [
+      70.422,
+      77.06,
+      158
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -118.2486356,
+          34.0545962
+        ],
+        [
+          -118.2488385,
+          34.0543903
+        ],
+        [
+          -118.2488553,
+          34.0544013
+        ],
+        [
+          -118.2489039,
+          34.0543506
+        ],
+        [
+          -118.2491611,
+          34.0545082
+        ],
+        [
+          -118.2491303,
+          34.0545394
+        ],
+        [
+          -118.2491748,
+          34.054582
+        ],
+        [
+          -118.2490858,
+          34.054677
+        ],
+        [
+          -118.2491046,
+          34.0546869
+        ],
+        [
+          -118.2490858,
+          34.0547096
+        ],
+        [
+          -118.249257,
+          34.0548259
+        ],
+        [
+          -118.2495719,
+          34.0544997
+        ],
+        [
+          -118.2494128,
+          34.0543834
+        ],
+        [
+          -118.249431,
+          34.0543594
+        ],
+        [
+          -118.2491232,
+          34.0542322
+        ],
+        [
+          -118.2490191,
+          34.0541891
+        ],
+        [
+          -118.2488308,
+          34.0540601
+        ],
+        [
+          -118.2488305,
+          34.0540405
+        ],
+        [
+          -118.2487328,
+          34.0540414
+        ],
+        [
+          -118.2487332,
+          34.0540686
+        ],
+        [
+          -118.248646,
+          34.0541597
+        ],
+        [
+          -118.2486651,
+          34.0541723
+        ],
+        [
+          -118.2485699,
+          34.0542717
+        ],
+        [
+          -118.2485432,
+          34.0543068
+        ],
+        [
+          -118.2484285,
+          34.0544061
+        ],
+        [
+          -118.2485244,
+          34.0545011
+        ],
+        [
+          -118.2485107,
+          34.0545167
+        ],
+        [
+          -118.2486356,
+          34.0545962
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 1106947212,
+    "version": 4,
+    "timestamp": "2025-03-26T16:20:50Z",
+    "url": "https://www.openstreetmap.org/way/1106947212"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 1106947213,
+      "version": 5,
+      "timestamp": "2025-08-19T09:39:52Z",
+      "url": "https://www.openstreetmap.org/way/1106947213"
+    },
+    {
+      "type": "way",
+      "id": 1106947214,
+      "version": 1,
+      "timestamp": "2022-10-25T21:22:26Z",
+      "url": "https://www.openstreetmap.org/way/1106947214"
+    },
+    {
+      "type": "way",
+      "id": 1106947215,
+      "version": 2,
+      "timestamp": "2023-09-24T05:56:44Z",
+      "url": "https://www.openstreetmap.org/way/1106947215"
+    }
+  ],
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/la-grand-la.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "The Grand LA (2022, Frank Gehry), 100 S. Grand Avenue, Los Angeles: the residential tower, the Conrad hotel tower and the podium they stand on — original procedural geometry, CC0-1.0. bun generators/la-grand-la.ts [out.glb]",
+    "Map frame: x east, y north, z up, metres; origin at the area centroid of the two OSM block outlines, on the lowest ground under them (the east side; Grand Avenue is 10 m higher). Placed at bearing 38°, so +x runs from Grand Avenue towards Olive Street and +y towards First Street.",
+    "Both towers are stacks of boxes shifted against each other. The residential tower at the Second St end alternates cream render with punched windows and boxes of pale glass, widening from a slim shaft (a glass slab down its west side, a sliver on the east) to a broad base. The hotel at the First St end is a white ziggurat of stacked boxes. A tan podium covers both blocks.",
+    "Sources:",
+    "Plans: OSM way/1106947212 and way/1106947213 (the two blocks) and the tower parts way/1106947214 (45 levels) and way/1106947215 (25 levels). The LA County 2020 lidar predates completion, so it has no heights here.",
+    "Heights: published 156 m / 511 ft (Wikipedia, Grand Avenue Project infobox); hotel ≈ 86 m from 25 levels of 3.45 m (estimated; r6 fixes only the bands' proportions). Ground: USGS 3DEP sampled at 10 m (EPSG:3857), 118 m on Grand Ave to 108 m on the east side.",
+    "Box stack: proportioned from photos r5 (from the east, the residential tower left, the hotel right: the shaft is 43 % of the height above the podium and 58 % of the base's width), r4 (from the south-west, the shaft's glass on its west side and the glass boxes lower down to the west) and r6 (the hotel from Grand Ave, three bands of boxes).",
+    "Photos (Wikimedia Commons): r1 \"The Grand LA - 200 S. Grand Avenue - Los Angeles\" (Dale Cruse, CC BY 4.0; from the Broad, south-west); r2 \"The Grand LA and downtown Los Angeles 2021-11-21\" (Ilkka Simomaa, CC BY 4.0; from the north-east); r4 \"Tower (to indentify) DTLA (July 2022)\" (Benoît Prieur, CC0; south-west); r5 \"The Grand and Conrad DTLA\" (Shoup1cobra, CC BY-SA 4.0; east); r6 \"View of Conrad Los Angeles (July 2023)\" (Benoît Prieur, CC0; the hotel from Grand Ave, west).",
+    "Estimated: every box's extent in depth (each photo fixes only its width and height from one side), the hotel's height, the podium's (22 m over the lowest ground, ≈ 12 m on Grand Ave). Left out: the podium's terraces and planting, the canopy, signs.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"la-grand-la\", model \"la-grand-la\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/la-grand-la.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

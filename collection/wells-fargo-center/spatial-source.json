@@ -1,0 +1,305 @@
+{
+  "id": "wells-fargo-center",
+  "anchor": [
+    -118.2524055,
+    34.052718
+  ],
+  "coordinateSystem": "Local metres about the anchor (equirectangular, WGS84 radius): X east, Y north, Z up. glTF export: X east, Y up, Z south. Heading already baked.",
+  "license": "ODbL-1.0",
+  "footprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          51.2802835622525,
+          63.585693141463246
+        ],
+        [
+          83.43191458859015,
+          38.37182847637689
+        ],
+        [
+          33.193838226670366,
+          -26.560830502815307
+        ],
+        [
+          26.082849265056574,
+          31.180589371727958
+        ],
+        [
+          48.273561900340624,
+          59.656115116415656
+        ],
+        [
+          51.2802835622525,
+          63.585693141463246
+        ]
+      ]
+    ]
+  },
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -118.2518495,
+          34.0532892
+        ],
+        [
+          -118.2515009,
+          34.0530627
+        ],
+        [
+          -118.2520456,
+          34.0524794
+        ],
+        [
+          -118.2521227,
+          34.0529981
+        ],
+        [
+          -118.2518821,
+          34.0532539
+        ],
+        [
+          -118.2518495,
+          34.0532892
+        ]
+      ]
+    ]
+  },
+  "parts": [
+    {
+      "osm": "way/427532202",
+      "tags": {
+        "alt_name": "Wells Fargo Center North Tower",
+        "building": "commercial",
+        "building:colour": "#9C5B31",
+        "building:levels": "54",
+        "building:material": "glass",
+        "ele": "338.0",
+        "height": "222.4",
+        "lacounty:ain": "5151015012",
+        "lacounty:bld_id": "485357841728",
+        "name": "Wells Fargo Tower",
+        "old_name": "Crocker Center North Tower",
+        "roof:material": "concrete",
+        "roof:shape": "flat",
+        "start_date": "1983",
+        "wikidata": "Q2543729"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              51.2802835622525,
+              63.585693141463246
+            ],
+            [
+              83.43191458859015,
+              38.37182847637689
+            ],
+            [
+              33.193838226670366,
+              -26.560830502815307
+            ],
+            [
+              26.082849265056574,
+              31.180589371727958
+            ],
+            [
+              48.273561900340624,
+              59.656115116415656
+            ],
+            [
+              51.2802835622525,
+              63.585693141463246
+            ]
+          ]
+        ]
+      },
+      "version": 4,
+      "timestamp": "2021-04-22T16:13:57Z"
+    },
+    {
+      "osm": "way/427532194",
+      "tags": {
+        "alt_name": "Wells Fargo Center South Tower",
+        "building": "commercial",
+        "building:colour": "#9C5B31",
+        "building:levels": "45",
+        "building:material": "glass",
+        "ele": "302.2",
+        "height": "186.6",
+        "lacounty:ain": "5151015013",
+        "lacounty:bld_id": "485112841424",
+        "name": "KPMG Tower",
+        "old_name": "Crocker Center South Tower",
+        "roof:material": "concrete",
+        "roof:shape": "flat",
+        "start_date": "1983"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              3.9566981379549166,
+              -64.398325423468
+            ],
+            [
+              -20.85336711145732,
+              -96.44720682324778
+            ],
+            [
+              -85.12895994409327,
+              -46.23098452647204
+            ],
+            [
+              -28.268717468600883,
+              -39.184460759172616
+            ],
+            [
+              3.9566981379549166,
+              -64.398325423468
+            ]
+          ]
+        ]
+      },
+      "version": 2,
+      "timestamp": "2021-04-22T16:13:57Z"
+    },
+    {
+      "osm": "way/427532221",
+      "tags": {
+        "building": "commercial",
+        "ele": "129.7",
+        "height": "16.1",
+        "lacounty:ain": "5151015013;5151015012",
+        "lacounty:bld_id": "485045841627;485091841660"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -39.56698138348119,
+              16.375097095636164
+            ],
+            [
+              -36.27434447011108,
+              13.792484909108516
+            ],
+            [
+              -25.00374977395942,
+              28.308546508919374
+            ],
+            [
+              -28.360948194201256,
+              30.935686491493712
+            ],
+            [
+              14.406439374428329,
+              85.99430663820654
+            ],
+            [
+              38.88447401089283,
+              66.8028264250179
+            ],
+            [
+              7.415350357143559,
+              26.29366372574418
+            ],
+            [
+              11.381271567134242,
+              26.805733383049557
+            ],
+            [
+              16.88744590015596,
+              -16.096798368564645
+            ],
+            [
+              12.340471116523723,
+              -16.68679166954496
+            ],
+            [
+              14.415662447774773,
+              -18.312056235136414
+            ],
+            [
+              -1.8353914452143578,
+              -39.050877370241565
+            ],
+            [
+              -24.66249608766524,
+              -21.239758843201106
+            ],
+            [
+              -25.46490340327195,
+              -21.017119861385698
+            ],
+            [
+              -25.78771094287325,
+              -20.349202916730434
+            ],
+            [
+              -32.1424079529912,
+              -15.384353627862694
+            ],
+            [
+              -67.97404493917196,
+              -20.182223680962107
+            ],
+            [
+              -39.56698138348119,
+              16.375097095636164
+            ]
+          ]
+        ]
+      },
+      "version": 4,
+      "timestamp": "2026-10-06T02:48:22Z"
+    }
+  ],
+  "osm": {
+    "type": "way",
+    "id": 427532202,
+    "version": 4,
+    "timestamp": "2021-04-22T16:13:57Z",
+    "url": "https://www.openstreetmap.org/way/427532202"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 427532194,
+      "version": 2,
+      "timestamp": "2021-04-22T16:13:57Z",
+      "url": "https://www.openstreetmap.org/way/427532194"
+    },
+    {
+      "type": "way",
+      "id": 427532221,
+      "version": 4,
+      "timestamp": "2026-10-06T02:48:22Z",
+      "url": "https://www.openstreetmap.org/way/427532221"
+    }
+  ],
+  "tags": {
+    "alt_name": "Wells Fargo Center North Tower",
+    "building": "commercial",
+    "building:colour": "#9C5B31",
+    "building:levels": "54",
+    "building:material": "glass",
+    "ele": "338.0",
+    "height": "222.4",
+    "lacounty:ain": "5151015012",
+    "lacounty:bld_id": "485357841728",
+    "name": "Wells Fargo Tower",
+    "old_name": "Crocker Center North Tower",
+    "roof:material": "concrete",
+    "roof:shape": "flat",
+    "start_date": "1983",
+    "wikidata": "Q2543729"
+  }
+}

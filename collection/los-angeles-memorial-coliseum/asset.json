@@ -1,0 +1,390 @@
+{
+  "id": "los-angeles-memorial-coliseum",
+  "name": "Los Angeles Memorial Coliseum",
+  "anchor": [
+    -118.287924,
+    34.0140415
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 238200,
+      "sha256": "51347c9d70abb31dc4cbf993c3bcc2beb98b68274dfb5a8d6de02b05d1920b24"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 238200,
+      "sha256": "51347c9d70abb31dc4cbf993c3bcc2beb98b68274dfb5a8d6de02b05d1920b24"
+    }
+  },
+  "triangles": 4173,
+  "boundsBlenderM": [
+    [
+      -167.462,
+      -115.731,
+      0
+    ],
+    [
+      153.37,
+      115.871,
+      36.5
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -118.2859916,
+          34.0131532
+        ],
+        [
+          -118.2857933,
+          34.0134037
+        ],
+        [
+          -118.2856419,
+          34.0137233
+        ],
+        [
+          -118.2856073,
+          34.0137884
+        ],
+        [
+          -118.2856025,
+          34.0140433
+        ],
+        [
+          -118.2855989,
+          34.0142322
+        ],
+        [
+          -118.2856046,
+          34.0143306
+        ],
+        [
+          -118.2858584,
+          34.0147719
+        ],
+        [
+          -118.2860131,
+          34.014679
+        ],
+        [
+          -118.2860479,
+          34.0147324
+        ],
+        [
+          -118.2861779,
+          34.014868
+        ],
+        [
+          -118.2862974,
+          34.0149614
+        ],
+        [
+          -118.2863793,
+          34.0150228
+        ],
+        [
+          -118.2865802,
+          34.0151128
+        ],
+        [
+          -118.2866893,
+          34.0151579
+        ],
+        [
+          -118.2867708,
+          34.0152404
+        ],
+        [
+          -118.2871811,
+          34.0153134
+        ],
+        [
+          -118.2875955,
+          34.0153122
+        ],
+        [
+          -118.2885356,
+          34.0153156
+        ],
+        [
+          -118.2889389,
+          34.0152448
+        ],
+        [
+          -118.2889725,
+          34.0152374
+        ],
+        [
+          -118.2890009,
+          34.0151928
+        ],
+        [
+          -118.2890115,
+          34.0151931
+        ],
+        [
+          -118.2890872,
+          34.0152089
+        ],
+        [
+          -118.2894003,
+          34.0150764
+        ],
+        [
+          -118.2894765,
+          34.0149699
+        ],
+        [
+          -118.2898162,
+          34.0148276
+        ],
+        [
+          -118.2898405,
+          34.0148131
+        ],
+        [
+          -118.2899756,
+          34.0148113
+        ],
+        [
+          -118.2899737,
+          34.0147149
+        ],
+        [
+          -118.2899165,
+          34.0147157
+        ],
+        [
+          -118.2899144,
+          34.0146118
+        ],
+        [
+          -118.2900412,
+          34.0146111
+        ],
+        [
+          -118.2900399,
+          34.0144555
+        ],
+        [
+          -118.2899143,
+          34.0144562
+        ],
+        [
+          -118.2899143,
+          34.0144165
+        ],
+        [
+          -118.2899143,
+          34.0143702
+        ],
+        [
+          -118.289997,
+          34.0143699
+        ],
+        [
+          -118.289993,
+          34.0136843
+        ],
+        [
+          -118.2899639,
+          34.0135514
+        ],
+        [
+          -118.2898774,
+          34.0134433
+        ],
+        [
+          -118.2898746,
+          34.0133993
+        ],
+        [
+          -118.2898472,
+          34.0133502
+        ],
+        [
+          -118.289846,
+          34.0131989
+        ],
+        [
+          -118.2898558,
+          34.0131988
+        ],
+        [
+          -118.2898549,
+          34.0130655
+        ],
+        [
+          -118.289834,
+          34.0130656
+        ],
+        [
+          -118.2898371,
+          34.0127916
+        ],
+        [
+          -118.2897666,
+          34.0127914
+        ],
+        [
+          -118.289636,
+          34.0128472
+        ],
+        [
+          -118.2893202,
+          34.0129822
+        ],
+        [
+          -118.289036,
+          34.0128396
+        ],
+        [
+          -118.2886328,
+          34.0127665
+        ],
+        [
+          -118.2885618,
+          34.0127544
+        ],
+        [
+          -118.2885509,
+          34.0127937
+        ],
+        [
+          -118.2883898,
+          34.0127672
+        ],
+        [
+          -118.2874453,
+          34.0127499
+        ],
+        [
+          -118.287443,
+          34.0126814
+        ],
+        [
+          -118.2874268,
+          34.0126822
+        ],
+        [
+          -118.2871353,
+          34.0126952
+        ],
+        [
+          -118.2871246,
+          34.0127588
+        ],
+        [
+          -118.2867203,
+          34.0128305
+        ],
+        [
+          -118.2865622,
+          34.0128973
+        ],
+        [
+          -118.2865225,
+          34.0129271
+        ],
+        [
+          -118.286363,
+          34.0130423
+        ],
+        [
+          -118.2863238,
+          34.0130789
+        ],
+        [
+          -118.2861896,
+          34.0132144
+        ],
+        [
+          -118.2861595,
+          34.0132533
+        ],
+        [
+          -118.2859916,
+          34.0131532
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 443675312,
+    "version": 5,
+    "timestamp": "2024-08-10T20:15:56Z",
+    "url": "https://www.openstreetmap.org/way/443675312"
+  },
+  "additionalOsm": [
+    {
+      "type": "relation",
+      "id": 6100581,
+      "version": 7,
+      "timestamp": "2018-08-23T13:22:52Z",
+      "url": "https://www.openstreetmap.org/relation/6100581"
+    },
+    {
+      "type": "way",
+      "id": 174863998,
+      "version": 3,
+      "timestamp": "2024-08-10T19:53:06Z",
+      "url": "https://www.openstreetmap.org/way/174863998"
+    },
+    {
+      "type": "way",
+      "id": 174863999,
+      "version": 3,
+      "timestamp": "2024-08-10T19:53:06Z",
+      "url": "https://www.openstreetmap.org/way/174863999"
+    }
+  ],
+  "wikidata": "Q849784",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/la-coliseum.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Los Angeles Memorial Coliseum (1923, John and Donald Parkinson; press and suite tower 2019) — procedural, CC0-1.0. bun generators/la-coliseum.ts",
+    "Map frame: x east, y north, z up, metres; bearing 0 (the field's long axis runs east-west to within a degree, from the LARIAC footprint's moments). The anchor is the area centroid of the grandstand's outer ring (OSM relation/6100581, LARIAC 474901827615). y = 0 is the lowest ground under the footprint as the map's terrain has it (53.5 m, USGS 3DEP).",
+    "The bowl is sunk: the field is 13 m below the surrounding park (42 m in the 2006 lidar), so only the upper part of the stands stands above ground. The terrain model fills the bowl at street level, so the model draws the stands from the cross-aisle at ground level up to the rim and leaves the lower bowl and the field to the map.",
+    "What makes it the Coliseum: the long oval of cardinal seats with its rim banded cardinal and gold over a concrete wall of piers and openings; the peristyle closing the east end, a colonnade of round arches either side of the great central arch with the Olympic torch on top, between two tall plain towers; the 2019 press and suite tower stacked over the south stands.",
+    "Sources:",
+    "Plan: LARIAC 2020 footprint 474901827615 (outer ring 321 × 233 m, the field opening 182 × 80 m), OSM relation/6100581 (building=grandstand, 34.9 m), OSM way/174863998 and way/174863999 (the colonnade's end towers), USGS NAIP orthophoto (the 2019 tower's plan, aisles, colours).",
+    "Heights: LA County 2006 lidar surface model, 4 m grid over the bowl and 2 m over the peristyle, against 3DEP ground: rim 22.5 m above the map's ground all round; the east-end stands 9-10 m; central arch 24 m, torch 36.5 m; colonnade 14 m; the two plain towers 30.5 m; the colonnade's end towers 16.5 m. The 2019 tower is 35 m (LARIAC 2020 maximum for the building; the 2006 lidar predates it), stepped back from the field.",
+    "Photos (Wikimedia Commons): MikeJiroch's 2013 series of the exterior and peristyle (CC BY-SA 3.0; the wall, its bands, the arches); \"LA Coliseum Dec 2022\" and \"LA Coliseum Dec 23 2022\" (CanonStarGal, CC BY-SA 4.0; the peristyle from the west, square on); \"LA Memorial Coliseum During Busch Light Clash\" (Natecation, CC BY-SA 4.0); \"USC vs University of Oregon November 2019\" (CanonStarGal, CC BY-SA 4.0) and \"RamsvSeahawks2019\" (PontiacAurora, CC BY-SA 4.0; the 2019 tower); \"LA Memorial Coliseum aerial view, August 2017\" (Ron Reiring, CC BY 2.0).",
+    "Estimated: the arch and colonnade proportions (from the square-on photos: seven arches a side; the central block 17.5 m wide, its arch 7.2 m wide with the crown at 14.4 m), the dark panels standing for the arches' shadowed depth, the torch's shape, the 2019 tower's steps and glazing, the facade openings.",
+    "Left out: the lower bowl and field (below the map's ground), the statues, flagpoles, light masts, scoreboard faces and signs.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"la-coliseum\", model \"la-coliseum\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/la-coliseum.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 1493 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the la-coliseum-glazing finish in the window colour."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

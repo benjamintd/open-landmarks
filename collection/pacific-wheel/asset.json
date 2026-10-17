@@ -1,0 +1,112 @@
+{
+  "id": "pacific-wheel",
+  "name": "Pacific Wheel",
+  "anchor": [
+    -118.497834,
+    34.0082275
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 199928,
+      "sha256": "f78221454aad231488b112c8554c511e767ff47e6ffab2ebf599b062d1ea48f2"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 199928,
+      "sha256": "f78221454aad231488b112c8554c511e767ff47e6ffab2ebf599b062d1ea48f2"
+    }
+  },
+  "triangles": 4232,
+  "boundsBlenderM": [
+    [
+      -3.766,
+      -12.632,
+      0
+    ],
+    [
+      3.766,
+      12.632,
+      26
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -118.497845,
+          34.0083421
+        ],
+        [
+          -118.4978194,
+          34.0083418
+        ],
+        [
+          -118.4978231,
+          34.0081129
+        ],
+        [
+          -118.4978487,
+          34.0081132
+        ],
+        [
+          -118.497845,
+          34.0083421
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 742372514,
+    "version": 3,
+    "timestamp": "2024-04-14T22:08:48Z",
+    "url": "https://www.openstreetmap.org/way/742372514"
+  },
+  "additionalOsm": [],
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/la-pacific-wheel.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Pacific Wheel, Pacific Park, Santa Monica Pier (2008, solar-powered; repainted and relit since) — procedural, CC0-1.0. bun generators/la-pacific-wheel.ts",
+    "Map frame: x east, y north, z up, metres; origin on the pier deck under the axle. The wheel is built turning in the x–z plane, its axle along y, and placed at bearing 91°, which turns that plane to run north–south (181°/1°) as the OSM outline and the lidar show.",
+    "What makes it the Pacific Wheel: a white wheel with a slim silver rim on each face and a dense web of white spokes; twenty open octagonal gondolas, alternately red and yellow, each under an octagonal canopy (dark grey underneath and round its edge, pale on top, as the orthophoto shows), hanging between the two faces; the white \"Pacific Park\" disc on the hub; and the broad white box-section A-frame legs splayed in the wheel's plane. (Those legs, not lattice towers, are what the photos show.)",
+    "Sources:",
+    "Plan: OSM way/742372514 (attraction=big_wheel, building=yes), a 2.4 x 25.3 m outline whose long axis runs 0.8° east of north; its centroid is the anchor. USGS NAIP orthophoto confirms the plane runs north–south over the pier.",
+    "Heights (LA County 2020 lidar surface model, 1.5 m grid in the wheel's plane, /tmp/city/la/work/la-pacific-wheel/dsm.json): pier deck 7.5–7.6 m all round (NAVD88), wheel top 33.1 m, so 25.6 m above the deck; the rim at axle height reaches 12.0–12.5 m either side of the anchor. Hence rim radius 12.5 m and axle 13.1 m above the deck.",
+    "Published: 85 ft (25.9 m) tall, 20 gondolas of six riders, the first solar-powered Ferris wheel (Pacific Park; Wikipedia \"Pacific Park\").",
+    "Photos (Wikimedia Commons): \"Santa Monica Wheel in Pier\" (John Salatas, CC BY-SA 4.0; from the pier's north side, face on, whole wheel); \"Santa Monica Pier Ferrish Wheel, August 2026\" (Alexis Doine, CC0; face on, legs and hub sign); \"Ferris wheel at Santa Monica Pier\" (Luis Ochea, CC BY 4.0; hub sign and legs close up); \"Ferris Wheel Profile, Santa Monica (3668253296)\" (Sharon Mollerus, CC BY 2.0; edge on: the gondolas hang between the two rim faces); \"Ferris Wheel - Santa Monica Pier - panoramio\" (tmastro, CC BY-SA 3.0; gondolas and canopies); \"Pacific Park Ferris Wheel. (22009437548)\" (Ian D. Keating, CC BY 2.0; leg from below).",
+    "Estimated from photos, scaled by the lidar rim: the depth between the faces (3.2 m), gondola size (tub 2.3 m across, canopy 2.7 m), the legs' splay (feet 6.4 m either side of the axle) and section, the hub sign (3.6 m across).",
+    "Simplified: the real wheel has about 40 spokes a face and a truss of ties between the faces; here 32 bold spokes a face and 20 ties.",
+    "elevation: 7.5 m. The pier deck stands over the surf; USGS 3DEP gives 0.0 m (sea level) under the whole outline, the lidar surface model 7.5 m on the open deck round the wheel, so the model's y = 0 (the deck) sits 7.5 m above the terrain the map knows.",
+    "It turns (experimental; see \"Animation\" in STYLE.md): the wheel is a node at the axle and each gondola a child node at its pivot, turned back by as much as the wheel so it hangs plumb. One turn every 120 s; the real wheel turns about once in two to three minutes, near enough to keep. Frame 0 is the static model. It replaces OSM way/742372514, the wheel's outline.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"la-pacific-wheel\", model \"la-pacific-wheel\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/la-pacific-wheel.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

@@ -1,0 +1,121 @@
+{
+  "id": "watts-towers",
+  "anchor": [
+    -118.24105,
+    33.93872
+  ],
+  "coordinateSystem": "Local metres about the anchor (equirectangular, WGS84 radius): X east, Y north, Z up. glTF export: X east, Y up, Z south. Heading already baked.",
+  "license": "ODbL-1.0",
+  "footprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -28.54679615187777,
+          -4.975981238868133
+        ],
+        [
+          -28.29743882577708,
+          -5.254279965939653
+        ],
+        [
+          21.001428162507203,
+          -4.953717340449301
+        ],
+        [
+          21.121489098219993,
+          -4.475043529981203
+        ],
+        [
+          -26.284109301059086,
+          20.616369694592542
+        ],
+        [
+          -26.65352756287258,
+          20.415994611195963
+        ],
+        [
+          -28.54679615187777,
+          -4.975981238868133
+        ]
+      ]
+    ]
+  },
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -118.2413591,
+          33.9386753
+        ],
+        [
+          -118.2413564,
+          33.9386728
+        ],
+        [
+          -118.2408226,
+          33.9386755
+        ],
+        [
+          -118.2408213,
+          33.9386798
+        ],
+        [
+          -118.2413346,
+          33.9389052
+        ],
+        [
+          -118.2413386,
+          33.9389034
+        ],
+        [
+          -118.2413591,
+          33.9386753
+        ]
+      ]
+    ]
+  },
+  "parts": [
+    {
+      "osm": "relation/9320963",
+      "tags": {
+        "alt_name": "Watts Towers of Simon Rodia",
+        "heritage": "2",
+        "heritage:operator": "nrhp",
+        "name": "Watts Towers",
+        "ref:nrhp": "77000297",
+        "tourism": "artwork",
+        "type": "site",
+        "wikidata": "Q445256",
+        "wikipedia": "en:Watts Towers"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": []
+      },
+      "version": 3,
+      "timestamp": "2019-03-30T22:42:40Z"
+    }
+  ],
+  "osm": {
+    "type": "relation",
+    "id": 9320963,
+    "version": 3,
+    "timestamp": "2019-03-30T22:42:40Z",
+    "url": "https://www.openstreetmap.org/relation/9320963"
+  },
+  "additionalOsm": [],
+  "tags": {
+    "alt_name": "Watts Towers of Simon Rodia",
+    "heritage": "2",
+    "heritage:operator": "nrhp",
+    "name": "Watts Towers",
+    "ref:nrhp": "77000297",
+    "tourism": "artwork",
+    "type": "site",
+    "wikidata": "Q445256",
+    "wikipedia": "en:Watts Towers"
+  },
+  "note": "This landmark replaces no mapped building; the OSM feature cited is the one that names it."
+}

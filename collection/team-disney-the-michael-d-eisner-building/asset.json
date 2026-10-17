@@ -1,0 +1,439 @@
+{
+  "id": "team-disney-the-michael-d-eisner-building",
+  "name": "Team Disney – The Michael D. Eisner Building",
+  "anchor": [
+    -118.3272456,
+    34.1579334
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 167764,
+      "sha256": "40a9997b96c98a0cf23953aa0be9b40f35e988c2e58eae874aafa23d4c87a560"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 167764,
+      "sha256": "40a9997b96c98a0cf23953aa0be9b40f35e988c2e58eae874aafa23d4c87a560"
+    }
+  },
+  "triangles": 3251,
+  "boundsBlenderM": [
+    [
+      -56.746,
+      -100.93,
+      0
+    ],
+    [
+      59.885,
+      63.54,
+      33
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -118.3276609,
+          34.1577363
+        ],
+        [
+          -118.3276654,
+          34.1577348
+        ],
+        [
+          -118.3276844,
+          34.1577738
+        ],
+        [
+          -118.3276966,
+          34.1577697
+        ],
+        [
+          -118.3277342,
+          34.157847
+        ],
+        [
+          -118.3277227,
+          34.1578508
+        ],
+        [
+          -118.3277398,
+          34.1578858
+        ],
+        [
+          -118.3277261,
+          34.1578904
+        ],
+        [
+          -118.3277676,
+          34.1579755
+        ],
+        [
+          -118.3277778,
+          34.1579721
+        ],
+        [
+          -118.3277972,
+          34.1580118
+        ],
+        [
+          -118.3278126,
+          34.1580067
+        ],
+        [
+          -118.3278493,
+          34.1580819
+        ],
+        [
+          -118.3278368,
+          34.1580862
+        ],
+        [
+          -118.3278549,
+          34.1581233
+        ],
+        [
+          -118.3276726,
+          34.1581848
+        ],
+        [
+          -118.3276658,
+          34.1581708
+        ],
+        [
+          -118.3275624,
+          34.1582057
+        ],
+        [
+          -118.327569,
+          34.1582193
+        ],
+        [
+          -118.3273864,
+          34.1582809
+        ],
+        [
+          -118.3273845,
+          34.1582771
+        ],
+        [
+          -118.327083,
+          34.1583788
+        ],
+        [
+          -118.3270513,
+          34.1583137
+        ],
+        [
+          -118.3269685,
+          34.1583416
+        ],
+        [
+          -118.3269505,
+          34.1583048
+        ],
+        [
+          -118.3269378,
+          34.1583149
+        ],
+        [
+          -118.3269189,
+          34.1583261
+        ],
+        [
+          -118.3269019,
+          34.1583327
+        ],
+        [
+          -118.3268804,
+          34.1583382
+        ],
+        [
+          -118.3268585,
+          34.1583404
+        ],
+        [
+          -118.3268385,
+          34.1583391
+        ],
+        [
+          -118.3268165,
+          34.1583421
+        ],
+        [
+          -118.3268193,
+          34.1584963
+        ],
+        [
+          -118.326621,
+          34.1584987
+        ],
+        [
+          -118.3266163,
+          34.15824
+        ],
+        [
+          -118.3266115,
+          34.1579726
+        ],
+        [
+          -118.3268099,
+          34.1579701
+        ],
+        [
+          -118.3268116,
+          34.158066
+        ],
+        [
+          -118.3268128,
+          34.1581333
+        ],
+        [
+          -118.3268257,
+          34.158129
+        ],
+        [
+          -118.326846,
+          34.1581267
+        ],
+        [
+          -118.3268665,
+          34.1581266
+        ],
+        [
+          -118.3268439,
+          34.1580891
+        ],
+        [
+          -118.326929,
+          34.158061
+        ],
+        [
+          -118.3268979,
+          34.1579957
+        ],
+        [
+          -118.3272007,
+          34.1578957
+        ],
+        [
+          -118.3271989,
+          34.157892
+        ],
+        [
+          -118.3272415,
+          34.1578779
+        ],
+        [
+          -118.3272351,
+          34.1578645
+        ],
+        [
+          -118.3272636,
+          34.157855
+        ],
+        [
+          -118.327265,
+          34.1578582
+        ],
+        [
+          -118.3273047,
+          34.1578451
+        ],
+        [
+          -118.3273032,
+          34.157842
+        ],
+        [
+          -118.3273293,
+          34.1578333
+        ],
+        [
+          -118.3273357,
+          34.1578468
+        ],
+        [
+          -118.3273799,
+          34.1578322
+        ],
+        [
+          -118.3273834,
+          34.1578397
+        ],
+        [
+          -118.3274668,
+          34.1578121
+        ],
+        [
+          -118.3273438,
+          34.1575546
+        ],
+        [
+          -118.327277,
+          34.1575766
+        ],
+        [
+          -118.32721,
+          34.1575532
+        ],
+        [
+          -118.3271825,
+          34.1574967
+        ],
+        [
+          -118.3272115,
+          34.1574404
+        ],
+        [
+          -118.3272717,
+          34.1574202
+        ],
+        [
+          -118.3271557,
+          34.1571824
+        ],
+        [
+          -118.3271856,
+          34.1571724
+        ],
+        [
+          -118.3271799,
+          34.1571607
+        ],
+        [
+          -118.3272089,
+          34.1571509
+        ],
+        [
+          -118.3271846,
+          34.1571011
+        ],
+        [
+          -118.3271965,
+          34.1570971
+        ],
+        [
+          -118.3271983,
+          34.1570884
+        ],
+        [
+          -118.3272014,
+          34.1570807
+        ],
+        [
+          -118.3272111,
+          34.1570718
+        ],
+        [
+          -118.3272233,
+          34.157063
+        ],
+        [
+          -118.327239,
+          34.1570573
+        ],
+        [
+          -118.3272557,
+          34.1570563
+        ],
+        [
+          -118.3272684,
+          34.1570579
+        ],
+        [
+          -118.3272788,
+          34.1570614
+        ],
+        [
+          -118.3272858,
+          34.1570675
+        ],
+        [
+          -118.3272996,
+          34.1570628
+        ],
+        [
+          -118.327324,
+          34.1571126
+        ],
+        [
+          -118.3273521,
+          34.157103
+        ],
+        [
+          -118.3276609,
+          34.1577363
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "relation",
+    "id": 6385468,
+    "version": 4,
+    "timestamp": "2024-06-18T19:12:08Z",
+    "url": "https://www.openstreetmap.org/relation/6385468"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 244655045,
+      "version": 2,
+      "timestamp": "2016-07-04T19:10:38Z",
+      "url": "https://www.openstreetmap.org/way/244655045"
+    },
+    {
+      "type": "way",
+      "id": 244924896,
+      "version": 2,
+      "timestamp": "2016-07-04T16:48:07Z",
+      "url": "https://www.openstreetmap.org/way/244924896"
+    }
+  ],
+  "wikidata": "Q126723759",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/la-team-disney.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Team Disney – The Michael D. Eisner Building (1990, Michael Graves), Walt Disney Studios, Burbank — procedural, CC0-1.0. bun generators/la-team-disney.ts",
+    "Map frame: x east, y north, z up, metres; bearing 0. The anchor is the area centroid of OSM relation/6385468, on the ground (160.0 m; the site is flat to half a metre, USGS 3DEP).",
+    "The building is two grids. The famous east front, the pediment held up by the Seven Dwarfs, is square to the compass; the rest (the groin-vaulted pavilions on Buena Vista Street, the tile-roofed wings and the long wing south along the street) is turned 22.4 degrees anticlockwise. W() places a point of that second grid (u east-north-east, v north-north-west, from the OSM node the lidar grid was centred on).",
+    "What makes it the Team Disney building: the east front's shallow pediment held by six 19 ft dwarfs standing on a red granite base, with Dopey alone in the pediment's middle; ochre walls over red stone; the round rotunda with its ring of columns rising behind the pediment; the four grey groin-vaulted pavilions whose big semicircular arched ends face the street. Famous-object exception (STYLE.md): the dwarfs are simple bold figures.",
+    "Sources:",
+    "Plan: OSM relation/6385468 (outer and inner rings); USGS NAIP orthophoto, turned into the wing grid (the four vaults, the flat spine, the tile roofs, the courtyard, the small drum on the long wing).",
+    "Heights: LA County 2020 lidar surface model, a 2 m grid in the wing frame and 1.5 m over the east block in the north frame: the east block's roof 21 m at the eaves to 23-24 m at the pediment's apex, the block behind it 26.5 m, the rotunda 33 m (about 23 m across, centred 14.5 m west of the block's middle); the vaults' crowns 28-29 m, the spine 30.5 m, the street block between the vaults 26 m, the tile wings 17-18 m, the long wing 17-18 m, its drum 22.5 m, the courtyard roofs 13-16 m.",
+    "Published: the dwarfs are 19 ft (5.8 m) tall (Disney; widely reported); architect Michael Graves, 1990.",
+    "Photos (Wikimedia Commons): \"Teamdisneyburbankbuilding\" (Coolcaesar, CC BY-SA 4.0; the east front square on), \"The Walt Disney Company office\" (Davric, CC BY-SA 4.0; the east front from the south-east), \"7 Dwarves caryatids, Eisner Building Disney Studios\" (Cory Doctorow, CC BY-SA 2.0), \"Disney studios burbank team disney building buena vista\" (Junkyardsparkle, CC0; the street side: vault ends, rotunda).",
+    "Estimated: the bay rhythm (seven bays at 8 m, the glass 5 m and the piers 3 m, from the photos fitted to the 58 m front), the storey heights of the base and the dwarf zone (photo proportions on the lidar's 20.4 m eaves: base 11.4 m, the dwarfs on 0.9 m plinths up to the entablature), the dwarfs' figures, the street side's windows, the rotunda's columns.",
+    "Left out: the pergola, the canopy, lettering, the dwarfs' faces and clothes, mullions.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"la-team-disney\", model \"la-team-disney\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/la-team-disney.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

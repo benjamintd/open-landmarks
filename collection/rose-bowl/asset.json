@@ -1,0 +1,369 @@
+{
+  "id": "rose-bowl",
+  "name": "Rose Bowl",
+  "anchor": [
+    -118.1676656,
+    34.1613117
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 112288,
+      "sha256": "10f24bae64104aafdf0e1ee7e35a84dab05470d24f00e661a6beb2ae7c469daf"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 112288,
+      "sha256": "10f24bae64104aafdf0e1ee7e35a84dab05470d24f00e661a6beb2ae7c469daf"
+    }
+  },
+  "triangles": 1875,
+  "boundsBlenderM": [
+    [
+      -129.795,
+      -136.757,
+      0
+    ],
+    [
+      110.731,
+      138.077,
+      31
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -118.1678775,
+          34.1625205
+        ],
+        [
+          -118.1677729,
+          34.1625401
+        ],
+        [
+          -118.1676551,
+          34.162542
+        ],
+        [
+          -118.1675391,
+          34.1625348
+        ],
+        [
+          -118.1674114,
+          34.1625112
+        ],
+        [
+          -118.1672935,
+          34.1624738
+        ],
+        [
+          -118.1671981,
+          34.1624331
+        ],
+        [
+          -118.1671042,
+          34.1623868
+        ],
+        [
+          -118.1669785,
+          34.162298
+        ],
+        [
+          -118.1668613,
+          34.1621937
+        ],
+        [
+          -118.166758,
+          34.1620815
+        ],
+        [
+          -118.1666732,
+          34.1619553
+        ],
+        [
+          -118.1665843,
+          34.1617908
+        ],
+        [
+          -118.1665226,
+          34.1616489
+        ],
+        [
+          -118.1664912,
+          34.161527
+        ],
+        [
+          -118.1664764,
+          34.161427
+        ],
+        [
+          -118.1664624,
+          34.1613017
+        ],
+        [
+          -118.166465,
+          34.1611354
+        ],
+        [
+          -118.1664808,
+          34.1610197
+        ],
+        [
+          -118.1665066,
+          34.1608971
+        ],
+        [
+          -118.1665379,
+          34.1607939
+        ],
+        [
+          -118.1665869,
+          34.1606803
+        ],
+        [
+          -118.1666363,
+          34.1605951
+        ],
+        [
+          -118.1667003,
+          34.1605035
+        ],
+        [
+          -118.1667941,
+          34.1603924
+        ],
+        [
+          -118.1668994,
+          34.1602972
+        ],
+        [
+          -118.1669994,
+          34.1602291
+        ],
+        [
+          -118.1671074,
+          34.1601774
+        ],
+        [
+          -118.1672091,
+          34.1601418
+        ],
+        [
+          -118.167308,
+          34.160114
+        ],
+        [
+          -118.1673959,
+          34.1601021
+        ],
+        [
+          -118.167442,
+          34.1600987
+        ],
+        [
+          -118.1675705,
+          34.1601003
+        ],
+        [
+          -118.1676882,
+          34.1601117
+        ],
+        [
+          -118.1678289,
+          34.1601353
+        ],
+        [
+          -118.1679376,
+          34.1601724
+        ],
+        [
+          -118.1680546,
+          34.1602293
+        ],
+        [
+          -118.1681615,
+          34.1602886
+        ],
+        [
+          -118.1682761,
+          34.1603812
+        ],
+        [
+          -118.168374,
+          34.1604754
+        ],
+        [
+          -118.1685014,
+          34.1603926
+        ],
+        [
+          -118.1686424,
+          34.1605648
+        ],
+        [
+          -118.1686058,
+          34.1605866
+        ],
+        [
+          -118.1686841,
+          34.1607088
+        ],
+        [
+          -118.1687561,
+          34.1608576
+        ],
+        [
+          -118.1688197,
+          34.1610079
+        ],
+        [
+          -118.1688445,
+          34.1611354
+        ],
+        [
+          -118.1688845,
+          34.1611307
+        ],
+        [
+          -118.1688775,
+          34.1610841
+        ],
+        [
+          -118.169056,
+          34.161065
+        ],
+        [
+          -118.1690885,
+          34.1612673
+        ],
+        [
+          -118.1689131,
+          34.1612855
+        ],
+        [
+          -118.168905,
+          34.1612169
+        ],
+        [
+          -118.1688553,
+          34.1612221
+        ],
+        [
+          -118.1688715,
+          34.1613966
+        ],
+        [
+          -118.1688519,
+          34.1615655
+        ],
+        [
+          -118.1688293,
+          34.1617076
+        ],
+        [
+          -118.1687746,
+          34.1618944
+        ],
+        [
+          -118.1688068,
+          34.1619138
+        ],
+        [
+          -118.1687318,
+          34.1620582
+        ],
+        [
+          -118.1685801,
+          34.1620077
+        ],
+        [
+          -118.1685393,
+          34.1620878
+        ],
+        [
+          -118.1684566,
+          34.1621906
+        ],
+        [
+          -118.1683577,
+          34.1622915
+        ],
+        [
+          -118.1682434,
+          34.1623739
+        ],
+        [
+          -118.1681816,
+          34.1624153
+        ],
+        [
+          -118.1680858,
+          34.1624589
+        ],
+        [
+          -118.1679889,
+          34.1624907
+        ],
+        [
+          -118.1678775,
+          34.1625205
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 5208863,
+    "version": 16,
+    "timestamp": "2026-03-14T12:39:08Z",
+    "url": "https://www.openstreetmap.org/way/5208863"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q582280",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/la-rose-bowl.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Rose Bowl (1922, Myron Hunt; Terrace Suites and press box 2013), Pasadena — procedural, CC0-1.0. bun generators/la-rose-bowl.ts",
+    "Map frame: x east, y north, z up, metres; bearing 0 (the bowl's long axis runs north-south to within a degree or two). The anchor is the area centroid of OSM way/5208863.",
+    "The bowl is sunk in the Arroyo Seco: the field is 245 m, the ground outside 251 m on the south and west and 254 m on the north, the rim 264 m. y = 0 is the lowest ground around it (251 m). As with the Coliseum, the model draws the stands only from where they rise out of the ground up to the rim, and leaves the lower bowl and the field to the map.",
+    "What makes it the Rose Bowl: the long, round-ended oval, wider at the ends than a plain ellipse; rose-coloured seats along the sides and pale grey seats at the two ends; the cream rim and the outer wall of piers and tall openings; the long, tall Terrace Suites and press box along the west rim; the video board on the north rim and the white \"Rose Bowl\" sign over the south tunnel.",
+    "Sources:",
+    "Plan: OSM way/5208863 (the outer wall; its west half replaced by the east half mirrored, since the outline there follows the press box); USGS NAIP orthophoto (seat colours and the angles where they change, the press box plan).",
+    "Heights: LA County 2020 lidar surface model on a 3 m grid: the rim 263-264 m all round (12.8 m above y = 0), the line where the seats come out of the ground (r_in below, per 5.6 degrees about the bowl's centre), the press box 28 m above y = 0 at its ends and 31 m over its middle, 15 m deep, from 100 m south to 80 m north of the centre; its two outer stair blocks; the north video board 16 m wide, top 28 m; the south sign to 19-20 m.",
+    "Photos: Ted Eytan, \"2018.06.17 Over the Rose Bowl, Pasadena, CA USA\" 0031-0048 (CC BY-SA 2.0; drone views from the south, south-west and above, which show the seat colours, the rim, the outer wall's piers, the press box and the board); Ken Lund, \"Rose Bowl Prior to BYU-UCLA Game\" (CC BY-SA 2.0; the board).",
+    "Estimated: the outer wall's openings (pitch and size from the south end, carried round), the press box's glazing bands, the rake's profile (straight), the rim walkway's width.",
+    "Left out: the lower bowl and the field (the map's), tunnels, aisles, the light rigs, the rose mosaic and plaza, trees on the berm.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"la-rose-bowl\", model \"la-rose-bowl\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/la-rose-bowl.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 95 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the la-rose-bowl-glazing finish in the window colour.",
+    "To fit six materials, folded trim into stone (ΔE 4.8)."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

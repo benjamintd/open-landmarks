@@ -1,0 +1,570 @@
+{
+  "id": "royce-hall",
+  "name": "Royce Hall",
+  "anchor": [
+    -118.442209,
+    34.0728531
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 67076,
+      "sha256": "3c7d8be6bdac93422e37604da59b7bd85697a3cb24e6ed7259f18f3ac55fe42c"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 67076,
+      "sha256": "3c7d8be6bdac93422e37604da59b7bd85697a3cb24e6ed7259f18f3ac55fe42c"
+    }
+  },
+  "triangles": 1850,
+  "boundsBlenderM": [
+    [
+      -44.05,
+      -41.66,
+      0
+    ],
+    [
+      48.25,
+      50.04,
+      43
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -118.4416925,
+          34.0730036
+        ],
+        [
+          -118.4418805,
+          34.0730024
+        ],
+        [
+          -118.4418805,
+          34.0729968
+        ],
+        [
+          -118.4418875,
+          34.0729968
+        ],
+        [
+          -118.4418845,
+          34.0726518
+        ],
+        [
+          -118.4417675,
+          34.0726526
+        ],
+        [
+          -118.4417675,
+          34.0726424
+        ],
+        [
+          -118.4417475,
+          34.0726392
+        ],
+        [
+          -118.4417415,
+          34.0726366
+        ],
+        [
+          -118.4417355,
+          34.072633
+        ],
+        [
+          -118.4417295,
+          34.0726281
+        ],
+        [
+          -118.4417245,
+          34.072623
+        ],
+        [
+          -118.4417205,
+          34.0726174
+        ],
+        [
+          -118.4417185,
+          34.0726108
+        ],
+        [
+          -118.4417175,
+          34.0726026
+        ],
+        [
+          -118.4417195,
+          34.07259
+        ],
+        [
+          -118.4417225,
+          34.0725841
+        ],
+        [
+          -118.4417315,
+          34.0725726
+        ],
+        [
+          -118.4417365,
+          34.0725685
+        ],
+        [
+          -118.4417485,
+          34.0725622
+        ],
+        [
+          -118.4417655,
+          34.0725592
+        ],
+        [
+          -118.4417715,
+          34.0725595
+        ],
+        [
+          -118.441771,
+          34.0725288
+        ],
+        [
+          -118.4417715,
+          34.0725008
+        ],
+        [
+          -118.4420065,
+          34.0725004
+        ],
+        [
+          -118.4420065,
+          34.0724848
+        ],
+        [
+          -118.4421803,
+          34.0724844
+        ],
+        [
+          -118.4423565,
+          34.0724841
+        ],
+        [
+          -118.4423565,
+          34.0725005
+        ],
+        [
+          -118.4425925,
+          34.0725001
+        ],
+        [
+          -118.4425925,
+          34.0725236
+        ],
+        [
+          -118.4425925,
+          34.0725559
+        ],
+        [
+          -118.4426085,
+          34.0725566
+        ],
+        [
+          -118.4426165,
+          34.0725588
+        ],
+        [
+          -118.4426295,
+          34.0725655
+        ],
+        [
+          -118.4426375,
+          34.0725725
+        ],
+        [
+          -118.4426425,
+          34.0725788
+        ],
+        [
+          -118.4426465,
+          34.0725892
+        ],
+        [
+          -118.4426475,
+          34.0725962
+        ],
+        [
+          -118.4426475,
+          34.0726044
+        ],
+        [
+          -118.4426445,
+          34.0726121
+        ],
+        [
+          -118.4426395,
+          34.0726203
+        ],
+        [
+          -118.4426335,
+          34.0726266
+        ],
+        [
+          -118.4426195,
+          34.0726352
+        ],
+        [
+          -118.4426115,
+          34.0726378
+        ],
+        [
+          -118.4425955,
+          34.0726405
+        ],
+        [
+          -118.4425955,
+          34.0726901
+        ],
+        [
+          -118.4426565,
+          34.07269
+        ],
+        [
+          -118.4426565,
+          34.0727392
+        ],
+        [
+          -118.4426865,
+          34.0727391
+        ],
+        [
+          -118.4426865,
+          34.0729503
+        ],
+        [
+          -118.4426575,
+          34.0729504
+        ],
+        [
+          -118.4426575,
+          34.0730054
+        ],
+        [
+          -118.4426245,
+          34.0730055
+        ],
+        [
+          -118.4426245,
+          34.0730644
+        ],
+        [
+          -118.4426325,
+          34.0730647
+        ],
+        [
+          -118.4426395,
+          34.0730666
+        ],
+        [
+          -118.4426475,
+          34.0730703
+        ],
+        [
+          -118.4426555,
+          34.0730762
+        ],
+        [
+          -118.4426605,
+          34.0730818
+        ],
+        [
+          -118.4426635,
+          34.0730889
+        ],
+        [
+          -118.4426645,
+          34.0730963
+        ],
+        [
+          -118.4426635,
+          34.0731042
+        ],
+        [
+          -118.4426595,
+          34.0731124
+        ],
+        [
+          -118.4426545,
+          34.0731187
+        ],
+        [
+          -118.4426475,
+          34.0731232
+        ],
+        [
+          -118.4426425,
+          34.0731255
+        ],
+        [
+          -118.4426345,
+          34.0731269
+        ],
+        [
+          -118.4426255,
+          34.073127
+        ],
+        [
+          -118.4426255,
+          34.0731463
+        ],
+        [
+          -118.4423863,
+          34.0731529
+        ],
+        [
+          -118.4423847,
+          34.0731588
+        ],
+        [
+          -118.4423819,
+          34.0731653
+        ],
+        [
+          -118.4423775,
+          34.0731703
+        ],
+        [
+          -118.4423722,
+          34.0731742
+        ],
+        [
+          -118.4423645,
+          34.0731778
+        ],
+        [
+          -118.4423554,
+          34.0731804
+        ],
+        [
+          -118.442347,
+          34.0731815
+        ],
+        [
+          -118.4423385,
+          34.0731813
+        ],
+        [
+          -118.4423312,
+          34.0731795
+        ],
+        [
+          -118.4423245,
+          34.0731759
+        ],
+        [
+          -118.4423194,
+          34.0731721
+        ],
+        [
+          -118.4423156,
+          34.0731677
+        ],
+        [
+          -118.442312,
+          34.0731617
+        ],
+        [
+          -118.4423096,
+          34.0731536
+        ],
+        [
+          -118.4423033,
+          34.0731537
+        ],
+        [
+          -118.4423037,
+          34.0732229
+        ],
+        [
+          -118.4420838,
+          34.0732218
+        ],
+        [
+          -118.4420854,
+          34.0731695
+        ],
+        [
+          -118.4420804,
+          34.0731747
+        ],
+        [
+          -118.4420743,
+          34.0731787
+        ],
+        [
+          -118.4420661,
+          34.0731807
+        ],
+        [
+          -118.4420563,
+          34.073181
+        ],
+        [
+          -118.4420477,
+          34.0731797
+        ],
+        [
+          -118.4420401,
+          34.073177
+        ],
+        [
+          -118.4420344,
+          34.0731732
+        ],
+        [
+          -118.4420284,
+          34.0731683
+        ],
+        [
+          -118.4420247,
+          34.0731626
+        ],
+        [
+          -118.4420227,
+          34.0731571
+        ],
+        [
+          -118.4420218,
+          34.0731515
+        ],
+        [
+          -118.4419723,
+          34.0731518
+        ],
+        [
+          -118.4418185,
+          34.0731513
+        ],
+        [
+          -118.4418185,
+          34.0732966
+        ],
+        [
+          -118.4417895,
+          34.0732966
+        ],
+        [
+          -118.4417885,
+          34.0733039
+        ],
+        [
+          -118.4417855,
+          34.0733117
+        ],
+        [
+          -118.4417807,
+          34.0733166
+        ],
+        [
+          -118.4417741,
+          34.0733208
+        ],
+        [
+          -118.4417672,
+          34.0733237
+        ],
+        [
+          -118.4417591,
+          34.0733248
+        ],
+        [
+          -118.4417512,
+          34.0733245
+        ],
+        [
+          -118.4417434,
+          34.073323
+        ],
+        [
+          -118.4417369,
+          34.0733207
+        ],
+        [
+          -118.4417315,
+          34.0733173
+        ],
+        [
+          -118.4417262,
+          34.0733125
+        ],
+        [
+          -118.4417235,
+          34.0733071
+        ],
+        [
+          -118.4417221,
+          34.0733022
+        ],
+        [
+          -118.4417215,
+          34.0732972
+        ],
+        [
+          -118.4416961,
+          34.0732975
+        ],
+        [
+          -118.4416925,
+          34.0730036
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 422876632,
+    "version": 9,
+    "timestamp": "2024-06-10T18:12:06Z",
+    "url": "https://www.openstreetmap.org/way/422876632"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q2171194",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/la-royce-hall.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Royce Hall (1929, Allison & Allison), UCLA, Westwood — original procedural geometry, CC0-1.0.",
+    "Frame: x east, y north, z up, metres; bearing 0 (the building is square to the compass within a degree). Origin at the OSM outline's area centroid, on the lowest ground under the footprint: 127.5 m at the north-west corner. The ground rises to 136.6 m along the south front (USGS 3DEP), so the south facade's detail starts 9 m up.",
+    "Romanesque Revival in red brick and cast stone: a long south front with two tall square towers (after Sant'Ambrogio in Milan) flanking a gabled entrance of stacked triple arches, ground-floor arcades along the front and the east side, round stair turrets at the corners, red tile roofs, and the auditorium's tall flat-roofed box behind. The twin towers, the triple-arched gable between them, the red brick and the tile roofs are the identity.",
+    "Evidence",
+    "Plan: OSM way/422876632 (matches LA County LARIAC 2020 footprint 427803849067 within a metre): south front y -37.8 (-39.6 at the entrance), x -28.8 to 46.9; corner turrets at (-31,-27) and (48,-27).",
+    "Heights: LA County lidar surface model (LACounty_Dynamic/Elevation layer 8, 2.5 m grid) over the 127.5 m low point: towers 42.2–43.0 m (34.5 m over the south plaza, 1 m samples), front arcades 14, entrance gable 30.4, front range ridge 27.2, auditorium 29.0 (flat), its side aisles 22, east wing 27–29, rear range 23, north-east block 19–20. LARIAC: 35.6 m over its own ground.",
+    "Photos (Wikimedia Commons), compared with renders from the same side: r1 \"2019 UCLA Royce Hall 2\" (Beyond My Ken, CC BY-SA 4.0) — from the south-east: the south front and the east arcade wing with its round turret; r2 \"Royce Hall Facade\" (Josh Lee, CC BY-SA 3.0) — the south front; r3 \"UCLA Royce side HDR\" (Josh Lee, CC BY-SA 3.0) — the east side, the round turret; r4 \"Royce Hall edit\" (NativeForeigner, CC BY-SA 3.0) — from the south; USGS NAIP for the tile roofs and the auditorium's grey roof.",
+    "Colour: the photos (warm red brick, buff cast stone, red tile).",
+    "Estimated: eave heights (from the photos against the lidar ridges), the west and north wings (simplified to the ridges lidar shows), the tower plans (9 m squares placed symmetrically about the entrance, the lidar peaks within 2 m), the number of arches (6 a side on the front, 11 on the east), the tower belfry openings. Left out: the steps, the lamp posts, the small north-side turrets, roof equipment.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"la-royce-hall\", model \"la-royce-hall\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/la-royce-hall.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

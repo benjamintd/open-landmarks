@@ -1,0 +1,172 @@
+{
+  "id": "petersen-automotive-museum",
+  "name": "Petersen Automotive Museum",
+  "anchor": [
+    -118.3611471,
+    34.0623791
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 133192,
+      "sha256": "520ce47b29c5cc04ef56614cdac05d2e815f7b6666a232e6364e6bab958684e7"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 133192,
+      "sha256": "520ce47b29c5cc04ef56614cdac05d2e815f7b6666a232e6364e6bab958684e7"
+    }
+  },
+  "triangles": 2892,
+  "boundsBlenderM": [
+    [
+      -46.595,
+      -51.876,
+      0
+    ],
+    [
+      38.805,
+      45.593,
+      26.548
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -118.360964,
+          34.0619101
+        ],
+        [
+          -118.3613489,
+          34.0620461
+        ],
+        [
+          -118.3613311,
+          34.0620776
+        ],
+        [
+          -118.3616364,
+          34.0621875
+        ],
+        [
+          -118.361652,
+          34.062195
+        ],
+        [
+          -118.3615621,
+          34.0623697
+        ],
+        [
+          -118.3614176,
+          34.0623526
+        ],
+        [
+          -118.3613631,
+          34.0626717
+        ],
+        [
+          -118.3613752,
+          34.0626731
+        ],
+        [
+          -118.3613584,
+          34.0627475
+        ],
+        [
+          -118.3613446,
+          34.0627473
+        ],
+        [
+          -118.3613349,
+          34.0627912
+        ],
+        [
+          -118.3607266,
+          34.0627213
+        ],
+        [
+          -118.3607987,
+          34.0622765
+        ],
+        [
+          -118.3608067,
+          34.0622774
+        ],
+        [
+          -118.3608213,
+          34.0621871
+        ],
+        [
+          -118.3609439,
+          34.0619491
+        ],
+        [
+          -118.360964,
+          34.0619101
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 913343446,
+    "version": 8,
+    "timestamp": "2026-08-21T12:34:26Z",
+    "url": "https://www.openstreetmap.org/way/913343446"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q2358105",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Petersen Automotive Museum.jpg",
+      "author": "David Zaitz",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Petersen_Automotive_Museum.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/la-petersen.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Petersen Automotive Museum (Welton Becket 1962; facade Kohn Pedersen Fox 2015), 6060 Wilshire Blvd at Fairfax, Los Angeles — original procedural geometry, CC0-1.0. bun generators/la-petersen.ts [out.glb]",
+    "Map frame before placement: u along the Wilshire (north) face, v toward it, z up, metres; origin at the area centroid of OSM way/913343446 (-118.3611471, 34.0623791), on the ground. Placed at bearing 7.8°, the Wilshire face's rotation in OSM.",
+    "A windowless red box wrapped on its Wilshire, Fairfax and east faces by flowing stainless-steel ribbons that lift off the wall at the top and sweep back over the roof as a canopy. The ribbons' sweep over the red is the identity; they are drawn as broad bold bands (1.9 m), not lines.",
+    "Sources:",
+    "Plan: OSM way/913343446 (5,146 m2), rotated into the frame: the ribboned north block is u -24…33, v -6…43; the parking block behind it to the south. The outline is drawn to the ribbons, so the red wall sits 1.3 m inside it.",
+    "Heights: LA County lidar DSM (LARIAC, 2.5 m grid, sampled 2026): ground ~50.4 m; red box roof 18–20 m; ribbon crests over the roof 22–27 m, highest along the north and south edges of the north block; the parking block 13 m. OSM: height 27.8.",
+    "Published (Wikipedia): ribbons of 100 tons of type 304 stainless steel in 308 sections; the 1962 department store was \"largely windowless\".",
+    "Photos (Wikimedia Commons): p1 \"Petersen Automotive Museum.jpg\" (David Zaitz, CC BY-SA 4.0; the Wilshire face and the Fairfax corner, from the north-west, ribbons arching over the roof); p2 \"Petersen Automotive Museum (26687517802)\" (Steve Ginn, CC0; the Wilshire face from the north-east); p5 \"Fairfax and Wilshire, LA 2021\" (Downtowngal, CC BY-SA 4.0; the Fairfax face from the south); p8 \"Petersen Automotive Museum Landscape Photo by Socialbilitty\" (CC BY-SA 2.0; north-west at dusk).",
+    "Overhead: USGS NAIP (public domain): the ribbon canopy over the north strip and the Fairfax strip of the roof; plain roof elsewhere.",
+    "Estimated: the ribbons' waves (7 bands on the walls, a wave of ~30 m and up to 2 m amplitude, read off p1 and p2; the real 308 sections are more varied), the canopy (six L-shaped bands following the north-west corner, from NAIP and the DSM crests), the red (photo hue, pulled to palette lightness), the ground-floor glazing on Wilshire. Left out: the screws and the ribbons' twists, the roof mechanical units, the parking ramps.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"la-petersen\", model \"la-petersen\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/la-petersen.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

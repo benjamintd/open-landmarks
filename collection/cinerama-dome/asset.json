@@ -1,0 +1,354 @@
+{
+  "id": "cinerama-dome",
+  "name": "Cinerama Dome",
+  "anchor": [
+    -118.3281006,
+    34.0976248
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 127956,
+      "sha256": "cc57dbd4ccd2517b0e20f1b35fa8de29dbbeca280b5ffeaa27a0ab0933bca627"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 127956,
+      "sha256": "cc57dbd4ccd2517b0e20f1b35fa8de29dbbeca280b5ffeaa27a0ab0933bca627"
+    }
+  },
+  "triangles": 1765,
+  "boundsBlenderM": [
+    [
+      -23.128,
+      -26.712,
+      0
+    ],
+    [
+      22.62,
+      25.8,
+      22.1
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -118.328127,
+          34.0973942
+        ],
+        [
+          -118.3281559,
+          34.0973978
+        ],
+        [
+          -118.3281903,
+          34.0974063
+        ],
+        [
+          -118.3282215,
+          34.0974185
+        ],
+        [
+          -118.3282546,
+          34.0974372
+        ],
+        [
+          -118.3282778,
+          34.0974553
+        ],
+        [
+          -118.3282962,
+          34.097474
+        ],
+        [
+          -118.328312,
+          34.0974948
+        ],
+        [
+          -118.3283265,
+          34.0975216
+        ],
+        [
+          -118.3283337,
+          34.0975415
+        ],
+        [
+          -118.3283386,
+          34.0975641
+        ],
+        [
+          -118.3283402,
+          34.097587
+        ],
+        [
+          -118.3283386,
+          34.09761
+        ],
+        [
+          -118.3283339,
+          34.0976318
+        ],
+        [
+          -118.3283267,
+          34.0976518
+        ],
+        [
+          -118.3283029,
+          34.0976918
+        ],
+        [
+          -118.32829,
+          34.0977068
+        ],
+        [
+          -118.3282725,
+          34.0977232
+        ],
+        [
+          -118.3282559,
+          34.0977358
+        ],
+        [
+          -118.3282378,
+          34.097747
+        ],
+        [
+          -118.3282189,
+          34.0977566
+        ],
+        [
+          -118.3282262,
+          34.0977747
+        ],
+        [
+          -118.3282463,
+          34.0977698
+        ],
+        [
+          -118.3282905,
+          34.0977962
+        ],
+        [
+          -118.3282857,
+          34.0978015
+        ],
+        [
+          -118.3282745,
+          34.0978136
+        ],
+        [
+          -118.3282566,
+          34.0978299
+        ],
+        [
+          -118.3282412,
+          34.0978423
+        ],
+        [
+          -118.3282196,
+          34.0978577
+        ],
+        [
+          -118.3282131,
+          34.0978502
+        ],
+        [
+          -118.328174,
+          34.0978582
+        ],
+        [
+          -118.3280432,
+          34.0978587
+        ],
+        [
+          -118.328002,
+          34.0978515
+        ],
+        [
+          -118.3279921,
+          34.0978591
+        ],
+        [
+          -118.3279632,
+          34.0978403
+        ],
+        [
+          -118.327943,
+          34.0978228
+        ],
+        [
+          -118.327921,
+          34.0977999
+        ],
+        [
+          -118.3279605,
+          34.0977746
+        ],
+        [
+          -118.3279746,
+          34.0977466
+        ],
+        [
+          -118.3279325,
+          34.0977161
+        ],
+        [
+          -118.3278863,
+          34.09775
+        ],
+        [
+          -118.3278684,
+          34.0977137
+        ],
+        [
+          -118.3278619,
+          34.0976924
+        ],
+        [
+          -118.3278569,
+          34.0976705
+        ],
+        [
+          -118.3278552,
+          34.0976459
+        ],
+        [
+          -118.3278818,
+          34.0976398
+        ],
+        [
+          -118.3278764,
+          34.0976203
+        ],
+        [
+          -118.327873,
+          34.0975922
+        ],
+        [
+          -118.3278746,
+          34.0975639
+        ],
+        [
+          -118.32788,
+          34.0975398
+        ],
+        [
+          -118.3278891,
+          34.0975161
+        ],
+        [
+          -118.3279024,
+          34.0974928
+        ],
+        [
+          -118.3279183,
+          34.0974723
+        ],
+        [
+          -118.3279461,
+          34.0974463
+        ],
+        [
+          -118.3279762,
+          34.0974264
+        ],
+        [
+          -118.3280099,
+          34.0974108
+        ],
+        [
+          -118.3280399,
+          34.0974015
+        ],
+        [
+          -118.328069,
+          34.097396
+        ],
+        [
+          -118.328099,
+          34.0973936
+        ],
+        [
+          -118.328127,
+          34.0973942
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 423247168,
+    "version": 4,
+    "timestamp": "2024-08-27T09:06:49Z",
+    "url": "https://www.openstreetmap.org/way/423247168"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 907828120,
+      "version": 1,
+      "timestamp": "2021-02-16T18:49:20Z",
+      "url": "https://www.openstreetmap.org/way/907828120"
+    },
+    {
+      "type": "way",
+      "id": 907828121,
+      "version": 1,
+      "timestamp": "2021-02-16T18:49:20Z",
+      "url": "https://www.openstreetmap.org/way/907828121"
+    },
+    {
+      "type": "way",
+      "id": 907828122,
+      "version": 1,
+      "timestamp": "2021-02-16T18:49:20Z",
+      "url": "https://www.openstreetmap.org/way/907828122"
+    }
+  ],
+  "wikidata": "Q2972810",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/la-cinerama-dome.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Cinerama Dome (1963, Welton Becket and Associates; dome engineered after R. Buckminster Fuller's geodesic system), Hollywood — original procedural geometry, CC0-1.0. bun generators/la-cinerama-dome.ts [out.glb]",
+    "Map frame: x east, y north, z up, metres; origin at the OSM outline's centroid on the lowest ground under it. Bearing 0. Sunset Blvd runs along the north (+y) side, where the entrance is.",
+    "What makes it the Cinerama Dome: a near-hemispherical geodesic dome of hexagonal concrete panels, each a shallow raised panel, so the dome reads as a honeycomb of light and shade; in front of it on Sunset, a low glass lobby under a long flat marquee box on slim columns.",
+    "Sources:",
+    "Plan: OSM way/423247168 (outline, 21 m, roof:shape dome) and its parts way/907828120 (the dome, a circle r ≈ 21.5 centred at (-0.6, -4.2)), way/907828122 (the entrance block on Sunset, one level) and way/907828121 (a small one-level piece on the east).",
+    "Heights: LA County 2006 lidar surface model (2 m grid) over USGS 3DEP bare earth (lowest ground 108.0 m): the dome's top 21.5 m, and its section fits a sphere of radius 22.0 m centred 0.5 m below the ground (heights 19 m at r = 10, 12 m at r = 18, 9 m at r = 20, 5 m at r = 21.5) — a nearly full hemisphere. LARIAC 2020 footprint 462336858052: 20.9 m. Entrance block: marquee 7.5–8 m, lobby ≈ 4 m.",
+    "Panels: 316 hexagonal panels on the real dome (Wikipedia); drawn as a frequency-7 geodesic (≈ 250 panels over the dome, broader than the real ones so they read on a phone). Each is a flat hexagon with its centre raised 0.6 m, so its six faces take the light in turn, as the real panels' relief does in photos p2–p4.",
+    "Marquee: photos p1–p3 (from Sunset, north): a long white box sign ≈ 24 m wide and 2.5 m deep on four columns, over a glass lobby, breeze-block screens at both ends.",
+    "Photos (Wikimedia Commons): p1 \"Hollywood Cinerama Dome\" (Andreas Praefcke, CC BY 3.0, from Sunset, north-west); p2 \"Cinerama Dome\" (Codera23, CC BY-SA 4.0, from Sunset, north); p3 \"Cinerama Dome front\" (UpdateNerd, CC0, north); p4 \"Los Angeles, California (September 10, 2022)",
+    "210\" (Another Believer, CC BY-SA 4.0, north-east, the panels). USGS NAIP orthophoto for the plan.",
+    "Estimated: the marquee's exact width and column places, the lobby's depth. Left out: the marquee's lettering and the theatre signage.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"la-cinerama-dome\", model \"la-cinerama-dome\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/la-cinerama-dome.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

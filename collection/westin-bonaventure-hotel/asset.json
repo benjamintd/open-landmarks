@@ -1,0 +1,149 @@
+{
+  "id": "westin-bonaventure-hotel",
+  "name": "Westin Bonaventure Hotel",
+  "anchor": [
+    -118.2558511,
+    34.0527584
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 120700,
+      "sha256": "f15bebd42fbcc556f83753c8766ed59198eee116db9c03137e994e20a45fe59c"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 120700,
+      "sha256": "f15bebd42fbcc556f83753c8766ed59198eee116db9c03137e994e20a45fe59c"
+    }
+  },
+  "triangles": 3594,
+  "boundsBlenderM": [
+    [
+      -63.165,
+      -63.165,
+      0
+    ],
+    [
+      63.165,
+      63.165,
+      120
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -118.2559331,
+          34.0533229
+        ],
+        [
+          -118.2565359,
+          34.0526899
+        ],
+        [
+          -118.2565155,
+          34.052676
+        ],
+        [
+          -118.2559521,
+          34.0523071
+        ],
+        [
+          -118.2557825,
+          34.052202
+        ],
+        [
+          -118.2557627,
+          34.0521925
+        ],
+        [
+          -118.2557566,
+          34.0521991
+        ],
+        [
+          -118.2552895,
+          34.0527037
+        ],
+        [
+          -118.2551701,
+          34.0528309
+        ],
+        [
+          -118.255582,
+          34.0531048
+        ],
+        [
+          -118.2559331,
+          34.0533229
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 33528271,
+    "version": 20,
+    "timestamp": "2024-01-17T09:57:54Z",
+    "url": "https://www.openstreetmap.org/way/33528271"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 328826533,
+      "version": 5,
+      "timestamp": "2016-12-24T04:12:30Z",
+      "url": "https://www.openstreetmap.org/way/328826533"
+    },
+    {
+      "type": "way",
+      "id": 328826159,
+      "version": 4,
+      "timestamp": "2024-08-25T13:51:48Z",
+      "url": "https://www.openstreetmap.org/way/328826159"
+    }
+  ],
+  "wikidata": "Q371058",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/la-bonaventure.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Westin Bonaventure Hotel (1976, John Portman), Los Angeles — original procedural geometry, CC0-1.0. bun generators/la-bonaventure.ts [out.glb]",
+    "Map frame: x east, y north, z up, metres; origin at the outline's centroid on the lowest ground under it. Placed at bearing 38°, so the square podium is square to this frame: +x faces Flower St, −x Figueroa St, +y 4th St, −y 5th St.",
+    "What makes it the Bonaventure: five mirrored-glass cylinders — four around a taller central one — joined by slim concrete stair and service cores that rise past the glass, all on a blank concrete podium filling the block.",
+    "Sources:",
+    "Plan: OSM way/33528271 (the podium, ≈ 90 × 90 m), its parts way/328826533 (the five cylinders and their cores: outer radius 13.5 m centred ±26 m on the diagonals, central radius 17.5 m) and way/328826159 (the helipad on the central cylinder).",
+    "Heights: LA County LARIAC 2006 lidar surface model (Elevation MapServer layer 8, 2 m grid in this frame), over the lowest ground 88.6 m: podium 26 m, outer cylinders' roofs 97–98 m, their cores 100–102 m, central cylinder 117 m with its cores at 120 m. LARIAC 2020 footprint 484237841691: 117.4 m; published 112 m / 35 floors (Wikipedia), which is over 5th St, a few metres above this origin.",
+    "Look: photos (Wikimedia Commons) — \"Westin Bonaventure towers.gk\" (Grendelkhan, CC BY-SA 3.0), \"Westin Bonaventure Hotel\" (Geographer, CC BY 2.5), \"Westin Bonaventure Hotel (6801556011)\" (Prayitno, CC BY 2.0), \"The Westin (51097134112)\" (Chris Yarzab, CC BY 2.0, the podium), \"Bonaventure Hotel\" (Calliopejen1, CC BY-SA 3.0, from above), \"Los Angeles (California, USA), Westin Bonaventure Hotel -- 2012 -- 5255\" (Dietmar Rabich, CC BY-SA 4.0).",
+    "Glass colour: the mirrored glass reads bronze to dark mirror in most photos; drawn as a bronze-grey pulled to the palette's lightness (windowVariant). Its grid is drawn as pale trim lines: a floor line every three floors and a mullion every 22.5°. The external lifts are left out.",
+    "Estimated: the cores' size (4.5 m square) and exact places at the junctions, from the OSM outline's notches and the photos.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"la-bonaventure\", model \"la-bonaventure\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/la-bonaventure.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

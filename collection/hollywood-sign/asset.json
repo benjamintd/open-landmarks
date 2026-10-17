@@ -1,0 +1,195 @@
+{
+  "id": "hollywood-sign",
+  "name": "Hollywood Sign",
+  "anchor": [
+    -118.321652,
+    34.1340991
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 28760,
+      "sha256": "d81260ee0613d430c03867d3135e792cf935937f562430d9ef7eec3c726d9dc7"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 28760,
+      "sha256": "d81260ee0613d430c03867d3135e792cf935937f562430d9ef7eec3c726d9dc7"
+    }
+  },
+  "triangles": 560,
+  "boundsBlenderM": [
+    [
+      -52.5,
+      -11.591,
+      0
+    ],
+    [
+      52.957,
+      3.527,
+      19.9
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -118.3222218,
+          34.1340272
+        ],
+        [
+          -118.3220813,
+          34.1340011
+        ],
+        [
+          -118.3220597,
+          34.1339999
+        ],
+        [
+          -118.3220082,
+          34.1339971
+        ],
+        [
+          -118.3219698,
+          34.133995
+        ],
+        [
+          -118.3210775,
+          34.1340803
+        ],
+        [
+          -118.3210773,
+          34.1340856
+        ],
+        [
+          -118.3212173,
+          34.1341308
+        ],
+        [
+          -118.3212389,
+          34.1341292
+        ],
+        [
+          -118.3213287,
+          34.1341226
+        ],
+        [
+          -118.3222218,
+          34.1340326
+        ],
+        [
+          -118.3222218,
+          34.1340272
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 125433363,
+    "version": 7,
+    "timestamp": "2026-10-12T10:39:28Z",
+    "url": "https://www.openstreetmap.org/way/125433363"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 125433366,
+      "version": 7,
+      "timestamp": "2026-10-12T10:39:28Z",
+      "url": "https://www.openstreetmap.org/way/125433366"
+    },
+    {
+      "type": "way",
+      "id": 125433364,
+      "version": 7,
+      "timestamp": "2026-10-12T10:39:28Z",
+      "url": "https://www.openstreetmap.org/way/125433364"
+    },
+    {
+      "type": "way",
+      "id": 125433365,
+      "version": 7,
+      "timestamp": "2026-10-12T10:39:28Z",
+      "url": "https://www.openstreetmap.org/way/125433365"
+    },
+    {
+      "type": "way",
+      "id": 125433372,
+      "version": 7,
+      "timestamp": "2026-10-12T10:39:28Z",
+      "url": "https://www.openstreetmap.org/way/125433372"
+    },
+    {
+      "type": "way",
+      "id": 125433370,
+      "version": 7,
+      "timestamp": "2026-10-12T10:39:28Z",
+      "url": "https://www.openstreetmap.org/way/125433370"
+    },
+    {
+      "type": "way",
+      "id": 125433367,
+      "version": 7,
+      "timestamp": "2026-10-12T10:39:28Z",
+      "url": "https://www.openstreetmap.org/way/125433367"
+    },
+    {
+      "type": "way",
+      "id": 125433369,
+      "version": 7,
+      "timestamp": "2026-10-12T10:39:28Z",
+      "url": "https://www.openstreetmap.org/way/125433369"
+    },
+    {
+      "type": "way",
+      "id": 125433362,
+      "version": 6,
+      "timestamp": "2026-10-12T10:39:28Z",
+      "url": "https://www.openstreetmap.org/way/125433362"
+    }
+  ],
+  "wikidata": "Q180376",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/la-hollywood-sign.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "The Hollywood Sign (1923 as \"Hollywoodland\"; rebuilt 1978), Mount Lee, Los Angeles — original procedural geometry, CC0-1.0. bun generators/la-hollywood-sign.ts [out.glb]",
+    "A famous sign, so it carries its lettering (STYLE.md, \"Towers, rides, sculpture and signs\"): nine white letters, each an extruded flat block letter standing on steel legs on the slope. Nothing else.",
+    "Map frame: x east, y north, z up, metres; origin at OSM node/3204926589 (the sign's node, under the Y), on the lowest ground under the sign (475.8 m, in front of the D). Bearing 0: each letter is placed and turned from its own OSM way, as the sign follows the hillside in a shallow curve. The letters face 176–189° (south, a little east or west of it); the line from H to D runs at 87°.",
+    "Sources:",
+    "Place and turn of each letter: OSM's nine letter ways (tourism=artwork, way/125433363 … way/125433362), each traced along a letter's foot. Their centres agree with a near-frontal aerial (\"Aerial Hollywood Sign\", Jelson25, public domain) to within a metre once scaled to the published length, except four: the two L's, which OSM draws overlapping, and the last two O's, which it draws too far from the D. They are moved 0.9, 1.9, 0.45 and 0.8 m east along their ways, and the D 1.0 m west, evening the gaps, to the aerial's spacing (the second L's foot then runs under the Y's arm, as it does in every photo).",
+    "Size: letters 45 ft (13.7 m) tall, the sign about 350 ft (107 m) long (Hollywood Sign Trust; Wikipedia). Letter widths from the same aerial at 8.34 px/m: H 10.5, O 10.3, L 9.7, L 9.6, Y 10.3, W 11.7, O 10.3, O 10.3, D 10.2 m (published: 31 to 39 ft); stroke widths and the O and D counters from it too.",
+    "Heights: LA County 2006 lidar surface model (layer 8, 1.5 m grid) caught the tops of six letters at 494.2–495.7 m: the tops run nearly level while the ground under them (USGS 3DEP bare earth, 476–482 m) does not, so the letters near the ends stand on legs about 2 m clear of the hill and the L's sit almost on it — as the photos show. The tops of the H, the first L and the D, which the lidar missed, are taken from their neighbours.",
+    "Photos (Wikimedia Commons): \"Hollywood Sign (Zuschnitt)\" (Thomas Wolf, CC BY-SA 3.0; from the south-west, below), \"View from behind Hollywood Sign overlooking LA\" (Michael E. Arth, CC BY-SA 4.0; the backs and their framing), \"Aerial Hollywood Sign\" (Jelson25, public domain).",
+    "Simplified: the letters are solid 0.6 m slabs (really sheet steel on a frame); the scaffold behind them is left out; the legs are drawn as a few square posts.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"la-hollywood-sign\", model \"la-hollywood-sign\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/la-hollywood-sign.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

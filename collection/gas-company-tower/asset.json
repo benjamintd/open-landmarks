@@ -1,0 +1,165 @@
+{
+  "id": "gas-company-tower",
+  "name": "Gas Company Tower",
+  "anchor": [
+    -118.2531308,
+    34.0501109
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 13,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 69332,
+      "sha256": "3e3638bcf12a359108de8625c4e405520455de0ee8560b3e7c7411804229fa20"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 69332,
+      "sha256": "3e3638bcf12a359108de8625c4e405520455de0ee8560b3e7c7411804229fa20"
+    }
+  },
+  "triangles": 1169,
+  "boundsBlenderM": [
+    [
+      -49.45,
+      -37.636,
+      0
+    ],
+    [
+      27.938,
+      38.905,
+      229.6
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -118.2525696,
+          34.0500191
+        ],
+        [
+          -118.2526138,
+          34.0499725
+        ],
+        [
+          -118.2527202,
+          34.0500421
+        ],
+        [
+          -118.2527652,
+          34.0499948
+        ],
+        [
+          -118.2526492,
+          34.0499191
+        ],
+        [
+          -118.2528823,
+          34.0496741
+        ],
+        [
+          -118.2530168,
+          34.0497619
+        ],
+        [
+          -118.2530132,
+          34.0497657
+        ],
+        [
+          -118.2530216,
+          34.0497708
+        ],
+        [
+          -118.2536649,
+          34.050189
+        ],
+        [
+          -118.2536341,
+          34.0502215
+        ],
+        [
+          -118.253666,
+          34.0502422
+        ],
+        [
+          -118.2535032,
+          34.0504141
+        ],
+        [
+          -118.2534705,
+          34.0503928
+        ],
+        [
+          -118.2533367,
+          34.0505334
+        ],
+        [
+          -118.2530341,
+          34.0503305
+        ],
+        [
+          -118.2525696,
+          34.0500191
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 427532192,
+    "version": 39,
+    "timestamp": "2026-04-07T22:15:03Z",
+    "url": "https://www.openstreetmap.org/way/427532192"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 495115501,
+      "version": 4,
+      "timestamp": "2026-04-07T22:15:03Z",
+      "url": "https://www.openstreetmap.org/way/495115501"
+    }
+  ],
+  "wikidata": "Q2424258",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/la-gas-company-tower.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Gas Company Tower (1991, Richard Keating / SOM), Los Angeles — original procedural geometry, CC0-1.0. bun generators/la-gas-company-tower.ts [out.glb]",
+    "Map frame: x east, y north, z up, metres; origin at the centroid of the OSM outline (way/427532192) on the lowest ground under it (the Olive Street end). Placed at bearing 38°, so here +x runs along the tower's long axis to the south-east (Olive St) and +y to the north-east.",
+    "A grey granite slab, 63 × 38 m, cut into blocks of different heights around a core of blue glass. The core shows as a glass slot down the middle of each face and rises above the granite as the crown: a lens (\"leaf\") in plan, pointed at both ends, whose glass rim arches up highest in the middle, like a flame. The blue crown is the landmark's identity.",
+    "Sources:",
+    "Plan: LA County LARIAC 2020 lidar footprint 484947840722 (tower faces at u −37.4 / +26, v −20 / +18.3 in the building frame; the 2.2 m notch for the north-east slot at u −10…6.7; the leaf's tip poking through the north-west face at v −3). The leaf's plan is read off the LA County 2011 and 2013 aerials (LACounty_Aerial_2011/2013 export, EPSG:3857), which show its two arcs and the helipad on its deck.",
+    "Heights: LARIAC 2020 max 227.0 m over its footprint ground, roof elevation 316.1 m; USGS 3DEP / LARIAC 2006 bare earth under the footprint runs from 86.5 m (Olive St) to 98.4 m (Grand Ave), so the top is ≈ 229.6 m over the lowest ground. Published 228.3 m (Wikipedia). Tier heights from the LARIAC 2006 DSM (sampled at 3 m and resampled into the building frame): south-west granite 196 m, north-east granite 212 m, core 220 m, crown 229 m, the south-west slot's floor 148 m, the north-east slot's 127 m.",
+    "Photos (sides named from the neighbours in them): g1 \"Gas Company Tower\" (Nikkul, CC BY-SA 2.0; from Pershing Square over the Biltmore's wings, the south-east end face with the north-east face in shade), g4 \"Los Angeles downtown p1000070\" (CC BY-SA 2.0 fr; from Pershing Square, south- east), g2 \"Citibank Center, US Bank Tower and The Gas Company Tower\" (Selvingarcia, CC BY-SA 3.0; from the Central Library, south-west face), g9 \"Downtown Los Angeles Skyscrapers\" (BDS2006, CC BY-SA 3.0; from Angels Flight, north-east face), g7 \"Gas Company Tower, Los Angeles\" (Ken Lund, Flickr CC BY-SA 2.0; from the east).",
+    "Estimated: the crown's rim, drawn as a convex arc highest mid-length (the DSM's 232 m peak is central; g7 and g9 show the arch), the south-east end (no lidar notch there; drawn plain), the slots on the two end faces (from g1/g4, depth 2 m), the bay rhythm (4.6 m bays, three floors to a window panel, from g1). Left out: the Deloitte sign, the helipad marking, the lobby canopies. The 4-storey podium is left to its OSM part (way/1307813288), except the stretch the OSM tower part covers, drawn here as a 22 m block.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"la-gas-company-tower\", model \"la-gas-company-tower\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/la-gas-company-tower.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

@@ -1,0 +1,363 @@
+{
+  "id": "chiat-day-building",
+  "name": "Chiat/Day Building",
+  "anchor": [
+    -118.4766671,
+    33.9954922
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 92600,
+      "sha256": "49d60407ea9121a65ef9e184fd86757c3c83b0b0cc9e70a584b17abdb6df1b29"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 92600,
+      "sha256": "49d60407ea9121a65ef9e184fd86757c3c83b0b0cc9e70a584b17abdb6df1b29"
+    }
+  },
+  "triangles": 1822,
+  "boundsBlenderM": [
+    [
+      -49.386,
+      -36.437,
+      0
+    ],
+    [
+      49.922,
+      36.138,
+      14
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -118.476934,
+          33.9954167
+        ],
+        [
+          -118.4769292,
+          33.9954207
+        ],
+        [
+          -118.4769234,
+          33.9954225
+        ],
+        [
+          -118.4769145,
+          33.9954222
+        ],
+        [
+          -118.4769112,
+          33.995423
+        ],
+        [
+          -118.4768434,
+          33.9954618
+        ],
+        [
+          -118.4768707,
+          33.9954988
+        ],
+        [
+          -118.4769527,
+          33.9954337
+        ],
+        [
+          -118.477008,
+          33.9954699
+        ],
+        [
+          -118.4770331,
+          33.9954924
+        ],
+        [
+          -118.4770692,
+          33.9955331
+        ],
+        [
+          -118.4770969,
+          33.9955654
+        ],
+        [
+          -118.4771437,
+          33.9956275
+        ],
+        [
+          -118.4771688,
+          33.9956657
+        ],
+        [
+          -118.4771848,
+          33.9956955
+        ],
+        [
+          -118.4772022,
+          33.9957331
+        ],
+        [
+          -118.4771174,
+          33.995719
+        ],
+        [
+          -118.4770529,
+          33.9957097
+        ],
+        [
+          -118.4771252,
+          33.9957793
+        ],
+        [
+          -118.4770507,
+          33.995819
+        ],
+        [
+          -118.4767337,
+          33.9954985
+        ],
+        [
+          -118.4763401,
+          33.9957093
+        ],
+        [
+          -118.476301,
+          33.9956582
+        ],
+        [
+          -118.4762745,
+          33.9956724
+        ],
+        [
+          -118.4761262,
+          33.9955208
+        ],
+        [
+          -118.476193,
+          33.9954854
+        ],
+        [
+          -118.476184,
+          33.9954736
+        ],
+        [
+          -118.4766854,
+          33.9952096
+        ],
+        [
+          -118.4766922,
+          33.9952185
+        ],
+        [
+          -118.4767586,
+          33.9951836
+        ],
+        [
+          -118.4767657,
+          33.995193
+        ],
+        [
+          -118.4767857,
+          33.9951826
+        ],
+        [
+          -118.4768929,
+          33.9953112
+        ],
+        [
+          -118.4767617,
+          33.9953659
+        ],
+        [
+          -118.4767815,
+          33.9953828
+        ],
+        [
+          -118.4768536,
+          33.9953448
+        ],
+        [
+          -118.4768555,
+          33.9953365
+        ],
+        [
+          -118.476861,
+          33.9953327
+        ],
+        [
+          -118.4768657,
+          33.9953313
+        ],
+        [
+          -118.4768707,
+          33.9953311
+        ],
+        [
+          -118.4768773,
+          33.9953327
+        ],
+        [
+          -118.4768822,
+          33.9953359
+        ],
+        [
+          -118.4768887,
+          33.9953352
+        ],
+        [
+          -118.476895,
+          33.9953358
+        ],
+        [
+          -118.4768991,
+          33.9953378
+        ],
+        [
+          -118.476902,
+          33.9953411
+        ],
+        [
+          -118.476903,
+          33.995345
+        ],
+        [
+          -118.4769021,
+          33.99535
+        ],
+        [
+          -118.4769034,
+          33.9953523
+        ],
+        [
+          -118.476906,
+          33.9953534
+        ],
+        [
+          -118.4769162,
+          33.9953532
+        ],
+        [
+          -118.4769187,
+          33.9953545
+        ],
+        [
+          -118.4769193,
+          33.9953569
+        ],
+        [
+          -118.4769169,
+          33.9953626
+        ],
+        [
+          -118.4769186,
+          33.9953664
+        ],
+        [
+          -118.4769218,
+          33.995368
+        ],
+        [
+          -118.4769302,
+          33.9953688
+        ],
+        [
+          -118.4769323,
+          33.9953704
+        ],
+        [
+          -118.4769322,
+          33.9953729
+        ],
+        [
+          -118.4769273,
+          33.9953775
+        ],
+        [
+          -118.4769264,
+          33.9953804
+        ],
+        [
+          -118.4769283,
+          33.9953842
+        ],
+        [
+          -118.4769358,
+          33.995388
+        ],
+        [
+          -118.4769391,
+          33.9953926
+        ],
+        [
+          -118.4769393,
+          33.995396
+        ],
+        [
+          -118.4769367,
+          33.9954032
+        ],
+        [
+          -118.4769361,
+          33.9954114
+        ],
+        [
+          -118.476934,
+          33.9954167
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 413241944,
+    "version": 2,
+    "timestamp": "2020-03-10T15:38:55Z",
+    "url": "https://www.openstreetmap.org/way/413241944"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q194004",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/la-chiat-day.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Chiat/Day Building (\"Binoculars Building\"), 340 Main Street, Venice (1991, Frank Gehry; binoculars by Claes Oldenburg and Coosje van Bruggen) — procedural, CC0-1.0. bun generators/la-chiat-day.ts",
+    "Map frame: x along Main Street (toward the south-east, 147.5°), y away from the street (north-east, 57.5°), z up, metres; placed at bearing 57.5°. The street front faces the model's south. Origin at the centroid of OSM way/413241944; y = 0 is the lowest ground under it (USGS 3DEP 7.3 m at the back, north-east corner). The street front stands 1.2 m higher (3DEP 8.4–8.5 m; the lidar surface model's street 1.1–1.3 m over y = 0), so the front's detail starts at FRONT = 1.2 m and everything runs down to y = 0 behind it.",
+    "What makes it the Binoculars Building: the giant charcoal binoculars standing on the street as the garage entrance — two barrels on pedestals with a driveway between, flanged bodies, the bridge frame and hinge between them, and two eyepieces on top; to their left the white curved \"boat\" wing with its rows of deep windows; to their right the copper \"tree\" wing, a thick overhanging roof plate on a forest of slanting copper struts over a low copper plinth.",
+    "Sources:",
+    "Plan: OSM way/413241944 (the whole building, 13.8 m, wikidata Q194004), its outline rotated into this frame: the boat wing's bowed front, the binoculars' scalloped lobes, the copper wing and the long main block behind. USGS NAIP orthophoto confirms the outline, the white roofs and the two dark eyepiece discs.",
+    "Heights (LA County 2020 lidar surface model, 2 m grid over the whole building and 1 m over the binoculars, minus y = 0 at 7.3 m): eyepiece tops 13.9–14.1 m (12.8 m over the street); binocular shoulders ~11 m; copper roof plate 12.4 m; main block roof 11.1 m with two plant rooms at ~13 m; boat wing front 10.7 m, its rear strip 13.5 m.",
+    "Published: binoculars 45 ft (13.7 m) tall (Wikipedia \"Binoculars Building\"); the lidar gives 12.8 m over the street, used.",
+    "Photos (Wikimedia Commons): \"052607-006-Chiat-Day\" and \"052607-007-Chiat-Day-wide\" (Bobak Ha'Eri, CC BY 3.0; from across Main Street, the south-west: all three parts); \"Binoculars Building\" (YaGeek, CC BY-SA 3.0; south-west, close: the binoculars' parts); \"Los Angeles02 flickr\" (ilpo's Soujurn, CC BY 2.0).",
+    "Estimated from photos, scaled by the lidar: every binocular section (pedestals 3.2 m across with a 2.6 m driveway between, flanges 5 m, eyepieces 2.6 m), the boat wing's window rows, the copper wing's struts, plinth and recessed glass.",
+    "Not seen in any photo: the main block's back walls (north-west, north-east, south-east); drawn as brick like the part seen behind the binoculars, with a window per bay on each floor, estimated.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"la-chiat-day\", model \"la-chiat-day\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/la-chiat-day.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

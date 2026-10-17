@@ -1,0 +1,418 @@
+{
+  "id": "hollywood-sign",
+  "anchor": [
+    -118.321652,
+    34.1340991
+  ],
+  "coordinateSystem": "Local metres about the anchor (equirectangular, WGS84 radius): X east, Y north, Z up. glTF export: X east, Y up, Z south. Heading already baked.",
+  "license": "ODbL-1.0",
+  "footprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -52.502566106746585,
+          -8.003871388235629
+        ],
+        [
+          -39.556601666406024,
+          -10.90931009788149
+        ],
+        [
+          -37.56633240045176,
+          -11.042893486812542
+        ],
+        [
+          -32.82101447413559,
+          -11.354588060721337
+        ],
+        [
+          -29.282758001328006,
+          -11.588358991746164
+        ],
+        [
+          52.93563395682852,
+          -2.092806426850134
+        ],
+        [
+          52.95406237617597,
+          -1.5028131258698174
+        ],
+        [
+          40.054168983549296,
+          3.5288278582544255
+        ],
+        [
+          38.063899717595035,
+          3.350716672485708
+        ],
+        [
+          29.789539527490295,
+          2.616008033364924
+        ],
+        [
+          -52.502566106746585,
+          -7.402746138045896
+        ],
+        [
+          -52.502566106746585,
+          -8.003871388235629
+        ]
+      ]
+    ]
+  },
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -118.3222218,
+          34.1340272
+        ],
+        [
+          -118.3220813,
+          34.1340011
+        ],
+        [
+          -118.3220597,
+          34.1339999
+        ],
+        [
+          -118.3220082,
+          34.1339971
+        ],
+        [
+          -118.3219698,
+          34.133995
+        ],
+        [
+          -118.3210775,
+          34.1340803
+        ],
+        [
+          -118.3210773,
+          34.1340856
+        ],
+        [
+          -118.3212173,
+          34.1341308
+        ],
+        [
+          -118.3212389,
+          34.1341292
+        ],
+        [
+          -118.3213287,
+          34.1341226
+        ],
+        [
+          -118.3222218,
+          34.1340326
+        ],
+        [
+          -118.3222218,
+          34.1340272
+        ]
+      ]
+    ]
+  },
+  "parts": [
+    {
+      "osm": "way/125433363",
+      "tags": {
+        "artwork_type": "sculpture",
+        "height": "13.7",
+        "inscription": "H",
+        "material": "metal",
+        "tourism": "artwork"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -52.06949825797407,
+            -7.770100457210802
+          ],
+          [
+            -42.44064926089061,
+            -7.725572661164109
+          ]
+        ]
+      },
+      "version": 7,
+      "timestamp": "2026-10-12T10:39:28Z"
+    },
+    {
+      "osm": "way/125433366",
+      "tags": {
+        "artwork_type": "sculpture",
+        "height": "13.7",
+        "inscription": "O",
+        "material": "metal",
+        "tourism": "artwork"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -38.19289865171771,
+            -10.753462810531603
+          ],
+          [
+            -30.60038996830242,
+            -11.243268570209118
+          ]
+        ]
+      },
+      "version": 7,
+      "timestamp": "2026-10-12T10:39:28Z"
+    },
+    {
+      "osm": "way/125433364",
+      "tags": {
+        "artwork_type": "sculpture",
+        "height": "13.7",
+        "inscription": "L",
+        "material": "metal",
+        "tourism": "artwork"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -17.414856080373355,
+            -8.059531133491738
+          ],
+          [
+            -26.463209873904756,
+            -9.239517736243343
+          ]
+        ]
+      },
+      "version": 7,
+      "timestamp": "2026-10-12T10:39:28Z"
+    },
+    {
+      "osm": "way/125433365",
+      "tags": {
+        "artwork_type": "sculpture",
+        "height": "13.7",
+        "inscription": "L",
+        "material": "metal",
+        "tourism": "artwork"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -16.31836514164,
+            -7.591989272233058
+          ],
+          [
+            -9.002282745817501,
+            -6.412002669481453
+          ]
+        ]
+      },
+      "version": 7,
+      "timestamp": "2026-10-12T10:39:28Z"
+    },
+    {
+      "osm": "way/125433372",
+      "tags": {
+        "artwork_type": "sculpture",
+        "height": "13.7",
+        "inscription": "Y",
+        "material": "metal",
+        "tourism": "artwork"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -7.85972075937025,
+            -6.423134618690869
+          ],
+          [
+            1.1978472431801632,
+            -4.998245136495994
+          ]
+        ]
+      },
+      "version": 7,
+      "timestamp": "2026-10-12T10:39:28Z"
+    },
+    {
+      "osm": "way/125433370",
+      "tags": {
+        "artwork_type": "sculpture",
+        "height": "13.7",
+        "inscription": "W",
+        "material": "metal",
+        "tourism": "artwork"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            3.4461143773797858,
+            -1.7365840561036716
+          ],
+          [
+            14.291239036990849,
+            0.03339584683727664
+          ]
+        ]
+      },
+      "version": 7,
+      "timestamp": "2026-10-12T10:39:28Z"
+    },
+    {
+      "osm": "way/125433367",
+      "tags": {
+        "artwork_type": "sculpture",
+        "height": "13.7",
+        "inscription": "O",
+        "material": "metal",
+        "tourism": "artwork"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            16.70536194269862,
+            0.4564099120492645
+          ],
+          [
+            26.334210939782075,
+            0.9462156717267781
+          ]
+        ]
+      },
+      "version": 7,
+      "timestamp": "2026-10-12T10:39:28Z"
+    },
+    {
+      "osm": "way/125433369",
+      "tags": {
+        "artwork_type": "sculpture",
+        "height": "13.7",
+        "inscription": "O",
+        "material": "metal",
+        "tourism": "artwork"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            29.734254269447963,
+            2.3377093062934042
+          ],
+          [
+            38.55225282440988,
+            3.1614735382985466
+          ]
+        ]
+      },
+      "version": 7,
+      "timestamp": "2026-10-12T10:39:28Z"
+    },
+    {
+      "osm": "way/125433362",
+      "tags": {
+        "artwork_type": "sculpture",
+        "height": "13.7",
+        "inscription": "D",
+        "material": "metal",
+        "tourism": "artwork"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.605988508681456,
+            -1.5250770242886504
+          ],
+          [
+            53.1107039386651,
+            -1.8256396489880304
+          ]
+        ]
+      },
+      "version": 6,
+      "timestamp": "2026-10-12T10:39:28Z"
+    }
+  ],
+  "osm": {
+    "type": "way",
+    "id": 125433363,
+    "version": 7,
+    "timestamp": "2026-10-12T10:39:28Z",
+    "url": "https://www.openstreetmap.org/way/125433363"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 125433366,
+      "version": 7,
+      "timestamp": "2026-10-12T10:39:28Z",
+      "url": "https://www.openstreetmap.org/way/125433366"
+    },
+    {
+      "type": "way",
+      "id": 125433364,
+      "version": 7,
+      "timestamp": "2026-10-12T10:39:28Z",
+      "url": "https://www.openstreetmap.org/way/125433364"
+    },
+    {
+      "type": "way",
+      "id": 125433365,
+      "version": 7,
+      "timestamp": "2026-10-12T10:39:28Z",
+      "url": "https://www.openstreetmap.org/way/125433365"
+    },
+    {
+      "type": "way",
+      "id": 125433372,
+      "version": 7,
+      "timestamp": "2026-10-12T10:39:28Z",
+      "url": "https://www.openstreetmap.org/way/125433372"
+    },
+    {
+      "type": "way",
+      "id": 125433370,
+      "version": 7,
+      "timestamp": "2026-10-12T10:39:28Z",
+      "url": "https://www.openstreetmap.org/way/125433370"
+    },
+    {
+      "type": "way",
+      "id": 125433367,
+      "version": 7,
+      "timestamp": "2026-10-12T10:39:28Z",
+      "url": "https://www.openstreetmap.org/way/125433367"
+    },
+    {
+      "type": "way",
+      "id": 125433369,
+      "version": 7,
+      "timestamp": "2026-10-12T10:39:28Z",
+      "url": "https://www.openstreetmap.org/way/125433369"
+    },
+    {
+      "type": "way",
+      "id": 125433362,
+      "version": 6,
+      "timestamp": "2026-10-12T10:39:28Z",
+      "url": "https://www.openstreetmap.org/way/125433362"
+    }
+  ],
+  "tags": {
+    "artwork_type": "sculpture",
+    "height": "13.7",
+    "inscription": "H",
+    "material": "metal",
+    "tourism": "artwork"
+  }
+}

@@ -1,0 +1,407 @@
+{
+  "id": "griffith-observatory",
+  "name": "Griffith Observatory",
+  "anchor": [
+    -118.300348,
+    34.1182539
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 89340,
+      "sha256": "afb51ebfbc4fe18e72d604ee5d5a671d9398c9a8ccc17974c4891a85f70e8638"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 89340,
+      "sha256": "afb51ebfbc4fe18e72d604ee5d5a671d9398c9a8ccc17974c4891a85f70e8638"
+    }
+  },
+  "triangles": 2620,
+  "boundsBlenderM": [
+    [
+      -38,
+      -31.303,
+      0
+    ],
+    [
+      33.9,
+      22.2,
+      34.8
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -118.3000385,
+          34.1184286
+        ],
+        [
+          -118.3000234,
+          34.118424
+        ],
+        [
+          -118.3000099,
+          34.1184167
+        ],
+        [
+          -118.2999988,
+          34.1184071
+        ],
+        [
+          -118.2999905,
+          34.1183957
+        ],
+        [
+          -118.2999855,
+          34.118383
+        ],
+        [
+          -118.299984,
+          34.1183697
+        ],
+        [
+          -118.2999862,
+          34.1183565
+        ],
+        [
+          -118.2999918,
+          34.118344
+        ],
+        [
+          -118.3000007,
+          34.1183329
+        ],
+        [
+          -118.3000124,
+          34.1183237
+        ],
+        [
+          -118.3000285,
+          34.1183197
+        ],
+        [
+          -118.3000287,
+          34.1183134
+        ],
+        [
+          -118.3000452,
+          34.1183127
+        ],
+        [
+          -118.300045,
+          34.1183079
+        ],
+        [
+          -118.3000451,
+          34.1182967
+        ],
+        [
+          -118.3000453,
+          34.1182486
+        ],
+        [
+          -118.3000457,
+          34.1181838
+        ],
+        [
+          -118.3001675,
+          34.1181844
+        ],
+        [
+          -118.3001774,
+          34.1181845
+        ],
+        [
+          -118.3001759,
+          34.1180976
+        ],
+        [
+          -118.3002031,
+          34.1180974
+        ],
+        [
+          -118.3002073,
+          34.1180762
+        ],
+        [
+          -118.3002155,
+          34.1180558
+        ],
+        [
+          -118.3002231,
+          34.118043
+        ],
+        [
+          -118.3002273,
+          34.1180367
+        ],
+        [
+          -118.3002426,
+          34.1180194
+        ],
+        [
+          -118.3002466,
+          34.1180161
+        ],
+        [
+          -118.300261,
+          34.1180043
+        ],
+        [
+          -118.300282,
+          34.1179917
+        ],
+        [
+          -118.3003052,
+          34.1179821
+        ],
+        [
+          -118.3003198,
+          34.1179781
+        ],
+        [
+          -118.3003298,
+          34.1179755
+        ],
+        [
+          -118.3003554,
+          34.1179721
+        ],
+        [
+          -118.3003813,
+          34.1179721
+        ],
+        [
+          -118.3004069,
+          34.1179755
+        ],
+        [
+          -118.3004316,
+          34.1179821
+        ],
+        [
+          -118.3004547,
+          34.1179919
+        ],
+        [
+          -118.3004757,
+          34.1180044
+        ],
+        [
+          -118.300494,
+          34.1180196
+        ],
+        [
+          -118.3005093,
+          34.1180369
+        ],
+        [
+          -118.3005212,
+          34.118056
+        ],
+        [
+          -118.3005293,
+          34.1180764
+        ],
+        [
+          -118.3005334,
+          34.1180976
+        ],
+        [
+          -118.3005626,
+          34.1180971
+        ],
+        [
+          -118.3005634,
+          34.1181471
+        ],
+        [
+          -118.300564,
+          34.1181887
+        ],
+        [
+          -118.3005407,
+          34.1181889
+        ],
+        [
+          -118.3005423,
+          34.1182928
+        ],
+        [
+          -118.3005428,
+          34.1183163
+        ],
+        [
+          -118.3006332,
+          34.1183151
+        ],
+        [
+          -118.3006593,
+          34.118315
+        ],
+        [
+          -118.3006593,
+          34.1183113
+        ],
+        [
+          -118.3006735,
+          34.1183112
+        ],
+        [
+          -118.3007161,
+          34.1183107
+        ],
+        [
+          -118.3007161,
+          34.1183165
+        ],
+        [
+          -118.3007321,
+          34.1183238
+        ],
+        [
+          -118.3007453,
+          34.1183342
+        ],
+        [
+          -118.3007548,
+          34.1183471
+        ],
+        [
+          -118.30076,
+          34.1183616
+        ],
+        [
+          -118.3007605,
+          34.1183767
+        ],
+        [
+          -118.3007562,
+          34.1183914
+        ],
+        [
+          -118.3007475,
+          34.1184047
+        ],
+        [
+          -118.300735,
+          34.1184156
+        ],
+        [
+          -118.3007195,
+          34.1184236
+        ],
+        [
+          -118.3007098,
+          34.118426
+        ],
+        [
+          -118.300702,
+          34.1184279
+        ],
+        [
+          -118.3006869,
+          34.1184275
+        ],
+        [
+          -118.3004807,
+          34.1184277
+        ],
+        [
+          -118.3004807,
+          34.1184548
+        ],
+        [
+          -118.3004191,
+          34.1184548
+        ],
+        [
+          -118.3004191,
+          34.1184369
+        ],
+        [
+          -118.3003722,
+          34.1184369
+        ],
+        [
+          -118.300316,
+          34.1184369
+        ],
+        [
+          -118.300316,
+          34.1184548
+        ],
+        [
+          -118.3002558,
+          34.1184548
+        ],
+        [
+          -118.3002558,
+          34.1184283
+        ],
+        [
+          -118.3000571,
+          34.1184286
+        ],
+        [
+          -118.3000385,
+          34.1184286
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 422130705,
+    "version": 13,
+    "timestamp": "2025-02-17T16:55:11Z",
+    "url": "https://www.openstreetmap.org/way/422130705"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q575901",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/la-griffith-observatory.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Griffith Observatory (1935, John C. Austin and Frederick M. Ashley; 2006 renovation), Griffith Park, Los Angeles — original procedural geometry, CC0-1.0. bun generators/la-griffith-observatory.ts [out.glb]",
+    "Map frame: x east, y north, z up, metres; origin at the OSM outline's centroid, on the lowest ground under it (335.3 m, at the foot of the planetarium drum on the south). Bearing 0: the building is square to the compass. The entrance front faces north, onto the lawn and the Astronomers Monument; the planetarium drum faces the city to the south. The north lawn stands 11.8 m above y = 0, so the north half of the model sinks into the hill (STYLE.md, Ground).",
+    "What makes it the observatory: a white Art Deco block with three dark bronze domes in a row seen from the lawn — the big planetarium dome in the middle, the two telescope domes (each with its shutter slit) on round towers at the ends of the front — and the green copper octagonal lantern over the rotunda behind the GRIFFITH OBSERVATORY entrance block. From the south and from the city: the tall white planetarium drum with its ring of pilasters.",
+    "Sources:",
+    "Plan: OSM way/422130705 (the only building; no parts). From it: the symmetry axis x = −2.05 (entrance projection −12.2…8.5 and the two tower ends −38.0 / 33.5); the planetarium drum is the outline's south apse, a circle centred (−1.9, −15.9), radius 15.3; the telescope towers are the round ends, radius 5 centred 13 m north. The plan is not symmetric behind the front: the west wing is only 13 m deep (a terrace behind it), the east wing runs back 27 m.",
+    "Heights: LA County 2006 lidar surface model (Elevation MapServer layer 8, 2 m grid), over USGS 3DEP bare earth (low point 335.3 m on the footprint; north lawn 347.1 m): main roof 354.3 m (19.0), planetarium dome apex 370.1 m (34.8; LARIAC 2020 footprint 470757865499 gives the same top, 35.9 m over its own lower ground), telescope domes 363.5 and 362.9 m (28.0), the lantern 361.1 m (25.8), the drum 357 m at r = 14 and 350 m at r = 16 (the lower ring).",
+    "Proportions and colours: photos (Wikimedia Commons) — \"Griffith observatory 2006\" (Matthew Field, CC BY 2.5; north front from above, square on: dome widths 24.4 m and 10.2 m against the 71.5 m front), \"Griffith Observatory, Los Angeles2\" (dconvertini, CC BY-SA 2.0; north front), \"Griffith Observatory 2011\" (Joe Mabel, CC BY-SA 3.0; the entrance), Carol M. Highsmith's aerials LCCN2013633239 (from the south-south-west) and LC-DIG-highsm-22255 (from the north-west), both public domain; \"Griffith Observatory 2012 01\" (Mike Peel, CC BY-SA 4.0). Dome colour sampled from the sunlit domes (#886752 … #8a7d6f) and the aerials (#7d8084): a bronze grey between the two.",
+    "Estimated: the lettering block's and lantern's heights (from the 2006 front photo, scaled by the lidar wing height); the window sizes and the drum's window rows; 20 pilasters round the drum (counted on the visible half); the step between the lower and upper drum.",
+    "Left out: the Astronomers Monument, the Greek-key bands, the stairs to the roof terraces, the underground 2006 wing and its café terrace, the dome ribs.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"la-griffith-observatory\", model \"la-griffith-observatory\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/la-griffith-observatory.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches.",
+    "Window panels clipped to the walls behind them; 142 m² of glazing with no wall behind it (curtain walls, glazing past a wall's edge) uses the la-griffith-observatory-glazing finish in the window colour."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

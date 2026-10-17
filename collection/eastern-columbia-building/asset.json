@@ -1,0 +1,113 @@
+{
+  "id": "eastern-columbia-building",
+  "name": "Eastern Columbia Building",
+  "anchor": [
+    -118.2562097,
+    34.0427452
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 46972,
+      "sha256": "9b8d3191cd3e3d03cd96a6b0401517f76a6a4d5adf7eb6a515f009f27ef977fc"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 46972,
+      "sha256": "9b8d3191cd3e3d03cd96a6b0401517f76a6a4d5adf7eb6a515f009f27ef977fc"
+    }
+  },
+  "triangles": 828,
+  "boundsBlenderM": [
+    [
+      -29.611,
+      -28.431,
+      0
+    ],
+    [
+      29.611,
+      28.431,
+      80
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -118.2558869,
+          34.0427334
+        ],
+        [
+          -118.2561186,
+          34.042489
+        ],
+        [
+          -118.256532,
+          34.0427557
+        ],
+        [
+          -118.2563011,
+          34.043002
+        ],
+        [
+          -118.2563004,
+          34.0430015
+        ],
+        [
+          -118.2558869,
+          34.0427334
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 427942790,
+    "version": 5,
+    "timestamp": "2026-05-07T13:43:26Z",
+    "url": "https://www.openstreetmap.org/way/427942790"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q71842",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/la-eastern-columbia.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Eastern Columbia Building (1930, Claud Beelman), 849 S. Broadway, Los Angeles — original procedural geometry, CC0-1.0. bun generators/la-eastern-columbia.ts [out.glb]",
+    "Map frame: x east, y north, z up, metres; origin at the centroid of the OSM outline (way/427942790) on the ground (flat here). Placed at bearing 38°, so +x runs to Broadway (south-east) and −y is the Ninth Street face.",
+    "Art deco department store: thirteen floors of turquoise terracotta on the two street faces, stepped up in tiers to a square clock tower near the Broadway end, with a clock on each face between tall gold grille panels, a gold cornice, and a green-bronze crown frame of four arched struts on a central mast. The two back faces are plain painted concrete. Colour is the identity, and so is the stepped clock tower.",
+    "Sources:",
+    "Plan: OSM way/427942790, a 48.2 × 34.5 m rectangle (Ninth St × Broadway), matching the LA County LARIAC 2020 lidar footprint 2014092853510000.",
+    "Heights: LARIAC 2006 DSM sampled at 2 m and resampled into the building frame, over flat bare earth (77.0 m, ±0.4): the main block 40 m, the first setback 47 m (DSM 49.7 on its roof edge), the tower 62–75 m (the clock stage drawn 58–70, the frame above it). The second and third setbacks (53, 58 m) are read off e8 and e2, all centred on the tower's axis; the mast is taken to 80 m, the published 264 ft. LARIAC 2020 gives 57.8 m for the footprint; Wikipedia: 150 ft (45.7 m) height limit, clock tower allowed to 264 ft \"total\" (80 m, taken to include the mast).",
+    "Photos (Wikimedia Commons): e8 \"Eastern Columbia Building, Downtown Los Angeles\" (Matthew McNulty, CC BY-SA 4.0; the Ninth St face from the south-west, Broadway receding right past the Orpheum sign, City Hall in the distance), e2 \"LA Eastern Columbia Building\" (Andreas Praefcke, CC BY 3.0; the Broadway face from the south-east, the plain back wing behind), e4 \"Eastern columbia building - Flickr - jimw\" (Jim Winstead, CC BY 2.0; the tower and crown frame), e1 \"Eastern Columbia Tower - Los Angeles\" (Galkab, CC BY-SA 3.0; from the south up Broadway), e10 \"Eastern Columbia Building - panoramio - Jordan W.\" (CC BY-SA 3.0; tower corner).",
+    "Estimated: tier outlines (from the DSM at 2 m and the photos), the window panels (a recessed strip per 4 m bay between bold piers, three floors tall, gold spandrel bands between rows), the crown frame's members (drawn as four bold struts and a mast), the clock dials (gold rings and hands). Left out: the EASTERN letters (signage), the fine gold sunburst ornaments on the piers, the entrance, the rooftop pool.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"la-eastern-columbia\", model \"la-eastern-columbia\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/la-eastern-columbia.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

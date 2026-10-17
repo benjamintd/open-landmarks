@@ -1,0 +1,264 @@
+{
+  "id": "kia-forum",
+  "name": "Kia Forum",
+  "anchor": [
+    -118.341972,
+    33.958216
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 178096,
+      "sha256": "0da315dc354b406407c0ed9c4789150f463ab87dcb697003fd900079f809cae4"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 178096,
+      "sha256": "0da315dc354b406407c0ed9c4789150f463ab87dcb697003fd900079f809cae4"
+    }
+  },
+  "triangles": 5760,
+  "boundsBlenderM": [
+    [
+      -66.498,
+      -66.498,
+      0
+    ],
+    [
+      66.498,
+      66.498,
+      18.65
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -118.3413646,
+          33.9579252
+        ],
+        [
+          -118.3414347,
+          33.957842
+        ],
+        [
+          -118.3415211,
+          33.9577703
+        ],
+        [
+          -118.341621,
+          33.9577122
+        ],
+        [
+          -118.3417314,
+          33.9576694
+        ],
+        [
+          -118.341849,
+          33.9576431
+        ],
+        [
+          -118.3419701,
+          33.9576341
+        ],
+        [
+          -118.3420914,
+          33.9576426
+        ],
+        [
+          -118.3422091,
+          33.9576684
+        ],
+        [
+          -118.3423197,
+          33.9577107
+        ],
+        [
+          -118.3424199,
+          33.9577683
+        ],
+        [
+          -118.3425068,
+          33.9578396
+        ],
+        [
+          -118.3425775,
+          33.9579225
+        ],
+        [
+          -118.3426298,
+          33.9580144
+        ],
+        [
+          -118.342662,
+          33.9581127
+        ],
+        [
+          -118.3426731,
+          33.9582141
+        ],
+        [
+          -118.3426627,
+          33.9583155
+        ],
+        [
+          -118.3426311,
+          33.9584139
+        ],
+        [
+          -118.3425795,
+          33.9585061
+        ],
+        [
+          -118.3425093,
+          33.9585892
+        ],
+        [
+          -118.3424229,
+          33.9586609
+        ],
+        [
+          -118.342323,
+          33.958719
+        ],
+        [
+          -118.3422125,
+          33.9587619
+        ],
+        [
+          -118.3420951,
+          33.9587881
+        ],
+        [
+          -118.3419738,
+          33.9587971
+        ],
+        [
+          -118.3418527,
+          33.9587887
+        ],
+        [
+          -118.3417349,
+          33.9587629
+        ],
+        [
+          -118.3416243,
+          33.9587207
+        ],
+        [
+          -118.341524,
+          33.9586629
+        ],
+        [
+          -118.3414372,
+          33.9585916
+        ],
+        [
+          -118.3413665,
+          33.9585088
+        ],
+        [
+          -118.3413142,
+          33.9584168
+        ],
+        [
+          -118.3412819,
+          33.9583186
+        ],
+        [
+          -118.3412709,
+          33.9582172
+        ],
+        [
+          -118.3412813,
+          33.9581158
+        ],
+        [
+          -118.3413129,
+          33.9580174
+        ],
+        [
+          -118.3413646,
+          33.9579252
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 26320999,
+    "version": 11,
+    "timestamp": "2025-10-01T20:15:20Z",
+    "url": "https://www.openstreetmap.org/way/26320999"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q639129",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [
+    {
+      "title": "File:Forum Inglewood.JPG",
+      "author": "Ritapepaj",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Forum_Inglewood.JPG",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:The Inglewood Forum.jpg",
+      "author": "Mbo90301",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:The_Inglewood_Forum.jpg",
+      "use": "visual-reference-only"
+    },
+    {
+      "title": "File:Another View of the Inglewood Forum from the air.jpg",
+      "author": "Northwalker",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Another_View_of_the_Inglewood_Forum_from_the_air.jpg",
+      "use": "visual-reference-only"
+    }
+  ],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/la-kia-forum.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Kia Forum, Inglewood (1967, Charles Luckman) — procedural, CC0-1.0. bun generators/la-kia-forum.ts",
+    "Map frame: x east, y north, z up, metres. The anchor is the area centroid of OSM way/26320999 (the round building outline, r = 64.7 m), placed at bearing 0: the building is round, so the only orientation is the phase of the colonnade, which is built into the model (a column at azimuth -0.4° and every 4.5° from there). y = 0 is 46.0 m (NAVD88), the lowest ground at the edge of the footprint (USGS 3DEP; the plaza round the building is 46.3-46.5 m and the parking to the south-west falls to 45.6 m).",
+    "What makes it the Forum: a white colonnade of 80 tall, slightly tapering columns all the way round, joined at the top by round arches and flaring into a deep white canopy whose outer edge is scalloped, one hump per bay; the red drum recessed behind the columns, with a dark band across it at mid-height; and, from above, a plain flat white roof disc.",
+    "Sources:",
+    "Plan: OSM way/26320999 (r = 64.7 m) and LARIAC 2020 footprint 457947807351 (same circle). Canopy edge r = 66.5 m: LA County lidar surface model on two diameters at 2 m spacing, where the roof falls to the ground between r = 66 and 68 m. Column count 80: measured, the dominant period round the rim in the USGS NAIP 2022 orthophoto at r = 61-63 m (DFT peak at 79-80 cycles per turn), 4.8 m bay spacing. Column line r = 61.2 m, so the canopy overhangs it by about 4.7 m, as the canopy's silhouette at the ends of the west photo shows.",
+    "Heights: LA County lidar surface model (above y = 0): roof 18.1 m at r = 60 m rising to 18.65 m at the centre (cable-hung roof, published diameter 124 m, Wikipedia), canopy edge 17.0-17.6 m. LARIAC 2020 gives 19.34 m for the footprint. Arch springing 13.4 m, crown 15.0 m, canopy lip 17.3-17.8 m: proportions from Ritapepaj's photo scaled by the 4.9 m bay (the facade height from it, 17.2 m above the plaza, agrees with the lidar).",
+    "Photos (Wikimedia Commons): \"Forum Inglewood.JPG\" (Ritapepaj, CC BY-SA 3.0; from the west, the Forum Club entrance; red drum, white columns, the canopy vaults); \"Kia Forum view from the North.jpg\" (Trafficali, 2023, CC BY-SA 4.0, drone, from the north-west, over Manchester Blvd and Prairie Ave); \"The Inglewood Forum.jpg\" (Mbo90301, CC BY-SA 4.0; from the west); \"Another View of the Inglewood Forum from the air.jpg\" (Northwalker, CC0; high oblique from the south). La-the-forum-006.jpg (Eddy Lambert) shows the 1988-2013 blue scheme; the red was restored in the 2014 renovation.",
+    "Colours: drum red #b42929 in daylight, pulled to the palette's lightness; the dark band is the shadowed recess at 8-10 m; the roof reads plain light grey-white in NAIP 2022 (the 2014 \"Forum presented by Chase\" roof logo is gone), so it is one flat colour. The canopy's top, outside the column line, is white `trim`: a brighter rim ring in the aerial from the south, though barely distinct from the roof in NAIP.",
+    "Estimated: the drum radius (59.2 m, 1.4 m behind the columns, from the photos), the column section (1.3 m wide at the foot to 1.8 m at the springing, 1.2 m deep), the profile of the canopy's flared underside and the scallop height (0.5 m).",
+    "Left out: the ribbed panels and doors of the drum, the Forum Club marquee, the plaza walls and stairs, signs, rooftop kit, the parking lot.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"la-kia-forum\", model \"la-kia-forum\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/la-kia-forum.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

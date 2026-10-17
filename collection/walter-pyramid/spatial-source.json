@@ -1,0 +1,185 @@
+{
+  "id": "walter-pyramid",
+  "anchor": [
+    -118.11441,
+    33.78743
+  ],
+  "coordinateSystem": "Local metres about the anchor (equirectangular, WGS84 radius): X east, Y north, Z up. glTF export: X east, Y up, Z south. Heading already baked.",
+  "license": "ODbL-1.0",
+  "footprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -58.869427176350264,
+          46.119665035959834
+        ],
+        [
+          -6.346758924765452,
+          52.05299389497319
+        ],
+        [
+          46.02787996370948,
+          58.56518410654841
+        ],
+        [
+          53.087030197537366,
+          7.079919614136711
+        ],
+        [
+          58.046013847913635,
+          -45.6187273270729
+        ],
+        [
+          57.76845879224694,
+          -46.15306088279711
+        ],
+        [
+          57.19484501167522,
+          -46.70965833694015
+        ],
+        [
+          -46.32393868729973,
+          -59.04385791701651
+        ],
+        [
+          -58.869427176350264,
+          46.119665035959834
+        ]
+      ]
+    ]
+  },
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -118.1150463,
+          33.7878443
+        ],
+        [
+          -118.1144786,
+          33.7878976
+        ],
+        [
+          -118.1139125,
+          33.7879561
+        ],
+        [
+          -118.1138362,
+          33.7874936
+        ],
+        [
+          -118.1137826,
+          33.7870202
+        ],
+        [
+          -118.1137856,
+          33.7870154
+        ],
+        [
+          -118.1137918,
+          33.7870104
+        ],
+        [
+          -118.1149107,
+          33.7868996
+        ],
+        [
+          -118.1150463,
+          33.7878443
+        ]
+      ]
+    ]
+  },
+  "parts": [
+    {
+      "osm": "way/35452138",
+      "tags": {
+        "addr:housenumber": "1250",
+        "addr:postcode": "90840",
+        "addr:street": "North Bellflower Blvd",
+        "building": "yes",
+        "height": "54.4",
+        "lacounty:ain": "7239020900",
+        "lacounty:bld_id": "526904745040",
+        "name": "LBS Financial Credit Union Pyramid",
+        "old_name": "Walter Pyramid",
+        "roof:colour": "#406A9B",
+        "roof:height": "54.4",
+        "roof:shape": "pyramidal",
+        "wikidata": "Q3565858",
+        "wikipedia": "en:LBS Financial Credit Union Pyramid"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -58.869427176350264,
+              46.119665035959834
+            ],
+            [
+              -6.346758924765452,
+              52.05299389497319
+            ],
+            [
+              46.02787996370948,
+              58.56518410654841
+            ],
+            [
+              53.087030197537366,
+              7.079919614136711
+            ],
+            [
+              58.046013847913635,
+              -45.6187273270729
+            ],
+            [
+              57.76845879224694,
+              -46.15306088279711
+            ],
+            [
+              57.19484501167522,
+              -46.70965833694015
+            ],
+            [
+              -46.32393868729973,
+              -59.04385791701651
+            ],
+            [
+              -58.869427176350264,
+              46.119665035959834
+            ]
+          ]
+        ]
+      },
+      "version": 16,
+      "timestamp": "2026-09-11T01:56:42Z"
+    }
+  ],
+  "osm": {
+    "type": "way",
+    "id": 35452138,
+    "version": 16,
+    "timestamp": "2026-09-11T01:56:42Z",
+    "url": "https://www.openstreetmap.org/way/35452138"
+  },
+  "additionalOsm": [],
+  "tags": {
+    "addr:housenumber": "1250",
+    "addr:postcode": "90840",
+    "addr:street": "North Bellflower Blvd",
+    "building": "yes",
+    "height": "54.4",
+    "lacounty:ain": "7239020900",
+    "lacounty:bld_id": "526904745040",
+    "name": "LBS Financial Credit Union Pyramid",
+    "old_name": "Walter Pyramid",
+    "roof:colour": "#406A9B",
+    "roof:height": "54.4",
+    "roof:shape": "pyramidal",
+    "wikidata": "Q3565858",
+    "wikipedia": "en:LBS Financial Credit Union Pyramid"
+  }
+}

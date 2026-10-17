@@ -1,0 +1,178 @@
+{
+  "id": "fox-plaza",
+  "name": "Fox Plaza",
+  "anchor": [
+    -118.4132792,
+    34.0551887
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 14,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 44952,
+      "sha256": "dca853256ebbc90c0589cb30e02f487bd959b17cbf6eda0af910c652226f3ad7"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 44952,
+      "sha256": "dca853256ebbc90c0589cb30e02f487bd959b17cbf6eda0af910c652226f3ad7"
+    }
+  },
+  "triangles": 888,
+  "boundsBlenderM": [
+    [
+      -33.206,
+      -33.206,
+      0
+    ],
+    [
+      33.206,
+      33.206,
+      147.5
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -118.413427,
+          34.0550094
+        ],
+        [
+          -118.4135053,
+          34.0550123
+        ],
+        [
+          -118.4135015,
+          34.0550823
+        ],
+        [
+          -118.4136371,
+          34.055215
+        ],
+        [
+          -118.4134887,
+          34.0553191
+        ],
+        [
+          -118.4134852,
+          34.0553839
+        ],
+        [
+          -118.4134007,
+          34.0553808
+        ],
+        [
+          -118.4132488,
+          34.0554873
+        ],
+        [
+          -118.4131297,
+          34.0553707
+        ],
+        [
+          -118.4130559,
+          34.055368
+        ],
+        [
+          -118.4130595,
+          34.055302
+        ],
+        [
+          -118.4129156,
+          34.0551612
+        ],
+        [
+          -118.4130731,
+          34.0550508
+        ],
+        [
+          -118.413076,
+          34.0549964
+        ],
+        [
+          -118.4131469,
+          34.054999
+        ],
+        [
+          -118.4133114,
+          34.0548835
+        ],
+        [
+          -118.4133511,
+          34.0549267
+        ],
+        [
+          -118.4133901,
+          34.0549692
+        ],
+        [
+          -118.4134132,
+          34.0549943
+        ],
+        [
+          -118.413427,
+          34.0550094
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "relation",
+    "id": 5459884,
+    "version": 11,
+    "timestamp": "2024-08-26T01:06:54Z",
+    "url": "https://www.openstreetmap.org/relation/5459884"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 367173868,
+      "version": 4,
+      "timestamp": "2021-03-02T17:18:37Z",
+      "url": "https://www.openstreetmap.org/way/367173868"
+    }
+  ],
+  "wikidata": "Q1920322",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/la-fox-plaza.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Fox Plaza (2121 Avenue of the Stars, 1987, Johnson Fain and Pereira Associates), Century City, Los Angeles — original procedural geometry, CC0-1.0.",
+    "Frame: x east, y north turned to bearing 3.5°, z up, metres. Origin at the centre of the plan, 0.2 m from the OSM outline's area centroid, on the lowest ground under it (98.8 m, the south and west corners).",
+    "The plan is two squares laid over each other: a 41 m square square to the street grid, and a 67 m square turned 45° whose corners point north, east, south and west. Their union is a sixteen-sided star, so the tower reads as a cluster of faceted prisms. It rises in four tiers of that star shape, the diamond's points stepping back first, to a stepped glass crown with a helipad. The faceted star plan, the pink granite banded with blue glass and the stepped glass crown are the identity.",
+    "Evidence",
+    "Plan: OSM relation/5459884, outer way/367173855: square corners at (-21.7,-19.8) (-19.9,21.6) (19.8,19.8) (17.9,-21.6), diamond points at (-33.9,2.8) (2.0,33.1) (32.7,-3.2) (-3.8,-34.1) about the anchor area; drawn as an exact union of a 41.2 m square and a 33.5 m half-diagonal diamond on one centre. OSM building:part way/367173868 (the 150 m tower core) is covered.",
+    "Heights: LA County lidar surface model (LACounty_Dynamic/Elevation layer 8, sampled on a 2 m grid): the diamond points stop at 122 m over the lowest ground, a ring of the star to 135 m, a diamond to its square's face midpoints at 144 m and the top at 147 m. LARIAC 2020 footprint 201700095851: 146.5 m. Published: 150 m / 492 ft, 35 floors (Wikipedia); OSM height 150.",
+    "Photos (Wikimedia Commons), compared with renders from the same side: f1 \"2121 Avenue of the Stars (Fox Plaza), Sept. 2024\" (Alexis Doine, CC0) — from the east on Avenue of the Stars; f2 \"Fox Plaza HD\" (Veldin963, CC BY-SA 3.0) — the crown from below, south-east; f3 \"Foxplaza la\" (public domain) — from the north-west, granite bands; f4 \"Fox Plaza (Los Angeles, Century City) August 2024\" (Alexis Doine, CC0). USGS NAIP orthophoto for the plan and the helipad.",
+    "Colour: the photos (rose-brown granite, sky-blue reflective glass), pulled to the palette's lightness.",
+    "Estimated: the window bands (the real facade is a ribbon window per floor; drawn as one broad band per two floors), the 26 m half-diagonal of the 135 m tier, the crown's floor lines, the base (the lobby floors, drawn as plain granite with a window per facet). Left out: the low podium wing and the garage, the roof equipment.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"la-fox-plaza\", model \"la-fox-plaza\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/la-fox-plaza.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

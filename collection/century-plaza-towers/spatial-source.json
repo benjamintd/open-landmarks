@@ -1,0 +1,278 @@
+{
+  "id": "century-plaza-towers",
+  "anchor": [
+    -118.4134974,
+    34.0590575
+  ],
+  "coordinateSystem": "Local metres about the anchor (equirectangular, WGS84 radius): X east, Y north, Z up. glTF export: X east, Y up, Z south. Heading already baked.",
+  "license": "ODbL-1.0",
+  "footprint": {
+    "type": "MultiPolygon",
+    "coordinates": [
+      [
+        [
+          [
+            -6.44644559945604,
+            6.879544530740135
+          ],
+          [
+            -77.44034863927402,
+            38.883898133682266
+          ],
+          [
+            -19.450005392333324,
+            85.25959799829478
+          ],
+          [
+            -6.44644559945604,
+            6.879544530740135
+          ]
+        ]
+      ],
+      [
+        [
+          [
+            18.40787613260354,
+            -85.32638969355126
+          ],
+          [
+            5.588763995898067,
+            -7.603121221442473
+          ],
+          [
+            78.88826274310604,
+            -35.08790349835671
+          ],
+          [
+            18.40787613260354,
+            -85.32638969355126
+          ]
+        ]
+      ]
+    ]
+  },
+  "replacementFootprint": {
+    "type": "MultiPolygon",
+    "coordinates": [
+      [
+        [
+          [
+            -118.4135673,
+            34.0591193
+          ],
+          [
+            -118.4143371,
+            34.0594068
+          ],
+          [
+            -118.4137083,
+            34.0598234
+          ],
+          [
+            -118.4135673,
+            34.0591193
+          ]
+        ]
+      ],
+      [
+        [
+          [
+            -118.4132978,
+            34.058291
+          ],
+          [
+            -118.4134368,
+            34.0589892
+          ],
+          [
+            -118.412642,
+            34.0587423
+          ],
+          [
+            -118.4132978,
+            34.058291
+          ]
+        ]
+      ]
+    ]
+  },
+  "parts": [
+    {
+      "osm": "relation/19619602",
+      "tags": {
+        "architect": "Minoru Yamasaki",
+        "architect:wikidata": "Q347215",
+        "building": "tower",
+        "name": "Century Plaza Towers",
+        "type": "multipolygon",
+        "wikidata": "Q1982044"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -6.44644559945604,
+                6.879544530740135
+              ],
+              [
+                -77.44034863927402,
+                38.883898133682266
+              ],
+              [
+                -19.450005392333324,
+                85.25959799829478
+              ],
+              [
+                -6.44644559945604,
+                6.879544530740135
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                18.40787613260354,
+                -85.32638969355126
+              ],
+              [
+                5.588763995898067,
+                -7.603121221442473
+              ],
+              [
+                78.88826274310604,
+                -35.08790349835671
+              ],
+              [
+                18.40787613260354,
+                -85.32638969355126
+              ]
+            ]
+          ]
+        ]
+      },
+      "version": 1,
+      "timestamp": "2025-09-18T20:05:42Z"
+    },
+    {
+      "osm": "way/104944092",
+      "tags": {
+        "addr:city": "Los Angeles",
+        "addr:country": "US",
+        "addr:housenumber": "2049",
+        "addr:postcode": "90067",
+        "addr:street": "Century Park East",
+        "building": "commercial",
+        "building:levels": "44",
+        "building:units": "1",
+        "ele": "259.5",
+        "height": "175.2",
+        "lacounty:ain": "4319016030",
+        "lacounty:bld_id": "436553843997",
+        "name": "Century Plaza Tower II",
+        "start_date": "1973"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              18.40787613260354,
+              -85.32638969355126
+            ],
+            [
+              5.588763995898067,
+              -7.603121221442473
+            ],
+            [
+              78.88826274310604,
+              -35.08790349835671
+            ],
+            [
+              18.40787613260354,
+              -85.32638969355126
+            ]
+          ]
+        ]
+      },
+      "version": 6,
+      "timestamp": "2021-01-30T21:23:09Z"
+    },
+    {
+      "osm": "way/104944087",
+      "tags": {
+        "addr:city": "Los Angeles",
+        "addr:country": "US",
+        "addr:housenumber": "2029",
+        "addr:postcode": "90067",
+        "addr:street": "Century Park East",
+        "building": "commercial",
+        "building:levels": "44",
+        "ele": "259.5",
+        "height": "174.4",
+        "height_1": "174",
+        "lacounty:ain": "4319016029",
+        "lacounty:bld_id": "436323844287",
+        "name": "Century Plaza Tower I",
+        "start_date": "1973"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -6.44644559945604,
+              6.879544530740135
+            ],
+            [
+              -77.44034863927402,
+              38.883898133682266
+            ],
+            [
+              -19.450005392333324,
+              85.25959799829478
+            ],
+            [
+              -6.44644559945604,
+              6.879544530740135
+            ]
+          ]
+        ]
+      },
+      "version": 7,
+      "timestamp": "2021-01-30T21:23:09Z"
+    }
+  ],
+  "osm": {
+    "type": "relation",
+    "id": 19619602,
+    "version": 1,
+    "timestamp": "2025-09-18T20:05:42Z",
+    "url": "https://www.openstreetmap.org/relation/19619602"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 104944092,
+      "version": 6,
+      "timestamp": "2021-01-30T21:23:09Z",
+      "url": "https://www.openstreetmap.org/way/104944092"
+    },
+    {
+      "type": "way",
+      "id": 104944087,
+      "version": 7,
+      "timestamp": "2021-01-30T21:23:09Z",
+      "url": "https://www.openstreetmap.org/way/104944087"
+    }
+  ],
+  "tags": {
+    "architect": "Minoru Yamasaki",
+    "architect:wikidata": "Q347215",
+    "building": "tower",
+    "name": "Century Plaza Towers",
+    "type": "multipolygon",
+    "wikidata": "Q1982044"
+  }
+}

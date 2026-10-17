@@ -1,0 +1,281 @@
+{
+  "id": "hollywood-bowl",
+  "name": "Hollywood Bowl",
+  "anchor": [
+    -118.338902,
+    34.112778
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 38760,
+      "sha256": "cd924507cb9e7ed29fb14f342e20a3f0266d257bbb57912e84e1c19ab03a903f"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 38760,
+      "sha256": "cd924507cb9e7ed29fb14f342e20a3f0266d257bbb57912e84e1c19ab03a903f"
+    }
+  },
+  "triangles": 986,
+  "boundsBlenderM": [
+    [
+      -33.758,
+      -26.301,
+      0
+    ],
+    [
+      35.111,
+      23.461,
+      24
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -118.3390934,
+          34.1129664
+        ],
+        [
+          -118.339082,
+          34.1129849
+        ],
+        [
+          -118.3390023,
+          34.1129542
+        ],
+        [
+          -118.3390038,
+          34.11295
+        ],
+        [
+          -118.3386391,
+          34.1128112
+        ],
+        [
+          -118.3386473,
+          34.1127877
+        ],
+        [
+          -118.3385678,
+          34.1127554
+        ],
+        [
+          -118.3386491,
+          34.1126034
+        ],
+        [
+          -118.3386039,
+          34.1125863
+        ],
+        [
+          -118.3386306,
+          34.112541
+        ],
+        [
+          -118.3387118,
+          34.1125718
+        ],
+        [
+          -118.3387052,
+          34.1125836
+        ],
+        [
+          -118.3387803,
+          34.1126127
+        ],
+        [
+          -118.3387923,
+          34.1125919
+        ],
+        [
+          -118.3388209,
+          34.1126036
+        ],
+        [
+          -118.3388083,
+          34.1126255
+        ],
+        [
+          -118.3388992,
+          34.112657
+        ],
+        [
+          -118.3389097,
+          34.1126367
+        ],
+        [
+          -118.3389375,
+          34.1126466
+        ],
+        [
+          -118.3389264,
+          34.1126687
+        ],
+        [
+          -118.3390133,
+          34.1127015
+        ],
+        [
+          -118.3390253,
+          34.1126821
+        ],
+        [
+          -118.3390551,
+          34.1126921
+        ],
+        [
+          -118.3390441,
+          34.1127107
+        ],
+        [
+          -118.3391256,
+          34.1127389
+        ],
+        [
+          -118.3391302,
+          34.1127308
+        ],
+        [
+          -118.3392183,
+          34.112763
+        ],
+        [
+          -118.3391934,
+          34.1128103
+        ],
+        [
+          -118.3392311,
+          34.1128259
+        ],
+        [
+          -118.3392339,
+          34.1128338
+        ],
+        [
+          -118.3392338,
+          34.1128405
+        ],
+        [
+          -118.3391893,
+          34.1129271
+        ],
+        [
+          -118.3391707,
+          34.1129254
+        ],
+        [
+          -118.3391438,
+          34.1129761
+        ],
+        [
+          -118.3391379,
+          34.112979
+        ],
+        [
+          -118.3391274,
+          34.1129803
+        ],
+        [
+          -118.3390934,
+          34.1129664
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 427527131,
+    "version": 1,
+    "timestamp": "2016-06-26T23:45:33Z",
+    "url": "https://www.openstreetmap.org/way/427527131"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 297126803,
+      "version": 2,
+      "timestamp": "2016-06-26T23:46:30Z",
+      "url": "https://www.openstreetmap.org/way/297126803"
+    },
+    {
+      "type": "way",
+      "id": 297126804,
+      "version": 2,
+      "timestamp": "2016-06-26T23:46:30Z",
+      "url": "https://www.openstreetmap.org/way/297126804"
+    },
+    {
+      "type": "way",
+      "id": 297126805,
+      "version": 2,
+      "timestamp": "2016-06-26T23:46:30Z",
+      "url": "https://www.openstreetmap.org/way/297126805"
+    },
+    {
+      "type": "way",
+      "id": 297126806,
+      "version": 2,
+      "timestamp": "2016-06-26T23:46:30Z",
+      "url": "https://www.openstreetmap.org/way/297126806"
+    },
+    {
+      "type": "way",
+      "id": 297126807,
+      "version": 2,
+      "timestamp": "2016-06-26T23:46:30Z",
+      "url": "https://www.openstreetmap.org/way/297126807"
+    },
+    {
+      "type": "way",
+      "id": 297126808,
+      "version": 2,
+      "timestamp": "2016-06-26T23:46:31Z",
+      "url": "https://www.openstreetmap.org/way/297126808"
+    }
+  ],
+  "wikidata": "Q976218",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/la-hollywood-bowl.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Hollywood Bowl: the band shell (2004, Hodgetts + Fung) and its stage buildings, Los Angeles — original procedural geometry, CC0-1.0. bun generators/la-hollywood-bowl.ts [out.glb]",
+    "Map frame: x east, y north, z up, metres; origin at the centroid of OSM way/427527131 (the shell and stage building), on the lowest ground under it (168.8 m, in front of the stage). Placed at bearing 24.5°, so +y runs back through the shell (north-north-east) and the shell opens to −y, towards the seats. The ground is flat to within a metre and a half.",
+    "What makes it the Bowl: the white shell, a semicircular arch of concentric rings stepping smaller towards the back, with three white pylons standing on its face (one at each shoulder, one on the crown), between two plain white wings carrying the video screens. The seating bowl is ground and isn't modelled.",
+    "Sources:",
+    "Plan: OSM way/427527131 (building, LARIAC 2020 footprint 459084863554, 24.2 m): the shell, the wings and the stage house in one outline, 65 × 28 m; the three notches on its front are the pylons (2.8–3.1 m wide, 11.8 m apart), so the shell's axis is 4.4 m east of the centroid. OSM way/133701914 is the whole amphitheatre (amenity=theatre, the seats included), not a building, so it isn't replaced. The building:parts 297126803–297126808 inside the outline (bits of the shell and stage roofs, 4–10 m) are covered by the model and replaced with it.",
+    "Heights: LA County 2006 lidar surface model (layer 8, 2 m grid in this frame) over USGS 3DEP bare earth 168.8–170.3 m: shell crown 189 m at the front (20 m), falling to 183 m at the back (14.5 m); pylon tops 193 m (24 m); the wings 4–11 m, the stage house behind the shell 9 m.",
+    "Proportions: photos (Wikimedia Commons), all from the seats, south-west of the shell — \"Hollywood Bowl - panoramio (1)\" (Grant Berg, CC BY-SA 3.0; square on, used for the ring and pylon proportions: outer arch a semicircle, opening 0.79 of it, pylons 3.5 m wide), \"Hollywood bowl and sign\" (Matthew Field, CC BY-SA 2.5), \"Hollywood Bowl 2016\" (CC BY 2.0), \"Hollywood Bowl 2024\" (Edwardrhodes06, CC BY-SA 4.0); \"HOLLYWOOD BOWL OVERLOOK\" (Jerrye and Roy Klotz, CC BY-SA 3.0; from above, the back).",
+    "Estimated: six rings (the lidar gives the taper, not the count), the ring depths, the screens' size; the stage's dark back wall.",
+    "Left out: the lighting truss and rigging in the shell, the speaker stacks, the green sound towers out in the seats, the stage platform.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"la-hollywood-bowl\", model \"la-hollywood-bowl\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/la-hollywood-bowl.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

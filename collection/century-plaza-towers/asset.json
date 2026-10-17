@@ -1,0 +1,143 @@
+{
+  "id": "century-plaza-towers",
+  "name": "Century Plaza Towers",
+  "anchor": [
+    -118.4134974,
+    34.0590575
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 13,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 53896,
+      "sha256": "c00384d1f608d7a447156156c8d2f5e4313a0d86e4065aeeb3e8d43e96a0f4c0"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 53896,
+      "sha256": "c00384d1f608d7a447156156c8d2f5e4313a0d86e4065aeeb3e8d43e96a0f4c0"
+    }
+  },
+  "triangles": 1004,
+  "boundsBlenderM": [
+    [
+      -77.376,
+      -83.112,
+      0
+    ],
+    [
+      77.382,
+      83.101,
+      175.2
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "MultiPolygon",
+    "coordinates": [
+      [
+        [
+          [
+            -118.4135673,
+            34.0591193
+          ],
+          [
+            -118.4143371,
+            34.0594068
+          ],
+          [
+            -118.4137083,
+            34.0598234
+          ],
+          [
+            -118.4135673,
+            34.0591193
+          ]
+        ]
+      ],
+      [
+        [
+          [
+            -118.4132978,
+            34.058291
+          ],
+          [
+            -118.4134368,
+            34.0589892
+          ],
+          [
+            -118.412642,
+            34.0587423
+          ],
+          [
+            -118.4132978,
+            34.058291
+          ]
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "relation",
+    "id": 19619602,
+    "version": 1,
+    "timestamp": "2025-09-18T20:05:42Z",
+    "url": "https://www.openstreetmap.org/relation/19619602"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 104944092,
+      "version": 6,
+      "timestamp": "2021-01-30T21:23:09Z",
+      "url": "https://www.openstreetmap.org/way/104944092"
+    },
+    {
+      "type": "way",
+      "id": 104944087,
+      "version": 7,
+      "timestamp": "2021-01-30T21:23:09Z",
+      "url": "https://www.openstreetmap.org/way/104944087"
+    }
+  ],
+  "wikidata": "Q1982044",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/la-century-plaza-towers.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Century Plaza Towers (1975, Minoru Yamasaki), Century City, Los Angeles: the twin 44-floor triangular towers as one model — original procedural geometry, CC0-1.0.",
+    "Frame: x along bearing 110.6° (east-south-east), y along 20.6°, z up, metres. Origin halfway between the two towers' centroids, on the plaza (flat: 84.3–85.2 m at every corner, USGS 3DEP). Placed at bearing 20.6°, so the two faces that look at each other across the plaza run along x.",
+    "Each tower is an equilateral triangle in plan with its three corners cut square, the second turned 180° to the first. What makes them read as themselves: the triangular prisms paired face to face, the solid aluminium corner piers and the solid aluminium band round the top, and the bronze glass between close aluminium mullions.",
+    "Evidence",
+    "Plans: LA County LARIAC 2020 lidar footprints 436553843997 (Tower II, south) and 436323844287 (Tower I, north): three 73 m faces at bearings 110.6°, 230.4°, 350.5° (and the reverse) with 2.2 m corner cuts, used as measured. OSM way/104944092 and way/104944087 (the outers of relation/19619602) agree within a metre but lack the corner cuts.",
+    "Heights: lidar roofs 175.2 m (II) and 174.4 m (I) over the ground; published 174 m / 571 ft, 44 floors (Wikipedia). OSM height 175.2 / 174.4.",
+    "Photos (Wikimedia Commons), looked at side by side with renders from the same side: c1 \"Century Plaza Towers (June 2026)\" (Busition, CC BY 4.0) — from the plaza between them, looking up at the two facing corners; c2 \"CenturyPlazaTowers\" (Minnaert, CC BY-SA 3.0) — from the south-west, Tower II in front, a knife corner and the top band; c3 \"Century Plaza Towers Century Park\" (Tony Hisgett, CC BY 2.0) — from the south-west on Avenue of the Stars, both towers, corner piers; c4 \"CenturyPlazaTowers CAA\" (Minnaert, CC BY-SA 3.0) — from the north-west; c5 \"Century Plaza Towers - In Explore\" (joey zanotti, CC BY 2.0) — the top band and corners from below.",
+    "Colour: the photos (bright natural aluminium, bronze glass, drawn #75695e), pulled to the palette's lightness.",
+    "Estimated: the bays and storey groups (the real facade is a close grid of 1.5 m aluminium mullions on each floor; drawn here as 9.6 m bays four floors tall with 1 m piers and 1.2 m spandrels, the reviewer's rule), the corner pier width (3 m of solid face beside each cut, from the photos), the top band (8 m), the lobby band (7 m, the recessed glass ground floors). Left out: the plaza, its gardens and the garage below it, roof equipment.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"la-century-plaza-towers\", model \"la-century-plaza-towers\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/la-century-plaza-towers.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

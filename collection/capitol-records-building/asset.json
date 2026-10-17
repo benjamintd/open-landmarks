@@ -1,0 +1,216 @@
+{
+  "id": "capitol-records-building",
+  "name": "Capitol Records Building",
+  "anchor": [
+    -118.3263646,
+    34.1031194
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 123152,
+      "sha256": "6679557a49e9acc6f1b9ef3372488ba9aa70725ce3f904238896548ef5c6805b"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 123152,
+      "sha256": "6679557a49e9acc6f1b9ef3372488ba9aa70725ce3f904238896548ef5c6805b"
+    }
+  },
+  "triangles": 4902,
+  "boundsBlenderM": [
+    [
+      -15.75,
+      -28.11,
+      0
+    ],
+    [
+      20.4,
+      26.85,
+      79.3
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -118.3262061,
+          34.1030569
+        ],
+        [
+          -118.3262307,
+          34.1030564
+        ],
+        [
+          -118.3262424,
+          34.1030437
+        ],
+        [
+          -118.3262396,
+          34.1028666
+        ],
+        [
+          -118.3265335,
+          34.1028652
+        ],
+        [
+          -118.3265354,
+          34.103164
+        ],
+        [
+          -118.3265311,
+          34.1031876
+        ],
+        [
+          -118.3265247,
+          34.1032047
+        ],
+        [
+          -118.3265142,
+          34.1032232
+        ],
+        [
+          -118.326511,
+          34.1033602
+        ],
+        [
+          -118.3261436,
+          34.1033622
+        ],
+        [
+          -118.3261433,
+          34.103316
+        ],
+        [
+          -118.3262457,
+          34.1033154
+        ],
+        [
+          -118.3262445,
+          34.1032769
+        ],
+        [
+          -118.3262335,
+          34.1032585
+        ],
+        [
+          -118.326211,
+          34.1032407
+        ],
+        [
+          -118.3261964,
+          34.1032179
+        ],
+        [
+          -118.3261625,
+          34.1032133
+        ],
+        [
+          -118.3261623,
+          34.1031856
+        ],
+        [
+          -118.3261532,
+          34.1031875
+        ],
+        [
+          -118.3261495,
+          34.1031742
+        ],
+        [
+          -118.326149,
+          34.1031523
+        ],
+        [
+          -118.3261506,
+          34.1031247
+        ],
+        [
+          -118.3261638,
+          34.1031245
+        ],
+        [
+          -118.3261632,
+          34.1030975
+        ],
+        [
+          -118.3262065,
+          34.1030977
+        ],
+        [
+          -118.3262061,
+          34.1030569
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 422141102,
+    "version": 5,
+    "timestamp": "2023-07-07T02:25:54Z",
+    "url": "https://www.openstreetmap.org/way/422141102"
+  },
+  "additionalOsm": [
+    {
+      "type": "way",
+      "id": 907834019,
+      "version": 1,
+      "timestamp": "2021-02-16T18:52:58Z",
+      "url": "https://www.openstreetmap.org/way/907834019"
+    },
+    {
+      "type": "way",
+      "id": 907834020,
+      "version": 1,
+      "timestamp": "2021-02-16T18:52:58Z",
+      "url": "https://www.openstreetmap.org/way/907834020"
+    }
+  ],
+  "wikidata": "Q2937482",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/la-capitol-records.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Capitol Records Building (1956, Welton Becket and Associates; Louis Naidorf), Hollywood — original procedural geometry, CC0-1.0. bun generators/la-capitol-records.ts [out.glb]",
+    "Map frame: x east, y north, z up, metres; origin at the OSM outline's centroid on the lowest ground under it (its south-west corner). Bearing 0: the outline is square to north. Vine St is to the east (+x), Yucca St to the north.",
+    "What makes it the Capitol Records tower: a round tower stacked with wide white sunshade discs, one per floor, so it reads as a stack of records on a spindle; the dark glass bands between them, broken by white piers; the crown, a dark sign ring around a small glass penthouse; and the tall white spire rising from the back (north) of the roof.",
+    "Sources:",
+    "Plan: OSM way/422141102 (outline, 13 levels, 46.8 m) and its parts way/907834019 (the tower, a circle r ≈ 15.3 centred at (-0.4, 4.0)) and way/907834020 (the two-storey wing that wraps it). The wing is extruded from the whole outline; the tower stands inside it.",
+    "Heights: LA County 2006 lidar surface model (2 m grid) over USGS 3DEP bare earth (lowest ground 119.0 m at the outline's south-west corner; the tower stands on ≈ 120.5 m): wing roof 7.3 m, tower roof 46.3 m, penthouse 53.3 m, a spire return of 79.3 m about 6 m north of the tower's centre, which places the spire at the penthouse's north edge (confirmed by the aerial p4). LARIAC 2020 footprint 202000150152: 45.1 m over its own ground. Published: 13 storeys, 150 ft (46 m) (Wikipedia).",
+    "Floors: 13 storeys over 44.8 m, 3.45 m each. Photos p8 and p2 show 11 glass bands with sunshades above a two-storey base, which the wing hides on every side except Vine St (photo p7: a plain white drum).",
+    "Sunshade discs: projecting ≈ 1.4 m from the glass, with a fascia ≈ 1.3 m deep (photos p1, p8: about 5% of the width each side), white on top, their outer edge turned down (at the silhouette each disc shows as a deep curved lip, p8). Twelve white piers round the tower (spacing measured on p1, ≈ 30°).",
+    "Crown: from the aerial p4 — a ring of radius ≈ 9.7 m (0.65 of the tower) carrying the sign, dark charcoal, on a lighter frame; inside it a glazed penthouse of radius ≈ 6.6 m with a pale roof; a low white parapet at the roof edge. The spire: a tapering white needle, ≈ 2.2 m at its foot (photos p3, p9), to the lidar's 79.3 m.",
+    "Photos (Wikimedia Commons): p1 \"Capitol Records Building LA\" (CC BY-SA 2.0, from the east); p2 \"Capitol Records Building, Hollywood (2573870208)\" (Rob Young, CC BY 2.0, from the south on Vine); p3 \"Capitol Records Building Hollywood\" (Andreas Praefcke, CC BY 3.0, from the south on Vine); p4 \"The Capitol Records Tower, a major landmark near the corner of Hollywood and Vine\" (Carol M. Highsmith, public domain, aerial from the south); p5 \"Capitol Records Tower from 101 Freeway, Hollywood, CA (4)\" (RgtmPnoMn, CC BY-SA 4.0, from the south-east); p6 \"Capitol Records Building LA - panoramio\" (Gfox228, CC BY 3.0); p7 \"Capitol Records\" (Mechanicalastro, CC BY-SA 4.0, base at Vine, dusk); p8 \"Capitol Records Building en juillet 2022\" (Benoît Prieur, CC0, from the south-east, the sunshade detail); p9 \"Detail of Architecture Including Capitol Records Building\" (Adam Jones, CC BY-SA 2.0, crown and spire).",
+    "Glass: the real glass reads pale and reflective behind the white discs (p3, p8), so it is the light sky grey-blue window variant.",
+    "Estimated: the glass radius (13.9 m), the discs' lip depth, the crown's proportions (from p4's oblique view), the wing's single roof height (the lidar shows 7 m on the north and south wings; the small lobby on Vine may be lower). Left out: the sign's lettering (the building is the landmark, not the sign), the flagpole, the \"Hollywood Jazz\" mural on the south wing, the wing's windows (no photo shows them clearly).",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"la-capitol-records\", model \"la-capitol-records\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/la-capitol-records.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}

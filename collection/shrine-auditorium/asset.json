@@ -1,0 +1,222 @@
+{
+  "id": "shrine-auditorium",
+  "name": "Shrine Auditorium",
+  "anchor": [
+    -118.2813407,
+    34.0234236
+  ],
+  "heading": 0,
+  "units": "metres",
+  "axes": "X east / Y up / Z south",
+  "minZoom": 15,
+  "detailZoom": 17,
+  "lods": {
+    "low": {
+      "url": "low.glb",
+      "bytes": 59008,
+      "sha256": "07491a94ac0ca2d922a2962ee6f0040538d36b1c84a3cb9308cb6459033364b0"
+    },
+    "detail": {
+      "url": "detail.glb",
+      "bytes": 59008,
+      "sha256": "07491a94ac0ca2d922a2962ee6f0040538d36b1c84a3cb9308cb6459033364b0"
+    }
+  },
+  "triangles": 1430,
+  "boundsBlenderM": [
+    [
+      -73.703,
+      -84.297,
+      0
+    ],
+    [
+      78.148,
+      90.379,
+      38.8
+    ]
+  ],
+  "entranceLights": [],
+  "replacementFootprint": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -118.280891,
+          34.0242126
+        ],
+        [
+          -118.2808858,
+          34.0242209
+        ],
+        [
+          -118.280531,
+          34.0240663
+        ],
+        [
+          -118.280537,
+          34.0240568
+        ],
+        [
+          -118.2805035,
+          34.0240422
+        ],
+        [
+          -118.2805629,
+          34.0239476
+        ],
+        [
+          -118.28057,
+          34.0239507
+        ],
+        [
+          -118.2809789,
+          34.0233
+        ],
+        [
+          -118.2809222,
+          34.0232751
+        ],
+        [
+          -118.2813145,
+          34.0226662
+        ],
+        [
+          -118.2821393,
+          34.0230302
+        ],
+        [
+          -118.2820797,
+          34.0231245
+        ],
+        [
+          -118.2821068,
+          34.0231363
+        ],
+        [
+          -118.2820954,
+          34.0231545
+        ],
+        [
+          -118.2821028,
+          34.0231577
+        ],
+        [
+          -118.282045,
+          34.0232497
+        ],
+        [
+          -118.2820379,
+          34.0232466
+        ],
+        [
+          -118.2820274,
+          34.0232632
+        ],
+        [
+          -118.2820211,
+          34.0232605
+        ],
+        [
+          -118.2818243,
+          34.0235737
+        ],
+        [
+          -118.2818274,
+          34.0235751
+        ],
+        [
+          -118.2818151,
+          34.0235946
+        ],
+        [
+          -118.2818183,
+          34.0235959
+        ],
+        [
+          -118.2817668,
+          34.0236766
+        ],
+        [
+          -118.2817887,
+          34.023686
+        ],
+        [
+          -118.2816881,
+          34.0238434
+        ],
+        [
+          -118.2816277,
+          34.0238165
+        ],
+        [
+          -118.2815781,
+          34.0238942
+        ],
+        [
+          -118.2816165,
+          34.0239111
+        ],
+        [
+          -118.2816044,
+          34.02393
+        ],
+        [
+          -118.2812199,
+          34.0237598
+        ],
+        [
+          -118.2809221,
+          34.0242262
+        ],
+        [
+          -118.280891,
+          34.0242126
+        ]
+      ]
+    ]
+  },
+  "basemapReplacement": null,
+  "osm": {
+    "type": "way",
+    "id": 407613039,
+    "version": 5,
+    "timestamp": "2026-06-06T02:16:41Z",
+    "url": "https://www.openstreetmap.org/way/407613039"
+  },
+  "additionalOsm": [],
+  "wikidata": "Q731437",
+  "rightsStatus": "review-required",
+  "geometryStatus": "draft",
+  "attribution": "Open Landmarks; contains © OpenStreetMap contributors, ODbL-1.0; model by Alex Wohlbruck (https://github.com/alexwohlbruck/landmarks).",
+  "references": [],
+  "modelSources": [],
+  "aliases": [],
+  "authors": [
+    "Alex Wohlbruck"
+  ],
+  "artisticLicense": "CC-BY-4.0",
+  "spatialDataLicense": "ODbL-1.0",
+  "licenseScope": "CC BY applies to original artistic contributions only; ODbL applies to OSM-derived spatial data. Reference photographs retain their own licenses.",
+  "assistance": "AI-assisted (Claude): the TypeScript generator generators/la-shrine-auditorium.ts was written from the open evidence in the modelling notes (OSM, public lidar and aerials, licensed photographs, published dimensions), reviewed by a human against reference photos, and exported deterministically. No photographic textures.",
+  "review": {
+    "status": "pending",
+    "reviewer": null,
+    "checks": {}
+  },
+  "modelingNotes": [
+    "Shrine Auditorium (Al Malaikah Temple, 1926, John C. Austin with A. M. Edelman and G. Albert Lansburgh), Los Angeles — procedural, CC0-1.0. bun generators/la-shrine-auditorium.ts",
+    "Map frame: x across the building, y along it, z up, metres. Placed at bearing 28°, the long sides of OSM way/407613039, so +y runs north-north- east from Jefferson Boulevard and -x faces the parking lot on the west-north-west, where the main front stands between its two domed towers. The anchor is the outline's area centroid, on the lowest ground under it (57.4 m, USGS 3DEP; the site is flat to a metre and a half).",
+    "What makes it the Shrine: the Moorish Revival front, two square towers at its corners stepping up to drums and gold domes, five great round arches at the foot of the front and a long row of small arched windows over them; the pale peach stucco; the wide, shallow dome of the auditorium roof rising behind; the arcaded wing along Jefferson Boulevard.",
+    "Sources:",
+    "Plan: OSM way/407613039 (35.1 m) and LARIAC 2020 footprint 476299831096 (35.06 m): the auditorium, the Jefferson wing, a low block to the north and the long gabled hall behind, which the outline takes in.",
+    "Heights: LA County 2006 lidar surface model, 3 m grid in this frame: front 21.6 m, the hall's walls 24 m and its dome 34.6 m, the stage house 30 m, the domed towers 24 m to the shaft, the domes' crowns 36.5 m and finials 40 m (1 m lidar samples), the Jefferson wing and north block 11.6 m, the hall's eaves 11.6 m and ridge 16.6 m. Dome positions from the NAIP orthophoto.",
+    "Photos (Wikimedia Commons): \"Al Malaikah Temple-Shrine Auditorium\" and \"Al Malaikah Temple - Shrine Auditorium\" (Bruce Boehner, CC BY-SA 3.0; the front square on and from the south-west), MikeJiroch's 2013 series (CC BY-SA 3.0; the Jefferson arcade, the domes), \"Shrine Auditorium spire\" and \"Shrine Auditorium side\" (Dreamyshade, CC BY-SA 3.0; the towers' steps and drums), \"The Shrine Auditorium - Al Malaikah Temple\" (Stephanie Kemna, CC BY-SA 3.0).",
+    "Estimated: the towers' stages, drum and dome proportions (from photos), the arch and window counts, the wing's arcade.",
+    "Left out: the crescent finials' detail, tile ornament, lamps, signs, the expo hall's skylights.",
+    "Original procedural model from https://github.com/alexwohlbruck/landmarks (catalog id \"la-shrine-auditorium\", model \"la-shrine-auditorium\"), generated by https://github.com/alexwohlbruck/landmarks/blob/c3921f733df14b41e1f6d15853cce7b343886f17/generators/la-shrine-auditorium.ts. That repository is the editable source; source.blend.gz is the exported mesh imported into Blender for convenience.",
+    "Exported for Open Landmarks v1: placement bearing and scale baked in; moving parts frozen in their rest pose; footings and basements below the lowest ground (y = 0) cut away; material colours carried over exactly, as library finishes where they are not standard swatches."
+  ],
+  "source": "source.blend.gz",
+  "spatialSource": "spatial-source.json",
+  "preview": "preview.webp"
+}
